@@ -103,6 +103,8 @@ ppk_htmls.each_with_index do |chunk, index|
           else
             raw_coordinate = properties.last.text
           end
+          ppk_array[6] = ''
+          ppk_array[7] = ''
           begin
             ppk_array[7] = parse_coordinate(raw_coordinate)[:coordinates_decimal].reverse.join(',')
           rescue
