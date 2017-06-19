@@ -56,7 +56,8 @@ def clean_coordinate(coordinate="dan 980 30' 48\" BT\r\n")
   coordinate.gsub(/\s/, '').gsub(' dan ', '').gsub('’', "'").gsub('o', '°')
 end
 
-ppk_htmls = Dir.entries('htmls')[2..-1]
+ppk_htmls       = Dir.entries('htmls')[2..-1]
+unresolved_html = []
 csv_string = CSV.generate(
   write_headers: true,
   headers: [
@@ -67,8 +68,7 @@ csv_string = CSV.generate(
     "Kabupaten",
     "Kecamatan",
     "Coordinate Degree",
-    "Coordinate Decimal",
-    "Url"
+    "Coordinate Decimal"
   ]
 ) do |csv|
   ppk_htmls.each do |html|
@@ -80,10 +80,10 @@ csv_string = CSV.generate(
     f.close
     table_contents = nokogiri.css('#text_warp>table>tr')
     if !table_contents.first
+      unresolved_html << html
       `echo "bad data on htmls/#{html}" >> error_logs`
       next
     end
-    ppk_array[8] = ISLAND_INFO_URL + html
     ppk_array[0] = html
     ppk_array[1] = nokogiri.css('h1').first
     table_contents.each do |content|
@@ -94,7 +94,7 @@ csv_string = CSV.generate(
       when 'Propinsi'
         ppk_array[3] = properties.last.text
       when 'Kabupaten'
-        ppk_array[4] = properties.last.text
+        ppk_array[4] = properties.last.text.gsub('KABUPATEN', 'Kab.')
       when 'Kecamatan'
         ppk_array[5] = properties.last.text
       when 'Koordinat'
@@ -110,12 +110,16 @@ csv_string = CSV.generate(
         else
           raw_coordinate = properties.last.text
         end
-        ppk_array[6] = raw_coordinate
-        ppk_array[7] = parse_coordinate(raw_coordinate)[:coordinates_decimal].reverse.join(',') rescue ''
+        begin
+          ppk_array[7] = parse_coordinate(raw_coordinate)[:coordinates_decimal].reverse.join(',')
+        rescue
+          ppk_array[6] = raw_coordinate
+        end
       end
     end
     csv << ppk_array
   end
+  unresolved_html.each { |html| csv << [html] }
 end
 
 File.write('island_with_administrative_area.csv', csv_string)
