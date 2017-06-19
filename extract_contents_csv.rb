@@ -4,8 +4,8 @@ require 'fileutils'
 require 'byebug'
 require 'csv'
 
-ISLAND_INFO_URL = 'http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_info/'
-
+ISLAND_INFO_URL     = 'http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_info/'
+PROVINCE_NAME_INDEX = 3
 def parse_coordinate(coordinate_text)
   results = { coordinates_degree: coordinate_text, coordinates_decimal: [] }
   if coordinate_text.split('LS').length > 1
@@ -56,70 +56,92 @@ def clean_coordinate(coordinate="dan 980 30' 48\" BT\r\n")
   coordinate.gsub(/\s/, '').gsub(' dan ', '').gsub('’', "'").gsub('o', '°')
 end
 
-ppk_htmls       = Dir.entries('htmls')[2..-1]
+ppk_htmls       = Dir.entries('htmls')[2..-1].each_slice(1000)
 unresolved_html = []
-csv_string = CSV.generate(
-  write_headers: true,
-  headers: [
-    "Island number",
-    "Island name",
-    "Other Names",
-    "Province",
-    "Kabupaten",
-    "Kecamatan",
-    "Coordinate Degree",
-    "Coordinate Decimal"
-  ]
-) do |csv|
-  ppk_htmls.each do |html|
-    ppk_array = []
-    `echo #{html} >> logs`
-    nokogiri = ''
-    f = File.open "htmls/#{html}"
-    nokogiri = Nokogiri::HTML(f.read)
-    f.close
-    table_contents = nokogiri.css('#text_warp>table>tr')
-    if !table_contents.first
-      unresolved_html << html
-      `echo "bad data on htmls/#{html}" >> error_logs`
-      next
-    end
-    ppk_array[0] = html
-    ppk_array[1] = nokogiri.css('h1').first
-    table_contents.each do |content|
-      properties = content.css('td')
-      case properties.first.text # Property Key
-      when 'Nama Lain'
-        ppk_array[2] = properties.last.text
-      when 'Propinsi'
-        ppk_array[3] = properties.last.text
-      when 'Kabupaten'
-        ppk_array[4] = properties.last.text.gsub('KABUPATEN', 'Kab.')
-      when 'Kecamatan'
-        ppk_array[5] = properties.last.text
-      when 'Koordinat'
-        if properties.css('table').length > 0
-          raw_coordinate = properties.css('table').text.gsub("\r\n", '').gsub("\t", '')
-          `echo #{ppk_array[8]} >> posible_bugs`
-        elsif properties.last.css('sup').length > 0
-          clean_coordinate = Nokogiri::HTML(properties.last.children[0].children.to_s.gsub('<sup>0</sup>', '°'))
-          raw_coordinate = clean_coordinate.text
-        elsif properties.last.text.match(/\?/)
-          raw_coordinate = properties.last.text.gsub('?', '°')
-          `echo #{ppk_array[8]} >> posible_bugs`
-        else
-          raw_coordinate = properties.last.text
-        end
-        begin
-          ppk_array[7] = parse_coordinate(raw_coordinate)[:coordinates_decimal].reverse.join(',')
-        rescue
-          ppk_array[6] = raw_coordinate
+results = {}
+
+mutex = Mutex.new
+threads = []
+ppk_htmls.each_with_index do |chunk, index|
+  threads << Thread.new do
+    `echo 'Thread #{index} started' >> logs`
+    chunk.each do |html|    
+      ppk_array = []
+      nokogiri = ''
+      f = File.open "htmls/#{html}"
+      nokogiri = Nokogiri::HTML(f.read)
+      f.close
+      table_contents = nokogiri.css('#text_warp>table>tr')
+      if !table_contents.first
+        unresolved_html << html
+        `echo "bad data on htmls/#{html}" >> error_logs`
+        next
+      end
+      ppk_array[0] = html
+      ppk_array[1] = nokogiri.css('h1').first.text
+      table_contents.each do |content|
+        properties = content.css('td')
+        case properties.first.text # Property Key
+        when 'Nama Lain'
+          ppk_array[2] = properties.last.text
+        when 'Propinsi'
+          ppk_array[3] = properties.last.text
+        when 'Kabupaten'
+          ppk_array[4] = properties.last.text.gsub('KABUPATEN', 'Kab.')
+        when 'Kecamatan'
+          ppk_array[5] = properties.last.text
+        when 'Koordinat'
+          if properties.css('table').length > 0
+            raw_coordinate = properties.css('table').text.gsub("\r\n", '').gsub("\t", '')
+            `echo #{ppk_array[8]} >> posible_bugs`
+          elsif properties.last.css('sup').length > 0
+            clean_coordinate = Nokogiri::HTML(properties.last.children[0].children.to_s.gsub('<sup>0</sup>', '°'))
+            raw_coordinate = clean_coordinate.text
+          elsif properties.last.text.match(/\?/)
+            raw_coordinate = properties.last.text.gsub('?', '°')
+            `echo #{ppk_array[8]} >> posible_bugs`
+          else
+            raw_coordinate = properties.last.text
+          end
+          begin
+            ppk_array[7] = parse_coordinate(raw_coordinate)[:coordinates_decimal].reverse.join(',')
+          rescue
+            ppk_array[6] = raw_coordinate
+          end
         end
       end
+      
+      # Split into province
+      mutex.synchronize do
+        results[ppk_array[PROVINCE_NAME_INDEX]] ||= []
+        results[ppk_array[PROVINCE_NAME_INDEX]] << ppk_array
+      end
     end
-    csv << ppk_array
+    `echo 'Thread #{index} ended' >> logs`
   end
-  unresolved_html.each { |html| csv << [html] }
 end
 
-File.write('island_with_administrative_area.csv', csv_string)
+`echo 'started writing into files' >> logs`
+
+threads.each(&:join)
+results.each do |province_name, province|
+  csv_string = CSV.generate(
+      write_headers: true,
+      headers: [
+        "Island number",
+        "Island name",
+        "Other Names",
+        "Province",
+        "Kabupaten",
+        "Kecamatan",
+        "Coordinate Degree",
+        "Coordinate Decimal"
+      ]) do |csv|
+    province.each do |island|
+      csv << island        
+    end
+  end
+  File.open("results/#{province_name}.csv", 'w') do |f|
+    f.write csv_string
+  end
+end
