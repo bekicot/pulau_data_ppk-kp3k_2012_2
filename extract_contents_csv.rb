@@ -1,13 +1,14 @@
 require 'nokogiri'
 require 'json'
 require 'fileutils'
-require 'byebug'
 require 'csv'
 require 'optparse'
 require 'net/http'
 require 'logger'
 
 # Parsing Commandline Arguments
+puts 'Parsing Arguments'
+
 options = {}
 OptionParser.new do |opts|
   opts.banner = "Usage: example.rb [options]"
@@ -28,6 +29,7 @@ ISLAND_INDEX_URL    = 'http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/p
 
 PROVINCE_NAME_INDEX = 3
 
+puts 'Initilizing logger'
 LOGGER = Logger.new(options[:logger] || 'logs')
 
 def parse_coordinate(coordinate_text)
@@ -81,10 +83,13 @@ def clean_coordinate(coordinate="dan 980 30' 48\" BT\r\n")
 end
 
 def rebuild_cache
+  LOGGER.info('Rebuilding cache')
   index_page = Nokogiri::HTML(Net::HTTP.get(URI(ISLAND_INDEX_URL)))
   LOGGER.info('Fetching started')
+  i = 0
   index_page.css('td a').each do |link|
     tries = 3
+    LOGGER.info("fetching #{i}..#{i + 100}") if i % 100 == 0
     begin
       url = URI(link.attr('href'))
       File.write("htmls/#{url.to_s.split('/').last}", Net::HTTP.get(url))
@@ -92,6 +97,7 @@ def rebuild_cache
       retry unless (tries -1 ).zero?
       LOGGER.error(e.message + " #{url.to_s}")
     end
+    i += 1
   end
 end
 
