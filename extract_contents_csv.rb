@@ -19,7 +19,6 @@ OptionParser.new do |opts|
 
   opts.on("-t", "--travis", "Run as travis") do |v|
     options[:logger] = STDOUT
-    options[:rebuild_cache] = v
   end
 end.parse!
 
