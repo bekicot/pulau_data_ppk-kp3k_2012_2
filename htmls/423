@@ -1,0 +1,480 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Pulau ARARKULA</title>
+
+<meta charset="utf-8"/>
+
+<meta property="fb:app_id" content="559408774147878" />
+
+
+<meta property="og:title" content="Pulau ARARKULA" />
+<meta property="og:url" content="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_info/423" />
+
+
+    <script type="text/javascript" src="http://ajax.microsoft.com/ajax/jquery/jquery-1.4.4.min.js">
+    </script>
+    
+    <script type="text/javascript" src="http://plugins.learningjquery.com/expander/jquery.expander.js">
+    </script>
+    
+    <script type="text/javascript">
+        $(function () {
+            $('div.readmore').expander({
+                slicePoint:200,
+                expandText: '(Baca selengkapnya)',
+                userCollapseText: '(Sembunyikan selengkapnya)'
+            });
+        });
+    </script>
+        
+	<script src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/galleria/galleria-1.2.8.min.js"></script>
+
+        <SCRIPT TYPE="text/javascript">
+            <!--
+            //Disable right click script
+            //visit http://www.rainbow.arch.scriptmania.com/scripts/
+            var message="Sorry, right-click has been disabled";
+            ///////////////////////////////////
+            function clickIE() {if (document.all) {(message);return false;}}
+            function clickNS(e) {if
+            (document.layers||(document.getElementById&&!document.all)) {
+            if (e.which==2||e.which==3) {(message);return false;}}}
+            if (document.layers)
+            {document.captureEvents(Event.MOUSEDOWN);document.onmousedown=clickNS;}
+            else{document.onmouseup=clickNS;document.oncontextmenu=clickIE;}
+            document.oncontextmenu=new Function("return false")
+            // -->
+            </SCRIPT>
+            
+            <SCRIPT TYPE="text/javascript">
+            <!--
+            //Disable select-text script (IE4+, NS6+)
+            //visit http://www.rainbow.arch.scriptmania.com/scripts/
+            ///////////////////////////////////
+            function disableselect(e){
+            return false
+            }
+            function reEnable(){
+            return true
+            }
+            //if IE4+
+            document.onselectstart=new Function ("return false")
+            //if NS6
+            if (window.sidebar){
+            document.onmousedown=disableselect
+            document.onclick=reEnable
+            }
+            // -->
+            </SCRIPT>  
+              
+<link rel="stylesheet" type="text/css" href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/css/main.css" media="screen"/>
+<style type='text/css'>
+#info_wrap{
+	width:820px;
+	margin:0 auto;
+	text-shadow:0px 1px 1px #09F;
+}
+table{
+	color:#000000;
+}
+h1{
+	color:#000000;
+}
+.tengahin{
+	width: 105px;
+	height: 30px;
+	margin: 0 auto auto auto;
+}
+#box_view{
+	background-image:-webkit-gradient(linear, 0 0%, 0 100%, from(#FFFFFF), to(#E0F0F5));
+	background:#FFF;
+	color:#F60;
+	border: 1px solid #fff;
+	border-radius: 4px 4px 4px 4px;
+	box-shadow: 0 8px 6px -6px black;
+	position:fixed;
+	right:0;
+	top:150px;;
+	width:80px;
+	z-index:10;
+	padding-left:12px;
+	font-size:10px;
+	}
+#box_view li{
+	color:#F60;
+	margin-left:-30px;
+	}
+	#wrapper a b {
+	color: #FFF;
+	font-size:14px;
+}
+.batas{
+	float:left;
+	border-right-style:inset;
+	border-right-width:thin;
+	}
+.text_h_wrap{
+	
+	padding-left:450px;
+	padding-top:39px;
+	text-shadow:0px 1px 1px #09F;
+	}
+#wrapper .footer p{
+	font-size:12px;
+	color: #FFF;
+	text-align:center;
+	text-shadow:0px 1px 1px #09F;
+}
+td,th {
+	font-size: 12px;
+}
+
+marquee a{
+	color:#FFF
+	}
+#wrapper .footer a{
+	color: #FFFFFF;
+}
+</style>
+            
+<script>
+function goBack()
+  {
+  window.history.back()
+  }
+</script>
+<script type="text/javascript">
+function Popup( url, height, width )
+{
+    var windowProperties = "toolbar = 0, scrollbars = 1, location = 0, statusbar = 0, menubar = 0, resizable = 1, width = " + width + ", height = " + height + ", left = 50, top = 50";
+ 
+    return window.open( url, "", windowProperties );
+}
+</script>
+
+
+
+</head>
+<body oncontextmenu='return false;' onkeydown='return false;' onmousedown='return false;'>
+
+<a id="top_view"></a>
+<div id="wrapper">
+<div class="header_wrap">
+<div class="text_h_wrap">
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/home_page'><b>&nbsp;Home&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/menu_info/1'><b>&nbsp;About Us&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_data'><b>&nbsp;Direktori Pulau&nbsp;&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/program_ip'><b>&nbsp;IKU&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/data_ppkt'><b>&nbsp;PPKT&nbsp;</b></a>
+</div>
+<!--<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/maintenance'><b>&nbsp;Login&nbsp;</b></a>-->
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/dir_log_cont'><b>&nbsp;Login&nbsp;</b></a>
+
+</div>
+</div>
+</div>
+
+<div id="fb-root"></div>
+<script>
+  window.fbAsyncInit = function() {
+    // init the FB JS SDK
+    FB.init({
+      appId      : '559408774147878',                        // App ID from the app dashboard
+      status     : true,                                 // Check Facebook Login status
+      xfbml      : true                                  // Look for social plugins on the page
+    });
+
+    // Additional initialization code such as adding Event Listeners goes here
+  };
+
+  // Load the SDK asynchronously
+  (function(){
+     // If we've already installed the SDK, we're done
+     if (document.getElementById('facebook-jssdk')) {return;}
+
+     // Get the first script element, which we'll use to find the parent node
+     var firstScriptElement = document.getElementsByTagName('script')[0];
+
+     // Create a new script element and set its id
+     var facebookJS = document.createElement('script'); 
+     facebookJS.id = 'facebook-jssdk';
+
+     // Set the new script's source to the source of the Facebook JS SDK
+     facebookJS.src = '//connect.facebook.net/en_US/all.js';
+
+     // Insert the Facebook JS SDK into the DOM
+     firstScriptElement.parentNode.insertBefore(facebookJS, firstScriptElement);
+   }());
+</script>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=559408774147878";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="box_view">
+    <a href="#top_view">MENU</a>
+    <h3><p>Lihat Informasi:</p></h3>
+    <ul>
+	<a href="#sf"><li>Slide Foto</li></a>
+    <a href="#gu"><li>Gambaran Umum</li></a>
+    <a href="#ksbk"><li>Kependudukan, Sosial Budaya dan Kelembagaan</li></a>
+    <a href="#eshp"><li>Ekosistem dan Sumberdaya Hayati</li></a>
+    <a href="#snh"><li>Sumberdaya Non Hayati</li></a>
+    <a href="#aps"><li>Aktivitas Pengelolaan Sumberdaya</li></a>
+    <a href="#ling"><li>Lingkungan</li></a>
+    <a href="#sp"><li>Sarana dan Prasarana</li></a>
+    <a href="#pi"><li>Peluang Investasi</li></a>
+    <a href="#pap"><li>Potensi Arahan Pengembangan</li></a>
+    <a href="#kp"><li>Kendala Pengembangan</li></a>
+	<a href="#rf"><li>Referensi</li></a>
+    </ul>
+    <a href="#fb_comn">KOMENTAR</a>
+</div>
+
+<br>
+			<a id="sf"></a></h2>
+			<div id="galleria">
+            <!--<div class='tengahin'><input type="button" value="Kembali Ke List" onclick="goBack()"></div>-->
+                            </div>
+            
+            <script>
+            Galleria.loadTheme('http://www.ppk-kp3k.kkp.go.id/direktori-pulau/galleria/themes/classic/galleria.classic.min.js');
+            Galleria.run('#galleria');
+            </script>
+</div>
+
+<div id="text_warp">
+
+
+<p><h1>ARARKULA</h1></p>
+<table>
+<tr>
+	<td>Nama Lain</td> <td>:</td> <td></td>
+</tr>
+<tr>
+	<td>Propinsi</td> <td>:</td> <td>MALUKU</td>
+</tr>
+<tr>
+	<td>Kabupaten</td> <td>:</td> <td>KABUPATEN KEPULAUAN ARU</td>
+</tr>
+<tr>
+	<td>Kecamatan</td> <td>:</td> <td>ARU TENGAH</td>
+</tr>
+<tr>
+	<td>Koordinat</td> <td>:</td> <td><a href="http://www.ppk-kp3k.kkp.go.id/giskkp/index.html?extent="target="_blank"></a></td>
+</tr>
+</table>
+<hr>
+
+<h2><a id="gu">Gambaran Umum</a></h2>
+<p><div class="readmore"><p>
+	&nbsp;</p>
+<p style="text-align: justify;">
+	Pulau Ararkula yang merupakan salah satu dari 8 pulau kecil terluar di Kabupaten Kepulauan Aru. Di pulau ini terdapat titik dasar (TD) no. 097 dan titik referensi no (TR) 097. Masyarakat setempat menyebut pulau ini dengan nama <strong>P. Wanang</strong>, sedangkan <strong>Ararkula</strong> merupakan gosong pasir yang muncul pada saat air surut dan merupakan tempat penambangan pasir bagi masyarakat desa di sekitarnya.</p>
+<p style="text-align: justify;">
+	Pulau Ararkula termasuk dalam wilayah Kecamatan Aru Tengah, petuanan Desa Selmona, Kabupaten Kepulauan Aru, Maluku.</p>
+<p style="text-align: justify;">
+	Secara Geografs Pulau Ararkula terletak antara 05<sup>o </sup>35&rsquo; 42&rdquo; LS &ndash; 134<sup>o </sup>49&rsquo; 05&rdquo; BT. Perhitungan menggunakan data lapang, hasil analisis peta dan data citra satelit, total luas dataran Pulau Ararkula adalah 0,1186 km<sup>2</sup> dengan keliling pulau 1,271 km.</p>
+<p style="text-align: justify;">
+	Untuk mencapai P. Ararkula, perjalanan dimulai dari &nbsp;ibukota Kabupaten Kepulauan Aru (Dobo) menuju Desa Selmona. Tidak ada transportasi umum atau reguler yang menghubungkan Desa Selmona dengan Dobo, sehingga harus menyewa <em>speed boat. </em>Untuk mencapai Desa Selmona dibutuhkan waktu antara 4 jam hingga 5 jam.</p>
+<p style="text-align: justify;">
+	Dari Desa Salmona, perjalanan dilanjutkan menuju P. Ararkula, dengan waktu sekitar 5 hingga 6 jam, melewati selat (masyarakat di sana menyebut-nya <strong><em>sungai</em></strong>) antara P. Wokam dan P. Kola.&nbsp;</p>
+</div></p>
+
+<hr>
+
+<h2><a id="ksbk">Kependudukan, Sosial Budaya dan Kelembagaan</a></h2>
+<p><div class="readmore"><p>
+	&nbsp;</p>
+<p style="text-align: justify;">
+	Masyarakat yang mengakses Pulau Ararkula berasal dari 3 desa masing-masing Selmona, Berdefan dan Kompane. Selmona memiliki jumlah penduduk sebanyak 403 jiwa, laki-laki berjumlah 198 jiwa dan perempuan 205 jiwa; desa Berdefan ber-penduduk 219 jiwa, laki-laki sebanyak 121 jiwa dan perempuan 98 jiwa; dan desa Kompane berpenduduk 338 jiwa, laki-laki sebanyak 157 jiwa dan perempuan 181 jiwa. Berdasakan kelompok umur, penduduk usia produktif di Selmona sebesar 63,52 %, di Berdefan 49,77 % dan di Kompane 63,02 %. Distribusi penduduk usia produktif ini seharusnya menjadi kekuatan bagi tiap desa untuk mengembangkan ekonomi masyarakatnya.</p>
+<p style="text-align: justify;">
+	Distribusi kepala keluarga di kedua desa ini masing-masing, di Selmona sebanyak 79 KK, kepala keluarga laki-laki 74 orang dan kepala keluarga perempuan 5 orang; di Berdefan jumlah kepala keluarga 69 KK, laki-laki 63 orang dan perempuan 6 orang; serta di Kompane jumlah kelapa keluarga 74 KK, laki-laki 55 orang dan perempuan 19 orang. Berdasarkan distribusi tingkat kesejahteraan keluarga menurut kriteria BKKBN, Selmona hanya memiliki keluarga sejahtera sebesar 2,53 %, Berdefan 2,90 % dan Kompane sebesar 4,05 %. Hal ini berarti masyarakat yang mengakses Pulau Ararkula masih memiliki kelompok masyarakat di bawah garis kemiskinan lebih dari 95 %. Kondisi ini tidak seharusnya terjadi apabila masyarakat dapat meningkatan akses mereka dalam pemanfaatan sumberdaya alam yang dimiliki. Dengan demikian sangat diharapkan adanya upaya pengembangan kapasitas masyarakat dalam kegiatan produksi dan akses terhadap distribusi hasil produksinya.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="eshp">Ekosistem dan Sumberdaya Hayati</a></h2>
+<p><div class="readmore"><p>
+	&nbsp;</p>
+<p>
+	<strong>Potensi Sumberdaya Teresterial</strong></p>
+<p style="text-align: justify;">
+	Keanekaragaman flora dan fauna di lingkungan ekosistem daratan Pulau Ararkula relatif kecil atau terbatas. Hal ini ditunjukkan dengan tidak ditemukannya kawasan hutan alam yang memiliki tingkat heterogen tumbuhan dan satwa. Jenis tumbuhan yang teridentifikasi kebanyakan merupakan vegetasi budidaya seperti kela-pa, pisang, bambu serta beberapa jenis tumbuhan kayu seperti ketapang, pandanus. Tumbuhan yang terkait dengan usaha pertanian seperti beberapa jenis sayuran. Keberadaan flora di pulau ini karena aktivitas masyarakat sekitar yang mempunyai akses ke pulau ini sering memanfaatkan pulau ini sebagai lahan pertanian maupun perkebunan. Jenis fauna yang ditemukan pada P. Ararkula diantaranya burung (elang dan burung dara), ular, kadal dan tikus.</p>
+<p style="text-align: justify;">
+	<strong>Potensi Sumberdaya Pesisir dan Laut</strong></p>
+<h5 style="text-align: justify;">
+	<strong style="font-size: 12px;">Terumbu Karang</strong></h5>
+<p style="text-align: justify;">
+	Berdasarkan data hasil citra satelit diperoleh informasi dimensi terumbu karang P. Ararkula yaitu panjang terumbu karangnya mencapai 9,78 km dengan lebar terumbu yang relatif kecil yaitu antara 0,19 km. Pada batas sekitar areal surut rendah terdapat sejumlah batuan berupa limestone dan karang mati yang ditempati oleh organisme laut seperti alga dan biota bentik lain. Karang ditemukan tumbuh sepanjang areal-areal kanal yang dangkal setelah batas surut rendah dan sebaran karang batu hanya dite-mukan mencapai kedalaman sekitar 3 meter.</p>
+<p style="text-align: justify;">
+	Akibat pengaruh pasang surut dan gelombang laut yang menyebabkan kekeruhan secara periodik sehingga sangat mempengaruhi pertumbuhan karang serta perkembangan terumbu karang. Karang batu memiliki persen tutupan substrat dasar terumbu relatif lebih tinggi dari komponen biota laut lainnya. Selain itu, karang batu kategori Non-<em>Acropora</em> memiliki persen tutupan dasar lebih tinggi dari karang batu dari kategori <em>Acropora</em>. Secara rinci, data tentang komponen abiotik menunjukan persen tutupan dasar areal terumbu oleh pasir sangat besar dibanding karang mati ditutupi alga maupun patahan karang mati.</p>
+<p style="text-align: justify;">
+	Nilai persen tutupan karang Acropora dan Non-Acropora berpolip kecil rendah, demikian juga variasi bentuk tumbuh karang batu pada areal terumbu P. Ararkula juga rendah. Hal ini berkaitan erat dengan faktor kekeruhan air yang menghambat kehadiran dan pertumbuhannya.</p>
+<p style="text-align: justify;">
+	Karang batu dari kategori Non-Acropora memiliki jumlah jenis lebih banyak dibanding karang batu kategori <em>Acropora</em>. Karang masif memiliki jumlah jenis lebih menonjol dibanding 8 bentuk tumbuh koloni karang batu kategori Non-Acropora yang lain. Sementara untuk dua bentuk tumbuh koloni karang batu dari kategori <em>Acropora</em> yang ditemukan, ternyata jum-lah jenisnya sangat rendah yaitu masing-masing hanya diwakili oleh satu spesies karang.</p>
+<p style="text-align: justify;">
+	Nilai kisaran diameter koloni karang pada areal terumbu P. Ararkula adalah 4,2 &ndash; 62,8 cm, dengan diameter koloni rata-rata mencapai 38,6 cm. Akibat diameter koloni karang batu rata-rata yang kecil, maka seharusnya kepadatan koloni karang menjadi tinggi. Akan tetapi melalui hasil analisis diperoleh kepadatan koloni karang hanya mencapai 3,4 koloni per m<sup>2</sup>. Kondisi ini disebabkan oleh kehadiran dan per-tumbuhan karang yang jarang di dasar terumbu yang didominasi komponen substrat lunak (berpasir). Dua jenis karang yang memiliki diameter koloni rata-rata tergolong menonjol pada areal terumbu P. Ararkula ini adalah <em>Platygyra</em> sp. dan <em>Porites lutea</em> yang mempu hidup dan ber-kembang pada kondisi perairan yang relatif keruh.</p>
+<p style="text-align: justify;">
+	Berkaitan dengan susunan geologis pesisir pulau yang berada dalam fase atau proses perkembangan dengan batuan dan pasir seperti terlihat pada Gambar 3, menyebabkan kondisi perairan sekitar mengalami kekeruhan yang tinggi, akibat sedi-mentasi yang terjadi disaat perpindahan massa air pada periode pasang dan surut maupun akibat gelombang.</p>
+<p style="text-align: justify;">
+	<strong>Lamun</strong></p>
+<p style="text-align: justify;">
+	&nbsp;</p>
+<p>
+	Di perairan pulau ini terdapat 7 jenis lamun. Dari ke tujuh jenis lamun yang ada, spesies <em>Cymodocea rotundata </em>memiliki kehadiran tertinggi dan kehadiran terendah diwakili oleh spesies <em>Enhallus acoroides</em>. Kerapatan lamun di P. Ararkula, sebesar 49.33 tegakan/m<sup>2</sup>, dimana kerapatan tertinggi ditemukan pada jenis <em>Cymodocea rotundata </em>sebesar 30.00 tegakan/m<sup>2 </sup>dengan persen penutupan relatif sebesar 21.66%; sedangkan kerapatan terendah diwa-kili oleh jenis <em>Enhallus acroides </em>yaitu 0.43 ind/m<sup>2</sup> dengan persen penutupan relatif 24.38%.</p>
+<p style="text-align: justify;">
+	<strong>Ikan Karang</strong></p>
+<p style="text-align: justify;">
+	Ikan karang yang menempati areal terumbu P. Ararkula mencapai 51 spesies yang tergolong dalam 33 genera dan 24 famili. Kekayaan spesies ikan karang ini tergolong relatif tinggi dengan dimensi areal terumbu P. Ararkula yang tidak luas diban-ding areal terumbu lainnya seperti P. Kultubai Selatan, serta kondisi terumbu ka-rangnya yang buruk karena penyebarannya yang menyerupai <em>patch reef</em> dan jarak antar kumpulan koloni karang yang sangat jauh.</p>
+<p style="text-align: justify;">
+	Famili ikan karang dengan variasi jenis yang tinggi di perairan karang P. Arar-kula adalah Pomacentridae (6 jenis) dan Lutjanidae (5 jenis). Sebanyak 22 famili lain-nya memiliki jumlah spesies &lt; 5, 10 famili diantaranya hanya memiliki satu spesies yakni Centropomidae, Atherinidae, Sphyraenidae, Dasyatidae, Pomacanthidae, Cirrhitidae, Gobiidae, Mullidae, Nemipteridae dan Syngnathidae. Ikan karang dari genus <em>Lutjanus</em> dan <em>Chaetodon</em> memiliki variasi jenis tergolong tinggi di perairan karang ini yakni masing-masing memiliki 5 dan 4 spesies, sedangkan sebanyak 31 genera lainnya memiliki jumlah spesies &lt; 3, 20 genera diantaranya hanya memiliki 1 spesies. Rendahnya kekayaan jenis ikan karang famili Chatodontidae yang juga termasuk kategori spesies indikator memberikan indikasi bahwa kualitas terumbu karang P. Ararkula relatif kurang baik.</p>
+<p style="text-align: justify;">
+	Kekayaan jenis ikan karang kategori <em>Major Categories Species </em>perairan karang P. Ararkula relatif lebih rendah dari kategori <em>Target Species </em>dan jauh lebih tinggi dibanding <em>Indicator Species</em>. Sementara berdasarkan kriteria pemanfaatannya, kekayaan jenis ikan kon-sumsi jauh lebih tinggi dibanding ikan hias.</p>
+<p style="text-align: justify;">
+	Kelimpahan stok (<em>stock abundance</em>) sumberdaya ikan di perairan terumbu karang P. Ararkula, juga tergolong relatif tinggi. Gambaran nilai sediaan cadang serta kelimpahan stok ikan karang tersebut menunjukan bahwa perairan karang sekitar P. Ararkula sebagai pulau kecil terluar atau perbatasan ini menyimpan potensi sumberdaya ikan karang yang cukup besar.</p>
+<p style="text-align: justify;">
+	Setidaknya terdapat empat jenis ikan karang di perairan P. Ararkula yang termasuk kategori predominan di dalam komunitasnya. Jenis ikan <em>Caesio teres</em> sangat predominan dibanding tiga jenis ikan karang yang lain. Sesuai kriteria pemanfaatannya sebagai ikan konsumsi, maka <em>Caesio teres</em> memiliki nilai sediaan cadang, MSY dan JTB lebih tinggi dari <em>Zebrasoma scopas</em>.</p>
+<p style="text-align: justify;">
+	Sementara untuk kriteria monitoring, jenis ikan <em>Caesio</em> <em>teres</em> (ekor kuning) sebagai <em>Target Species </em>adalah jenis ikan yang predominan dengan kepadatan individu, sediaan cadang, kelimpahan stok, nilai MSY dan JTB yang sangat menonjol dibanding dua jenis ikan predominan lainnya yaitu <em>Ctenochaetus strigosus</em> yang termasuk <em>Major Categories Species </em>dan <em>Chaetodon kleinii</em> sebagai ikan yang termasuk dalam kategori <em>Indicator Species</em>. Bila keempat jenis ikan yang tergolong predominan itu dikelompokan menurut tujuan pemanfaatan, maka ikan hias memiliki kepadatan individu dan sediaan cadang lebih rendah dari ikan konsumsi.</p>
+<p style="text-align: justify;">
+	<strong>Perikanan Tangkap</strong></p>
+<p>
+	&nbsp;</p>
+<p style="text-align: justify;">
+	Perairan di sekitar kawasan P. Ararkula merupakan daerah penangkapan yang baik bagi nelayan untuk melakukan aktifitas penangkapan ikan. Perairan ini diakses oleh nelayan yang bermukim di sekitarnya dengan menggunakan peralatan tangkap tradisional, hingga nelayan dari luar kawasan bahkan dari luar negeri dengan menggu-nakan peralatan tangkap yang modern. Pada waktu-waktu tertentu, terutama di musim Barat, kapal-kapal penangkapan udang dan ikan dengan menggunakan pukat udang (<em>shrimp trawl</em>) dan pukat ikan (<em>fish net</em>), terlihat beroperasi di perairan sebelah timur P. Ararkula.</p>
+<p style="text-align: justify;">
+	Aktifitas penangkapan yang dilakukan oleh nelayan-nelayan ini masih banyak yang tidak resmi dan belum mendapat ijin dari pemerintah Indonesia, terutama oleh kapal-kapal penangkapan ikan dan udang yang berasal dari negara lain. Penangkapan ikan yang dilakukan oleh nelayan setempat, sebagian juga masih menggunakan bom ikan (<em>explosive fishing</em>).</p>
+<p style="text-align: justify;">
+	Masyarakat yang memanfaatkan sumberdaya alam yang ada di P. Ararkula, terutama berasal dari Desa Selmona karena mereka meyakininya sebagai hak adat (ulayat) mereka. Nelayan yang berasal dari Desa Selmona membangun rumah secara tradisional di P. Ararkula dan mendiaminya selama musim barat karena kondisi perairan baik untuk melakukan aktifitas penangkapan ikan. Walaupun demikian, nelayan-nelayan lainnya dari desa sekitar juga turut melakukan aktifitas penangkapan ikan di kawasan P. Ararkula, yakni dari Desa/dusun Mesidang, Mohongsel, Kolamar, Kompane, Leiting dan Monal.</p>
+<p style="text-align: justify;">
+	&nbsp;</p>
+<p style="text-align: justify;">
+	Musim Timur yakni pada bulan Mei sampai Agustus, kondisi perairan di kawasan P. Ararkula berombak sehingga tidak memungkinkan nelayan atau masyarakat lainnya dapat melaut. Hal ini disebabkan karena mereka masih menggunakan kapal/perahu yang tradisonal. Namun, selama Musim Barat dan Musim Pancaroba yang berlangsung 8 (delapan) bulan, merupakan waktu yang baik bagi mereka untuk melakukan aktifitas penangkapan di perairan sekitar pulau ini.</p>
+<p style="text-align: justify;">
+	Alat penangkapan ikan yang digunakan oleh masyarakat yang menangkap ikan di kawasan P. Ararkula masih tergolong tradisional yakni berupa Gancu/tombak (<em>spear gun</em>) pada saat air surut atau lazimnya disebut dengan istilah lokal &ldquo;bameti&ldquo;, panah (<em>arrow</em>), pancing tangan (<em>hand line</em>), bubu (<em>trap net</em>) dan jaring insang hanyut (<em>drift gill net</em>).</p>
+<p>
+	&nbsp;</p>
+<p style="text-align: justify;">
+	<strong>Sumberdaya <em>Makro Bentos</em></strong></p>
+<p style="text-align: justify;">
+	Perairan pesisir (daerah intertidal) P. Ararkula dan laut sekitarnya menyimpan sejumlah potensi sumberdaya <em>makro bentos</em> yang dapat dikembangkan sebagai komoditi perikanan dan kelautan potensial. Sumberdaya makro bentos dimaksud antara lain moluska (siput dan kerang) dan ekinodermata (teripang).</p>
+</div></p>
+
+<hr>
+
+<h2><a id="snh">Sumberdaya Non Hayati</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<h2><a id="aps">Aktivitas Pengelolaan Sumberdaya</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<h2><a id="ling">Lingkungan</a></h2>
+<p><div class="readmore"><p>
+	&nbsp;</p>
+<p style="text-align: justify;">
+	Topografi pulau Ararkula relatif sama dengan pulau-pulau kecil lainnya yang terdapat di Kabupaten Kepulauan Aru yaitu datar. Pulaunya terbentuk dari jenis batuan gamping koral dengan jenis tanah berupa Rensina dan Hidromorfik kelabu. Pesisir pantainya terdiri atas pantai berpasir dan pantai berbatu dengan tebing terjal (<em>cliff</em>).</p>
+<p style="text-align: justify;">
+	Pantai berpasir memiliki lebar bervariasi dari 25 &ndash; 41 m dan letaknya pada bagian Utara pulau. Pantai tebing terjal terdapat pada hampir seluruh bagian pulau. Secara geomorfologis Pulau Ararkula mengalami proses abrasi intensif di sepanjang pantai yang disebabkan oleh gempuran gelombang musim. Pulau ini memiliki rataan pasang surut yang sangat lebar dan luas. Luas total rataan pasang surut Pulau Ararkula berdasarkan data Landsat 7 ETM+ adalah 15,49 km&sup2;, dengan rataan pasang surut berpasir 3,38 km&sup2;.</p>
+<p style="text-align: justify;">
+	&nbsp;</p>
+<p style="text-align: justify;">
+	Pada bagian Selatan maupun Utara Ararkula terjadi proses akumulasi pasir koral pada daerah dangkalan membentuk gosong pasir (<em>sand bar</em>). Akumulasi pasir koral sangat intensif dan berpotensi menjadi pulau baru. Namun intensifnya aktivitas pengambilan pasir di gosong pasir tersebut oleh sekelompok orang, diduga akan memperlambat proses pembentukan pulau. Sebaran komponen penyusun substrat dasar zona pantai kering hingga zona pasang surut bervariasi. Zona pantai kering terdapat di bagian barat, selatan dan utara P. Ararkula merupakan pantai berbatu gamping dengan tebing terjal. Zona pantai kering dengan substrat pasir relatif sempit di bagian timur pulau, tergolong pantai transisional yang selalu mengalami dinamika lebar pasir sepanjang musim. Pada umumnya zona pasut P. Ararkula didominasi oleh substrat lunak yang tersusun dari komponen pasir kasar hingga pasir halus yang ditumbuhi vegetasi lamun. Sementara pada bagian lainnya memiliki substrat keras yang tersusun oleh komponen batuan koral dan hancuran karang yang ditumbuhi oleh algae.</p>
+<p style="text-align: justify;">
+	Iklim di gugusan Kepulauan Aru, termasuk P. Ararkula sesuai klasifikasi Schmid dan Ferguson (1951) yakni tipe iklim C dengan nilai Q = 0,19 dengan curah hujan tahunan bervariasi dari 2000 - 3000 mm. Jumlah hari hujan rata-rata adalah 105 hari, dan curah hujan tertinggi terjadi antara bulan Januari hingga Maret. Jumlah rata-rata bulan basah 9 bulan dan bulan kering 1,7 bulan.</p>
+<p style="text-align: justify;">
+	Keadaan iklimnya sangat dipengaruhi oleh Laut Arafura dan dibayangi oleh P. Irian bagian Selatan serta bagian Utara Australia. Musim Timur optimum berlangsung antara bulan Juni hingga Agustus. Musim Barat berlangsung antara bulan Desember hingga Pebruari. Sedangkan Musim peralihan atau pancaroba antara kedua musim utama itu terjadi pada bulan Maret-Mei dan September-Nopember.</p>
+<p style="text-align: justify;">
+	Pasang surut (Pasut) di P. Ararkula terjadi dua kali sehari (tipe harian ganda). Jangkauan pasang surut mencapai 2 &ndash; 2.5 m. Arus yang terjadi di sekitar P. Ararkula didominasi oleh arus pasut, dan juga oleh arus non pasut dari Laut Arafura. Kecepat-an arus pada kondisi perairan tenang pada zone pasut cukup lemah dan berkisar dari 5,5 &ndash; 15,4 cm/detik saat pasang maupun surut. Di luar zone pasut, kecepatan arus lebih kuat pada sisi Timur dan Barat pulau dengan kisaran 10,0 &ndash; 62 cm/detik yang mengarah ke Selatan.</p>
+<p style="text-align: justify;">
+	Gelombang di seluruh wilayah pesisir dan laut P. Ararkula merupakan tipe gelombang angin (variasi <em>sea</em> dan<em> swell</em>), dimana angin sebagai pembangkit utama yang umumnya bervariasi sesuai musim. Terdapat 2 tipe gelombang pecah di pantai P. Ararkula yaitu &ldquo;spilling&rdquo; dan &ldquo;plunging&rdquo; dengan dominasi &ldquo;plunging&rdquo;. Energi gelombang &ldquo;plunging&rdquo; sangat berperan terhadap pembentukan morfologi tebing terjal pan-tai di sisi Timur dan Barat P. Ararkula. Proses abrasi oleh gelombang dan arus me-nyebabkan beberapa Bagian pantai tebing di bagian timur terpisah dari pulau induknya membentuk <em>steak</em>. Hal ini menunjukkan bahwa gelombang musim Timur sangat dominan pengaruhnya terhadap P. Ararkula.</p>
+<p style="text-align: justify;">
+	Suhu rata-rata di perairan sekitar P. Ararkula pada bulan Desember 2005 berkisar antara 28,2 &ndash; 28,7 <sup>0</sup>C. Nilai salinitas di lapisan permukaan sampai pertengah-an perairan P. Ararkula pada bulan yang sama sebesar 35 ppt. Kecerahan air di sekitar P. Ararkula memiliki tingkat kecerahan tinggi &gt; 6 meter, dan tipe perairan adalah perairan dangkal dengan kedalaman maksimum 9 meter.</p>
+<p style="text-align: justify;">
+	Konsentrasi padatan tersuspensi di perairan sekitar P. Ararkula sebesar 0,03 mg/600 ml/det. Tinggi rendahnya variasi nilai padatan tersuspensi disebabkan ada perbedaan laju konsentrasi materi tersuspensi dan jarak lokasi dengan sumber asal sedimen di perairan sekitar P. Ararkula. Sumber utama partekel tersuspensi di perairan ini berasal dari aktivitas penambangan pasir, teruta-ma pada saat air surut yang dilakukan oleh masyarakat desa yang bermukim di pulau-pulau yang dekat dengan P. Ararkula.</p>
+<p style="text-align: justify;">
+	Kandungan oksigen terlarut di lapisan permukaan perairan P. Ararkula berki-sar antara 6,9 &ndash; 7,60 ppm. Nilai pH rata-rata di perairan sekitar P. Ararkula pada bulan Desember 2005 berkisar antara 8,28 - 8,75. Sedangkan nilai zat hara di perairan sekitar P. Ararkula sangat bergantung pada input yang diperoleh dari lingkungan sekitarnya. Selain pasang surut, tampaknya faktor musim memberi kontribusi yang nyata terhadap besarnya fluktuasi kandungan fosfat, nitrit dan nitrat. Kandungan fosfat pada bulan Desember 2005 adalah 0,42 mg/ltr, nitrit (0,11 mg/ltr), sementara kadar nitrat adalah sebesar 1,30 mg/ltr.&nbsp;</p>
+</div></p>
+
+<hr>
+
+<h2><a id="sp">Sarana dan Prasarana</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<h2><a id="pi">Peluang Investasi</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<h2><a id="pap">Potensi dan Arahan Pengembangan</a></h2>
+<p><div class="readmore"><p>
+	&nbsp;</p>
+<p style="text-align: justify;">
+	Melihat potensi yang dimiliki P. Ararkula, disamping pengembangan perikanan, ke depan pulau ini dapat dikembangkan sebagai daerah tujuan wisata, yang diarah-kan pada wisata bahari. Hal ini patut untuk dilakukan mengingat keindahan bentang-an alam pantai dan pemandangan bawah laut yang dimiliki oleh P. Ararkula. Wisata bahari yang dapat dikembangkan di daerah ini adalah <em>Scuba Diving/Snorkling</em>. Hal ini harus dimulai dengan penggalaan promosi pariwisata Kepulau Aru secara besar-besaran agar diketahui baik oleh wisatawan domestik maupun asing. Penyebaran in-formasi ini penting mengingat salah satu kunci keberhasilan dunia pariwisata adalah promosi. Untuk menjelmakan P. Ararkula menjadi suatu daerah tujuan wisata maka keberadaan sarana dan prasarana penunjang, jelas harus dipenuhi. Sarana dan prasa-rana dimaksud mulai dari transportasi, akomodasi sampai kepada suplai peralatan <em>Scuba Diving/Snorkling</em>.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="kp">Kendala Pengembangan</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<h2><a id="rf">Referensi</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<br />
+	<i> 
+		<p style="font-size:12px;">
+			Karena keterbatasan SDM dalam penginputan dan pengolahan data, kami mohon maaf atas ketidak lengkapan beberapa data pulau yang kami tampilkan, harap dimaklumi.
+			Berikan keritik dan saran pada kolom komentar agar kita dapat bersama menyajikan sebuah data yang cukup sempurna untuk halayak ramai yang berguna
+			demi kesejahterahan, kelestarian dan keindahan pulau-pulau kecil yang dimiliki Indonesia.<br />
+			*Jika sekiranya anda memiliki data yang cukup banyak, silakan mengirimkan file melalui email kami di <b><a>identifikasippk@gmail.com</a></b>
+			
+		</p>
+	</i>
+<br />
+
+<div id="fb_comn" class="fb-comments" data-href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_info/423" data-width="800" data-numposts="5" data-colorscheme="light"></div>
+
+
+</div>
+</div>
+</div>
+<div id="wrapper">
+
+<div class="footer"><p>
+<!--<marquee onmouseover="this.stop()" onmouseout="this.start()" scrollamount="5" direction="right" width="798" height="14"  behavior="scroll">-->
+<a href="http://www.ppk-kp3k.kkp.go.id/" target="_blank">Direktorat Pendayagunaan Pulau-Pulau Kecil &nbsp; | &nbsp;</a>
+<a href="http://www.kp3k.kkp.go.id/" target="_blank">Ditjen Kelautan, Pesisir dan Pulau-Pulau Kecil &nbsp; | &nbsp;</a>
+<a href="http://www.kkp.go.id/" target="_blank">Kementerian Kelautan dan Perikanan</a>
+<!--</marquee>--> <br />
+Jl. Medan Merdeka Timur No. 16 Gedung Mina Bahari 3 Lantai 10, Jakarta, Indonesia <br />
+Email : identifikasippk@gmail.com <br />
+Telp &amp; Fax: (021) 3522058 <br />
+&copy; Copyright Direktorat Pendayagunaan Pulau-Pulau Kecil 2012&nbsp; <br /></p>
+</div>
+</div>
+</body>
+</html>

@@ -1,0 +1,456 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Pulau SAMBIT</title>
+
+<meta charset="utf-8"/>
+
+<meta property="fb:app_id" content="559408774147878" />
+
+
+<meta property="og:title" content="Pulau SAMBIT" />
+<meta property="og:url" content="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_info/411" />
+
+
+    <script type="text/javascript" src="http://ajax.microsoft.com/ajax/jquery/jquery-1.4.4.min.js">
+    </script>
+    
+    <script type="text/javascript" src="http://plugins.learningjquery.com/expander/jquery.expander.js">
+    </script>
+    
+    <script type="text/javascript">
+        $(function () {
+            $('div.readmore').expander({
+                slicePoint:200,
+                expandText: '(Baca selengkapnya)',
+                userCollapseText: '(Sembunyikan selengkapnya)'
+            });
+        });
+    </script>
+        
+	<script src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/galleria/galleria-1.2.8.min.js"></script>
+
+        <SCRIPT TYPE="text/javascript">
+            <!--
+            //Disable right click script
+            //visit http://www.rainbow.arch.scriptmania.com/scripts/
+            var message="Sorry, right-click has been disabled";
+            ///////////////////////////////////
+            function clickIE() {if (document.all) {(message);return false;}}
+            function clickNS(e) {if
+            (document.layers||(document.getElementById&&!document.all)) {
+            if (e.which==2||e.which==3) {(message);return false;}}}
+            if (document.layers)
+            {document.captureEvents(Event.MOUSEDOWN);document.onmousedown=clickNS;}
+            else{document.onmouseup=clickNS;document.oncontextmenu=clickIE;}
+            document.oncontextmenu=new Function("return false")
+            // -->
+            </SCRIPT>
+            
+            <SCRIPT TYPE="text/javascript">
+            <!--
+            //Disable select-text script (IE4+, NS6+)
+            //visit http://www.rainbow.arch.scriptmania.com/scripts/
+            ///////////////////////////////////
+            function disableselect(e){
+            return false
+            }
+            function reEnable(){
+            return true
+            }
+            //if IE4+
+            document.onselectstart=new Function ("return false")
+            //if NS6
+            if (window.sidebar){
+            document.onmousedown=disableselect
+            document.onclick=reEnable
+            }
+            // -->
+            </SCRIPT>  
+              
+<link rel="stylesheet" type="text/css" href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/css/main.css" media="screen"/>
+<style type='text/css'>
+#info_wrap{
+	width:820px;
+	margin:0 auto;
+	text-shadow:0px 1px 1px #09F;
+}
+table{
+	color:#000000;
+}
+h1{
+	color:#000000;
+}
+.tengahin{
+	width: 105px;
+	height: 30px;
+	margin: 0 auto auto auto;
+}
+#box_view{
+	background-image:-webkit-gradient(linear, 0 0%, 0 100%, from(#FFFFFF), to(#E0F0F5));
+	background:#FFF;
+	color:#F60;
+	border: 1px solid #fff;
+	border-radius: 4px 4px 4px 4px;
+	box-shadow: 0 8px 6px -6px black;
+	position:fixed;
+	right:0;
+	top:150px;;
+	width:80px;
+	z-index:10;
+	padding-left:12px;
+	font-size:10px;
+	}
+#box_view li{
+	color:#F60;
+	margin-left:-30px;
+	}
+	#wrapper a b {
+	color: #FFF;
+	font-size:14px;
+}
+.batas{
+	float:left;
+	border-right-style:inset;
+	border-right-width:thin;
+	}
+.text_h_wrap{
+	
+	padding-left:450px;
+	padding-top:39px;
+	text-shadow:0px 1px 1px #09F;
+	}
+#wrapper .footer p{
+	font-size:12px;
+	color: #FFF;
+	text-align:center;
+	text-shadow:0px 1px 1px #09F;
+}
+td,th {
+	font-size: 12px;
+}
+
+marquee a{
+	color:#FFF
+	}
+#wrapper .footer a{
+	color: #FFFFFF;
+}
+</style>
+            
+<script>
+function goBack()
+  {
+  window.history.back()
+  }
+</script>
+<script type="text/javascript">
+function Popup( url, height, width )
+{
+    var windowProperties = "toolbar = 0, scrollbars = 1, location = 0, statusbar = 0, menubar = 0, resizable = 1, width = " + width + ", height = " + height + ", left = 50, top = 50";
+ 
+    return window.open( url, "", windowProperties );
+}
+</script>
+
+
+
+</head>
+<body oncontextmenu='return false;' onkeydown='return false;' onmousedown='return false;'>
+
+<a id="top_view"></a>
+<div id="wrapper">
+<div class="header_wrap">
+<div class="text_h_wrap">
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/home_page'><b>&nbsp;Home&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/menu_info/1'><b>&nbsp;About Us&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_data'><b>&nbsp;Direktori Pulau&nbsp;&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/program_ip'><b>&nbsp;IKU&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/data_ppkt'><b>&nbsp;PPKT&nbsp;</b></a>
+</div>
+<!--<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/maintenance'><b>&nbsp;Login&nbsp;</b></a>-->
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/dir_log_cont'><b>&nbsp;Login&nbsp;</b></a>
+
+</div>
+</div>
+</div>
+
+<div id="fb-root"></div>
+<script>
+  window.fbAsyncInit = function() {
+    // init the FB JS SDK
+    FB.init({
+      appId      : '559408774147878',                        // App ID from the app dashboard
+      status     : true,                                 // Check Facebook Login status
+      xfbml      : true                                  // Look for social plugins on the page
+    });
+
+    // Additional initialization code such as adding Event Listeners goes here
+  };
+
+  // Load the SDK asynchronously
+  (function(){
+     // If we've already installed the SDK, we're done
+     if (document.getElementById('facebook-jssdk')) {return;}
+
+     // Get the first script element, which we'll use to find the parent node
+     var firstScriptElement = document.getElementsByTagName('script')[0];
+
+     // Create a new script element and set its id
+     var facebookJS = document.createElement('script'); 
+     facebookJS.id = 'facebook-jssdk';
+
+     // Set the new script's source to the source of the Facebook JS SDK
+     facebookJS.src = '//connect.facebook.net/en_US/all.js';
+
+     // Insert the Facebook JS SDK into the DOM
+     firstScriptElement.parentNode.insertBefore(facebookJS, firstScriptElement);
+   }());
+</script>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=559408774147878";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="box_view">
+    <a href="#top_view">MENU</a>
+    <h3><p>Lihat Informasi:</p></h3>
+    <ul>
+	<a href="#sf"><li>Slide Foto</li></a>
+    <a href="#gu"><li>Gambaran Umum</li></a>
+    <a href="#ksbk"><li>Kependudukan, Sosial Budaya dan Kelembagaan</li></a>
+    <a href="#eshp"><li>Ekosistem dan Sumberdaya Hayati</li></a>
+    <a href="#snh"><li>Sumberdaya Non Hayati</li></a>
+    <a href="#aps"><li>Aktivitas Pengelolaan Sumberdaya</li></a>
+    <a href="#ling"><li>Lingkungan</li></a>
+    <a href="#sp"><li>Sarana dan Prasarana</li></a>
+    <a href="#pi"><li>Peluang Investasi</li></a>
+    <a href="#pap"><li>Potensi Arahan Pengembangan</li></a>
+    <a href="#kp"><li>Kendala Pengembangan</li></a>
+	<a href="#rf"><li>Referensi</li></a>
+    </ul>
+    <a href="#fb_comn">KOMENTAR</a>
+</div>
+
+<br>
+			<a id="sf"></a></h2>
+			<div id="galleria">
+            <!--<div class='tengahin'><input type="button" value="Kembali Ke List" onclick="goBack()"></div>-->
+                            </div>
+            
+            <script>
+            Galleria.loadTheme('http://www.ppk-kp3k.kkp.go.id/direktori-pulau/galleria/themes/classic/galleria.classic.min.js');
+            Galleria.run('#galleria');
+            </script>
+</div>
+
+<div id="text_warp">
+
+
+<p><h1>SAMBIT</h1></p>
+<table>
+<tr>
+	<td>Nama Lain</td> <td>:</td> <td></td>
+</tr>
+<tr>
+	<td>Propinsi</td> <td>:</td> <td>KALIMANTAN TIMUR</td>
+</tr>
+<tr>
+	<td>Kabupaten</td> <td>:</td> <td>KABUPATEN BERAU</td>
+</tr>
+<tr>
+	<td>Kecamatan</td> <td>:</td> <td>MARATUA</td>
+</tr>
+<tr>
+	<td>Koordinat</td> <td>:</td> <td><a href="http://www.ppk-kp3k.kkp.go.id/giskkp/index.html?extent=13246483.9877 196550.9458,13255656.4310 200119.5995"target="_blank"><p>
+	1&deg; 46&#39; 53,000&quot; LU - 119&deg; 2&#39; 11,000&quot; BT</p>
+</a></td>
+</tr>
+</table>
+<hr>
+
+<h2><a id="gu">Gambaran Umum</a></h2>
+<p><div class="readmore"><p>
+	Pulau Sambit merupakan salah satu pulau terluar yang berada di Provinsi Kalimantan Timur. Pulau ini tidak memiliki penduduk, tetapi ada 5 orang petugas penjaga mercusuar dan 1 orang petugas penjaga telur penyu musiman yang tinggal di pulau ini. Pulau yang luas daratannya 0,18 Km2 ini dikelilingi pasir putih dan sering menjadi tempat penyu untuk bertelur. Secara administrasi, pulau Sambit merupakan bagian dari wilayah Kecamatan Talisayang, Kabupaten Berau, Provinsi Kalimantan Timur.</p>
+<p>
+	&nbsp;</p>
+<p>
+	Pulau Sambit terletak di laut Sulawesi, tepatnya pada titik koordinat 01<sup>o</sup> 46&#39; 53&quot; LU dan 119<sup>o</sup> 02&#39; 26&#39;&#39; BT. Pulau Sambit terletak di sebelah timur daratan utama Kalimantan dan di sebelah barat daratan utama Sulawesi dengan batas wilayah sebelah Utara berbatasan dengan perairan pulau Maratua dan Laut Sulawesi, sebelah Timur dengan Laut Sulawesi, sebelah Selatan dengan laut Sulawesi dan Selat Makasar, dan sebelah Barat dengan daratan utama Kalimantan (Kecamatan Talisayang) dan Pulau Blambangan.</p>
+<p>
+	Pantai di pulau ini ditumbuhi oleh tumbuhan yang yang membentuk formasi pes-caprae dari jenis <em>Impomoea sp</em>. Keanekaragaman vegetasi darat di pulau ini sangat sedikit, beberapa tumbuhan dapat ditemui seperti ketapang (<em>Terminalia catappa L</em>), beringin (<em>Ficus superba Miq</em>), Rumput Angin (<em>Spinifex littoreus</em>), dan Pandan Laut (<em>Pandanus amaryllifolius </em><em>L</em>).</p>
+<p>
+	Untuk menjangkau Pulau Sambit, perjalanan dapat dimulai dari kota Balikpapan yang merupakan salah satu pintu gerbang utama untuk mencapai wilayah-wilayah administratif Provinsi Kalimantan Timur. Dari Kota Balikpapan perjalanan dilanjutkan menuju kota Tanjungredep, Berau dengan menggunakan pesawat udara selama 1.5 jam. Perjalanan dari kota Balikpapan menuju Tanjungredep dapat ditempuh melalui jalur darat selama 16 jam. Jalur transportasi ini tersedia setiap hari.</p>
+<p>
+	Untuk menuju Pulau Sambit hanya dapat dilalui melalui jalur laut. Perahu motor atau speed boat merupakan pilihan utama untuk menjangkau pulau ini.&nbsp; Perjalanan laut dimulai dari Tanjungredep menuju pulau Sambit dengan lama perjalanan sekitar 5 - 6 jam. Waktu tempuh mencapai 10 - 12 jam apabila perjalanan dilakukan dengan menggunakan kapal nelayan berkapasitas 5 &ndash; 20 GT.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="ksbk">Kependudukan, Sosial Budaya dan Kelembagaan</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<h2><a id="eshp">Ekosistem dan Sumberdaya Hayati</a></h2>
+<p><div class="readmore"><p>
+	&nbsp;</p>
+<p>
+	<strong>Terumbu Karang</strong></p>
+<p style="text-align: justify;">
+	Ekosistem terumbu karang merupakan salah satu potensi laut yang dimiliki oleh pulau Sambit. Sebaran terumbu karang di Pulau Sambit hampir merata di sekeliling perairan pulau. Karang tumbuh membentuk karang tepi yang melingkari pulau. Persentase rata-rata penutupan karang hidup adalah 65 %, yang menunjukkan kondisi terumbu karang masih bagus.</p>
+<p style="text-align: justify;">
+	Terumbu karang pada zona <em>reef flat </em>dan <em>reef slope </em>hingga kedalaman 12 meter. Pada kedalaman lebih dari 10 meter kerapatan karang semakin berkurang dan formasi dasar perairan lebih didominasi oleh substrat pasir dengan tekstur kasar.&nbsp; Pada daerah <em>reef flat </em>hingga<em> reef slope, lifeform </em>karang yang ada adalah jenis branching, <em>massive</em>, <em>sub massive</em>, foliose, tabulate.&nbsp; Bentuk pertumbuhan yang dominan adalah branshing (bercabang) dan massive.</p>
+<p style="text-align: justify;">
+	Perkembangan terumbu karang di pulau ini dapat dilihat dari pengaruh oseanografi yang lebih kuat dimana terkonsentrasi sepanjang sisi Timur, sebagian sisi Utara dan sisi Selatan.&nbsp; Rataan terumbu panjangnya melebihi panjang Utara-Selatan dari pulau, sedangkan lebarnya sekitar&nbsp; 300 meter dari garis pantai hingga tubir terumbu.&nbsp;</p>
+<p style="text-align: justify;">
+	Terumbu karang memiliki tipe terumbu tepi atau terumbu pantai, dimana karang tumbuh pada kedalaman 1 &ndash; 10 meter, selanjutnya merupakan hamparan teras pasir halus yang dihuni oleh organisme penggali pasir (<em>infauna</em>)&nbsp; dan akar bahar (<em>Gorgonian</em>).&nbsp; Pada keadaan surut terendah karang-karang di rataan terumbu dan di daerah tubir terekspose di udara dan terikan matahari langsung sehingga menyebabkan sebagian karang mengalami kematian, walaupun masih banyak yang bisa beradaptasi.</p>
+<p style="text-align: justify;">
+	Berbagai jenis organisme karang yang bernilai ekonomis baik untuk dikonsimsi seperti kima (<em>Tridacna</em>), kerang japing&nbsp; dan teripang (<em>Holothurian</em>) masih dijumpai walaupun jumlah dan kelimpahannya relatif kecil.&nbsp; <em>Tridacna</em> sebagai biota laut dilindungi memang sudah langka terutama jenis-jenis yang berukuran besar seperi kima raksasa (<em>Tridacna gigas</em>), kima air (<em>T. derasa</em>), kima cina (<em>Hippopus porcellanus</em>).&nbsp;&nbsp; Jenis-jenis karang ekonomis untuk biota hiasan aquarium yang banyak diekspor masih cukup melimpah antara lain <em>Lobophyllia</em> (merah), <em>Goniopora, Pectinia</em>, tiga jenis <em>Euphyllia, Plerogyra </em>dan<em> Physogyra.&nbsp;</em></p>
+<p style="text-align: justify;">
+	Jumlah jenis ikan karang di perairan pulau 68 jenis.&nbsp; Jenis-jenis ikan target ekonomis seperti ikan pisang-pisang (<em>Caesionidae</em>), ikan beronang (<em>Siganidae</em>), dan ikan kakap (<em>Lutjanidae</em>). Jenis ikan hias yakni dari betok laut (<em>Pomacentridae</em>) merupakan kelompok ikan yang sering mendominasi ikan-ikan terumbu karang dan tergolong dalam kelompok ikan mayor.&nbsp; Sedangkan ikan-ikan indicator dari kelompok ikan kepe-kepe famili (<em>Chaetodontidae</em>) juga ditemukan dalam kelimpahan yang relatif sedang.&nbsp;</p>
+<p style="text-align: justify;">
+	<strong>Lamun</strong></p>
+<p style="text-align: justify;">
+	Lamun atau pama merupakan salah satu komunitas di perairan yang umumnya hanya mempunyai satu atau beberapa spesies dominan dan strukturnya tampak sederhana serta homogen. Kenyataannya, lamun merupakan komunitas-komunitas kompleks yang terdiri dari sejumlah besar organisme epifit, epizoik, penggali dan organisme lain yang berasosiasi dengan lamun, dimana mereka mendapatkan tempat berlindung dan atau makanan.</p>
+<p style="text-align: justify;">
+	Secara ekologi, lamun mempunyai beberapa fungsi penting di Pulau Sambit, karena merupakan sumber produktivitas primer di perairan dangkal di daerah tersebut dan merupakan sumber makanan penting bagi banyak organisme (dalam bentuk detritus).&nbsp; Selanjutnya mereka berfungsi menstabilkan dasar-dasar lunak dimana kebanyakan spesies tumbuh, terutama dengan sistem akar yang padat dan saling menyilang. Terdapat banyak hewan yang umum dijumpai di komunitas lamun, tetapi tidak berhubungan dengan tingkatan makanan secara langsung dengan lamun itu sendiri.&nbsp; Lamun berperan sebagai tempat pembesaran bagi banyak spesies yang menghabiskan waktu dewasanya di lingkungan lain.</p>
+<p style="text-align: justify;">
+	<strong>Perikanan</strong></p>
+<p style="text-align: justify;">
+	Ikan karang (ikan-ikan yang berasosiasi dengan karang) yang menghuni perairan sekitar perairan Pulau Sambit pada umumnya terdiri dari ikan hias yang dapat dikategorikan sebagai species indikator, takget dan primer. Jenis-jenis ikan karang hias yang banyak dijumpai di Pulau Sambit <em>Amphiprion accoelaris. A, clarki, Abudefduf bengalensis, A. lorentzi, A. septemfasciatus, A, sexatilis </em>dan <em>A, sexfasciatus), </em>ikan betok (<em>Chromis</em>, <em>Cinerascens, C, viridis, C, weberi), </em>ikan kakaktua <em>(Scarus ghobban), </em>ikan okpis <em>(Bodianus mesothorax), </em>ikan tringger <em>(Rhinechantus </em>verrucosus), ikan pakol <em>(Arothron immaculatus), </em>ikan einjel <em>(Pomacanthus anularis), </em>ikan kepe-kepe <em>(Chaetodon, Adiergatos, C, baronessa, C. octofasciatus, Cheilmon rostrarus), </em>ikan layaran <em>(Heniochus acuminatus).</em></p>
+<p style="text-align: justify;">
+	Beberapa ikan karang konsumsi yang banyak dijumpai adalah dari jenis ikan kerapu ( Chomileptes altivelis, <em>Ephinephelus fuscoguttatus), </em>ikan kakap (<em>baroci</em>) <em>(Luiyanus decussatus), </em>ikan baronang <em>(Siganus coralinus, S. dolainus), </em>ikan ekor kuning <em>(Caesio kuning), </em>ikan tanda-tanda <em>(Luiyanus Fulvilamma), </em>ikan pari bintik biru <em>(Halichoeris centriquadrus), </em>ikan gitaran <em>(Rhynchobatus djiddesis), </em>ikan pari <em>(Rhinotera javanica) </em>dan beberapa jenis ikan konsumsi lainnya.</p>
+<p style="text-align: justify;">
+	Di perairan sekitar pulau Sambit terdapat beberapa jenis biota laut yang dilindungi.&nbsp; Biota laut yang utama adalah Kima (<em>Tridacna</em> spp) dan penyu laut (<em>Sea Turtles</em>).&nbsp; Eksploitasi biota ini masih kerap kali terjadi dalam frekuensi yang cukup meresahkan.&nbsp; Pengambil telur penyu kerap kali terjadi di pulau ini, para pengumpul dan pencari telur penyu kerap singgah dan tinggal sementara di pulau ini.&nbsp; Mereka membangun rumah jaga/singgah sementara untuk kebutuhan aktivitas mereka menunggu dan mengambil telur penyu.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="snh">Sumberdaya Non Hayati</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<h2><a id="aps">Aktivitas Pengelolaan Sumberdaya</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<h2><a id="ling">Lingkungan</a></h2>
+<p><div class="readmore"><p>
+	&nbsp;</p>
+<p style="text-align: justify;">
+	Pulau Sambit secara genesis merupakan pulau yang terbentuk dari terumbu karang yang muncul diatas permukaan air, dengan demikian pulau ini dapat digolongkan kedalam type pulau Karang Timbul (<em>Raised Coral Island</em>). Type pulau ini terbentuknya oleh proses pengangkatan karena adanya gerakan ke atas dan gerakan ke bawah dari dasar laut yang disebabkan oleh proses geologi. Pulau Sambit memiliki tipe pantai berpasir, yang dibentuk oleh proses pengendapan pasir di pantai oleh gelombang. Lebar pantai 10 - 30 meter, kecuali pantai yang terkena abrasi. Material penyusun pantai adalah batuan karang dengan pasir halus hingga kasar, dengan dominan ukuran butir yang kasar.&nbsp;</p>
+<p style="text-align: justify;">
+	Pada sisi pantai sebelah utara pulau ini terjadi abrasi yang cukup besar tingkatannya. Abrasi ini menyebabkan rusaknya mercusuar, patok Titik Dasar&nbsp; dan menyebabkan robohnya beberapa tanaman. Pada saat ini mercusuar dan Patok titik Dasar telah dibangun kembali di bagian tengah pulau, akan tetapi abrasi yang terjadi dibiarkan tanpa adanya&nbsp; bangunan penahan gelombang. Jika dibiarkan kemungkinan abrasi akan meluas dan merusak berbagai sarana navigasi dan fasilitas-fasilitas yang ada di pulau.</p>
+<p style="text-align: justify;">
+	Iklim di sekitar Pulau Sambit sangat dipengaruhi oleh kondisi iklim di Samudera Pasifik. Musim hujan berlangsung pada bulan Oktober - Mei dengan hari hujan rata-rata 15 - 20 hari perbulan dan curah hujan terbesar terjadi pada akhir atau awal musim hujan. Musim kemarau berlangsung pada bulan Juli - September dengan curah hujan terendah pada bulan Juli.&nbsp; Suhu udara rata-rata berkisar antara 24,8&ordm; - 27,9&ordm; C.&nbsp; Suhu udara minimum berkisar antara 19&ordm; - 23&ordm; C dan musiman berkisar antara 32&ordm; - 35,6&ordm; C.&nbsp; Suhu udara harian rata-rata tidak menunjukkan fluktuasi yang signifikan antara siang dan malam hari.&nbsp; Perbedaan suhu udara maksimum dan minimum berkisar antara 10&ordm; - 12&ordm; C.</p>
+<p style="text-align: justify;">
+	Pulau Sambit dengan tipe pantai berpasir putih sangat rentan terhadap pengaruh oceanografi yang cukup ekstrim. Pada beberapa sisi pulau, proses abrasi oleh pengaruh gelombang dan arus laut telah mengubah bentuk pantai dan telah merusak beberapa fasilitas bangunan kompleks mercu suar yang telah ada.</p>
+<p style="text-align: justify;">
+	Dilihat dari kondisi pasang surut yang terjadi di pesisir Pulau Sambit, wilayah pulau ini termasuk type pasang surut campuran (<em>mix tide</em>) cenderung harian ganda (<em>mixed prevailing semi diurnal</em>). Tunggang pasut maksimum adalah 2.7 meter dan tunggang pasut minimum adalah 1.1 meter. Umumnya type pasang surut yang terletak di perairan Laut Sulawesi miliki type pasang surut type pasang surut campuran (<em>mix tide</em>) cenderung harian ganda (<em>mixed prevailing semi diurnal</em>).&nbsp; Tunggang pasut maksimum terjadi pada bulan purnama dengan kisaran 2,8 meter dan tunggang pasut minimum pada &frac14; atau &frac34; bulan dengan tunggang pasut 0.95 meter.</p>
+<p style="text-align: justify;">
+	Arus yang terjadi di perairan Pulau Sambit adalah merupakan akumulasi&nbsp; dari beberapa arus yang dibangkitkan oleh pergerakan arus yang berbeda-beda. Arus pasang surut terbentuk sebagai akibat gerakan vertikal pasang surut&nbsp; yang diikuti oleh gerakan horisontal dan dan arus permukaan banyak dipengaruhi oleh pola dan kecepatan angin dominan.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="sp">Sarana dan Prasarana</a></h2>
+<p><div class="readmore"><p>
+	&nbsp;</p>
+<p>
+	Pulau Sambit tidak memiliki penduduk yang tinggal menetap, akan tetapi terdapat beberapa orang penghuni yang menjadi penjaga lampu mercu suar. Pulau ini merupakan pulau yang sangat terisolasi dengan segala keterbatasan sarana dan prasarana yang ada.</p>
+<p>
+	Di pulau Sambit terdapat kompleks mercusuar untuk kebutuhan perhubungan laut. Dalam komplek mercusuar ini terdapat fasilitas penampungan air tawar, rumah jaga, radio komunikasi, gudang, rumah mesin dengan generator diesel, dan juga listrik tenaga surya (LTS). Untuk memenuhi kebutuhan air bersih, penjaga mercu suar masih mengandalkan air yang berasal dari penampungan air hujan dan suply air tawar dari logistik yang tiap sebulan sekali dikirimkan.</p>
+<p>
+	Pulau Sambit yang ditempati oleh penjaga mercusuar tidak memiliki sarana dan prasarana yang memadai.&nbsp; Untuk kebutuhan transportasi, tidak tersedia sarana transportasi seperti perahu atau kapal yang memadai dengan tingkat keamanan yang baik dan dermaga untuk mendukung aktivitas transportasi ini. &nbsp;</p>
+</div></p>
+
+<hr>
+
+<h2><a id="pi">Peluang Investasi</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<h2><a id="pap">Potensi dan Arahan Pengembangan</a></h2>
+<p><div class="readmore"><p>
+	&nbsp;</p>
+<p>
+	Berbagai keanekaragaman yang terdapat di Pulau Sambit dan perairan di sekitarnya merupakan potensi yang mesti dikelola dengan baik.&nbsp; Pantai berpasir putih, terumbu karang, padang lamun, rataan pasir putih dengan segala biota yang berasosiasi didalamnya merupakan potensi yang harus dijaga kelestariaanya dan eksistensinya.</p>
+<p>
+	Keberadaan beberapa biota yang dilindungi di sekitar pulau Sambit seperti keberadaan berbagai jenis Kima (<em>tridacna</em>), reptil laut (<em>sea turtles</em>), terumbu karang dengan kondisi baik/bagus, dan berbagai jenis ikan karang merupakan potensi sumberdaya perikanan yang sangat penting untuk dijaga kelestariannya. Potensi sumberdaya perikanan sedianya dikelola dengan baik untuk menjamin kesejahteraan ekonomi masyarakat disekitar wilayah pulau ini dan juga sejalan dengan itu dikelola untuk menjamin keberlanjutannya (<em>sustainabilitas</em>).&nbsp;</p>
+<p>
+	Keberadaan petugas penjaga mercusuar dan berikut sarana dan alat komunikasinya berupa radio, adalah salah satu potensi dan peluang untuk penjagaan dan pengawasan intensif pada semua sumberdaya alami yang ada di Pulau Sambit dan sekitarnya.&nbsp; Peluang untuk pengawasan intensif sumberdaya yang ada di pulau ini adalah merupakan potensi untuk pengembangan kawasan di sekitar Pulau Sambit sebagai daerah konservasi.</p>
+<p>
+	Berdasarkan potensi yang dimiliki ini, pulau ini memiliki beberapa peluang pengembangannya kedepan. Berdasarkan karakteristik dan profil pulau, pengembangan pemanfaatan Pulau Sambit kedepan potensial untuk kegaiatan konservasi, daerah penangkapan ikan untuk mendukung sektor perikanan tangkap di kawasan ini dan daerah penyangga untuk daerah konservasi penyu di pulau berdekatan dalam kawasan ini.</p>
+<p>
+	Di Pulau Sambit sering kali dijadikan lokasi tempat bertelur oleh beberapa jenis penyu. Terdapat tiga jenis penyu disekitar Pulau Sambit, yaitu jenis penyu hijau, penyu sisik, dan penyu belimbing.&nbsp; Eksistensi hewan reptil laut ini menjadikan pentingnya kawasan untuk dilakukan pengelolaan secara tepat, dimana didalamnya termasuk upaya untuk melakukan perlidungan penyu laut.&nbsp;</p>
+<p>
+	Letak geografis pulau ini yang berdekatan dengan Pulau Kakaban yang merupakan daerah konservasi penyu, dapat dikembangkan sebagai daerah penyangga untuk pengembangan kawasan konservasi di wilayah ini. Hal ini sangat memungkinkan mengingat eksistensi beberapa hewan-hewan laut yang termasuk hewan yang dilindungi.</p>
+<p>
+	Pemanfaatan sumberdaya perikanan melalui kegiatan perikanan tangkap di sekitar perairan Pulau Sambit merupakan aktifitas yang dilakukan oleh masyarakat nelayan pendatang yang menjadikan perairan pulau ini sebagai lokasi <em>fishing ground</em>.&nbsp; Beberapa komoditi utama yang dieksploitasi adalah berbagai jenis ikan karang bernilai ekonomis tinggi seperti ikan sunu, kerapu, ekor kuning, dll.&nbsp; Beberapa pemancing ikan hiu juga memanfaatkan perairan sekitar pulau sebagai <em>fishing ground</em>. Bentuk eksploitasi sumberdaya perikanan dilakukan dengan menggunakan alat tangkap pancing (<em>hand lines</em>), bubu, jaring layang, dan kerap kali pula menggunakan alat tangkap ilegal (bom dan bius potasium sianida).</p>
+<p>
+	Di sektor jasa perhubungan, pulau Sambilt dimanfaatkan sebagai lokasi dan tempat bangunan kompleks mercusuar oleh departemen perhubungan laut.&nbsp; Kompleks ini menempati lahan seluas kurang lebih 1,2 Ha.&nbsp; Kondisi bangunan kompleks mercu suar ini telah mengalami kerusakan akibat dimakan usia dan proses abrasi pantai yang terjadi di pulau ini. Kedepan upaya pemeliharaan fasilitas ini perlu dilakukan.</p>
+<p>
+	Pulau Sambit dalam wilayah yang terintegrasi dengan Pulau Blambangan yang merupakan kawasan konservasi laut dan menjadi salah satu pertimbangan untuk arahan pengembangan Pulau Sambit kedepan. Pulau Sambit dengan potensi sumberdaya yang dimilikinya dan eksistensi beberapa biota laut yang dilindungi, sangat potensial untuk menjadi daerah penyangga kawasan konservasi laut Pulau Blambangan.&nbsp; Selain sebagai lokasi lampu mercusuar, pulau ini berpeluang untuk menjadi lokasi wisata bahari dengan kegiatan utama untuk penyelaman, snorkling dan memancing, dimana kegiatan ini diproyeksikan tidak tumpangtindih dengan pengembangan lokasi ini sebagai daerah penyangga konservasi laut di Pulau Blambangan.&nbsp; Selanjutnya, pengembangan Pulau Sambit semestinya didukung dengan sistem pengawasan dan penegakan hukum yang dilakukan secara efektif antara aparat berwenang, petugas penjaga mercusuar, dan masyarakat di sekitar kawasan ini.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="kp">Kendala Pengembangan</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<h2><a id="rf">Referensi</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<br />
+	<i> 
+		<p style="font-size:12px;">
+			Karena keterbatasan SDM dalam penginputan dan pengolahan data, kami mohon maaf atas ketidak lengkapan beberapa data pulau yang kami tampilkan, harap dimaklumi.
+			Berikan keritik dan saran pada kolom komentar agar kita dapat bersama menyajikan sebuah data yang cukup sempurna untuk halayak ramai yang berguna
+			demi kesejahterahan, kelestarian dan keindahan pulau-pulau kecil yang dimiliki Indonesia.<br />
+			*Jika sekiranya anda memiliki data yang cukup banyak, silakan mengirimkan file melalui email kami di <b><a>identifikasippk@gmail.com</a></b>
+			
+		</p>
+	</i>
+<br />
+
+<div id="fb_comn" class="fb-comments" data-href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_info/411" data-width="800" data-numposts="5" data-colorscheme="light"></div>
+
+
+</div>
+</div>
+</div>
+<div id="wrapper">
+
+<div class="footer"><p>
+<!--<marquee onmouseover="this.stop()" onmouseout="this.start()" scrollamount="5" direction="right" width="798" height="14"  behavior="scroll">-->
+<a href="http://www.ppk-kp3k.kkp.go.id/" target="_blank">Direktorat Pendayagunaan Pulau-Pulau Kecil &nbsp; | &nbsp;</a>
+<a href="http://www.kp3k.kkp.go.id/" target="_blank">Ditjen Kelautan, Pesisir dan Pulau-Pulau Kecil &nbsp; | &nbsp;</a>
+<a href="http://www.kkp.go.id/" target="_blank">Kementerian Kelautan dan Perikanan</a>
+<!--</marquee>--> <br />
+Jl. Medan Merdeka Timur No. 16 Gedung Mina Bahari 3 Lantai 10, Jakarta, Indonesia <br />
+Email : identifikasippk@gmail.com <br />
+Telp &amp; Fax: (021) 3522058 <br />
+&copy; Copyright Direktorat Pendayagunaan Pulau-Pulau Kecil 2012&nbsp; <br /></p>
+</div>
+</div>
+</body>
+</html>

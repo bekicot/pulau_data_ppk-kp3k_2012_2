@@ -1,0 +1,592 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Pulau MARSELA</title>
+
+<meta charset="utf-8"/>
+
+<meta property="fb:app_id" content="559408774147878" />
+
+
+<meta property="og:title" content="Pulau MARSELA" />
+<meta property="og:url" content="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_info/334" />
+
+
+    <script type="text/javascript" src="http://ajax.microsoft.com/ajax/jquery/jquery-1.4.4.min.js">
+    </script>
+    
+    <script type="text/javascript" src="http://plugins.learningjquery.com/expander/jquery.expander.js">
+    </script>
+    
+    <script type="text/javascript">
+        $(function () {
+            $('div.readmore').expander({
+                slicePoint:200,
+                expandText: '(Baca selengkapnya)',
+                userCollapseText: '(Sembunyikan selengkapnya)'
+            });
+        });
+    </script>
+        
+	<script src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/galleria/galleria-1.2.8.min.js"></script>
+
+        <SCRIPT TYPE="text/javascript">
+            <!--
+            //Disable right click script
+            //visit http://www.rainbow.arch.scriptmania.com/scripts/
+            var message="Sorry, right-click has been disabled";
+            ///////////////////////////////////
+            function clickIE() {if (document.all) {(message);return false;}}
+            function clickNS(e) {if
+            (document.layers||(document.getElementById&&!document.all)) {
+            if (e.which==2||e.which==3) {(message);return false;}}}
+            if (document.layers)
+            {document.captureEvents(Event.MOUSEDOWN);document.onmousedown=clickNS;}
+            else{document.onmouseup=clickNS;document.oncontextmenu=clickIE;}
+            document.oncontextmenu=new Function("return false")
+            // -->
+            </SCRIPT>
+            
+            <SCRIPT TYPE="text/javascript">
+            <!--
+            //Disable select-text script (IE4+, NS6+)
+            //visit http://www.rainbow.arch.scriptmania.com/scripts/
+            ///////////////////////////////////
+            function disableselect(e){
+            return false
+            }
+            function reEnable(){
+            return true
+            }
+            //if IE4+
+            document.onselectstart=new Function ("return false")
+            //if NS6
+            if (window.sidebar){
+            document.onmousedown=disableselect
+            document.onclick=reEnable
+            }
+            // -->
+            </SCRIPT>  
+              
+<link rel="stylesheet" type="text/css" href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/css/main.css" media="screen"/>
+<style type='text/css'>
+#info_wrap{
+	width:820px;
+	margin:0 auto;
+	text-shadow:0px 1px 1px #09F;
+}
+table{
+	color:#000000;
+}
+h1{
+	color:#000000;
+}
+.tengahin{
+	width: 105px;
+	height: 30px;
+	margin: 0 auto auto auto;
+}
+#box_view{
+	background-image:-webkit-gradient(linear, 0 0%, 0 100%, from(#FFFFFF), to(#E0F0F5));
+	background:#FFF;
+	color:#F60;
+	border: 1px solid #fff;
+	border-radius: 4px 4px 4px 4px;
+	box-shadow: 0 8px 6px -6px black;
+	position:fixed;
+	right:0;
+	top:150px;;
+	width:80px;
+	z-index:10;
+	padding-left:12px;
+	font-size:10px;
+	}
+#box_view li{
+	color:#F60;
+	margin-left:-30px;
+	}
+	#wrapper a b {
+	color: #FFF;
+	font-size:14px;
+}
+.batas{
+	float:left;
+	border-right-style:inset;
+	border-right-width:thin;
+	}
+.text_h_wrap{
+	
+	padding-left:450px;
+	padding-top:39px;
+	text-shadow:0px 1px 1px #09F;
+	}
+#wrapper .footer p{
+	font-size:12px;
+	color: #FFF;
+	text-align:center;
+	text-shadow:0px 1px 1px #09F;
+}
+td,th {
+	font-size: 12px;
+}
+
+marquee a{
+	color:#FFF
+	}
+#wrapper .footer a{
+	color: #FFFFFF;
+}
+</style>
+            
+<script>
+function goBack()
+  {
+  window.history.back()
+  }
+</script>
+<script type="text/javascript">
+function Popup( url, height, width )
+{
+    var windowProperties = "toolbar = 0, scrollbars = 1, location = 0, statusbar = 0, menubar = 0, resizable = 1, width = " + width + ", height = " + height + ", left = 50, top = 50";
+ 
+    return window.open( url, "", windowProperties );
+}
+</script>
+
+
+
+</head>
+<body oncontextmenu='return false;' onkeydown='return false;' onmousedown='return false;'>
+
+<a id="top_view"></a>
+<div id="wrapper">
+<div class="header_wrap">
+<div class="text_h_wrap">
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/home_page'><b>&nbsp;Home&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/menu_info/1'><b>&nbsp;About Us&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_data'><b>&nbsp;Direktori Pulau&nbsp;&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/program_ip'><b>&nbsp;IKU&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/data_ppkt'><b>&nbsp;PPKT&nbsp;</b></a>
+</div>
+<!--<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/maintenance'><b>&nbsp;Login&nbsp;</b></a>-->
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/dir_log_cont'><b>&nbsp;Login&nbsp;</b></a>
+
+</div>
+</div>
+</div>
+
+<div id="fb-root"></div>
+<script>
+  window.fbAsyncInit = function() {
+    // init the FB JS SDK
+    FB.init({
+      appId      : '559408774147878',                        // App ID from the app dashboard
+      status     : true,                                 // Check Facebook Login status
+      xfbml      : true                                  // Look for social plugins on the page
+    });
+
+    // Additional initialization code such as adding Event Listeners goes here
+  };
+
+  // Load the SDK asynchronously
+  (function(){
+     // If we've already installed the SDK, we're done
+     if (document.getElementById('facebook-jssdk')) {return;}
+
+     // Get the first script element, which we'll use to find the parent node
+     var firstScriptElement = document.getElementsByTagName('script')[0];
+
+     // Create a new script element and set its id
+     var facebookJS = document.createElement('script'); 
+     facebookJS.id = 'facebook-jssdk';
+
+     // Set the new script's source to the source of the Facebook JS SDK
+     facebookJS.src = '//connect.facebook.net/en_US/all.js';
+
+     // Insert the Facebook JS SDK into the DOM
+     firstScriptElement.parentNode.insertBefore(facebookJS, firstScriptElement);
+   }());
+</script>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=559408774147878";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="box_view">
+    <a href="#top_view">MENU</a>
+    <h3><p>Lihat Informasi:</p></h3>
+    <ul>
+	<a href="#sf"><li>Slide Foto</li></a>
+    <a href="#gu"><li>Gambaran Umum</li></a>
+    <a href="#ksbk"><li>Kependudukan, Sosial Budaya dan Kelembagaan</li></a>
+    <a href="#eshp"><li>Ekosistem dan Sumberdaya Hayati</li></a>
+    <a href="#snh"><li>Sumberdaya Non Hayati</li></a>
+    <a href="#aps"><li>Aktivitas Pengelolaan Sumberdaya</li></a>
+    <a href="#ling"><li>Lingkungan</li></a>
+    <a href="#sp"><li>Sarana dan Prasarana</li></a>
+    <a href="#pi"><li>Peluang Investasi</li></a>
+    <a href="#pap"><li>Potensi Arahan Pengembangan</li></a>
+    <a href="#kp"><li>Kendala Pengembangan</li></a>
+	<a href="#rf"><li>Referensi</li></a>
+    </ul>
+    <a href="#fb_comn">KOMENTAR</a>
+</div>
+
+<br>
+			<a id="sf"></a></h2>
+			<div id="galleria">
+            <!--<div class='tengahin'><input type="button" value="Kembali Ke List" onclick="goBack()"></div>-->
+                            </div>
+            
+            <script>
+            Galleria.loadTheme('http://www.ppk-kp3k.kkp.go.id/direktori-pulau/galleria/themes/classic/galleria.classic.min.js');
+            Galleria.run('#galleria');
+            </script>
+</div>
+
+<div id="text_warp">
+
+
+<p><h1>MARSELA</h1></p>
+<table>
+<tr>
+	<td>Nama Lain</td> <td>:</td> <td>MASELA</td>
+</tr>
+<tr>
+	<td>Propinsi</td> <td>:</td> <td>MALUKU</td>
+</tr>
+<tr>
+	<td>Kabupaten</td> <td>:</td> <td>KABUPATEN MALUKU BARAT DAYA</td>
+</tr>
+<tr>
+	<td>Kecamatan</td> <td>:</td> <td>BABAR TIMUR</td>
+</tr>
+<tr>
+	<td>Koordinat</td> <td>:</td> <td><a href="http://www.ppk-kp3k.kkp.go.id/giskkp/index.html?extent=14437948.4464 -918825.9856,14474638.2200 -903997.2021"target="_blank">	8° 8' 39,000</a></td>
+</tr>
+</table>
+<hr>
+
+<h2><a id="gu">Gambaran Umum</a></h2>
+<p><div class="readmore"><p style="text-align: justify;">
+	<strong>Kondisi Umum Pulau</strong></p>
+<p style="text-align: justify;">
+	<strong>Nama Pulau</strong></p>
+<p style="text-align: justify;">
+	Pulau-pulau di Maluku diberi nama oleh masyarakat berdasarkan sesuatu yang ditemukan dan menjadi ciri khas pulau bersangkutan. Pulau Masela diberinama sesuai dengan nama salah satu desa yang ada di pulau ini yaitu desa Masela. Pulau Masela merupakan salah satu dari pulau-pulau terluar yang ada di Kabupaten Maluku Barat Daya. Pulau Masela berbatasan langsung dengan dua negara yaitu Timur Leste dan Australia. Dikawasan pulau Masela dijumpai ada 9 buah pulau kecil lain yang tidak memiliki nama dan belum terdaftar pada daftar nama-nama pulau di Kabupaten Maluku Barat Daya.</p>
+<p style="text-align: justify;">
+	<strong>Sejarah Nama Pulau</strong></p>
+<p style="text-align: justify;">
+	Pemberian nama pulau Masela didasarkan pada dua peristiwa sejarah masa lalu. Persitiwa pertama ketika kepulauan Babar dibagi menjadi empat teritori budaya oleh Trompesumne dan Layenumne yakni wilyah hokum adat Ilwiyar, Wakmyer, Wuwluli, dan Louli. Setiap wilayah hokum adat membingkai desa-desa seperti Wakmyer yang membawahi desa Latalola Besar, Serili, Latalola Keci, Bulolora, Masela, Ilbutung, Babyotan, Telalora, Iblatmuntah, Lawawang dan Nura (termasuk dusun Uiwili). Dari pembagian ini, pulau yang awalnya tak bernama disebut pulau <em>Wakmyer</em>, nama sesuai wilayah hokum adat.</p>
+<p style="text-align: justify;">
+	Peristiwa kedua saat dilakukan uji kebenaran penguasa pulau. Peristiwa ini berawal dari sebuah kapal layar yang dinakhodai Masela melayari laut Arafura tujuan kepulauan Tanimbar. Kapal itu jauh dari pesisir pantai pulau yang saat itu dikuasai tiga raja;( 1) ujung utara pulau dikuasai raja Tumela dengan pusat pemeritahan di Pesul Waley; (2) Tengah pulau dikuasai Raja Reheyara/Zenna dengan pusat pemerintahan di Leray; (3) Ujung Selatan dikuasai raja Ziwtyer dengan pusat pemerintahan di Lektay. Saat kapal layar melewati pulau, dengan kekuatan gaib (melalui pantun adat laut/nyerulora) Raja Reheyara/Zenna memanggil dan membelokan haluan kapal layar akhirnya membongkar sauh dan berlabuh di pelabuhan Nomlely. Raja Tumela menyambut nakhoda kapal layar dipesisir pantai dengan menyebut diri sebagai penguasa pulau. Nahkoda Masela menggelengkan kepala sambil menunjuk ke puncak gunung Lerai bahwa ada penguasa pulau akhirnya Reheyara/Zenna ditandu turun gunung menemui nahkoda Masela. Dalam pertemuan itu raja Tumela tetap mengaku sebagai penguasa pulau, akhirnya disepakati penyelesaian proses penentuan penguasa pulau melalui pantun lagu kebesaran adat (tyarka) dengan syarat siapa yang kuat dialah penguasa pulau ini.</p>
+<p style="text-align: justify;">
+	Tradisi memantun yang dipantunkan oleh keduanya diawali dengan raja Tumela, sampai selesai pantun Raja Reheyara/Zenna tidak mengalami musibah apapun. Saatnya raja Reheyara/Zenna memantun dan belum sampai selesai pantun, raja Tumela meregang nyawa (meninggal dunia), sebagai bukti bukan penguasa pulau dan Nahkoda Masela membenarkan kalau orang yang memanggilnya menghampiri pulau tersebut adalah Reheyara/Zenna raja penguasa pulau.</p>
+<p style="text-align: justify;">
+	Pada saat itulah nahkoda kapal portugis yang bernama Masela dan raja Reheyara/Zenna mengangkat persahabatan dengan pertukaran bendera dan tongkat. Raja Reheyara/Zenna menyerahkan tempat tumbuk siri yang terbuat dari batu yang dikenal dengan nama Wakopkopla kepada Masela. Sebelum berangkat melanjutkan pelayaran ke kepulauan Tanimbar, nahkoda kapal memberi nama pada pulau sesuai namannya &ldquo;Masela&rdquo;.</p>
+<p style="text-align: justify;">
+	<strong>Letak geografi</strong></p>
+<p style="text-align: justify;">
+	Pulau Masela secara astronomi terletak antara&nbsp; 08<sup>0 </sup>05&rsquo; 25<sup>,</sup>29&rdquo; - 08<sup>0 </sup><sup>13</sup>&rsquo; 58<sup>,</sup>94&rdquo; Lintang Selatan dan 129<sup>0 </sup>48&rsquo; 11&rdquo; - &nbsp;129<sup>0 </sup>56&rsquo; 9,55&rdquo; Bujur Timur. Adapun letaknya secara geografis dibatasi antara lain oleh :</p>
+<ul>
+	<li style="text-align: justify;">
+		Sebelah Selatan&nbsp;&nbsp;&nbsp;&nbsp; : Laut Timor</li>
+	<li style="text-align: justify;">
+		Sebelah Utara&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : Laut Babar</li>
+	<li style="text-align: justify;">
+		Sebelah Timur&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : Laut Arafarua</li>
+	<li style="text-align: justify;">
+		Sebelah Barat&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : Laut Arafura</li>
+</ul>
+<p style="text-align: justify;">
+	<strong>Letak Administrasi</strong></p>
+<p style="text-align: justify;">
+	Pulau Masela adalah merupakan salah satu pulau terluar di Kabupaten Maluku Barat Daya (MBD). Pulau ini termasuk ke dalam wilayah Kecamatan Babar Timur,&nbsp; berdasarkan hasil pendataan adminstrasi wilayah Provinsi Maluku Tahun 2012 ditemukan sebanyak 11 desa dan 1 dusun dengan total jumlah penduduk di pulau Masela adalah sebanyak 2.299 jiwa yang terdiri dari laki-laki 1.080 jiwa dan perempuan sebanyak 1.222 Jiwa.</p>
+<p style="text-align: justify;">
+	<strong>Luas Pulau dan Batas Wilayah</strong></p>
+<p style="text-align: justify;">
+	Luas wilayah Pulau Masela berdasarkan hasil perhitungan ditemukan luas total wilayah sebesar 1.896,097 Km<sup>2</sup> meliputi luas daratan sebesar 45,747&nbsp; km<sup>2</sup> dan luas laut untuk wilayah kelola Kabupaten (0-4 mil) sebesar 386.11 Km<sup>2</sup> dan luas wilayah kelola Provinsi (4-12 mil) sebesar 1.464.24&nbsp; Km<sup>2</sup></p>
+<p style="text-align: justify;">
+	Sebanyak 9 buah pulau sangat kecil yang termasuk dalam wilayah pulau Masela, dan sampai saat ini tidak memiliki nama. &nbsp;Pulau Masela (pulau terluar) dengan luas 45,747 km<sup>2</sup> dan memiliki panjang garis pantai sebesar&nbsp; 40,06 km. Memiliki tiga ekosistem utama yakni ekosistem mangrove dengan luas sebesar 0,04 km<sup>2</sup>, ekosistem lamun sebesar 5,889 km<sup>2</sup> dan ekosistem terumbu karang&nbsp; dengan luas sebesar 15,373 km<sup>2</sup>.</p>
+<p style="text-align: justify;">
+	<strong>Aksesibilitas</strong></p>
+<p style="text-align: justify;">
+	Untuk mencapai Kawasan Pulau Masela, memang penuh tantangan. Dari Ambon perjalanan harus ditempuh dengan kapal laut ke Tepa, dilanjutkan dengan kapal motor kayu 6-8 jam ke Pulau Masela, akan tetapi tidak selalu tersedia transportasi umum tersebut. Perjalanan dari Tepa ke Pulau Masela ada angkutan reguler (kapal perintis) yang melayani rute Tepa ke pulau Masela, namun jadwal satu bulan sekali dan jika musim gelombang tidak ada pelayaran ke wilayah-wilayah pulau tersebut.&nbsp;&nbsp;</p>
+<p style="text-align: justify;">
+	<strong>Status Kawasan</strong></p>
+<p style="text-align: justify;">
+	Kawasan Pulau Masela, merupakan kawasan strategis nasional, karena bagian perairannya merupakan sumber migas yang telah selesai dieksploirasi dan dalam persiapan untuk melakukan eksploitasi. Selain itu karena pulau Masela merupakan pulau terdepan yang berbatasan langsung dengan negara Australia.</p>
+<p style="text-align: justify;">
+	<strong>Status Pulau</strong></p>
+<p style="text-align: justify;">
+	Pulau Masela merupakan wilayah administrasi Kabupaten Maluku Barat Daya, sehingga secara pemerintahan dibawah wewenang Kabupaten Maluku Barat daya. Akan tetapi merupakan hak ulayat/adat dari desa-desa yang ada di pulau tersebut.</p>
+<p style="text-align: justify;">
+	<strong>Klimatologi</strong></p>
+<p style="text-align: justify;">
+	<strong>Iklim</strong></p>
+<p style="text-align: justify;">
+	<strong><em>a. Curah Hujan</em></strong></p>
+<p style="text-align: justify;">
+	Selama kurun waktu 1997 &ndash; 2011 curah hujan tahunan terendah dan tertinggi yang pernah terdata di stasiun klimatologi Saumlaki adalah sebesar 729 mm dan&nbsp; 1529 mm.&nbsp; Secara umum, data menunjukkan bahwa curah hujan yang cukup tinggi dapat terjadi pada musim penghujan (dapat melampaui&nbsp; 400 mm/bln pada bulan Januari - Februari). Sedangkan&nbsp; pada musim kering (yang terjadi pada rentang waktu yang relatif lebih panjang) curah hujan sangat rendah, bahkan curah hujan 0 mm/bln sering terjadi&nbsp; pada bulan-bulan Juli hingga September.</p>
+<p style="text-align: justify;">
+	Sebagaimana umumnya kondisi iklim di Indonesia, pola iklim di wilayah studi tergolong Moonson, yang secara umum ditandai dengan perputaran dua musim secara bergantian antara musim hujan dan musim kemarau. Walaupun demikian, musim panas (musim kering) di wilayah studi relatif lebih lama dibanding musim penghujan. Secara umum, bulan basah atau musim hujan terjadi selama empat bulan, yaitu pada bulan-bulan Desember hingga Maret dengan rata-rata curah hujan tertinggi terjadi pada bulan Februari. Sedangkan bulan Mei hingga Nopember adalah musim kemarau dengan rata-rata bulan terkering terjadi pada bulan Agustus.</p>
+<p style="text-align: justify;">
+	<strong><em>b. Kelembaban&nbsp;</em></strong></p>
+<p style="text-align: justify;">
+	Selang perubahan kelembaban udara yang tercatat di stasiun klimatologi Mali, Alor sepanjang 15 tahun (antara tahun 1993 &ndash; 2007) relatif besar, yaitu kelembaban rata-rata minimum terendah adalah sekitar 48% sedangkan kelembaban maksimum dapat mencapai lebih dari 98%. Secara umum, kelembaban udara relatif rendah terjadi pada sekitar bulan April hingga Nopember (pada musim kering), sedangkan antara bulan Desember hingga Maret (musim hujan) kelembaban udara relatif tinggi. Pada musim kemarau, kelembaban udara dapat mencapai 30%, sedangkan pada musim hujan dapat pula mencapai 100%.</p>
+<p style="text-align: justify;">
+	<strong><em>c. Suhu Udara</em></strong></p>
+<p style="text-align: justify;">
+	Secara umum, suhu udara rata-rata tahunan di wilayah studi relatif stabil sepanjang tahun dengan suhu rerata berkisar antara 26 &ndash; 29 &deg;C. Rata-rata bulanan suhu maksimum (suhu udara siang hari) berkisar antara 31 &ndash; 36 &deg;C , sedangkan rata-rata bulanan suhu minimum (suhu udara dini hari) berkisar antara 19 &ndash; 25 &deg;C.Data-data (bersumber dari BMG) yang digunakan dalam studi ini lebih merepresentasikan kondisi umum daerah pesisir di wilayah studi. Sedangkan suhu udara di daerah pedalaman (<em>inland</em>) dengan sendirinya akan lebih rendah sesuai dengan ketinggian topografinya.</p>
+<p style="text-align: justify;">
+	Pada musim hujan perbedaan suhu maksimum di siang hari dan suhu minimum di malam hari relatif lebih kecil dibanding pada musim kemarau. Pada musim hujan yang dipengaruhi oleh Monsoon Barat (Barat Laut) pada bulan-bulan sekitar Nopember hingga Maret, suhu udara maksimum di siang hari umumnya berkisar antara 34 - 36 &deg;C dan suhu udara minimum di malam hari&nbsp; berkisar antara&nbsp; 24 - 25 &deg;C.</p>
+<p style="text-align: justify;">
+	<strong><em>d. Kecepatan dan </em></strong><strong><em>Arah Angin</em></strong></p>
+<p style="text-align: justify;">
+	Rata-rata bulanan kecepatan angin yang terdata di BMG Saumlaki adalah berkisar antara 1,1 &ndash; 4,5 knots (2,0 &ndash; 8 kph). Secara umum, pada musim hujan (Desember hingga Februari) dominan bertiup angin barat, sedangkan pada musim kemarau (April hingga Oktober) dominan bertiup angin timur. Bulan Maret dan Nopember dapat digolongkan sebagai bulan pancaroba, di mana arah angin relatif berubah-ubah. Secara umum, rata-rata kecepatan angin sepanjang tahun di lokasi reltif stabil, yaitu umumnya kurang dari 8 km/jam. Kecepatan angin relatif tinggi umumnya terjadi pada bulan Juli hingga Agustus, yaitu rata-rata 10 km/jam atau kadang bisa lebih.</p>
+<p style="text-align: justify;">
+	Data klimatologi selama 15 tahun (1997 &ndash; 2011) menunjukkan bahwa pada bulan-bulan Januari dan Februari 95% angin bertiup dari arah Barat dan sisanya bertiup dari Barat Laut. Dari bulan April hingga Oktober lebih dari 90% kemungkinan angin bertiup dari arah Timur, sedangkan sisanya bertiup dari arah Timur Laut atau Tenggara. Bulan-bulan Nopember dan Maret arah angin cenderung berubah-ubah, dimana pada Bulan Nopember domain angin Timur sedikit lebih dominan, sedangkan bulan Nopember dan Maret domain angin Barat terasa sedikit lebih dominan. Berdasarkan data rata-rata bulanan kecepatan dan arah angin (tahun 1997 &ndash; 2003) yang diperoleh dari stasiun BMG Mali,</p>
+<p style="text-align: justify;">
+	<strong>Oseanografi</strong></p>
+<p style="text-align: justify;">
+	<strong><em>Pola Arus</em></strong></p>
+<p style="margin-left: 4.5pt; text-align: justify;">
+	Arus atau perpindahan massa air di perairan sekitar pulau Masela ini merupakan kombinasi arus angin dan arus pasang surut. &nbsp;Pada perairan ini, arus akibat dorongan angin mencapai kecepatan maksimum pada bulan Juli yaitu 1,96 m/det. Secara musiman, pergerakan air lebih kuat pada musim Timur, saat dimana tiupan angin muson tenggara mencapai puncak kekuatannya. Pada musim Timur, atus bergerak ke arah barat dengan kecepatan yang bervariasi antara 0,63 &ndash; 1,96 m/det dan rerata kecepatan 1,31 m/det. Pada musim Barat, arus cenderung bergerak ke arah timur dengan kecepatan antara 0,11 &ndash; 1,97 m/det dan rerata kecepatannya 1,20 m/det.</p>
+<p style="margin-left: 4.5pt; text-align: justify;">
+	Arus pasut tercatat memiliki kecepatan bervariasi antara 0,23 -0,31 m.s<sup>-1</sup> dengan kecepatan rerata 0,27 m.s<sup>-1</sup>. Kecepatan Arus minimum terjadi di perairan sekitar pantai Selatan sementara maksimum dijumpai pada perairan pantai Utara Pulau Masela.</p>
+<p style="text-align: justify;">
+	<strong><em>Pola Gelombang</em></strong></p>
+<p style="text-align: justify;">
+	Energi angin sebagai pembangkit gelombang utama di laut pada musim timur di estimasi mampu menghasilkan tinggi gelombang signifikan maksimum setinggi 4 meter dengan periode 7,8 detik di perairan pulau Masela. Berdasarkan letak posisi terhadap arah datangnya angin maka perairan sepanjang pantai Timur Pulau Masela mengalami tekanan gelombang yang intensif, terindikasi lewat tingkat abrasi yang kuat terjadi sepanjang pesisir pantai Timur&nbsp; pulau tersebut.</p>
+<p style="text-align: justify;">
+	<strong><em>Pasang Surut</em></strong></p>
+<p style="text-align: justify;">
+	Pasang surut di perairan sekitar wilayah pulau Masela, digolongkan sebagai pasang campuran mirip harian ganda (<em>predominantly semi diurnal tide</em>). Ciri utama tipe pasang surut&nbsp; ini adalah terjadi dua kali pasang dan dua kali surut dimana pasang pertama selalu lebih besar dari pasang kedua.&nbsp; Tunggang air (<em>tidal range</em>) maksimum perairan ini umumnya berkisar antara 0,6 &ndash; 1,8 meter. Tunggang air ini dapat menyebabkan bagian perairan yang lebih dangkal akan muncul kepermukaan.</p>
+<p style="text-align: justify;">
+	<strong><em>Bathimetri</em></strong></p>
+<p style="text-align: justify;">
+	Bathymetri perairan sekitar wilayah pulau Masela menunjukkan bahwa kedalaman perairan bervariasi antara&nbsp; 7 &ndash; 500 meter. Kelandaian perairan yang dihitung terhadap kontur kedalaman referensi 200 meter menunjukkan bahwa kelandaian perairan memiliki tipe perairan yang landai sampai sedang, dengan tingkat kemirigan berkisar antara 8 - 20%. Kelandaian minimum dijumpai pada pantai Timur sedangkan kelandaian maksimum terkonsentrasi pada pantai Utara pulau.</p>
+<p style="text-align: justify;">
+	<strong>Hidrologi</strong></p>
+<p style="text-align: justify;">
+	<strong><em>Air Permukaan</em></strong></p>
+<p style="text-align: justify;">
+	Pulau ini berbentuk memanjang dengan arah Barat daya &ndash; Timur laut, sebagian besar berbentuk hampir datar, dan tidak dijumpai adanya aliran sungai dan tidak dijumpai adanya air permukaan. Data curah hujan tahunan pada pulau ini berkisar antara 1500 &ndash; 1800 mm. Untuk mendapatkan air tawar salah satunya adalah dari air tanah. Hampir keseluruhan pulau ini tersusun oleh batu gamping koral berumur&nbsp; Pleistosen (Kuarter) dan sedikit bagian Utara terdapat endapan aluvium yang terdiri dari kerikil, kerakal, pasir, lanau dan lumpur yang proses pengendapannya masih berlangsung hingga sekarang. Batu gamping umumnya bersifat mudah meresap dan melarutkan air, sehingga air hujan yang turun di daerah ini sebagian besar dapat meresap ke dalamnya dan tersimpan menjadi air tanah.</p>
+<p style="text-align: justify;">
+	<strong>Air Tanah</strong></p>
+<p style="text-align: justify;">
+	Sumber air baku untuk keperluan penduduk Pulau Masela yaitu:</p>
+<ul style="list-style-type:circle;">
+	<li style="text-align: justify;">
+		Sumur dangkal untuk air baku air bersih dan air baku mandi, cuci, kakus (MCK).</li>
+	<li style="text-align: justify;">
+		Penampungan air hujan (PAH) untuk air bersih.</li>
+</ul>
+<p style="text-align: justify;">
+	Sejauh ini sumber air untuk memenuhi kebutuhan air baku air bersih dan air MCK di pulau Masela hanya berasal dari dua sumber air tersebut di atas. Namun demikian jika musim kemarau sumber air PAH habis dan sumber air sumur dangkal semakin asin, karena kandungan air laut yang berlebihan akan menyulitkan penduduk di pulau ini untuk mendapatkan air baku air bersih.</p>
+<p style="text-align: justify;">
+	Sumber air bersih untuk keperluan penduduk di pemukiman barat daya pulau yakni air dari sumur dangkal sebanyak 3 buah yang terletak di di dekat pantai. Sumber air bersih untuk penduduk di pemukiman timur pulau yakni air dari sumur dangkal sebanyak 2 buah juga terletak di bagian desa yang berdekatan dengan pantai. Berdasarkan pengamatan secara visual di lapangan diketahui bahwa air sumur dangkal untuk air MCK kualitas tidak baik (Gambar 1.12). Jika dimasak selain rasanya yang agak asin, juga tampak kandungan kapur masih cukup banyak di dasar wadah.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="ksbk">Kependudukan, Sosial Budaya dan Kelembagaan</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<h2><a id="eshp">Ekosistem dan Sumberdaya Hayati</a></h2>
+<p><div class="readmore"><p style="text-align: justify;">
+	<strong>Potensi Sumberdaya Teresterial</strong></p>
+<p style="text-align: justify;">
+	Penggunaan lahan daratan pesisir sampai batas 1 km dari pantai di P. Masela meliputi hutan primer, hutan sekunder, semak belukar dan alang-alang, ladang/tegalan, kebun campuran, dan pemukiman. Penggunaan lahan di kawasan ini didominansi oleh hutan belukar, hutan primer dan sekunder, sisanya merupakan kebun campuran, ladang, tegalan, perkampungan dan tanah kosong. Semak belukar, ladang/tegalan, dan kebun campuran terdistribusi sepanjang pesisir utara pulau Babar. Hutan sekunder dan hutan primer terdistribusi setempat setempat di pesisir timur laut Babar, pulau Wetan dan Dawelor. Pemukiman terkonsentrasi di pesisir timur pulau Babar, pulau Wetan dan Dawelor.</p>
+<p style="text-align: justify;">
+	Penggunaan lahan perairan pesisir di P. Masela sampai pada batas zone kelola kabupaten (4 mil laut) meliputi pantai bergisik, pantai berbatu, rataan pasut berpasir, terumbu karang, saaru dan perairan penangkapan dan budidaya laut. Pantai bergisik yang tersusun oleh material pasir &ndash; kerikil dan kerakal merupakan lahan kosong yang ditumbuhi vegetasi semak. Pantai berbatu mencakup pantai tebing terjal, platform pantai, dan bongkahan batu karang terdistribusi secara luas di pesisir, juga merupakan lahan kosong yang tidak dimanfaatkan. Panjang garis pantai wilayah Kec. Babar Timur berdasarkan hasil perhitungan ditemukan panjang total garis pantai sejauh 126.01 km.&nbsp;</p>
+<p style="text-align: justify;">
+	Pada rataan pasut berpasir terdistribusi vegetasi lamun, alge dan berbagai biota yang berasosiasi dengannya, dengan penutupan lamun dan alge yang bervariasi. Di luar zone pasang surut, yang merupakan perairan oseanis dimanfaatkan untuk pe-nangkapan ikan dan budidaya perairan. Jenis penangkapan ikan meliputi penangkap-an ikan pelagis, demersal dan karang, sedangkan jenis kegiatan budidaya mencakup budidaya ikan, rumput laut dan teripang tetapi belum dikembangkan.</p>
+<p style="text-align: justify;">
+	<strong>Potensi Sumberdaya Pesisir dan Laut</strong></p>
+<p style="text-align: justify;">
+	<strong>Hutan Mangrove</strong></p>
+<p style="text-align: justify;">
+	Pulau Masela dari imformasi masyarakat bahwa daerah ini pernah terjadi gempa, terletak pada posisi 129o 51,303 dan -7o 53,663 kondisi substrat adalah Pasir bercampur patahan karang, komunitas mangrove cukup baik dan merupakan daerah sasi ontuk sumberdaya teripang nanas, ditengah kominitas mangrove ini juga dijumpai komunitas lamun. Persen penutupan lahan Anakan (17,11 %), Sapihan (34,21 %) Pohon (48,68 %), Jenis mangrove yang dijumpai adalah <em>Rhizophora mucronata, Sonneratia alba, Xylocarpus molucensis, Avicennia marina, Lumnitzera risomosa, Phempis acidula.</em></p>
+<p style="text-align: justify;">
+	<strong>Padang Lamun</strong></p>
+<p style="text-align: justify;">
+	Komunitas lamun di perairan P. Masela dijumpai sebanyak 5 jenis yakni<em>, Thalassia hemprichii, Cymodocea rotundata, Halophila ovata, Halop Halodule uninervis hila uninervis dan Siringodium isoetifolium, </em>yang mana <em>Thalassia hemprichii dan Cymodocea rotundata </em>adalah dua jenis yang dominan dengan tingkat kerapatan jenis yang sangat tinggi dibandingkan dengan tiga jenis lainnya.Karakteristik pulau-pulau dengan pantai yang dominansi karang dan berbatu di P. Masela merupakan salah satu faktor bagi distribusi ekosistem lamun.</p>
+<p style="text-align: justify;">
+	Total Kerapatan lamun di P. Masela sebesar 230,33 tegakan/m<sup>2 </sup>dengan kerapatan terting ditemukan pada jenis lamun <em>Thalassia hemprichii </em>sebesar 114,6 tegakan/m<sup>2</sup>, selanjutnya jenis,<em> Cymodocea rotundata </em>sebesar 84,33 tegakan/m<sup>2</sup><em>, Halodule uninervis </em>sebesar 17,67 tegakan/m<sup>2 </sup><em>Halophila ovata </em>sebesar 8,00 tegakan/m<sup>2</sup><em>, </em>dan terkecil ditemukan pada jenis<em> Siringodium isoetifolium </em>sebesar 5,67 tegakan/m<sup>2</sup><em>.</em> Nilai kerapatan ini hampir berbanding lurus dengan nilai persen tutupan dari masing masing jenis, kecuali pada jenis <em>Halodule uninervis </em>yang mana memiliki persen tutupan yang lebih kecil dari <em>Halophila ovata </em>karena ukuran daun yang relatif lebih kecil seperti jarum (Tabel 2).</p>
+<p style="text-align: justify;">
+	Ekosistem lamun juga mempunyai peranan penting bagi kehidupan beberapa biota laut. Ada jenis-jenis ikan yang hidup menetap pada komunitas lamun dan ada juga yang hanya datang mencari makanan (<em>Siganus</em> dan <em>Dugong</em> <em>dugon</em>) atau sekedar mencari tempat perlindungan Selain fungsi tersebut, lamun memiliki kemampuan perangkap (<em>trapped</em>) sedimen, menstabilkan substrat dasar dan menjernihkan perairan. Selain itu, sistem perakaran lamun juga mampu mengikat sedimen sehingga terhindar dari kemungkinan abrasi.. Selain fungsi tersebut, lamun memiliki kemampuan perangkap (<em>trapped</em>) sedimen, menstabilkan sub-strat dasar dan menjernihkan perair-an. Selain itu, sistem perakaran lamun juga mampu mengikat sedi-men sehingga terhindar dari ke-mungkinan abrasi. Karena fungs-fungsi tersebut, maka manusia meman-faatkan padang lamun untuk mencari biota laut yang terdapat di dalamnya dengan cara-cara yang tidak tertanggung-jawab.</p>
+<p style="text-align: justify;">
+	Kerapatan lamun dapat berkurang akibat dirusak manusia yang ingin memanfaatkan biota laut yang berlindung di dalamnya. Untuk memulihkan padang lamun yang hilang, dapat dilakukan dengan jalan transplantasi dan melindungi komunitas tersebut dari aktivitas manusia. Kondisi lamun yang baik akan diikuti dengan masuknya sejumlah biota laut yang biasa hidup berasosiasi dengan lamun tersebut. Kehadiran lamun dapat menyuburkan dan meningkatkan produktivitas perairan.</p>
+<p style="text-align: justify;">
+	<strong>Terumbu Karang</strong></p>
+<p style="text-align: justify;">
+	Luas terumbu karang Pulau Masela berdasarkan hasil analisis data citra satelit mencapai 0,68 km<sup>2</sup>. Karang batu yang tumbuh dan tersebar pada areal terumbu perairan pesisir pulau ini sebanyak 67 spesies, seluruhnya termasuk dalam 34 genera dan 12 famili. Komposisi taksa karang tersebut memberikan suatu indikasi bahwa areal terumbu lokasi ini memiliki kekayaan spesies karang relatif rendah.</p>
+<p style="text-align: justify;">
+	Dari 29 kategori bentuk pertumbuhan bentik, di perairan pulau ini dijumpai sebanyak 18 kategori bentuk tumbuh yang terdiri dari 15 bentuk tumbuh komponen biotik dan 3 kategori komponen abiotik (patahan karang mati, batuan/karang papan dan pasir). Kategori bentuk tumbuh komponen biotik terdiri dari bentuk tumbuh karang keras (Hard Corals) sebanyak 10 kategori (4 kategori bentuk tumbuh karang Acropora dan 6 kategori bentuk tumbuh karang Non Acropora), karang mati (Dead Corals) 1 bentuk tumbuh, Algae dan fauna bentik lainnya (Other Faunas) masing-masing 2 bentuk tumbuh.</p>
+<p style="text-align: justify;">
+	Komponen biotik yang menutupi dasar perairan di kecamatan ini relatif tinggi dengan persen penutupan substrat sebesar 77,06%, jauh lebih tinggi bila dibandingkan dengan komponen abiotik. Walaupun komponen biotik memiliki persen penutupan yang tinggi, tetapi kondisi terumbu karangnya berada pada kondisi kurang baik (Fair) dengan persen penutupan sebesar 46,74%. Kondisi terumbu karang dengan kategori kurang baik ini dipengaruhi oleh persen tutupan Algae terutama oleh alga halus (turf algae) sebesar 26,02% dan batuan/karang papan sebesar 12,54%. Sumbangan terbesar untuk penutupan karang batu berasal dari karang Non Acropora (36,52%).</p>
+<p style="text-align: justify;">
+	<strong>Alga</strong></p>
+<p style="text-align: justify;">
+	P. Masela memiliki keragaman jenis makro algae sebanyak 7 spesies yang dapat dimasukan ke dalam 4 genus, 4 famili, 3 ordo, dan 3 devisi. Pengelompokannya dalam 3 devisi uta-ma yaitu alga hijau (Chlorophyta) terdiri dari 3 spesies, alga coklat (Phaeophyta) yang ter-diri dari 1 spesies dan alga merah (Rhodo-phyta) yang terdiri dari 3 spesies. Dari jenis-jenis yang tersebut, terdapat beberapa spesies yang memiliki nilai ekonomis yang berasal dari genus Caulerpa, Hypnea dan Gracilaria.</p>
+<p style="text-align: justify;">
+	<strong>Makro Benthos</strong></p>
+<p style="text-align: justify;">
+	Spesies makrofauna bentos yang dijumpai di perairan pasang surut P. Masela sebanyak 19 spesies, dimana 6 spesies diantaranya memiliki nilai ekonomis penting. Spesies-spesies ekonomis tersebut yaitu <em>Anadara granosa, Barbatia antiquate, Gafrarium tumidum, Isognomon isognomon, Telenota ananas</em>, dan <em>Holothuria atra</em>.</p>
+<p style="text-align: justify;">
+	<strong>Ikan (Ikan Demersal, Ikan Karang dan Ikan Hias)</strong></p>
+<p style="text-align: justify;">
+	Perairan Pulau Masela memiliki 196 spesies ikan karang yang tergolong dalam 97 genera dan 32 famili. Berdasarkan kriteria pemanfaatannya, maka ke-196 spesies ikan karang tersebut dapat dikelompokkan menjadi ikan konsumsi sebanyak 93 spesies dan ikan hias sebanyak 103 spesies. Empat famili ikan yang memiliki jumlah spesies tertinggi masing-masing sebagai berikut: Pomacentridae (35 spesies), Labridae (31 spesies), Chaetodontidae dan Acanthuridae masing-masing sebanyak 15 spesies. Sedangkan genera-genera yang memiliki jumlah spesies tertinggi adalah: <em>Chaetodon</em> (12 spesies), <em>Acanthurus </em>(8 spesies), <em>Pomacentrus</em> dan<em> Scarus</em> masing-masing sebanyak 7 spesies.</p>
+<p style="text-align: justify;">
+	Potensi ikan karang di perairan P. Masela diperoleh besar sumber 34 individu yang terdiri dari ikan konsumsi 25 individu dengan biomassa sebesar 0,01 ton dan ikan hias 10 individu. Berdasarkan SK Mentan No. 995 tahun 1999, maka potensi lestari dari ikan karang di perairan ini adalah 17 individu yang terdiri dari ikan konsumsi sebanyak &nbsp;12 individu dan ikan hias 5 individu. Berdasarkan SK tersebut juga maka potensi ikan karang yang boleh dimanfaatkan di perairan ini adalah 14 individu yang terdiri dari ikan konsumsi sebanyak 10 individu dan ikan hias 4 individu.</p>
+<p style="text-align: justify;">
+	<strong>Perikanan Tangkap</strong></p>
+<p style="text-align: justify;">
+	Di P. Masela, setidaknya ada 6 jenis alat penangkapan ikan yang dioperasikan oleh nelayan di perairan sekitarnya. Mereka menggunakan jaring insang hanyut (<em>drift gill net</em>) untuk menangkap ikan pelagis kecil seperti ikan terbang (<em>Chypsilurus </em>sp), selar (<em>Selar </em>sp; <em>Selaroides </em>sp), tongkol (<em>Auxis thazard</em>) dan beberapa jenis lainnya. Beberapa jenis ikan pelagis kecil ini, juga tertangkap oleh nelayan dengan menggunakan pukat pantai (<em>beach seine</em>), jaring insang lingkar (<em>surrounding gill net</em>), dan pancing tangan (<em>hand line</em>).</p>
+<p style="text-align: justify;">
+	Operasi penangkapan ikan dengan pukat pantai (<em>beach seine</em>) dapat menangkap berbagai jenis ikan demersal/karang dan ikan pelagis kecil. Jaring insang lingkar (<em>surrounding gill net</em>) dioperasikan untuk menangkap ikan-ikan yang sering bergerombol seperti ikan kembung (<em>Rastrelliger </em>sp) dan lemuru/&rdquo;make&rdquo; (<em>Sardinella </em>sp) jika diapungkan di permukaan laut dan ikan lalosi (<em>Caesio </em>sp) jika ditenggelamkan di dasar laut. Penggunaan pancing tonda (<em>troll line</em>) diperuntukan untuk menangkap ikan-ikan pelagis besar, terutama cakalang (<em>Katsuwonus pelamis</em>), madidihang (<em>Thunnus albacares</em>), tongkol (<em>Euthynnus affinis</em>), dan tuna (<em>Thunnus </em>sp).</p>
+</div></p>
+
+<hr>
+
+<h2><a id="snh">Sumberdaya Non Hayati</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<h2><a id="aps">Aktivitas Pengelolaan Sumberdaya</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<h2><a id="ling">Lingkungan</a></h2>
+<p><div class="readmore"><p style="text-align: justify;">
+	<strong>FISIOGRAFI</strong></p>
+<p style="text-align: justify;">
+	Pulau Masela memiliki topografi perbukitan, dengan ketinggian puncaknya mencapai 450-800 m dari permukaan laut. Pulau ini umumnya berlereng landai, setempat agak terjal. Pola aliran sungai memancar dan hanya berair pada waktu musim hujan.</p>
+<p style="text-align: justify;">
+	Bentuk lahan makro di wilayah ini dibagi atas tiga kelas yaitu dataran, dan berbukit dengan lereng datar (0-3%), dan landai/berombak (3-8%) bergelombang (8-15%), dan agak curam (15-30%). Satuan bentuk lahan asal di kawasan kecamatan ini meliputi bentuk lahan asal karst dan denudasional. Bentuk lahan asal karst terdistribusi pada seluruh pulau sedangkan bentuk lahan asal denudasional terdistri-busi pada daerah tengah pulau Babar.</p>
+<p style="text-align: justify;">
+	Batuan tersingkap di daerah ini tersusun dalam lima formasi batuan yakni formasi Gamping Koral, Aluvium, Konglomerat, Batupasir Kuarsa, dan Brancuh. Batuan yang tersingkap pada alur-alur sungai yang mengalir ke arah selatan, yaitu sungai Lawang dan di hulu sungai Meterietan berupa serpih yang diperkirakan berumur Yura (Pra Tersier). Pada bagian tengah pulau dijumpai batuan &ldquo;melange&rdquo; yang diduga berumur Miosen Akhir hingga Pliosen; terdiri dari bongkahan batuan yang beranekaragam seperti batuan malihan, batu gamping, serpih, dimana batuan-batuan tersebut berasal dari batuan yang lebih tua. Batuan &ldquo;melange&rdquo; ini juga tersingkap pada aliran sungai Waikukna dan sungai yang terdapat di utara sungai Popora. Kemudian bagian barat, timur dan sedikit di bagian selatan dijumpai batuan pasir kuarsa yang berumur pilosen.</p>
+<p style="text-align: justify;">
+	Mengacu pada Peta Pulau&ndash;Pulau Seramata dan Pulau&ndash;Pulau Tanimbar No.48 Skala 1: 500.000 yang dikeluarkan oleh DISHIDROS tahun 2003, Batimetri perairan P. Masela memiliki kedalaman perairan yang bervariasi antara 7 &ndash; 500 meter. Kelandaian perairan yang dihitung terhadap kontur kedalaman referensi 200 meter menunjukkan bahwa kelandaian perairan berkisar antara 3 &ndash; 40 %, dapat dikategorikan sebagai perairan dengan kemiringan landai sampai curam. Bagian pantai Utara dan Selatan memiliki kelandaian sedang dengan tingkat kemiringan 20%. Pantai timur Pulau Masela memiliki tipe perairan yang landai sampai sedang, dengan tingkat kemiringan berkisar antara 8 - 20%. Kelandaian minimum dijumpai pada pantai timur sedangkan kelandaian maksimum terkonsentrasi pada pantai utara pulau. Kelandaian perairan Pulau Dawera dan Daweloor dikategorikan sebagai pantai landai dan curam dengan kemiringan di pantai selatan sebesar 8 % sementara di pantai utara kemi-ringan dapat mencapai 40%.</p>
+<p style="text-align: justify;">
+	<strong>IKLIM</strong></p>
+<p style="text-align: justify;">
+	Iklim dipengaruhi oleh laut Banda, Laut Arafura dan Samudera Indonesia juga dibayangi oleh Pulau Irian bagian Timur dan Benua Australia bagian Selatan sehingga sewaktu-waktu mengalami perubahan, yang tergantung pada musim.</p>
+<p style="text-align: justify;">
+	Curah hujan secara umum antara 1000 &ndash; 2000 mm pertahun dengan suhu rata-rata untuk tahun 2006 adalah 27.6 &ordm;C dengan suhu minimum absolute rata-rata 21,8&ordm;C dan suhu maksimum absolute rata-rata 33.0&ordm;C. Sedang rata-rata kelembapan udara relative 80.2%; penyinaran matahari rata-rata 71,0%; dan tekanan udara rata-rata 1.011,8 milibar.</p>
+<p style="text-align: justify;">
+	Berdasarkan klasifikasi agroklimate menurut OLDEMAN, IRSAL dan MULADI (1981), Maluku Tenggara Barat terbagi dalam dua zone agroklimat dimana P. Masela termasuk dalam kategori Zone D3 yakni: bulan basah 3 &ndash; 4 bulan dan kering 4 &ndash; 6 bulan.</p>
+<p style="text-align: justify;">
+	<strong>OCEANOGRAFI</strong></p>
+<p style="text-align: justify;">
+	<strong>Pasang Surut dan Arus</strong></p>
+<p style="text-align: justify;">
+	Pasang surut di perairan P. Masela memiliki tipe yang sama dengan daerah lainnya di Maluku, yaitu digolongkan sebagai pasang campuran mirip harian ganda (<em>predominantly semi diurnal tide</em>). Ciri utama tipe pasang surut ini adalah terjadi dua kali pasang dan dua kali surut dimana pasang pertama selalu lebih besar dari pasang kedua.</p>
+<p style="text-align: justify;">
+	Tunggang air (<em>tidal range</em>) maksimum perairan ini umumnya berkisar antara 2 &ndash; 2,5 meter. Tunggang air ini dapat menyebabkan bagian perairan yang lebih dangkal akan muncul kepermukaan seperti di Pulau Masela, Kroing, Dawera dan Daweloor. Kejadian &ldquo;Meti Kei&rdquo; selama bulan Oktober memberikan dampak kekeringan yang luar biasa di daerah tersebut sehingga dapat berakibat fatal bagi organisme termasuk terumbu karang.</p>
+<p style="text-align: justify;">
+	Arus atau perpindahan massa air di perairan kecamatan ini merupakan kombinasi arus angin dan arus pasang surut. Kecepatan arus angin pada bulan Oktober di perairan ini dapat mencapai 1 m.s<sup>-1</sup> dominan bergerak dari arah timur menuju perairan bagian barat. Intensitas arus yang maksimum terjadi pada perairan antara Babar Timur dengan Pulau Daweloor-Dawera.</p>
+<p style="text-align: justify;">
+	Arus pasut memiliki kecepatan bervariasi antara 0,23 -0,31 m.s<sup>-1</sup> dengan kecepatan rerata 0,27 m.s<sup>-1</sup>. Kecepatan Arus minimum terjadi di perairan sekitar Teluk Kroing sementara maksimum dijumpai pada perairan pantai Utara Pulau Masela.</p>
+<p style="text-align: justify;">
+	<strong>Gelombang</strong></p>
+<p style="text-align: justify;">
+	Energi angin sebagai pembangkit gelombang utama di laut pada musim timur di estimasi mampu menghasilkan tinggi gelombang signifikan maksimum setinggi 4 meter dengan periode 7,8 detik di perairan P. Masela.</p>
+<p style="text-align: justify;">
+	Berdasarkan letak posisi Pulau Babar terhadap arah datangnya angin maka perairan sepanjang pantai timur Pulau Masela dan Babar Timur mengalami tekanan gelombang yang intensif, terindikasi lewat tingkat abrasi yang kuat terjadi sepanjang pesisir pantai timur kedua pulau tersebut.</p>
+<p style="text-align: justify;">
+	<strong>Kualitas Air</strong></p>
+<p style="text-align: justify;">
+	Suhu permukan laut Pulau Masela seperti wilayah lainnya di Kecamatan Babar Timur relatif rendah berkisar antara 26,40 &ndash; 26,70 &deg;C dengan nilai rerata 26,55 &deg;C. Suhu perairan rendah dijumpai pada perairan sekitar Pulau Masela sedangkan suhu maksimum dijumpai pada perairan pantai Kroing. Rendahnya suhu permukaan perairan di kecamatan ini masih berhubungan dengan proses taikan yang terjadi di Laut Banda dan Arafura pada bulan Juli &ndash; Agustus dan melemah pada bulan Oktober.</p>
+<p style="text-align: justify;">
+	Kadar salinitas permukaan perairan relatif tinggi berkisar antara 34,5 &ndash; 35 ppt dengan nilai rerata 34,75 ppt. Salinitas minimum ditemukan pada perairan pantai Pulau Kroing sementara nilai maksimum ditemukan pada perairan Pulau Masela. Rendahnya kadar salinitas di perairan Teluk Kroing disebabkan oleh pengenceran air air tawar oleh sungai yang bermuara pada perairan tersebut.</p>
+<p style="text-align: justify;">
+	Tingkat kecerahan perairan di P. Masela dikategorikan atas tingkat kecerahan tinggi. Kecerahan perairan bervariasi antara 16 - 17 meter dengan nilai rerata 16,5 meter. Kecerahan minimum dijumpai pada perairan Teluk Kroing sedangkan kecerahan maksimum ditemukan pada perairan Pulau Masela.</p>
+<p style="text-align: justify;">
+	Kandungan padatan tersuspensi (TSS) di perairan berkisar antara 0,31 &ndash; 0,54 mg/l dengan nilai rerata sebesar 0,54 mg/l. Nilai minimum TSS dijumpai pada perairan Teluk kemudian meningkat maksimum di perairan pantai Pulau Masela. Nilai-nilai TSS yang diperoleh ini masih dapat digolongkan rendah sehingga memungkinkan bagi penetrasi cahaya matahari jauh ke dalam kolom perairan sehingga proses fotosintesis tumbuhan akuatik dapat berlangsung dengan baik.</p>
+<p style="text-align: justify;">
+	Tingkat kesadahan air laut atau pH untuk perairan laut Kec. Babar Timur relatif tinggi berkisar antara 8,93 &ndash; 8,99 dengan nilai rerata 8,93. Nilai pH minimum dijumpai pada perairan pantai Pulau Masela sementara nilai pH maksimum ditemukan pada perairan Teluk Kroing. Kondisi nilai pH demikian menunjukkan bahwa perairan ini bersifat basa dan cenderung di dominasi oleh massa air oseanik. Nilai pH pada bulan ini masih berada diatas kisaran nilai pH perairan umumnya.</p>
+<p style="text-align: justify;">
+	Konsentrasi oksigen terlarut di permukaan perairan kecamatan berkisar antara 13,70 &ndash; 14,56 mg/l dengan nilai rerata 14,13 mg/l. Konsentrasi DO minimum dijumpai pada perairan pantai Teluk Kroing sementara konsentrasi maksimum dijumpai pada perairan Pulau Masela. Nilai-nilai kadar DO ini masih berada pada kisaran nilai yang dibolehkan maupun diinginkan untuk kegiatan konservasi dan budidaya biota laut menurut KepMen KLH No.02/1988.</p>
+<p style="text-align: justify;">
+	Unsur hara berupa fosfat, nitrat dan nitrit di perairan pulau ini juga bervariasi. Konsentrasi fosfat pada lapisan permukaan perairan berkisar antara 0,08 &ndash; 0,31 mg/l dengan nilai rerata 0,08 mg/l. Kadar minimum fosfat dijumpai pada perairan pesisir Pulau Masela sedangkan kadar maksimum fosfat terkonsentrasi di perairan Teluk Kroing. Konsentrasi nitrit di perairan cendrung tinggi baik di perairan Pulau Masela maupun Teluk kroing dengan nilai sebesar 0,009 mg/l. Sama halnya dengan nitrit, konsentrasi nitrat di permukaan perairan cenderung tinggi dengan nilai berkisar antara 1,4 &ndash; 1,5 mg/l dengan nilai rerata 1,45 mg/l. Distribusi konsentrasi nitrat dengan kadar minimum dijumpai pada perairan Pulau Masela sedangkan konsentrasi nilai maksimum dijumpai pada perairan Teluk Kroing. Tingginya konsentrasi unsur hara fosfat, nitrit dan nitrat di perairan ini diduga berhubungan dengan sumbangan kedua unsur tersebut melalui seresah yang berasal dari ekosistem bakau yang ditemukan tumbuh disekitar perairan teluk.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="sp">Sarana dan Prasarana</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<h2><a id="pi">Peluang Investasi</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<h2><a id="pap">Potensi dan Arahan Pengembangan</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<h2><a id="kp">Kendala Pengembangan</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<h2><a id="rf">Referensi</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<br />
+	<i> 
+		<p style="font-size:12px;">
+			Karena keterbatasan SDM dalam penginputan dan pengolahan data, kami mohon maaf atas ketidak lengkapan beberapa data pulau yang kami tampilkan, harap dimaklumi.
+			Berikan keritik dan saran pada kolom komentar agar kita dapat bersama menyajikan sebuah data yang cukup sempurna untuk halayak ramai yang berguna
+			demi kesejahterahan, kelestarian dan keindahan pulau-pulau kecil yang dimiliki Indonesia.<br />
+			*Jika sekiranya anda memiliki data yang cukup banyak, silakan mengirimkan file melalui email kami di <b><a>identifikasippk@gmail.com</a></b>
+			
+		</p>
+	</i>
+<br />
+
+<div id="fb_comn" class="fb-comments" data-href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_info/334" data-width="800" data-numposts="5" data-colorscheme="light"></div>
+
+
+</div>
+</div>
+</div>
+<div id="wrapper">
+
+<div class="footer"><p>
+<!--<marquee onmouseover="this.stop()" onmouseout="this.start()" scrollamount="5" direction="right" width="798" height="14"  behavior="scroll">-->
+<a href="http://www.ppk-kp3k.kkp.go.id/" target="_blank">Direktorat Pendayagunaan Pulau-Pulau Kecil &nbsp; | &nbsp;</a>
+<a href="http://www.kp3k.kkp.go.id/" target="_blank">Ditjen Kelautan, Pesisir dan Pulau-Pulau Kecil &nbsp; | &nbsp;</a>
+<a href="http://www.kkp.go.id/" target="_blank">Kementerian Kelautan dan Perikanan</a>
+<!--</marquee>--> <br />
+Jl. Medan Merdeka Timur No. 16 Gedung Mina Bahari 3 Lantai 10, Jakarta, Indonesia <br />
+Email : identifikasippk@gmail.com <br />
+Telp &amp; Fax: (021) 3522058 <br />
+&copy; Copyright Direktorat Pendayagunaan Pulau-Pulau Kecil 2012&nbsp; <br /></p>
+</div>
+</div>
+</body>
+</html>

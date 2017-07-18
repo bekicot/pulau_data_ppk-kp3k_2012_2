@@ -1,0 +1,424 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Pulau DANA</title>
+
+<meta charset="utf-8"/>
+
+<meta property="fb:app_id" content="559408774147878" />
+
+
+<meta property="og:title" content="Pulau DANA" />
+<meta property="og:url" content="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_info/434" />
+
+
+    <script type="text/javascript" src="http://ajax.microsoft.com/ajax/jquery/jquery-1.4.4.min.js">
+    </script>
+    
+    <script type="text/javascript" src="http://plugins.learningjquery.com/expander/jquery.expander.js">
+    </script>
+    
+    <script type="text/javascript">
+        $(function () {
+            $('div.readmore').expander({
+                slicePoint:200,
+                expandText: '(Baca selengkapnya)',
+                userCollapseText: '(Sembunyikan selengkapnya)'
+            });
+        });
+    </script>
+        
+	<script src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/galleria/galleria-1.2.8.min.js"></script>
+
+        <SCRIPT TYPE="text/javascript">
+            <!--
+            //Disable right click script
+            //visit http://www.rainbow.arch.scriptmania.com/scripts/
+            var message="Sorry, right-click has been disabled";
+            ///////////////////////////////////
+            function clickIE() {if (document.all) {(message);return false;}}
+            function clickNS(e) {if
+            (document.layers||(document.getElementById&&!document.all)) {
+            if (e.which==2||e.which==3) {(message);return false;}}}
+            if (document.layers)
+            {document.captureEvents(Event.MOUSEDOWN);document.onmousedown=clickNS;}
+            else{document.onmouseup=clickNS;document.oncontextmenu=clickIE;}
+            document.oncontextmenu=new Function("return false")
+            // -->
+            </SCRIPT>
+            
+            <SCRIPT TYPE="text/javascript">
+            <!--
+            //Disable select-text script (IE4+, NS6+)
+            //visit http://www.rainbow.arch.scriptmania.com/scripts/
+            ///////////////////////////////////
+            function disableselect(e){
+            return false
+            }
+            function reEnable(){
+            return true
+            }
+            //if IE4+
+            document.onselectstart=new Function ("return false")
+            //if NS6
+            if (window.sidebar){
+            document.onmousedown=disableselect
+            document.onclick=reEnable
+            }
+            // -->
+            </SCRIPT>  
+              
+<link rel="stylesheet" type="text/css" href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/css/main.css" media="screen"/>
+<style type='text/css'>
+#info_wrap{
+	width:820px;
+	margin:0 auto;
+	text-shadow:0px 1px 1px #09F;
+}
+table{
+	color:#000000;
+}
+h1{
+	color:#000000;
+}
+.tengahin{
+	width: 105px;
+	height: 30px;
+	margin: 0 auto auto auto;
+}
+#box_view{
+	background-image:-webkit-gradient(linear, 0 0%, 0 100%, from(#FFFFFF), to(#E0F0F5));
+	background:#FFF;
+	color:#F60;
+	border: 1px solid #fff;
+	border-radius: 4px 4px 4px 4px;
+	box-shadow: 0 8px 6px -6px black;
+	position:fixed;
+	right:0;
+	top:150px;;
+	width:80px;
+	z-index:10;
+	padding-left:12px;
+	font-size:10px;
+	}
+#box_view li{
+	color:#F60;
+	margin-left:-30px;
+	}
+	#wrapper a b {
+	color: #FFF;
+	font-size:14px;
+}
+.batas{
+	float:left;
+	border-right-style:inset;
+	border-right-width:thin;
+	}
+.text_h_wrap{
+	
+	padding-left:450px;
+	padding-top:39px;
+	text-shadow:0px 1px 1px #09F;
+	}
+#wrapper .footer p{
+	font-size:12px;
+	color: #FFF;
+	text-align:center;
+	text-shadow:0px 1px 1px #09F;
+}
+td,th {
+	font-size: 12px;
+}
+
+marquee a{
+	color:#FFF
+	}
+#wrapper .footer a{
+	color: #FFFFFF;
+}
+</style>
+            
+<script>
+function goBack()
+  {
+  window.history.back()
+  }
+</script>
+<script type="text/javascript">
+function Popup( url, height, width )
+{
+    var windowProperties = "toolbar = 0, scrollbars = 1, location = 0, statusbar = 0, menubar = 0, resizable = 1, width = " + width + ", height = " + height + ", left = 50, top = 50";
+ 
+    return window.open( url, "", windowProperties );
+}
+</script>
+
+
+
+</head>
+<body oncontextmenu='return false;' onkeydown='return false;' onmousedown='return false;'>
+
+<a id="top_view"></a>
+<div id="wrapper">
+<div class="header_wrap">
+<div class="text_h_wrap">
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/home_page'><b>&nbsp;Home&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/menu_info/1'><b>&nbsp;About Us&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_data'><b>&nbsp;Direktori Pulau&nbsp;&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/program_ip'><b>&nbsp;IKU&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/data_ppkt'><b>&nbsp;PPKT&nbsp;</b></a>
+</div>
+<!--<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/maintenance'><b>&nbsp;Login&nbsp;</b></a>-->
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/dir_log_cont'><b>&nbsp;Login&nbsp;</b></a>
+
+</div>
+</div>
+</div>
+
+<div id="fb-root"></div>
+<script>
+  window.fbAsyncInit = function() {
+    // init the FB JS SDK
+    FB.init({
+      appId      : '559408774147878',                        // App ID from the app dashboard
+      status     : true,                                 // Check Facebook Login status
+      xfbml      : true                                  // Look for social plugins on the page
+    });
+
+    // Additional initialization code such as adding Event Listeners goes here
+  };
+
+  // Load the SDK asynchronously
+  (function(){
+     // If we've already installed the SDK, we're done
+     if (document.getElementById('facebook-jssdk')) {return;}
+
+     // Get the first script element, which we'll use to find the parent node
+     var firstScriptElement = document.getElementsByTagName('script')[0];
+
+     // Create a new script element and set its id
+     var facebookJS = document.createElement('script'); 
+     facebookJS.id = 'facebook-jssdk';
+
+     // Set the new script's source to the source of the Facebook JS SDK
+     facebookJS.src = '//connect.facebook.net/en_US/all.js';
+
+     // Insert the Facebook JS SDK into the DOM
+     firstScriptElement.parentNode.insertBefore(facebookJS, firstScriptElement);
+   }());
+</script>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=559408774147878";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="box_view">
+    <a href="#top_view">MENU</a>
+    <h3><p>Lihat Informasi:</p></h3>
+    <ul>
+	<a href="#sf"><li>Slide Foto</li></a>
+    <a href="#gu"><li>Gambaran Umum</li></a>
+    <a href="#ksbk"><li>Kependudukan, Sosial Budaya dan Kelembagaan</li></a>
+    <a href="#eshp"><li>Ekosistem dan Sumberdaya Hayati</li></a>
+    <a href="#snh"><li>Sumberdaya Non Hayati</li></a>
+    <a href="#aps"><li>Aktivitas Pengelolaan Sumberdaya</li></a>
+    <a href="#ling"><li>Lingkungan</li></a>
+    <a href="#sp"><li>Sarana dan Prasarana</li></a>
+    <a href="#pi"><li>Peluang Investasi</li></a>
+    <a href="#pap"><li>Potensi Arahan Pengembangan</li></a>
+    <a href="#kp"><li>Kendala Pengembangan</li></a>
+	<a href="#rf"><li>Referensi</li></a>
+    </ul>
+    <a href="#fb_comn">KOMENTAR</a>
+</div>
+
+<br>
+			<a id="sf"></a></h2>
+			<div id="galleria">
+            <!--<div class='tengahin'><input type="button" value="Kembali Ke List" onclick="goBack()"></div>-->
+                            </div>
+            
+            <script>
+            Galleria.loadTheme('http://www.ppk-kp3k.kkp.go.id/direktori-pulau/galleria/themes/classic/galleria.classic.min.js');
+            Galleria.run('#galleria');
+            </script>
+</div>
+
+<div id="text_warp">
+
+
+<p><h1>DANA</h1></p>
+<table>
+<tr>
+	<td>Nama Lain</td> <td>:</td> <td></td>
+</tr>
+<tr>
+	<td>Propinsi</td> <td>:</td> <td>NUSA TENGGARA TIMUR</td>
+</tr>
+<tr>
+	<td>Kabupaten</td> <td>:</td> <td>KABUPATEN SABU RAIJUA</td>
+</tr>
+<tr>
+	<td>Kecamatan</td> <td>:</td> <td>RAIJUA</td>
+</tr>
+<tr>
+	<td>Koordinat</td> <td>:</td> <td><a href="http://www.ppk-kp3k.kkp.go.id/giskkp/index.html?extent=13498185.3822 -1213241.0340,13502771.6039 -1211375.4928"target="_blank"><p>
+	10&deg; 49&#39; 30,000&quot; LS - 121&deg; 16&#39; 34,000&quot; BT</p>
+</a></td>
+</tr>
+</table>
+<hr>
+
+<h2><a id="gu">Gambaran Umum</a></h2>
+<p><div class="readmore"><p>
+	&nbsp;</p>
+<p style="text-align: justify;">
+	Pulau Dana terletak di sebelah Selatan Pulau Sabu dan merupakan pulau terluar yang berbatasan dengan Australia. Selain memiliki potensi perikanan, pesisir pantai timur pulau ini memiliki panorama alam yang indah dengan pasih putih dan perairan yang jernih sehingga cocok untuk pengembangan kawasan wisata bahari. Pulau ini mempunyai titik dasar no TD. 123. Pulau yang tidak berpenghuni ini memiliki sarana bantu navigasi berupa suar (C6s40m17M), dan luas Pulau Dana sekitar 2 km<sup>2</sup> dan tergambar di dalam Peta Laut No. 457 yang dikeluarkan oleh Dinas Hidro-Oseanografi TNI AL.</p>
+<p style="text-align: justify;">
+	Batas Pulau Dana adalah : Sebelah Utara dengan Laut Sawu; Sebelah Selatan dengan Samudera Hindia; Sebelah Barat dengan Pulau Sumba; dan Sebelah Timur dengan Laut Sabu.</p>
+<p style="text-align: justify;">
+	Pulau Dana masuk dalam wilayah administrasi Kecamatan Raijua, Kabupaten Kupang. Jarak Pulau Dana dengan Pulau Sabu sekitar 25 mil yang dapat dicapai dengan menggunakan k&nbsp; apal motor. Secara geografis pulau tersebut terletak di antara Pulau Sumba, Pulau Rote dan Pulau Timor yaitu pada posisi 10<sup>0</sup> 50&rsquo; 00&rdquo; Lintang Selatan dan 121<sup>0</sup> 16&rsquo; 57&rsquo; Bujur Timur.</p>
+<p style="text-align: justify;">
+	Pulau Dana memiliki aksebilitas yang tergolong sedang.&nbsp; Pulau ini dapat dicapai dari daratan Timor (<em>mainland</em>) dengan menggunakan fery menuju Pulau Sabu dan dilanjutkan dengan perahu motor, kecuali pada saat musim angin Barat d.engan gelombang laut yang besar dan sering membahayakan pelayaran perahu angkutan umum yang ukurannya kecil.</p>
+<p style="text-align: justify;">
+	Perjalanan ke Pulau Dana dari Pelabuhan Bolok/Pelabuhan Tenau dengan kapal ferry (ASDP) selama 19 jam, kemudian dengan kapal motor ke Pulau Dana dengan jarak tempuh sekitar 7 jam. Kondisi pelabuhan dan KMP Rokatenda dapat dilihat dalam Gambar dibawah ini. Perjalanan dapat juga ditempuh melalui udara dari El Tari ke Pulau Sabu dengan pesawat kecil yang beroperasi satu minggu sekali.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="ksbk">Kependudukan, Sosial Budaya dan Kelembagaan</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<h2><a id="eshp">Ekosistem dan Sumberdaya Hayati</a></h2>
+<p><div class="readmore"><p>
+	&nbsp;</p>
+<p>
+	<strong>Ekosistem padang lamun</strong></p>
+<p style="text-align: justify;">
+	Pulau Dana ini hanya sebagian daerah perairan pantai yang ditumbuhi padang lamun. Padang lamun yang tumbuh di perairan pulau ini tidak terlalu subur dan tidak rapat, hal ini karena keadaan pulau yang berarus kencang dengan ombak yang relatif besar sehingga tumbuhan lamun tidak dapat berkembang dengan baik.</p>
+<p style="text-align: justify;">
+	<strong>Ekosistem terumbu karang</strong></p>
+<p style="text-align: justify;">
+	Perairan pulau ini memiliki kekayaan hayati yang sangat potensial, antara lain terumbu karang dan berbagai jenis ikan. Jenis Terumbu karang yang mendominasi perairan sekitar Pulau Dana adalah <em>Acropora </em>sp dan karang lunak (<em>soft coral</em>) dapat dilihat dalam Gambar. &nbsp; &nbsp; &nbsp;&nbsp;</p>
+<p style="text-align: justify;">
+	<strong>Sumberdaya perikanan</strong></p>
+<p style="text-align: justify;">
+	Di daerah ini ditemukan tempat bertelur dari beberapa jenis penyu di pesisir pantai sekitar Pulau Dana.&nbsp; Ikan hasil tangkapan yang biasa diperoleh terdiri dari jenis ikan pelagis dan ikan demersal.&nbsp; Penangkapan ikan pelagis kecil umumnya dilakukan di sekitar pantai pada kedalaman kurang dari 200 m.&nbsp; Musim penangkapan berlangsung antara bulan April &ndash; Januari dengan musim puncak pada bulan April &ndash; Juli dan September &ndash; Desember.&nbsp; Alat yang digunakan antara lain pukat cincin mini dengan bantuan lampu/cahaya (<em>light fishing</em>), jaring insang (<em>gill net</em>) dan jaring lingkar.&nbsp; Ikan demersal biasanya ditangkap pada kedalaman kurang dari 100 m, dengan menggunakan jaring klitik, dan pancing.&nbsp; Penangkapan ikan demersal umumnya dilakukan sepanjang tahun, dengan musim puncak sekitar bulan Oktober- Desember.&nbsp;</p>
+</div></p>
+
+<hr>
+
+<h2><a id="snh">Sumberdaya Non Hayati</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<h2><a id="aps">Aktivitas Pengelolaan Sumberdaya</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<h2><a id="ling">Lingkungan</a></h2>
+<p><div class="readmore"><p>
+	&nbsp;</p>
+<p style="text-align: justify;">
+	Pulau Dana pulau memiliki topografi berpantai curam hingga landai dengan material pantai berupa karang yang memanjang di sebelah barat dan landai di sebelah timur.&nbsp; Topografi landai sebagian kecil berada pada bagian tepi pantai, dengan karakteristik garis pantai berpasir putih dan berkarang. Topografi berkarang berada di bagian Utara dan Selatan. Di dalam pulau ini terdapat dua danau yang pada saat air pasang tergenangi air asin.</p>
+<p style="text-align: justify;">
+	Karakteristik tanah pulau ini secara umum terdiri dari pasir putih dan karang mati yang telah membatu, sehingga kurang subur untuk pertanian dan tidak terdapat tanaman budidaya milik penduduk.&nbsp; Pembentukan tanah ini dipengaruhi oleh tipe iklim daerah Kupang yang umumnya kering (Tipe D/E).</p>
+<p style="text-align: justify;">
+	Letak pulau yang berada di laut lepas dengan gelombang relatif lebih besar, menyebabkan bagian selatan pulau ini rawan terhadap abrasi.</p>
+<p style="text-align: justify;">
+	Iklim di wilayah Pulau Dana tergolong tropis kering, dan termasuk iklim kering tipe D/E berdasarkan zona agroklimat.&nbsp; Musim kemarau berlangsung selama 7 &ndash; 8 bulan (Mei &ndash; November) dan musim penghujan selama sekitar 4 &ndash; 5 bulan (Desember &ndash; April).&nbsp; Hari hujan paling lama terjadi pada bulan Januari, dengan curah hujan mencapai 403 mm/hari,&nbsp; sedangkan hari hujan yang pendek terjadi pada bulan Mei.&nbsp; Umumnya musim hujan di daerah ini terjadi antara bulan November sampai bulan Maret dengan curah hujan antara 165 hingga 339 mm/bulan.&nbsp; Musim kemarau dimulai pada bulan April sampai Juli, sedangkan musim peralihan terjadi pada bulan Agustus hingga Oktober.</p>
+<p style="text-align: justify;">
+	Pergerakan angin di Pulau Dana mengikuti pola perubahan musim.&nbsp; Angin Timur bertiup pada bulan April sampai Juli dan berpengaruh pada besarnya gelombang air laut, sedangkan angin Barat bertiup pada bulan November hingga bulan Maret.</p>
+<p style="text-align: justify;">
+	Kelembaban nisbi daerah sekitar Pulau Dana tergolong sedang, dan kelembaban nisbi terendah terjadi pada bulan Oktober. Kecepatan angin tertinggi terjadi pada bulan Juli sekitar 8 knot, yaitu pada saat musim kemarau. Perairan di sebelah selatan Pulau Dana relatif terjal dan rawan terhadap abrasi, karena posisinya yang langsung berhadapan dengan laut lepas.&nbsp; Perairan di sebelah Barat dan Timur merupakan daerah yang landai dan dalam serta tertutup oleh formasi pasir putih.&nbsp; Material pantai yang ada di pulau ini didominasi oleh pasir dengan sedikit kerikil.</p>
+<p style="text-align: justify;">
+	Pasang surut perairan Pulau Dana memiliki tipe campuran yang didominasi tipe ganda (<em>semi diurnal</em>).&nbsp; Kondisi arus di sekeliling pulau relatif cukup kuat, tinggi gelombang antara 2 &ndash; 3 m, pecah di sekeliling karang tersebut sehingga sulit untuk pendaratan motor boat, dengan kedalaman sekitar 15&ndash;45 m. Salinitas perairan di sekitar pulau berkisar antara 33<sup>0</sup>/<sub>00</sub> - 35<sup>0</sup>/<sub>00</sub>, sedangkan kecerahan perairan sekitar 15 m.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="sp">Sarana dan Prasarana</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<h2><a id="pi">Peluang Investasi</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<h2><a id="pap">Potensi dan Arahan Pengembangan</a></h2>
+<p><div class="readmore"><p>
+	&nbsp;</p>
+<p style="text-align: justify;">
+	Pulau Dana merupakan pulau yang berukuran kecil, sehingga tidak dapat digunakan untuk peruntukan yang lain.&nbsp; Namun melihat potensi kawasan, terutama keindahan pantai di sebelah Barat dan Timur, kegiatan yang layak untuk dikembangan di pulau ini adalah pariwisata bahari yang berbasis ekologi. Selain itu tidak menutup kemungkinan dapat dikembangkan sebagai laboratorium alam untuk penelitian dan pengembangan sumberdaya kelautan dan perikanan.</p>
+<p style="text-align: justify;">
+	Berkaitan dengan keberadaan sebagai pulau perbatasan, perlu dilakukan rekonstruksi dan pemeliharaan TR dan TD di Pulau Dana. Disamping itu perlu juga dilakukan pembangunan kembali mercusuar yang sudah ambruk dan pembangunan POS pengamat TNI-AL untuk membantu pemerintah dalam meningkatkan pengawasan pulau ini.</p>
+<p style="text-align: justify;">
+	Untuk mengatasi abrasi yang ada di bagian selatan Pulau Dana, perlu dibangun pelindung pantai dengan pemecah gelombang, karena sebelah selatan Pulau Dana merupakan daerah yang langsung berhubungan dengan laut lepas.</p>
+<p>
+	&nbsp;</p>
+</div></p>
+
+<hr>
+
+<h2><a id="kp">Kendala Pengembangan</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<h2><a id="rf">Referensi</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<br />
+	<i> 
+		<p style="font-size:12px;">
+			Karena keterbatasan SDM dalam penginputan dan pengolahan data, kami mohon maaf atas ketidak lengkapan beberapa data pulau yang kami tampilkan, harap dimaklumi.
+			Berikan keritik dan saran pada kolom komentar agar kita dapat bersama menyajikan sebuah data yang cukup sempurna untuk halayak ramai yang berguna
+			demi kesejahterahan, kelestarian dan keindahan pulau-pulau kecil yang dimiliki Indonesia.<br />
+			*Jika sekiranya anda memiliki data yang cukup banyak, silakan mengirimkan file melalui email kami di <b><a>identifikasippk@gmail.com</a></b>
+			
+		</p>
+	</i>
+<br />
+
+<div id="fb_comn" class="fb-comments" data-href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_info/434" data-width="800" data-numposts="5" data-colorscheme="light"></div>
+
+
+</div>
+</div>
+</div>
+<div id="wrapper">
+
+<div class="footer"><p>
+<!--<marquee onmouseover="this.stop()" onmouseout="this.start()" scrollamount="5" direction="right" width="798" height="14"  behavior="scroll">-->
+<a href="http://www.ppk-kp3k.kkp.go.id/" target="_blank">Direktorat Pendayagunaan Pulau-Pulau Kecil &nbsp; | &nbsp;</a>
+<a href="http://www.kp3k.kkp.go.id/" target="_blank">Ditjen Kelautan, Pesisir dan Pulau-Pulau Kecil &nbsp; | &nbsp;</a>
+<a href="http://www.kkp.go.id/" target="_blank">Kementerian Kelautan dan Perikanan</a>
+<!--</marquee>--> <br />
+Jl. Medan Merdeka Timur No. 16 Gedung Mina Bahari 3 Lantai 10, Jakarta, Indonesia <br />
+Email : identifikasippk@gmail.com <br />
+Telp &amp; Fax: (021) 3522058 <br />
+&copy; Copyright Direktorat Pendayagunaan Pulau-Pulau Kecil 2012&nbsp; <br /></p>
+</div>
+</div>
+</body>
+</html>

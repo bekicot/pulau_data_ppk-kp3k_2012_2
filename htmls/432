@@ -1,0 +1,424 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Pulau BATEK</title>
+
+<meta charset="utf-8"/>
+
+<meta property="fb:app_id" content="559408774147878" />
+
+
+<meta property="og:title" content="Pulau BATEK" />
+<meta property="og:url" content="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_info/432" />
+
+
+    <script type="text/javascript" src="http://ajax.microsoft.com/ajax/jquery/jquery-1.4.4.min.js">
+    </script>
+    
+    <script type="text/javascript" src="http://plugins.learningjquery.com/expander/jquery.expander.js">
+    </script>
+    
+    <script type="text/javascript">
+        $(function () {
+            $('div.readmore').expander({
+                slicePoint:200,
+                expandText: '(Baca selengkapnya)',
+                userCollapseText: '(Sembunyikan selengkapnya)'
+            });
+        });
+    </script>
+        
+	<script src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/galleria/galleria-1.2.8.min.js"></script>
+
+        <SCRIPT TYPE="text/javascript">
+            <!--
+            //Disable right click script
+            //visit http://www.rainbow.arch.scriptmania.com/scripts/
+            var message="Sorry, right-click has been disabled";
+            ///////////////////////////////////
+            function clickIE() {if (document.all) {(message);return false;}}
+            function clickNS(e) {if
+            (document.layers||(document.getElementById&&!document.all)) {
+            if (e.which==2||e.which==3) {(message);return false;}}}
+            if (document.layers)
+            {document.captureEvents(Event.MOUSEDOWN);document.onmousedown=clickNS;}
+            else{document.onmouseup=clickNS;document.oncontextmenu=clickIE;}
+            document.oncontextmenu=new Function("return false")
+            // -->
+            </SCRIPT>
+            
+            <SCRIPT TYPE="text/javascript">
+            <!--
+            //Disable select-text script (IE4+, NS6+)
+            //visit http://www.rainbow.arch.scriptmania.com/scripts/
+            ///////////////////////////////////
+            function disableselect(e){
+            return false
+            }
+            function reEnable(){
+            return true
+            }
+            //if IE4+
+            document.onselectstart=new Function ("return false")
+            //if NS6
+            if (window.sidebar){
+            document.onmousedown=disableselect
+            document.onclick=reEnable
+            }
+            // -->
+            </SCRIPT>  
+              
+<link rel="stylesheet" type="text/css" href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/css/main.css" media="screen"/>
+<style type='text/css'>
+#info_wrap{
+	width:820px;
+	margin:0 auto;
+	text-shadow:0px 1px 1px #09F;
+}
+table{
+	color:#000000;
+}
+h1{
+	color:#000000;
+}
+.tengahin{
+	width: 105px;
+	height: 30px;
+	margin: 0 auto auto auto;
+}
+#box_view{
+	background-image:-webkit-gradient(linear, 0 0%, 0 100%, from(#FFFFFF), to(#E0F0F5));
+	background:#FFF;
+	color:#F60;
+	border: 1px solid #fff;
+	border-radius: 4px 4px 4px 4px;
+	box-shadow: 0 8px 6px -6px black;
+	position:fixed;
+	right:0;
+	top:150px;;
+	width:80px;
+	z-index:10;
+	padding-left:12px;
+	font-size:10px;
+	}
+#box_view li{
+	color:#F60;
+	margin-left:-30px;
+	}
+	#wrapper a b {
+	color: #FFF;
+	font-size:14px;
+}
+.batas{
+	float:left;
+	border-right-style:inset;
+	border-right-width:thin;
+	}
+.text_h_wrap{
+	
+	padding-left:450px;
+	padding-top:39px;
+	text-shadow:0px 1px 1px #09F;
+	}
+#wrapper .footer p{
+	font-size:12px;
+	color: #FFF;
+	text-align:center;
+	text-shadow:0px 1px 1px #09F;
+}
+td,th {
+	font-size: 12px;
+}
+
+marquee a{
+	color:#FFF
+	}
+#wrapper .footer a{
+	color: #FFFFFF;
+}
+</style>
+            
+<script>
+function goBack()
+  {
+  window.history.back()
+  }
+</script>
+<script type="text/javascript">
+function Popup( url, height, width )
+{
+    var windowProperties = "toolbar = 0, scrollbars = 1, location = 0, statusbar = 0, menubar = 0, resizable = 1, width = " + width + ", height = " + height + ", left = 50, top = 50";
+ 
+    return window.open( url, "", windowProperties );
+}
+</script>
+
+
+
+</head>
+<body oncontextmenu='return false;' onkeydown='return false;' onmousedown='return false;'>
+
+<a id="top_view"></a>
+<div id="wrapper">
+<div class="header_wrap">
+<div class="text_h_wrap">
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/home_page'><b>&nbsp;Home&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/menu_info/1'><b>&nbsp;About Us&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_data'><b>&nbsp;Direktori Pulau&nbsp;&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/program_ip'><b>&nbsp;IKU&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/data_ppkt'><b>&nbsp;PPKT&nbsp;</b></a>
+</div>
+<!--<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/maintenance'><b>&nbsp;Login&nbsp;</b></a>-->
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/dir_log_cont'><b>&nbsp;Login&nbsp;</b></a>
+
+</div>
+</div>
+</div>
+
+<div id="fb-root"></div>
+<script>
+  window.fbAsyncInit = function() {
+    // init the FB JS SDK
+    FB.init({
+      appId      : '559408774147878',                        // App ID from the app dashboard
+      status     : true,                                 // Check Facebook Login status
+      xfbml      : true                                  // Look for social plugins on the page
+    });
+
+    // Additional initialization code such as adding Event Listeners goes here
+  };
+
+  // Load the SDK asynchronously
+  (function(){
+     // If we've already installed the SDK, we're done
+     if (document.getElementById('facebook-jssdk')) {return;}
+
+     // Get the first script element, which we'll use to find the parent node
+     var firstScriptElement = document.getElementsByTagName('script')[0];
+
+     // Create a new script element and set its id
+     var facebookJS = document.createElement('script'); 
+     facebookJS.id = 'facebook-jssdk';
+
+     // Set the new script's source to the source of the Facebook JS SDK
+     facebookJS.src = '//connect.facebook.net/en_US/all.js';
+
+     // Insert the Facebook JS SDK into the DOM
+     firstScriptElement.parentNode.insertBefore(facebookJS, firstScriptElement);
+   }());
+</script>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=559408774147878";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="box_view">
+    <a href="#top_view">MENU</a>
+    <h3><p>Lihat Informasi:</p></h3>
+    <ul>
+	<a href="#sf"><li>Slide Foto</li></a>
+    <a href="#gu"><li>Gambaran Umum</li></a>
+    <a href="#ksbk"><li>Kependudukan, Sosial Budaya dan Kelembagaan</li></a>
+    <a href="#eshp"><li>Ekosistem dan Sumberdaya Hayati</li></a>
+    <a href="#snh"><li>Sumberdaya Non Hayati</li></a>
+    <a href="#aps"><li>Aktivitas Pengelolaan Sumberdaya</li></a>
+    <a href="#ling"><li>Lingkungan</li></a>
+    <a href="#sp"><li>Sarana dan Prasarana</li></a>
+    <a href="#pi"><li>Peluang Investasi</li></a>
+    <a href="#pap"><li>Potensi Arahan Pengembangan</li></a>
+    <a href="#kp"><li>Kendala Pengembangan</li></a>
+	<a href="#rf"><li>Referensi</li></a>
+    </ul>
+    <a href="#fb_comn">KOMENTAR</a>
+</div>
+
+<br>
+			<a id="sf"></a></h2>
+			<div id="galleria">
+            <!--<div class='tengahin'><input type="button" value="Kembali Ke List" onclick="goBack()"></div>-->
+                            </div>
+            
+            <script>
+            Galleria.loadTheme('http://www.ppk-kp3k.kkp.go.id/direktori-pulau/galleria/themes/classic/galleria.classic.min.js');
+            Galleria.run('#galleria');
+            </script>
+</div>
+
+<div id="text_warp">
+
+
+<p><h1>BATEK</h1></p>
+<table>
+<tr>
+	<td>Nama Lain</td> <td>:</td> <td></td>
+</tr>
+<tr>
+	<td>Propinsi</td> <td>:</td> <td>NUSA TENGGARA TIMUR</td>
+</tr>
+<tr>
+	<td>Kabupaten</td> <td>:</td> <td>KABUPATEN KUPANG</td>
+</tr>
+<tr>
+	<td>Kecamatan</td> <td>:</td> <td>AMFOANG TIMUR</td>
+</tr>
+<tr>
+	<td>Koordinat</td> <td>:</td> <td><a href="http://www.ppk-kp3k.kkp.go.id/giskkp/index.html?extent=13802307.4425 -1035226.2132,13803453.9980 -1034759.8279"target="_blank"><p>
+	9&deg; 15&#39; 25,000&quot; LS - 123&deg; 59&#39; 37,000&quot; BT</p>
+</a></td>
+</tr>
+</table>
+<hr>
+
+<h2><a id="gu">Gambaran Umum</a></h2>
+<p><div class="readmore"><p>
+	&nbsp;</p>
+<p style="text-align: justify;">
+	Merupakan salah satu pulau terluar yang memerlukan perhatian khusus.&nbsp; Pulau ini oleh orang setempat biasa disebut <strong>Fatu Sinai</strong> berada di lepas pantai pantai Laut Sawu dan berada di perbatasan antara wilayah Kabupaten Kupang, Nusa Tenggara Timur dengan <em>enclave </em>(wilayah kantong) Oekusi (Oecusse/Ambeno), Timor Leste.&nbsp; Pulau dengan luas 0,1 km ini memiliki kedalaman perairan rata-rata 72 m.</p>
+<p style="text-align: justify;">
+	Jenis pantainya yang curam dan landai dengan material pasir yang dikelilingi oleh terumbu karang, pulau ini tidak berpenduduk, dan belum terdapat Titik Dasar (TD), Titik Referensi (TR) serta Pos TNI sebagai satuan penjagaan.</p>
+<p style="text-align: justify;">
+	Pulau ini berada pada jarak 5 mil dari Tanjung Batuanyo, Oepoli dan secara administratif masuk di Desa Netemenanu Utara, Kecamatan Amfoang Timur, Kabupaten Kupang.&nbsp; Secara geografis Pulau Batek terletak pada posisi 9<sup>0</sup> 15&rsquo; 30&rdquo; Lintang Selatan&nbsp; 23<sup>0</sup> 59&rsquo; 30&rdquo; Bujur Timur.&nbsp; Walaupun letak pulau ini berbatasan langsung dengan negara tetangga tetapi belum memiliki titik dasar (TD) dan titik referensi (TR). Di pulau ini terdapat satu buah Sarana Bantu Navigasi Pelayaran (SBNP) berupa menara suar dengan karakter C6s100m20M.&nbsp; Pulau ini tergambar dalam Peta Laut No. 117 yang dikeluarkan oleh Dinas Hidro-Oseanografi TNI AL.</p>
+<p style="text-align: justify;">
+	Aksesibilitas menuju Pulau Batek cukup mudah dicapai karena perairan disebelah utara pulau ini merupakan wilayah ALKI (Alur Laut Kepulauan Indonesia) jalur 3, yang merupakan jalur strategis untuk pelayaran internasional.</p>
+<p style="text-align: justify;">
+	Pulau ini dapat dicapai dari daratan Timor (<em>mainland</em>) dengan menggunakan perahu, kecuali pada saat musim barat dengan gelombang laut besar yang membahayakan pelayaran perahu kecil. Jarak Pulau Batek dari Pantai Oekusi sekitar 5 km sedangkan dari Pantai Kupang ke Pulau Batek sekitar 1.150 km.</p>
+<p style="text-align: justify;">
+	Untuk menuju pulau ini, dari Kupang menggunakan kendaraan roda empat menuju Kecamatan Naikliu yang memakan waktu sekitar 5 jam dilanjutkan dengan menyewa perahu motor yang memakan waktu sekitar 8 jam dengan kecepatan 20 km/jam. Adapun alternatif lainnya adalah dengan menyewa speedboat 80 PK dari Kupang memakan waktu 12 jam.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="ksbk">Kependudukan, Sosial Budaya dan Kelembagaan</a></h2>
+<p><div class="readmore"><p>
+	Pulau Batek merupakan pulau yang tidak berpenghuni, artinya tidak ada penduduk yang secara permanen tinggal di pulau ini. Hal ini menyebabkan pulau ini tidak memiliki profil sosial ekonomi penduduk selain dari petugas jaga mercusuar.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="eshp">Ekosistem dan Sumberdaya Hayati</a></h2>
+<p><div class="readmore"><p>
+	&nbsp;</p>
+<p style="text-align: justify;">
+	<strong>Ekosisten terumbu karang</strong></p>
+<p style="text-align: justify;">
+	Perairan pulau ini kaya akan sumberdaya terumbu karang dan berbagai jenis ikan, baik ikan hias maupun ikan karang.&nbsp; Terumbu karang yang dominan adalah <em>Acropora</em> sp, <em>Montipora</em> sp, <em>Pocillopora</em> sp, <em>Stylophora</em> sp, dan <em>soft coral</em>. Kondisi terumbu karang yang ada di sekitar pulau Batek ini masih sangat baik walaupun daerah perairan pulau ini berarus kencang.</p>
+<p style="text-align: justify;">
+	<strong>Sumberdaya Perikanan</strong></p>
+<p style="text-align: justify;">
+	Wilayah perairan pulau ini memiliki potensi perikanan tangkap cukup besar.&nbsp; Umumnya penangkapan ikan pelagis kecil di perairan Kabupaten Kupang dilakukan di sekitar pantai pada kedalaman kurang dari 200 m, sedangkan ikan demersal ditangkap pada kedalaman kurang dari 100 m.</p>
+<p style="text-align: justify;">
+	Pulau yang menjadi tempat penyu bertelur tersebut ditumbuhi pepohonan dan ilalang yang tumbuh subur. Selain itu, di perairan Pulau Batek seringkali dijumpai gerombolan ikan lumba-lumba yang bermigrasi. Di bagian daratan dari pulau ini, saat ini terdapat 1 bak penampungan air tawar dan telah dibangun 2 unit rumah.</p>
+<p style="text-align: justify;">
+	Pulau Batek merupakan pulau yang tak berpenghuni dan jarang disinggahi nelayan.&nbsp; Beberapa jenis fauna mendiami pulau ini secara alami, antara lain elang jawa dan penyu sisik (<em>Eretmochelys imbricata</em>) yang sering bertelur di pesisir pulau tersebut.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="snh">Sumberdaya Non Hayati</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<h2><a id="aps">Aktivitas Pengelolaan Sumberdaya</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<h2><a id="ling">Lingkungan</a></h2>
+<p><div class="readmore"><p>
+	&nbsp;</p>
+<p style="text-align: justify;">
+	Pulau ini secara fisik berbentuk bukit sisa (<em>mesa</em>) yang dikelilingi tebing terjal dengan derajat kemiringan antara 40 &ndash; 60 derajat dan sebagian kecil yang berupa gisik yang landai. Pulau ini dapat dicapai melalui bagian tebing yang terjal dengan cara mendaki setinggi 8 &ndash; 10 m di atas permukaan laut. Penutup lahan yang ada di pulau ini berupa semak, belukar dan lahan terbuka.</p>
+<p style="text-align: justify;">
+	&nbsp;</p>
+<p style="text-align: justify;">
+	Pulau Batek merupakan pulau beriklim tropis kering (tipe D/E) dan termasuk dalam tipe curah hujan IV.&nbsp; Umumnya musim hujan di daerah ini terjadi antara bulan November sampai bulan Maret, dengan curah hujan 165 mm hingga 339 mm/bulan. Musim kemarau dimulai pada bulan April sampai dengan bulan Juli, sedangkan musim peralihan terjadi pada bulan Agustus sampai dengan Oktober.</p>
+<p style="text-align: justify;">
+	Curah hujan tahunan di wilayah pulau ini dalam kondisi normal, yaitu sekitar 1000 mm/tahun. Pola pergerakan angin Pulau Batek mengikuti pola perubahan musim, dimana angin Timur bertiup pada bulan April sampai Juli, yang mempengaruhi besarnya gelombang air laut. Sedangkan angin barat bertiup pada bulan November sampai dengan bulan Maret, yang menimbulkan angin dan gelombang besar.</p>
+<p style="text-align: justify;">
+	Perairan di sekitar pulau umumnya memiliki tebing atau lereng yang terjal dengan dasar perairan yang dalam ataupun dangkal yang tertutup oleh formasi terumbu karang. Kondisi perairan Pulau Batek sendiri merupakan pesisir berpantai curam dan bertebing terjal dengan rata-rata kedalaman 72 m, disamping itu di sekitar daerah ini merupakan daerah dengan arus yang cukup deras sehingga sangat menyulitkan perahu maupun boat untuk bersandar.&nbsp;</p>
+</div></p>
+
+<hr>
+
+<h2><a id="sp">Sarana dan Prasarana</a></h2>
+<p><div class="readmore"><p style="text-align: justify;">
+	Di pulau ini telah dibangun beberapa sarana dan prasarana yang memang tepat ditujukan untuk sektor keamanan, yaitu satu buah Sarana Bantu Navigasi Pelayaran (SBNP) berupa menara suar dengan karakter C6s100m20M. Selain itu, sudah terdapat 1 bak penampungan air tawar dan telah dibangun 2 unit rumah sebagai tempat tinggal penjaga mercusuar.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="pi">Peluang Investasi</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<h2><a id="pap">Potensi dan Arahan Pengembangan</a></h2>
+<p><div class="readmore"><p>
+	&nbsp;</p>
+<p style="text-align: justify;">
+	Pulau Batek merupakan pulau yang berbatasan langsung dengan Timor Leste, sebagai pulau perbatasan, keberadaan pulau ini menjadi pagar kedaulatan wilayah NKRI, sehingga perlu dilakukan penjagaan terhadap eksistensi pulau dengan berbagai upaya pengembangan yang menunjukkan <em>effective occupation</em>.&nbsp;&nbsp; Langkah konkrit yang perlu segera dilakukan adalah melakukan upaya penentuan titik dasar (TD) dan titik referensi (TR) serta melengkapi fasilitas pos TNI AL di Pulau Batek.</p>
+<p style="text-align: justify;">
+	Peluang pengembangan pulau ini antara lain penyediaan fasilitas pendukung untuk melengkapi fasilitas rumah yang telah dibangun, seperti pengadaan genset, listrik tenaga surya, telepon satelit, radio satelit.&nbsp; Selain itu, pembangunan jetty, tangga, dan peningkatan jalur transportasi Oepoli-Batek dapat dilakukan untuk meningkatkan eksistensi dan mengoptimalkan penjagaan pulau tersebut.</p>
+<p style="text-align: justify;">
+	Pendeklarasian kawasan Pulau Batek sebagai kawasan pemantauan dan penelitian satwa migrasi dan satwa langka seperti penyu, lumba-lumba dan burung elang jawa dilakukan untuk meningkatkan <em>effective occupation.&nbsp; </em>Keberadaan pulau tersebut perlu didukung dengan kepastian adanya Undang-Undang Pembentuan Provinsi NTT dan Perda Pembentukan Kabupaten Kupang maupun Kecamatan untuk memastikan ada tidaknya Pulau Batek sebagai bagian dari wilayah tersebut</p>
+</div></p>
+
+<hr>
+
+<h2><a id="kp">Kendala Pengembangan</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<h2><a id="rf">Referensi</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<br />
+	<i> 
+		<p style="font-size:12px;">
+			Karena keterbatasan SDM dalam penginputan dan pengolahan data, kami mohon maaf atas ketidak lengkapan beberapa data pulau yang kami tampilkan, harap dimaklumi.
+			Berikan keritik dan saran pada kolom komentar agar kita dapat bersama menyajikan sebuah data yang cukup sempurna untuk halayak ramai yang berguna
+			demi kesejahterahan, kelestarian dan keindahan pulau-pulau kecil yang dimiliki Indonesia.<br />
+			*Jika sekiranya anda memiliki data yang cukup banyak, silakan mengirimkan file melalui email kami di <b><a>identifikasippk@gmail.com</a></b>
+			
+		</p>
+	</i>
+<br />
+
+<div id="fb_comn" class="fb-comments" data-href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_info/432" data-width="800" data-numposts="5" data-colorscheme="light"></div>
+
+
+</div>
+</div>
+</div>
+<div id="wrapper">
+
+<div class="footer"><p>
+<!--<marquee onmouseover="this.stop()" onmouseout="this.start()" scrollamount="5" direction="right" width="798" height="14"  behavior="scroll">-->
+<a href="http://www.ppk-kp3k.kkp.go.id/" target="_blank">Direktorat Pendayagunaan Pulau-Pulau Kecil &nbsp; | &nbsp;</a>
+<a href="http://www.kp3k.kkp.go.id/" target="_blank">Ditjen Kelautan, Pesisir dan Pulau-Pulau Kecil &nbsp; | &nbsp;</a>
+<a href="http://www.kkp.go.id/" target="_blank">Kementerian Kelautan dan Perikanan</a>
+<!--</marquee>--> <br />
+Jl. Medan Merdeka Timur No. 16 Gedung Mina Bahari 3 Lantai 10, Jakarta, Indonesia <br />
+Email : identifikasippk@gmail.com <br />
+Telp &amp; Fax: (021) 3522058 <br />
+&copy; Copyright Direktorat Pendayagunaan Pulau-Pulau Kecil 2012&nbsp; <br /></p>
+</div>
+</div>
+</body>
+</html>

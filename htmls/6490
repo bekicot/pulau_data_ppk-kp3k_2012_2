@@ -1,0 +1,536 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Pulau Bukide</title>
+
+<meta charset="utf-8"/>
+
+<meta property="fb:app_id" content="559408774147878" />
+
+
+<meta property="og:title" content="Pulau Bukide" />
+<meta property="og:url" content="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_info/6490" />
+
+
+    <script type="text/javascript" src="http://ajax.microsoft.com/ajax/jquery/jquery-1.4.4.min.js">
+    </script>
+    
+    <script type="text/javascript" src="http://plugins.learningjquery.com/expander/jquery.expander.js">
+    </script>
+    
+    <script type="text/javascript">
+        $(function () {
+            $('div.readmore').expander({
+                slicePoint:200,
+                expandText: '(Baca selengkapnya)',
+                userCollapseText: '(Sembunyikan selengkapnya)'
+            });
+        });
+    </script>
+        
+	<script src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/galleria/galleria-1.2.8.min.js"></script>
+
+        <SCRIPT TYPE="text/javascript">
+            <!--
+            //Disable right click script
+            //visit http://www.rainbow.arch.scriptmania.com/scripts/
+            var message="Sorry, right-click has been disabled";
+            ///////////////////////////////////
+            function clickIE() {if (document.all) {(message);return false;}}
+            function clickNS(e) {if
+            (document.layers||(document.getElementById&&!document.all)) {
+            if (e.which==2||e.which==3) {(message);return false;}}}
+            if (document.layers)
+            {document.captureEvents(Event.MOUSEDOWN);document.onmousedown=clickNS;}
+            else{document.onmouseup=clickNS;document.oncontextmenu=clickIE;}
+            document.oncontextmenu=new Function("return false")
+            // -->
+            </SCRIPT>
+            
+            <SCRIPT TYPE="text/javascript">
+            <!--
+            //Disable select-text script (IE4+, NS6+)
+            //visit http://www.rainbow.arch.scriptmania.com/scripts/
+            ///////////////////////////////////
+            function disableselect(e){
+            return false
+            }
+            function reEnable(){
+            return true
+            }
+            //if IE4+
+            document.onselectstart=new Function ("return false")
+            //if NS6
+            if (window.sidebar){
+            document.onmousedown=disableselect
+            document.onclick=reEnable
+            }
+            // -->
+            </SCRIPT>  
+              
+<link rel="stylesheet" type="text/css" href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/css/main.css" media="screen"/>
+<style type='text/css'>
+#info_wrap{
+	width:820px;
+	margin:0 auto;
+	text-shadow:0px 1px 1px #09F;
+}
+table{
+	color:#000000;
+}
+h1{
+	color:#000000;
+}
+.tengahin{
+	width: 105px;
+	height: 30px;
+	margin: 0 auto auto auto;
+}
+#box_view{
+	background-image:-webkit-gradient(linear, 0 0%, 0 100%, from(#FFFFFF), to(#E0F0F5));
+	background:#FFF;
+	color:#F60;
+	border: 1px solid #fff;
+	border-radius: 4px 4px 4px 4px;
+	box-shadow: 0 8px 6px -6px black;
+	position:fixed;
+	right:0;
+	top:150px;;
+	width:80px;
+	z-index:10;
+	padding-left:12px;
+	font-size:10px;
+	}
+#box_view li{
+	color:#F60;
+	margin-left:-30px;
+	}
+	#wrapper a b {
+	color: #FFF;
+	font-size:14px;
+}
+.batas{
+	float:left;
+	border-right-style:inset;
+	border-right-width:thin;
+	}
+.text_h_wrap{
+	
+	padding-left:450px;
+	padding-top:39px;
+	text-shadow:0px 1px 1px #09F;
+	}
+#wrapper .footer p{
+	font-size:12px;
+	color: #FFF;
+	text-align:center;
+	text-shadow:0px 1px 1px #09F;
+}
+td,th {
+	font-size: 12px;
+}
+
+marquee a{
+	color:#FFF
+	}
+#wrapper .footer a{
+	color: #FFFFFF;
+}
+</style>
+            
+<script>
+function goBack()
+  {
+  window.history.back()
+  }
+</script>
+<script type="text/javascript">
+function Popup( url, height, width )
+{
+    var windowProperties = "toolbar = 0, scrollbars = 1, location = 0, statusbar = 0, menubar = 0, resizable = 1, width = " + width + ", height = " + height + ", left = 50, top = 50";
+ 
+    return window.open( url, "", windowProperties );
+}
+</script>
+
+
+
+</head>
+<body oncontextmenu='return false;' onkeydown='return false;' onmousedown='return false;'>
+
+<a id="top_view"></a>
+<div id="wrapper">
+<div class="header_wrap">
+<div class="text_h_wrap">
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/home_page'><b>&nbsp;Home&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/menu_info/1'><b>&nbsp;About Us&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_data'><b>&nbsp;Direktori Pulau&nbsp;&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/program_ip'><b>&nbsp;IKU&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/data_ppkt'><b>&nbsp;PPKT&nbsp;</b></a>
+</div>
+<!--<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/maintenance'><b>&nbsp;Login&nbsp;</b></a>-->
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/dir_log_cont'><b>&nbsp;Login&nbsp;</b></a>
+
+</div>
+</div>
+</div>
+
+<div id="fb-root"></div>
+<script>
+  window.fbAsyncInit = function() {
+    // init the FB JS SDK
+    FB.init({
+      appId      : '559408774147878',                        // App ID from the app dashboard
+      status     : true,                                 // Check Facebook Login status
+      xfbml      : true                                  // Look for social plugins on the page
+    });
+
+    // Additional initialization code such as adding Event Listeners goes here
+  };
+
+  // Load the SDK asynchronously
+  (function(){
+     // If we've already installed the SDK, we're done
+     if (document.getElementById('facebook-jssdk')) {return;}
+
+     // Get the first script element, which we'll use to find the parent node
+     var firstScriptElement = document.getElementsByTagName('script')[0];
+
+     // Create a new script element and set its id
+     var facebookJS = document.createElement('script'); 
+     facebookJS.id = 'facebook-jssdk';
+
+     // Set the new script's source to the source of the Facebook JS SDK
+     facebookJS.src = '//connect.facebook.net/en_US/all.js';
+
+     // Insert the Facebook JS SDK into the DOM
+     firstScriptElement.parentNode.insertBefore(facebookJS, firstScriptElement);
+   }());
+</script>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=559408774147878";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="box_view">
+    <a href="#top_view">MENU</a>
+    <h3><p>Lihat Informasi:</p></h3>
+    <ul>
+	<a href="#sf"><li>Slide Foto</li></a>
+    <a href="#gu"><li>Gambaran Umum</li></a>
+    <a href="#ksbk"><li>Kependudukan, Sosial Budaya dan Kelembagaan</li></a>
+    <a href="#eshp"><li>Ekosistem dan Sumberdaya Hayati</li></a>
+    <a href="#snh"><li>Sumberdaya Non Hayati</li></a>
+    <a href="#aps"><li>Aktivitas Pengelolaan Sumberdaya</li></a>
+    <a href="#ling"><li>Lingkungan</li></a>
+    <a href="#sp"><li>Sarana dan Prasarana</li></a>
+    <a href="#pi"><li>Peluang Investasi</li></a>
+    <a href="#pap"><li>Potensi Arahan Pengembangan</li></a>
+    <a href="#kp"><li>Kendala Pengembangan</li></a>
+	<a href="#rf"><li>Referensi</li></a>
+    </ul>
+    <a href="#fb_comn">KOMENTAR</a>
+</div>
+
+<br>
+			<a id="sf"></a></h2>
+			<div id="galleria">
+            <!--<div class='tengahin'><input type="button" value="Kembali Ke List" onclick="goBack()"></div>-->
+                            </div>
+            
+            <script>
+            Galleria.loadTheme('http://www.ppk-kp3k.kkp.go.id/direktori-pulau/galleria/themes/classic/galleria.classic.min.js');
+            Galleria.run('#galleria');
+            </script>
+</div>
+
+<div id="text_warp">
+
+
+<p><h1>Bukide</h1></p>
+<table>
+<tr>
+	<td>Nama Lain</td> <td>:</td> <td></td>
+</tr>
+<tr>
+	<td>Propinsi</td> <td>:</td> <td>SULAWESI UTARA</td>
+</tr>
+<tr>
+	<td>Kabupaten</td> <td>:</td> <td>KABUPATEN KEPULAUAN SANGIHE</td>
+</tr>
+<tr>
+	<td>Kecamatan</td> <td>:</td> <td></td>
+</tr>
+<tr>
+	<td>Koordinat</td> <td>:</td> <td><a href="http://www.ppk-kp3k.kkp.go.id/giskkp/index.html?extent=13959306.5594 392129.0635 13983766.4084 401836.5661"target="_blank">3047’29.8’’LU , 125036’35.6’’ BT</a></td>
+</tr>
+</table>
+<hr>
+
+<h2><a id="gu">Gambaran Umum</a></h2>
+<p><div class="readmore"><p>
+	GAMBARAN UMUM</p>
+<p>
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Pulau Bukide adalah pulau yang berada di propisi Sulawesi Utara Kabupaten Kep. Sangihe yang terletak di Kecamatan Tabukan Utara. Pulau ini memiliki luas 5,2 km<sup>2</sup> dan dihuni oleh sekitar 993 jiwa. Batas wilayah Pulau Bukide yaitu :</p>
+<ul>
+	<li>
+		Sebelah Utara&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : Laut Sulawesi</li>
+	<li>
+		Sebelah Selatan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : Pulu Sangihe</li>
+	<li>
+		Sebelah barat&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : Pulau Nusa</li>
+	<li>
+		Sebelah Timur&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : Laut Sulawesi</li>
+</ul>
+<p>
+	AKSESIBILITAS</p>
+<p>
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Pulau Bukide ini dapat dijangkkau dengan menggunakan sarana transportasi laut dan udara denga waktu tempuh dari Ibukota Provinsi sekitar 10 jam dengan transportasi laut dan 3 jam dengan transportasi darat.</p>
+<p>
+	TOPOGRAFI</p>
+<p>
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Pulau Bukide memiliki topografi berbukit dengn ketinggian berkisar 15-45 meter dari permukaan laut, memiliki kemiringan lereng yang terjal diatas 15% dengan morfologi pantai yang berpasir.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="ksbk">Kependudukan, Sosial Budaya dan Kelembagaan</a></h2>
+<p><div class="readmore"><p>
+	KEPENDUDUKAN</p>
+<p>
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Pulau Bukide memiliki jumlah penduduk 993 jiwa yag tersebar di dua desa yakni Desa Bukide dan&nbsp; Bukide Timur. Komposisi penduduk berdasarkan umur lebih didominasi oleh masyarakat berusia 30-59 tahun yakni, sekitar 42,9% dari jumlah penduduk yang ada. Sedangkan berdasarkan mata pencaharian peduduk Bukide didominasi oleh nelayan tangkap yakni mencapai 91,06%.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="eshp">Ekosistem dan Sumberdaya Hayati</a></h2>
+<p><div class="readmore"><p>
+	a.&nbsp;&nbsp;&nbsp;&nbsp; Terumbu Karang<br />
+	<br />
+	Kondisi terumbu karang di sekitar Pulau Bukide berada dalam kondisi rusak sebagai akibat penggunaan alat tidak ramah lingkungan dalam proses penangkapan ikan di daerah terumbu karang dimasa lampau.<br />
+	<br />
+	b.&nbsp;&nbsp;&nbsp;&nbsp; Ekosistem Mangrove<br />
+	<br />
+	Pulau mangrove ditemukan di beberapa kawasan sekitar pulau Bukide dengan kondisi baik. Mangrove di pulau ini terdiri dari 3 jenis, yakni Rhizophora spp, Avicenia spp dan Bruguera spp. Dengan kerapatan masing-masing jenis berurut-turut adalah 50%, 40% dan 10%. Status kawasan mangrove tak berpemilik. Jenis biota yang banyak ditemukan di hutan mangrove ini adalah kepiting, teripang, ikan dan berbagai makrobentos lainnya.<br />
+	<br />
+	c.&nbsp;&nbsp;&nbsp;&nbsp; Ekosistem Lamun<br />
+	<br />
+	Pengambilan data lamun dilakukan di sekitar Pulau Batu yang berjarak sekitar 30 meter dari garis pantai Desa Bukide Timur.Lamun teridentifikasi dalam kondisi baik. Beberapa jenis lamun yang ditemukan diantaranya adalah jenis Cymodoceae serrulata dan Enhalus acaroides.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="snh">Sumberdaya Non Hayati</a></h2>
+<p><div class="readmore"><p>
+	a.&nbsp;&nbsp;&nbsp;&nbsp; Mineral<br />
+	<br />
+	Potensi sumberdaya non hayati berupa mineral di Pulau Bukide belum pernah dilakukan baik oleh pemerintah maupun pemerintah daerah.<br />
+	<br />
+	b.&nbsp;&nbsp;&nbsp;&nbsp; Energi Kelauta<br />
+	<br />
+	Berdasarkan karakteristik fisik perairannya, maka sumberdaya kelautan yang mungkin digunakan untuk pengelolaan Pulau Bukide adalah Konversi Energi panas samudera / Ocean Thermal Energy Conversion (OTEC), panas bumi (Geothermal), Ombak dan pasang surut.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="aps">Aktivitas Pengelolaan Sumberdaya</a></h2>
+<p><div class="readmore"><p>
+	A.&nbsp;&nbsp; Perikanan Tangkap<br />
+	<br />
+	Produksi perikanan tangkap di Pulau Bukide lebih didominasi oleh jenis ikan layang yang mencapai 41,5 ton/tahun, kemudian ikan tongkol 25.9 ton/tahun dan jenis ikan lainya sekitar 7 ton/tahun. Aktivitas nelayan tangkap di pulau ini didukung oleh armada berupa perahu sebanyak 57 unit dan motor tempel 4 unit. Adapun alat tangkap yang umum digunakan adalah pancing, jaring dan jubi.<br />
+	<br />
+	B.&nbsp;&nbsp;&nbsp; Pertanian<br />
+	<br />
+	Pertanian yang ada di Pulau Bukide berjumlah 110 orang atau sekitar 22,87% dari jumlah peduduk. Meskipun demikian, data statistik menunjukkan bahwa luas lahan pertanian yang ada di Pulau ini 35 ha. Jenis komoditas yang banyak ditanami oleh petani adalah ubi kayu dan pohon rambutan. Produksi jenis komoditas inni adalah 19,2 ton/tahun utuk ubi kayu dan 4 ton/tahun untuk buah rambutan. Hasil pertanian ini selanjutnya dipasarkan ke Pasar Peta di Pulau Sangihe.<br />
+	<br />
+	C.&nbsp;&nbsp;&nbsp; Peternakan<br />
+	<br />
+	Aktivitas peternakan saat ini hampir tidak bisa ditemukan lagi. Sebelumnya masyarakat pernah mencoba memelihara kambing, itik dan ayam kampung. namun karena sering terserang wabah penyakit, maka upaya peternak tersebut kini ditinggalkan oleh masyarakat Pulau Bukide.<br />
+	<br />
+	D.&nbsp;&nbsp; Perkebunan<br />
+	<br />
+	Jenis perkebunan yang ditemukan di Pulau Bukide adalah kelapa, cengkeh dan pala. Ketiga komoditas ini merupakan salah satu mata pencarian bagi masyarakat setempat. Luas perkebunan kelapa mencapai 10,4 ha dengan produksi 54,8 ton/tahun., kebun cengkeh 0,6 ha dengan produksi 1,5 ton/tahun, sementara kebun pala ada sekitar 1,3 ha dengan produksi pertahunnya sekitar 4,7 ton/tahun. Hasil perkebunan ini dipasarkan ke pasar peta yang ada di Pulau Sangihe.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="ling">Lingkungan</a></h2>
+<p><div class="readmore"><p>
+	a)&nbsp;&nbsp;&nbsp;&nbsp; Kondisi Perairan<br />
+	<br />
+	Parameter fisik peraira yang diamati dalam kajian ini adalah kecerahan air dan suhu. Hasil pengamatan untuk 3 sempel kedalaman menunjukan pada kedalaman 6m, kecerahan air mencapai 100%, untuk kedalaman 10 m kecerahan air 8m (80%), sementara untuk kedalaman 12m kecerahan air adalah 8m (66,67%). Adapun suhu rata-rata perairan adalah 280 C.<br />
+	<br />
+	b)&nbsp;&nbsp;&nbsp; Permasalahan Lingkungan<br />
+	<br />
+	Permasalahan lingkungan berupa pencemaran limbah, pencemaran limbah rumah tangga, abrasi akibat pengerukan pasir laut tidak ditemuan di Pulau Bukide sampai saat ini.<br />
+	<br />
+	c)&nbsp;&nbsp;&nbsp;&nbsp; Kerentanan Bencana dan Upaya Mitigasi<br />
+	<br />
+	Pulau Bukide relatif aman untuk berbagai jenis bencana seperti letusan gunung berapi, gempa bumi dan tsunami.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="sp">Sarana dan Prasarana</a></h2>
+<p><div class="readmore"><p>
+	a.&nbsp;&nbsp;&nbsp;&nbsp; Sarana Transportasi<br />
+	<br />
+	Sarana Transportasi yang tersedia di Pulau Bukide terdiri dari jalan desa sebanyak 2 unit yang dibuat pada tahun 2009, jalan semen 2 unit tahun 2010 oleh pemerintah Daerah. Selain itu ersedia jalan setapak yang banyak digunakan oleh masyarakat petani untuk melakuka aktivitasnya.<br />
+	<br />
+	b.&nbsp;&nbsp;&nbsp;&nbsp; Sumber Listrik untuk Penenrangan<br />
+	<br />
+	Sumber listrik di Pulau Bukide berasal dari generator/diesel. Selain itu juga tersedia sumber listrik tenaga surya dengan jumlah panel sebanyak 50 yang diadakan oleh kementrian ESDM pada tahun 2013di Desa Bukide Timur.<br />
+	<br />
+	c.&nbsp;&nbsp;&nbsp;&nbsp; Sarana Air Bersih<br />
+	<br />
+	Untuk air bersih masyarakat Pulau Bukide memanfaatkan kolam penampung yang diadakan oleh PPIP.<br />
+	<br />
+	d.&nbsp;&nbsp;&nbsp;&nbsp; Sarana Kesehatan da Tenaga Surya<br />
+	<br />
+	Sarana yang tersedia berupa Apotek, Klinik dan Balai Pegobatan belum tersedia di Pulau Bukide. Demikian tenaga medis hampi tidak ada kecuali hana bidan kampung yang tersedia.<br />
+	<br />
+	e.&nbsp;&nbsp;&nbsp;&nbsp; Sarana Pendidikan<br />
+	<br />
+	Pulau Bukide memiliki 1 PAUD di Desa Bukide, 2 buah SD dan 1 buah SLTP.<br />
+	<br />
+	f.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sarana Peribadatan<br />
+	<br />
+	Terdapat 7 buah mesjid yang tersebar di 2 desa yang ada di Pulau ini dan 5 buah gereja degan kondisi baik.<br />
+	<br />
+	g.&nbsp;&nbsp;&nbsp;&nbsp; Sarana Pendukung Pemerintah<br />
+	<br />
+	Terdapat 2 buah kantor desa yang terdapat di Desa Bukide dan Bukide Timur. Da 1 balai pertemuan di Desa Bukide Timur.<br />
+	<br />
+	h.&nbsp;&nbsp;&nbsp;&nbsp; Sarana Pendukung Wisata Bahari<br />
+	<br />
+	Pemda Kab. Sagihe telah membangu 2 unit podok wisata berukuran 2X2 m2 pada tahu 2010. Kondisi bangunan saat ini kurang terawat karena kurang dimanfaatkan.<br />
+	<br />
+	i.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sarana Sanitasi Ligkungan<br />
+	<br />
+	Melalui program PNPM, Pulau Bukide ini memiliki 22 MCK ukuran 2x2 m2 yag tersebar di Desa Bukide dan Bukide Timur.<br />
+	<br />
+	j.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sarana Kelautan dan Perikanan<br />
+	<br />
+	Sarananya berupa tempat pelelanga ikan, pasar ikan SPDN dan pabrik es belum tersedia di Pulau Bukide<br />
+	<br />
+	k.&nbsp;&nbsp;&nbsp;&nbsp; Sarana Komunikasi<br />
+	<br />
+	Dalam melakukan komunikasi umumnya menggunakan telepon seluler.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="pi">Peluang Investasi</a></h2>
+<p><div class="readmore"><p>
+	Peluang Investasi<br />
+	<br />
+	a.&nbsp;&nbsp;&nbsp;&nbsp; Jenis-jenis Investasi<br />
+	<br />
+	Jenis investasi yaitu dibidang kelautan dan perikanan, pariwisata, pertambangan.<br />
+	<br />
+	b.&nbsp;&nbsp;&nbsp;&nbsp; Profil Invetor<br />
+	<br />
+	Pulau ini belum disentuh oleh Investor lokal, nasional maupun Interasional<br />
+	<br />
+	c.&nbsp;&nbsp;&nbsp;&nbsp; Kedala Umum<br />
+	<br />
+	Kendala-kendala dalam kegiatan Investasi yaitu :<br />
+	<br />
+	1.&nbsp;&nbsp;&nbsp;&nbsp; Infrastruktur jalan yang tidak memadai<br />
+	<br />
+	2.&nbsp;&nbsp;&nbsp;&nbsp; Ketersediaan air bersih<br />
+	<br />
+	3.&nbsp;&nbsp;&nbsp;&nbsp; Daya listrik yang masih sangat kecil<br />
+	<br />
+	4.&nbsp;&nbsp;&nbsp;&nbsp; Tidak tersedianya pabrik es<br />
+	<br />
+	5.&nbsp;&nbsp;&nbsp;&nbsp; Modal kerja</p>
+</div></p>
+
+<hr>
+
+<h2><a id="pap">Potensi dan Arahan Pengembangan</a></h2>
+<p><div class="readmore"><p>
+	Potensi pengembangan Pulau Bukide dapat diuraikan sebagai berikut:<br />
+	<br />
+	1.&nbsp;&nbsp;&nbsp;&nbsp; Potensi perikanan, meliputi : pengembangan ikan karag dan industri pebuatan perahu nelayan<br />
+	<br />
+	2.&nbsp;&nbsp;&nbsp;&nbsp; Perkebunan, meliputi : cengkeh dan kopra<br />
+	<br />
+	3.&nbsp;&nbsp;&nbsp;&nbsp; Wisata bahari, meliputi : snorkeling, pasir putih dan riset<br />
+	<br />
+	4.&nbsp;&nbsp;&nbsp;&nbsp; Konservasi terumbu karang<br />
+	<br />
+	5.&nbsp;&nbsp;&nbsp;&nbsp; Pendidikan da penelitian yang mengarah kepada biota endemik seperti dugong, dll</p>
+</div></p>
+
+<hr>
+
+<h2><a id="kp">Kendala Pengembangan</a></h2>
+<p><div class="readmore"><p>
+	Kendala pengembangan pulau meliputi<br />
+	<br />
+	1.&nbsp;&nbsp;&nbsp;&nbsp; Infrastruktur jalan yang tidak memadai<br />
+	<br />
+	2.&nbsp;&nbsp;&nbsp;&nbsp; Ketersediaan air bersih<br />
+	<br />
+	3.&nbsp;&nbsp;&nbsp;&nbsp; Daya listrik yang masih sangat kecil<br />
+	<br />
+	4.&nbsp;&nbsp;&nbsp;&nbsp; Tidak tersedianya pabrik es<br />
+	<br />
+	5.&nbsp;&nbsp;&nbsp;&nbsp; Modal kerja</p>
+</div></p>
+
+<hr>
+
+<h2><a id="rf">Referensi</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<br />
+	<i> 
+		<p style="font-size:12px;">
+			Karena keterbatasan SDM dalam penginputan dan pengolahan data, kami mohon maaf atas ketidak lengkapan beberapa data pulau yang kami tampilkan, harap dimaklumi.
+			Berikan keritik dan saran pada kolom komentar agar kita dapat bersama menyajikan sebuah data yang cukup sempurna untuk halayak ramai yang berguna
+			demi kesejahterahan, kelestarian dan keindahan pulau-pulau kecil yang dimiliki Indonesia.<br />
+			*Jika sekiranya anda memiliki data yang cukup banyak, silakan mengirimkan file melalui email kami di <b><a>identifikasippk@gmail.com</a></b>
+			
+		</p>
+	</i>
+<br />
+
+<div id="fb_comn" class="fb-comments" data-href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_info/6490" data-width="800" data-numposts="5" data-colorscheme="light"></div>
+
+
+</div>
+</div>
+</div>
+<div id="wrapper">
+
+<div class="footer"><p>
+<!--<marquee onmouseover="this.stop()" onmouseout="this.start()" scrollamount="5" direction="right" width="798" height="14"  behavior="scroll">-->
+<a href="http://www.ppk-kp3k.kkp.go.id/" target="_blank">Direktorat Pendayagunaan Pulau-Pulau Kecil &nbsp; | &nbsp;</a>
+<a href="http://www.kp3k.kkp.go.id/" target="_blank">Ditjen Kelautan, Pesisir dan Pulau-Pulau Kecil &nbsp; | &nbsp;</a>
+<a href="http://www.kkp.go.id/" target="_blank">Kementerian Kelautan dan Perikanan</a>
+<!--</marquee>--> <br />
+Jl. Medan Merdeka Timur No. 16 Gedung Mina Bahari 3 Lantai 10, Jakarta, Indonesia <br />
+Email : identifikasippk@gmail.com <br />
+Telp &amp; Fax: (021) 3522058 <br />
+&copy; Copyright Direktorat Pendayagunaan Pulau-Pulau Kecil 2012&nbsp; <br /></p>
+</div>
+</div>
+</body>
+</html>

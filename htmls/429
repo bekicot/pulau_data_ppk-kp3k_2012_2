@@ -1,0 +1,442 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Pulau BATUGOYANG</title>
+
+<meta charset="utf-8"/>
+
+<meta property="fb:app_id" content="559408774147878" />
+
+
+<meta property="og:title" content="Pulau BATUGOYANG" />
+<meta property="og:url" content="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_info/429" />
+
+
+    <script type="text/javascript" src="http://ajax.microsoft.com/ajax/jquery/jquery-1.4.4.min.js">
+    </script>
+    
+    <script type="text/javascript" src="http://plugins.learningjquery.com/expander/jquery.expander.js">
+    </script>
+    
+    <script type="text/javascript">
+        $(function () {
+            $('div.readmore').expander({
+                slicePoint:200,
+                expandText: '(Baca selengkapnya)',
+                userCollapseText: '(Sembunyikan selengkapnya)'
+            });
+        });
+    </script>
+        
+	<script src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/galleria/galleria-1.2.8.min.js"></script>
+
+        <SCRIPT TYPE="text/javascript">
+            <!--
+            //Disable right click script
+            //visit http://www.rainbow.arch.scriptmania.com/scripts/
+            var message="Sorry, right-click has been disabled";
+            ///////////////////////////////////
+            function clickIE() {if (document.all) {(message);return false;}}
+            function clickNS(e) {if
+            (document.layers||(document.getElementById&&!document.all)) {
+            if (e.which==2||e.which==3) {(message);return false;}}}
+            if (document.layers)
+            {document.captureEvents(Event.MOUSEDOWN);document.onmousedown=clickNS;}
+            else{document.onmouseup=clickNS;document.oncontextmenu=clickIE;}
+            document.oncontextmenu=new Function("return false")
+            // -->
+            </SCRIPT>
+            
+            <SCRIPT TYPE="text/javascript">
+            <!--
+            //Disable select-text script (IE4+, NS6+)
+            //visit http://www.rainbow.arch.scriptmania.com/scripts/
+            ///////////////////////////////////
+            function disableselect(e){
+            return false
+            }
+            function reEnable(){
+            return true
+            }
+            //if IE4+
+            document.onselectstart=new Function ("return false")
+            //if NS6
+            if (window.sidebar){
+            document.onmousedown=disableselect
+            document.onclick=reEnable
+            }
+            // -->
+            </SCRIPT>  
+              
+<link rel="stylesheet" type="text/css" href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/css/main.css" media="screen"/>
+<style type='text/css'>
+#info_wrap{
+	width:820px;
+	margin:0 auto;
+	text-shadow:0px 1px 1px #09F;
+}
+table{
+	color:#000000;
+}
+h1{
+	color:#000000;
+}
+.tengahin{
+	width: 105px;
+	height: 30px;
+	margin: 0 auto auto auto;
+}
+#box_view{
+	background-image:-webkit-gradient(linear, 0 0%, 0 100%, from(#FFFFFF), to(#E0F0F5));
+	background:#FFF;
+	color:#F60;
+	border: 1px solid #fff;
+	border-radius: 4px 4px 4px 4px;
+	box-shadow: 0 8px 6px -6px black;
+	position:fixed;
+	right:0;
+	top:150px;;
+	width:80px;
+	z-index:10;
+	padding-left:12px;
+	font-size:10px;
+	}
+#box_view li{
+	color:#F60;
+	margin-left:-30px;
+	}
+	#wrapper a b {
+	color: #FFF;
+	font-size:14px;
+}
+.batas{
+	float:left;
+	border-right-style:inset;
+	border-right-width:thin;
+	}
+.text_h_wrap{
+	
+	padding-left:450px;
+	padding-top:39px;
+	text-shadow:0px 1px 1px #09F;
+	}
+#wrapper .footer p{
+	font-size:12px;
+	color: #FFF;
+	text-align:center;
+	text-shadow:0px 1px 1px #09F;
+}
+td,th {
+	font-size: 12px;
+}
+
+marquee a{
+	color:#FFF
+	}
+#wrapper .footer a{
+	color: #FFFFFF;
+}
+</style>
+            
+<script>
+function goBack()
+  {
+  window.history.back()
+  }
+</script>
+<script type="text/javascript">
+function Popup( url, height, width )
+{
+    var windowProperties = "toolbar = 0, scrollbars = 1, location = 0, statusbar = 0, menubar = 0, resizable = 1, width = " + width + ", height = " + height + ", left = 50, top = 50";
+ 
+    return window.open( url, "", windowProperties );
+}
+</script>
+
+
+
+</head>
+<body oncontextmenu='return false;' onkeydown='return false;' onmousedown='return false;'>
+
+<a id="top_view"></a>
+<div id="wrapper">
+<div class="header_wrap">
+<div class="text_h_wrap">
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/home_page'><b>&nbsp;Home&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/menu_info/1'><b>&nbsp;About Us&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_data'><b>&nbsp;Direktori Pulau&nbsp;&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/program_ip'><b>&nbsp;IKU&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/data_ppkt'><b>&nbsp;PPKT&nbsp;</b></a>
+</div>
+<!--<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/maintenance'><b>&nbsp;Login&nbsp;</b></a>-->
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/dir_log_cont'><b>&nbsp;Login&nbsp;</b></a>
+
+</div>
+</div>
+</div>
+
+<div id="fb-root"></div>
+<script>
+  window.fbAsyncInit = function() {
+    // init the FB JS SDK
+    FB.init({
+      appId      : '559408774147878',                        // App ID from the app dashboard
+      status     : true,                                 // Check Facebook Login status
+      xfbml      : true                                  // Look for social plugins on the page
+    });
+
+    // Additional initialization code such as adding Event Listeners goes here
+  };
+
+  // Load the SDK asynchronously
+  (function(){
+     // If we've already installed the SDK, we're done
+     if (document.getElementById('facebook-jssdk')) {return;}
+
+     // Get the first script element, which we'll use to find the parent node
+     var firstScriptElement = document.getElementsByTagName('script')[0];
+
+     // Create a new script element and set its id
+     var facebookJS = document.createElement('script'); 
+     facebookJS.id = 'facebook-jssdk';
+
+     // Set the new script's source to the source of the Facebook JS SDK
+     facebookJS.src = '//connect.facebook.net/en_US/all.js';
+
+     // Insert the Facebook JS SDK into the DOM
+     firstScriptElement.parentNode.insertBefore(facebookJS, firstScriptElement);
+   }());
+</script>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=559408774147878";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="box_view">
+    <a href="#top_view">MENU</a>
+    <h3><p>Lihat Informasi:</p></h3>
+    <ul>
+	<a href="#sf"><li>Slide Foto</li></a>
+    <a href="#gu"><li>Gambaran Umum</li></a>
+    <a href="#ksbk"><li>Kependudukan, Sosial Budaya dan Kelembagaan</li></a>
+    <a href="#eshp"><li>Ekosistem dan Sumberdaya Hayati</li></a>
+    <a href="#snh"><li>Sumberdaya Non Hayati</li></a>
+    <a href="#aps"><li>Aktivitas Pengelolaan Sumberdaya</li></a>
+    <a href="#ling"><li>Lingkungan</li></a>
+    <a href="#sp"><li>Sarana dan Prasarana</li></a>
+    <a href="#pi"><li>Peluang Investasi</li></a>
+    <a href="#pap"><li>Potensi Arahan Pengembangan</li></a>
+    <a href="#kp"><li>Kendala Pengembangan</li></a>
+	<a href="#rf"><li>Referensi</li></a>
+    </ul>
+    <a href="#fb_comn">KOMENTAR</a>
+</div>
+
+<br>
+			<a id="sf"></a></h2>
+			<div id="galleria">
+            <!--<div class='tengahin'><input type="button" value="Kembali Ke List" onclick="goBack()"></div>-->
+                            </div>
+            
+            <script>
+            Galleria.loadTheme('http://www.ppk-kp3k.kkp.go.id/direktori-pulau/galleria/themes/classic/galleria.classic.min.js');
+            Galleria.run('#galleria');
+            </script>
+</div>
+
+<div id="text_warp">
+
+
+<p><h1>BATUGOYANG</h1></p>
+<table>
+<tr>
+	<td>Nama Lain</td> <td>:</td> <td></td>
+</tr>
+<tr>
+	<td>Propinsi</td> <td>:</td> <td>MALUKU</td>
+</tr>
+<tr>
+	<td>Kabupaten</td> <td>:</td> <td>KABUPATEN KEPULAUAN ARU</td>
+</tr>
+<tr>
+	<td>Kecamatan</td> <td>:</td> <td>ARU SELATAN</td>
+</tr>
+<tr>
+	<td>Koordinat</td> <td>:</td> <td><a href="http://www.ppk-kp3k.kkp.go.id/giskkp/index.html?extent=14933648.3239 -777679.2702,14942820.7673 -773948.1877"target="_blank"><p>
+	6&deg; 57&#39; 1,000&quot; LS - 134&deg; 11&#39; 38,000&quot; BT</p>
+</a></td>
+</tr>
+</table>
+<hr>
+
+<h2><a id="gu">Gambaran Umum</a></h2>
+<p><div class="readmore"><p>
+	&nbsp;</p>
+<p style="margin-left: -2.85pt; text-align: justify;">
+	Pulau Batugoyang yang merupakan salah satu dari 8 pulau kecil terluar di Kabupaten Kepulauan Aru. Di pulau ini terdapat titik dasar (TD) no. TD.102. Pulau Batugoyang tidak berpenghuni dan oleh masyarakat setempat dinamai <strong><em>Dimel.</em></strong></p>
+<p style="text-align: justify;">
+	Secara administratif, Pulau Batugoyang termasuk dalam wilayah Desa Batugoyang, Kecamatan Aru Selatan, Kabupaten Maluku Tenggara Barat, Maluku. Sedangkan secara geografis P. Batugoyang terletak antara 07<sup>o </sup>57&rsquo; 01&rdquo; LS dan 134<sup>o </sup>11&rsquo; 38&rdquo; BT. Luas pulau ini mencapai 0,006503 km<sup>2</sup> dengan keliling pulau 0,3295 km.</p>
+<p style="text-align: justify;">
+	Tidak ada transportasi umum atau reguler yang menghubungkan P. Batugoyang dengan ibukota Kabupaten MTB (Dobo), sehingga untuk mencapai P. Batugoyang harus mencarter <em>speed boat</em> dari Dobo. Untuk mencapai P. Batugoyang, perjalanan dimulai dari Dobo dengan menggunakan speed boat dalam waktu 4 jam 30 menit. Rutenya adalah dengan menyusuri pantai barat Kepulauan Aru. Pada waktu musim angin barat, waktu tempuh menjadi bertambah lama karena harus melewati selat antara P. Kobror dan P. Maekor hingga P. Baun kemudian menuju P. Batugoyang, atau antara P. Kobror dan P. Maekor kemudian mengikuti selat pada P. Maekor menuju P. Trangan hingga ke Gomarmeti atau Karey kemudian menuju P. Batugoyang dengan waktu tempuh antara 7 hingga 9 jam.</p>
+<p style="text-align: justify;">
+	Sarana transportasi lain yang dapat digunakan adalah sarana penangkap ikan dan transportasi laut yang dimiliki masyarakat Desa Batugoyang berupa &ldquo;Katinting&rdquo;, namun waktunya tidak menentu karena tergantung kebutuhan masyarakat.</p>
+<p style="text-align: justify;">
+	Untuk mencapai Kecamatan Jerol dari Dobo dapat dipergunakan sarana transportasi <em>speed boat </em>yang membutuhkan waktu antara 1 jam 30 menit hingga 2 jam. Waktu tempuh yang dibutuhkan untuk mencapai P. Batugoyang dari Desa Batugoyang dengan meng-gunakan speed boat adalah antara 5 hingga 10 menit, sedangkan dengan menggunakan katinting dapat ditempuh dalam waktu antara 20 &ndash; 30 menit.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="ksbk">Kependudukan, Sosial Budaya dan Kelembagaan</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<h2><a id="eshp">Ekosistem dan Sumberdaya Hayati</a></h2>
+<p><div class="readmore"><p>
+	&nbsp;</p>
+<p style="text-align: justify;">
+	<strong>Potensi Sumberdaya Teresterial</strong></p>
+<p style="text-align: justify;">
+	Keanekaragaman flora di lingkungan ekosistem P. Batugoyang relatif sangat kecil bahkan hampir tidak ada. Hal ini ditunjukkan dengan tidak adanya kawasan hutan alam yang memiliki tingkat heterogenitas tumbuhan dan satwa. Minimnya keanekaragaman flora dipengaruhi oleh karakteristik pulau dengan permukaan lahan yang hanya ditumbuhi rerumputan, bervegetasi seperti semak belukar, disebabkan oleh proses pembentukan tanah yang tidak berlangsung secara efektif.</p>
+<p style="text-align: justify;">
+	<strong>Potensi Sumberdaya Pesisir dan Laut</strong></p>
+<p style="text-align: justify;">
+	<strong>Ikan Karang</strong></p>
+<p style="text-align: justify;">
+	Ikan karang yang menempati areal terumbu P. Batugoyang mencapai 26 spesies yang tergolong dalam 16 genera dan 12 famili. Kekayaan spesies ikan karang ini tergolong rendah walaupun dimensi areal terumbu P. Batugoyang sangat kecil dibanding areal terumbu pada 7 pulau perbatasan lainnya, karena profil dasar perairan pulaunya yang langsung &ldquo;<em>drop off</em>&rdquo;.</p>
+<p style="text-align: justify;">
+	Famili ikan karang dengan variasi jenis yang tinggi di perairan karang P. Batugoyang adalah Chaetodontidae (6 jenis), sedangkan 11 famili lainnya memiliki jumlah spesies &lt; 5, bahkan 4 famili diantaranya memiliki variasi jenis terendah yakni hanya memiliki satu spesies, keempat famili tersebut adalah Labridae, Haemulidae, Serranidae dan Zanclidae. Ikan karang dari genus <em>Chaetodon </em>dan<em> Lutjanus</em> memiliki variasi jenis tergolong tinggi di perairan karang ini, sedangkan genera lainnya memiliki jumlah spesies &lt; 3, dimana 10 genera diantaranya hanya memiliki 1 spesies. Rendah-nya kekayaan jenis ikan karang famili Chaetodontidae yang juga termasuk kategori spesies indikator memberikan indikasi bahwa kualitas terumbu karang P. Batugoyang relatif kurang baik.</p>
+<p style="text-align: justify;">
+	Kepadatan ikan karang di areal terumbu P. Batugoyang termasuk tinggi bila dikaitkan dengan kon-disi terumbu karangnya. Kelompok ikan karang &ldquo;Target species&rdquo; memiliki kepadatan dan kelimpahan individu tertinggi dibandingkan dengan kelompok ikan karang &ldquo;Major Categories Species&rdquo; dan &ldquo;Indicator Species&rdquo;.</p>
+<p style="text-align: justify;">
+	Setidaknya terdapat empat jenis ikan karang di perairan P. Batugoyang yang termasuk kategori predominan di dalam komunitasnya. Jenis ikan <em>Caesio teres</em> sangat predominan dibanding tiga jenis ikan karang yang lain (Tabel 4). Sesuai kriteria pemanfaatannya sebagai ikan konsumsi, maka <em>Caesio teres</em> memiliki nilai sediaan cadang, MSY dan JTB lebih tinggi dari <em>Caesio xanthonota </em>dan<em> Selaroides leptolepis</em>.</p>
+<p style="text-align: justify;">
+	Terumbu karang P. Batugoyang menyimpan potensi jenis ikan hias laut yang kurang bernilai tinggi untuk industri akuarium. Selain itu, Gambar 6 memberi petunjuk bahwa perairan karang pulau kecil perbatasan ini menyimpan potensi jenis-jenis ikan konsumsi yang bernilai ekonomis tinggi seperti ekor kuning dan selar maupun ikan yang dikonsumsi masyarakat lokal (nelayan).</p>
+<p style="text-align: justify;">
+	<strong>Perikanan Tangkap</strong></p>
+<p style="text-align: justify;">
+	Sebagai konsekuensi dari kehadiran berbagai potensi sumberdaya hayati laut, maka kawasan perairan Aru tenggara, termasuk perairan pesisir dan laut P. Batugoyang ramai dikunjungi kapal-kapal nelayan yang beroperasi di sekitarnya, di samping sebagai tempat berlabuh, bongkar muat dan transaksi jual beli hasil-hasil laut. Kapal-kapal perikanan tangkap tersebut ada yang berasal dari masyarakat lokal yang bermukim dekat dengan pulau ini, ada memiliki izin operasi dari Pemerintah maupun dari masyarakat lokal (adat yang memiliki hak ulayat) untuk beroperasi di perairan sekitar pulau ini. Armada perikanan tangkap itu ada yang berpangkalan di Dobo dan Benjina, Wanem (Papua), Ambon dan Kendari.</p>
+<p style="text-align: justify;">
+	Sumberdaya perikanan dan kelautan yang diman-faatkan secara intensif di perairan pesisir dan laut sekitar P. Batugoyang adalah ikan hiu, dengan tujuan meng ambil bagian-bagian siripnya yang bernilai ekonomi tinggi. Alat tangkap yang digunakan dalam kegiatan pe nangkapan ikan hiu adalah pancing dan jaring yang dikonstruksi secara khusus untuk menangkap sumber-daya perikanan ini. Kegiatan penangkapan dilakukan oleh nelayan pendatang dengan peralatan yang semi-moderen, serta masyarakat lokal dari pulau-pulau sekitar dengan armada dan peralatan yang relatif sederhana.</p>
+<p style="text-align: justify;">
+	Perairan sekitar P. Batugoyang merupakan <em>fishing ground</em> dari sebagian armada trawl yang beroperasi di perairan Aru untuk menangkap ikan demersal dan udang windu. Sasaran penangkapan &nbsp;ikan demersal dengan trawl ini adalah berbagai jenis ikan kakap. Sementara udang windu yang umum tertangkap dengan trawl pada perairan sekitar P. Batugoyang ini adalah <em>Penaeus monodon </em>dan<em> Penaeus merguensis</em>. Masalah yang ditimbulkan operasi trawl ini yaitu terjadi kekeruh an air di pesisir P. Batugoyang, dan sumberdaya ikan yang bukan target dibuang ke laut sehingga menyebab kan pencemaran bau dan perairan.</p>
+<p style="text-align: justify;">
+	Potensi sumberdaya udang barong yang bernilai ekonomis tinggi ini sering dimanfaatkan oleh nelayan lokal, maupun nelayan pendatang yang berlabuh di perairan sekitar P. Batugoyang untuk dikonsumsi dan/atau dijual ke nelayan pengumpul. Selain itu, penangkapan sumberdaya ikan, termasuk ikan kerapu yang bernilai ekonomis tinggi dilakukan oleh masyarakat lokal di perairan P. Batugoyang dengan hanya menggunakan peralatan sederhana seperti pancing dan jaring insang.</p>
+<p style="text-align: justify;">
+	Kegiatan perikanan tangkap lain yang dilakukan, terutama oleh masyarakat lokal di perairan sekitar P. Batugoyang adalah menyelam untuk mengambill atau mengumpul biota laut yang ekonomis penting yaitu jenis-jenis teripang, kerang mutiara, siput lola, batu laga, dan udang barong. Kegiatan menyelam masyarakat lokal ini dilakukan pada musim barat yaitu antara bulan Nopember &ndash; Maret, dimana perairan sekitar P. Batugoyang dan Aru Tenggara umumnya relatif tenang.&nbsp;</p>
+</div></p>
+
+<hr>
+
+<h2><a id="snh">Sumberdaya Non Hayati</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<h2><a id="aps">Aktivitas Pengelolaan Sumberdaya</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<h2><a id="ling">Lingkungan</a></h2>
+<p><div class="readmore"><p>
+	&nbsp;</p>
+<p style="text-align: justify;">
+	Pulau Batugoyang merupakan pulau kecil dengan bentuk yang unik. Dimensi pulau ini sangat kecil yakni 0,65 Ha. Secara geomorfologi, P.Batugoyang tergolong <em>sea stack</em> yang terpotong dari batuan induknya di tanjung Batugoyang pulau Trangan. Pulau ini memiliki struktur batuan sedimen yang rentan terhadap pengaruh tenaga gelombang, angin dan arus. Gempuran gelombang musim, arus dan angin secara intensif telah menyebabkan erosi batuan disekeliling pulau ini.</p>
+<p style="text-align: justify;">
+	&nbsp;</p>
+<p style="text-align: justify;">
+	Rataan pasut pulau ini terbentuk dari hasil erosi permukaan batuan yang menyebabkan hilangnya sebagian dinding batuan membentuk lahan datar yang kering selama surut, dan terendam air selama pasang. Diduga bahwa pulau Batugoyang akan mengalami erosi secara intensif sejalan dengan bekerjanya tenaga geomorfik sepanjang musim dan merendahkan reliefnya.</p>
+<p style="text-align: justify;">
+	Secara umum substrat dasar di perairan sekitar Batugoyang didominasi oleh pasir. Pada perairan ini terdeteksi 6 zona dangkalan dengan kedalaman 3 &ndash; 9 m yang berada antara kontur kedalaman 10 &ndash; 20 m. Adanya akumulasi pasir atas dasar ini memiliki konstribusi utama terhadap resuspensi sedimen karena adanya gerakan arus vertikal yang mendistristribusi sedimen ke bagian permukaan laut.</p>
+<p style="text-align: justify;">
+	Iklim di gugusan Kepulauan Aru, termasuk P. Batugoyang sesuai klasifikasi Schmid dan Ferguson (1951) termasuk tipe iklim C dengan nilai Q = 0,19 dengan curah hujan tahunan bervariasi dari 2000 - 3000 mm. Jumlah hari hujan rata-rata adalah 105 hari, dan curah hujan tertinggi terjadi antara bulan Januari hingga Maret. Jumlah rata-rata bulan basah 9 bulan dan bulan kering 1,7 bulan.</p>
+<p style="text-align: justify;">
+	Keadaan iklimnya sangat dipengaruhi oleh Laut Arafura dan dibayangi oleh P. Irian bagian selatan serta bagian utara Australia. Musim Timur optimum berlangsung antara bulan Juni hingga Agustus. Musim Barat berlangsung antara bulan Desember hingga Pebruari. Sedangkan Musim peralihan atau pancaroba antara kedua musim utama itu terjadi pada bulan Maret - Mei dan September - November.</p>
+<p style="text-align: justify;">
+	Pasang surut (Pasut) di P. Batugoyang terjadi dua kali sehari (tipe harian ganda) mengikuti pola pasut di pulau lainnya di Aru. Jangkauan pasut mencapai 2&ndash;2.5 m. Arus yang terjadi di sekitar perairan P. Kultubai Selatan didominasi oleh arus pasut, dan juga oleh arus non pasut dari Laut Arafura. Kecepatan arus pasut pada kondisi perairan tenang cukup lemah dan berkisar dari 15 &ndash; 25 cm/detik tetapi saat air bergerak pasang kecepatan arus sangat tinggi yakni &gt; 65 m/detik. Oleh karena kuatnya arus yang melintasi P. Batugoyang yang kedalaman perairannya &lt; 15 m menyebabkan resuspensi sedimen sangat intensif di perairan ini dan membentuk sedimen plume. Sedimen plume terbentuk pada batas kontur kedalaman 10 m.</p>
+<p style="text-align: justify;">
+	Gelombang di perairan P. Batugoyang merupakan gelombang angin (variasi sea dan swell), dimana angin sebagai pembangkit utama yang bervariasi secara musiman. Gelombang pecah di pantai P. Batugoyang yaitu &ldquo;<em>plunging</em>&rdquo;. Gelombang pecah tersebut sangat berperan terhadap pembentukan morfologi pantai di sisi timur, barat dan selatan pulau. Proses abrasi oleh gelombang dan arus menyebabkan pantai selatan - timur mengalami abrasi intensif. Perairan bagian utara pulau relatif tenang dari bagian lainnya. Kondisi ini dimanfaatkan oleh nelayan untuk berlindung, penambatan perahu dan kegiatan pemanfaatan sumberdaya perikanan.</p>
+<p style="text-align: justify;">
+	Suhu rata-rata di perairan sekitar P. Batugoyang pada bulan Desember berkisar antara 27,5, &ndash; 30,4 <sup>0</sup>C. Nilai rata-rata salinitas di lapisan permukaan perairan P. Batugoyang pada bulan yang sama sebesar 35 ppt. Kecerahan air memiliki tingkat kecerahan &lt; 4,5 meter.</p>
+<p style="text-align: justify;">
+	Konsentrasi padatan tersuspensi di perairan sekitar P. Batugoyang berkisar antara 0,007 - 0,013 mg/600 ml/det. Tinggi rendahnya variasi nilai padatan tersuspensi disebabkan ada perbedaan laju konsentrasi materi tersuspensi dan jarak lokasi dengan sumber asal sedimen di perairan sekitar P. Batugoyang. Sumber utama partikel tersuspensi di perairan ini berasal dari aktivitas penang kapan udang dengan menggunakan jaring <em>trowl.</em></p>
+<p style="text-align: justify;">
+	Kandungan oksigen terlarut di lapisan permukaan perairan P. Batugoyang, yang merupa kan salah satu pulau kecil perbatasan ini antara 6,6 &ndash; 6,9 ppm. Nilai pH rata-rata di perairan sekitar P. Batugoyang pada bulan Desember berkisar antara 8,02 - 8,41. Sedangkan nilai zat hara di perairan sekitar P. Batugoyang sangat bergantung pada input yang diperoleh dari lingkungan seki tarnya. Selain pasang surut, tampaknya faktor musim memberi kontribusi yang nyata terhadap be sarnya fluktuasi kandungan fosfat, nitrit dan nitrat. Kandungan fosfat rata-rata pada bulan Desember adalah 0,06 mg/ltr, nitrit (0,004 mg/ltr), sementara kadar nitrat adalah sebesar 1,05 mg/ltr.</p>
+<p style="text-align: justify;">
+	Kisaran nilai suhu, salinitas, kadar oksigen terlarut, pH, dan zat hara tersebut berada dalam batas normal dan layak untuk berbagai kepentingan pengembangan perikanan, terutama perikanan budidaya, terhadap komoditas tertentu (pilihan), wisata bahari, dan konservasi. Bahkan nilai-nilai kualitas perairan tersebut tergolong optimal bagi perikanan pelagis kecil maupun pelagis besar.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="sp">Sarana dan Prasarana</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<h2><a id="pi">Peluang Investasi</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<h2><a id="pap">Potensi dan Arahan Pengembangan</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<h2><a id="kp">Kendala Pengembangan</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<h2><a id="rf">Referensi</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<br />
+	<i> 
+		<p style="font-size:12px;">
+			Karena keterbatasan SDM dalam penginputan dan pengolahan data, kami mohon maaf atas ketidak lengkapan beberapa data pulau yang kami tampilkan, harap dimaklumi.
+			Berikan keritik dan saran pada kolom komentar agar kita dapat bersama menyajikan sebuah data yang cukup sempurna untuk halayak ramai yang berguna
+			demi kesejahterahan, kelestarian dan keindahan pulau-pulau kecil yang dimiliki Indonesia.<br />
+			*Jika sekiranya anda memiliki data yang cukup banyak, silakan mengirimkan file melalui email kami di <b><a>identifikasippk@gmail.com</a></b>
+			
+		</p>
+	</i>
+<br />
+
+<div id="fb_comn" class="fb-comments" data-href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_info/429" data-width="800" data-numposts="5" data-colorscheme="light"></div>
+
+
+</div>
+</div>
+</div>
+<div id="wrapper">
+
+<div class="footer"><p>
+<!--<marquee onmouseover="this.stop()" onmouseout="this.start()" scrollamount="5" direction="right" width="798" height="14"  behavior="scroll">-->
+<a href="http://www.ppk-kp3k.kkp.go.id/" target="_blank">Direktorat Pendayagunaan Pulau-Pulau Kecil &nbsp; | &nbsp;</a>
+<a href="http://www.kp3k.kkp.go.id/" target="_blank">Ditjen Kelautan, Pesisir dan Pulau-Pulau Kecil &nbsp; | &nbsp;</a>
+<a href="http://www.kkp.go.id/" target="_blank">Kementerian Kelautan dan Perikanan</a>
+<!--</marquee>--> <br />
+Jl. Medan Merdeka Timur No. 16 Gedung Mina Bahari 3 Lantai 10, Jakarta, Indonesia <br />
+Email : identifikasippk@gmail.com <br />
+Telp &amp; Fax: (021) 3522058 <br />
+&copy; Copyright Direktorat Pendayagunaan Pulau-Pulau Kecil 2012&nbsp; <br /></p>
+</div>
+</div>
+</body>
+</html>

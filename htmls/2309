@@ -1,0 +1,2434 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Pulau Ketapang</title>
+
+<meta charset="utf-8"/>
+
+<meta property="fb:app_id" content="559408774147878" />
+
+
+<meta property="og:title" content="Pulau Ketapang" />
+<meta property="og:url" content="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_info/2309" />
+
+
+    <script type="text/javascript" src="http://ajax.microsoft.com/ajax/jquery/jquery-1.4.4.min.js">
+    </script>
+    
+    <script type="text/javascript" src="http://plugins.learningjquery.com/expander/jquery.expander.js">
+    </script>
+    
+    <script type="text/javascript">
+        $(function () {
+            $('div.readmore').expander({
+                slicePoint:200,
+                expandText: '(Baca selengkapnya)',
+                userCollapseText: '(Sembunyikan selengkapnya)'
+            });
+        });
+    </script>
+        
+	<script src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/galleria/galleria-1.2.8.min.js"></script>
+
+        <SCRIPT TYPE="text/javascript">
+            <!--
+            //Disable right click script
+            //visit http://www.rainbow.arch.scriptmania.com/scripts/
+            var message="Sorry, right-click has been disabled";
+            ///////////////////////////////////
+            function clickIE() {if (document.all) {(message);return false;}}
+            function clickNS(e) {if
+            (document.layers||(document.getElementById&&!document.all)) {
+            if (e.which==2||e.which==3) {(message);return false;}}}
+            if (document.layers)
+            {document.captureEvents(Event.MOUSEDOWN);document.onmousedown=clickNS;}
+            else{document.onmouseup=clickNS;document.oncontextmenu=clickIE;}
+            document.oncontextmenu=new Function("return false")
+            // -->
+            </SCRIPT>
+            
+            <SCRIPT TYPE="text/javascript">
+            <!--
+            //Disable select-text script (IE4+, NS6+)
+            //visit http://www.rainbow.arch.scriptmania.com/scripts/
+            ///////////////////////////////////
+            function disableselect(e){
+            return false
+            }
+            function reEnable(){
+            return true
+            }
+            //if IE4+
+            document.onselectstart=new Function ("return false")
+            //if NS6
+            if (window.sidebar){
+            document.onmousedown=disableselect
+            document.onclick=reEnable
+            }
+            // -->
+            </SCRIPT>  
+              
+<link rel="stylesheet" type="text/css" href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/css/main.css" media="screen"/>
+<style type='text/css'>
+#info_wrap{
+	width:820px;
+	margin:0 auto;
+	text-shadow:0px 1px 1px #09F;
+}
+table{
+	color:#000000;
+}
+h1{
+	color:#000000;
+}
+.tengahin{
+	width: 105px;
+	height: 30px;
+	margin: 0 auto auto auto;
+}
+#box_view{
+	background-image:-webkit-gradient(linear, 0 0%, 0 100%, from(#FFFFFF), to(#E0F0F5));
+	background:#FFF;
+	color:#F60;
+	border: 1px solid #fff;
+	border-radius: 4px 4px 4px 4px;
+	box-shadow: 0 8px 6px -6px black;
+	position:fixed;
+	right:0;
+	top:150px;;
+	width:80px;
+	z-index:10;
+	padding-left:12px;
+	font-size:10px;
+	}
+#box_view li{
+	color:#F60;
+	margin-left:-30px;
+	}
+	#wrapper a b {
+	color: #FFF;
+	font-size:14px;
+}
+.batas{
+	float:left;
+	border-right-style:inset;
+	border-right-width:thin;
+	}
+.text_h_wrap{
+	
+	padding-left:450px;
+	padding-top:39px;
+	text-shadow:0px 1px 1px #09F;
+	}
+#wrapper .footer p{
+	font-size:12px;
+	color: #FFF;
+	text-align:center;
+	text-shadow:0px 1px 1px #09F;
+}
+td,th {
+	font-size: 12px;
+}
+
+marquee a{
+	color:#FFF
+	}
+#wrapper .footer a{
+	color: #FFFFFF;
+}
+</style>
+            
+<script>
+function goBack()
+  {
+  window.history.back()
+  }
+</script>
+<script type="text/javascript">
+function Popup( url, height, width )
+{
+    var windowProperties = "toolbar = 0, scrollbars = 1, location = 0, statusbar = 0, menubar = 0, resizable = 1, width = " + width + ", height = " + height + ", left = 50, top = 50";
+ 
+    return window.open( url, "", windowProperties );
+}
+</script>
+
+
+
+</head>
+<body oncontextmenu='return false;' onkeydown='return false;' onmousedown='return false;'>
+
+<a id="top_view"></a>
+<div id="wrapper">
+<div class="header_wrap">
+<div class="text_h_wrap">
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/home_page'><b>&nbsp;Home&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/menu_info/1'><b>&nbsp;About Us&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_data'><b>&nbsp;Direktori Pulau&nbsp;&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/program_ip'><b>&nbsp;IKU&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/data_ppkt'><b>&nbsp;PPKT&nbsp;</b></a>
+</div>
+<!--<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/maintenance'><b>&nbsp;Login&nbsp;</b></a>-->
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/dir_log_cont'><b>&nbsp;Login&nbsp;</b></a>
+
+</div>
+</div>
+</div>
+
+<div id="fb-root"></div>
+<script>
+  window.fbAsyncInit = function() {
+    // init the FB JS SDK
+    FB.init({
+      appId      : '559408774147878',                        // App ID from the app dashboard
+      status     : true,                                 // Check Facebook Login status
+      xfbml      : true                                  // Look for social plugins on the page
+    });
+
+    // Additional initialization code such as adding Event Listeners goes here
+  };
+
+  // Load the SDK asynchronously
+  (function(){
+     // If we've already installed the SDK, we're done
+     if (document.getElementById('facebook-jssdk')) {return;}
+
+     // Get the first script element, which we'll use to find the parent node
+     var firstScriptElement = document.getElementsByTagName('script')[0];
+
+     // Create a new script element and set its id
+     var facebookJS = document.createElement('script'); 
+     facebookJS.id = 'facebook-jssdk';
+
+     // Set the new script's source to the source of the Facebook JS SDK
+     facebookJS.src = '//connect.facebook.net/en_US/all.js';
+
+     // Insert the Facebook JS SDK into the DOM
+     firstScriptElement.parentNode.insertBefore(facebookJS, firstScriptElement);
+   }());
+</script>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=559408774147878";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="box_view">
+    <a href="#top_view">MENU</a>
+    <h3><p>Lihat Informasi:</p></h3>
+    <ul>
+	<a href="#sf"><li>Slide Foto</li></a>
+    <a href="#gu"><li>Gambaran Umum</li></a>
+    <a href="#ksbk"><li>Kependudukan, Sosial Budaya dan Kelembagaan</li></a>
+    <a href="#eshp"><li>Ekosistem dan Sumberdaya Hayati</li></a>
+    <a href="#snh"><li>Sumberdaya Non Hayati</li></a>
+    <a href="#aps"><li>Aktivitas Pengelolaan Sumberdaya</li></a>
+    <a href="#ling"><li>Lingkungan</li></a>
+    <a href="#sp"><li>Sarana dan Prasarana</li></a>
+    <a href="#pi"><li>Peluang Investasi</li></a>
+    <a href="#pap"><li>Potensi Arahan Pengembangan</li></a>
+    <a href="#kp"><li>Kendala Pengembangan</li></a>
+	<a href="#rf"><li>Referensi</li></a>
+    </ul>
+    <a href="#fb_comn">KOMENTAR</a>
+</div>
+
+<br>
+			<a id="sf"></a></h2>
+			<div id="galleria">
+            <!--<div class='tengahin'><input type="button" value="Kembali Ke List" onclick="goBack()"></div>-->
+                            </div>
+            
+            <script>
+            Galleria.loadTheme('http://www.ppk-kp3k.kkp.go.id/direktori-pulau/galleria/themes/classic/galleria.classic.min.js');
+            Galleria.run('#galleria');
+            </script>
+</div>
+
+<div id="text_warp">
+
+
+<p><h1>Ketapang</h1></p>
+<table>
+<tr>
+	<td>Nama Lain</td> <td>:</td> <td></td>
+</tr>
+<tr>
+	<td>Propinsi</td> <td>:</td> <td>KEPULAUAN BANGKA BELITUNG</td>
+</tr>
+<tr>
+	<td>Kabupaten</td> <td>:</td> <td>KABUPATEN BELITUNG TIMUR</td>
+</tr>
+<tr>
+	<td>Kecamatan</td> <td>:</td> <td></td>
+</tr>
+<tr>
+	<td>Koordinat</td> <td>:</td> <td><a href="http://www.ppk-kp3k.kkp.go.id/giskkp/index.html?extent="target="_blank">3° 24' 47.000</a></td>
+</tr>
+</table>
+<hr>
+
+<h2><a id="gu">Gambaran Umum</a></h2>
+<p><div class="readmore"><p style="text-align: justify;">
+	Pulau Ketapang, secara geografis terletak pada 3<sup>o</sup>24<sup>&rsquo;</sup>57,59&rdquo; LS, 107<sup>o</sup>57&rsquo;28,79&rdquo; BT, dan 3<sup>o</sup>24&rsquo;36,94&rdquo;LS, 107<sup>o</sup>57<sup>&rsquo;</sup>43,2&rdquo; BT, serta berbatasan dengan Pulau Belitung di sebelah Utara, Laut Jawa di sebelah Timur, Pulau Batu di sebelah Selatan, dan Pulau Dua di sebelah Barat. Secara administrasi, Pulau Ketapang termasuk dalam Desa Tanjung Klumpang, Kecamatan Simpang Pesak, Kabupaten Belitung Timur. berbatasan dengan Laut Jawa. Kecamatan Simpang Pesak merupakan wilayah kepulauan yang terdiri dari 21 buah pulau besar dan kecil. Pulau yang terletak di luar daratan utama ini dan berada berbatasan langsung dengan Laut Jawa, memiliki luas pulau Ketapang mencapai kurang lebih 6 ha.</p>
+<p style="text-align: justify;">
+	Aksesibilitas atau transportasi ke Pulau Ketapang, dapat ditempuh melalui Desa Tanjung Klumpang yang berada di daratan utama Belitung Timur. Transportasi ke Pulau Ketapang masih sangat jarang dan sulit, bahkan secara reguler tidak ada angkutan yang beroperasi dari dan menuju Pulau Ketapang. Sebagai sarana transportasi, sarana yang digunakan adalah kapal nelayan berukuran 3-4 GT. Waktu tempuh ke Pulau Ketapang dari Desa Tanjung Klumpang mencapai 1,5 jam dengan cuaca teduh atau baik, dan dapat lebih jika cuaca sedang buruk.</p>
+<p style="text-align: justify;">
+	Status kawasan dan pulau adalah kepemilikan pribadi. Pulau Ketapang di miliki oleh Alm. Bapak Saminan, yang merupakan warga dari kabupaten Belitung Timur..</p>
+<h3 style="text-align: justify;">
+	<u>Klimatologi</u></h3>
+<p style="text-align: justify;">
+	Secara umum, kondisi klimatologi Pulau Ketapang beriklim tropis, dan sama dengan kondisi di Kecamatan Simpang Pesak pada umumnya yaitu dengan tekanan udara rata-rata antara 1.008,3-1.011,1 mb, dan variasi curah hujan antara 59,0-703,0 mm tiap bulan pada tahun 2013, dengan curah hujan tertinggi pada bulan Desember dan terendah pada bulan September. Suhu rata-rata berdasarkan data dari Stasiun Meteorologi Tanjungpandan menunjukkan variasi antara 24,90-27,00 &deg;C, sementara kecepatan angin rata-rata pada tahun 2013 bervariasi antara 3-6 knot (Kecamatan Simpang Pesak Dalam Angka 2014).</p>
+<p style="text-align: justify;">
+	<u><strong>Oseanografi</strong></u></p>
+<p style="text-align: justify;">
+	Kondisi hidro oseanografi di perairan Pulau Ketapang dideskripsikan dengan kondisi batimetri, kondisi pasang surut, dan arus perairan. Perairan Belitung Timur secara geografis dipengaruhi oleh perairan laut sekitarnya, yaitu bagian utara dipengaruhi Laut China Selatan, bagian selatan Laut Jawa, dan bagian timur Selat Karimata, sedangkan Pulau Ketapang sendiri berada atau berbatasan langsung dengan laut jawa, sehingga dominan dipengaruhi oleh perairan laut jawa.</p>
+<p style="margin-left: 22.5pt; text-align: justify;">
+	a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Bathimetri</p>
+<p style="text-align: justify;">
+	Kondisi batimetri perairan Belitung Timur merupakan perairan yang relatif landai dari pantai dengan kedalaman perairan rata-rata mencapai 25 m pada lepas pantai (Radisho 2009). Berdasarkan analisis citra satelit diperoleh kedalaman di sekitar pesisir Pulau Ketapang berkisar 3-15 m (Gambar 5). Berdasarkan kedalaman tersebut, maka Pulau Ketapang memiliki substrat dasar yang didominansi oleh ekosistem terumbu karang.</p>
+<p style="margin-left: 22.5pt; text-align: justify;">
+	b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Pasang Surut</p>
+<p style="text-align: justify;">
+	Kondisi pasang surut di lokasi penelitian dipengaruhi oleh perjalanan pasang surut di Selat Karimata dan Laut Jawa, kondisi morfologi pantai, dan kondisi batimetri perairan. Pasang surut di Selat Karimata dan Laut Jawa bertipe diurnal (tunggal). Berdasarkan tipe pasang surut tersebut, maka di Pulau Ketapang dicirikan dengan sekali pasang dan sekali surut dalam sehari (Radisho 2009).</p>
+<p style="margin-left: 18pt; text-align: justify;">
+	c.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Pola Arus</p>
+<p style="text-align: justify;">
+	Arus di Pulau Ketapang dipengaruhi oleh kondisi pasang surut, morfologi perairan, arah dan kecepatan angin (Nontji 2002 <em>dalam</em> Radisho 2009). Pada saat penelitian angin bertiup dari timur ke barat. Pergerakan arus dari Laut Jawa ke perairan ini didominasi arah arus ke barat namun pertemuan arus dari Laut Cina Selatan yang bergerak dari utara ke selatan menyebabkan arah arus di perairan ini bergerak ke arah barat daya di lapisan permukaan (Radisho 2009).</p>
+<p style="text-align: justify;">
+	<u><strong>Hidrologi</strong></u></p>
+<p style="text-align: justify;">
+	Sumber air masyarakat di Pulau Ketapang umumnya berasal dari tanah (sumur), karena di pulau tersebut tidak terdapat sungai, waduk, DAS. Di pulau ini setiap rumah memiliki sumur sendiri, tetapi terdapat juga sumur yang sifatnya umum yang berjumlah tujuh sumur. Sumur-sumur tersebut memiliki kualitas air yang baik, bersih dan tawar, bahkan dapat digunakan sebagai air minum oleh masyaratakat, tetapi jika musim kemarau panjang, banyak sumur yang memiliki salinitas payau, sehingga hanya dapat digunakan untuk mencuci dan mandi saja. Selain itu, masyarakat setempat juga masih memanfaatkan air tadah hujan untuk kebutuhan sehari-hari.</p>
+<p style="text-align: justify;">
+	<u><strong>Keadaan Fisik Pulau</strong></u></p>
+<p style="text-align: justify;">
+	<strong>a. </strong><strong>Topografi</strong></p>
+<p style="text-align: justify;">
+	Topografi merupakan bentuk permukaan bumi dan objek lainnya di antaranya vegetasi dan juga pengaruh kegiatan manusia terhadap lingkungannya. Berdasarkan hasil pengamatan di lapangan, diketahui topografi di Pulau Ketapang umumnya berupa dataran, tidak terdapat bukit-bukit terjal dan gunung-gunung, terdapat vegetasi mangrove, dan juga pantai dengan pasir putih.</p>
+<p style="text-align: justify;">
+	&nbsp;</p>
+<p style="text-align: justify;">
+	<strong>b. </strong><strong>Kemiringan Lahan</strong></p>
+<p style="text-align: justify;">
+	Kemiringan lereng berhubungan langsung dengan topografi. Topografi di pulau-pulau kecil yang termasuk pulau dataran seperti contoh di Kepulauan Seribu dan juga Pulau Ketapang, umumnya landai dengan kemiringan 0-5%, dengan ketinggian rata-rata 0-2 mdpl (Statistik TNKpS 2012).</p>
+<p style="text-align: justify;">
+	&nbsp;</p>
+<p style="text-align: justify;">
+	<strong>c. </strong><strong>Asal-usul/Genesis Pulau</strong></p>
+<p style="text-align: justify;">
+	Pulau Ketapang termasuk dalam klasifikasi pulau dataran. Secara topografi, pulau daratan terdiri dari tiga kelompok: pulau aluvium, pulau karang/koral dan pulau atol. Dan berdasarkan hasil pengamatan atau survei lapang, Pulau Ketapang termasuk dalam pulau karang/koral, yakni terbentuk dari endapan klastik berumur kuarter, umumnya dikelilingi oleh terumbu karang. Sumberdaya air di pulau koral hanya tersedia sebagai air tanah di lensa-lensa yang terbatas ukurannya dan rawan penyusupan air laut (Bengen 2003).</p>
+<p style="text-align: justify;">
+	<strong>d. </strong><strong>Geologi</strong></p>
+<p style="text-align: justify;">
+	Sebagai pulau koral dan dataran, Pulau Ketapang memiliki karakteristik geologi yang sama dengan pulau-pulau koral pada umumnya. Jenis batuan geologis pulau dataran umumnya berumur muda berupa endapan klastik jenis fluviatil dengan dasar yang terdiri dari lapisan endapan masif atau pecahan karang/koral (Bengen 2003).</p>
+<p style="text-align: justify;">
+	<strong>e. </strong><strong>Morfologi Pantai</strong></p>
+<p style="text-align: justify;">
+	Jenis-jenis morfologi pantai umumnya terdiri dari: 1) pantai berbatu, merupakan jenis pantai bebatuan atau akumulasi sedimen seperti lempung. Umumnya terdapat banyak batu karang, dan pantai berbentuk curam; 2) pantai berpasir, adalah pantai yang umum dijumpai dengan kemiringan pantai yang landai dan tersusun dari material seperti pasir, kerikil, batu gaplok dan sejenisnya; 3) Delta, adalah jenis pantai yang terbentuk karena bermuaranya sungai ke laut; 4) Estuari adalah daerah pantai dimana air tawar masih bercampur dengan air laut membentuk wilayah yang luas. Berdasarkan jenis tersebut Pulau Ketapang termasuk jenis pantai berpasir, yang terdiri dari pasir putih dan juga kerikil</p>
+</div></p>
+
+<hr>
+
+<h2><a id="ksbk">Kependudukan, Sosial Budaya dan Kelembagaan</a></h2>
+<p><div class="readmore"><p style="text-align: justify;">
+	Jumlah penduduk di Pulau Ketapang sebanyak 156 jiwa yang terkelompok menjadi 44 KK, dengan persentase berdasarkan jenis kelamin yaitu 53% laki-laki (82 jiwa) dan 47% perempuan (74 jiwa) (Gambar 12). Berdasarkan mata pentaharian, 100% berpencaharian sebagai nelayan dan nelayan campuran. Nelayan campuran ini di antaranya juga bermata pencaharian sebagai petani kebun dan pedagang.</p>
+<p style="text-align: justify;">
+	Untuk perkebunan, hampir semua penduduk memiliki tanaman di kebun yang ada, sedangkan untuk sektor perdagangan hanya terdapat satu toko saja, dan beberapa berdagang ikan olahan ikan kering. Adanya mata pencaharian campuran ini erat kaitannya dengan musim, di mana para nelayan hanya bisa melaut saat musim air tenang dan ikan saja, sehingga di luar musim tersebut maka penduduk melakukan kegiatan ekonomi lainnya.</p>
+<p style="text-align: justify;">
+	Berdasarkan umur, komposisi penduduk di Pulau Ketapang lebih banyak pada usia antara 11-20 tahun (26,53%), 21-30 tahun (18,37%), dan 31-40 tahun (14,29%) (Gambar 13). Artinya, kependudukan ini menjadi sangat baik karena memiliki penduduk yang didominansi oleh usia-usia produktif, sehingga merupakan peluang untuk adanya pengembangan sosial ekonomi di Pulau Ketapang. Dari semua penduduk tersebut semuanya beragama Islam, hal ini erat kaitannya dengan kultur masyarakat yang ada, yaitu Suku Bugis.</p>
+<p style="text-align: justify;">
+	a. Sosial-Budaya</p>
+<p style="text-align: justify;">
+	Penduduk yang tinggal di Pulau Ketapang mayoritas bersuku Bugis. Keberadaan Suku Bugis di masyarakat saat ini bukan merupakan pendatang asli, maksudnya mereka sudah merupakan keturunan pertama dari orang tua mereka yang datang dari Bugis untuk menangkap ikan dan akhirnya tinggal di pulau ini. Selain suku Bugis, terdapat juga suku Madura dan Betawi, yang kebetulan menikah dengan penduduk pulau.</p>
+<p style="text-align: justify;">
+	Berdasarkan kesukuan yang ada, maka kebudayaan masyarakat di Pulau Ketapang banyak dipengaruhi oleh kebudayaan Bugis. Hal ini terlihat dari bentuk rumah dan kegiatan religi yang diyakini. Artinya, kebudayaan Belitung hampir tidak terlihat, selain itu tidak ada kegiatan-kegiatan kebudayaan yang khusus dan besar, seperti peringatan-peringatan kebudayaan dan keagamaan yang rutin dilaksanakan setiap waktunya.</p>
+<p style="text-align: justify;">
+	&nbsp;</p>
+<p style="text-align: justify;">
+	b. Ekonomi</p>
+<p style="text-align: justify;">
+	Ekonomi masyarakat di Pulau Ketapang banyak dipengaruhi oleh kegiatan perikanan tangkap, sehingga bentuk ekonomi yang terjadi hanya berkisar di perikanan. Hasil tangkapan nelayan yang paling dominan adalah ikan tenggiri, selar, dan bawal, selain itu untuk musim-musim tertentu masyarakat juga menangkap cumu-cumi. Hasil tangkapan tersebut sebagian digunakan sendiri dan sebagian besar dijual ke Desa Tanjung Klumpang. Alat tangkap yang umum digunakan masyarakat adalah manyang, pancing, dan jaring. Selain itu, masyarakat pulau juga berkebun dengan komoditas sayur-mayur dan pisang. Untuk sayur mayur, umumnya dikonsumsi sendiri, dan komoditas pisang dan kelapa sebagian besar dijual ke desa.</p>
+<p style="text-align: justify;">
+	&nbsp;</p>
+<p style="text-align: justify;">
+	c. Kelembagaan</p>
+<p style="text-align: justify;">
+	Secara khusus, tidak ada kelembagaan yang dibentuk dan dikelola masyarakat. Kelembagaan yang ada hanya dalam bentuk organisasi, yaitu RT (dua RT), kelompok masyarakat pengawas (Pokmaswas) dan mesjid. Di Pulau Ketapang tidak ada kelembagaan adat maupun aturan-aturan khusus yang dibuat, melainkan semuanya mengikuti kelembagaan dari pemerintah daerah.</p>
+<p>
+	&nbsp;</p>
+</div></p>
+
+<hr>
+
+<h2><a id="eshp">Ekosistem dan Sumberdaya Hayati</a></h2>
+<p><div class="readmore"><h2 style="text-align: justify;">
+	a. Terumbu Karang</h2>
+<h2 style="text-align: justify;">
+	Keanekaragaman Hayati Terumbu Karang</h2>
+<p style="text-align: justify;">
+	&nbsp;</p>
+<p style="text-align: justify;">
+	Secara umum, keberadaan terumbu karang di Pulau Ketapang kondisi yang bagus. Terumbu karang di Pulau Ketapang tidak seluruhnya terekspos matahari saat air laut surut. Dari bibir pantai menuju ekosistem terumbu karang berjarak &plusmn; 15 m. Terumbu karang yang terekspos matahari sudah banyak ditumbuhi alga dan sedimentasi. Sepanjang 15 m dengan kedalaman 1 m terumbu karangnya sedikit yang bertahan hidup, mayoritas terumbu karang tersebut ditumbuhi <em>padina</em> dan sedimen (Gambar 15). Terumbu karang yang bagus di Pulau Ketapang terdapat pada kedalaman 3-5 m dengan bentuk dasar datar (<em>flat</em>). Kecerahan perairan cukup bagus sekitar 1-1,5 m. Di bagian utara dan barat terlindung dari gelombang, sedangkan timur dan selatan pada saat pengamatan terjadi gelombang yang kuat. Pengamatan kondisi substrat dan terumbu karang dilakukan pada utara, barat, tenggara, dan timur laut Pulau Ketapang .</p>
+<p style="text-align: justify;">
+	Tabel 1Koordinat lokasi pengamatan kondisi terumbu karang di Pulau Ketapang</p>
+<p style="text-align: justify;">
+	&nbsp;</p>
+<table align="center" border="0" cellpadding="0" cellspacing="0" style="width:99.98%;" width="99%">
+	<tbody>
+		<tr>
+			<td style="width:6.42%;">
+				<p style="text-align: justify;">
+					No</p>
+			</td>
+			<td style="width:23.88%;">
+				<p style="text-align: justify;">
+					Stasiun</p>
+			</td>
+			<td style="width:32.2%;">
+				<p style="text-align: justify;">
+					Koordinat</p>
+			</td>
+			<td style="width:37.5%;">
+				<p style="text-align: justify;">
+					Lokasi</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:6.42%;">
+				<p style="text-align: justify;">
+					1.</p>
+			</td>
+			<td style="width:23.88%;">
+				<p style="text-align: justify;">
+					Stasiun 1</p>
+			</td>
+			<td style="width:32.2%;">
+				<p style="text-align: justify;">
+					S 03&deg;24&rsquo;37,61&rdquo;</p>
+				<p style="text-align: justify;">
+					E 107&deg;57&rsquo;28,30&rdquo;</p>
+			</td>
+			<td style="width:37.5%;">
+				<p style="text-align: justify;">
+					Utara Pulau Ketapang</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:6.42%;">
+				<p style="text-align: justify;">
+					2.</p>
+			</td>
+			<td style="width:23.88%;">
+				<p style="text-align: justify;">
+					Stasiun 2</p>
+			</td>
+			<td style="width:32.2%;">
+				<p style="text-align: justify;">
+					S 03&deg;24&rsquo;48,14&rdquo;</p>
+				<p style="text-align: justify;">
+					E 107&deg;57&rsquo;29,12&rdquo;</p>
+			</td>
+			<td style="width:37.5%;">
+				<p style="text-align: justify;">
+					Barat Pulau Ketapang</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:6.42%;">
+				<p style="text-align: justify;">
+					3.</p>
+			</td>
+			<td style="width:23.88%;">
+				<p style="text-align: justify;">
+					Stasiun 3</p>
+			</td>
+			<td style="width:32.2%;">
+				<p style="text-align: justify;">
+					S 03&deg;24&rsquo;40,5&rdquo;</p>
+				<p style="text-align: justify;">
+					E 107&deg;57&rsquo;47,5&rdquo;</p>
+			</td>
+			<td style="width:37.5%;">
+				<p style="text-align: justify;">
+					Tenggara Pulau Ketapang</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:6.42%;">
+				<p style="text-align: justify;">
+					4.</p>
+			</td>
+			<td style="width:23.88%;">
+				<p style="text-align: justify;">
+					Stasiun 4</p>
+			</td>
+			<td style="width:32.2%;">
+				<p style="text-align: justify;">
+					S 03&deg;24&rsquo;38,5&rdquo;</p>
+				<p style="text-align: justify;">
+					E 107&deg;57&rsquo;39,8&rdquo;</p>
+			</td>
+			<td style="width:37.5%;">
+				<p style="text-align: justify;">
+					Timur Laut Pulau Ketapang</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<div style="clear: both; text-align: justify;">
+	&nbsp;</div>
+<p style="text-align: justify;">
+	Sumber: Survei Lapang (2014)</p>
+<p style="text-align: justify;">
+	Nilai persentase penutupan substrat karang keras hidup (KKH) cukup tinggi sebesar 70,30% dan termasuk dalam kriteria baik. Jenis bentuk pertumbuhan karang yang dominan adalah karang meja (<em>Acropora </em><em>T</em><em>abulat</em><em>e</em>/ACT) dan karang masif (<em>Coral Massive</em>/CM), sedangkan jenis karang dominan yang ditemukan adalah <em>Acropora</em> dan <em>Favites</em>. Kategori penutupan karang mati dan biotik cukup tinggi tidak ditemukan pada lokasi ini. Penutupan substrat abiotik di dominasi oleh patahan karang (<em>Rubble</em>/R) 7,78%, batu (<em>Rock</em>/RCK) 18,38% , dan pasir (<em>Sand</em>/S) 3,54% (Gambar 19).</p>
+<p style="margin-left: 18pt; text-align: justify;">
+	<strong>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </strong><strong>Bagian Barat Pulau Ketapang</strong></p>
+<p style="text-align: justify;">
+	Keberadaan terumbu karang pada bagian barat Pulau Ketapang ditemukan pada kedalaman 5 m, dengan jarak pandang 1-2 m dan material terlarut sangat sedikit. Kondisi arus dan gelombang bawah yang tenang membantu dalam pengamatan hal ini dikarenakan mulai memasuki waktu surut. Secara umum di bagian barat tidak jauh berbeda dengan bagian utara, yaitu banyak ditemukan karang dengan meja dan masif. Sebaran terumbu karang menyebar dengan rata dan tidak cukup banyak ditemukan sedimentasi.</p>
+<p style="text-align: justify;">
+	Kondisi penutupan kategori Karang Keras Hidup, karang mati, dan biotik. Kondisi ini sangat berbeda dengan lakosi sebelumnya pada bagian utara Pulau Ketapang. Penutupan karang keras hidup sangat tinggi mencapai 87,14% yang sangat mungkin perairan ini dalam kondisi baik tidak dipengaruhi oleh aktifitas manusia. Pada kategori Karang mati penutupan sebesar 5,24% dan termasuk dalam kriteria rendah. Bentuk pertumbuhan karang terlihat cukup dominan oleh karang kerak (<em>Coral Encrusting</em>/CE) dan karang meja (<em>Acropora Tabulate</em>/ACT). Jenis karang yang banyak ditemukan adalah <em>Goniopora</em> dan <em>Montipora</em>. Kategori biotik memperlihatkan nilai penutupan yang rendah sebesar 0,50% dengan komposisi dominan oleh karang lunak (<em>Soft Coral</em>/SC), sedangkan untuk penutupan kategori abiotik sebesar 7,12% dengan komposisi dominan patahan karang (<em>Ruble</em>/R) (Gambar 21).</p>
+<p style="margin-left: 18pt; text-align: justify;">
+	<strong>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </strong><strong>Bagian Tenggara Pulau Ketapang</strong></p>
+<p style="text-align: justify;">
+	Perairan bagian tenggara memiliki arus dan ombak yang cukup kuat. Arah arus datang tepat dari timur pulau pada saat pengamatan. Umumnya karang ditemukan hanya pada kedalaman 1 m dan kondisi pengamatan sedang surut. Pada lokasi pengamatan dilakukan menggunakan <em>scuba diving</em> pada kedalaman sekitar 3-5 m. Sangat sulit membentangkan roll meter untuk pengamatan dengan metode <em>Line Intercept Transect</em> (LIT) dengan hempasan ombak yang cukup kuat di kedalaman yang sangat dangkal. Pertumbuhan karang pada lokasi ini berupa karang kerak dan banyak ditemukan karang mati.</p>
+<p style="text-align: justify;">
+	&nbsp;</p>
+<p style="text-align: justify;">
+	Kondisi penutupan kategori Karang Keras Hidup, karang mati, dan biotik. Kondisi ini sangat berbeda dengan lokasi sebelumnya pada bagian utara Pulau Ketapang. Penutupan karang keras hidup sedang mencapai 39,60% yang sangat mungkin perairan ini dalam kondisi cukup baik karena dipengaruhi oleh gelombang yang sangat kuat. Pada kategori karang mati penutupan sebesar 32,24% dan termasuk dalam kriteria sedang. Bentuk pertumbuhan karang terlihat cukup dominan oleh karang kerak (<em>Coral Encrusting</em>/CE) dan pasir (<em>Sand</em>/S). Jenis karang yang banyak ditemukan adalah <em>Acropora</em> dan <em>Montipora</em>. Kategori biotik memperlihatkan nilai penutupan yang rendah sebesar 1,30% dengan komposisi dominan oleh karang lunak (<em>Soft Coral</em>/SC). Sedangkan penutupan kategori abiotik sebesar 26,86% dengan komposisi dominan patahan karang 17,28% (<em>Ruble</em>/R) (Gambar 23).</p>
+<p style="margin-left: 18pt; text-align: justify;">
+	<strong>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </strong><strong>Bagian Timur Laut Pulau Ketapang</strong></p>
+<p style="text-align: justify;">
+	Keberadaan terumbu karang pada bagian timur laut Pulau Ketapang ditemukan pada kedalaman 3-5 m, dengan jarak pandang 1-2 m dan material terlarut sangat sedikit. Kondisi arus dan gelombang bawah yang kuat sangat berpengaruh dalam pengamatan hal ini dikarenakan mulai memasuki waktu pasang. Secara umum di bagian timur laut tidak jauh berbeda dengan bagian utara, yaitu banyak ditemukan karang dengan meja dan masif. Sebaran terumbu karang menyebar dengan rata dan tidak cukup banyak ditemukan sedimentasi.</p>
+<p style="margin-left: 18pt; text-align: justify;">
+	<strong>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </strong><strong>Bagian Timur Laut Pulau Ketapang</strong></p>
+<p style="text-align: justify;">
+	Keberadaan terumbu karang pada bagian timur laut Pulau Ketapang ditemukan pada kedalaman 3-5 m, dengan jarak pandang 1-2 m dan material terlarut sangat sedikit. Kondisi arus dan gelombang bawah yang kuat sangat berpengaruh dalam pengamatan hal ini dikarenakan mulai memasuki waktu pasang. Secara umum di bagian timur laut tidak jauh berbeda dengan bagian utara, yaitu banyak ditemukan karang dengan meja dan masif. Sebaran terumbu karang menyebar dengan rata dan tidak cukup banyak ditemukan sedimentasi.</p>
+<p style="text-align: justify;">
+	Nilai persentase penutupan substrat karang keras hidup (KKH) cukup tinggi sebesar 68,34% dan termasuk dalam kriteria baik. Jenis bentuk pertumbuhan karang yang dominan adalah karang kerak (<em>Coral Encrusting</em>/CE) dan karang masif (<em>Coral Massive</em>/CM), sedangkan jenis karang dominan yang ditemukan adalah <em>Acropora</em> dan <em>Montipora</em>. Kategori penutupan karang mati 7,88% dan termasuk kategori rendah. Kategori biotik tidak ditemukan pada lokasi ini. Penutupan substrat abiotik di dominasi oleh pasir (<em>Sand</em>/S) 16,92%, dan patahan karang (<em>Rubble</em>/R) 6,68%, (Gambar 25).</p>
+<h3 style="text-align: justify;">
+	Distribusi Terumbu Karang Pulau Ketapang</h3>
+<p style="text-align: justify;">
+	Distribusi terumbu karang menyebar merata dengan bentuk pertumbuhan karang didominasi oleh karang meja, kerak, dan masif. Berdasarkan hasil pengamatan lapang, terumbu karang di Pulau Ketapang masih dalam keadaan baik. Karang keras hidup di setiap lokasi pengamatan dapat dilihat pada Tabel 2.</p>
+<p style="text-align: justify;">
+	&nbsp;</p>
+<p style="text-align: justify;">
+	Tabel 2Karang keras hidup yang ditemukan pada setiap lokasi pengamatan</p>
+<p style="text-align: justify;">
+	&nbsp;</p>
+<table border="0" cellpadding="0" cellspacing="0" style="width:100.0%;" width="100%">
+	<thead>
+		<tr>
+			<th nowrap="nowrap" style="width:22.46%;height:20px;">
+				<p style="text-align: justify;">
+					Famili</p>
+			</th>
+			<th nowrap="nowrap" style="width:15.98%;height:20px;">
+				<p style="text-align: justify;">
+					Genus</p>
+			</th>
+			<th nowrap="nowrap" style="width:14.26%;height:20px;">
+				<p style="text-align: justify;">
+					Utara</p>
+			</th>
+			<th style="width:14.56%;height:20px;">
+				<p style="text-align: justify;">
+					Barat</p>
+			</th>
+			<th style="width:16.38%;height:20px;">
+				<p style="text-align: justify;">
+					Tenggara</p>
+			</th>
+			<th nowrap="nowrap" style="width:16.36%;height:20px;">
+				<p style="text-align: justify;">
+					Timur Laut</p>
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td nowrap="nowrap" style="width:22.46%;height:20px;">
+				<p style="text-align: justify;">
+					Acroporidae</p>
+			</td>
+			<td nowrap="nowrap" style="width:15.98%;height:20px;">
+				<p style="text-align: justify;">
+					<em>Acropora</em></p>
+			</td>
+			<td nowrap="nowrap" style="width:14.26%;height:20px;">
+				<p style="text-align: justify;">
+					+</p>
+			</td>
+			<td style="width:14.56%;height:20px;">
+				<p style="text-align: justify;">
+					+</p>
+			</td>
+			<td style="width:16.38%;height:20px;">
+				<p style="text-align: justify;">
+					+</p>
+			</td>
+			<td nowrap="nowrap" style="width:16.36%;height:20px;">
+				<p style="text-align: justify;">
+					+</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="width:22.46%;height:20px;">
+				<p style="text-align: justify;">
+					&nbsp;</p>
+			</td>
+			<td nowrap="nowrap" style="width:15.98%;height:20px;">
+				<p style="text-align: justify;">
+					<em>Montipora</em></p>
+			</td>
+			<td nowrap="nowrap" style="width:14.26%;height:20px;">
+				<p style="text-align: justify;">
+					+</p>
+			</td>
+			<td style="width:14.56%;height:20px;">
+				<p style="text-align: justify;">
+					&nbsp;+</p>
+			</td>
+			<td style="width:16.38%;height:20px;">
+				<p style="text-align: justify;">
+					&nbsp;+</p>
+			</td>
+			<td nowrap="nowrap" style="width:16.36%;height:20px;">
+				<p style="text-align: justify;">
+					&nbsp;+</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" rowspan="2" style="width:22.46%;height:20px;">
+				<p style="text-align: justify;">
+					Agariciidae</p>
+			</td>
+			<td nowrap="nowrap" style="width:15.98%;height:20px;">
+				<p style="text-align: justify;">
+					<em>Pachyseris</em></p>
+			</td>
+			<td nowrap="nowrap" style="width:14.26%;height:20px;">
+				<p style="text-align: justify;">
+					-</p>
+			</td>
+			<td style="width:14.56%;height:20px;">
+				<p style="text-align: justify;">
+					-&nbsp;</p>
+			</td>
+			<td style="width:16.38%;height:20px;">
+				<p style="text-align: justify;">
+					&nbsp;-</p>
+			</td>
+			<td nowrap="nowrap" style="width:16.36%;height:20px;">
+				<p style="text-align: justify;">
+					&nbsp;-</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="width:15.98%;height:20px;">
+				<p style="text-align: justify;">
+					<em>Pavona</em></p>
+			</td>
+			<td nowrap="nowrap" style="width:14.26%;height:20px;">
+				<p style="text-align: justify;">
+					+</p>
+			</td>
+			<td style="width:14.56%;height:20px;">
+				<p style="text-align: justify;">
+					-</p>
+			</td>
+			<td style="width:16.38%;height:20px;">
+				<p style="text-align: justify;">
+					+</p>
+			</td>
+			<td nowrap="nowrap" style="width:16.36%;height:20px;">
+				<p style="text-align: justify;">
+					+</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="width:22.46%;height:20px;">
+				<p style="text-align: justify;">
+					Dendrophylliidae</p>
+			</td>
+			<td nowrap="nowrap" style="width:15.98%;height:20px;">
+				<p style="text-align: justify;">
+					<em>Turbinaria</em></p>
+			</td>
+			<td nowrap="nowrap" style="width:14.26%;height:20px;">
+				<p style="text-align: justify;">
+					+</p>
+			</td>
+			<td style="width:14.56%;height:20px;">
+				<p style="text-align: justify;">
+					&nbsp;-</p>
+			</td>
+			<td style="width:16.38%;height:20px;">
+				<p style="text-align: justify;">
+					&nbsp;-</p>
+			</td>
+			<td nowrap="nowrap" style="width:16.36%;height:20px;">
+				<p style="text-align: justify;">
+					&nbsp;+</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="width:22.46%;height:20px;">
+				<p style="text-align: justify;">
+					Fungidae</p>
+			</td>
+			<td nowrap="nowrap" style="width:15.98%;height:20px;">
+				<p style="text-align: justify;">
+					<em>Ctenactis</em></p>
+			</td>
+			<td nowrap="nowrap" style="width:14.26%;height:20px;">
+				<p style="text-align: justify;">
+					-</p>
+			</td>
+			<td style="width:14.56%;height:20px;">
+				<p style="text-align: justify;">
+					&nbsp;-</p>
+			</td>
+			<td style="width:16.38%;height:20px;">
+				<p style="text-align: justify;">
+					&nbsp;-</p>
+			</td>
+			<td nowrap="nowrap" style="width:16.36%;height:20px;">
+				<p style="text-align: justify;">
+					&nbsp;-</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" rowspan="6" style="width:22.46%;height:20px;">
+				<p style="text-align: justify;">
+					Faviidae</p>
+			</td>
+			<td nowrap="nowrap" style="width:15.98%;height:20px;">
+				<p style="text-align: justify;">
+					<em>Echinopora</em></p>
+			</td>
+			<td nowrap="nowrap" style="width:14.26%;height:20px;">
+				<p style="text-align: justify;">
+					-</p>
+			</td>
+			<td style="width:14.56%;height:20px;">
+				<p style="text-align: justify;">
+					-</p>
+			</td>
+			<td style="width:16.38%;height:20px;">
+				<p style="text-align: justify;">
+					-</p>
+			</td>
+			<td nowrap="nowrap" style="width:16.36%;height:20px;">
+				<p style="text-align: justify;">
+					-</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="width:15.98%;height:20px;">
+				<p style="text-align: justify;">
+					<em>Diploastrea</em></p>
+			</td>
+			<td nowrap="nowrap" style="width:14.26%;height:20px;">
+				<p style="text-align: justify;">
+					-</p>
+			</td>
+			<td style="width:14.56%;height:20px;">
+				<p style="text-align: justify;">
+					-</p>
+			</td>
+			<td style="width:16.38%;height:20px;">
+				<p style="text-align: justify;">
+					-</p>
+			</td>
+			<td nowrap="nowrap" style="width:16.36%;height:20px;">
+				<p style="text-align: justify;">
+					-</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="width:15.98%;height:20px;">
+				<p style="text-align: justify;">
+					<em>Favia</em></p>
+			</td>
+			<td nowrap="nowrap" style="width:14.26%;height:20px;">
+				<p style="text-align: justify;">
+					-</p>
+			</td>
+			<td style="width:14.56%;height:20px;">
+				<p style="text-align: justify;">
+					&nbsp;-</p>
+			</td>
+			<td style="width:16.38%;height:20px;">
+				<p style="text-align: justify;">
+					&nbsp;-</p>
+			</td>
+			<td nowrap="nowrap" style="width:16.36%;height:20px;">
+				<p style="text-align: justify;">
+					&nbsp;-</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="width:15.98%;height:20px;">
+				<p style="text-align: justify;">
+					<em>Favites</em></p>
+			</td>
+			<td nowrap="nowrap" style="width:14.26%;height:20px;">
+				<p style="text-align: justify;">
+					+&nbsp;</p>
+			</td>
+			<td style="width:14.56%;height:20px;">
+				<p style="text-align: justify;">
+					-</p>
+			</td>
+			<td style="width:16.38%;height:20px;">
+				<p style="text-align: justify;">
+					+</p>
+			</td>
+			<td nowrap="nowrap" style="width:16.36%;height:20px;">
+				<p style="text-align: justify;">
+					+</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="width:15.98%;height:20px;">
+				<p style="text-align: justify;">
+					<em>Goniastrea</em></p>
+			</td>
+			<td nowrap="nowrap" style="width:14.26%;height:20px;">
+				<p style="text-align: justify;">
+					-</p>
+			</td>
+			<td style="width:14.56%;height:20px;">
+				<p style="text-align: justify;">
+					-</p>
+			</td>
+			<td style="width:16.38%;height:20px;">
+				<p style="text-align: justify;">
+					+</p>
+			</td>
+			<td nowrap="nowrap" style="width:16.36%;height:20px;">
+				<p style="text-align: justify;">
+					-</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="width:15.98%;height:20px;">
+				<p style="text-align: justify;">
+					<em>Platygyra</em></p>
+			</td>
+			<td nowrap="nowrap" style="width:14.26%;height:20px;">
+				<p style="text-align: justify;">
+					&nbsp;-</p>
+			</td>
+			<td style="width:14.56%;height:20px;">
+				<p style="text-align: justify;">
+					-</p>
+			</td>
+			<td style="width:16.38%;height:20px;">
+				<p style="text-align: justify;">
+					-</p>
+			</td>
+			<td nowrap="nowrap" style="width:16.36%;height:20px;">
+				<p style="text-align: justify;">
+					-</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="width:22.46%;height:20px;">
+				<p style="text-align: justify;">
+					Merulinidae</p>
+			</td>
+			<td nowrap="nowrap" style="width:15.98%;height:20px;">
+				<p style="text-align: justify;">
+					<em>Merulina</em></p>
+			</td>
+			<td nowrap="nowrap" style="width:14.26%;height:20px;">
+				<p style="text-align: justify;">
+					-</p>
+			</td>
+			<td style="width:14.56%;height:20px;">
+				<p style="text-align: justify;">
+					&nbsp;-</p>
+			</td>
+			<td style="width:16.38%;height:20px;">
+				<p style="text-align: justify;">
+					&nbsp;-</p>
+			</td>
+			<td nowrap="nowrap" style="width:16.36%;height:20px;">
+				<p style="text-align: justify;">
+					&nbsp;-</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="width:22.46%;height:20px;">
+				<p style="text-align: justify;">
+					Oculinidae</p>
+			</td>
+			<td nowrap="nowrap" style="width:15.98%;height:20px;">
+				<p style="text-align: justify;">
+					<em>Galaxea</em></p>
+			</td>
+			<td nowrap="nowrap" style="width:14.26%;height:20px;">
+				<p style="text-align: justify;">
+					-</p>
+			</td>
+			<td style="width:14.56%;height:20px;">
+				<p style="text-align: justify;">
+					-</p>
+			</td>
+			<td style="width:16.38%;height:20px;">
+				<p style="text-align: justify;">
+					-</p>
+			</td>
+			<td nowrap="nowrap" style="width:16.36%;height:20px;">
+				<p style="text-align: justify;">
+					-</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="width:22.46%;height:20px;">
+				<p style="text-align: justify;">
+					Pectiniidae</p>
+			</td>
+			<td nowrap="nowrap" style="width:15.98%;height:20px;">
+				<p style="text-align: justify;">
+					<em>Pectinia</em></p>
+			</td>
+			<td nowrap="nowrap" style="width:14.26%;height:20px;">
+				<p style="text-align: justify;">
+					-</p>
+			</td>
+			<td style="width:14.56%;height:20px;">
+				<p style="text-align: justify;">
+					&nbsp;-</p>
+			</td>
+			<td style="width:16.38%;height:20px;">
+				<p style="text-align: justify;">
+					&nbsp;-</p>
+			</td>
+			<td nowrap="nowrap" style="width:16.36%;height:20px;">
+				<p style="text-align: justify;">
+					&nbsp;-</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="width:22.46%;height:20px;">
+				<p style="text-align: justify;">
+					Pocilloporidae</p>
+			</td>
+			<td nowrap="nowrap" style="width:15.98%;height:20px;">
+				<p style="text-align: justify;">
+					<em>Pocillopora</em></p>
+			</td>
+			<td nowrap="nowrap" style="width:14.26%;height:20px;">
+				<p style="text-align: justify;">
+					&nbsp;-</p>
+			</td>
+			<td style="width:14.56%;height:20px;">
+				<p style="text-align: justify;">
+					-</p>
+			</td>
+			<td style="width:16.38%;height:20px;">
+				<p style="text-align: justify;">
+					-</p>
+			</td>
+			<td nowrap="nowrap" style="width:16.36%;height:20px;">
+				<p style="text-align: justify;">
+					-</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" rowspan="2" style="width:22.46%;height:20px;">
+				<p style="text-align: justify;">
+					Poritidae</p>
+			</td>
+			<td nowrap="nowrap" style="width:15.98%;height:20px;">
+				<p style="text-align: justify;">
+					<em>Goniopora</em></p>
+			</td>
+			<td nowrap="nowrap" style="width:14.26%;height:20px;">
+				<p style="text-align: justify;">
+					&nbsp;-</p>
+			</td>
+			<td style="width:14.56%;height:20px;">
+				<p style="text-align: justify;">
+					+</p>
+			</td>
+			<td style="width:16.38%;height:20px;">
+				<p style="text-align: justify;">
+					+</p>
+			</td>
+			<td nowrap="nowrap" style="width:16.36%;height:20px;">
+				<p style="text-align: justify;">
+					-</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="width:15.98%;height:20px;">
+				<p style="text-align: justify;">
+					<em>Porites</em></p>
+			</td>
+			<td nowrap="nowrap" style="width:14.26%;height:20px;">
+				<p style="text-align: justify;">
+					+</p>
+			</td>
+			<td style="width:14.56%;height:20px;">
+				<p style="text-align: justify;">
+					+</p>
+			</td>
+			<td style="width:16.38%;height:20px;">
+				<p style="text-align: justify;">
+					-</p>
+			</td>
+			<td nowrap="nowrap" style="width:16.36%;height:20px;">
+				<p style="text-align: justify;">
+					+</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="width:22.46%;height:20px;">
+				<p style="text-align: justify;">
+					Milleporidae</p>
+			</td>
+			<td nowrap="nowrap" style="width:15.98%;height:20px;">
+				<p style="text-align: justify;">
+					<em>Millepora</em></p>
+			</td>
+			<td nowrap="nowrap" style="width:14.26%;height:20px;">
+				<p style="text-align: justify;">
+					-</p>
+			</td>
+			<td style="width:14.56%;height:20px;">
+				<p style="text-align: justify;">
+					&nbsp;-</p>
+			</td>
+			<td style="width:16.38%;height:20px;">
+				<p style="text-align: justify;">
+					-</p>
+			</td>
+			<td nowrap="nowrap" style="width:16.36%;height:20px;">
+				<p style="text-align: justify;">
+					&nbsp;-</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<p style="text-align: justify;">
+	Sumber: Survei Lapang (2014)</p>
+<p style="text-align: justify;">
+	Keterangan: + = ditemukan; - = tidak ditemukan</p>
+<p style="text-align: justify;">
+	&nbsp;</p>
+<h3 style="text-align: justify;">
+	Tingkat Kerusakan dan Penyebab Utama</h3>
+<p style="text-align: justify;">
+	Masyarakat yang tinggal di Pulau Ketapang sangat bergantung pada laut. Laut dan pulau memiliki pengaruh yang besar terhadap masyarakat dan sebaliknya. Keberadaan ekosistem mangrove, lamun dan terumbu karang menentukan keberlangsungan dari pulau dan masyarakat. Kerusakan ekosistem tersebut di pulau-pulau kecil dapat memberikan bencana yang berdampak langsung sangat kuat terhadap kehidupan masyarakat maupun organisme yang berada di dalamnya. Kerusakan ekosistem tersebut dapat bersumber dari alam maupun aktifitas manusia. Faktor-faktor kerusakan yang terjadi di Pulau Ketapang dapat dilihat pada Tabel 3.</p>
+<p style="text-align: justify;">
+	Tabel 3Faktor kerusakan ekosistem terumbu karang di Pulau Ketapang</p>
+<p style="text-align: justify;">
+	&nbsp;</p>
+<table align="center" border="0" cellpadding="0" cellspacing="0" style="width:104.84%;" width="104%">
+	<thead>
+		<tr>
+			<th style="width:18.7%;">
+				<p style="text-align: justify;">
+					Kategori</p>
+			</th>
+			<th style="width:15.28%;">
+				<p style="text-align: justify;">
+					Kerusakan</p>
+			</th>
+			<th style="width:10.2%;">
+				<p style="text-align: justify;">
+					Utara</p>
+			</th>
+			<th style="width:10.16%;">
+				<p style="text-align: justify;">
+					Barat</p>
+			</th>
+			<th style="width:13.58%;">
+				<p style="text-align: justify;">
+					Tenggara</p>
+			</th>
+			<th style="width:14.82%;">
+				<p style="text-align: justify;">
+					Timur Laut</p>
+			</th>
+			<th style="width:17.26%;">
+				<p style="text-align: justify;">
+					Keterangan</p>
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td style="width:18.7%;">
+				<p style="text-align: justify;">
+					Faktor alam</p>
+			</td>
+			<td style="width:15.28%;">
+				<p style="text-align: justify;">
+					Alga</p>
+			</td>
+			<td style="width:10.2%;">
+				<p style="text-align: justify;">
+					&radic;</p>
+			</td>
+			<td style="width:10.16%;">
+				<p style="text-align: justify;">
+					&radic;</p>
+			</td>
+			<td style="width:13.58%;">
+				<p style="text-align: justify;">
+					&radic;</p>
+			</td>
+			<td style="width:14.82%;">
+				<p style="text-align: justify;">
+					&radic;</p>
+			</td>
+			<td style="width:17.26%;">
+				<p style="text-align: justify;">
+					Alga akan menutupi permukaan koloni karang menyebabkan kematian polip karang</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:18.7%;">
+				<p style="text-align: justify;">
+					&nbsp;</p>
+			</td>
+			<td style="width:15.28%;">
+				<p style="text-align: justify;">
+					Ombak, arus dan gelombang</p>
+			</td>
+			<td style="width:10.2%;">
+				<p style="text-align: justify;">
+					-</p>
+			</td>
+			<td style="width:10.16%;">
+				<p style="text-align: justify;">
+					-</p>
+			</td>
+			<td style="width:13.58%;">
+				<p style="text-align: justify;">
+					&radic;</p>
+			</td>
+			<td style="width:14.82%;">
+				<p style="text-align: justify;">
+					&radic;</p>
+			</td>
+			<td style="width:17.26%;">
+				<p style="text-align: justify;">
+					Dapat memcahkan terumbu karang menjadi patahan</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:18.7%;">
+				<p style="text-align: justify;">
+					&nbsp;</p>
+			</td>
+			<td style="width:15.28%;">
+				<p style="text-align: justify;">
+					Ekspos matahari</p>
+			</td>
+			<td style="width:10.2%;">
+				<p style="text-align: justify;">
+					-</p>
+			</td>
+			<td style="width:10.16%;">
+				<p style="text-align: justify;">
+					-</p>
+			</td>
+			<td style="width:13.58%;">
+				<p style="text-align: justify;">
+					-</p>
+			</td>
+			<td style="width:14.82%;">
+				<p style="text-align: justify;">
+					-</p>
+			</td>
+			<td style="width:17.26%;">
+				<p style="text-align: justify;">
+					Terumbu karang yang terekspos matahari menyebabkan kematian hewan karang</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:18.7%;">
+				<p style="text-align: justify;">
+					&nbsp;</p>
+			</td>
+			<td style="width:15.28%;">
+				<p style="text-align: justify;">
+					Suspensi terlarut</p>
+			</td>
+			<td style="width:10.2%;">
+				<p style="text-align: justify;">
+					&radic;</p>
+			</td>
+			<td style="width:10.16%;">
+				<p style="text-align: justify;">
+					&radic;</p>
+			</td>
+			<td style="width:13.58%;">
+				<p style="text-align: justify;">
+					-</p>
+			</td>
+			<td style="width:14.82%;">
+				<p style="text-align: justify;">
+					-</p>
+			</td>
+			<td style="width:17.26%;">
+				<p style="text-align: justify;">
+					Arus yang membawa partikel terlarut dapat menyebabkan sedimentasi serta kekeruhan perairan</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:18.7%;">
+				<p style="text-align: justify;">
+					Anthropogenik</p>
+			</td>
+			<td style="width:15.28%;">
+				<p style="text-align: justify;">
+					Sampah Plastik</p>
+			</td>
+			<td style="width:10.2%;">
+				<p style="text-align: justify;">
+					&radic;</p>
+			</td>
+			<td style="width:10.16%;">
+				<p style="text-align: justify;">
+					&radic;</p>
+			</td>
+			<td style="width:13.58%;">
+				<p style="text-align: justify;">
+					-</p>
+			</td>
+			<td style="width:14.82%;">
+				<p style="text-align: justify;">
+					-</p>
+			</td>
+			<td style="width:17.26%;">
+				<p style="text-align: justify;">
+					Sampah dapat menutupi polip karang sehigga mengahmbat pertumbuhan</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<div style="clear: both; text-align: justify;">
+	&nbsp;</div>
+<p style="text-align: justify;">
+	Sumber: Survei Lapang (2014)</p>
+<p style="text-align: justify;">
+	&nbsp;</p>
+<h3 style="text-align: justify;">
+	Permasalahan Utama Pengelolaan Kawasan Terumbu Karang</h3>
+<p style="text-align: justify;">
+	Pesisir Pulau Ketapang tidak memiliki banyak nutrien karena ekosistem lamun hanya ditemukan satu spot saja dan ekosistem mangrove tidak cukup banyak jenis yang ditemukan di sekeliling pulau. Ekosistem mangrove yang hanya ditemukan pada wilayah saja tidak menyebar secara merata. Mangrove dan lamun yang sedikit menyebabkan masukan nutrien dari darat sedikit, akan tetapi terumbu karang hidup sangat baik.</p>
+<p style="text-align: justify;">
+	Ekosistem terumbu karang di Pulau Ketapang tidak memilki permasalahan berat yang dapat menyebabkan kerusakan. Pembangunan dermaga dan jangkar permanen sebagai tempat berlabuhnya perahu. Adanya jangkar dan dermaga dapat membantu melestarikan ekosistem terumbu karang. Masyarakat sudah sadar akan kelestarian ekosistem terumbu karang sehingga sudah melakukan beberapa penanganan untuk tetap menjaganya. Pengelolaan terumbu karang di Pulau Ketapang sudah dilakukan dengan masyarakat sehingga tidak ada permasalahan dalam pengelolaannya.</p>
+<p style="text-align: justify;">
+	&nbsp;</p>
+<h3 style="text-align: justify;">
+	Biota Asosiasi yang Ditemukan di Pulau Ketapang</h3>
+<p style="text-align: justify;">
+	Biota cukup banyak ditemukan di ekosistem terumbu karang pada Pulau Ketapang. Biota asosiasi pada ekosistem terumbu karang Pulau Ketapang meliputi mikroalga, akar bahar, karang lunak, <em>tunicate</em>, <em>anemone</em>, alga, kima, dan lain-lain (Gambar 26).</p>
+<h3 style="text-align: justify;">
+	Status Kawasan Ekosistem Terumbu Karang Pulau Ketang</h3>
+<p style="text-align: justify;">
+	Kawasan ekosistem terumbu karang di Pulau Ketapang tidak memiliki status kawasan apapun, baik konservasi, dan lain-lain. Artinya, kawasan ekosistem terumbu karang masih bersifat umum meskipun terdapat pengawasan dari pemerintah daerah terkait aktivitas penangkatan dan pemanfaatan yang merusak lainnya.</p>
+<p style="text-align: justify;">
+	&nbsp;</p>
+<h2 style="text-align: justify;">
+	b. Ikan Terumbu</h2>
+<p style="text-align: justify;">
+	&nbsp;</p>
+<h3 style="text-align: justify;">
+	Distribusi Jenis Ikan Terumbu</h3>
+<p style="text-align: justify;">
+	Berdasarkan pengamatan yang dilakukan didapatkan sebanyak 26 jenis ikan terumbu dari sembilan famili yang terdapat pada transek pengamatan. Spesies ikan terumbu yang ditemukan pada transek pengamatan antara lain: <em>Casio cuning, Chaetodontoplus mesoleucus, Chetodon octofasciatus, Chelmon rostatus, Caridion crhysozonus, Labroides dimidiatus, Helichocres leucurus, Halichoeres melanurus, Hemigymnus melapterus, Choerodon anchargo, Ampripirion frecula, Ampripirion ocellaris, Chormis viridis, Ablygpydodon curocao, Ablygpydodon sexfaciatus, Pamoncentrus Alexandrea, Pamoncentrus molucencis, Pamoncentrus bracnchialis, Neopamoncenturs filamentosus, Neoglyphidodon nigroris, Neoglyphidodon bonang, Pamoncentrus samsiang, Lutjanus kasmir, Carangiodes orthogrammus, Platax teira, </em>dan <em>Scolarpsis lineata.</em> Kelimpahan jenis ikan terumbu yang banyak ditemukan merupakan dari family Pamocentridae sebanyak 12 spesies. Distribusi dan kelimpahan ikan terumbu pada stasiun pengamatan disajikan pada Tabel 4. Ada dua spesies ikan yang ditemukan di luar transek pengamatan, yaitu ikan terumbu dari famili <em>Pamocanthidae</em>, seperti <em>Holacanthus semicirculatus</em> dan <em>Pomacanthus</em> <em>annularis</em>. Ikan ini biasanya hidup soliter dan mendiami perairan yang lebih dalam.</p>
+<p style="text-align: justify;">
+	&nbsp;</p>
+<p style="text-align: justify;">
+	Tabel 4Distribusi dan kelimpahan ikan terumbu pada lokasi pengamatan</p>
+<p style="text-align: justify;">
+	&nbsp;</p>
+<table align="center" border="1" cellpadding="0" cellspacing="0" style="width:102.08%;" width="102%">
+	<thead>
+		<tr>
+			<th nowrap="nowrap" rowspan="2" style="width:5.98%;height:20px;">
+				<p style="text-align: justify;">
+					No</p>
+			</th>
+			<th nowrap="nowrap" rowspan="2" style="width:19.7%;height:20px;">
+				<p style="text-align: justify;">
+					Family</p>
+			</th>
+			<th nowrap="nowrap" rowspan="2" style="width:36.84%;height:20px;">
+				<p style="text-align: justify;">
+					Spesies</p>
+			</th>
+			<th colspan="4" nowrap="nowrap" style="width:26.96%;height:20px;">
+				<p style="text-align: justify;">
+					Stasiun</p>
+			</th>
+			<th nowrap="nowrap" rowspan="2" style="width:10.52%;height:20px;">
+				<p style="text-align: justify;">
+					Jumlah</p>
+			</th>
+		</tr>
+		<tr>
+			<th nowrap="nowrap" style="width:6.74%;height:20px;">
+				<p style="text-align: justify;">
+					1</p>
+			</th>
+			<th nowrap="nowrap" style="width:6.74%;height:20px;">
+				<p style="text-align: justify;">
+					2</p>
+			</th>
+			<th nowrap="nowrap" style="width:6.74%;height:20px;">
+				<p style="text-align: justify;">
+					3</p>
+			</th>
+			<th nowrap="nowrap" style="width:6.74%;height:20px;">
+				<p style="text-align: justify;">
+					4</p>
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td nowrap="nowrap" style="width:5.98%;height:20px;">
+				<p style="text-align: justify;">
+					1</p>
+			</td>
+			<td nowrap="nowrap" style="width:19.7%;height:20px;">
+				<p style="text-align: justify;">
+					Casionidae</p>
+			</td>
+			<td nowrap="nowrap" style="width:36.84%;height:20px;">
+				<p style="text-align: justify;">
+					<em>Casio cuning</em></p>
+			</td>
+			<td nowrap="nowrap" style="width:6.74%;height:20px;">
+				<p style="text-align: justify;">
+					119</p>
+			</td>
+			<td nowrap="nowrap" style="width:6.74%;height:20px;">
+				<p style="text-align: justify;">
+					201</p>
+			</td>
+			<td nowrap="nowrap" style="width:6.74%;height:20px;">
+				<p style="text-align: justify;">
+					-</p>
+			</td>
+			<td nowrap="nowrap" style="width:6.74%;height:20px;">
+				<p style="text-align: justify;">
+					-</p>
+			</td>
+			<td nowrap="nowrap" style="width:10.52%;height:20px;">
+				<p style="text-align: justify;">
+					320</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="width:5.98%;height:20px;">
+				<p style="text-align: justify;">
+					2</p>
+			</td>
+			<td nowrap="nowrap" style="width:19.7%;height:20px;">
+				<p style="text-align: justify;">
+					Pamocanthidae</p>
+			</td>
+			<td nowrap="nowrap" style="width:36.84%;height:20px;">
+				<p style="text-align: justify;">
+					<em>Chaetodontoplus mesoleucus</em></p>
+			</td>
+			<td nowrap="nowrap" style="width:6.74%;height:20px;">
+				<p style="text-align: justify;">
+					2</p>
+			</td>
+			<td nowrap="nowrap" style="width:6.74%;height:20px;">
+				<p style="text-align: justify;">
+					-</p>
+			</td>
+			<td nowrap="nowrap" style="width:6.74%;height:20px;">
+				<p style="text-align: justify;">
+					2</p>
+			</td>
+			<td nowrap="nowrap" style="width:6.74%;height:20px;">
+				<p style="text-align: justify;">
+					9</p>
+			</td>
+			<td nowrap="nowrap" style="width:10.52%;height:20px;">
+				<p style="text-align: justify;">
+					13</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="width:5.98%;height:20px;">
+				<p style="text-align: justify;">
+					3</p>
+			</td>
+			<td nowrap="nowrap" rowspan="3" style="width:19.7%;height:20px;">
+				<p style="text-align: justify;">
+					Chaetodontidae</p>
+			</td>
+			<td nowrap="nowrap" style="width:36.84%;height:20px;">
+				<p style="text-align: justify;">
+					<em>Chetodon octofasciatus</em></p>
+			</td>
+			<td nowrap="nowrap" style="width:6.74%;height:20px;">
+				<p style="text-align: justify;">
+					20</p>
+			</td>
+			<td nowrap="nowrap" style="width:6.74%;height:20px;">
+				<p style="text-align: justify;">
+					33</p>
+			</td>
+			<td nowrap="nowrap" style="width:6.74%;height:20px;">
+				<p style="text-align: justify;">
+					16</p>
+			</td>
+			<td nowrap="nowrap" style="width:6.74%;height:20px;">
+				<p style="text-align: justify;">
+					14</p>
+			</td>
+			<td nowrap="nowrap" style="width:10.52%;height:20px;">
+				<p style="text-align: justify;">
+					83</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="width:5.98%;height:20px;">
+				<p style="text-align: justify;">
+					4</p>
+			</td>
+			<td nowrap="nowrap" style="width:36.84%;height:20px;">
+				<p style="text-align: justify;">
+					<em>C</em><em>h</em><em>elmon rostatus</em></p>
+			</td>
+			<td nowrap="nowrap" style="width:6.74%;height:20px;">
+				<p style="text-align: justify;">
+					<strong>-</strong></p>
+			</td>
+			<td nowrap="nowrap" style="width:6.74%;height:20px;">
+				<p style="text-align: justify;">
+					6</p>
+			</td>
+			<td nowrap="nowrap" style="width:6.74%;height:20px;">
+				<p style="text-align: justify;">
+					3</p>
+			</td>
+			<td nowrap="nowrap" style="width:6.74%;height:20px;">
+				<p style="text-align: justify;">
+					16</p>
+			</td>
+			<td nowrap="nowrap" style="width:10.52%;height:20px;">
+				<p style="text-align: justify;">
+					25</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="width:5.98%;height:20px;">
+				<p style="text-align: justify;">
+					5</p>
+			</td>
+			<td nowrap="nowrap" style="width:36.84%;height:20px;">
+				<p style="text-align: justify;">
+					<em>Caridion crhysozonus</em></p>
+			</td>
+			<td nowrap="nowrap" style="width:6.74%;height:20px;">
+				<p style="text-align: justify;">
+					<strong>-</strong></p>
+			</td>
+			<td nowrap="nowrap" style="width:6.74%;height:20px;">
+				<p style="text-align: justify;">
+					2</p>
+			</td>
+			<td nowrap="nowrap" style="width:6.74%;height:20px;">
+				<p style="text-align: justify;">
+					-</p>
+			</td>
+			<td nowrap="nowrap" style="width:6.74%;height:20px;">
+				<p style="text-align: justify;">
+					-</p>
+			</td>
+			<td nowrap="nowrap" style="width:10.52%;height:20px;">
+				<p style="text-align: justify;">
+					2</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="width:5.98%;height:20px;">
+				<p style="text-align: justify;">
+					6</p>
+			</td>
+			<td nowrap="nowrap" rowspan="4" style="width:19.7%;height:20px;">
+				<p style="text-align: justify;">
+					Labridae</p>
+			</td>
+			<td nowrap="nowrap" style="width:36.84%;height:20px;">
+				<p style="text-align: justify;">
+					<em>Labroides dimidiatus</em></p>
+			</td>
+			<td nowrap="nowrap" style="width:6.74%;height:20px;">
+				<p style="text-align: justify;">
+					2</p>
+			</td>
+			<td nowrap="nowrap" style="width:6.74%;height:20px;">
+				<p style="text-align: justify;">
+					1</p>
+			</td>
+			<td nowrap="nowrap" style="width:6.74%;height:20px;">
+				<p style="text-align: justify;">
+					-</p>
+			</td>
+			<td nowrap="nowrap" style="width:6.74%;height:20px;">
+				<p style="text-align: justify;">
+					-</p>
+			</td>
+			<td nowrap="nowrap" style="width:10.52%;height:20px;">
+				<p style="text-align: justify;">
+					3</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="width:5.98%;height:20px;">
+				<p style="text-align: justify;">
+					7</p>
+			</td>
+			<td nowrap="nowrap" style="width:36.84%;height:20px;">
+				<p style="text-align: justify;">
+					<em>H</em><em>elichocres leucurus</em></p>
+			</td>
+			<td nowrap="nowrap" style="width:6.74%;height:20px;">
+				<p style="text-align: justify;">
+					4</p>
+			</td>
+			<td nowrap="nowrap" style="width:6.74%;height:20px;">
+				<p style="text-align: justify;">
+					-</p>
+			</td>
+			<td nowrap="nowrap" style="width:6.74%;height:20px;">
+				<p style="text-align: justify;">
+					-</p>
+			</td>
+			<td nowrap="nowrap" style="width:6.74%;height:20px;">
+				<p style="text-align: justify;">
+					-</p>
+			</td>
+			<td nowrap="nowrap" style="width:10.52%;height:20px;">
+				<p style="text-align: justify;">
+					4</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="width:5.98%;height:20px;">
+				<p style="text-align: justify;">
+					8</p>
+			</td>
+			<td nowrap="nowrap" style="width:36.84%;height:20px;">
+				<p style="text-align: justify;">
+					<em>Halichoeres melanurus</em></p>
+			</td>
+			<td nowrap="nowrap" style="width:6.74%;height:20px;">
+				<p style="text-align: justify;">
+					<strong>-</strong></p>
+			</td>
+			<td nowrap="nowrap" style="width:6.74%;height:20px;">
+				<p style="text-align: justify;">
+					-</p>
+			</td>
+			<td nowrap="nowrap" style="width:6.74%;height:20px;">
+				<p style="text-align: justify;">
+					-</p>
+			</td>
+			<td nowrap="nowrap" style="width:6.74%;height:20px;">
+				<p style="text-align: justify;">
+					4</p>
+			</td>
+			<td nowrap="nowrap" style="width:10.52%;height:20px;">
+				<p style="text-align: justify;">
+					4</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="width:5.98%;height:20px;">
+				<p style="text-align: justify;">
+					9</p>
+			</td>
+			<td nowrap="nowrap" style="width:36.84%;height:20px;">
+				<p style="text-align: justify;">
+					<em>Hemigymnus melapterus</em></p>
+			</td>
+			<td nowrap="nowrap" style="width:6.74%;height:20px;">
+				<p style="text-align: justify;">
+					<strong>-</strong></p>
+			</td>
+			<td nowrap="nowrap" style="width:6.74%;height:20px;">
+				<p style="text-align: justify;">
+					-</p>
+			</td>
+			<td nowrap="nowrap" style="width:6.74%;height:20px;">
+				<p style="text-align: justify;">
+					-</p>
+			</td>
+			<td nowrap="nowrap" style="width:6.74%;height:20px;">
+				<p style="text-align: justify;">
+					2</p>
+			</td>
+			<td nowrap="nowrap" style="width:10.52%;height:20px;">
+				<p style="text-align: justify;">
+					2</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="width:5.98%;height:20px;">
+				<p style="text-align: justify;">
+					10</p>
+			</td>
+			<td nowrap="nowrap" style="width: 19.7%; height: 20px; text-align: justify;">
+				&nbsp;</td>
+			<td nowrap="nowrap" style="width:36.84%;height:20px;">
+				<p style="text-align: justify;">
+					<em>Choerodon anchargo</em></p>
+			</td>
+			<td nowrap="nowrap" style="width:6.74%;height:20px;">
+				<p style="text-align: justify;">
+					<strong>-</strong></p>
+			</td>
+			<td nowrap="nowrap" style="width:6.74%;height:20px;">
+				<p style="text-align: justify;">
+					8</p>
+			</td>
+			<td nowrap="nowrap" style="width:6.74%;height:20px;">
+				<p style="text-align: justify;">
+					5</p>
+			</td>
+			<td nowrap="nowrap" style="width:6.74%;height:20px;">
+				<p style="text-align: justify;">
+					-</p>
+			</td>
+			<td nowrap="nowrap" style="width:10.52%;height:20px;">
+				<p style="text-align: justify;">
+					13</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="width:5.98%;height:20px;">
+				<p style="text-align: justify;">
+					11</p>
+			</td>
+			<td nowrap="nowrap" style="width:19.7%;height:20px;">
+				<p style="text-align: justify;">
+					Pamocentridae</p>
+			</td>
+			<td nowrap="nowrap" style="width:36.84%;height:20px;">
+				<p style="text-align: justify;">
+					<em>Ampripirion frecula</em></p>
+			</td>
+			<td nowrap="nowrap" style="width:6.74%;height:20px;">
+				<p style="text-align: justify;">
+					3</p>
+			</td>
+			<td nowrap="nowrap" style="width:6.74%;height:20px;">
+				<p style="text-align: justify;">
+					-</p>
+			</td>
+			<td nowrap="nowrap" style="width:6.74%;height:20px;">
+				<p style="text-align: justify;">
+					-</p>
+			</td>
+			<td nowrap="nowrap" style="width:6.74%;height:20px;">
+				<p style="text-align: justify;">
+					-</p>
+			</td>
+			<td nowrap="nowrap" style="width:10.52%;height:20px;">
+				<p style="text-align: justify;">
+					3</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="width:5.98%;height:20px;">
+				<p style="text-align: justify;">
+					12</p>
+			</td>
+			<td nowrap="nowrap" style="width: 19.7%; height: 20px; text-align: justify;">
+				&nbsp;</td>
+			<td nowrap="nowrap" style="width:36.84%;height:20px;">
+				<p style="text-align: justify;">
+					<em>Ampripirion ocellaris</em></p>
+			</td>
+			<td nowrap="nowrap" style="width:6.74%;height:20px;">
+				<p style="text-align: justify;">
+					<strong>-</strong></p>
+			</td>
+			<td nowrap="nowrap" style="width:6.74%;height:20px;">
+				<p style="text-align: justify;">
+					14</p>
+			</td>
+			<td nowrap="nowrap" style="width:6.74%;height:20px;">
+				<p style="text-align: justify;">
+					19</p>
+			</td>
+			<td nowrap="nowrap" style="width:6.74%;height:20px;">
+				<p style="text-align: justify;">
+					9</p>
+			</td>
+			<td nowrap="nowrap" style="width:10.52%;height:20px;">
+				<p style="text-align: justify;">
+					42</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="width:5.98%;height:20px;">
+				<p style="text-align: justify;">
+					13</p>
+			</td>
+			<td nowrap="nowrap" style="width: 19.7%; height: 20px; text-align: justify;">
+				&nbsp;</td>
+			<td nowrap="nowrap" style="width:36.84%;height:20px;">
+				<p style="text-align: justify;">
+					<em>Chormis viridis</em></p>
+			</td>
+			<td nowrap="nowrap" style="width:6.74%;height:20px;">
+				<p style="text-align: justify;">
+					<strong>-</strong></p>
+			</td>
+			<td nowrap="nowrap" style="width:6.74%;height:20px;">
+				<p style="text-align: justify;">
+					20</p>
+			</td>
+			<td nowrap="nowrap" style="width:6.74%;height:20px;">
+				<p style="text-align: justify;">
+					-</p>
+			</td>
+			<td nowrap="nowrap" style="width:6.74%;height:20px;">
+				<p style="text-align: justify;">
+					12</p>
+			</td>
+			<td nowrap="nowrap" style="width:10.52%;height:20px;">
+				<p style="text-align: justify;">
+					32</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="width:5.98%;height:20px;">
+				<p style="text-align: justify;">
+					14</p>
+			</td>
+			<td nowrap="nowrap" style="width: 19.7%; height: 20px; text-align: justify;">
+				&nbsp;</td>
+			<td nowrap="nowrap" style="width:36.84%;height:20px;">
+				<p style="text-align: justify;">
+					<em>Ablygpydodon curocao</em></p>
+			</td>
+			<td nowrap="nowrap" style="width:6.74%;height:20px;">
+				<p style="text-align: justify;">
+					34</p>
+			</td>
+			<td nowrap="nowrap" style="width:6.74%;height:20px;">
+				<p style="text-align: justify;">
+					34</p>
+			</td>
+			<td nowrap="nowrap" style="width:6.74%;height:20px;">
+				<p style="text-align: justify;">
+					-</p>
+			</td>
+			<td nowrap="nowrap" style="width:6.74%;height:20px;">
+				<p style="text-align: justify;">
+					58</p>
+			</td>
+			<td nowrap="nowrap" style="width:10.52%;height:20px;">
+				<p style="text-align: justify;">
+					126</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="width:5.98%;height:20px;">
+				<p style="text-align: justify;">
+					15</p>
+			</td>
+			<td nowrap="nowrap" style="width: 19.7%; height: 20px; text-align: justify;">
+				&nbsp;</td>
+			<td nowrap="nowrap" style="width:36.84%;height:20px;">
+				<p style="text-align: justify;">
+					<em>Ablygpydodon sexfaciatus</em></p>
+			</td>
+			<td nowrap="nowrap" style="width:6.74%;height:20px;">
+				<p style="text-align: justify;">
+					31</p>
+			</td>
+			<td nowrap="nowrap" style="width:6.74%;height:20px;">
+				<p style="text-align: justify;">
+					26</p>
+			</td>
+			<td nowrap="nowrap" style="width:6.74%;height:20px;">
+				<p style="text-align: justify;">
+					-</p>
+			</td>
+			<td nowrap="nowrap" style="width:6.74%;height:20px;">
+				<p style="text-align: justify;">
+					27</p>
+			</td>
+			<td nowrap="nowrap" style="width:10.52%;height:20px;">
+				<p style="text-align: justify;">
+					84</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="width:5.98%;height:20px;">
+				<p style="text-align: justify;">
+					16</p>
+			</td>
+			<td nowrap="nowrap" style="width: 19.7%; height: 20px; text-align: justify;">
+				&nbsp;</td>
+			<td nowrap="nowrap" style="width:36.84%;height:20px;">
+				<p style="text-align: justify;">
+					<em>Pamoncentrus alexandrae</em></p>
+			</td>
+			<td nowrap="nowrap" style="width:6.74%;height:20px;">
+				<p style="text-align: justify;">
+					30</p>
+			</td>
+			<td nowrap="nowrap" style="width:6.74%;height:20px;">
+				<p style="text-align: justify;">
+					-</p>
+			</td>
+			<td nowrap="nowrap" style="width:6.74%;height:20px;">
+				<p style="text-align: justify;">
+					-</p>
+			</td>
+			<td nowrap="nowrap" style="width:6.74%;height:20px;">
+				<p style="text-align: justify;">
+					-</p>
+			</td>
+			<td nowrap="nowrap" style="width:10.52%;height:20px;">
+				<p style="text-align: justify;">
+					30</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="width:5.98%;height:20px;">
+				<p style="text-align: justify;">
+					17</p>
+			</td>
+			<td nowrap="nowrap" style="width: 19.7%; height: 20px; text-align: justify;">
+				&nbsp;</td>
+			<td nowrap="nowrap" style="width:36.84%;height:20px;">
+				<p style="text-align: justify;">
+					<em>Pamoncentrus molucencis</em></p>
+			</td>
+			<td nowrap="nowrap" style="width:6.74%;height:20px;">
+				<p style="text-align: justify;">
+					26</p>
+			</td>
+			<td nowrap="nowrap" style="width:6.74%;height:20px;">
+				<p style="text-align: justify;">
+					29</p>
+			</td>
+			<td nowrap="nowrap" style="width:6.74%;height:20px;">
+				<p style="text-align: justify;">
+					14</p>
+			</td>
+			<td nowrap="nowrap" style="width:6.74%;height:20px;">
+				<p style="text-align: justify;">
+					26</p>
+			</td>
+			<td nowrap="nowrap" style="width:10.52%;height:20px;">
+				<p style="text-align: justify;">
+					95</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="width:5.98%;height:20px;">
+				<p style="text-align: justify;">
+					18</p>
+			</td>
+			<td nowrap="nowrap" style="width: 19.7%; height: 20px; text-align: justify;">
+				&nbsp;</td>
+			<td nowrap="nowrap" style="width:36.84%;height:20px;">
+				<p style="text-align: justify;">
+					<em>Pamoncentrus bracnchialis</em></p>
+			</td>
+			<td nowrap="nowrap" style="width:6.74%;height:20px;">
+				<p style="text-align: justify;">
+					20</p>
+			</td>
+			<td nowrap="nowrap" style="width:6.74%;height:20px;">
+				<p style="text-align: justify;">
+					22</p>
+			</td>
+			<td nowrap="nowrap" style="width:6.74%;height:20px;">
+				<p style="text-align: justify;">
+					6</p>
+			</td>
+			<td nowrap="nowrap" style="width:6.74%;height:20px;">
+				<p style="text-align: justify;">
+					14</p>
+			</td>
+			<td nowrap="nowrap" style="width:10.52%;height:20px;">
+				<p style="text-align: justify;">
+					62</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="width:5.98%;height:20px;">
+				<p style="text-align: justify;">
+					19</p>
+			</td>
+			<td nowrap="nowrap" style="width: 19.7%; height: 20px; text-align: justify;">
+				&nbsp;</td>
+			<td nowrap="nowrap" style="width:36.84%;height:20px;">
+				<p style="text-align: justify;">
+					<em>Neopamoncenturs filamentosus</em></p>
+			</td>
+			<td nowrap="nowrap" style="width:6.74%;height:20px;">
+				<p style="text-align: justify;">
+					90</p>
+			</td>
+			<td nowrap="nowrap" style="width:6.74%;height:20px;">
+				<p style="text-align: justify;">
+					50</p>
+			</td>
+			<td nowrap="nowrap" style="width:6.74%;height:20px;">
+				<p style="text-align: justify;">
+					12</p>
+			</td>
+			<td nowrap="nowrap" style="width:6.74%;height:20px;">
+				<p style="text-align: justify;">
+					-</p>
+			</td>
+			<td nowrap="nowrap" style="width:10.52%;height:20px;">
+				<p style="text-align: justify;">
+					152</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="width:5.98%;height:20px;">
+				<p style="text-align: justify;">
+					20</p>
+			</td>
+			<td nowrap="nowrap" style="width: 19.7%; height: 20px; text-align: justify;">
+				&nbsp;</td>
+			<td nowrap="nowrap" style="width:36.84%;height:20px;">
+				<p style="text-align: justify;">
+					<em>Neoglyphidodon nigroris </em></p>
+			</td>
+			<td nowrap="nowrap" style="width:6.74%;height:20px;">
+				<p style="text-align: justify;">
+					10</p>
+			</td>
+			<td nowrap="nowrap" style="width:6.74%;height:20px;">
+				<p style="text-align: justify;">
+					-</p>
+			</td>
+			<td nowrap="nowrap" style="width:6.74%;height:20px;">
+				<p style="text-align: justify;">
+					-</p>
+			</td>
+			<td nowrap="nowrap" style="width:6.74%;height:20px;">
+				<p style="text-align: justify;">
+					16</p>
+			</td>
+			<td nowrap="nowrap" style="width:10.52%;height:20px;">
+				<p style="text-align: justify;">
+					26</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="width:5.98%;height:20px;">
+				<p style="text-align: justify;">
+					21</p>
+			</td>
+			<td nowrap="nowrap" style="width: 19.7%; height: 20px; text-align: justify;">
+				&nbsp;</td>
+			<td nowrap="nowrap" style="width:36.84%;height:20px;">
+				<p style="text-align: justify;">
+					<em>Neoglyphidodon bonang</em></p>
+			</td>
+			<td nowrap="nowrap" style="width:6.74%;height:20px;">
+				<p style="text-align: justify;">
+					<strong>-</strong></p>
+			</td>
+			<td nowrap="nowrap" style="width:6.74%;height:20px;">
+				<p style="text-align: justify;">
+					-</p>
+			</td>
+			<td nowrap="nowrap" style="width:6.74%;height:20px;">
+				<p style="text-align: justify;">
+					54</p>
+			</td>
+			<td nowrap="nowrap" style="width:6.74%;height:20px;">
+				<p style="text-align: justify;">
+					-</p>
+			</td>
+			<td nowrap="nowrap" style="width:10.52%;height:20px;">
+				<p style="text-align: justify;">
+					54</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="width:5.98%;height:20px;">
+				<p style="text-align: justify;">
+					22</p>
+			</td>
+			<td nowrap="nowrap" style="width: 19.7%; height: 20px; text-align: justify;">
+				&nbsp;</td>
+			<td nowrap="nowrap" style="width:36.84%;height:20px;">
+				<p style="text-align: justify;">
+					<em>Pamoncentrus samsiang</em></p>
+			</td>
+			<td nowrap="nowrap" style="width:6.74%;height:20px;">
+				<p style="text-align: justify;">
+					<strong>-</strong></p>
+			</td>
+			<td nowrap="nowrap" style="width:6.74%;height:20px;">
+				<p style="text-align: justify;">
+					1</p>
+			</td>
+			<td nowrap="nowrap" style="width:6.74%;height:20px;">
+				<p style="text-align: justify;">
+					2</p>
+			</td>
+			<td nowrap="nowrap" style="width:6.74%;height:20px;">
+				<p style="text-align: justify;">
+					-</p>
+			</td>
+			<td nowrap="nowrap" style="width:10.52%;height:20px;">
+				<p style="text-align: justify;">
+					3</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="width:5.98%;height:20px;">
+				<p style="text-align: justify;">
+					23</p>
+			</td>
+			<td nowrap="nowrap" style="width:19.7%;height:20px;">
+				<p style="text-align: justify;">
+					Lutjanidae</p>
+			</td>
+			<td nowrap="nowrap" style="width:36.84%;height:20px;">
+				<p style="text-align: justify;">
+					<em>Lutjanus kasmira</em></p>
+			</td>
+			<td nowrap="nowrap" style="width:6.74%;height:20px;">
+				<p style="text-align: justify;">
+					4</p>
+			</td>
+			<td nowrap="nowrap" style="width:6.74%;height:20px;">
+				<p style="text-align: justify;">
+					3</p>
+			</td>
+			<td nowrap="nowrap" style="width:6.74%;height:20px;">
+				<p style="text-align: justify;">
+					2</p>
+			</td>
+			<td nowrap="nowrap" style="width:6.74%;height:20px;">
+				<p style="text-align: justify;">
+					2</p>
+			</td>
+			<td nowrap="nowrap" style="width:10.52%;height:20px;">
+				<p style="text-align: justify;">
+					11</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="width:5.98%;height:20px;">
+				<p style="text-align: justify;">
+					24</p>
+			</td>
+			<td nowrap="nowrap" style="width:19.7%;height:20px;">
+				<p style="text-align: justify;">
+					Carangidae</p>
+			</td>
+			<td nowrap="nowrap" style="width:36.84%;height:20px;">
+				<p style="text-align: justify;">
+					<em>Carangiodes orthogrammus</em></p>
+			</td>
+			<td nowrap="nowrap" style="width:6.74%;height:20px;">
+				<p style="text-align: justify;">
+					30</p>
+			</td>
+			<td nowrap="nowrap" style="width:6.74%;height:20px;">
+				<p style="text-align: justify;">
+					-</p>
+			</td>
+			<td nowrap="nowrap" style="width:6.74%;height:20px;">
+				<p style="text-align: justify;">
+					-</p>
+			</td>
+			<td nowrap="nowrap" style="width:6.74%;height:20px;">
+				<p style="text-align: justify;">
+					-</p>
+			</td>
+			<td nowrap="nowrap" style="width:10.52%;height:20px;">
+				<p style="text-align: justify;">
+					30</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="width:5.98%;height:20px;">
+				<p style="text-align: justify;">
+					25</p>
+			</td>
+			<td nowrap="nowrap" style="width:19.7%;height:20px;">
+				<p style="text-align: justify;">
+					Ephippidae</p>
+			</td>
+			<td nowrap="nowrap" style="width:36.84%;height:20px;">
+				<p style="text-align: justify;">
+					<em>Platax teira</em></p>
+			</td>
+			<td nowrap="nowrap" style="width:6.74%;height:20px;">
+				<p style="text-align: justify;">
+					1</p>
+			</td>
+			<td nowrap="nowrap" style="width:6.74%;height:20px;">
+				<p style="text-align: justify;">
+					-</p>
+			</td>
+			<td nowrap="nowrap" style="width:6.74%;height:20px;">
+				<p style="text-align: justify;">
+					-</p>
+			</td>
+			<td nowrap="nowrap" style="width:6.74%;height:20px;">
+				<p style="text-align: justify;">
+					-</p>
+			</td>
+			<td nowrap="nowrap" style="width:10.52%;height:20px;">
+				<p style="text-align: justify;">
+					1</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="width:5.98%;height:20px;">
+				<p style="text-align: justify;">
+					26</p>
+			</td>
+			<td nowrap="nowrap" style="width:19.7%;height:20px;">
+				<p style="text-align: justify;">
+					Nemipteridae</p>
+			</td>
+			<td nowrap="nowrap" style="width:36.84%;height:20px;">
+				<p style="text-align: justify;">
+					<em>Scolarpsis lineata</em></p>
+			</td>
+			<td nowrap="nowrap" style="width:6.74%;height:20px;">
+				<p style="text-align: justify;">
+					<strong>-</strong></p>
+			</td>
+			<td nowrap="nowrap" style="width:6.74%;height:20px;">
+				<p style="text-align: justify;">
+					-</p>
+			</td>
+			<td nowrap="nowrap" style="width:6.74%;height:20px;">
+				<p style="text-align: justify;">
+					4</p>
+			</td>
+			<td nowrap="nowrap" style="width:6.74%;height:20px;">
+				<p style="text-align: justify;">
+					-</p>
+			</td>
+			<td nowrap="nowrap" style="width:10.52%;height:20px;">
+				<p style="text-align: justify;">
+					4</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="3" nowrap="nowrap" style="width:62.54%;height:20px;">
+				<p style="text-align: justify;">
+					Jumlah</p>
+			</td>
+			<td nowrap="nowrap" style="width:6.74%;height:20px;">
+				<p style="text-align: justify;">
+					426</p>
+			</td>
+			<td nowrap="nowrap" style="width:6.74%;height:20px;">
+				<p style="text-align: justify;">
+					450</p>
+			</td>
+			<td nowrap="nowrap" style="width:6.74%;height:20px;">
+				<p style="text-align: justify;">
+					139</p>
+			</td>
+			<td nowrap="nowrap" style="width:6.74%;height:20px;">
+				<p style="text-align: justify;">
+					209</p>
+			</td>
+			<td nowrap="nowrap" style="width:10.52%;height:20px;">
+				<p style="text-align: justify;">
+					1.224</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<div style="clear: both; text-align: justify;">
+	&nbsp;</div>
+<p style="text-align: justify;">
+	Sumber: Survei Lapang (2014)</p>
+<p style="text-align: justify;">
+	&nbsp;</p>
+<p style="text-align: justify;">
+	Kondisi lingkungan pulau Ketapang Belitung Timur sangat dipengaruhi oleh musim dan aktivitas masyarakat pulau. Stasiun 1 merupakan lokasi tambatan perahu nelayan, stasiun ini merupakan daerah sebelah utara pulau. Pada lokasi ini, juga terdapat penembokan batu-batu untuk mencegah abrasi, terlihat pada saat pengambilan data pada lokasi tersebut banyak material-material yang tercecer pada lokasi pengamatan, kecerahan (jarak pandang) perairan pada saat pengamatan di lokasi tersebut mencapai 1,5 m, dan terlihat pada substrat dasar pada lokasi tersebut banyak karang keras yang sudah tertutup sedimen yang diasumsikan merupakan hasil dari pembangunan pantai dan pelabuhan nelayan. Pada lokasi ini, ditemukan juga beberapa jenis spons, <em>makroalgae</em> dan <em>ascidians</em>.&nbsp; Stasiun 2 merupakan terdapat di sebelah barat pulau, dan dengan kecerahan (jarak pandang) kurang lebih 3 m pada saat pengamatan dilakukan berbeda dengan stasiun 1, pada stasiun 2 kondisi perairan dan surat dasar cukup baik. Di mana pada stasiun 2 tidak ada pengaruh dari aktivitas pembangunan pesisir pulau. Stasiun 3 dan 4 terletak pada sebelah timur laut pulau atau berdekatan dengan pelabuhan nelayan.&nbsp; Kondisi stasiun 3 dan 4 hampir sama dengan kondisi pada stasiun 1. Kecerahan (jarak pandang)&nbsp; pada stasiun 3 dan 4 berkisar 1,5 m. Letak posisi koordinat stasiun pengamatan disajikan pada Tabel 5. pada stasiun 3 dan 4 banyak di temukan makroalgae (<em>Sargasum </em>sp. dan <em>Padina gymnospora</em>), <em>Anemon, Tridacna </em>(kimia),<em> Ascidians (Didemnum molle).&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </em></p>
+<p style="text-align: justify;">
+	&nbsp;</p>
+<p style="text-align: justify;">
+	Tabel 5Posisi stasiun pengamatan</p>
+<p style="text-align: justify;">
+	&nbsp;</p>
+<table align="center" border="0" cellpadding="0" cellspacing="0" style="width:99.98%;" width="99%">
+	<thead>
+		<tr>
+			<th style="width:6.42%;">
+				<p style="text-align: justify;">
+					No</p>
+			</th>
+			<th style="width:23.88%;">
+				<p style="text-align: justify;">
+					Stasiun</p>
+			</th>
+			<th style="width:32.2%;">
+				<p style="text-align: justify;">
+					Koordinat</p>
+			</th>
+			<th style="width:37.5%;">
+				<p style="text-align: justify;">
+					Lokasi</p>
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td style="width:6.42%;">
+				<p style="text-align: justify;">
+					1.</p>
+			</td>
+			<td style="width:23.88%;">
+				<p style="text-align: justify;">
+					Stasiun 1</p>
+			</td>
+			<td style="width:32.2%;">
+				<p style="text-align: justify;">
+					S 03&deg;24&rsquo;37,61&rdquo;</p>
+				<p style="text-align: justify;">
+					E 107&deg;57&rsquo;28,30&rdquo;</p>
+			</td>
+			<td style="width:37.5%;">
+				<p style="text-align: justify;">
+					Utara Pulau Ketapang</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:6.42%;">
+				<p style="text-align: justify;">
+					2.</p>
+			</td>
+			<td style="width:23.88%;">
+				<p style="text-align: justify;">
+					Stasiun 2</p>
+			</td>
+			<td style="width:32.2%;">
+				<p style="text-align: justify;">
+					S 03&deg;24&rsquo;48,14&rdquo;</p>
+				<p style="text-align: justify;">
+					E 107&deg;57&rsquo;29,12&rdquo;</p>
+			</td>
+			<td style="width:37.5%;">
+				<p style="text-align: justify;">
+					Barat Pulau Ketapang</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:6.42%;">
+		</div></p>
+
+<hr>
+
+<h2><a id="snh">Sumberdaya Non Hayati</a></h2>
+<p><div class="readmore"><p>
+	Tidak Terdapat Sumberdaya non hayati di Pulau Ketapang</p>
+</div></p>
+
+<hr>
+
+<h2><a id="aps">Aktivitas Pengelolaan Sumberdaya</a></h2>
+<p><div class="readmore"><p style="text-align: justify;">
+	<span style="font-size:14px;"><strong>Perikanan</strong></span></p>
+<h3 style="text-align: justify;">
+	a. Perikanan Tangkap</h3>
+<p style="text-align: justify;">
+	Perikanan tangkap merupakan satu-satunya aktifitas penelolaan sumberdaya di Pulau Ketapang. Produksi atau hasil tangkapan nelayan per hari umumnya berkisar 300-500 kg/ hari, nelayan mayang melaut setiap hari kurang lebih 12 jam, dan dalam sebulan kira-kira melaut 15 hari jika cuaca bagus, dan jumlah kapal yang aktif melaut saat ini sebanyak 12 kapal. Dari angka tersebut, jika diperkirakan nelayan dalam satu tahun melaut sebanyak 200 hari, maka total produksi nelayan di pulau ketapang adalah 500 kg x 200 hari x 12 kapal = 1200000 kg atau mencapai 1200 ton per tahun.</p>
+<p style="text-align: justify;">
+	Produksi perikanan tangkap ini hanya berada di perairan umum saja, tidak ada aktifitas produksi perikanan darat. Hal ini karena Pulau Ketapang tidak memiliki perairan darat, pulau ini hanya memiliki semacam telaga air payau, tetapi di dalam payau tersebut tidak memiliki potensi porikanan dan dikelola untuk perikanan tangkap.</p>
+<h3 style="text-align: justify;">
+	b. Pengolahan Hasil Perikanan</h3>
+<p style="text-align: justify;">
+	Secara umum, tidak ada aktifitas pengolahan hasil perikanan, karena nelayan pada umumnya menjual ikan hasil tangkapannya dalam keadaan segar (di es). Tetapi, untuk beberapa nelayan ada yang melakukan pengolahan hasil perikanan, yaitu dengan dikeringkan (Gambar 52). Biasanya ikan ini dikeringkat karena tidak lakunya ikan segar yang nelayan jual dan atau untuk persiapan menghadi musim gelombang besar (musim tidak melaut).</p>
+<h2 style="text-align: justify;">
+	a. Pertanian</h2>
+<p style="text-align: justify;">
+	Secara spesifik, tidak ada pengelolaan sumberdaya terkait dengan pertanian. Masyarakat tidak melakukan aktifitas pertanian secara intensif. Masyarakat hanya melakukan kegiatan pertanian pada skala sangat kecil dan rumah tangga, yaitu dengan menanam sayur-sayuran dan umbi-umbian di sekitar rumah mereka (Gambar 53).</p>
+<p style="text-align: justify;">
+	&nbsp;</p>
+<h2 style="text-align: justify;">
+	b. Perkebunan</h2>
+<p style="text-align: justify;">
+	Perkebunan merupakan salah satu sumber penghidupan ke dua masyarakat Pulau Ketapang selain nelayan. Berkebun adalah kegiatan yang sudah lama ada, bahkan banyak pohon yang usianya sudah tau dan kurang produktif. Tanaman yang ditanam di dalam perkebunan di antaranya adalah pohon kelapa dan pohon pisang, serta ketela pohon yang ditanam disela-sela pohon-pohon kelapa dan pohon pisang (Gambar 54).</p>
+<h2 style="text-align: justify;">
+	C. Peternakan</h2>
+<p style="text-align: justify;">
+	Usaha peternakan di Pulau Ketapang tidak ada yang secara intensif. Masyarakat beternak hanya sebagai usaha sampingan dan kebutuhan sehari-hari. Hewan ternak yang diusahakan oleh masyarakat di antararanya adalah ayam dan bebek (Gambar 55).</p>
+<p>
+	&nbsp;</p>
+</div></p>
+
+<hr>
+
+<h2><a id="ling">Lingkungan</a></h2>
+<p><div class="readmore"><p style="text-align: justify;">
+	Di Pulau Ketapang, permasalahan lingkungan yang paling besar terhadap lingkungan adalah limbah rumah tangga dan sampah rumah tangga. Hal ini karena tidak adanya pengolahan limbah dan sanitasi yang baik, sedangkan untuk sampah, masyarakat hanya mengumpulkannya di suatu tempat dan cukup membakarnya sampai habis.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="sp">Sarana dan Prasarana</a></h2>
+<p><div class="readmore"><p style="text-align: justify;">
+	Pulau Ketapang memiliki beberapa sarana dan prasarana pendukung. Beberapa sarana-prasarana yang ada meliputi sarana transportasi, sarana penerangan, sarana air bersih, sarana pendidikan dan sarana peribadatan, sedangkan untuk sarana pendukung kepemerintahan, wisata, sanitasi lingkungan dan perikanan dan kelautan belum ada.</p>
+<p style="text-align: justify;">
+	&nbsp;</p>
+<p style="text-align: justify;">
+	a. Sarana Pendukung Transportasi</p>
+<p style="text-align: justify;">
+	Beberapa sarana pendukung transportasi yang ada di Pulau Ketapang adalah pelabuhan yang terbuat dari kayu. Pelabuhan tersebut dibangun pada tahun 2013 dari dana APBD, tetapi sayangnya pelabuhan tersebut tidak dapat dimanfaatkan dengan baik karena berada di perairan yang dangkal, sehingga kapal tidak bisa tambat. Sebenarnya, selain dari kayu pelabuhan tersebut terdapat sambungan yang terbuat dari pelampung plastik, tetapi saat ini tidak bisa digunakan karena rusak dihantam gelombang.</p>
+<p style="text-align: justify;">
+	b. Sarana Pendukung Penerangan</p>
+<p style="text-align: justify;">
+	Sarana pendukung penerangan masyarakat secara terpadu belum ada (PLN). Sarana penerangan yang digunakan adalah pembangkit listrik tenaga matahari yang ada di setiap rumah mas c. Sarana Air Bersih</p>
+<p style="text-align: justify;">
+	Di Pulau Ketapang, selain sumur terdapat juga sarana air bersih desalinasi air aut. Sesalinasi ini merupakan bantuan dari Kementerian Kelautan dan Perikanan pada tahun 2012, tetapi sayangnya sarana tersebut saat ini sudah tidak bisa digunakan, menurut masyarakat hanya digunakan selama sembilan bulan. Sebenarnya, jika dapat digunakan dengan baik maka desalinasi di Pulau Ketapang dapat memproduksi sebanyak 200 l/harinya.</p>
+<p style="text-align: justify;">
+	&nbsp;</p>
+<p style="text-align: justify;">
+	d. Sarana Pendukung Kesehatan</p>
+<p style="text-align: justify;">
+	Di Pulau Ketapang hanya terdapat satu sarana pendukung kesehatan, yaitu Pusat Kesehatan Desa Pulau Ketapang (Puskesdes) (Gambar 64). Puskesdes ini tidak melayani setiap hari, karena petugas kesehatan yang ada tidak selalu ada di Pulau Ketapang, sehingga hanya waktu-waktu tertentu saja, atau saat ada kejadian darurat.</p>
+<p style="text-align: justify;">
+	e. Sarana Pendukung Pendidikan</p>
+<p style="text-align: justify;">
+	Sarana pendukung pendidikan di Pulau Ketapang hanya ada pada level sekolah dasar (SD) (Gambar 65). SD hanya terdapat satu dan tidak semua kelas memiliki siswa karena terbatasnya jumlah siswa yang sekolah. Kelas yang dibuka hanya kelas 3 (8 siswa), kelas 4 (4 siswa) dan kelas 6 (7 siswa).</p>
+<p style="text-align: justify;">
+	f. Sarana Pendukung Peribadatan</p>
+<p style="text-align: justify;">
+	Sebagai pulau dengan penduduk yang beragama Islam, sarana pendukung peribadatan yang ada hanya sebuah masjid (Gambar 66). Masjid ini dibangun berdasarkan swadaya masyarakat pulau.</p>
+<p align="center">
+	&nbsp;</p>
+</div></p>
+
+<hr>
+
+<h2><a id="pi">Peluang Investasi</a></h2>
+<p><div class="readmore"><p style="text-align: justify;">
+	<strong>PELUANG INVESTASI</strong></p>
+<p style="text-align: justify;">
+	Di Pulau Ketapang, belum terdapat investasi yang berkembang, bahkan kegiatan promosi terkait dengan potensi pulau belum ada. Disenyalir ini karena letak Pulau Ketapang yang cukup jauh, sehingga profil pulau ini tidak terpublikasi. Beberapa peluang investasi yang dapat dikembangkat di pulau ini adalah investasi perikanan tangkap dan ekowisata.</p>
+<p style="text-align: justify;">
+	Perikanan tangkap memiliki peluang karena besarnya potensi perikanan dan tingginya ketergantungan masyarakat terhadap sumberdaya perikanan. Bentuk inivestasi di perikanan tangkap dapat berupa penguatan modal, pengadaan kapal tangkap, pengadaan rumpon, pembangunan pabrik es, penyaluran bahan bakar minyak, dan lain-lain. Sedangkan untuk peluang investasi di sektor ekowisata, investasi yang dapat dibangun ada menjadikan Pulau Ketapang menjadi destinasi wisata, membangun penginapan, membangun rumah makan, travel, dan lain-lain.</p>
+<p style="text-align: justify;">
+	Tetapi, di dalam pengembangan investasi-investasi tersebut, pulau ini memiliki permasalahan kurangnya sarana prasarana pendukung, sehingga untuk pengembangannya akan membutuhkan biaya yang besar. Selain itu, kurangnya lokasi yang terpencil membuat distribusi barang dan jasa saat ini masih mengalami kesulitan.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="pap">Potensi dan Arahan Pengembangan</a></h2>
+<p><div class="readmore"><h2>
+	Potensi Pengembangan Pulau</h2>
+<p style="text-align: justify;">
+	Pengembangan Pulau Ketapang sangat berpotensi untuk dikembangkan sebagai kawasan perikanan tangkap, ekowisata dan konservasi. Tetapi di dalam pengembangannya promosi dan pembangunan infrastruktur perlu dikembangkan, hal ini agar investasi dapat masuk dan <em>multiplayer efect</em> dapat terjad, sehingga masyarakat Pulau Ketapang tidak hanya bergantung pada satu sektor saja.</p>
+<p>
+	&nbsp;</p>
+<p>
+	&nbsp;</p>
+</div></p>
+
+<hr>
+
+<h2><a id="kp">Kendala Pengembangan</a></h2>
+<p><div class="readmore"><p style="text-align: justify;">
+	Adapun kendala di dalam pengembangan Pulau Ketapang, Belitung Timur di antaranya:</p>
+<p style="margin-left: 18pt; text-align: justify;">
+	1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Aksesibilitas yang sulit dijangkau dan tidak mendukung</p>
+<p style="margin-left: 18pt; text-align: justify;">
+	Aksesibilitas sangat penting terkait distribusi barang dan jasa. Selama ini akses menuju dan dari Pulau Ketapang sangat bergantung pada kapal nelayan yang kebetulan menuju daratan utama. Adanya aksesibilitas yang maka akan membongkar keterisolasian dan insularitas pulau yang menjadi sifat alami pulau kecil.</p>
+<p style="margin-left: 18pt; text-align: justify;">
+	2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ketergantungan masyarakat terhadap perikanan tangkap</p>
+<p style="margin-left: 18pt; text-align: justify;">
+	Masyarakat Pulau Ketapang yang merupakan nelayan hanya memiliki sumber penghidupan perikanan tangkap saja. Saat cuaca buruk, nelayan tidak memiliki sumber penghidupan lain yang nilainya setara dengan menangkap ikan. Untuk itu, alternatif sumber penghidupan harus dicari, di antaranya dari sektor perkebunan, peternakan, dan atau wisata, sehingga kegiatan eksploitasi sumberdaya yang dilindungi seperti penyu juga akan berhenti.</p>
+<p style="margin-left: 18pt; text-align: justify;">
+	3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Status kepemilikan lahan yang tidak jelas</p>
+<p style="margin-left: 18pt; text-align: justify;">
+	Status lahan merupakan hal yang sangat penting, hal ini karena terkait dengan status hukum. Untuk saat ini, kondisi ini masih belum menjadi masalah, karena masyarakat dijinkan sepenuhnya memanfaatkan lahan di pulau, baik untuk pemukiman dan perkebunan. Tetapi, jika suatu saat Pulau Ketapang menjanjikan kesejahteraan dan peluang ekonomi yang besar, maka konflik terkait status lahan ini akan terjadi.</p>
+<p style="margin-left: 18pt; text-align: justify;">
+	4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Tingkat SDM masyarakat yang masih rendah</p>
+<p style="margin-left: 18pt; text-align: justify;">
+	Secara umum, tingkat pendidikan masyarakat di Pulau Ketapang sangat rendah, dengan rata-rata pendidikan sekolah dasar. Ini sangat terkait dengan adanya sarana prasarana pendidikan yang tidak mendukung. Selain pendidikan formal, pendidikan non formal masyarakat juga rendah, masyarakat sangat jarang mendapatkan sentuhan peningkatan kapasitas baik berupa pelatihan, <em>workshop</em>, sosialisasi, seminar, dan lain-lain. Tingkat SDM sangat penting untuk diperhatikan karena sangat mempengaruhi pola pikir masyarakat dan penerimaan terhadap budaya dan teknologi baru yang masuk ke dalam lingkungan mereka.</p>
+<p style="margin-left: 18pt; text-align: justify;">
+	5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Kurangnya sarana prasarana pendukung</p>
+<p style="margin-left: 18pt; text-align: justify;">
+	Sarana pendukung yang sangat terbatas sangat mempengaruhi adanya investasi dan peningkatan ekonomi di pulau. Semakin baik keberadaan sarana prasarana yang ada, maka akan meningkatkan akserelasi pembangunan ekonomi di Pulau Ketapang.</p>
+<p>
+	&nbsp;</p>
+</div></p>
+
+<hr>
+
+<h2><a id="rf">Referensi</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<br />
+	<i> 
+		<p style="font-size:12px;">
+			Karena keterbatasan SDM dalam penginputan dan pengolahan data, kami mohon maaf atas ketidak lengkapan beberapa data pulau yang kami tampilkan, harap dimaklumi.
+			Berikan keritik dan saran pada kolom komentar agar kita dapat bersama menyajikan sebuah data yang cukup sempurna untuk halayak ramai yang berguna
+			demi kesejahterahan, kelestarian dan keindahan pulau-pulau kecil yang dimiliki Indonesia.<br />
+			*Jika sekiranya anda memiliki data yang cukup banyak, silakan mengirimkan file melalui email kami di <b><a>identifikasippk@gmail.com</a></b>
+			
+		</p>
+	</i>
+<br />
+
+<div id="fb_comn" class="fb-comments" data-href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_info/2309" data-width="800" data-numposts="5" data-colorscheme="light"></div>
+
+
+</div>
+</div>
+</div>
+<div id="wrapper">
+
+<div class="footer"><p>
+<!--<marquee onmouseover="this.stop()" onmouseout="this.start()" scrollamount="5" direction="right" width="798" height="14"  behavior="scroll">-->
+<a href="http://www.ppk-kp3k.kkp.go.id/" target="_blank">Direktorat Pendayagunaan Pulau-Pulau Kecil &nbsp; | &nbsp;</a>
+<a href="http://www.kp3k.kkp.go.id/" target="_blank">Ditjen Kelautan, Pesisir dan Pulau-Pulau Kecil &nbsp; | &nbsp;</a>
+<a href="http://www.kkp.go.id/" target="_blank">Kementerian Kelautan dan Perikanan</a>
+<!--</marquee>--> <br />
+Jl. Medan Merdeka Timur No. 16 Gedung Mina Bahari 3 Lantai 10, Jakarta, Indonesia <br />
+Email : identifikasippk@gmail.com <br />
+Telp &amp; Fax: (021) 3522058 <br />
+&copy; Copyright Direktorat Pendayagunaan Pulau-Pulau Kecil 2012&nbsp; <br /></p>
+</div>
+</div>
+</body>
+</html>

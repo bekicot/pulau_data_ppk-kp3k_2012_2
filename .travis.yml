@@ -1,0 +1,19 @@
+language: ruby
+rvm:
+- 2.4.1
+
+install:
+  - gem install bundler
+  - bundle install
+
+script:
+  - ruby extract_contents_csv.rb -t
+  - tar -czf result.tar.gz results
+
+deploy:
+  provider: releases
+  api_key: $GITHUB_TOKEN
+  file: result.tar.gz
+  skip_cleanup: true
+  on:
+    branch: master

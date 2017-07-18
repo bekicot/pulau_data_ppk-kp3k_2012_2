@@ -1,0 +1,658 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Pulau Siumat</title>
+
+<meta charset="utf-8"/>
+
+<meta property="fb:app_id" content="559408774147878" />
+
+
+<meta property="og:title" content="Pulau Siumat" />
+<meta property="og:url" content="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_info/992" />
+
+
+    <script type="text/javascript" src="http://ajax.microsoft.com/ajax/jquery/jquery-1.4.4.min.js">
+    </script>
+    
+    <script type="text/javascript" src="http://plugins.learningjquery.com/expander/jquery.expander.js">
+    </script>
+    
+    <script type="text/javascript">
+        $(function () {
+            $('div.readmore').expander({
+                slicePoint:200,
+                expandText: '(Baca selengkapnya)',
+                userCollapseText: '(Sembunyikan selengkapnya)'
+            });
+        });
+    </script>
+        
+	<script src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/galleria/galleria-1.2.8.min.js"></script>
+
+        <SCRIPT TYPE="text/javascript">
+            <!--
+            //Disable right click script
+            //visit http://www.rainbow.arch.scriptmania.com/scripts/
+            var message="Sorry, right-click has been disabled";
+            ///////////////////////////////////
+            function clickIE() {if (document.all) {(message);return false;}}
+            function clickNS(e) {if
+            (document.layers||(document.getElementById&&!document.all)) {
+            if (e.which==2||e.which==3) {(message);return false;}}}
+            if (document.layers)
+            {document.captureEvents(Event.MOUSEDOWN);document.onmousedown=clickNS;}
+            else{document.onmouseup=clickNS;document.oncontextmenu=clickIE;}
+            document.oncontextmenu=new Function("return false")
+            // -->
+            </SCRIPT>
+            
+            <SCRIPT TYPE="text/javascript">
+            <!--
+            //Disable select-text script (IE4+, NS6+)
+            //visit http://www.rainbow.arch.scriptmania.com/scripts/
+            ///////////////////////////////////
+            function disableselect(e){
+            return false
+            }
+            function reEnable(){
+            return true
+            }
+            //if IE4+
+            document.onselectstart=new Function ("return false")
+            //if NS6
+            if (window.sidebar){
+            document.onmousedown=disableselect
+            document.onclick=reEnable
+            }
+            // -->
+            </SCRIPT>  
+              
+<link rel="stylesheet" type="text/css" href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/css/main.css" media="screen"/>
+<style type='text/css'>
+#info_wrap{
+	width:820px;
+	margin:0 auto;
+	text-shadow:0px 1px 1px #09F;
+}
+table{
+	color:#000000;
+}
+h1{
+	color:#000000;
+}
+.tengahin{
+	width: 105px;
+	height: 30px;
+	margin: 0 auto auto auto;
+}
+#box_view{
+	background-image:-webkit-gradient(linear, 0 0%, 0 100%, from(#FFFFFF), to(#E0F0F5));
+	background:#FFF;
+	color:#F60;
+	border: 1px solid #fff;
+	border-radius: 4px 4px 4px 4px;
+	box-shadow: 0 8px 6px -6px black;
+	position:fixed;
+	right:0;
+	top:150px;;
+	width:80px;
+	z-index:10;
+	padding-left:12px;
+	font-size:10px;
+	}
+#box_view li{
+	color:#F60;
+	margin-left:-30px;
+	}
+	#wrapper a b {
+	color: #FFF;
+	font-size:14px;
+}
+.batas{
+	float:left;
+	border-right-style:inset;
+	border-right-width:thin;
+	}
+.text_h_wrap{
+	
+	padding-left:450px;
+	padding-top:39px;
+	text-shadow:0px 1px 1px #09F;
+	}
+#wrapper .footer p{
+	font-size:12px;
+	color: #FFF;
+	text-align:center;
+	text-shadow:0px 1px 1px #09F;
+}
+td,th {
+	font-size: 12px;
+}
+
+marquee a{
+	color:#FFF
+	}
+#wrapper .footer a{
+	color: #FFFFFF;
+}
+</style>
+            
+<script>
+function goBack()
+  {
+  window.history.back()
+  }
+</script>
+<script type="text/javascript">
+function Popup( url, height, width )
+{
+    var windowProperties = "toolbar = 0, scrollbars = 1, location = 0, statusbar = 0, menubar = 0, resizable = 1, width = " + width + ", height = " + height + ", left = 50, top = 50";
+ 
+    return window.open( url, "", windowProperties );
+}
+</script>
+
+
+
+</head>
+<body oncontextmenu='return false;' onkeydown='return false;' onmousedown='return false;'>
+
+<a id="top_view"></a>
+<div id="wrapper">
+<div class="header_wrap">
+<div class="text_h_wrap">
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/home_page'><b>&nbsp;Home&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/menu_info/1'><b>&nbsp;About Us&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_data'><b>&nbsp;Direktori Pulau&nbsp;&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/program_ip'><b>&nbsp;IKU&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/data_ppkt'><b>&nbsp;PPKT&nbsp;</b></a>
+</div>
+<!--<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/maintenance'><b>&nbsp;Login&nbsp;</b></a>-->
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/dir_log_cont'><b>&nbsp;Login&nbsp;</b></a>
+
+</div>
+</div>
+</div>
+
+<div id="fb-root"></div>
+<script>
+  window.fbAsyncInit = function() {
+    // init the FB JS SDK
+    FB.init({
+      appId      : '559408774147878',                        // App ID from the app dashboard
+      status     : true,                                 // Check Facebook Login status
+      xfbml      : true                                  // Look for social plugins on the page
+    });
+
+    // Additional initialization code such as adding Event Listeners goes here
+  };
+
+  // Load the SDK asynchronously
+  (function(){
+     // If we've already installed the SDK, we're done
+     if (document.getElementById('facebook-jssdk')) {return;}
+
+     // Get the first script element, which we'll use to find the parent node
+     var firstScriptElement = document.getElementsByTagName('script')[0];
+
+     // Create a new script element and set its id
+     var facebookJS = document.createElement('script'); 
+     facebookJS.id = 'facebook-jssdk';
+
+     // Set the new script's source to the source of the Facebook JS SDK
+     facebookJS.src = '//connect.facebook.net/en_US/all.js';
+
+     // Insert the Facebook JS SDK into the DOM
+     firstScriptElement.parentNode.insertBefore(facebookJS, firstScriptElement);
+   }());
+</script>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=559408774147878";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="box_view">
+    <a href="#top_view">MENU</a>
+    <h3><p>Lihat Informasi:</p></h3>
+    <ul>
+	<a href="#sf"><li>Slide Foto</li></a>
+    <a href="#gu"><li>Gambaran Umum</li></a>
+    <a href="#ksbk"><li>Kependudukan, Sosial Budaya dan Kelembagaan</li></a>
+    <a href="#eshp"><li>Ekosistem dan Sumberdaya Hayati</li></a>
+    <a href="#snh"><li>Sumberdaya Non Hayati</li></a>
+    <a href="#aps"><li>Aktivitas Pengelolaan Sumberdaya</li></a>
+    <a href="#ling"><li>Lingkungan</li></a>
+    <a href="#sp"><li>Sarana dan Prasarana</li></a>
+    <a href="#pi"><li>Peluang Investasi</li></a>
+    <a href="#pap"><li>Potensi Arahan Pengembangan</li></a>
+    <a href="#kp"><li>Kendala Pengembangan</li></a>
+	<a href="#rf"><li>Referensi</li></a>
+    </ul>
+    <a href="#fb_comn">KOMENTAR</a>
+</div>
+
+<br>
+			<a id="sf"></a></h2>
+			<div id="galleria">
+            <!--<div class='tengahin'><input type="button" value="Kembali Ke List" onclick="goBack()"></div>-->
+                            </div>
+            
+            <script>
+            Galleria.loadTheme('http://www.ppk-kp3k.kkp.go.id/direktori-pulau/galleria/themes/classic/galleria.classic.min.js');
+            Galleria.run('#galleria');
+            </script>
+</div>
+
+<div id="text_warp">
+
+
+<p><h1>Siumat</h1></p>
+<table>
+<tr>
+	<td>Nama Lain</td> <td>:</td> <td></td>
+</tr>
+<tr>
+	<td>Propinsi</td> <td>:</td> <td>ACEH</td>
+</tr>
+<tr>
+	<td>Kabupaten</td> <td>:</td> <td>KABUPATEN SIMEULUE</td>
+</tr>
+<tr>
+	<td>Kecamatan</td> <td>:</td> <td></td>
+</tr>
+<tr>
+	<td>Koordinat</td> <td>:</td> <td><a href="http://www.ppk-kp3k.kkp.go.id/giskkp/index.html?extent="target="_blank">2° 39' 2.000” LU 96° 22' 30.000” BT</a></td>
+</tr>
+</table>
+<hr>
+
+<h2><a id="gu">Gambaran Umum</a></h2>
+<p><div class="readmore"><p style="text-align: justify;">
+	<strong>Kondisi Umum Pulau</strong></p>
+<p style="margin-left: 0.25in; text-align: justify;">
+	Pulau Siumat secara administratif berada di wilayah Kecamatan Simeulue Timur, Kabupaten Simeulue, Provinsi Aceh. Secara geografis berada pada koordinat 2&deg;39&#39; 2,000&quot; LU dan 96&deg;22&#39; 30.000&quot; BT. &nbsp;Pulau ini indah dengan vegetasi pantai yang bervariasi dan hutan yang lebat memenuhi seluruh permukaan pulau. Belum terlalu banyak pemukiman warga. Konsentrasi pemukiman terdapat pada sisi selatan pulau tepat ditengah jika di tarik garis dari ujung titik barat dan timur pulau.</p>
+<p style="margin-left: 0.25in; text-align: justify;">
+	<strong>Status Kawasan</strong></p>
+<p style="margin-left: 0.25in; text-align: justify;">
+	Dasar hukum penetapan perairan Pulau Pinang, Siumat, dan Simanaha (Pisisi) sebagai Kawasan Konservasi Laut Daerah (KKLD) adalah SK Bupati Simuelue No. 523.1/104/SK/2006 yang dikeluarkan pada tanggal 9 April 2006. KKLD tersebut diarahkan untuk daerah perlindungan laut dan taman wisata laut/bahari. Adapun misi penetapan KKLD ini adalah sebagai daerah pelestarian, wisata, pendidikan/penelitian, dan kegiatan ekonomi masyarakat, setelah tahap pencadangan, telah banyak upaya pengelolaan Kawasan Konservasi PiSiSi yang telah dilaksanakan meliputi beberapa aspek kegiatan yang terdiri dari:</p>
+<ol style="list-style-type:lower-alpha;">
+	<li style="text-align: justify;">
+		Penataan kawasan</li>
+</ol>
+<p style="margin-left: 0.5in; text-align: justify;">
+	Penataan kawasan PiSiSi berdasarkan pertimbangan koordinat titik batas wilayah konservasi yang dicantumkan dalam SK pencadangan tahun 2006 tidak akurat, dimana koordinat yang tertulis tidak sama dengan yang ditampilkan pada peta. Sehingga dilakukan croschek tata batas setelah dianalisis ulang.</p>
+<ol style="list-style-type:lower-alpha;">
+	<li style="text-align: justify;" value="2">
+		Pengembangan penelitian</li>
+</ol>
+<p style="margin-left: 0.5in; text-align: justify;">
+	Pengembangan peelitian yang telah dilakukan meliputi monitoring terumbu karang dan survei lokasi peneluran (SPAGS=Spawning</p>
+<p style="margin-left: 0.5in; text-align: justify;">
+	Aggregation Sites) lobster dan kerapu.</p>
+<ol style="list-style-type:lower-alpha;">
+	<li style="text-align: justify;" value="3">
+		Pengembangan kemitraan</li>
+</ol>
+<p style="margin-left: 0.5in; text-align: justify;">
+	Pengembangan kemitraan pengelolaan Kawasan Konservasi peraian juga telah dilakukan secara intensif yang melibatkan DKP Aceh, Fauna Flora International dan Yayasan Pelagis.</p>
+<ol style="list-style-type:lower-alpha;">
+	<li style="text-align: justify;" value="4">
+		Konsultasi publik dan sosialisasi</li>
+</ol>
+<p style="margin-left: 0.5in; text-align: justify;">
+	Sosialisasi kesepakatan tata batas dan zonasi PiSiSi di level masyarakat belum mendapat banyak respon positif sehingga perlu dilakukan mekanisme yang tepat untuk proses tersebut.</p>
+<ol style="list-style-type:lower-alpha;">
+	<li style="text-align: justify;" value="5">
+		Pengembangan partisipatif masyarakat.</li>
+</ol>
+<p style="margin-left: 0.5in; text-align: justify;">
+	Salah satu partisipasi masyarakat yang telah berjalan di tingkat masyarakat adalah pembentukan wilayah kelola adat masyarakat Pulau Siumat.</p>
+<ol style="list-style-type:lower-alpha;">
+	<li style="text-align: justify;" value="6">
+		Penyusunan dokumen rencana pengelolaan</li>
+	<li style="text-align: justify;" value="7">
+		Penerbitan SK Bupati tentang lembaga pengelola kawasan.</li>
+</ol>
+<p style="text-align: justify;">
+	*Data Kawasan Konservasi <a href="http://kkji.kp3k.kkp.go.id">http://kkji.kp3k.kkp.go.id</a></p>
+<p style="margin-left: 14.2pt; text-align: justify;">
+	<strong>Sejarah Nama Pulau</strong></p>
+<p style="margin-left: 14.2pt; text-align: justify;">
+	Menurut cerita penduduk Siumat, nama Siumat berasal dari kata Pelumat, yaitu suatu daerah di Aceh Selatan. Alkisah ada seseorang yang memiliki ilmu kanuragan &ldquo;Lam Borek&rdquo;, pada suatu malam menarik pulau tersebut dari atas gunung Sibao (Kuala Makmur). Siti peluwat adalah gadis yang menghuni pulau tersebut. Karena rasa ingin memiliki gadis tersebut, pulau di tarik kearah Simelue.</p>
+<p style="margin-left: 14.2pt; text-align: justify;">
+	Pulau ini telah di hun dari sebelum jaman penjajahan belanda. Penduduk aslinya berasal dari pulau Simeulue, separuh penduduk datang dari luar Aceh yaitu dari Nias.</p>
+<p style="margin-left: 14.2pt; text-align: justify;">
+	<strong>Aksesibilitas</strong></p>
+<p style="margin-left: 14.2pt; text-align: justify;">
+	Aksesbilitas menuju pulau Siumat dapat menggunakan kapal sewa yang mudah kita cari di dermaga desa sukamaju di Pulau Simeulue waktu tempuh kurang dari 2 jam. Tidak terdapat angkutan regular dari/menuju pulau Siumat dari Simeulue, jadi bagi pengunjung pulau harus menggunakan kapal nelayan sebagai alat transportasi satu-satunya. Catatan sebelum menuju/pulang dari Simeulue sebaiknya memesan tiket 1 atau 2 minggu sebelumnya karena tiket pesawat sulit didapat sebab cepat habis.</p>
+<p style="margin-left: 14.2pt; text-align: justify;">
+	Kepemilikan lahan di pulau ini adalah tanah adat yang secara turun temurun diwariskan nenek moyang terdahulu. Untuk pendatang dari luar pulau yang ingin bertempat tinggal jika tidak ada hubungan keluarga dengan penduduk asli maka iya wajib membeli tanah kepada pemilik tanah yang ingin di tempati.</p>
+<p style="text-align: justify;">
+	<strong>Klimatologi</strong></p>
+<p style="margin-left: 14.2pt; text-align: justify;">
+	Pulau Siumat merupakan pulau yang termasuk kategori daerah beriklim tropika basah (<em>tropical rain</em>) dengan curah hujan rata-rata 3.246,8 mm/tahun dan rata-rata perbulan 210 mm. Suhu udara hampir sama dengan didaratan Sumatera yaitu antara 18<sup>0</sup>C - 24<sup>0</sup>C, serta kelembaban udara berkisar antara 60% - 70%. Pada bulan November-Maret, di wilayah ini biasanya terjadi musim penghujan. Sedangkan bulan Mei-Oktober akan terjadi musim kemarau</p>
+<p style="text-align: justify;">
+	<strong>Oseanografi</strong></p>
+<p style="margin-left: 14.2pt; text-align: justify;">
+	Pasang surut permukaan laut di perairan ini bersifat harian tunggal, kedudukan air tertinggi adalah 0,6 meter dan terendah 0,5 meter. Kecepatan arus maksimum permukaan pada musim barat 0,5 m/detik menuju timur sampai ke tenggara. Begitu juga pada musim timur, kecepatan maksimum 0,5 m/detik. Sementara gelombang laut pada musim timur 0,5 &ndash; 1,75 m.</p>
+<p style="text-align: justify;">
+	<strong>Hidrologi</strong></p>
+<p style="margin-left: 14.2pt; text-align: justify;">
+	Pulau Siumat yang bergenisis campuran dan lebih dominan karang membuat air yang di konsumsi penduduk terasa payau. Hanya ada beberapa sumur dan itu untuk umum dengan kedalaman sekitar 2 &ndash; 3 meter. Untuk konsumsi air bersih mereka membelinya diluar pulau atau menampung air hujan.</p>
+<p style="text-align: justify;">
+	<strong>Keadaan Fisik Pulau</strong></p>
+<p style="margin-left: 14.2pt; text-align: justify;">
+	Pulau Siumat memiliki topologi pantai yang didominasi oleh pantai berkarang, bahkan dibanyak sisi pulau terdapat tebing-tebing karang yang tinggi. Keberadaan pantai berkarang ini hampir merata mengelilingi pulau.</p>
+<p style="margin-left: 14.2pt; text-align: justify;">
+	Di pulau ini terdapat teras-teras karang yang lebar dan goa-goa karang. Teras dan goa-goa karang. Teras dan goa karang ini disinyalir terbentuk karena proses penggerusan oleh arus dan gelombang.</p>
+<p style="margin-left: 14.2pt; text-align: justify;">
+	Hal yang membedakan karakteristik pulau dengan jenis pulau teras terangkat adalah di beberapa bagian masih terdapat pantai-pantai berpasir dan campuran pasir dan karang. Umumnya, daerah pantai berpasir ini dimanfaatkan oleh masyarakat pulau untuk lokasi penambatan kapal dan pelabuhan.</p>
+<p style="margin-left: 14.2pt; text-align: justify;">
+	Tebing teras karang di Pulau Siumat terlihat jelas pada sisi barat, pada sisi utara dan selatan terdapat pantai hanya saja ombak pada sisi utara ombak lebih besar oleh karena itu dermaga di tempatkan pada sisi selatan pulau. Di sisi Timur juga terdapat ombak yg cukup besar dan cukup beresiko untuk kapal mendekat sebab terdapat beberapa karang timbul dan juga gosong.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="ksbk">Kependudukan, Sosial Budaya dan Kelembagaan</a></h2>
+<p><div class="readmore"><p style="text-align: justify;">
+	<strong>Kependudukan, </strong><strong>Sosial-Budaya, Ekonomi dan Kelembagaan</strong></p>
+<p style="margin-left: 0.25in; text-align: justify;">
+	Pulau Siumat terdiri dari 2 dusun yaitu Dusun Kawat Berduri dan Dusun Gunung Indah. Kadus Kawat Berduri adalah Amirudin dan Kadus Gunung Indah adalah Ari Unan, dengan total jumlah penduduk 292 Jiwa dari 84 Kepala Keluarga.</p>
+<p style="margin-left: 0.25in; text-align: justify;">
+	Mata pencaharian Pulau Siumat digerakan oleh sektor pertanian meliputi perkebunan dan tanaman pangan. Beberapa penduduk bermata pencaharian sebagai nelayan tangkap.</p>
+<p style="margin-left: 0.25in; text-align: justify;">
+	Mayoritas penduduk Pulau Siumat beragama islam, sebagian kecilnya beragama keristen. Hal ini terjadi karena banyak penduduk Pulau Siumat yang berasal dari Nias, Sumatera Utara. Sekitar 20 Kepala Keluarga dengan 30 jiwa yang berasal dari Nias adalah Mualaf. Kelembagaan yang ada di Pulau Siumat terbentuk dari kelompok nelayan, yaitu Kelompok Nelayan Samorita dan Kelompok Nelayan Urep Samo.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="eshp">Ekosistem dan Sumberdaya Hayati</a></h2>
+<p><div class="readmore"><p style="text-align: justify;">
+	<strong>Ekosistem dan Sumberdaya Hayati Pesisir</strong></p>
+<ol style="list-style-type:lower-alpha;">
+	<li style="text-align: justify;">
+		<strong>Terumbu Karang</strong></li>
+</ol>
+<p style="margin-left: 0.25in; text-align: justify;">
+	Kabupaten Simeulue memiliki cukup banyak pulau-pulau kecil yang memiliki potensi kelautan dan perikanan yang cukup besar. Salah satunya adalah Pulau Siumat, pulau yang memiliki potensi ikan karang maupun ikan pelagis yang cukup banyak. Dengan panjang pulau kurang lebih 5 km. Perairan sekitar pulau memiliki kecerahan yang sangat baik. Penetrasi cahaya matahari mampu menembus perairan hingga kedalaman 15-20 meter. Pulau Siumat memiliki kontur dasar perairan (formasi gosong terumbu) yang mengelilingi pulau dan cukup luas. Substrat dasar yang dominan di perairan pulau adalah pasir yang merupakan pasir putih, umumnya pasir putih menjadi daya tarik wisatawan di perairan yang jernih. Kondisi arus terpengaruh oleh kondisi oseanografi Samudera Hindia. Letak pulau juga berada diantara Pulau Simeulue dan daratan Sumatra sehingga pada musim tertentu arus akan bergerak sangat kencang melewati Pulau Siumat. Pada saat pengamatan dilakukan, kondisi arus terasa cukup kuat di bagian utara dan barat pulau.</p>
+<p style="margin-left: 0.25in; text-align: justify;">
+	<strong>Timur Pulau Siumat</strong></p>
+<p style="margin-left: 0.25in; text-align: justify;">
+	Daerah bagian timur pulau cukup berarus. Angin bertiup sedikit kencang sehingga gelombang permukaan cukup kuat. Kecerahan perairan sangat baik, dapat melihat hingga dasar perairan. Substrat dasar merupakan pasir putih dan terumbu karang yang koloni-koloni terpisah dan membentuk celah-celah. Pengamatan substrat dasar dilakukan pada kedalaman 5 meter. Jarak pandang didalam kolom perairan sangat jernih namun pengaruh gelombang yang cukup kuat mengaduk substrat pasir didasar ke kolom perairan.</p>
+<p style="margin-left: 0.25in; text-align: justify;">
+	Karang biru (<em>Heliopora</em>) merupakan dominasi karang hidup yang tumbuh pada lokasi pengamatan ini. Memiliki sebaran yang cukup luas pada bagian timur pulau. Jenis karang hidup lain ditemukan sangat sedikit dan dalam ukuran koloni yang kecil. Substrat sekitarnya merupakan pasir dan teraduk oleh gelombang yang datang namun tidak membuat perairan keruh dikarenakan pasir yang terangkat ke dalam kolom perairan akan jatuh dengan cepat ke dasar perairan.</p>
+<p style="margin-left: 0.25in; text-align: justify;">
+	Bagian timur memiliki persentase penutupan karang keras yang sangat tinggi. Penutupan mencapai 88,98% dan termasuk dalam kriteria sangat baik. Pada lokasi pengamatan ini karang keras yang mendominasi adalah karang biru (<em>Heliopora</em>) yang tumbuh cukup merata pada dasar perairan. Penutupan karang mati cukup kecil dengan penutupan sebesar 6,88%. Substrat abiotik memiliki penutupan sebesar 4,10% dan substrat biotik memiliki penutupan yang sangat kecil sebesar 0,04%.</p>
+<p style="margin-left: 0.25in; text-align: justify;">
+	<strong>Barat Pulau Siumat</strong></p>
+<p style="margin-left: 0.25in; text-align: justify;">
+	Kondisi perairan yang cukup jernih namun memiliki arus yang cukup kuat, merupakan ciri khas perariran di bagian barat Pulau Siumat. Bagian tepi daratan merupakan tebing yang cukup tinggi. Kontur perairan cukup landai dan substrat dasar yang terlihat merupakan patahan karang dan <em>sponge</em> dengan ukuran yang cukup besar. Kedalaman saat pengamatan dilakukan adalah 5 meter.</p>
+<p style="margin-left: 0.25in; text-align: justify;">
+	Penutupan &nbsp;karang hidup di bagian barat Pulau Siumat tidak terlihat pada lokasi pengamatan ini. Substrat dasar sangat dominan oleh penutupan biotik sebesar 74,35%. Kategori biotik yang cukup banyak terlihat adalah <em>Ascidian</em> dan <em>sponge</em>. Penutupan substrat karang mati mencapai 20,88% dan umumnya ditutupi oleh substrat biotik lain. Sedangkan penutupan abiotik sebesar 4,77%</p>
+<p style="margin-left: 0.25in; text-align: justify;">
+	Tidak dapat ditemukan karang hidup pada lokasi pengamatan ini, namun kehadiran <em>Ascidian</em> sangat banyak menempel pada substrat dasar karang mati. Umumnya ukuran <em>Ascidian</em> yang menempel berukuran antara 5-7 cm. Selain itu jenis biotik lain yang ditemukan adalah&nbsp; sponge dengan jenis yang umum ditemukan merupakan jenis mengerak dan beberapa jenis yang memiliki ukuran cukup besar.</p>
+<p style="margin-left: 0.25in; text-align: justify;">
+	<strong>Selatan Pulau Siumat</strong></p>
+<p style="margin-left: 0.25in; text-align: justify;">
+	Perairan bagian &nbsp;selatan pulau cukup tenang dan terletak dekat pemukiman penduduk. Substrat dasar sangat di dominasi oleh pasir. Karang hidup yang ada sangat jauh jarak antara koloni karang yang satu dengan lainnya. Lokasi pengamatan bagian selatan tidak dapat digunakan metode transek garis (LIT) dikarenakan koloni karang hidup ditemukan hanya pada satu spot koloni yang besar. Bongkahan terumbu yang sangat besar ditumbuhi oleh karang hidup. Sekeliling terumbu yang besar tersebut terhampar pasir dan tidak ditemukan keberadaan karang hidup. Kondisi karang hidup yang tumbuh pada terumbu besar yang terdapat di lokasi pengamatan cukup sedikit. Terumbu besar ini memiliki diameter kurang lebih 10 meter dengan tinggi 3 meter. Selain karang hidup, juga ditemukan biota lain seperti <em>Ascidian</em>, <em>Crinoid</em>, dan <em>sponge</em> .</p>
+<p style="margin-left: 0.25in; text-align: justify;">
+	<strong>Tingkat </strong>&nbsp;<strong>Kerusakan dan Penyebab Utama</strong></p>
+<p style="text-align: justify;">
+	Kerusakan-kerusakan terhadap ekosistem terumbu karang menyebabkan penurunan penutupan karang hidup. Kerusakan dapat disebabkan pada beberapa hal yang bersumber dari manusia dan alam.</p>
+<p style="margin-left: 0.25in; text-align: justify;">
+	<strong>Permasalahan Utama Pengelolaan Kawasan Terumbu Karang</strong></p>
+<p style="margin-left: 0.25in; text-align: justify;">
+	Kondisi ekosistem terumbu karang di Pulau Siumat masih dalam pengaruh proses pemulihan dari kejadian bencana alam tsunami pada tahun 2004. Menurut informasi, seluruh dasar perairan sekitar pulau tertutup oleh sedimen pada saat kejadian tsunami, sehingga menyebabkan kematian bagi karang. Jenis dan tutupan karang hidup di sekitar pulau masih belum merata. Kegiatan pengeboman pada yang dilakukan setelah masa kejadian tsunami juga menghambat pertumbuhan karang hidup untuk meregenerasi kembali habitatnya.</p>
+<p style="margin-left: 0.25in; text-align: justify;">
+	<strong>Status Kawasan</strong></p>
+<p style="margin-left: 0.25in; text-align: justify;">
+	Pulau Siumat dengan perairan dan wilayah pesisirnya tercantum dalam status Kawasan Konservasi Laut Daerah (KKLD) dan berada dalam zona inti KKLD tersebut.</p>
+<p style="margin-left: 0.25in; text-align: justify;">
+	<strong>Biota Asosiasi yang Ditemukan di Pulau Siumat</strong></p>
+<p style="text-align: justify;">
+	Beberapa biota asosiasi yang terdapat di Pulau Siumat</p>
+<p style="text-align: justify;">
+	<strong>b. Ikan </strong><strong>Terumbu </strong></p>
+<p style="margin-left: 0.25in; text-align: justify;">
+	Pengamatan ikan &nbsp;terumbu di pulau Siumat dilakukan di tiga sisi pulau, yaitu sisi Barat, Timur dan Selatan. Metode pengamatan ikan terumbu yang digunakan adalah <em>Underwater Visual Census</em> (UVC) dengan luas pengamatan pada satu stasiun adalah 250 m&shy;<sup>2</sup> (English et. al, 1997). Identifikasi ikan terumbu dilakukan di lapangan dan di laboratorium dengan menggunakan literature Allen, 2000 dan Kuiter, 1992.</p>
+<p style="margin-left: 0.25in; text-align: justify;">
+	Nilai indeks keanekaragaman (H&rsquo;) (Shannon and Wiener, 1949) dihitung dengan menggunakan algoritma natural (ln) untuk mengetahui kategori keaneakaragaman jenis sedangkan indeks keseragaman (E&rsquo;) dan indeks dominansi (C&rsquo;) dihitung untuk mengetahui kestabilan komunitas ikan terumbu dan dominansi pada suatu komunitas (Simpson 1949 <em>in</em> Magurran 1988). Dari ketiga titik pengamatan tersebut, sisi Selatan pulau Siumat memiliki keanekaragaman ikan terumbu kategori tinggi dengan nilai yang terhitung berada pada angka <em>H</em>&rsquo; &gt; 3. Sedangkan pada sisi Barat dan Timur berada pada kategori keanekaragaman sedang dan nilai indeks keanekaragaman yang terhitung berada pada selang 1 &lt; <em>H</em>&rsquo;&le; 3.</p>
+<p style="margin-left: 0.25in; text-align: justify;">
+	Nilai E&rsquo; dihitung guna menunjukan kestabilan suatu komunitas berdasarkan perbandingan banyaknya jumlah individu dengan jumlah jenis yang teramati. Semakin merata penyebaran jumlah individu tiap jenis maka semakin tinggi nilai yang ditunjukan indeks keseragaman. Hasil perhitungan menunjukan komunitas ikan terumbu di ketiga titik pengamatan pulau Siumat tergolong dalam kategori stabil dengan nilai yang terhitung berada pada selang 0,75 &lt; E &pound; 1,0.</p>
+<p style="text-align: justify;">
+	Nilai C&rsquo; pada ketiga titik pengamatan di pulau Siumat berada pada selang 0 &lt; C &lt; 0.5, hal tersebut menunjukan tidak terdapat dominansi suatu spesies tertentu dalam komunitas ikan terumbu. Semakin rendah nilai indeks dominansi maka akan semakin tinggi nilai indeks keseragaman yang didapatkan.</p>
+<p style="margin-left: 0.25in; text-align: justify;">
+	<strong>Barat</strong></p>
+<p style="margin-left: 0.25in; text-align: justify;">
+	Hasil pengamatan ikan terumbu di sisi Barat pulau Siumat didapatkan sebanyak 25 jenis ikan terumbu yang tergolong ke dalam 10 famili berbeda. Jumlah jenis ikan terumbu terbanyak berasal dari famili Pomacentridae dengan jumlah jenis yang teramati sebanyak 7 jenis ikan terumbu. Famili Labridae dan Acanthuridae merupakan famili dengan jumlah jenis terbanyak kedua yaitu sebanyak empat jenis ikan terumbu ditemukan di sisi Barat pulau Siumat. Untuk jumlah individu, famili Pomacentridae merupakan famili&nbsp; yang memiliki kepadatan individu terbanyak. Jumlah inidividu terbanyak berasal dari jenis <em>Chromis scotochiloptera</em> yaitu 680 ind/ha, sedangkan untuk famili dengan kepadatan kedua terbesar berasal dari famili Caesionidae jumlah individu terbanyak berasal dari jenis <em>Caesio diagrama</em> dengan jumlah individu sebanyak 1400 ind/ha. Meskipun jumlah individu ikan jenis <em>C. diagrama</em> lebih banyak dibandingkan dengan jumlah jenis ikan lainnya akan tetapi untuk famili Caesionidae hanya ditemukan dua jenis ikan sehingga kepadatan total untuk setiap famili, famili Caesionidae menempati urutan ke dua terbesar.</p>
+<p style="margin-left: 0.25in; text-align: justify;">
+	<strong>Timur</strong></p>
+<p style="margin-left: 0.25in; text-align: justify;">
+	Hasil pengamatan ikan terumbu di sisi Timur pulau Siumat didapatkan sebanyak 33 jenis ikan terumbu yang termasuk kedalam 14 jenis famili berbeda. Jenis ikan terumbu terbanyak berasal dari Acanthuridae, Chaetodontidae dan Pomacentridae dengan masing-masing jenis ikan terumbu yang ditemukan sebanyak 5 jenis. Menurut Sale (1991) Ikan Pomacentridae melimpah dikarenakan memiliki sifat yang cenderung mempertahankan wilayah terumbu karang dan mencari makan di sekitar terumbu tersebut.</p>
+<p style="margin-left: 0.25in; text-align: justify;">
+	Meskipun persentase penutupan terumbu karang di sisi Timur pulau Siumat rendah, akan tetapi banyak ditemukan ikan yang berasal dari famili Chaetodontidae. Jenis ikan tersebut merupakan jenis ikan yang memangsa hewan karang sehat, oleh karena itu ikan ini dapat dijadikan sebagai tolak ukur kesehatan terumbu karang. Hal tersebut menunjukan, kondisi terumbu karang di pulau Siumat meskipun sedikit akan tetapi kualitas kesehatannya tergolong bagus. Kepadatan ikan tertinggi berasal dari famili Caesionidae dengan jenis <em>Pterocaesio tile</em> (2560 ind/ha). Jenis ikan ini merupakan pemangsa plankton yang berada dikolom perairan. Seringkali ikan jenis ini membentuk kelompok dalam jumlah besar pada saat mencari makan di siang hari. Kontur dasar perairan di pulau Siumat yang cenderung datar dengan pola arus yang cukup kencang disisi Timur menyebabkan plankton yang terbawa arus tersebar secara merata. Oleh karena itu ikan jenis ini banyak ditemukan di sisi Timur pulau Siumat.</p>
+<p style="margin-left: 0.25in; text-align: justify;">
+	Kepadatan terbesar selanjutnya berasal dari ikan Acanthuridae atau yang lebih dikenal oleh masyarakat sekitar sebagai ikan muirai. Ikan ini merupakan ikan herbivore yang memangsa alga di perairan. Sebagian besar ikan ini memiliki tulang pada bagian ekornya yang dapat memanjang dan digunakan sebagai alat untuk bertahan dari predator ikan. Beberapa jenis ikan ini kadang kala menjadi tangkapan para nelayan masyarakat sekitar pada saat musim paceklik. Selain jenis tersebut ikan yang menjadi target para nelayan masyarakat pulau Siumat ditemukan sebanyak tujuh jenis.</p>
+<p style="text-align: justify;">
+	Kelompok ikan target sebagian besar berasal dari famili Scaridae kemudian famili Caesionidae dan Serranidae. Biomassa terbesar berasal dari ikan jenis <em>Pterocaesio tile</em> (731,29 kg/ha) kemudian disusul dengan jenis <em>Scarus rubroviolaceus</em> (138,42 kg/ha). Hasil perhitungan ini berguna untuk menduga kandungan energi pada suatu komunitas. Sedangkan biomassa terendah berasal dari jenis <em>Cephalopholis sonerrati</em> (20,37 kg/ha) dan jenis <em>Scarus niger</em> dengan biomassa yang terhitung sebesar 24,38 kg/ha.</p>
+<p style="text-align: justify;">
+	<strong>Selatan</strong></p>
+<p style="text-align: justify;">
+	Hasil pengamatan ikan terumbu di sisi Selatan pulau Siumat menunjukan terdapat 42 jenis ikan terumbu yang termasuk kedalam 16 famili berbeda. Jenis famili yang memiliki keanekaragaman jenis tertinggi berasal dari jenis Pomacentridae yaitu sebanyak 15 jenis ikan kemudian disusul dengan famili Chaetodontidae sebanyak 6 jenis dan famili Acanthuridae sebanyak 4 jenis.</p>
+<p style="text-align: justify;">
+	<em>Chromis weberi</em> dan <em>&nbsp;Dascyllus carneus</em> merupakan jenis ikan yang paling sering ditemukan untuk famili Pomacentridae. Jumlah individu yang ditemukan di sisi Selatan pulau Siumat untuk jenis <em>C. weberi</em> dan <em>D. carneus</em> sebanyak 480 ind/ha. Jenis ikan ini pada umumnya banyak dijumpai di daerah yang memiliki pertumbuhan terumbu karang&nbsp; bercabang.</p>
+<p style="text-align: justify;">
+	Keindahan ikan &nbsp;hias yang berenang secara bebeas dapat ditemukan secara langsung di sisi selatan pulau Siumat. Beberapa jenis ikan hias yang ditemukan di perairan sisi Selatan pulau Siumat adalah jenis <em>Amphiprion ocellaris</em> atau lebih dikenal dengan ikan nemo kemudian jenis <em>Pomacanthus imperator</em>. Kedua jenis ikan tersebut terlihat indah dengan warna-warni pada tubuhnya di siang hari. Sering kali jenis ikan tersebut ditemukan sepasang ketika mencari makan di perairan.</p>
+<p style="margin-left: 0.25in; text-align: justify;">
+	<strong>Ancaman Terhadap Komunitas Ikan Terumbu di Pulau Siumat&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </strong></p>
+<p style="margin-left: 0.25in; text-align: justify;">
+	Selama pengamatan komunitas ikan terumbu di pulau Siumat tidak ditemukan adanya ancaman terhadap keberlangsungan komunitas ikan terumbu. Meskipun kegiatan perikanan di pulau Siumat sangat bergantung pada kondisi cuaca, para nelayan tetap menjaga kelestarian ikan terumbu di sekitar perairan pulau Siumat.</p>
+<p style="text-align: justify;">
+	<strong>c. Vegetasi Pantai</strong></p>
+<p style="margin-left: 0.25in; text-align: justify;">
+	Pulau Siumat memiliki tipologi pantai yang didominasi oleh pantai berkarang, tetapi ada bagian kecil ada pantai berpasir. Tebing &ndash; tebing karang yang tinggi mengelilingi pulau Siumat dan bagian perairannya terdapat terumbu yang sudah mati. Pada Pulau Siumat tidak diketemukan ekosistem padang lamun dan ekosistem mangrove. Mungkin dikarenakan substrat yebing dan berpasir yang tidak stabil sehingga bukan merupakan habitat bagi ekosistem tersebut.</p>
+<p style="margin-left: 0.25in; text-align: justify;">
+	Kondisi pulau yang terletak di perairan samudra sehingga kondisi pantai bisa menyesuaikan dengan kondisi arus dan gelombang. Dibagian berarus dan gelombang besar pantai di Pulau Siumat berbentuk tebing dan bagian yang terlindung berpantai pasir. Pantai di pulau Siumat terbentuk melalui gejala tektonik yang membentuk pantai terangkat (Gambar 20).</p>
+<p style="margin-left: 0.25in; text-align: justify;">
+	Jenis pantai yang mengalami pengangkatan dan penurunan dapat ditemukan di berbagai pulau di kawasan yang saat ini berada pada jalur aktif tektonik yang menghasilkan gerak tegak, di jalur tumbukan atau penunjaman. Di darat, gejala ini terlihat di pantai yang bertutupan tumbuhan atau bentuk khusus terumbu karang yang menandai gejala ini (<em>out side stepping</em>) dan gejala erosi pantai. Adanya pengangkatan dapat terlihat dari bentuk undak teras pantai dan adanya akresi pantai sementara munculnya terumbu karang membentuk daratan merupakan tanda di bagian perairan. Di bagian terlindung di Pulau Siumat terdapat pantai berpasir dengan penghalang terumbu.Pantai berpasir hanya ada sebagian kecil di bagian timur dan utara di lekukan pesisir (Gambar 21). Pantai berpasir memiliki ciri kemiringan yang landai tersusun dengan material lepas seperti pasir, kerikil halus dan sejenisnya dapat membentuk warna dari pasir tersebut.</p>
+<p style="margin-left: 0.25in; text-align: justify;">
+	Vegetasi pantai merupakan kelompok tumbuhan yang menempati daerah intertidal mulai dari daerah pasang surut hingga daerah di bagian dalam pulau atau daratan dimana masih terdapat pengaruh laut.Vegetasi pantai yang ada di Pulau Siumat cukup homogen. Terkait dengan tipologi pantai yang bertebing dimana tanah dan air tawar sangat minim. Kondisi tersebut menjadi pembatas vegetasi yang tumbuh. Vegetasi pantai yang terdapat di Pulau Siumat diantaranya adalah ketapang laut, pandan pantai, kelapa, nanas hutan, waru, siwalan dan tanaman semak lainnya. Tanaman-tanaman tersebut termasuk kedalam tanaman daerah kering, dimana dapat tumbuh di daerah tandus dan sedikit air, bahkan untuk jenis-jenis tanaman semak tertentu dan kaktus dapat tumbuh menjalar di daerah tebing-tebing pantai (Gambar 19). Tanaman-tanaman tersebut termasuk kedalam tanaman daerah kering, dimana dapat tumbuh di daerah tandus dan sedikit air, bahkan untuk jenis-jenis tanaman semak tertentu dapat tumbuh menjalar di daerah tebing-tebing pantai. Khusus untuk tanaman kelapa dirawat untuk dipanen buahnya menjadi kopra.</p>
+<p style="margin-left: 0.25in; text-align: justify;">
+	<strong>Ancaman Terhadap Pantai dan Bentuk Adaptasi Yang Dilakukan</strong></p>
+<p style="margin-left: 0.25in; text-align: justify;">
+	Ancaman terhadap pantai yang ada di Pulau Siumat memiliki ancaman dari alam. Ancaman dari alam berupa abrasi dan erosi pantai (Gambar 20), ini terkait dengan keterpaparan pantai terhadap arus dan gelombang dari laut. Aktivitas antropogenik yang mengancam pantai tidak signifikan, pembangunan pelabuhan tepat dibangun didaerah bepasir sehingga tidak merusak ekosistem lain, sebagai penanggulangan &nbsp;ancaman abrasi dan erosi perlu dibangunnya jeti atau pemecah gelombang, untuk secara alami dengan melakukan transpalantasi karang dengan &nbsp;karang yang bertipe <em>massive</em> maupun <em>submassive</em>, karena diketahui perairan di pulau Siumat terpapar samudra sehingga arus dan gelombangnya besar.</p>
+<p style="margin-left:.25in;">
+	&nbsp;</p>
+</div></p>
+
+<hr>
+
+<h2><a id="snh">Sumberdaya Non Hayati</a></h2>
+<p><div class="readmore"><p>
+	<strong>Sumberdaya Non-Hayati Pesisir</strong></p>
+<p style="margin-left:.25in;">
+	Hingga saat ini belum ditemukan sumber daya Non-hayati pesisir seperti barang tambang dan minyak bumi di Pulau Siumat.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="aps">Aktivitas Pengelolaan Sumberdaya</a></h2>
+<p><div class="readmore"><p style="text-align: justify;">
+	<strong>Perikanan Tangkap</strong></p>
+<p style="margin-left: 14.2pt; text-align: justify;">
+	Armada tangkap berganti jenis tangkapan bergantung pada cuaca dan musim ikan yang ada di Pulau Siumat. Wilayah tangkap nelayan Pulau Siumat berjarak 5 &ndash; 100 mil yaitu terdekat di sekitar perairan Simeulue. Hasil tangkapan nelayan pancing terdiri dari kerapu, kuwe, tenggiri, kakap dan cumi-cumi. Di pulau siumat tidak ada nelayan yang menggunakan alat tangkap jaring, mereka hanya menggunakan <em>Hand Line</em>. Musim panen di Pulau Siumat biasanya saat Musim Timur, dimana arus menuju ke barat yaitu sekitar bulan januari sampai dengan april. Kapal yang digunakan ada sekitar 14 unit dengan variasi ukuran dari 0,8 GT - 1,2 GT yang warga setempat menyebutnya perahu mesin robin.</p>
+<p style="text-align: justify;">
+	<strong>Pariwisata</strong></p>
+<p style="margin-left: 0.25in; text-align: justify;">
+	Belum ada pengelolaan pada sektor pariwisata di Pulau Siumat.</p>
+<p style="text-align: justify;">
+	<strong>Aktivitas Pengelolaan Sumber Daya</strong></p>
+<p style="margin-left: 0.25in; text-align: justify;">
+	Untuk sektor pertanian adalah mata pencaharian utama yang dikerjakan penduduk Pulau Siumat. Hasil perkebunan mereka adalah cengkeh, kelapa, kakao, kopi, karet dan sisanya perkebunan campuran. Ada pula hasil peternakan pulau siumat yaitu kambing dan unggas.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="ling">Lingkungan</a></h2>
+<p><div class="readmore"><p style="text-align: justify;">
+	<strong>Kerentanan Bencana dan Upaya Mitigasi</strong></p>
+<p style="margin-left: 0.25in; text-align: justify;">
+	Pesisir Pulau Siumat bagian utara dan timur yang memiliki kerentanan terhadap erosi dan abrasi. Daerah yang rawan abrasi pantai seharusnya dibangun tanggul untuk mengurangi dampak abrasi akibat air laut.</p>
+<p style="text-align: justify;">
+	<strong>Permasalahan Lingkungan</strong></p>
+<p style="margin-left: 0.25in; text-align: justify;">
+	Pulau Siumat belum memiliki sarana pembuangan sampah dan limbah rumah tangga selama ini penduduk membuang sampah dengan cara menggali lubang di tanah untuk dibakar dan dikubur. Sedangkan limbah rumah tangga langsung dibuang ke laut. Permasalahan lingkungan yang terjadi di Pulau Giliyang adalah adanya ancaman terhadap pantai. Ancaman terhadap pantai yang ada di Pulau Siumat relatif sama dengan anacaman-ancaman yang ada di pulau kecil di Indonesia, baik dari alam maupun manusia.</p>
+<p style="text-align: justify;">
+	<strong>Kualitas Perairan</strong></p>
+<p style="text-align: justify;">
+	Pulau Siumat adalah pulau kecil yang memiliki potensi perikanan yang cukup besar. Leta geografis yang cukup strategis dimana lokasi ini merupakan migrasi ikan-ikan jenis pelagis. Pada Pulau Siumat, terdapat ekosistem pesisir yakni terumbu karang yang sangat berpotensi untuk dikembangkan. Potensi ekosistem pesisir memerlukan dukungan kualitas perairan yang baik untuk kelangsungan hidup biota-biotanya. Hasil laboratorium</p>
+<p style="margin-left: 0.25in; text-align: justify;">
+	Hasil yang diperoleh, kondisi perairan di Pulau Siumat mengalami peningkatan kandungan nutrient. Kandungan amoniak merupakan zat racun yang berasal dari buangan limbah masyarakat dan aktivitas antrophogenik lainnya di Pulau Siumat sangat tinggi yakni sebesar 0,419 - 0,621 mg/L diatas baku mutu kementerian lingkungan hidup yakni 0,3 mg/L. Kandungan Nitrat begitu pula yakni cukup tinggi dan diatas baku mutu. Sedangkan kandungan Fosat tidak begitu jauh dari ambang baku mutu, namun cukup dikategorikan tinggi.</p>
+<p style="margin-left: 0.25in; text-align: justify;">
+	Dugaan lain terhadap tingginya kandungan nutrient pada umumnya di Pulau Siumat yakni aliran tektonik dari dasar bumi dan pola arus yang tidak stabil sehingga sistem bufer laut tidak berfungsi dengan maksimal. Diketahui, pulau Siumat sering terjadi gempa,maka dari itu masa air di dasar perairan naik ke permukaan sehingga terjadilah akumulasi nutrient di permukaan perairan.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="sp">Sarana dan Prasarana</a></h2>
+<p><div class="readmore"><p style="text-align: justify;">
+	<strong>Sarana dan Prasarana</strong></p>
+<p style="text-align: justify;">
+	<strong>a. Transportasi</strong></p>
+<p style="margin-left: 0.25in; text-align: justify;">
+	Terdapat 1 unit kapal boat berukuran 12 GT yang tersedia sebagai sarana transportasi dari Sinabang/Siumat selain menumpang atau sewa perahu nelayan.</p>
+<p style="text-align: justify;">
+	<strong>b. Penerangan</strong></p>
+<p style="margin-left: 0.25in; text-align: justify;">
+	Untuk penerangan di Pulau Siumat terdapat 1 PLTS bantuan dari Kementerian ESDM, Direktorat Jenderal Energi Baru Terbarukan dan Konservasi Energi, Direktorat Aneka Energi Baru dan Energi Terbarukan Tahun Anggaran 2013. Bantuan listrik ini di alirkan ke 86 Kepala Keluarga.</p>
+<p style="text-align: justify;">
+	<strong>c. Air Bersih dan Sanitasi</strong></p>
+<p style="margin-left: 0.25in; text-align: justify;">
+	Terdapat 2 sumur umum dengan kedalaman sekitar 2 meter yang rasa air-nya payau. Penduduk untuk konsumsi air minum lebih sering membeli ke Simeulue dengan perantara nelayan secara kolektif. Tetapi mereka lebih sering mengkonsumsi air minum dengan menampung air hujan. Untuk sarana sanitasi yang ada di Pulau Siumat adalah 2 Unit MCK umum.</p>
+<p style="text-align: justify;">
+	<strong>d. Pemukiman</strong></p>
+<p style="margin-left: 0.25in; text-align: justify;">
+	Kondisi bangunan rumah warga cukup bervariasi, ada yang sudah permanen dan dalam kondisi yang cukup baik, ada pula yang hanya terbuat dari papan dengan kondisi yang memprihatinkan, tergantung dari tingkat perekonomian masing-masing warga.</p>
+<p style="text-align: justify;">
+	<strong>e. Jalan</strong></p>
+<p style="text-align: justify;">
+	Jalan setapak di Pulau Siumat berukuran lebar 2 meter dengan panjang 1 kilometer dari 8 kilometer yang sudah di buat bodi.</p>
+<p style="text-align: justify;">
+	<strong>f. Ibadah</strong></p>
+<p style="margin-left: 0.25in; text-align: justify;">
+	Untuk sarana peribadatan terdapat 1 Mesjid yaitu Masjid Misbahul Jannah.</p>
+<p style="text-align: justify;">
+	<strong>g. Sarana Telekomunikasi</strong></p>
+<p style="margin-left: 0.25in; text-align: justify;">
+	Sarana Telekomunikasi yang terdapat di Pulau Siumat cukup baik karena letak pulau yang dekat dengan daratan Kabupaten Simeulue. Penduduk Siumat menggunakan Telepon Seluler sebagai alat komunikasi dengan lingkungan diluar pulau. Walau tidak terdapat BTS di pulau ini, sinyal masih bisa didapat pada pesisir atau lahan kosong yang ada di tengah pulau.</p>
+<p style="text-align: justify;">
+	<strong>h. Pendidikan</strong></p>
+<p style="margin-left: 0.25in; text-align: justify;">
+	Sarana pendidikan yang ada di Pulau Siumat terdapat 1 Sekolah Dasar Negeri 22 Simeulue Timur dan Sekolah Menengah Pertama Swasta Satu Atap.</p>
+<p style="text-align: justify;">
+	<strong>i. Kesehatan</strong></p>
+<p style="text-align: justify;">
+	Sarana kesehatan yang terdapat di Pulau Siumat adalah 1 buah &nbsp;Puskesmas Pembantu</p>
+<p style="text-align: justify;">
+	<strong>j. Sarana Pendukung Pemerintahan</strong></p>
+<p style="margin-left: 0.25in; text-align: justify;">
+	Belum ada kantor desa di Pulau Siumat, Kegiatan Pemerintahan di desa dilaksanakan di rumah Kepala Desa yang sederhana.</p>
+<p style="text-align: justify;">
+	<strong>k. Sarana Jual Beli</strong></p>
+<p style="margin-left: 0.25in; text-align: justify;">
+	Terdapat beberapa toko kelotong yang sederhana uang menjual kebutuhan sehari-hari hingga kebutuhan pertukangan yang cukup lengkap, seperti makanan pokok, sayuran, kosmetik, minyak tanah, jajanan ringan, alat tulis, alat-alat pertukangan, keperluan menangkap ikan dll. Barang-barang yang dijual di warung-warung tersebut dibeli pedagang dari daratan Simeulue.</p>
+<p>
+	&nbsp;</p>
+</div></p>
+
+<hr>
+
+<h2><a id="pi">Peluang Investasi</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<h2><a id="pap">Potensi dan Arahan Pengembangan</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<h2><a id="kp">Kendala Pengembangan</a></h2>
+<p><div class="readmore"><p style="text-align: justify;">
+	<strong>Kendala Pengembangan Pulau</strong></p>
+<p style="margin-left: 0.25in; text-align: justify;">
+	Kendala yang dihadapi masyarakat Pulau Siumat</p>
+<ol style="list-style-type:lower-alpha;">
+	<li style="text-align: justify;">
+		Permasalahan Air Bersih</li>
+</ol>
+<p style="margin-left: 0.25in; text-align: justify;">
+	Untuk kebutuhan rumah tangga dan saat mengerjakan bangunan, warga Pulau Siumat, Kecamatan Simeulue Timur, terpaksa mengeluarkan biaya, untuk membeli air bersih di Pulau Siumat, perdrum dibanderol Rp25.000. Sementara Pulau Siumat, yang dihuni 86 Kepala Keluarga, atau 292 jiwa, dengan geografis struktur permukaan hampir 100 persen, permukaan tanah, didominasi batu cadas dan kerikil. Dan sangat sulit menemukan sumber mata air serta tidak ditemukannya aliran sungai.Sedang sumber air bersih, hanya ditemukan disalah satu sumur tua, yang telah berusia puluhan tahun, tepatnya di Pelabuhan Pulau Siumat, hanya terpaut 10 meter dari bibir pantai laut, yang dikelilingi batu cadas berwarna hitam. Dan air bersih yang dihasilkan sumur tua tersebut, Telah tercemar air laut. Persoalan air bersih di Pulau Siumat, telah menjadi perhatian serius sejak definitifnya Kabupaten Simeulue, namun sejumlah program Pemkab dan sejumlah NGO, untuk mengatasi air bersih, namun mengalami kegagalan, seperti pengadaan bak penampung air bersih, namun tidak berfungsi, karena sumber mata air tidak tersedia, selain hanya mengharapkan hujan turun.</p>
+<ol style="list-style-type:lower-alpha;">
+	<li style="text-align: justify;" value="2">
+		Keterbatasan sarana transportasi menuju daratan</li>
+</ol>
+<p style="margin-left: 0.25in; text-align: justify;">
+	Terbatasnya sarana transportasi sangat berpengaruh ketika terdapat kondisi darurat pada penduduk yang sakit berat terutama ketika laut sedang dalam cuaca buruk. Jaraknya yang cukup memakan waktu menuju daratan dapat mengakibatkan kondisi darurat tidak cepat ditanggapi. Keterbatasan sarana transportasi ini juga menjadikan pengunjung pulau sulit untuk mengunjungi Siumat secara reguler.</p>
+<ol style="list-style-type:lower-alpha;">
+	<li style="text-align: justify;" value="3">
+		Tidak ada nya sarana penunjang pariwisata</li>
+</ol>
+<p style="margin-left: 0.25in; text-align: justify;">
+	Pulau Siumat yang memiliki keindahan alam itu, tidak memiliki sarana penunjang pariwisata seperti penginapan, pondokan untuk istirahat, serta penanda daerah wisata. Keindahan alam yang dimiliki pulau Siumat belum dikelola dengan baik oleh pemkab Simeulue dan penduduk. Jika Pulau Siumat sudah tertata dengan baik di bidang pariwisata tentu saja dapat membuka peluang para warganya untuk mendapatkan mata pencaharian dari sektor pariwisata.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="rf">Referensi</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<br />
+	<i> 
+		<p style="font-size:12px;">
+			Karena keterbatasan SDM dalam penginputan dan pengolahan data, kami mohon maaf atas ketidak lengkapan beberapa data pulau yang kami tampilkan, harap dimaklumi.
+			Berikan keritik dan saran pada kolom komentar agar kita dapat bersama menyajikan sebuah data yang cukup sempurna untuk halayak ramai yang berguna
+			demi kesejahterahan, kelestarian dan keindahan pulau-pulau kecil yang dimiliki Indonesia.<br />
+			*Jika sekiranya anda memiliki data yang cukup banyak, silakan mengirimkan file melalui email kami di <b><a>identifikasippk@gmail.com</a></b>
+			
+		</p>
+	</i>
+<br />
+
+<div id="fb_comn" class="fb-comments" data-href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_info/992" data-width="800" data-numposts="5" data-colorscheme="light"></div>
+
+
+</div>
+</div>
+</div>
+<div id="wrapper">
+
+<div class="footer"><p>
+<!--<marquee onmouseover="this.stop()" onmouseout="this.start()" scrollamount="5" direction="right" width="798" height="14"  behavior="scroll">-->
+<a href="http://www.ppk-kp3k.kkp.go.id/" target="_blank">Direktorat Pendayagunaan Pulau-Pulau Kecil &nbsp; | &nbsp;</a>
+<a href="http://www.kp3k.kkp.go.id/" target="_blank">Ditjen Kelautan, Pesisir dan Pulau-Pulau Kecil &nbsp; | &nbsp;</a>
+<a href="http://www.kkp.go.id/" target="_blank">Kementerian Kelautan dan Perikanan</a>
+<!--</marquee>--> <br />
+Jl. Medan Merdeka Timur No. 16 Gedung Mina Bahari 3 Lantai 10, Jakarta, Indonesia <br />
+Email : identifikasippk@gmail.com <br />
+Telp &amp; Fax: (021) 3522058 <br />
+&copy; Copyright Direktorat Pendayagunaan Pulau-Pulau Kecil 2012&nbsp; <br /></p>
+</div>
+</div>
+</body>
+</html>

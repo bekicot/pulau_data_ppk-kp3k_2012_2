@@ -1,0 +1,582 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Pulau Giliyang</title>
+
+<meta charset="utf-8"/>
+
+<meta property="fb:app_id" content="559408774147878" />
+
+
+<meta property="og:title" content="Pulau Giliyang" />
+<meta property="og:url" content="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_info/4674" />
+
+
+    <script type="text/javascript" src="http://ajax.microsoft.com/ajax/jquery/jquery-1.4.4.min.js">
+    </script>
+    
+    <script type="text/javascript" src="http://plugins.learningjquery.com/expander/jquery.expander.js">
+    </script>
+    
+    <script type="text/javascript">
+        $(function () {
+            $('div.readmore').expander({
+                slicePoint:200,
+                expandText: '(Baca selengkapnya)',
+                userCollapseText: '(Sembunyikan selengkapnya)'
+            });
+        });
+    </script>
+        
+	<script src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/galleria/galleria-1.2.8.min.js"></script>
+
+        <SCRIPT TYPE="text/javascript">
+            <!--
+            //Disable right click script
+            //visit http://www.rainbow.arch.scriptmania.com/scripts/
+            var message="Sorry, right-click has been disabled";
+            ///////////////////////////////////
+            function clickIE() {if (document.all) {(message);return false;}}
+            function clickNS(e) {if
+            (document.layers||(document.getElementById&&!document.all)) {
+            if (e.which==2||e.which==3) {(message);return false;}}}
+            if (document.layers)
+            {document.captureEvents(Event.MOUSEDOWN);document.onmousedown=clickNS;}
+            else{document.onmouseup=clickNS;document.oncontextmenu=clickIE;}
+            document.oncontextmenu=new Function("return false")
+            // -->
+            </SCRIPT>
+            
+            <SCRIPT TYPE="text/javascript">
+            <!--
+            //Disable select-text script (IE4+, NS6+)
+            //visit http://www.rainbow.arch.scriptmania.com/scripts/
+            ///////////////////////////////////
+            function disableselect(e){
+            return false
+            }
+            function reEnable(){
+            return true
+            }
+            //if IE4+
+            document.onselectstart=new Function ("return false")
+            //if NS6
+            if (window.sidebar){
+            document.onmousedown=disableselect
+            document.onclick=reEnable
+            }
+            // -->
+            </SCRIPT>  
+              
+<link rel="stylesheet" type="text/css" href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/css/main.css" media="screen"/>
+<style type='text/css'>
+#info_wrap{
+	width:820px;
+	margin:0 auto;
+	text-shadow:0px 1px 1px #09F;
+}
+table{
+	color:#000000;
+}
+h1{
+	color:#000000;
+}
+.tengahin{
+	width: 105px;
+	height: 30px;
+	margin: 0 auto auto auto;
+}
+#box_view{
+	background-image:-webkit-gradient(linear, 0 0%, 0 100%, from(#FFFFFF), to(#E0F0F5));
+	background:#FFF;
+	color:#F60;
+	border: 1px solid #fff;
+	border-radius: 4px 4px 4px 4px;
+	box-shadow: 0 8px 6px -6px black;
+	position:fixed;
+	right:0;
+	top:150px;;
+	width:80px;
+	z-index:10;
+	padding-left:12px;
+	font-size:10px;
+	}
+#box_view li{
+	color:#F60;
+	margin-left:-30px;
+	}
+	#wrapper a b {
+	color: #FFF;
+	font-size:14px;
+}
+.batas{
+	float:left;
+	border-right-style:inset;
+	border-right-width:thin;
+	}
+.text_h_wrap{
+	
+	padding-left:450px;
+	padding-top:39px;
+	text-shadow:0px 1px 1px #09F;
+	}
+#wrapper .footer p{
+	font-size:12px;
+	color: #FFF;
+	text-align:center;
+	text-shadow:0px 1px 1px #09F;
+}
+td,th {
+	font-size: 12px;
+}
+
+marquee a{
+	color:#FFF
+	}
+#wrapper .footer a{
+	color: #FFFFFF;
+}
+</style>
+            
+<script>
+function goBack()
+  {
+  window.history.back()
+  }
+</script>
+<script type="text/javascript">
+function Popup( url, height, width )
+{
+    var windowProperties = "toolbar = 0, scrollbars = 1, location = 0, statusbar = 0, menubar = 0, resizable = 1, width = " + width + ", height = " + height + ", left = 50, top = 50";
+ 
+    return window.open( url, "", windowProperties );
+}
+</script>
+
+
+
+</head>
+<body oncontextmenu='return false;' onkeydown='return false;' onmousedown='return false;'>
+
+<a id="top_view"></a>
+<div id="wrapper">
+<div class="header_wrap">
+<div class="text_h_wrap">
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/home_page'><b>&nbsp;Home&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/menu_info/1'><b>&nbsp;About Us&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_data'><b>&nbsp;Direktori Pulau&nbsp;&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/program_ip'><b>&nbsp;IKU&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/data_ppkt'><b>&nbsp;PPKT&nbsp;</b></a>
+</div>
+<!--<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/maintenance'><b>&nbsp;Login&nbsp;</b></a>-->
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/dir_log_cont'><b>&nbsp;Login&nbsp;</b></a>
+
+</div>
+</div>
+</div>
+
+<div id="fb-root"></div>
+<script>
+  window.fbAsyncInit = function() {
+    // init the FB JS SDK
+    FB.init({
+      appId      : '559408774147878',                        // App ID from the app dashboard
+      status     : true,                                 // Check Facebook Login status
+      xfbml      : true                                  // Look for social plugins on the page
+    });
+
+    // Additional initialization code such as adding Event Listeners goes here
+  };
+
+  // Load the SDK asynchronously
+  (function(){
+     // If we've already installed the SDK, we're done
+     if (document.getElementById('facebook-jssdk')) {return;}
+
+     // Get the first script element, which we'll use to find the parent node
+     var firstScriptElement = document.getElementsByTagName('script')[0];
+
+     // Create a new script element and set its id
+     var facebookJS = document.createElement('script'); 
+     facebookJS.id = 'facebook-jssdk';
+
+     // Set the new script's source to the source of the Facebook JS SDK
+     facebookJS.src = '//connect.facebook.net/en_US/all.js';
+
+     // Insert the Facebook JS SDK into the DOM
+     firstScriptElement.parentNode.insertBefore(facebookJS, firstScriptElement);
+   }());
+</script>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=559408774147878";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="box_view">
+    <a href="#top_view">MENU</a>
+    <h3><p>Lihat Informasi:</p></h3>
+    <ul>
+	<a href="#sf"><li>Slide Foto</li></a>
+    <a href="#gu"><li>Gambaran Umum</li></a>
+    <a href="#ksbk"><li>Kependudukan, Sosial Budaya dan Kelembagaan</li></a>
+    <a href="#eshp"><li>Ekosistem dan Sumberdaya Hayati</li></a>
+    <a href="#snh"><li>Sumberdaya Non Hayati</li></a>
+    <a href="#aps"><li>Aktivitas Pengelolaan Sumberdaya</li></a>
+    <a href="#ling"><li>Lingkungan</li></a>
+    <a href="#sp"><li>Sarana dan Prasarana</li></a>
+    <a href="#pi"><li>Peluang Investasi</li></a>
+    <a href="#pap"><li>Potensi Arahan Pengembangan</li></a>
+    <a href="#kp"><li>Kendala Pengembangan</li></a>
+	<a href="#rf"><li>Referensi</li></a>
+    </ul>
+    <a href="#fb_comn">KOMENTAR</a>
+</div>
+
+<br>
+			<a id="sf"></a></h2>
+			<div id="galleria">
+            <!--<div class='tengahin'><input type="button" value="Kembali Ke List" onclick="goBack()"></div>-->
+                            </div>
+            
+            <script>
+            Galleria.loadTheme('http://www.ppk-kp3k.kkp.go.id/direktori-pulau/galleria/themes/classic/galleria.classic.min.js');
+            Galleria.run('#galleria');
+            </script>
+</div>
+
+<div id="text_warp">
+
+
+<p><h1>Giliyang</h1></p>
+<table>
+<tr>
+	<td>Nama Lain</td> <td>:</td> <td></td>
+</tr>
+<tr>
+	<td>Propinsi</td> <td>:</td> <td>JAWA TIMUR</td>
+</tr>
+<tr>
+	<td>Kabupaten</td> <td>:</td> <td>KABUPATEN SUMENEP</td>
+</tr>
+<tr>
+	<td>Kecamatan</td> <td>:</td> <td>Dungkek</td>
+</tr>
+<tr>
+	<td>Koordinat</td> <td>:</td> <td><a href="http://www.ppk-kp3k.kkp.go.id/giskkp/index.html?extent=12700500.4647 -783308.9673,12718845.3515 -775846.8024"target="_blank">	6° 59' 8.961</a></td>
+</tr>
+</table>
+<hr>
+
+<h2><a id="gu">Gambaran Umum</a></h2>
+<p><div class="readmore"><p style="text-align: justify;">
+	<strong>Kondisi Umum Pulau</strong></p>
+<p style="margin-left: 0.25in; text-align: justify;">
+	Pulau Giliyang secara administratif berada wilayah Kecamatan Dungkek, Kabupaten Sumenep, Provinsi Jawa Timur. Secara geografis berada pada koordinat 06<sup>0</sup> 59&rsquo; 9&rdquo; LS dan 114<sup>0</sup> 10&rsquo; 29&rdquo; BT dengan luas 921.2 Ha. Pulau Giliyang dahulu dikenal dengan 2 nama yang berbeda yaitu Gila Iyang dan Gili Elang. Menurut penuturan penduduk setempat terdapat 2 sejarah yang berbeda mengenai asal muasal nama pulau tersebut, yang pertama adalah Gila Iyang yang artinya gila dari nenek moyang, dahulu pulau ini merupakan pulau yang dijadikan sebagai tempat pembuangan orang gila, pulau ini saat pertama ditemukan merupakan pulau yang ditempati oleh orang gila. Yang Kedua asal nama pulau ini adalah Gili Elang atau Pulo elang yang memiliki arti pulau yang hilang dalam bahasa Madura, karena pada zaman penjajahan belanda dahulu pulau ini merupakan pulau yang tidak ditemukan/ hilang sementara pulau-pulau disekitarnya telah ditemukan terlebih dahulu. Dari hasil verifikasi Tim Pembakuan Nama Rupabumi Tahun 2006 kemudian nama pulau ini dibakukan menjadi Giliyang yang telah dikenal oleh masyarakat di Sumenep.</p>
+<p style="margin-left: 0.25in; text-align: justify;">
+	Sejarah Pulau Giliyang sendiri ini pertama kali ditemukan oleh orang Mandar yang bernama Daeng Masaleh pada tahun 1926, Daeng Masaleh merupakan orang yang pertama kali membuka jalan dan membabat hutan di Pulau Giliyang. Menurut tetua di Pulau Giliyang, Daeng Masaleh tersebut datang dari Pulau Sulawesi dengan dituntun oleh Ikan Hiu hingga akhirnya menemukan daratan pulau. Daeng Masaleh pertama kali mendarat di ujung utara Pulau Giliyang namun segera berpindah ke bagian barat karena terdapat wabah kusta di lokasi tersebut, setelah berpindah ke bagian barat kemudian Daeng Masaleh menetap di bagian Timur Pulau yang sekarang dikenal sebagai wilayah Desa Bancamara hingga akhirnya berkembang pemukiman penduduk dan banyak penduduk asli madura yang pindah di pulau Giliyang.</p>
+<p style="margin-left: 0.25in; text-align: justify;">
+	Pulau Giliyang saat ini berpenduduk mayoritas dari suku madura, sedangkan suku pendatang awal seperti Mandar dan Bugis yang dahulu menempati pulau Giliyang sudah tidak ada di pulau ini. Pulau Giliyang terbagi menjadi dua desa yaitu Desa Bancamara dan Desa Banra&rsquo;as. Pulau Giliyang merupakan pulau yang cukup dikenal karena kandungan oksigennya yang cukup tinggi berdasarkan penelitian LAPAN tahun 2006 sehingga sering disebut &ldquo;pulau awet muda&rdquo; hal ini juga dibuktikan dengan banyaknya penduduk lanjut usia yang masih sehat dan bugar. Selain dikenal sebagai pulau awet muda pulau Giliyang juga dikenal sebagai penghasil teri di daerah Sumenep. Kegiatan perekonomian penduduk sangat bergantung pada Pelabuhan Dungkek sebagai tempat penjualan hasil tangkapan dan tempat kegiatan ekonomi berlangsung.</p>
+<p style="margin-left: 0.25in; text-align: justify;">
+	Aksesibilitas menuju Pulau Giliyang cukup mudah yaitu dari Pelabuhan Dungkek dengan menggunakan kapal sewaan dengan jarak yang ditempuh selama 1- 1,5 jam bergantung pada kondisi cuaca. Tidak terdapat angkutan reguler dari/menuju Pulau Giliyang, jadi pengunjung pulau harus menggunakan kapal nelayan sebagai alat transportasi satu-satunya. Kepemilikan lahan di pulau ini adalah tanah adat yang secara turun temurun diwariskan dari nenek moyang mereka yang pertama singgah di Pulau Giliyang kemudian seiring perkembangan penduduk daratan Pulau Madura banyak yang menempati pulau tersebut.</p>
+<p style="text-align: justify;">
+	<strong>Klimatologi</strong></p>
+<p style="margin-left: 0.25in; text-align: justify;">
+	Pulau Giliyang merupakan Pulau yang berada di Kabupaten Sumenep termasuk dalam kategori daerah tropis. Seperti daerah lain di Indonesia, musim hujan di Sumenep dimulai bulan Oktober hingga Maret, dan musim kemarau bulan April hingga September. Rata-rata curah hujan di Sumenep adalah 1.479&nbsp;mm. Berdasarkan data tahun 2011 Temperatur Suhu udara di Sumenep tertinggi terjadi di bulan September - Nopember (31,7&deg;C). Suhu udara relatif konsisten sepanjang tahun, dengan suhu rata-rata 30 derajat Celsius. Jumlah curah hujan terbanyak terjadi di bulan Desember. Rata-rata penyinaran matahari terlama di bulan Agustus dan terendah di bulan Februari. Sedangkan Kecepatan angin di bulan Juli merupakan yang tertinggi dan terendah di bulan Maret.</p>
+<p style="text-align: justify;">
+	<strong>Hidrologi </strong></p>
+<p style="margin-left: 0.25in; text-align: justify;">
+	Meskipun pulaunya luas dan terdapat banyak batu karang dengan penduduk yang padat air tawar di pulau ini cukup mudah didapatkan karena banyak terdapat lahan terbuka untuk perkebunan dan hutan. Hampir di setiap rumah memiliki sumur dan jaringan pipa air yang dialirkan ke beberapa rumah. Air tawar tidak akan habis meskipun saat musim kemarau tiba, hanya debit airnya berkurang dengan kedalaman sumur bervariasi antara 5-30 meter. Jumlah Air Tawar terbanyak terdapat di Desa Banraas yang terletak di bagian Utara Pulau, sedangkan setengah bagian pulau merupakan air payau. Umumnya pemukiman yang tidak memiliki sumber air tawar harus mengambil air di sumber air dan membelinya di penjual air keliling.</p>
+<p style="text-align: justify;">
+	<strong>Keadaan Fisik Pulau</strong></p>
+<p style="margin-left: 0.25in; text-align: justify;">
+	Pulau Giliyang memiliki tipologi pantai yang didominasi oleh pantai berkarang, bahkan dibanyak bagian terdapat tebing-tebing karang yang tinggi. Keberadaan pantai berkarang ini hampir merata mengelilingi pulau, dapat dikatakan lebih dari 70% wilayah pulau dikelilingi oleh pantai berkarang (Gambar 35).</p>
+<p style="margin-left: 0.25in; text-align: justify;">
+	Sepintas, kondisi pantai ini serupa dengan tipologi pulau yang berada wilayah Kepulauan Raja Ampat, dimana secara morfogenesis merupakan jenis pulau teras terangkat. Di Pulau Giliyang juga banyak terdapat teras-teras karang yang lebar dan goa-goa karang. Teras dan goa karang ini disinyalir terbentuk karena proses penggerusan oleh arus dan gelombang (Gambar 35).</p>
+<p style="margin-left: 0.25in; text-align: justify;">
+	Hal yang membedakan karakteristik pulau dengan jenis pulau teras terangkat adalah di beberapa bagian masih terdapat pantai-pantai berpasir dan campuran pasir dan karang (Gambar 36). Umumnya, daerah pantai berpasir ini dimanfaatkan oleh masyarakat pulau untuk lokasi penambatan kapal dan pelabuhan.</p>
+<p style="margin-left: 0.25in; text-align: justify;">
+	Pantai berkarang di Pulau Giliyang berada tersebar di wilayah pulau bagian barat daya, selatan, timur, dan di sebagian kecil wilayah timur laut. Sedangkan untuk pantai berpasir tersebar di wilayah pulau bagian barat, barat daya, utara, dan di sebagian wilayah timur laut. Jika melihat wilayah penyebaran jenis pantai ini, maka dapat disimpulkan bahwa bagian pulau yang terpapar gelombang dan arus yang kuat memiliki pantai berkarang, sedangkan untuk pantai yang berpasir merupakan wilayah pantai yang terlindung karena berhadapan dan dekat dengan pulau utama, yaitu Pulau Madura.</p>
+<p>
+	<br />
+	&nbsp;</p>
+</div></p>
+
+<hr>
+
+<h2><a id="ksbk">Kependudukan, Sosial Budaya dan Kelembagaan</a></h2>
+<p><div class="readmore"><p style="text-align: justify;">
+	<strong>Kependudukan</strong></p>
+<p style="text-align: justify;">
+	Pulau Giliyang terdiri dari 2 Desa yaitu Desa Bancamara dan Desa Banra&rsquo;as, dengan jumlah penduduk pulau total 9.185 jiwa dan 3.867 KK. Desa Bancamara memiliki jumlah penduduk 5.238 jiwa dan 2077 KK, sedangkan Desa Banraas memiliki jumlah penduduk yg lebih sedikit yakni 3947 jiwa dan 1790 KK. Penduduk Pulau Giliyang seluruhnya beragama islam dan berasal dari suku Madura, sudah tidak terdapat suku Mandar dan Bugis yang awalnya menempati pulau ini. Desa Bancamara dibagi menjadi 7 Dusun yaitu Dusun Bancamara Barat, Bancamara Timur, Lembena, Baniting Selatan (Laok), Baniting Daja, Peape, dan Melengan. Desa Banraas dibagi menjadi 6 Dusun yaitu Dusun Raas, Raas Timur, Bungkok, Kalompang, Baru, dan Assem.</p>
+<p style="text-align: justify;">
+	<strong>Sosial-Budaya, Ekonomi dan Kelembagaan</strong></p>
+<p style="margin-left: 35.45pt; text-align: justify;">
+	Kebudayaan masyarakat Pulau giliyang sama dengan kebudayaan di daratan Sumenep seperti adanya Petik Laut yang diadakan setahun sekali sebagai bentuk rasa syukur masyarakat pulau dan daratan Sumenep kepada sang pencipta atas hasil tangkapan yang telah diperoleh. Acara Petik Laut terdiri dari menghias kapal, pesta rakyat dan sedekah laut dengan melarung bermacam-macam sesajen ke Laut sebagai bentuk rasa syukur dan agar terhindar dari bala (kejadian buruk). Untuk kegiatan keagamaan, penduduk pulau biasa menggelar sholawatan pada hari-hari besar agama Islam dan pengajian seminggu sekali. Penduduk Giliyang merupakan masyarakat yang taat menjalankan ajaran Islam hal ini terlihat dari kehidupan masyarakatnya yang masih memegang teguh syariat islam. Masyarakat juga masih memegang teguh kebudayaan asli pulau, seperti pemisahan laki-laki dan perempuan ketika ada acara kawinan atau pementasan ludruk, kebiasaan membawa senjata tradisional untuk menjaga diri juga masih dilakukan sebagian besar warga laki-laki.</p>
+<p style="margin-left: 35.45pt; text-align: justify;">
+	Mata Pencaharian sebagian besar masyarakat adalah bergerak di sektor perikanan, disamping ada juga yang menjadi PNS, guru, pedagang, petani, pengrajin gelang dll. Mayoritas penduduk bekerja sebagai nelayan jaring dan pancing bergantung pada musim&nbsp; tangkap di wilayah perairan Sumenep, sedangkan ketika cuaca buruk nelayan tidak melaut dan beralih ke lahan perkebunan atau ternak. Cuaca buruk biasanya terjadi pada bulan Januari dan Agustus pada saat itulah nelayan berhenti melaut, biasanya Armada tangkap di Pulau Giliyang tidak bergantung pada satu jenis hasil tangkapan saja.</p>
+<p style="margin-left: 0.5in; text-align: justify;">
+	Kelembagaan yang ada di Pulau giliyang terdiri dari PKK dan kelompok nelayan, namun tidak berjalan dengan baik karena kurangnya pembinaan. Kegiatan PKK yang dilakukan hanya berbentuk arisan dan membantu posyandu, sedangkan kelompok nelayan yang ada juga tidak aktif dalam kegiatan kelompok dan sebagian besar sudah bubar.</p>
+<p style="margin-left: 0.5in; text-align: justify;">
+	Pulau Giliyang juga terkenal dengan pengrajin gelang anyaman atau manik-manik yang biasa dijual di daerah wisata seperti Yogyakarta dan Bali. Terdapat pengusaha kerajinan yang membina perempuan di giliyang dalam pembuatan berbagai model/jenis gelang, pengusaha kerajinan tersebut berasal dari Bali memberikan bahan pembuat gelang seperti tali, benang, dan manik-manik beraneka ragam untuk dibuat oleh pengrajin perempuan pulau. Pengrajin gelang hanya menerima upah pembuatan gelang saja, sedangkan bahan sudah disediakan oleh pemasok, besarnya upah pembuatan gelang bergantung pada kerumitan model gelang yang dibuat. Setelah selesai pengrajin menyetor gelang tersebut sesuai dengan jumlah yang dipesan.</p>
+<p>
+	&nbsp;</p>
+</div></p>
+
+<hr>
+
+<h2><a id="eshp">Ekosistem dan Sumberdaya Hayati</a></h2>
+<p><div class="readmore"><p style="text-align: justify;">
+	<strong>Terumbu Karang </strong></p>
+<p style="text-align: justify;">
+	Secara umum kondisi terumbu karang cukup baik pada bagian barat daya dan tenggara pulau dengan penutupan karang keras hidup yang termasuk dalam kriteria baik, namun pada bagian utara penutupan karang keras hidup termasuk dalam kriteria sedang. Kondisi kecerahan perairan di sekitar pulau hanya berkisar antara 2-4 meter dan arus yang tidak begitu kuat atau bukan pada musim dimana arus bergerak dengan kuat pada saat pengamatan dilakukan. Sebaran terumbu karang yang berada di pesisir pulau hanya dapat ditemukan pada kisaran kedalaman 1-4 meter yang selebihnya adalah karang mati maupun sedimentasi dan pasir lumpur</p>
+<p style="text-align: justify;">
+	<strong>Ikan Karang </strong></p>
+<p style="text-align: justify;">
+	Berdasarkan hasil pengamatan ikan terumbu yang dilakukan di tiga titik pulau Giliyang, nilai indeks keanekaragaman (H&rsquo;) terbesar berada pada sisi Tenggara Pulau Giliyang dan terendah berada pada sisi Barat Daya Pulau Giliyang. Tingginya nilai keanekaragaman di sisi Tenggara menunjukkan pada perairan sisi Tenggara terjadi interaksi antar setiap jenis ikan yang melibatkan transfer energi, predasi dan kompetisi yang tinggi. Berbeda halnya yang terjadi di sisi Barat Daya pulau Giliyang, indeks keanekaragaman yang diperoleh sebesar 2,7950 yang termasuk dalam kategori sedang.</p>
+<p style="text-align: justify;">
+	<strong>Vegetasi Pantai</strong></p>
+<p style="text-align: justify;">
+	Vegetasi pantai yang terdapat di Pulau Giliyang diantaranya adalah kaktus, kelapa, siwalan, pohon kuda, pandan pantai, nanas hutan, kelendengan dan tanaman semak lainnya. Tanaman-tanaman tersebut termasuk kedalam tanaman daerah kering, dimana dapat tumbuh di daerah tandus dan sedikit air, bahkan untuk jenis-jenis tanaman semak tertentu dan kaktus dapat tumbuh menjalar di daerah tebing-tebing pantai</p>
+<p>
+	&nbsp;</p>
+</div></p>
+
+<hr>
+
+<h2><a id="snh">Sumberdaya Non Hayati</a></h2>
+<p><div class="readmore"><p>
+	<strong>Sumber daya Non-Hayati Pesisir</strong></p>
+<p>
+	Hingga saat ini belum ditemukan sumber daya Non-hayati pesisir seperti barang tambang dan minyak bumi di Pulau Giliyang.</p>
+<p>
+	&nbsp;</p>
+</div></p>
+
+<hr>
+
+<h2><a id="aps">Aktivitas Pengelolaan Sumberdaya</a></h2>
+<p><div class="readmore"><p style="text-align: justify;">
+	<strong>Perikanan Tangkap </strong></p>
+<p style="margin-left: 0.5in; text-align: justify;">
+	Armada tangkap berganti jenis tangkapan bergantung pada cuaca dan musim ikan yang ada di perairan Pulau Giliyang. Wilayah tangkap nelayan Pulau Giliyang berjarak 5-100 mil yaitu terdekat di sekitar perairan sumenep dan Giliyang dan terjauh hingga perairan Pulau Kangean. Hasil tangkapan nelayan pancing terdiri dari kakap, hiu, kembung, tongkol, dorang (bawal), dan tenggiri sedangkan hasil tangkapan jaring terdiri dari teri, tongkol, dan layang. Musim ikan teri berkisar pada bulan Januari- April ketika musim teri selesai maka nelayan akan mengganti alat tangkap menjadi pancing dan pergi melaut lebih jauh dari perairan Pulau Giliyang. Hasil tangkapan yang terdiri dari Ikan kakap, hiu, tongkol, tenggiri, layang, kembung dan bawal akan dijual langsung ke Tempat Pelelangan Ikan di Pelabuhan Dungkek lalu sebagian lagi untuk dijual kepada masyarakat pulau, Ikan teri yang ditangkap akan dijual ke pengepul di Pulau Giliyang untuk kemudian diolah menjadi ikan rebus dan dikeringkan. Jumlah Armada Tangkap yang ada di Pulau Giliyang cukup banyak yakni kurang lebih 725 armada dengan rincian jumlah 500 armada di Desa Bancamara dan 225 armada di Desa Banraas. Jumlah ABK untuk pada setiap armada tangkap berkisar antara 5-10 orang bergantung pada besarnya kapal.</p>
+<p style="text-align: justify;">
+	<strong>Pengolahan Ikan</strong></p>
+<p style="margin-left: 0.5in; text-align: justify;">
+	Di pulau Giliyang tedapat 3 orang pengepul sekaligus pemilik gudang pengolahan ikan teri, ikan teri yang diolah ada yang di rebus kemudian dikeringkan ada juga yang diasinkan. Rata-rata teri kering kemudian dijual ke Dungkek atau ke Surabaya untuk kemudian di distribusikan ke wilayah lain hingga ke Jakarta. Gudang pengolahan ikan akan beroperasi ketika musim teri sedang berlangsung yakni bulan Januari-April.</p>
+<ol>
+	<li style="text-align: justify;">
+		<strong>Pariwisata</strong></li>
+</ol>
+<p style="text-align: justify;">
+	Aktifitas pariwisata yang ada di Pulau Giliyang sejauh ini hanya sebagai tempat wisata alam saja. Sebagian besar wisatawan domestik yang datang ke Pulau Giliyang hanya ingin melihat titik oksigen tertinggi berdasarkan hasil penelitian LAPAN tahun 2006 yang meneliti tentang kadar oksigen di Pulau Giliyang yang cukup tinggi yakni 21,5 % atau 215.000 ppm, pulau ini juga terkenal sebagai &ldquo;pulau awet muda&rdquo; karena penduduk nya yang rata-rata memiliki umur panjang. Selain itu juga terdapat &ldquo;Batu Kundang&rdquo; yaitu tebing batu pada bagian timur pulau yang biasa dikunjungi pemancing dan beberapa gua alam berisi sumber air yang dapat dikunjungi wisatawan. Sayang nya lokasi-lokasi wisata tersebut tidak didukung oleh sarana dan prasarana yang memadai</p>
+<p style="text-align: justify;">
+	<strong>Aktivitas Pengelolaan Sumber daya</strong></p>
+<p style="text-align: justify;">
+	<strong>a. Pertanian dan Perkebunan</strong></p>
+<p style="margin-left: 0.25in; text-align: justify;">
+	Kegiatan pertanian di Pulau Giliyang sebagian besar dilakukan penduduk apabila sedang cuaca buruk dan tidak bisa melaut. Petani ladang yang ada di Pulau Giliyang ini rata-rata menanam jagung, palawija, tanaman pakan ternak, Cabe, tanaman bahan jamu madura, tomat, srikaya, siwalan, pohon jati dan lain-lain. Hasil ladang rata-rata digunakan untuk konsumsi pribadi dan untuk dijual ke Sumenep.</p>
+<p style="text-align: justify;">
+	<strong>b. Peternakan</strong></p>
+<p style="margin-left: 0.5in; text-align: justify;">
+	Ternak yang biasa dipelihara di Pulau Giliyang adalah Sapi Madura, Kambing, bebek dan ayam, rata-rata peternak sapi skala kecil akan menjual sapi nya di Sumenep sedangkan untuk peternak skala besar akan menjual sapi-sapinya hingga ke Surabaya dan Kalimantan dengan jumlah produksi 30 ekor sapi sekali kirim pada musim panen. Keunggulan sapi madura ini adalah jumlah daging yang dihasilkan lebih banyak daripada sapi jawa oleh karena itu banyak diminati oleh pembeli dari surabaya dan kalimantan. Kambing, ayam, dan bebek biasanya diternak untuk kebutuhan konsumsi dan dijual di sekitaran Pulau Gilyang saja, kecuali jika memang ada pembeli yang berminat maka akan dijual ke Dungkek.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="ling">Lingkungan</a></h2>
+<p><div class="readmore"><p style="text-align: justify;">
+	<strong>Kualitas Perairan</strong></p>
+<p style="margin-left: 0.5in; text-align: justify;">
+	Nilai kualitas air di perairan Pulau Giliyang dapat dilihat pada Tabel 1. Suhu di Pulau Giliyang berkisar antara 30,1 &ndash; 32 <sup>0</sup>C. Salinitasnya berada dalam kisaran 34 &ndash; 36 &permil;. Nilai pH berada pada rentang 6,75 &ndash; 8. Sedangkan untuk oksigen terlarut memiliki kisaran antara 7,1 &ndash; 9,7. Berdasarkan baku mutu yang ditetapkan (Keputusan Menteri Lingkungan Hidup No 51 tahun 2004) Kisaran suhu di Pulau Giliyang masih berada pada rentang minimum di daerah coral. Salinitas di daerah giliyang sudah melampaui batas baku mutu yang ditetapkan oleh kepmen-LH 51 Tahun 2004 namun masih dalam rentang maksimum yang diijinkan. Salinitas di Pulau Giliyang memiliki kisaran yang tinggi dikarenakan letak pengambilan sampel di laut terbuka. Odum (1993) menyampaikan bahwa salinitas di laut lepas umummya memiliki rentang antara 33 &ndash; 37 &permil;. Kisaran nilaipH pada pulau ini masih berada pada kisaran normal. Oksigen terlarut pada kisaran tersebut tergolong produktif. Perairan yang mengandung oksigen terlarut &lt;3 mg/l akan mengganggu kehidupan ikan dan hewan air lainnya, perairan dengankandungan oksigen terlarutantara 5 &ndash; 7 mg/l adalah ciri air yang kurang produktif, sedangkan perairan dengan oksigen terlarut &gt; 7 mg/l merupakan perairan yang tergolong produktif (Benajea 1976 dalam Suratman 1985 dalam Gurning 2005).</p>
+<p style="margin-left: 0.5in; text-align: justify;">
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Nutrien yang diukur dari sampel air laut adalah nitrat, orto fosfat, dan ammonia.Nitrat memiliki nilai terbesar pada stasiun 2 sebesar 0,044 mg/l sedangkan orto fosfat dan ammonia memiliki nilai terbesar pada stasiun 1 sebesar 1,336 mg/l dan 2,629 mg/l. Nitrat, orto fosfat, dan ammonia di Pulau Giliyang sudah melampaui baku mutu yang ditetapkan oleh kepmen-LH 50 tahun 2004. Tingginya nutrien ini diduga karena lokasi Pulau Giliyang yang berada dekat dengan daratan Pulau Madura sehingga masih mendapatkan penyebaran nutrien dari Pulau Madura menuju Pulau Giliyang.</p>
+<p style="text-align: justify;">
+	<strong>Kerentanan bencana dan upaya mitigasi</strong></p>
+<p style="text-align: justify;">
+	Pesisir Pulau Giliyang bagian barat yang memiliki kerentanan terhadap erosi dan abrasi, selain karena pengaruh alam erosi dan abrasi juga diakibatkan oleh adanya penambangan pasir dan batu yang digunakan untuk membangun rumah. Daerah yang rawan abrasi pantai biasanya dibangun tanggul untuk mengurangi dampak abrasi akibat air laut.</p>
+<p style="text-align: justify;">
+	<strong>Permasalahan Lingkungan</strong></p>
+<p style="margin-left: 0.5in; text-align: justify;">
+	Pulau Giliyang belum memiliki sarana pembuangan sampah dan limbah rumah tangga selama ini penduduk membuang sampah dengan cara menggali lubang di tanah untuk dibakar dan dikubur. Sedangkan limbah rumah tangga langsung dibuang ke laut.</p>
+<p style="margin-left: 0.5in; text-align: justify;">
+	Permasalahan lingkungan yang terjadi di Pulau Giliyang adalah adanya ancaman terhadap pantai. Ancaman terhadap pantai yang ada di Pulau Giliyang relatif sama dengan anacaman-ancaman yang ada di pulau kecil di Indonesia, baik dari alam dan manusia. Dari alam, ancaman yang ada adalah abrasi dan erosi pantai (Gambar 1), ini terkait dengan keterpaparan pantai terhadap arus dan kelombang laut, sedangkan ancaman dari manusia adalah aktifitas pembangunan pemukiman dan infrastruktur keras (seperti pelabuhan) dan penambangan pasir dan batu (Gambar 2).</p>
+<p style="margin-left: 0.5in; text-align: justify;">
+	Aktifitas manusia ini ada yang memberikan ancaman secara langsung dan tidak langsung. Secara langsung, aktifitas penambangan pasir dan batu telah merubah garis pantai dan vegetasi pantai, sedangkan secara tidak langsung adalah berubahnya arah arus, gelombang dan sedimentasi yang diakibatkan adanya pembangunan pemukiman dan infrastruktur keras.</p>
+<p style="margin-left: 0.5in; text-align: justify;">
+	Perubahan pada pantai akan mempengaruhi keseimbangan dinamik. Dimana setiap ada pengurangan di salah satu wilayah pantai maka akan mengurangi masa daratan lain sampai pada keseimbangan dinamik yang ada. Begitu juga jika ada penambahan seperti adanya kegiatan pembangunan di pantai, maka arus dan gelombang akan terbelokkan sehingga pada satu titik energinya menjadi bertambah dan mampu menggerus pantai yang tidak stabil (biasanya pantai berpasir dan tidak bervegetasi, terutama wilayah yang bukan ekosistem mangrove).</p>
+<p style="margin-left: 0.5in; text-align: justify;">
+	Untuk aktifitas penambangan pasir dan batu sangat berbanding lurus dengan aktifitas pembangunan. Kegiatan pembangunan di Pulau Giliyang banyak memanfaatkan pasir dan batu dari pantai (Gambar 3). Terbatasnya keberadaan sumberdaya untuk bahan material di darat membuat masyarakat menambang pasir dan batu yang berada di pantai, selain karena merupakan wilayah <em>common property</em>, masyarakat juga tidak membutuhkan biaya yang besar untuk memenuhi kebutuhan bahan material tersebut dibandingkan dengan mendatangkan dari daratan utama, ditambah lagi kualitas pasir pantai dan batu karang laut yang baik dan lebih unggul dibandingkan diambil dari gunung.</p>
+<p style="margin-left: 0.5in; text-align: justify;">
+	Sebagai upaya penanggulangan ancaman erosi dan abrasi, maka dibangunlah tangkis laut di sekitar lokasi erosi dan abrasi pantai, termasuk di daerah-daerah pemukiman penduduk. Tangkis laut ini dibangun dari batu karang dan semen (Gambar 4 dan Gambar 5). Pembangunan tangkis laut ini dimulai dari tahun 2000-an, dan yang dibuat dari semen dirasa lebih efektif dan dapat bertahan lebih lama. Tangkis laut di Pulau Giliyang merupakan hasil pembangunan dan swadaya masyarakat dan bantuan dari pemerintah. Swadaya masyarakat ini biasanya dilakukan oleh penduduk pantainya terkikis, biasanya skala kampung saja. Selain itu terdapat juga swadaya oleh pemilik kapal dan nelayan, karena selain berfungsi untuk pemecah gelombang, juga berfungsi sebagai tambatan kapal</p>
+</div></p>
+
+<hr>
+
+<h2><a id="sp">Sarana dan Prasarana</a></h2>
+<p><div class="readmore"><p style="text-align: justify;">
+	<strong>Sarana dan Prasarana</strong><br />
+	Sarana prasarana yang ada di Pulau Giliyang tergolong cukup baik mulai dari air bersih, pendidikan, kesehatan, perhubungan, komunikasi, dll, sedangkan penerangan masih sangat masih minim. Sentuhan pembangunan baik dari Pemerintah Daerah maupun Pemerintah Pusat belum terlalu dirasakan oleh masyarakat Pulau Giliyang, sebagian besar sarana prasarana merupakan milik perseorangan dan yayasan. Adapun sarana prasarana yang ada antara lain:<br />
+	&nbsp;&nbsp; &nbsp;<br />
+	a. Transportasi<br />
+	Transportasi darat berupa sepeda motor dan sepeda banyak dijumpai di pulau ini untuk aktifitas sehari-hari atau mengelilingi pulau. Transportasi yang digunakan untuk usaha perikanan terdiri dari truk ukuran sedang dan mobil bak unruk mengangkut hasil tangkap dan`untuk mobilisasi barang dari kapal.<br />
+	Untuk mempermudah tambat labuh kapal, telah dibangun 2 buah dermaga dari beton yang masing-masing terdapat di Desa Bancamara dan Desa Banraas, Pembangunan dermaga merupakan bantuan dari Ditjen Cipta Karya, Kementerian PU. Dermaga di Bancamara di bangun pada tahun 2003 dan di Banraas dibangun pada tahun 2010. Dermaga di Desa Bancamara telah dilengkapi oleh jetty tempat berlabuh kapal. Tidak terdapat angkutan reguler dari Pelabuhan Dungkek-Pulau Giliyang, untuk membeli kebutuhan pokok yang tidak tersedia di warung ataupun mengantar pasien dengan kondisi darurat maka penduduk harus menumpang kapal nelayan atau menyewa.<br />
+	<br />
+	b. Penerangan<br />
+	Penerangan di Pulau Giliyang belum tersentuh Perusahaan Listrik Negara (PLN) Wilayah Sumenep. Bantuan 34 unit LTS individu dari pemerintah telah dirasakan oleh beberapa warga, namun saat ini sebagian besar sudah rusak dan tidak berfungsi lagi. Penerangan yang ada di Pulau Giliyang saat ini hanya menggunakan genset pribadi di setiap rumah bagi yang mampu, serta ada juga yang menggunakan Genset terpusat yang mengaliri beberapa rumah yang pengelolaannya dilakukan oleh perorangan (swasta) ada rumah menggunakan meteran listrik bagi yang mampu membayar, ada juga yang membayar harian. Untuk warga yang menggunakan meteran listrik pembayaran disesuaikan dengan jumlah pemakaian, sedangkan untuk pengguna harian pelanggan membayar Rp 30.000,- / Bulan untuk pemakaian 6 jam setiap harinya setara dengan 1 buah lampu untuk 1 rumah. Terdapat bantuan Kincir untuk Listrik tenaga angin dari LAPAN namun tidak dapat digunakan lagi karena tidak adanya accu untuk menampung listrik.<br />
+	<br />
+	c. Air Bersih<br />
+	Air tawar atau air bersih tersedia cukup melimpah di pulau ini walaupun sebagian wilayah pulau masih payau. Hampir setiap rumah memiliki sumur yang dialirkan ke dalam rumah dengan menggunakan pompa air atau tanpa pompa dengan timba manual, ada juga sumur terpusat yang digunakan oleh beberapa rumah. Pada saat musim kemarau, air tawar masih tersedia meskipun debit air berkurang. Kedalaman sumur berkisar dari 5-30 meter bergantung pada lokasi sumur, Desa Banraas memiliki Sumur air tawar terbesar dibandingkan Desa Bancamara Rata-rata Air sumur digunakan untuk mandi, cuci, dan masak sedangkan bagi sebagian warga yang mampu lebih memilih menggunakan air minum isi ulang karena dirasakan lebih praktis dan bersih. Selain itu juga terdapat Sumber air tawar layak minum yang terdapat di dataran tinggi pulau dan biasa di jual keliling Rp 3000,-/ derigen atau setara 30 liter. Ada juga penduduk yang mengalirkan air dari sumber tersebut langsung ke rumah. Masyarakat Pulau giliyang sangat membutuhkan prasarana air bersih seperti tandon, pipa air, kran dan bak penampungan untuk mengalirkan air bersih ke lokasi yang tidak memiliki air tawar. Sedangkan penduduk yang berada di wilayah air payau sangat membutuhkan bantuan desalinasi air untuk keperluan sehari-hari<br />
+	<br />
+	d. Sarana Sanitasi dan Kebersihan<br />
+	Sarana Sanitasi yang ada di Pulau Giliyang adalah 3 buah MCK yang terdapat di Desa Banraas namun beberapa MCK tidak berfungsi karena tidak dialiri oleh air. MCK tersebut digunakan sebagian besar warga yang tidak memiliki kamar mandi di dalam rumah, sedangkan bagi warga yang sudah mampu dan memiliki sumur telah memiliki MCK di masing-masing rumah baik dialiri pompa maupun dengan timba air, adapun tempat pemandian umum yang digunakan bersama-sama oleh beberapa rumah. Tidak terdapat sarana pengolah limbah di Pulau Giliyang, rata-rata limbah rumah tangga dibuang langsung ke laut dan sampah yang ada dibakar di lubang pembakaran sampah. Warga Pulau Giliyang sudah memiliki kesadaran yang cukup baik untuk menjaga kebersihan pulau, hal ini dapat terlihat dari jalanan dan lingkungan pulau yang cukup bersih.<br />
+	<br />
+	e. Pemukiman<br />
+	Kondisi bangunan rumah warga cukup bervariasi, ada yang sudah permanen dan dalam kondisi yang cukup baik, ada pula yang hanya terbuat dari papan dengan kondisi yang memprihatinkan, tergantung dari tingkat perekonomian masing-masing warga. Rata-rata rumah warga di Pulau Giliyang sudah permanen dan memakai lantai keramik.<br />
+	<br />
+	f. Jalan<br />
+	Kondisi jalan utama di Pulau Giliyang&nbsp; sudah mengalami kerusakan, berupa jalan aspal yang sudah bolong dan berbatu, jalan ini lah yang menghubungkan antar Desa di Pulau. Hanya sedikit bagian jalan utama yang masih berada dalam kondisi bagus. Total luas jalan utama yang mengelilingi pulau Giliyang adalah 10 km dengan lebar jalan sebesar 3 meter. Terdapat jalan paving block dan rabat beton yang dibangun untuk jalan kecil dan jalan tembus Lebar jalan paving block dan beton yaitu 1,5 meter., jalan tanah masih terdapat di beberapa gang-gang kecil menuju perkebunan warga dengan lebar 50 cm hanya cukup untuk 1 buah motor. Jalan Aspal yang mengelilingi pulau merupakan bantuan dari Pemerintah Kabupaten yang dibangun secara bertahap sedangkan rabat beton dibangun dengan menggunakan dana PNPM Mandiri tahun secara bertahap dan Pemprov jatim tahun 2012 sepanjang 150 meter.<br />
+	<br />
+	g. Peribadatan<br />
+	Sarana peribadatan di Pulau Giliyang cukup banyak mengingat seluruh penduduknya beragama islam, sarana peribadatan tersebut terdiri dari 11 Masjid dan 1 mesjid lagi masih dalam tahap pembangunan. Selain Mesjid terdapat Mushola yang jumlah nya sangat banyak di masing-masing desa.<br />
+	<br />
+	h. Sarana Telekomunikasi<br />
+	Sarana Telekomunikasi yang terdapat di Pulau Giliyang sudah cukup baik karena letak pulau yang dekat dengan daratan Kecamatan Dungkek dan terdapat 1 BTS bersama yang terdiri dari provider Telkomsel, Mentari dan XL. Rata-rata penduduk menggunakan HP untuk berkomunikasi, provider yang memiliki sinyal kuat di pulau ini adalah Telkomsel. Sebagian besar penduduk pulau memiliki parabola untuk menangkap siaran televisi.<br />
+	<br />
+	i. Pendidikan<br />
+	Sarana pendidikan yang ada di Pulau Giliyang sudah cukup lengkap terutama sekolah pendidikan agama islam yang sebagian besar didirikan oleh Yayasan, sedangkan sekolah negeri yang dibangun di pulau Giliyang hanya sebatas sampai sekolah dasar. Di Desa Bancamara terdapat 3 buah Sekolah Dasar (SD), 3 buah Madrasah Ibtidaiyah (MI), 3 buah Madrasah Tsanawiyah (MTS), dan 1 buah Sekolah Menengah Kejuruan (SMK), sedangkan di Desa Banraas terdapat 2 buah Pendidikan Anak Usia Dini (PAUD), 2 buah Taman Kanak-kanak (TK), 2 buah SD, 2 buah MI, 1 buah Madrasah Aliyah (MA), 2 buah MTS, dan 1 buah SMP Islam.<br />
+	<br />
+	J. Kesehatan<br />
+	Sarana kesehatan yang ada di Pulau Giliyang yaitu: 2 buah Puskesmas Pembantu (Pustu) yang terdapat 1 buah di masing-masing desa, Tenaga kesehatan yang terdapat di Pustu Desa Bancamara terdiri dari 1 orang Dokter, 4 orang mantri, dan 1 orang bidan. Sedangkan tenaga kesehatan di Pustu Desa Banraas terdiri dari 3 orang tenaga yang terdiri dari 1 orang perawat dan 2 orang bidan. Posyandu diselenggarakan setiap 1 bulan sekali dengan jumlah posyandu di desa Bancamara sebanyak 7 Pos dan di Desa Banraas sebanyak 6 pos dengan kegiatan imunisasi dan pemeriksaan kesehatan anak-anak. Bantuan dari puskesmas yang rutin diberikan 1 bulan sekali adalah bantuan untuk gizi buruk berupa susu hamil dan PMT (Pemberian Makanan Tambahan) biskuit untuk balita dan anak-anak, namun jumlah bantuan tersebut dirasakan belum mencakup seluruh anak-anak dan balita di Pulau Giliyang. Tenaga Kesehatan seperti Dokter juga masih dirasakan kurang karena tidak menetap di pulau melainkan didatangkan dari Sumenep. Jika terdapat penyakit berat ataupun kondisi melahirkan yang tidak dapat ditangani di Pustu maka penduduk harus membawa pasien ke RSUD terdekat yaitu di kota Sumenep.<br />
+	<br />
+	k. Sarana Olahraga<br />
+	Sarana olahraga terdiri dari lapangan serbaguna yang biasa digunakan warga untuk bermain voli, bola, maupun bulutangkis.<br />
+	<br />
+	L. Sarana Pendukung Pemerintahan<br />
+	Untuk mendukung roda pemerintahan diperlukan bangunan penunjang untuk melaksanakan tugas harian maupun sebagai tempat berkumpulnya warga jika ada musyawarah. Bangunan penunjang tersebut adalah Balai Desa yang menyatu dengan Kantor Pemerintahan Desa sebanyak 2 buah yaitu 1 buah di Desa Bancamara dan 1 buah di Desa Banraas.<br />
+	<br />
+	M. Sarana Jual Beli<br />
+	Terdapat banyak toko kelontong yang berukuran besar hingga kecil yang menjual kebutuhan sehari-hari hingga kebutuhan pertukangan yang cukup lengkap, seperti makanan pokok, sayuran, kosmetik, pakaian, minyak tanah, BBM untuk motor, jajanan, perlengkapan sekolah, alat-alat pertukangan, alat ibadah, keperluan menangkap ikan dll. Barang-barang yang dijual di warung-warung tersebut dibeli pedagang dari daratan Sumenep. Terdapat juga warung-warung&nbsp; yang menjual makanan jadi seperti bakso, es, dan gorengan. Dengan adanya warung dan toko tersebut warga dapat dengan mudah membeli kebutuhan sehari-hari. BBM yang dijual eceran untuk kendaraan di dalam pulau adalah Rp 8000,-/liter<br />
+	<br />
+	N. Sarana Lainnya<br />
+	Terdapat tempat pemakaman umum (TPU) di Pulau Giliyang tersebar di seluruh pulau, ada yang berkelompok maupun pribadi per rumah.<br />
+	&nbsp;</p>
+</div></p>
+
+<hr>
+
+<h2><a id="pi">Peluang Investasi</a></h2>
+<p><div class="readmore"><p style="text-align: justify;">
+	<strong>Peluang Investasi</strong></p>
+<p style="margin-left: 0.25in; text-align: justify;">
+	Peluang investasi yang ada di Pulau Giliyang ini adalah pengeringan ikan, perikanan tangkap, wisata alam, dan kerajinan tangan. Sampai saat ini investor yang sudah ada di pulau Giliyang merupakan investor lokal yang berasal dari Pulau Madura, Yogyakarta, dan Bali.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="pap">Potensi dan Arahan Pengembangan</a></h2>
+<p><div class="readmore"><p style="text-align: justify;">
+	<strong>Potensi Pengembangan Pulau</strong></p>
+<p style="margin-left: 0.5in; text-align: justify;">
+	Pulau Giliyang dapat dikatakan cukup baik dari armada penangkapan ikan yang ada dan kehidupan perekonomian masyarakat. Adapun potensi yang dapat dikembangkan antara lain:</p>
+<p style="text-align: justify;">
+	a. Pengeringan ikan</p>
+<p style="margin-left: 0.75in; text-align: justify;">
+	Usaha ini telah dijalankan oleh 3 orang pengepul/pengering ikan dari daratan Sumenep dan dapat membantu meningkatkan harga jual ikan bernilai ekonomis serta membantu nelayan ketika musim ikan sedang berlimpah agar tidak busuk. Banyaknya ikan teri dengan harga tinggi, menjadikan usaha ini dapat terus berkembang dan dipasarkan luas hingga ke Jakarta. Selain itu juga dengan adanya pengolahan teri ini dapat menyerap tenaga kerja terutama ibu-ibu. Kendala yang dihadapi pengusaha adalah belum adanya pelatihan dari instansi terkait tentang proses pengolahan dan pengemasan yang baik agar nilai produk meningkat. Masyarakat juga perlu mendapat pelatihan agar dapat menambah jenis pengolahan ikan ketika musim panen seperti pembuatan kerupuk ikan atau pindang ikan.</p>
+<p style="text-align: justify;">
+	b. Perikanan tangkap</p>
+<p style="margin-left: 0.75in; text-align: justify;">
+	Potensi perikanan di perairan sekitar Sumenep cukup besar dan memiliki ikan-ikan ekonomis tinggi. Hal ini menjadi magnet bagi nelayan lokal dan nelayan pendatang untuk mencari ikan di perairan tersebut. Alat tangkap yang biasa digunakan adalah pancing dan jaring. Alat tangkap yang digunakan cukup ramah lingkungan dan dapat memberikan hasil yang melimpah.</p>
+<p style="text-align: justify;">
+	c. Wisata Alam dan Bahari</p>
+<p style="margin-left: 0.75in; text-align: justify;">
+	Pulau Giliyang yang terkenal dengan &ldquo;pulau awet muda&rdquo; karena memiliki kandungan oksigen yang cukup tinggi telah menarik banyak pengunjung yang penasaran untuk mengunjungi titik pengambilan data tersebut yang lebih dikenal dengan &ldquo;titik oksigen tertinggi&rdquo;. Ternyata selain kandungan oksigen nya yang tinggi Pulau Giliyang ini memiliki keindahan alam yang memukau seperti adanya 10 Gua alam yaitu 7 gua di Desa Banraas dan 3 gua di Desa Bancamara, dinding batuan karang&nbsp; yang cukup panjang membentang di bagian barat daya, selatan dan timur pulau, selain itu juga keindahan bawah laut yang belum di eksplorasi dan memerlukan penelitian lanjutan mengenai potensi wisata bahari di pulau ini.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="kp">Kendala Pengembangan</a></h2>
+<p><div class="readmore"><p style="text-align: justify;">
+	<strong>Kendala Pengembangan Pulau</strong></p>
+<p style="text-align: justify;">
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Kendala yang dihadapi masyarakat Pulau Giliyang antara lain:</p>
+<ol style="list-style-type:lower-alpha;">
+	<li style="text-align: justify;">
+		Keterbatasan sarana dasar</li>
+</ol>
+<p style="margin-left: 0.75in; text-align: justify;">
+	Listrik hanya bisa dinikmati sebagian warga yang mampu membayar listrik tenaga diesel saja, sedangkan warga lain yang tidak mampu masih belum bisa menikmati penerangan sebagai sarana dasar. Hendaknya dilakukan pemerataan infrastruktur penerangan si kedua desa di Pulau Giliyang sehingga tidak terjadi kesenjangan sosial di antara kedua desa. PLTS yang sudah rusak seharusnya mendapat penggantian atau perbaharuan dari pemerintah setempat, perangkat desa harus dengan sigap mendata warga yang belum memperoleh sarana penerangan agar pemerataan dapat terjadi</p>
+<p style="margin-left: 0.75in; text-align: justify;">
+	Prasarana dasar air bersih seperti tandon, pipa dan keran sangat kurang dirasakan oleh Desa Bancamara yang memiliki jumlah air tawar yang sedikit. Dengan adanya tandon dan pipa pengairan dari bukit dapat menciptakan pemerataan kesejahteraan dan mengurangi kesenjangan di kedua desa.</p>
+<ol style="list-style-type:lower-alpha;">
+	<li style="text-align: justify;" value="2">
+		Keterbatasan sarana pendukung penangkapan ikan</li>
+</ol>
+<p style="margin-left: 0.75in; text-align: justify;">
+	Banyaknya jumlah armada penangkap ikan di Pulau Giliyang tidak diiringi dengan sarana pendukungnya seperti Coolbox ataupun Motor Kapal sehingga nelayan harus segera menjual hasil tangkapan kepada pengepul dan juga langsung ke Dungkek</p>
+<ol style="list-style-type:lower-alpha;">
+	<li style="text-align: justify;" value="3">
+		Keterbatasan sarana transportasi menuju daratan</li>
+</ol>
+<p style="margin-left: 0.75in; text-align: justify;">
+	Terbatasnya sarana transportasi sangat berpengaruh ketika terdapat kondisi darurat pada penduduk yang sakit berat terutama ketika laut sedang dalam cuaca buruk. Jaraknya yang cukup memakan waktu menuju daratan dapat mengakibatkan kondisi darurat tidak cepat ditanggapi. Keterbatasan sarana transportasi ini juga menjadikan pengunjung pulau sulit untuk mengunjungi Giliyang secara reguler.</p>
+<ol style="list-style-type:lower-alpha;">
+	<li style="text-align: justify;" value="4">
+		Tidak ada nya sarana penunjang pariwisata</li>
+</ol>
+<p style="margin-left: 56.7pt; text-align: justify;">
+	Pulau Giliyang yang memiliki keindahan alam dan terkenal dengan &ldquo;pulau awet muda&rdquo; tidak memiliki sarana penunjang pariwisata seperti penginapan, pondokan untuk istirahat, serta penanda daerah wisata. Keindahan alam yang dimiliki pulau Giliyang belum dikelola dengan baik oleh pemkab Sumenep dan penduduk. Jika Pulau Giliyang sudah tertata dengan baik di bidang pariwisata tentu saja dapat membuka peluang wanita pengrajin gelang untuk dapat menjual produknya di dalam Pulau Giliyang.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="rf">Referensi</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<br />
+	<i> 
+		<p style="font-size:12px;">
+			Karena keterbatasan SDM dalam penginputan dan pengolahan data, kami mohon maaf atas ketidak lengkapan beberapa data pulau yang kami tampilkan, harap dimaklumi.
+			Berikan keritik dan saran pada kolom komentar agar kita dapat bersama menyajikan sebuah data yang cukup sempurna untuk halayak ramai yang berguna
+			demi kesejahterahan, kelestarian dan keindahan pulau-pulau kecil yang dimiliki Indonesia.<br />
+			*Jika sekiranya anda memiliki data yang cukup banyak, silakan mengirimkan file melalui email kami di <b><a>identifikasippk@gmail.com</a></b>
+			
+		</p>
+	</i>
+<br />
+
+<div id="fb_comn" class="fb-comments" data-href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_info/4674" data-width="800" data-numposts="5" data-colorscheme="light"></div>
+
+
+</div>
+</div>
+</div>
+<div id="wrapper">
+
+<div class="footer"><p>
+<!--<marquee onmouseover="this.stop()" onmouseout="this.start()" scrollamount="5" direction="right" width="798" height="14"  behavior="scroll">-->
+<a href="http://www.ppk-kp3k.kkp.go.id/" target="_blank">Direktorat Pendayagunaan Pulau-Pulau Kecil &nbsp; | &nbsp;</a>
+<a href="http://www.kp3k.kkp.go.id/" target="_blank">Ditjen Kelautan, Pesisir dan Pulau-Pulau Kecil &nbsp; | &nbsp;</a>
+<a href="http://www.kkp.go.id/" target="_blank">Kementerian Kelautan dan Perikanan</a>
+<!--</marquee>--> <br />
+Jl. Medan Merdeka Timur No. 16 Gedung Mina Bahari 3 Lantai 10, Jakarta, Indonesia <br />
+Email : identifikasippk@gmail.com <br />
+Telp &amp; Fax: (021) 3522058 <br />
+&copy; Copyright Direktorat Pendayagunaan Pulau-Pulau Kecil 2012&nbsp; <br /></p>
+</div>
+</div>
+</body>
+</html>

@@ -1,0 +1,585 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Pulau Lancang Besar</title>
+
+<meta charset="utf-8"/>
+
+<meta property="fb:app_id" content="559408774147878" />
+
+
+<meta property="og:title" content="Pulau Lancang Besar" />
+<meta property="og:url" content="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_info/4198" />
+
+
+    <script type="text/javascript" src="http://ajax.microsoft.com/ajax/jquery/jquery-1.4.4.min.js">
+    </script>
+    
+    <script type="text/javascript" src="http://plugins.learningjquery.com/expander/jquery.expander.js">
+    </script>
+    
+    <script type="text/javascript">
+        $(function () {
+            $('div.readmore').expander({
+                slicePoint:200,
+                expandText: '(Baca selengkapnya)',
+                userCollapseText: '(Sembunyikan selengkapnya)'
+            });
+        });
+    </script>
+        
+	<script src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/galleria/galleria-1.2.8.min.js"></script>
+
+        <SCRIPT TYPE="text/javascript">
+            <!--
+            //Disable right click script
+            //visit http://www.rainbow.arch.scriptmania.com/scripts/
+            var message="Sorry, right-click has been disabled";
+            ///////////////////////////////////
+            function clickIE() {if (document.all) {(message);return false;}}
+            function clickNS(e) {if
+            (document.layers||(document.getElementById&&!document.all)) {
+            if (e.which==2||e.which==3) {(message);return false;}}}
+            if (document.layers)
+            {document.captureEvents(Event.MOUSEDOWN);document.onmousedown=clickNS;}
+            else{document.onmouseup=clickNS;document.oncontextmenu=clickIE;}
+            document.oncontextmenu=new Function("return false")
+            // -->
+            </SCRIPT>
+            
+            <SCRIPT TYPE="text/javascript">
+            <!--
+            //Disable select-text script (IE4+, NS6+)
+            //visit http://www.rainbow.arch.scriptmania.com/scripts/
+            ///////////////////////////////////
+            function disableselect(e){
+            return false
+            }
+            function reEnable(){
+            return true
+            }
+            //if IE4+
+            document.onselectstart=new Function ("return false")
+            //if NS6
+            if (window.sidebar){
+            document.onmousedown=disableselect
+            document.onclick=reEnable
+            }
+            // -->
+            </SCRIPT>  
+              
+<link rel="stylesheet" type="text/css" href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/css/main.css" media="screen"/>
+<style type='text/css'>
+#info_wrap{
+	width:820px;
+	margin:0 auto;
+	text-shadow:0px 1px 1px #09F;
+}
+table{
+	color:#000000;
+}
+h1{
+	color:#000000;
+}
+.tengahin{
+	width: 105px;
+	height: 30px;
+	margin: 0 auto auto auto;
+}
+#box_view{
+	background-image:-webkit-gradient(linear, 0 0%, 0 100%, from(#FFFFFF), to(#E0F0F5));
+	background:#FFF;
+	color:#F60;
+	border: 1px solid #fff;
+	border-radius: 4px 4px 4px 4px;
+	box-shadow: 0 8px 6px -6px black;
+	position:fixed;
+	right:0;
+	top:150px;;
+	width:80px;
+	z-index:10;
+	padding-left:12px;
+	font-size:10px;
+	}
+#box_view li{
+	color:#F60;
+	margin-left:-30px;
+	}
+	#wrapper a b {
+	color: #FFF;
+	font-size:14px;
+}
+.batas{
+	float:left;
+	border-right-style:inset;
+	border-right-width:thin;
+	}
+.text_h_wrap{
+	
+	padding-left:450px;
+	padding-top:39px;
+	text-shadow:0px 1px 1px #09F;
+	}
+#wrapper .footer p{
+	font-size:12px;
+	color: #FFF;
+	text-align:center;
+	text-shadow:0px 1px 1px #09F;
+}
+td,th {
+	font-size: 12px;
+}
+
+marquee a{
+	color:#FFF
+	}
+#wrapper .footer a{
+	color: #FFFFFF;
+}
+</style>
+            
+<script>
+function goBack()
+  {
+  window.history.back()
+  }
+</script>
+<script type="text/javascript">
+function Popup( url, height, width )
+{
+    var windowProperties = "toolbar = 0, scrollbars = 1, location = 0, statusbar = 0, menubar = 0, resizable = 1, width = " + width + ", height = " + height + ", left = 50, top = 50";
+ 
+    return window.open( url, "", windowProperties );
+}
+</script>
+
+
+
+</head>
+<body oncontextmenu='return false;' onkeydown='return false;' onmousedown='return false;'>
+
+<a id="top_view"></a>
+<div id="wrapper">
+<div class="header_wrap">
+<div class="text_h_wrap">
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/home_page'><b>&nbsp;Home&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/menu_info/1'><b>&nbsp;About Us&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_data'><b>&nbsp;Direktori Pulau&nbsp;&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/program_ip'><b>&nbsp;IKU&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/data_ppkt'><b>&nbsp;PPKT&nbsp;</b></a>
+</div>
+<!--<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/maintenance'><b>&nbsp;Login&nbsp;</b></a>-->
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/dir_log_cont'><b>&nbsp;Login&nbsp;</b></a>
+
+</div>
+</div>
+</div>
+
+<div id="fb-root"></div>
+<script>
+  window.fbAsyncInit = function() {
+    // init the FB JS SDK
+    FB.init({
+      appId      : '559408774147878',                        // App ID from the app dashboard
+      status     : true,                                 // Check Facebook Login status
+      xfbml      : true                                  // Look for social plugins on the page
+    });
+
+    // Additional initialization code such as adding Event Listeners goes here
+  };
+
+  // Load the SDK asynchronously
+  (function(){
+     // If we've already installed the SDK, we're done
+     if (document.getElementById('facebook-jssdk')) {return;}
+
+     // Get the first script element, which we'll use to find the parent node
+     var firstScriptElement = document.getElementsByTagName('script')[0];
+
+     // Create a new script element and set its id
+     var facebookJS = document.createElement('script'); 
+     facebookJS.id = 'facebook-jssdk';
+
+     // Set the new script's source to the source of the Facebook JS SDK
+     facebookJS.src = '//connect.facebook.net/en_US/all.js';
+
+     // Insert the Facebook JS SDK into the DOM
+     firstScriptElement.parentNode.insertBefore(facebookJS, firstScriptElement);
+   }());
+</script>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=559408774147878";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="box_view">
+    <a href="#top_view">MENU</a>
+    <h3><p>Lihat Informasi:</p></h3>
+    <ul>
+	<a href="#sf"><li>Slide Foto</li></a>
+    <a href="#gu"><li>Gambaran Umum</li></a>
+    <a href="#ksbk"><li>Kependudukan, Sosial Budaya dan Kelembagaan</li></a>
+    <a href="#eshp"><li>Ekosistem dan Sumberdaya Hayati</li></a>
+    <a href="#snh"><li>Sumberdaya Non Hayati</li></a>
+    <a href="#aps"><li>Aktivitas Pengelolaan Sumberdaya</li></a>
+    <a href="#ling"><li>Lingkungan</li></a>
+    <a href="#sp"><li>Sarana dan Prasarana</li></a>
+    <a href="#pi"><li>Peluang Investasi</li></a>
+    <a href="#pap"><li>Potensi Arahan Pengembangan</li></a>
+    <a href="#kp"><li>Kendala Pengembangan</li></a>
+	<a href="#rf"><li>Referensi</li></a>
+    </ul>
+    <a href="#fb_comn">KOMENTAR</a>
+</div>
+
+<br>
+			<a id="sf"></a></h2>
+			<div id="galleria">
+            <!--<div class='tengahin'><input type="button" value="Kembali Ke List" onclick="goBack()"></div>-->
+                            </div>
+            
+            <script>
+            Galleria.loadTheme('http://www.ppk-kp3k.kkp.go.id/direktori-pulau/galleria/themes/classic/galleria.classic.min.js');
+            Galleria.run('#galleria');
+            </script>
+</div>
+
+<div id="text_warp">
+
+
+<p><h1>Lancang Besar</h1></p>
+<table>
+<tr>
+	<td>Nama Lain</td> <td>:</td> <td></td>
+</tr>
+<tr>
+	<td>Propinsi</td> <td>:</td> <td>DKI JAKARTA</td>
+</tr>
+<tr>
+	<td>Kabupaten</td> <td>:</td> <td>KABUPATEN KEPULAUAN SERIBU</td>
+</tr>
+<tr>
+	<td>Kecamatan</td> <td>:</td> <td></td>
+</tr>
+<tr>
+	<td>Koordinat</td> <td>:</td> <td><a href="http://www.ppk-kp3k.kkp.go.id/giskkp/index.html?extent="target="_blank">5° 55' 41.000</a></td>
+</tr>
+</table>
+<hr>
+
+<h2><a id="gu">Gambaran Umum</a></h2>
+<p><div class="readmore"><p>
+	<span style="color:#ff0000;"><strong>SEJARAH NAMA PULAU</strong></span></p>
+<p style="text-align: justify; margin-left: 40px;">
+	Setiap pulau di Kepulauan Seribu, memiliki nama yang unik. Nama unik ini memiliki sejarahnya tersendiri. Salah satunya adalah Pulau Lancang Besar, Kelurahan Pulau Pari, Kepulauan Seribu Selatan.</p>
+<p style="text-align: justify; margin-left: 40px;">
+	Menurut penuturan warga Pulau Lancang Besar, Aman (89), salah satu tetua masyarakat yang masih hidup, sekitar tahun 1933 pulau ini masih dihuni oleh sekitar tiga keluarga. &quot;Dulu itu cuma ada tiga rumah di sini,&quot; kata Aman membuka kisahnya.</p>
+<p style="text-align: justify; margin-left: 40px;">
+	Sebelum bernama Pulau Lancang Besar, Pulau ini bernama Pulau Klancang. Diberi nama Pulau Klancang, ada sejarahnya. Dahulu ada sepasang Kakek Uwak Arus istrinya yang berkebun dan mengumpulkan Kayu Bakar. Kayu Bakar ini, dijual ke seberang daratan (sekarang Tangerang, Banten).</p>
+<p style="text-align: justify; margin-left: 40px;">
+	Uwak Arus ini membawa Kayu Bakar untuk dijual ke daratan seberang dengan menggunakan perahu. &quot;Ketika hendak menyebrang ke daratan, perahu Kakek dan istrinya tersebut belum begitu jauh dari pulau, tiba-tiba ikan banyak yang berloncatan ke dalam perahu yang membawa kayu bakar tersebut,&quot; kisah Aman.&nbsp;</p>
+<p style="text-align: justify; margin-left: 40px;">
+	Karena banyak ikan yang berloncatan ke dalam perahu dan membuat perahu semakin berat, dibuanglah kayu bakar yang dibawa oleh kakek dan nenek ini. Setelah dibuang, kayu bakar hanya bersisa dua ikat, namun ikannya belum berhenti meloncat ke dalam perahu. Setelah ditelusuri rupanya ada kayu yang menarik perhatian ikan. Kayu ini adalah kayu dari tanaman Klancang. &quot;Ikannya berhenti meloncat setelah kayu Klancang ini dibuang,&quot; kata Aman.</p>
+<p style="text-align: justify; margin-left: 40px;">
+	Mulai saat itu, pulau ini dinamakan Pulau Klancang Besar. Seiring dengan berjalannya waktu, warga lebih mudah menyebut pulau ini dengan nama Pulau Lancang karena lebih mudah pelafalannya atau pengucapannya.</p>
+<p style="text-align: justify;">
+	<span style="color:#ff0000;">WILAYAH ADMINISTRASI</span></p>
+<p style="text-align: justify; margin-left: 40px;">
+	Berdasarkan Peraturan Daerah Provinsi DKI Jakarta Nomor: 4 tahun 2001 tentang Pembentukan Kecamatan Kepulauan Seribu Utara dan Kecamatan Kepulauan Seribu Selatan Kabupaten Kepulauan Seribu, Pulau Lancang Besar termasuk pulau pemukiman masyarakat nelayan yang berada dalam wilayah Kelurahan Pulau Pari Kecamatan Kepulauan Seribu Selatan, dengan luas wilayah sebesar 15,13 hektar.&nbsp;</p>
+<p style="text-align: justify; margin-left: 40px;">
+	Secara administrasi Pulau Lancang Besar berbatasan dengan:</p>
+<ul>
+	<li style="text-align: justify; margin-left: 40px;">
+		Sebelah Utara &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : berbatasan dengan Pulau Tikus</li>
+	<li style="text-align: justify; margin-left: 40px;">
+		Sebelah Timur &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : berbatasan dengan Pulau Lancang Kecil</li>
+	<li style="text-align: justify; margin-left: 40px;">
+		Sebelah Selatan &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : berbatasan dengan Pulau Laki.</li>
+	<li style="text-align: justify; margin-left: 40px;">
+		Sebelah Barat &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : berbatasan dengan Pulau Bokor.</li>
+</ul>
+<p style="text-align: justify; margin-left: 40px;">
+	Luas wilayah Pulau Lancang Besar, Kelurahan Pulau Pari, Kecamatan Kepulauan Seribu Selatan mencapai 15,13 Ha (Profil Kelurahan, 2013). Pulau ini berada di tengah gugusan pulau yang berderet dari selatan ke utara perairan Jakarta. Dengan pantainya yang berpasir putih dan berair bening kehijauan, Pulau Lancang Besar menjadi salah satu objek wisata di Kepulauan Seribu.</p>
+<p style="text-align: justify; margin-left: 40px;">
+	Pulau Lancang Besar adalah pulau berpenduduk yang terletak di wilayah Kelurahan Pulau Pari dan Kecamatan Kepulauan Seribu Selatan. Pulau Lancang Besar terdiri dari tiga rukun warga dan sepuluh rukun tetangga.</p>
+<p style="text-align: justify; margin-left: 40px;">
+	Penduduk di Pulau Lancang Besar mencapai 1.481 jiwa dengan luas wilayah 15,13 hektar. Pulau ini juga ditetapkan sebagai pusat pemerintahan kelurahan Pulau Pari dan dalam rangka meningkatkan pelayanan kepada masyarakat, di sini juga telah disediakan kantor lurah, rumah dinas pejabat kelurahan, sekolah, pos penjagaan polisi, Puskesmas, dan sebagainya (Profil Kelurahan, 2013).</p>
+<p style="text-align: justify;">
+	<strong><span style="color:#ff0000;">AKSESIBILITAS</span></strong></p>
+<p style="text-align: justify;">
+	Untuk mencapai Pulau Lancang Besar dapat ditempuh dengan pilihan rute:</p>
+<ol>
+	<li style="text-align: justify;">
+		<p>
+			Dari Pelabuhan Muara Cituis atau nama trendnya <a href="http://pulancang.blogspot.com/" target="_blank">pelabuhan Muara Saban</a>/Rawa Saban jurusan kapal Pulau Lancang Besar Rp. 15.000,-&nbsp; per tiket berlaku untuk 1 orang, Jadwal keberangkatan dari pelabuhan Muara Saban menuju Pulau Lancang Besar jam 09.00 pagi - 12.00 WIB siang - 15.00 WIB sore.</p>
+	</li>
+	<li style="text-align: justify;">
+		<p>
+			Dari Pelabuhan Kali Adem atau Pelabuhan Kepulauan Seribu di Muara Angke, Jakarta Utara( kapal kerapu - jurusan Pulau Lancang Besar Rp. 36.000,- per tiket berlaku untuk 1 orang dengan jarak 25,11 km.</p>
+	</li>
+</ol>
+<p style="text-align: justify;">
+	KONDISI FISIK</p>
+<ol>
+	<li>
+		<strong>Klimatologi</strong></li>
+</ol>
+<p style="text-align: justify; margin-left: 40px;">
+	Tipe iklim di 11 pulau permukiman adalah tropika panas dengan suhu maksimum&nbsp; 32&deg;C, suhu minimum 21,6&deg;C dan suhu rata-rata 27&deg;C serta kelembaban udara 80%.&nbsp; Curah hujan cukup tinggi dimana bulan terbasah yaitu pada Januari. Curah hujan yang tercatat mencapai 100 s.d.. 400 mm. Sedang pada bulan-bulan kering yaitu bulan Juni dengan September, curah hujan bermusim yang dominan di wilayah Kepulauan Seribu yaitu Musim Barat (musim angin barat disertai hujan lebat) dan Musim Timur (musim angin timur serta kering).&nbsp;</p>
+<p style="text-align: justify; margin-left: 40px;">
+	Keadaan angin di Kepulauan Seribu sangat dipengaruhi oleh angin Moson yang secara garis besar dapat dibagi menjadi angin musim barat (Desember-Maret) dan angin musim timur (Juni-September). Musim pancaroba terjadi antara bulan April s.d. Mei dan Oktober s.d. Nopember. Kecepatan angin pada berkisar antara 7 s.d. 20 knot/jam, biasanya terjadi pada bulan Desember s.d. Pebruari. Pada musim Timur kecepatan angin berkisar antara 7 s.d. 15 knot yang bertiup dari arah Timur Laut sampai Tenggara.&nbsp; Musim hujan di Kepulauan Seribu biasanya terjadi antara bulan Nopember-April dengan hari hujan antara 10 s.d. 20 hari/bulan. Curah hujan terbesar terjadi</p>
+<p style="text-align: justify; margin-left: 40px;">
+	Pada bulan Januari. Curah hujan tahunan sekitar 1.700 mm. Musim kemarau kadang-kadang juga terdapat hujan dengan jumlah hari hujan antara 4 s.d. 10 hari per bulannya. Biasanya curah hujan terkecil terjadi pada bulan Agustus.</p>
+<p style="text-align: justify; margin-left: 40px;">
+	Suhu udara rata-rata antara 26,5&deg;C s.d. 28,5&deg;C dengan suhu udara maksimum tahunan 29,5&deg;C s.d. 32,9&deg;C dan minimum 23,0&deg;C s.d. 23,8&deg;C. Kelembaban nisbi rata-rata berkisar antara 75% s.d.&nbsp; 99%, tekanan udara rata-rata antara 1009,0 s.d. 1011,0 mb. Arus permukaan pada musim barat berkecepatan maksimum 0.5 m/detik dengan arah ke Timur sampai Tenggara. Pada musim timur kecepatan maksimumnya 0,5 m/detik. Gelombang laut yang terdapat pada musim barat mempunyai ketinggian antara 0,5 s.d. 1,75 meter dan musim timur 0,5 s.d. 1,0 meter. Suhu permukaan di Kepulauan Seribu pada musim Barat berkisar antara 28,5&deg;C s.d. 30,0&deg;C dan pada musim Timur permukaan antara 28,5&deg;C s.d. 31,0&deg;C. Salinitas permukaan berkisar antara 30% s.d. 34% pada musim barat maupun pada musim timur (Sumber: <a href="http://www.jakarta.go.id">www.jakarta.go.id</a>).</p>
+<ol start="2">
+	<li style="text-align: justify;">
+		<strong>Oceanografi</strong></li>
+</ol>
+<p style="text-align: justify; margin-left: 40px;">
+	Secara umum keadaan laut mempunyai kedalaman yang berbeda-beda yaitu berkisar antara 0 s.d. 40 meter. Hanya ada 2 tempat yang mempunyai kedalaman lebih dari 40 meter, yaitu sekitar Pulau Payung dan Pulau Tikus/Pulau Pari.</p>
+<ol start="3">
+	<li style="text-align: justify;">
+		<strong>Hidrologi</strong></li>
+</ol>
+<p style="text-align: justify; margin-left: 40px;">
+	Di Kepulauan Seribu tidak dijumpai sumber hidrologi permukaan seperti sungai, dan mata air. Kondisi air tanah sangat tergantung dengan kepadatan vegetasinya. Untuk pulau-pulau yang mempunyai vegetasi yang padat dan mempunyai lapisan tanah yang cukup tebal, maka kondisi air tanah mempunyai kualitas tanah yang baik (tawar). Hal tersebut karena vegetasi dan lapisan tanah tersebut menyimpan air tanah yang berasal dari hujan</p>
+<ol start="4">
+	<li style="text-align: justify;">
+		<strong>Topografi </strong></li>
+</ol>
+<p style="text-align: justify; margin-left: 40px;">
+	Pada umumnya topografi Kepulauan Seribu rata-rata landai (0 s.d.. 15% dengan ketinggian 0 s.d.. 2 meter&nbsp; di atas permukaan laut). Luas daratan masing-masing pulau terpengaruh oleh adanya pasang surut yang mencapai 1 s.d.. 15 meter di atas Pelabuhan Tanjung Priok.</p>
+<ol start="5">
+	<li style="text-align: justify;">
+		<strong>Jenis Tanah </strong></li>
+</ol>
+<p style="text-align: justify; margin-left: 40px;">
+	Pada umumnya keadaan geologi Kepulauan Seribu terbentuk dari batuan kapur, karang/pasir dan sedimen yang berasal dari Pulau Jawa dan Laut Jawa, terdiri dari susunan bebatuan malihan/metamorfosadan batuan beku, di atas batuan dasar disendapkan sedimen epiklasik, batu gamping, batu lempung yang menjadi dasar pertumbuhan gampingterumbu. Sebagian besar terumbu karang yang ada masih mengalami pertumbuhan.&nbsp;</p>
+<p style="text-align: justify; margin-left: 40px;">
+	Jenis tanah di daratan berupa pasir koral yang merupakan pelapukan dari batu gamping terumbu koral dengan ketebalan umumnya &lt; 1 m dan di beberapa tempat dapat mencapai ketebalan 5 m, pasir koral merupakan hancuran (detrital) yang berwarna putih keabuan, lepas.</p>
+<p style="text-align: justify; margin-left: 40px;">
+	Pada beberapa pulau khususnya pada daratan pantai sering ditumbuhi oleh pohon bakau sehingga dijumpai lapisan tanah organik yang sangat lunak berasal dari pelapukan tumbuh-tumbuhan serta material yang terbawa oleh arus laut dan tertahan pada akar pohon bakau.&nbsp; Secara umum keadaan laut mempunyai kedalaman yang berbeda-beda yaitu berkisar antara 0 s.d. 40 meter.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="ksbk">Kependudukan, Sosial Budaya dan Kelembagaan</a></h2>
+<p><div class="readmore"><p style="text-align: justify;">
+	<span style="color:#ff0000;"><strong>KEPENDUDUKAN</strong></span></p>
+<p style="text-align: justify;">
+	Data kependudukan sampai dengan bulan Juli 2013 dan tercatat di Kantor Kelurahan Pulau Pari menyatakan bahwa masyarakat nelayan Pulau Lancang Besar berjumlah sebanyak 372 kepala keluarga (KK), atau sebanyak 1.481 jiwa. Populasi kepala keluarga dan penduduk ini tersebar di dalam 3 Rukun Warga (RW) dan 10 Rukun Tetangga (RT) sebagai berikut:</p>
+<p style="text-align: justify; margin-left: 40px;">
+	1. RW 01 didiami oleh 177 KK atau 664 jiwa, terdiri dari 4 RT yakni:</p>
+<ul style="margin-left: 40px;">
+	<li style="text-align: justify;">
+		RT 01 terdiri dari 58 KK atau 229 jiwa;</li>
+	<li style="text-align: justify;">
+		RT 02 terdiri dari 44 KK atau 168 jiwa;</li>
+	<li style="text-align: justify;">
+		RT 03 terdiri dari 31 KK atau 86 jiwa;</li>
+	<li style="text-align: justify;">
+		RT 04 terdiri dari 44 KK atau 180 jiwa;</li>
+</ul>
+<p style="text-align: justify; margin-left: 40px;">
+	2. RW 02 didiami oleh 100 KK atau 363 jiwa, terdiri dari 3 RT yakni:</p>
+<ul style="margin-left: 40px;">
+	<li style="text-align: justify;">
+		RT 01 terdiri dari 24 KK atau 93 jiwa;</li>
+	<li style="text-align: justify;">
+		RT 02 terdiri dari 45 KK atau 162 jiwa;</li>
+	<li style="text-align: justify;">
+		RT 03 terdiri dari 31 KK atau 108 jiwa;</li>
+</ul>
+<p style="text-align: justify; margin-left: 40px;">
+	3. RW 03 didiami oleh 167 KK atau 454 jiwa, terdiri dari 3 RT yakni:</p>
+<ul>
+	<li style="text-align: justify; margin-left: 40px;">
+		RT 01 terdiri dari 48 KK atau 164 jiwa;</li>
+	<li style="text-align: justify; margin-left: 40px;">
+		RT 02 terdiri dari 64 KK atau 169 jiwa;</li>
+	<li style="text-align: justify; margin-left: 40px;">
+		RT 03 terdiri dari 55 KK atau 121 jiwa;</li>
+</ul>
+<p style="text-align: justify; margin-left: 40px;">
+	Berdasarkan hasil survey daerah asal penduduk yang terbanyak 34% berasal dari Sulawesi, 30% berasal Jawa Barat, 29% berasal Tangerang/Jakarta, 6% berasal dari Jawa dan 1% berasal dari Sumatera.</p>
+<p style="text-align: justify;">
+	<span style="color:#ff0000;"><strong>SOSIAL BUDAYA</strong></span></p>
+<p style="text-align: justify; margin-left: 40px;">
+	Ditinjau secara bahasa, masyarakat nelayan Pulau Lancang Besar dan pesisir pantai Rawa Saban memiliki persamaan logat dan&nbsp; istilah penggunaan kosa kata bahasa yang digunakan sehari-hari.</p>
+<p style="text-align: justify; margin-left: 40px;">
+	Kosa kata tersebut sering digunakan sebagai bahasa sehari-hari dilingkungan&nbsp; masyarakat pulau maupun masyarakat Rawa Saban. Kesamaan logat dan bahasa tersebut menjadi alasan yang kuat mengapa nelayan Pulau Lancang masih tetap eksis melakukan transaksi jual beli ikan dengan masyarakat pesisir pantai Rawa Saban Kabupaten Tangerang.</p>
+<p style="text-align: justify; margin-left: 40px;">
+	Kultur ekonomi masyarakat nelayan Pulau Lancang Besar memiliki kesamaan dengan masyarakat pesisir pantai Kabupaten Tangerang (Rawa Saban) yakni menggantungkan hidupnya dengan mencari ikan di laut. Disatu sisi masyarakat pesisir pantai Kabupaten Tangerang ladang mencari ikannya di wilayah perairan laut Pulau Lancang Besar disisi lain masyarakat nelayan Pulau Lancang Besar menjual hasil tanggakapannya ke masyarakat pesisir pantai Kabupaten Tangerang (Rawa Saban), hal ini sudah terjadi sejak turun temurun.</p>
+<p style="text-align: justify; margin-left: 40px;">
+	Masyarakat nelayan Pulau Lancang Besar selama ini menjual hasil tangkapan ikannya dalam jumlah yang besar ke nelayan pesisir Rawa Saban baik dilakukan secara tunai maupun yang dilakukan secara hutang. Penjualan yang dilakukan secara hutang dan terus menerus ini kemudian membentuk ikatan emosional antara penjual dan pembeli sehingga menimbulkan rasa persaudaraan yang kental dan bahkan tidak sedikit yang kemudian menjadi hubungan kekerabatan.</p>
+<p style="text-align: justify; margin-left: 40px;">
+	&nbsp;</p>
+</div></p>
+
+<hr>
+
+<h2><a id="eshp">Ekosistem dan Sumberdaya Hayati</a></h2>
+<p><div class="readmore"><p style="margin-left: 42.55pt;">
+	<strong>Ekosistem Mangrove</strong></p>
+<p style="margin-left:42.55pt;">
+	Pulau Lancang Besar memiliki tanaman mangrove yang cukup luas dan tersebar disebelah utara sertasebelah barat. Pada bagian sebelah utara, tanaman mangrove tersebut hampir menyambungdengan Pulau Lancang Kecil. Banyak sekali manfaat dari Hutan bakau ini terutama sebagai Pemecah ombak dan ternyata hutan bakau terbukti lebih efektif daripada pembuatan bangunan tanggul pemecah ombak.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="snh">Sumberdaya Non Hayati</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<h2><a id="aps">Aktivitas Pengelolaan Sumberdaya</a></h2>
+<p><div class="readmore"><p>
+	<strong>Perikanan tangkap</strong></p>
+<p>
+	Hasil tangkapan laut nelayan Pulau Lancang Besar menjadi salah satu bagian (unsur) yang ikut mewarnai keberadaan pasar ikan khususnya di wilayah Kota dan Kabupaten Tangerang, hanya sebahagian kecil saja hasil laut nelayan Pulau Lancang Besar yang didistribusikan ke Jakarta yakni yang berasal dari nelayan Pulau Lancang Besarberupa ikan kerapu hidup, ikan kue hidup yang dikirimkan ke restauran di wilayah Ancol selama satu minggu dua kali.<br />
+	Bagi nelayan Pulau Lancang Besarkeadaan seperti ini lebih efisien dan lebih efektif, karena apabila hasil tangkapan laut nelayan Pulau Lancang Besardi jual ke Jakarta memerlukan biaya transportasi yang jauh lebih mahal dibandingkan dengan menjual ke Kabupaten Tangerang, lagi pula menjadi tidak sebanding antara hasil penjualan ikan dengan biaya yang dikeluarkan apabila dijual ke Jakarta. Kondisi letak geografis sebelah timur Pulau Lancang Besaryang lebih dekat dengan wlayah Kabupaten Tangerang (Rawa Saban) 40 menit ditempuh dengan kapal motor nelayan dibandingkan dengan Pulau Lancang Besarke Jakarta (Muara angke, Ancol, Dadap, Pasar ikan dan Tanjung Periuk) 90 menit ditempuh dengan kapal motor nelayan menjadi pilihan alternatif yang sangat rasional bagi nelayan. Hal ini dipermudah dengan adanya ikatan kekeluargaan, budaya bahasa,&nbsp; kesamaan kultur ekonomi dan jaringan pemasaran.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="ling">Lingkungan</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<h2><a id="sp">Sarana dan Prasarana</a></h2>
+<p><div class="readmore"><ol>
+	<li>
+		Sarana Pemerintahan</li>
+</ol>
+<p style="text-align: justify; margin-left: 40px;">
+	Pulau Lancang Besar merupakan ibukota dari Kelurahan Pulau Pari. Sebagai ibukota kelurahan, pulau ini telah disediakan berbagai fasilitas penunjang pemerintahan seperti kantor kelurahan, rumah dinas pejabat kelurahan, sekolah SDdan SMP,&nbsp; Pos penjagaan polisi, Puskesmas dan lain sebagainya.</p>
+<ol>
+	<li value="2.1">
+		<strong>Kesehatan</strong></li>
+</ol>
+<p style="text-align: justify; margin-left: 40px;">
+	Pulau Lancang Besar saat ini sudah memenuhi standar kesehatan pemerintah daerah DKI Jakarta, karena peran aktif warga, pemuda dan kelompok PKK telah mengembangkan pelayanan kesehatan di Pulau Lancang Besar sendiri.</p>
+<p style="text-align: justify; margin-left: 40px;">
+	Selain rutin dalam Lomba Perilaku Hidup bersih dan sehat, para warga juga selalu mendapatkan perhatian dari pemerintah daerah dalam, meningkatkan kualitas kesehatan, semua ini bisa dilihat dari mulai tumbuhnya pengunjung ke Pulau Lancang Besar di karenakan fasilitas kesehatannya telah memenuhi standar. Sarana kesehatan terdiri dari sebuah pos kesehatan dan empat buah posyandu. Petugas kesehatan yang ada di Pulau Lancang Besar terdiri dari 4 orang dokter umum, 2 orang bidan, dan 10 orang paramedis.</p>
+<p style="text-align: justify; margin-left: 40px;">
+	Kegiatan Jumat Bersih yang dilaksanakan tiap Hari Jumat merupakan upaya dan bukti keseriusan warga bersama pemerintahan kelurahan setempat menjadikan Pulau Lancang Besar sebagai Kawasan Andalan Wisata Pemukiman di Kepulauan Seribu.</p>
+<ol start="3">
+	<li style="text-align: justify;">
+		<strong>Pendidikan</strong></li>
+</ol>
+<p style="text-align: justify; margin-left: 40px;">
+	Sarana pendidikan yang ada di Pulau Lancang Besar terdiri dari 1 PAUD, 2 TK, 1 SD, 1 Madrasah Attoyibah, dan 2 SMP. Jumlah murid sekitar 462 siswa. Dimana jumlah total murid perempuan adalah lebih banyak yakni berjumlah 237 siswa sedangkan murid laki-laki yakni berjumlah 225 siswa</p>
+<ol start="4">
+	<li style="text-align: justify;">
+		<strong>Peribadatan</strong></li>
+</ol>
+<p style="text-align: justify; margin-left: 40px;">
+	Sarana peribadatan yang ada di Pulau Lancang Besar terdiri dari 1 buah masjid dan 3 buah mushola, tidak terdapat fasilitas peribadatan agama lain karena 100% penduduk Pulau Lancang Besar memeluk agama Islam.</p>
+<ol start="5">
+	<li style="text-align: justify;">
+		<strong>Transportasi</strong></li>
+</ol>
+<p style="text-align: justify; margin-left: 40px;">
+	Jenis sarana transportasi yang ada di Pulau Lancang terdiri dari transportasi darat dan transportasi laut. Sarana transportasi darat meliputi sepeda motor, sepeda dan gerobak. Sarana transportasi darat yang ada di pulau ini didukung dengan prasarana jalan yaitu jalan permukiman yang terbuat dari paving block. Dengan lebar jalan untuk jalan desa 2 m dan untuk jalan gang sekitar 1 m. Jalan tersebut dibangun pada tahun 2001 oleh Pemda DKI Jakarta dan hingga saat ini kondisinya terbilang masih cukup baik.</p>
+<p style="text-align: justify; margin-left: 40px;">
+	Untuk keperluan transportasi laut, penduduk pulau ini masih menggunakan perahu pribadi dan transportasi reguler. Sarana transportasi laut yang tersedia di pulau ini antara lain Dermaga sepanjang sekitar 500 meter yang berada di depan permukiman penduduk. Dermaga ini kondisinya cukup terawat.</p>
+<ol start="6">
+	<li style="text-align: justify;">
+		<strong>Pen</strong><strong>erangan</strong></li>
+</ol>
+<p style="text-align: justify; margin-left: 40px;">
+	Sarana penerangan yang ada di Pulau Lancang Besar awalnya menggunakan aliran listrik PLTD namun sekarang sudah melalui jaringan kabel bawah laut sehingga listrik dapat menyala selama 24 jam. Sistem pembayaran listrik melalui listrik prabayar dengan voucher, masing-masing rumah sudah dilengkapi dengan instalasi listrik dengan besaran 900 watt per rumah. Sarana penerangan jalan di Pulau Lancang Besar sudah memadai sehingga jalan-jalan mayoritas terang pada saat malam hari.</p>
+<ol start="7">
+	<li style="text-align: justify;">
+		<strong>Air Bersih dan Sanitasi</strong></li>
+</ol>
+<p style="text-align: justify; margin-left: 40px;">
+	Sarana air bersih yang ada di Pulau Lancang Besar bisa didapatkan dari sumur dengan kedalaman 2 meter. Air tersebut oleh penduduk hanya digunakan untuk keperluan MCK saja dikarenakan airnya yang agak berasa payau, sedangkan untuk keperluan memasak penduduk menggunakan air hasil penyulingan <em>Reverse Osmosis</em> (RO) yang dibeli dengan harga Rp. 2.000,- per jerigen (20 liter). Fasilitas RO ini merupakan bantuan yang diberikan oleh Pemda DKI Jakarta dan Kementerian Pekerjaan Umum pada tahun 2005 yang pengelolaannya diserahkan kepada penduduk Pulau Lancang Besar. Reserve Osmosis (RO) menjadi kebutuhan yang mendesak bagi warga Pulau Lancang Besar untuk sarana air bersih, mandi dan untuk minum. Dari sisi sanitasi lingkungan, masyarakat pulau ini sebagian besar sudah memiliki kesadaran untuk menjaga kebersihan lingkungan. Tidak ada lagi pembuangan sampah di&nbsp; area perairan di sekitar pulau. Sarana dan prasarana umum lainya yang ada di Pulau Lancang Besar berupa 1 buah gedung pemerintahan terpadu, 1 buah balai pertemuan, 3 unit MCK Umum, 1 buah lapangan sepakbola dan 1 buah lapangan bola voley.</p>
+<ol start="8">
+	<li style="text-align: justify;">
+		<strong>Penginapan</strong></li>
+</ol>
+<p style="text-align: justify; margin-left: 40px;">
+	Pulau Lancang Besar telah dilengkapi dengan sarana penginapan. Penginapan yang terdapat di pulau ini berjumlah 5 buah. Harga yang ditawarkan untuk satu kamar berkisar antara Rp. 200.000 sampai Rp. 250.000 per malam. Selain penginapan, di pulau ini telah tersedia warung makan yang berada di dekat dermaga atau sebelah timur pulau.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="pi">Peluang Investasi</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<h2><a id="pap">Potensi dan Arahan Pengembangan</a></h2>
+<p><div class="readmore"><p>
+	Sebagai upaya pemerintah Kabupaten Administrasi Kepulauan Seribu dalam meningkatkan sektor pariwisata yang berbasis pada pemberdayaan masyarakat, Pulau Lancang Besar telah ditetapkan sebagai kawasan andalan wisata masal kedua setalah Pulau Untung Jawa. Dalam rangka itu, pembangunan struktur dan infrastruktur di Pulau Lancang Besar mulai dilakukan. Seperti pembangunan homestay percontohan, penyediaan tambak bandeng untuk wisata pancing, puskesmas, tanggul pemecah ombak, penataan jalan berserta sarana penunjangnya melalui program PPMK, beutiftkasi dermaga dan pembentukan kelembagaan masyarakat sadar wisata.<br />
+	Pulau Lancang Besar juga terkenal dengan hasil tangkap nelayannya berupa kepiting, ikan teri. Sektor pariwisata dan hasil laut ini tampaknya dapat menjadi potensi berharga yang perlu dikembangkan.<br />
+	Pemerintah sadar bahwa penciptaan kawasan baru di Pulau Lancang Besar tidak saja ditujukan bagi eksistensinya Pemerintah Kabupaten secara utuh, akan tetapi lebih jauh lagi ditujukan bagi peningkatan taraf hidup masyarakat di Pulau Lancang Besar. Sehingga multiplier efek yang dapat ditimbulkan tidak saja berdampak bagi pendapatan Pemerintah, lebih dari itu semua pada akhirnya diharapkan mampu mendongkrak pendapatan masyarakat itu sendiri. Seperti telah diketahui bahwa sebagian besar masyarakat masih bermata pencaharian sebagai nelayan tradisional, maka dengan berkembangnya Pulau Lancang Besar ini, maka masyarakat di dorong untuk lebih memperkaya kemampuannya tidak saja pada bidang perikanan akan tetapi jasa pariwisata, dan lain sebagainya karena Pulaunya telah menjadi bagian dari destinasi wisatawan.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="kp">Kendala Pengembangan</a></h2>
+<p><div class="readmore"><p>
+	Beberapa karakteristik ekosistem Pulau Lancang Besar yang dapat merupakan kendala bagi pembangunan adalah :</p>
+<p>
+	1. Sentimen masyarakat terhadap adanya program pemerintah yang berkaitan dengan adanya pencanangan Pulau Lancang Besarsebagai daerah tujuan wisata ke dua setelah Pulau Untung Jawa. Dari Letak geografis yang paling terkena dampak dari program tersebut. Misalnya program penertiban (penataan) bagan dan rumah-rumah tempat memasak ikan teri yang sebahagian besar&nbsp; berada di Pulau LancangBesar, sehingga secara langsung sangat terasa dampaknya terhadap perekonomian masyarakat. Hal ini terjadi karena pemerintah setempat sangat kurang melakukan pencerahan/pembinaan/sosialisasi dan alih gunaprofesi atas program tersebut, sementara bagan-bagan dan rumah-rumah tempat memasak ikan teri telah habis di gusur oleh pemerintah setempat yang berarti mematikan usaha perekonomian masyarakat.Untuk itu masyarakat mengharapkan pemerintah setempat dapat mencarikan solusinya mengatasi permasalahan tersebut.</p>
+<p>
+	2. Sehubungan dilarangnya pemasangan bagan-bagan tancap di wilayah barat Pulau LancangBesar, untuk itu masyarakat mengharapkan bantuan benih atau bibit ikan kerapu sebesar 10 cm kepada pemerintah untuk alih profesi sebagai nelayan keramba (budidaya kerapu).</p>
+</div></p>
+
+<hr>
+
+<h2><a id="rf">Referensi</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<br />
+	<i> 
+		<p style="font-size:12px;">
+			Karena keterbatasan SDM dalam penginputan dan pengolahan data, kami mohon maaf atas ketidak lengkapan beberapa data pulau yang kami tampilkan, harap dimaklumi.
+			Berikan keritik dan saran pada kolom komentar agar kita dapat bersama menyajikan sebuah data yang cukup sempurna untuk halayak ramai yang berguna
+			demi kesejahterahan, kelestarian dan keindahan pulau-pulau kecil yang dimiliki Indonesia.<br />
+			*Jika sekiranya anda memiliki data yang cukup banyak, silakan mengirimkan file melalui email kami di <b><a>identifikasippk@gmail.com</a></b>
+			
+		</p>
+	</i>
+<br />
+
+<div id="fb_comn" class="fb-comments" data-href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_info/4198" data-width="800" data-numposts="5" data-colorscheme="light"></div>
+
+
+</div>
+</div>
+</div>
+<div id="wrapper">
+
+<div class="footer"><p>
+<!--<marquee onmouseover="this.stop()" onmouseout="this.start()" scrollamount="5" direction="right" width="798" height="14"  behavior="scroll">-->
+<a href="http://www.ppk-kp3k.kkp.go.id/" target="_blank">Direktorat Pendayagunaan Pulau-Pulau Kecil &nbsp; | &nbsp;</a>
+<a href="http://www.kp3k.kkp.go.id/" target="_blank">Ditjen Kelautan, Pesisir dan Pulau-Pulau Kecil &nbsp; | &nbsp;</a>
+<a href="http://www.kkp.go.id/" target="_blank">Kementerian Kelautan dan Perikanan</a>
+<!--</marquee>--> <br />
+Jl. Medan Merdeka Timur No. 16 Gedung Mina Bahari 3 Lantai 10, Jakarta, Indonesia <br />
+Email : identifikasippk@gmail.com <br />
+Telp &amp; Fax: (021) 3522058 <br />
+&copy; Copyright Direktorat Pendayagunaan Pulau-Pulau Kecil 2012&nbsp; <br /></p>
+</div>
+</div>
+</body>
+</html>

@@ -1,0 +1,660 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Pulau Ra'as</title>
+
+<meta charset="utf-8"/>
+
+<meta property="fb:app_id" content="559408774147878" />
+
+
+<meta property="og:title" content="Pulau Ra'as" />
+<meta property="og:url" content="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_info/4714" />
+
+
+    <script type="text/javascript" src="http://ajax.microsoft.com/ajax/jquery/jquery-1.4.4.min.js">
+    </script>
+    
+    <script type="text/javascript" src="http://plugins.learningjquery.com/expander/jquery.expander.js">
+    </script>
+    
+    <script type="text/javascript">
+        $(function () {
+            $('div.readmore').expander({
+                slicePoint:200,
+                expandText: '(Baca selengkapnya)',
+                userCollapseText: '(Sembunyikan selengkapnya)'
+            });
+        });
+    </script>
+        
+	<script src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/galleria/galleria-1.2.8.min.js"></script>
+
+        <SCRIPT TYPE="text/javascript">
+            <!--
+            //Disable right click script
+            //visit http://www.rainbow.arch.scriptmania.com/scripts/
+            var message="Sorry, right-click has been disabled";
+            ///////////////////////////////////
+            function clickIE() {if (document.all) {(message);return false;}}
+            function clickNS(e) {if
+            (document.layers||(document.getElementById&&!document.all)) {
+            if (e.which==2||e.which==3) {(message);return false;}}}
+            if (document.layers)
+            {document.captureEvents(Event.MOUSEDOWN);document.onmousedown=clickNS;}
+            else{document.onmouseup=clickNS;document.oncontextmenu=clickIE;}
+            document.oncontextmenu=new Function("return false")
+            // -->
+            </SCRIPT>
+            
+            <SCRIPT TYPE="text/javascript">
+            <!--
+            //Disable select-text script (IE4+, NS6+)
+            //visit http://www.rainbow.arch.scriptmania.com/scripts/
+            ///////////////////////////////////
+            function disableselect(e){
+            return false
+            }
+            function reEnable(){
+            return true
+            }
+            //if IE4+
+            document.onselectstart=new Function ("return false")
+            //if NS6
+            if (window.sidebar){
+            document.onmousedown=disableselect
+            document.onclick=reEnable
+            }
+            // -->
+            </SCRIPT>  
+              
+<link rel="stylesheet" type="text/css" href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/css/main.css" media="screen"/>
+<style type='text/css'>
+#info_wrap{
+	width:820px;
+	margin:0 auto;
+	text-shadow:0px 1px 1px #09F;
+}
+table{
+	color:#000000;
+}
+h1{
+	color:#000000;
+}
+.tengahin{
+	width: 105px;
+	height: 30px;
+	margin: 0 auto auto auto;
+}
+#box_view{
+	background-image:-webkit-gradient(linear, 0 0%, 0 100%, from(#FFFFFF), to(#E0F0F5));
+	background:#FFF;
+	color:#F60;
+	border: 1px solid #fff;
+	border-radius: 4px 4px 4px 4px;
+	box-shadow: 0 8px 6px -6px black;
+	position:fixed;
+	right:0;
+	top:150px;;
+	width:80px;
+	z-index:10;
+	padding-left:12px;
+	font-size:10px;
+	}
+#box_view li{
+	color:#F60;
+	margin-left:-30px;
+	}
+	#wrapper a b {
+	color: #FFF;
+	font-size:14px;
+}
+.batas{
+	float:left;
+	border-right-style:inset;
+	border-right-width:thin;
+	}
+.text_h_wrap{
+	
+	padding-left:450px;
+	padding-top:39px;
+	text-shadow:0px 1px 1px #09F;
+	}
+#wrapper .footer p{
+	font-size:12px;
+	color: #FFF;
+	text-align:center;
+	text-shadow:0px 1px 1px #09F;
+}
+td,th {
+	font-size: 12px;
+}
+
+marquee a{
+	color:#FFF
+	}
+#wrapper .footer a{
+	color: #FFFFFF;
+}
+</style>
+            
+<script>
+function goBack()
+  {
+  window.history.back()
+  }
+</script>
+<script type="text/javascript">
+function Popup( url, height, width )
+{
+    var windowProperties = "toolbar = 0, scrollbars = 1, location = 0, statusbar = 0, menubar = 0, resizable = 1, width = " + width + ", height = " + height + ", left = 50, top = 50";
+ 
+    return window.open( url, "", windowProperties );
+}
+</script>
+
+
+
+</head>
+<body oncontextmenu='return false;' onkeydown='return false;' onmousedown='return false;'>
+
+<a id="top_view"></a>
+<div id="wrapper">
+<div class="header_wrap">
+<div class="text_h_wrap">
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/home_page'><b>&nbsp;Home&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/menu_info/1'><b>&nbsp;About Us&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_data'><b>&nbsp;Direktori Pulau&nbsp;&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/program_ip'><b>&nbsp;IKU&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/data_ppkt'><b>&nbsp;PPKT&nbsp;</b></a>
+</div>
+<!--<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/maintenance'><b>&nbsp;Login&nbsp;</b></a>-->
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/dir_log_cont'><b>&nbsp;Login&nbsp;</b></a>
+
+</div>
+</div>
+</div>
+
+<div id="fb-root"></div>
+<script>
+  window.fbAsyncInit = function() {
+    // init the FB JS SDK
+    FB.init({
+      appId      : '559408774147878',                        // App ID from the app dashboard
+      status     : true,                                 // Check Facebook Login status
+      xfbml      : true                                  // Look for social plugins on the page
+    });
+
+    // Additional initialization code such as adding Event Listeners goes here
+  };
+
+  // Load the SDK asynchronously
+  (function(){
+     // If we've already installed the SDK, we're done
+     if (document.getElementById('facebook-jssdk')) {return;}
+
+     // Get the first script element, which we'll use to find the parent node
+     var firstScriptElement = document.getElementsByTagName('script')[0];
+
+     // Create a new script element and set its id
+     var facebookJS = document.createElement('script'); 
+     facebookJS.id = 'facebook-jssdk';
+
+     // Set the new script's source to the source of the Facebook JS SDK
+     facebookJS.src = '//connect.facebook.net/en_US/all.js';
+
+     // Insert the Facebook JS SDK into the DOM
+     firstScriptElement.parentNode.insertBefore(facebookJS, firstScriptElement);
+   }());
+</script>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=559408774147878";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="box_view">
+    <a href="#top_view">MENU</a>
+    <h3><p>Lihat Informasi:</p></h3>
+    <ul>
+	<a href="#sf"><li>Slide Foto</li></a>
+    <a href="#gu"><li>Gambaran Umum</li></a>
+    <a href="#ksbk"><li>Kependudukan, Sosial Budaya dan Kelembagaan</li></a>
+    <a href="#eshp"><li>Ekosistem dan Sumberdaya Hayati</li></a>
+    <a href="#snh"><li>Sumberdaya Non Hayati</li></a>
+    <a href="#aps"><li>Aktivitas Pengelolaan Sumberdaya</li></a>
+    <a href="#ling"><li>Lingkungan</li></a>
+    <a href="#sp"><li>Sarana dan Prasarana</li></a>
+    <a href="#pi"><li>Peluang Investasi</li></a>
+    <a href="#pap"><li>Potensi Arahan Pengembangan</li></a>
+    <a href="#kp"><li>Kendala Pengembangan</li></a>
+	<a href="#rf"><li>Referensi</li></a>
+    </ul>
+    <a href="#fb_comn">KOMENTAR</a>
+</div>
+
+<br>
+			<a id="sf"></a></h2>
+			<div id="galleria">
+            <!--<div class='tengahin'><input type="button" value="Kembali Ke List" onclick="goBack()"></div>-->
+                            </div>
+            
+            <script>
+            Galleria.loadTheme('http://www.ppk-kp3k.kkp.go.id/direktori-pulau/galleria/themes/classic/galleria.classic.min.js');
+            Galleria.run('#galleria');
+            </script>
+</div>
+
+<div id="text_warp">
+
+
+<p><h1>Ra'as</h1></p>
+<table>
+<tr>
+	<td>Nama Lain</td> <td>:</td> <td></td>
+</tr>
+<tr>
+	<td>Propinsi</td> <td>:</td> <td>JAWA TIMUR</td>
+</tr>
+<tr>
+	<td>Kabupaten</td> <td>:</td> <td>KABUPATEN SUMENEP</td>
+</tr>
+<tr>
+	<td>Kecamatan</td> <td>:</td> <td></td>
+</tr>
+<tr>
+	<td>Koordinat</td> <td>:</td> <td><a href="http://www.ppk-kp3k.kkp.go.id/giskkp/index.html?extent="target="_blank">7° 8' 6.631</a></td>
+</tr>
+</table>
+<hr>
+
+<h2><a id="gu">Gambaran Umum</a></h2>
+<p><div class="readmore"><p style="text-align: justify;">
+	GAMBARAN UMUM</p>
+<p style="text-align: justify;">
+	Kondisi Umum Pulau</p>
+<p style="text-align: justify;">
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Kabupaten Sumenep yang terletek di ujung timur Pulau Madura, secara geografis terbagi atas dua bagian yaitu bagian daratan dengan luas 1.146.927.065 km<sup>2</sup> (54,79 %) dan&nbsp; bagian kepulauan dengan luas&nbsp; 946.530.508 km<sup>2</sup> (45,21 %) dari total luas wilayahnya dengan luas wilayah perairan sekitar 50.000 km2. Secara geografis, Kabupaten Sumenep terbentang antara 113<sup>o </sup>32&rsquo;54&rsquo;&rsquo; LS - 116<sup>o</sup> 16&rsquo;48&rsquo;&rsquo; LS dan 04<sup>o </sup>55&rsquo;33&rsquo;&rsquo; BT -&nbsp; 07<sup>o</sup> 24&rsquo;19&rsquo;&rsquo; BT.&nbsp; Jumlah kecamatan yang ada adalah 27 kecamatan yang terbagi atas 18 kecamatan di wilayah daratan dan 9 kecamatan terletak di kepulauan Kabupaten Sumenep. Kabupaten Sumenep memiliki pulau sangat banyak yaitu 126 pulau, terdiri dari 48 pulau berpenghuni dan 78 pulau tidak berpenghuni. Dari beberapa pulau tersebut Kabupaten Sumenep mengalami kendala dalam membangun dan mengelola pulau-pulau tersebut, sehingga pemerintah daerah membuat skala prioritas, salah satu prioritas pembangunan di Kabupaten Sumenep adalah mempercepat pembangunan daerah tertinggal di wilayah kepulauan maupun daratan secara proporsional. Salah satu pengelolaan pulau yang ada di Kabupaten Sumenep adalah Pulau Ra&rsquo;as.</p>
+<p style="text-align: justify;">
+	Pulau Ra&rsquo;as merupakan salah satu Kecamatan di wilayah kepulauan yang memiliki pulau-pulau kecil sebanyak 14 pulau, dengan 9 pulau berpenghuni dan 5 pulau tidak berpenghuni. Secara geografis, luas wilayah Kecamatan Ra&rsquo;as 38.903542 km<sup>2</sup> (38.90 km<sup>2</sup>) dengan batas-batas wilayah sebagai berikut :</p>
+<p style="text-align: justify;">
+	Sebelah Utara&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : Selat Madura</p>
+<p style="text-align: justify;">
+	Sebelah Selatan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : Laut Jawa</p>
+<p style="text-align: justify;">
+	Sebelah Timur&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : Selat Kangean</p>
+<p style="text-align: justify;">
+	Sebelah Barat&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : Selat Sapudi</p>
+<p style="text-align: justify;">
+	Pulau Ra&rsquo;as berada pada ketinggian sekitar 500 meter dari permukaan laut, kecamataan Ra&rsquo;as menurut topografinya termasuk daerah landai dengan tingkat kemiringan tanah kurang dari 30%. Ada 7 desa yang berada pada Pulau Ra&rsquo;as yaitu Desa Alas Malang, Poteran, Karang Nangka, Ketupat, Jungkat, Keropo dan Desa Berakas.</p>
+<p style="text-align: justify;">
+	Jumlah penduduk di Pulau Ra&rsquo;as pada tahun 2010 sebanayak 28,424 jiwa dengan perincian jumlah penduduk laki-laki sebanyak 13,699 jiwa dan jumlah penduduk perempuan sebanyak 14,725 jiwa. Laju pertumbuhan penduduk di Pulau Ra&rsquo;as selama 10 tahun terakhir antara tahun 2000-2010 yaitu sebesar 0.68% dan berada diurutan ke 5 dari 9 kecamatan yang ada di kepulauan Kabupaten Kumenep.</p>
+<p style="text-align: justify;">
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Pulau Ra&rsquo;as terletak pada koordinat antara 114,45<sup>0 </sup>- 114,65<sup>0</sup>BT dan 6,952<sup>0 </sup>- 7,2<sup>0</sup>LS. Di sebelah timur pulau ini terdapat sebuah pulau kecil yaitu Pulau Thondu yang, terletak pada koordinat antara 114,65<sup>0 </sup>- 114,7<sup>0</sup>BT dan 7,15<sup>0</sup> - 7,2<sup>0</sup>LS. Sementara itu, di sebelah barat pulau ini juga terdapat sebuah pulau yaitu Pulau Sapudi, sedangkan di sebelah selatan bagian timur ada sebuah pulau yang sangat kecil yaitu Pulau Klosot. Berdasarkan perhitungan dari citra satelit, luas Pulau Ra&rsquo;as adalah sekitar 31.582358 km<sup>2</sup>. Pulau Ra&rsquo;as dapat diakses dari daratan Sumenep tepatnya dari pelabuhan Kecamatan Dungkek menggunakan angkutan perahu motor, dengan jarak tempuh sekitar 3-4 jam.</p>
+<p style="text-align: justify;">
+	Kondisi Fisik Pulau</p>
+<p style="text-align: justify;">
+	- Klimatologi</p>
+<p style="text-align: justify;">
+	Pulau Ra&rsquo;as termasuk dalam kategori daerah tropis. Seperti daerah lain di Indonesia, musim hujan di Pulau Ra&rsquo;as dimulai bulan Oktober hingga Maret, dan musim kemarau bulan April hingga September. Rata-rata curah hujan di Pulau Ra&rsquo;as adalah 1.479 mm. Berdasarkan data tahun 2011 Temperatur Suhu udara di Pulau Ra&rsquo;as tertinggi terjadi di bulan September - Nopember (31,7&deg; C). Suhu udara relatif konsisten sepanjang tahun, dengan suhu rata-rata 30 derajat Celsius. Jumlah curah hujan terbanyak terjadi di bulan Desember. Rata-rata penyinaran matahari terlama di bulan Agustus dan terendah di bulan Februari. Sedangkan Kecepatan angin di bulan Juli merupakan yang tertinggi dan terendah di bulan Maret.&nbsp;</p>
+<p style="text-align: justify;">
+	<em>a. Curah Hujan </em></p>
+<p style="text-align: justify;">
+	Curah hujan merupakan ketinggian air hujan yang terkumpul dalam tempat yang datar, tidak menguap, tidak meresap, dan tidak mengalir. Curah hujan diukur dalam jumlah harian, bulanan, dan tahunan. Sepanjang 10 tahun terakhir (2001 - 2010), curah hujan tahunan tertinggi sebesar 2200 mm terjadi pada tahun 2010 dan terendah terjadi pada tahun 2005 sebesar 1217 mm.&nbsp; Jumlah hari hujan tahunan terendah sebesar 110 hari pada tahun 2004 dan tertinggi selama 221 hari pada tahun 2010.&nbsp;</p>
+<p style="text-align: justify;">
+	Curah hujan rata-rata bulan Januari sebesar 268 mm dan Agustus sebesar 6 mm masing-masing merupakan curah hujan rata-rata bulanan maksimum dan minimum.&nbsp; Jumlah hari hujan rata-rata bulanan tertinggi yaitu selama 22 hari untuk bulan Januari, Februari dan Desember sedangkan terendah pada bulan Agustus dan September rata-rata selama 2 hari. Rata-rata jumlah hari hujan dalam sebulan adalah 12 hari. Bulan kering (CH &lt; 60 mm) rata-rata terjadi pada bulan Juni hingga September (4 bulan) sedangkan bulan basah (CH &gt; 100 mm) rata-rata terjadi pada bulan Desember hingga April (5 bulan).</p>
+<p style="text-align: justify;">
+	<em>b. Suhu Udara</em></p>
+<p style="text-align: justify;">
+	Suhu udara adalah keadaan panas atau dinginnya udara. Suhu udara tertinggi di permukaan bumi adalah di daerah tropis (sekitar ekuator) dan makin ke kutub makin dingin. &nbsp;Suhu udara terasa dingin saat ketinggian bertambah. Tiap kenaikan bertambah 100 meter, suhu udara berkurang (turun) rata-rata 0,6 <sup>0</sup>C. Penurunan suhu semacam ini disebut gradien temperatur vertikal atau&nbsp;<em>lapse rate</em>. Pada udara kering, besar&nbsp;<em>lapse rate </em>adalah 1 <sup>0</sup>C.</p>
+<p style="text-align: justify;">
+	&nbsp;Berdasarkan hasil pengamatan Badan Metereologi Klimatologi dan Geofisika Wilayah Tanjung Perak Surabaya, rata-rata suhu udara minimum adalah 23,5 <sup>O</sup>C&nbsp; dan suhu udara maks 35,1<sup>O</sup>C, dimana Suhu udara rata-rata adalah 29<sup>O</sup>C&nbsp; dan berada dalam kisaran 28<sup>O</sup>C &ndash; 30<sup>O</sup>C.</p>
+<p style="text-align: justify;">
+	<em>c. Kelembapan Udara</em></p>
+<p style="text-align: justify;">
+	Kelembaban udara adalah tingkat kebasahan udara karena dalam udara air selalu terkandung dalam bentuk uap air. Berdasarkan hasil pengamatan Badan Metereologi Klimatologi dan Geofisika Wilayah Tanjung Perak Surabaya, kondisi kelembaban udara di sekitar Pulau Ra&rsquo;as ini, memiliki kondisi rata-rata kelembaban udara minimum 51 % dan maksimum 91 %, dan kelembaban udara rata-rata adalah 67 % (dalam kisaran 60 % &ndash; 72 %).</p>
+<p style="text-align: justify;">
+	<em>d. Lama Penyinaran Matahari</em></p>
+<p style="text-align: justify;">
+	Lama penyinaran matahari pada suatu tempat tergantung dari letak garis lintangnya, semakin rendah letak garis lintangnya maka semakin lama daerah tersebut mendapatkan sinar matahari dan suhu udaranya semakin tinggi, sebaliknya semakin tinggi letak garis lintang maka intensitas penyinaran matahari semakin kecil sehingga suhu udaranya semakin rendah.</p>
+<p style="text-align: justify;">
+	Berdasarkan hasil analisis data Badan Metereologi Klimatologi dan Geofisika Wilayah Tanjung Perak Surabaya, rata-rata lama penyinaran matahari maksimum adalah 99 % berkisar diantara 96 % hingga 100% per hari, sedangkan lama penyinaran matahari rata-rata bulanan adalah 73 % dan berada dalam kisaran 51 % - 92 %.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p style="text-align: justify;">
+	<em>e. Kecepatan Angin</em></p>
+<p style="text-align: justify;">
+	Angin memiliki hubungan yang erat dengan sinar matahari karena daerah yang terkena banyak paparan sinar mentari akan memiliki suhu yang lebih tinggi serta tekanan udara yang lebih rendah dari daerah lain disekitarnya sehingga menyebabkan terjadinya aliran udara. Angin juga dapat disebabkan oleh pergerakan benda sehingga mendorong udara di sekitarnya untuk bergerak ke tempat lain.</p>
+<p style="text-align: justify;">
+	Berdasarkan analisis data BMKG Tanjung Perak Surabaya, pada Bulan&nbsp; Januari-Maret 2012 angin mayoritas berasal dari arah Timur dan Tenggara. Dengan distribusi frekwensi terbesar sebanyak 78.1 % dengan kecepatan 11-17 knot, sedangkan distribusi frekwensi terendah sebanyak 4.2 % dengan kecepatan angin 17-21 knot.</p>
+<p style="text-align: justify;">
+	Oseanografi</p>
+<p style="text-align: justify;">
+	<em>a. Pola Arus</em></p>
+<p style="text-align: justify;">
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Bergeraknya massa air laut biasa disebut sebagai arus laut. Arus laut dapat terjadi akibat adanya gaya pembangkit arus yang bekerja baik pada lapisan antar muka (<em>interface</em>) air-udara ataupun pada badan air seperti angin, rotasi bumi, beda salinitas dan temperatur, dan gaya gravitasi bulan. Kedalaman perairan dan bentuk garis pantai akan mempengaruhi arah dan kecepatan arus laut. Definisi lain menyebutkan bahwa arus air laut adalah pergerakan massa air secara <a href="http://id.wikipedia.org/w/index.php?title=Vertikal&amp;action=edit&amp;redlink=1" title="Vertikal (halaman belum tersedia)">vertikal</a> dan <a href="http://id.wikipedia.org/w/index.php?title=Horisontal&amp;action=edit&amp;redlink=1" title="Horisontal (halaman belum tersedia)">horisontal</a> sehingga menuju keseimbangannya, atau gerakan air yang sangat luas yang terjadi di seluruh <a href="http://id.wikipedia.org/wiki/Lautan" title="Lautan">lautan</a> dunia. Arus juga merupakan gerakan mengalir suatu <a href="http://id.wikipedia.org/wiki/Massa" title="Massa">massa</a> air yang dikarenakan tiupan angin atau perbedaan <a href="http://id.wikipedia.org/wiki/Densitas" title="Densitas">densitas</a> atau pergerakan <a href="http://id.wikipedia.org/wiki/Gelombang" title="Gelombang">gelombang</a> panjang. Pergerakan arus dipengaruhi oleh beberapa hal antara lain arah angin, perbedaan tekanan air, perbedaan densitas air, gaya <a href="http://id.wikipedia.org/w/index.php?title=Coriolis&amp;action=edit&amp;redlink=1" title="Coriolis (halaman belum tersedia)">Coriolis</a> dan arus <a href="http://id.wikipedia.org/w/index.php?title=Ekman&amp;action=edit&amp;redlink=1" title="Ekman (halaman belum tersedia)">ekman</a>, topografi dasar laut, arus permukaan, <em>upwellng</em>, <em>downwelling</em>.</p>
+<p style="text-align: justify;">
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Arus merupakan sebuah fenomena kompleks, sehingga kondisi arus di sebuah lokasi tidak dapat dilepaskan dari kondisi arus dalam skala yang lebih luas. Oleh sebab itu, penjelasan mengenai pola arus di Pulau Ra&rsquo;as mengacu pada pola pergerakan arus secara umum yang terjadi di perairan Laut Jawa, khususnya di sekitar Pulau Ra&rsquo;as. Kondisi arus di Laut Jawa sangat dipengaruhi oleh angin musim. Pada umumnya arus mengalir ke timur selama Musim Barat yakni antara bulan November sampai dengan Maret dan mengalir ke arah barat selama Musim Timur antara bulan Mei hingga September. Pada saat pancaroba atau masa transisi di bulan April dan Oktober terjadi perubahan arah arus. Pada bulan tersebut arus yang berada dekat pantai Jawa umumnya bergerak ke arah timur dan arus yang berada dekat pantai Kalimantan bergerak ke arah Barat. Di Selat Karimata dan Gaspar yang memisahkan Sumatera dengan Kalimantan arus dapat mencapai kecepatan 2 knot pada saat angin bertiup kencang khususnya selama puncak Musim Utara. Di laut Jawa bagian barat arus bergerak ke arah timur dengan kecepatan maksimum 1,1 knot, di Laut Jawa bagian tengah kecepatan arus maksimum 1,6 knot dan di Laut Jawa bagian tenggara arus dari Selat Makasar mencapai 2 Knot. Arus yang bergerak ke arah barat mencapai kecepatan maksimum 1 knot di Laut Jawa bagian barat, 1,4 Knot di Laut jawa bagian tengah dan 1,7 Knot di Laut Jawa bagian timur. Arus di Selat Sunda merupakan resultante arus yang bergerak ke barat daya selama dua musim tersebut. Kecepatan arus mencapai 0,7 sampai dengan 1,5 Knot.</p>
+<p style="text-align: justify;">
+	Pertemuan arus dari dua arah berbeda di perairan Timur Madura terus terjadi pada periode bulan Agustus dan September. Kecepatan arus pada saat tersebut berkisar antara 15 cm/s sampai dengan 25 cm/s. Akan tetapi, efek dari pertemuan dua arus tersebut sedikit mengalami perubahan. Apabila pada bulan Juni dan Juli menimbulkan arus yang mengarah ke Utara, pertemuan dua arus pada bulan Agustus dan September ini menyebabkan timbulnya arus yang bergerak ke arah Selatan. Kecepatan arus yang mengarah ke Selatan ini berkisar pada kecepatan 3-5 cm/s. Pada bulan Oktober, terjadi lagi perubahan arus akibat pertemuan dua massa air dari Barat dan Timur. Pergerakan massa air tersebut kembali menuju ke arah Utara saja. Perubahan arah arus yang signifikan terjadi pada bulan November. Pada periode ini, arus air permukaan laut di Laut Jawa sebelah Utara Madura bergerak dari arah Timur menuju ke Barat dengan kecepatan sekitar 5 cm/s. Pada bulan tersebut tidak terjadi lagi pertemuan antara 2 arus yang berlawanan, seperti pada bulan-bulan sebelumnya.</p>
+<p style="text-align: justify;">
+	<em>b. Pasang Surut</em></p>
+<p style="text-align: justify;">
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Istilah pasang surut atau lazim disebut dengan pasut merupakan fenomena alam yang terjadi secara periodik. Proses ini sangat akrab dengan masyarakat nelayan dan masyarakat umum yang hidup di daerah pesisir. Sehingga, tanpa disadari, fenomena alam ini telah mempengaruhi aktifitas kehidupan, seperti pelayaran dan penangkapan maupun budidaya perairan, khususnya pesisir dan pantai.</p>
+<p style="text-align: justify;">
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Pasang surut seringkali dikaitkan dengan proses naik turunnya air laut atau <em>sea level</em> yang terjadi menurut siklus tertentu. Proses naik turunnya air laut ini dipengaruhi oleh benda angkasa, terutama matahari dan bulan, terhadap massa air di bumi (Ongkosongo dan Suyarso, 1989). Variasi naik turunnya air laut tergantung pada tipe pasang surut. Pada tipe tunggal, naik turun air laut hanya terjadi satu kali dalam satu hari. Untuk tipe ganda, naik turunnya air laut terjadi sebanyak dua kali dalam satu hari, sedangkan perilaku pasang surut kombinasi dari tipe tunggal dan tipe ganda, dinamakan dengan tipe campuran (Dahuri <em>et all</em>, 1996).</p>
+<p style="text-align: justify;">
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Pasang surut didefinisikan sebagai perubahan ketinggian permukaan perairan (<em>water level</em>) yang relatif luas (<em>sea and ocean</em>) terutama disebabkan oleh gaya tarik grafitasi antara bumi&ndash;bulan dan bumi&ndash;matahari. Illahude (1999) menyatakan bahwa ada dua teori yang dipakai untuk menerangkan peristiwa pasang di samudera dunia, yaitu teori kesetimbangan (<em>Equilibrium Theory</em>) dan teori dinamik (<em>Dynamical Theory</em>). Pada penelitian ini, metode pengamatan pasut yang digunakan adalah memadukan hasil observasi dari data pasang surut yang diterbitkan oleh DISHIDROS TNI-AL dengan pembuatan grafik tinggi muka air laut. Sedangkan untuk penentuan tipe pasut, digunakan metode Admiralty.</p>
+<ul>
+	<li style="text-align: justify;">
+		Topografi Pulau</li>
+</ul>
+<p style="text-align: justify;">
+	Secara umum, topografi Pulau Ra&rsquo;as dapat dibagi menjadi dua, yaitu wilayah dengan topografi landai (dataran rendah) dan wilayah dengan topografi berlereng (bukit). Wilayah dataran rendah terletak di bagian pulau sebelah selatan dan tengah. Pada wilayah inilah terdapat pemukiman penduduk dan menjadi pusat kegiatan masyarakat. Sementara itu, di bagian utara pulau terdapat sebuah bukit batu dengan ketinggian kurang lebih &plusmn; 130 meter dpl yang ditutupi oleh kebun warga dan rimbunan yang sengaja di tanami pohon jati.</p>
+<ul>
+	<li style="text-align: justify;">
+		Morfologi Pantai</li>
+</ul>
+<p style="text-align: justify;">
+	Terdapat 2 jenis pantai yang dapat ditemui di Pulau Ra&rsquo;as ini, yaitu tipe pantai berpasir dan tipe pantai berbatu. Pantai berpasir dapat ditemui di sisi pulau bagian Selatan dan Utara. Sementara itu, bagian pulau dengan pantai yang berbatu dapat ditemukan di sisi pulau bagian selatan. Bagian pulau dengan pantai yang berpasir digunakan para penduduk sebagai pusat aktivitas nelayan, antara lain tempat berlabuhnya kapal atau tempat untuk memperbaiki kapal. Hal ini dikarenakan karakteristik pantai berpasir yang mudah dijangkau sehingga menjadi akses utama ke pulau ini. Sementara itu, di wilayah pulau dengan pantai berbatu tidak ditemukan adanya lokasi pusat kegiatan masyarakat setempat.</p>
+<p>
+	&nbsp;</p>
+</div></p>
+
+<hr>
+
+<h2><a id="ksbk">Kependudukan, Sosial Budaya dan Kelembagaan</a></h2>
+<p><div class="readmore"><p style="text-align: justify;">
+	<strong>KEPENDUDUKAN (DEMOGRAFI)</strong></p>
+<p style="text-align: justify;">
+	&nbsp;&nbsp;&nbsp;&nbsp; Jumlah penduduk Pulau Ra&rsquo;as menurut penelusuran data desa adalah sebanyak &plusmn; 28.424 jiwa yang terdiri dari 9.720 KK, dengan jumlah penduduk laki-laki sebanyak 13.699 jiwa dan penduduk perempuan berjumlah 14.725 jiwa. Kegiatan usaha masyarakat Pulau Ra&rsquo;as berbasiskan sektor Pertanian, Kelautan dan Perikanan, industri kecil serta tenaga kerja keluar daerah. Demi menunjang perekonomiannya, masyarakat Kecamatan Ra&rsquo;as umumnya masyarakat berusaha di bidang pertanian dan tanaman pangan, perikanan, peternakan, konstruksi/bangunan, perdagangan, transportasi/angkutan, jasa serta lainnya. Perekonomian masyarakat Kecamatan Ra&rsquo;as bisa dikatakan cukup maju hal ini dibuktikan dengan banyaknya potensi dan komoditi unggulan yang ada sudah mencapai pasaran internasional sehingga nilai jual dari komoditi unggulan yang cukup tinggi dan disertai dengan kualitas yang bagus.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="eshp">Ekosistem dan Sumberdaya Hayati</a></h2>
+<p><div class="readmore"><p style="text-align: justify;">
+	<strong>Ekosistem Terumbu Karang</strong></p>
+<p style="text-align: justify;">
+	Berdasarkan hasil pengukuran pada kedalaman 5 meter titik I di Pulau Ra&rsquo;as, persentase tutupan karang hidup&nbsp; sebesar 29.16%, kemudian persentase tutupan karang mati mencapai 15.42 %, biota lain 4.40% dan abiotik sebesar 51.02%. Secara umum kondisi substrat karang diperairan Pulau Ra&rsquo;as dikategorikan dalam kondisi sedang, menurut Gomes dan Yap, 1984 kategori antara 25-49.9% persentase penutupan karang berada pada kondisi sedang. Sedangkan indek mortalitas karang yaitu sebesar 35%. Pertumbuhan karang didominasi oleh karang keras dari marga <em>Acropora, Seriotopora, Pocillopora</em> dan <em>Porite</em>s.</p>
+<p style="text-align: justify;">
+	<strong>Ekosistem Mangrove</strong></p>
+<p style="text-align: justify;">
+	&nbsp;&nbsp;&nbsp;&nbsp; Ekosistem mangrove atau hutan bakau di Pulau Ra&rsquo;as dapat ditemukan di beberapa titik. Secara umum, vegetasi mangrove yang ada di pulau ini terdapat di kawasan pantai yang berbatu. Pantai dengan karakteristik berbatu dapat timbul akibat proses-proses geologi yang menyertai pembentukan pulau dan cenderung tidak terpapar oleh gelombang atau arus air laut yang kuat. Akibatnya, perairan pada pantai berbatu cenderung lebih tenang, sehingga sesuai sebagai habitat dari ekosistem mangrove. Kemungkinan dan prediksi inilah yang dapat menjelaskan keberadaan vegetasi mangrove di wilayah dengan pantai berbatu yang dapat dijumpai di Pulau Ra&rsquo;as ini. Akan tetapi tidak semua kawasan pantai berbatu di Pulau Ra&rsquo;as dapat dijumpai vegetasi mangrove. Berdasarkan hasil observasi, vegetasi mangrove hanya terdapat di kawasan pantai berbatu di bagian selatan pulau. Berdasarkan informasi dari masyarakat Pulau Ra&rsquo;as didaerah selatan tepatnya di Desa Jugkat telah dilakukan penanaman mangrove dari jenis Rhizopora sp. Penanaman dilakukan oleh pemerintah daerah Kabupaten Sumenep pada tahun 2006. Penanaman oleh pemerintah derah juga melibatkan masyarakat Pulau Ra&rsquo;as, sehingga sampai saat ini keberadaan mangrove di Pulau Ra&rsquo;as sangat terjaga.</p>
+<p style="text-align: justify;">
+	Vegetasi mangrove yang ditemui di pulau ini terdari dari 2 jenis spesies yaitu dari spesies <em>Rhizopora</em> dan <em>Avicennia</em>. Di beberapa tempat ditemukan vegetasi mangrove yang ada tampak tumbuh secara alami, hal ini dapat terlihat dari pola persebarannya yang tidak teratur dan cenderung tumbuh bergerombol. Tingkat kerapatan vegetasi mangrove berdasarkan hasil pengamatan secara kualitatif dapat dikategorikan termasuk dalam tingkat kerapatan jarang sampai dengan sedang, dengan jumlah tegakan vegetasi sekitar 400-500 pohon dengan luas total sekitar 359,18 Ha. Kondisi yang masih alami membuat bibit-bibit mangrove dapat tumbuh dengan baik, kondisi ini dibuktikan dengan ditemukannya sebaran bibit-bibit mangrove di beberapa titik pengamatan.</p>
+<p style="text-align: justify;">
+	<strong>Vegetasi Pantai</strong></p>
+<p style="text-align: justify;">
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ekosistem terestrial Pulau Ra&rsquo;as secara keseluruhan identik dengan ekosistem pantai. Berdasarkan susunan vegetasinya, vegetasi Pulau Ra&rsquo;as dapat dibedakan menjadi dua yaitu formasi <em>pes-caprae</em>, dan formasi <em>Baringtonia</em>. Fomasi <em>pes-caprae</em> dicirikan substrat berpasir, tumbuhan&nbsp; yang&nbsp; dominan kangkung laut&nbsp; (<em>Ipomoea pes-caprae</em>). Tumbuhan lainnya adalah rumput lari (<em>Spinifex littoreus</em>), gambir&nbsp; laut (<em>Clerodendron inerme</em>) dan biduri (<em>Calotropis gingantea</em>). Formasi <em>pes-caprae</em> ini mempunyai peran penting dalam menjaga kestabilan sedimen pantai (pasir), baik oleh pengaruh ombak, angin maupun aliran air hujan permukaan.</p>
+<p style="text-align: justify;">
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Formasi <em>Baringtonia</em> adalah vegetasi pantai yang didominasi oleh pohon <em>Baringtonia</em> (butun). Vegetasi lainnya adalah waru laut (<em>Thesfesia populnea</em>), ketapang (<em>Terminalia catappa</em>), bogonala (<em>Hermandia feltata</em>), intaran (<em>Azadichrata sp</em>.), santen (<em>Lannea coramandalica</em>), kaktus laut (<em>Opuntia vulgaris</em>), gelang laut (<em>Sesuvium portulacastrum</em>), daruju (<em>Acanthus ilicifolius</em>, pepare (<em>Cardiosfermum</em>), gambir&nbsp; laut (<em>Clerodendron inerme</em>) dan biduri (<em>Calotropis&nbsp; gingantea</em>), sentigi (<em>Pemphis ocidula</em>), bujang laut (<em>Turnera ulmifolia</em>), ambung (<em>Slaevola sericca</em>), bakung (<em>Crinum asiaticum</em>), ki ara tapok (<em>Ficus indica</em>), seruni laut (<em>Wedelia bifloa</em>), bogonala (<em>Hermandia feltata</em>) dan kibolot (<em>Guetfordu spesiosa</em>).</p>
+</div></p>
+
+<hr>
+
+<h2><a id="snh">Sumberdaya Non Hayati</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<h2><a id="aps">Aktivitas Pengelolaan Sumberdaya</a></h2>
+<p><div class="readmore"><p style="text-align: justify;">
+	<strong>Perikanan Tangkap</strong></p>
+<p style="text-align: justify;">
+	Potensi perikanan di Pulau Ra&rsquo;as merupakan potensi komoditi unggulan yang bisa dikembangkan misalnya adalah rajungan, kerang-kerangan dan teripang. Teripang merupakan komoditi unggulan dibidang perikanan dengan nilai jual yang cukunp tinggi Rp. 200.000,- hingga Rp. 1.000.000,-. Selain itu juga kegiatan penangkapan ikan laut diantaranya ikan karang (kerapu, kakap merah, lobster dan ekor kuning), ikan tongkol, teri dan ikan hias. Teripang yang menjadi komoditi unggulan kecamatan Raas diantaranya :</p>
+<table border="0" cellpadding="0" cellspacing="0">
+	<tbody>
+		<tr>
+			<td style="width:32px;">
+				<p style="text-align: justify;">
+					1.</p>
+			</td>
+			<td style="width:199px;">
+				<p style="text-align: justify;">
+					Teripang Koro atau susu</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:32px;">
+				<p style="text-align: justify;">
+					2.</p>
+			</td>
+			<td style="width:199px;">
+				<p style="text-align: justify;">
+					Teripang Kapok</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:32px;">
+				<p style="text-align: justify;">
+					3.</p>
+			</td>
+			<td style="width:199px;">
+				<p style="text-align: justify;">
+					Teripang Gamet</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:32px;">
+				<p style="text-align: justify;">
+					4.</p>
+			</td>
+			<td style="width:199px;">
+				<p style="text-align: justify;">
+					Teripang Pisang</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:32px;">
+				<p style="text-align: justify;">
+					5.</p>
+			</td>
+			<td style="width:199px;">
+				<p style="text-align: justify;">
+					Teripang Talengkong</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:32px;">
+				<p style="text-align: justify;">
+					6.</p>
+			</td>
+			<td style="width:199px;">
+				<p style="text-align: justify;">
+					Teripang cerak Merah</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:32px;">
+				<p style="text-align: justify;">
+					7.</p>
+			</td>
+			<td style="width:199px;">
+				<p style="text-align: justify;">
+					Teripang Duri</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<p style="text-align: justify;">
+	Mayoritas penduduk Pulau Ra&rsquo;as memiliki profesi sebagai nelayan perikanan tangkap. Oleh sebab itu, perikanan tangkap merupakan sektor yang menjadi tumpuan hidup bagi masyarakat Pulau Ra&rsquo;as ini. Walaupun ketersediaan air tawar di pulau ini cukup banyak, akan tetapi tidak ditemukan adanya warga yang memiliki usaha budidaya air tawar. Nelayan-nelayan di pulau ini telah memiliki sarana kapal yang cukup baik. Hal ini ditunjukkan dengan ukuran-ukuran kapal tangkap yang besar dan rata-rata dilengkapi dengan mesin temple. Berdasarkan data BPS pada tahun 2009 jumlah produksi ikan menurut sub sektor perikanan laut dan budidaya di kecamatan Raas mencapai 2.391,9 ton dengan nilai produksi sebanyak Rp. 23.919.380,-.</p>
+<p style="text-align: justify;">
+	Jenis-jenis ikan yang menjadi komoditas tangkapan utama bagi masyarakat nelayan di pulau ini cukup bervariasi, antara lain Kerapu Sunu, Tongkol, dan Lemuru. Selain itu, nelayan di Pulau Ra&rsquo;asini juga terbiasa menangkap Teripang, Udang Lobster dan Cumi-Cumi pada musim-musim tertentu. Kebanyakan hasil tangkapan nelayan tersebut dijual kepada pengepul atau untuk dikonsumsi sendiri.</p>
+<p style="text-align: justify;">
+	<strong>Perikanan Budidaya</strong></p>
+<p style="text-align: justify;">
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Seperti yang telah dijelaskan sebelumnya, budidaya air tawar di pulau ini tidak berkembang, meskipun cukup banyak tersedia sumur atau sumber air tawar. Begitu juga dengan budidaya laut berupa keramba jarring apung (KJA) tidak ditemukan adanya kegiatan budidaya. Budidaya laut yang ada di Pulau Ra&rsquo;as berupa budidaya rumput laut. Budidaya rumput laut di pulau ini tidak begitu banyak ditemukan, hanya beberapa masyarakat disekitar pesisir yang melakukan aktivitas budidaya rumput laut. Kegiatan budidaya rumput laut di Pulau Ra&rsquo;as hanya terbatas pada dua jenis yaitu <em>Eucheuma cottoni</em> dan <em>Eucheuma spinosum</em>. Metode penanaman budidaya rumput laut yang digunakan oleh masyarakat Pulau Ra&rsquo;as yaitu metode rakit, metode penanaman budidaya rumput laut dengan menggunakan rakit ini juga digunakan oleh masyarakat pesisir daratan Kabupaten Sumenep, diantaranya yaitu di pesisir Kecamatan Saronggih dan Bluto. Pemasaran hasil budidaya rumput laut hanya terbatas di lokasi yang dikumpulkan oleh pengepul, kemudian pengepul memasarkan rumput laut ke daratan sumenep. Harga dari masing-masing jenis rumput laut yaitu <em>Eucheuma cottoni</em> berkisar antara Rp 9.000,- - 12.000 dan <em>Eucheuma spinosum</em> berkisar antara Rp 5.000-8.000,-.</p>
+<p style="text-align: justify;">
+	<strong>Pertanian</strong></p>
+<p style="text-align: justify;">
+	Berdasarkan data BPS Kabupaten Sumenep tahun 2010, Pulau Ra&rsquo;as memiliki potensi pertanian yang dapat dikembangkan yaitu : Padi, jagung, kedelai, kacang hijau, kacang tanah, ketela rambat, ketela pohon pda tahun 2009 produksi padi di kecamatan Raas mencapai 18.276,5 kwintal dengan luas panen seluas 342 ha, jagung dengan jumlah produksi sebesar 120.918,5 kwintal dengan luas panen 4.705 ha. Adapun produksi kedelai mencapai 315,1 kwintal dengan luas panen 23 ha, kacang tanah dengan luas panen seluas 6 ha menghasilkan produksi sebesar 938,4 kwintal. Sedangkan kacang hijau dengan luas panen 81 ha produksinya mencapai 1.012,5 kwintal dan ketela pohon dengan luas panen 55 ha mencapai produksi 7.232,5 kwintal.</p>
+<p style="text-align: justify;">
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Seperti yang telah dijelaskan sebelumnya, sebagian besar penduduk Pulau Ra&rsquo;as berprofesi sebagai nelayan. Akan tetapi, sebagian penduduk juga ada yang memanfaatkan lahan-lahan di Pulau Ra&rsquo;as sebagai tempat bercocok tanam. Umumnya tanaman yang dibudidayakan dipulau ini adalah padi, singkong, Jagung, talas (bentul), pisang, kelapa, kangkung dan beberapa jenis sayuran lainnya. Hasil tanaman-tanaman tersebut sebagian besar digunakan untuk konsumsi warga sendiri.</p>
+<p style="text-align: justify;">
+	<strong>Peternakan</strong></p>
+<p style="text-align: justify;">
+	Selain nelayan dan bercocok tanam, terdapat pula sebagian masyarakat Pulau Ra&rsquo;as yang memiliki usaha sampingan sebagai peternak. Potensi peternakan yang menjadi andalan Pulau Ra&rsquo;as adalah adanya Kucing Bhusok selain itu ada juga populasi ternak yang tergolong dalam ternak besar, kecil maupun jenis unggas. Populasi ternak besar jenis sapi pada tahun 2009 sebanyak 3.296 ekor, kuda sebanyak 20 ekor. Populasi ternak kecil jenis kambing sebanyak 3.370 ekor, domba sebanyak 1.438 ekor, jenis unggas sebanyak 10.976 ekor denga perincian 9.903 ekor ayam kampung dan 1.073 ekor itik.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p style="text-align: justify;">
+	Hewan ternak yang banyak dipelihara oleh warga Pulau Ra&rsquo;as adalah sapi dan kambing. Selain dimanfaatkan untuk daging konsumsi, kambing-kambing yang dipelihara oleh penduduk pulau ini juga diperjual-belikan antar warga. Hewan unggas seperti ayam dan angsa juga dapat ditemukan dan dipelihara oleh penduduk pulau.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="ling">Lingkungan</a></h2>
+<p><div class="readmore"><p style="text-align: justify;">
+	<strong>Kualitas Perairan</strong></p>
+<p style="text-align: justify;">
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Untuk mengetahui kualitas perairan, dilakukan pengambilan data beberapa parameter perairan di 4 titik yang disesuaikan dengan lokasi tempat pengamatan terumbu karang. Parameter-parameter kualitas air yang diambil sesuai dengan Kepmen LH No.51 Tahun 2004 tentang baku mutu air laut untuk biota laut.</p>
+<p style="text-align: justify;">
+	&nbsp;&nbsp;&nbsp;&nbsp; Secara umum hasil analisa kualitas air yang dilakukan di 4 titik di sekeliling Pulau Ra&rsquo;as menunjukkan bahwa perairan pulau ini merupakan habitat yang masih alami dan sesuai untuk kehidupan biota laut. Hal ini ditunjukkan oleh hasil analisa kualitas air, dimana parameter-parameter yang diukur memiliki nilai yang sesuai dengan baku mutu untuk biota air laut.</p>
+<p style="text-align: justify;">
+	Kualitas lingkungan perairan adalah suatu kelayakan lingkungan perairan untuk menunjang kehidupan dan pertumbuhan organisme air yang nilainya dinyatakan dalam suatu kisaran tertentu. Sementara itu, perairan ideal adalah perairan yang dapat mendukung kehidupan organisme dalam menyelesaikan daur hidupnya. Kualitas air adalah suatu keadaan dan sifat-sifat fisik, kimia dan biologi suatu perairan yang dibandingkan dengan persyaratan untuk keperluan tertentu, seperti kualitas air untuk air minum, pertanian dan perikanan, rumah sakit, industri dan lain sebagainya. Sehingga menjadikan persyaratan kualitas air berbeda-beda sesuai dengan peruntukannya. Beberapa aspek penting yang perlu diperhatikan dalam pengelolaan kualitas air :</p>
+<p style="text-align: justify;">
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1. Tingkat pemanfaatan dari penggunaan air</p>
+<p style="text-align: justify;">
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2. Faktor kualitas alami sebelum dimanfaatkan</p>
+<p style="text-align: justify;">
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3. Faktor yang menyebabkan kualitas air bervariasi</p>
+<p style="text-align: justify;">
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4. Perubahan kualitas air secara alami</p>
+<p style="text-align: justify;">
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5. Faktor faktor khusus yang mempengaruhi kualitas air</p>
+<p style="text-align: justify;">
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 6. Persyaratan kualitas air dalam penggunaan air</p>
+<p style="text-align: justify;">
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7. Pengaruh perubahan dan keefektifan kriteria kualitas air</p>
+<p style="text-align: justify;">
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 8. Perkembangan teknologi untuk memperbaiki kualitas air</p>
+<p style="text-align: justify;">
+	Parameter fisik dalam kualitas air merupakan parameter yang bersifat fisik, dalam arti dapat dideteksi oleh panca indera manusia yaitu melalui visual, penciuman, peraba dan perasa. Perubahan warna dan peningkatan kekeruhan air dapat diketahui secara visual, sedangkan penciuman dapat mendeteksi adanyaperubahan bau pada air serta peraba pada kulit dapat membedakan suhu air, selanjutnya rasa tawar, asin dan lain sebagainya dapat dideteksi oleh lidah (indera perasa). Hasil indikasi dari panca indera ini hanya dapat dijadikan indikasi awal karena bersifat subyektif, bila diperlukan untuk menentukan kondisi tertentu, misal kualitas air tersebut telah menurun atau tidak harus dilakukan analisis pemeriksaan air di laboratorium dengan metode analisis yang telah ditentukan.</p>
+<p style="text-align: justify;">
+	Sedangkan parameter kimia yang didefinisikan sebagai sekumpulan bahan/zat kimia yang keberadaannya dalam air mempengaruhi kualitas air. Selanjutnya secara keseluruhan parameter biologi mampu memberikan indikasi apakah kualitas air pada suatu perairan masih baik atau sudah kurang baik, hal ini dinyatakan dalam jumlah dan jenis biota perairan yang masih dapat hidup dalam perairan.</p>
+<p style="text-align: justify;">
+	<strong>Permasalahan Lingkungan</strong></p>
+<p style="text-align: justify;">
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Selain laju pertumbuhan penduduk dan pesatnya pembangunan ekonomi, wilayah pesisir dan pulau-pulau kecil di Indonesia juga mendapat ancaman bahaya dari faktor alam. Wilayah pesisir yang didefinisikan sebagai daerah peralihan antara ekosistem darat dan laut yang dipengaruhi oleh perubahan di darat dan laut, sedangkan pulau kecil adalah pulau dengan luas lebih kecil atau sama dengan 2.000 km2 beserta kesatuan ekosistemnya, secara geologi mendapat ancaman bahaya gempa bumi dan tsunami.</p>
+<p style="text-align: justify;">
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Persoalan cuaca ekstrem sebagai dampak dari pemanasan global berdampak semakin parah pada wilayah pesisir. Pangkal persoalannya terletak pada mobilisasi pertumbuhan di wilayah pesisir yakni semakin pesatnya pusat-pusat pertumbuhan di wilayah pesisir yang merupakan perluasan dari ruang-ruang yang semakin sempit. Teluk Jakarta adalah contohnya yang paling menarik bagaimana kota ini semakin rakus dengan reklamasi dan seterusnya sehingga pusat-pusat pertumbuhan semakin menjorok ke laut. Pertumbuhan di pesisir yang pesat tersebut juga telah memakan mangrove, yang kemudian dihilangkan.</p>
+<p style="text-align: justify;">
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Pemanasan global yang mengakibatkan perubahan iklim mulai berdampak pada kehidupan masyarakat pesisir dan pulau-pulau kecil khususnya nelayan. Pemanasan global telah menyebabkan tidak menentunya cuaca dan iklim, sehingga nelayan tidak menentu melaut yang berakibat pada berkurangnya hasil tangkapan ikan. Kenaikan paras muka air laut akibat pemanasan global telah menggenangi lahan-lahan budidaya perikanan yang berdampak pada berkurangnya hasil produksi dari proses budidaya yang dikembangkan. Keanekaragaman sumberdaya hayati laut mulai berkurang akibat pemanasan global. Kenaikan paras muka air laut juga telah menyebabkan terjadinya abrasi pantai dan tergenangnya pemukiman masyarakat pesisir dan pulau-pulau kecil sehingga kesulitan air dan munculnya beberapa penyakit tertentu.</p>
+<p style="text-align: justify;">
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Undang-Undang No 24 Tahun 2007 tentang Penanggulangan Bencana dan dan secara eksplisit dalam Undang-Undang No 27 Tahun 2007 tentang Pengelolaan Wilayah Pesisir dan Pulau-Pulau Kecil mengamanahkan secara tegas agar dilakukan upaya mitigasi bencana dalam proses pengelolaan wilayah pesisir dan pulau-pulau kecil. Bencana pesisir yang dimaksud adalah kejadian karena peristiwa alam atau karena perbuatan orang yang menimbulkan perubahan sifat fisik dan/atau hayati pesisir dan mengakibatkan korban jiwa, harta, dan/atau kerusakan di wilayah pesisir dan pulau-pulau kecil. Mitigasi bencana merupakan upaya untuk mengurangi risiko bencana, baik secara struktur atau fisik melalui pembangunan fisik alami dan/atau buatan maupun nonstruktur atau nonfisik melalui peningkatan kemampuan menghadapi ancaman bencana di wilayah pesisir dan pulau-pulau kecil.</p>
+<p style="text-align: justify;">
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Manajemen atau pengelolaan risiko bencana dapat menjadi salah satu alternatif dalam proses pengelolaan wilayah pesisir dan pulau-pulau kecil. Pada prinsipnya, manajemen risiko bencana merupakan upaya yang dilakukan untuk mengurangi risiko bencana di wilayah pesisir dan pulau-pulau kecil dengan tujuan agar masyarakat di wilayah tersebut memiliki ketahanan terhadap ancaman bahaya di wilayahnya. Risiko bencana merupakan interaksi antara bahaya dengan kerentanan dibagi dengan kapasitas. Bahaya merupakan faktor yang tidak dapat dikendalikan. Oleh karena itu pengurangan risiko bencana di wilayah pesisir dilakukan dengan mengurangi tingkat kerentanan dan meningkatkan kapasitas masyarakat pesisir. Salah satu upaya mengurangi risiko bencana di wilayah pesisir dilakukan di antaranya mengurangi tingkat kerentanan masyarakat pesisir. Upaya ini memerlukan pemahaman tentang karakteristik dan kondisi kerentanan sosial ekonomi masyarakat, terutama di berbagai wilayah pesisir yang rawan bencana.</p>
+<p style="text-align: justify;">
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sebagai salah satu pulau kecil, Pulau Ra&rsquo;as juga diperkirakan menghadapi berbagai masalah lingkungan pesisir. Akan tetapi berdasarkan hasil observasi, tidak ada permasalahan lingkungan serius yang dihadapi oleh warga. Menurut keterangan dari warga, beberapa tahun yang lalu sempat terjadi pengambilan terumbu karang untuk digunakan sebagai bahan pembangunan rumah. Pada saat itu, banyak warga yang mengambil terumbu karang di sekitar Pulau Ra&rsquo;as. Namun kejadian tersebut tidak berlangsung lama, karena dengan peran aktif aparat pemerintah, masyarakat Pulau Ra&rsquo;as bisa disadarkan sehingga tidak lagi mengambil terumbu karang.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="sp">Sarana dan Prasarana</a></h2>
+<p><div class="readmore"><p style="text-align: justify;">
+	<strong>SARANA DAN PRASARANA PULAU RA&rsquo;AS</strong></p>
+<p style="text-align: justify;">
+	Berdasarkan data BPS Kabupaten Sumenep sarana dan prasarana di Pulau Ra&rsquo;as meliputi pelayanan listrik yang belum dilayani oleh PT. PLN, hanya terbatas pada PLTD maupun tenaga surya. Pada tahun 2010 Pulau Ra&rsquo;as mendapat bantuan dari Bappeda Kabupaten Sumenep berupa Pembangkit Listrik Tenaga Surya (PLTS) sebanyak 8 unit yang tersebar di 5 desa untuk memenuhi kebutuhan listrik di wilayah Pulau Ra&rsquo;as sekaligus sebagai penunjang kegiatan sosial ekonomi. Adapun desa yang mendapatkan bantuan adalah desa Alas Malang sebanyak 2 unit yang penempatannya di Balai Desa Alas Malang dan Musholla KH. Baharudin, 2 unit lagi di Desa Ketupat dan Musholla K. Hasyim. Di Desa Jungkat sebanyak 2 unit yaitu 1 unit di Balai Desa Jungkat dan 1 unit di Musholla K. Moh Gani. Untuk bantuan PLTS di Desa Kropoh dan Desa Poteran masing-masing sebanyak 1 unit, yaitu 1 unit di Asta Adhirasa Desa Kropoh dan 1 unit lagi Musholla K. Sama&rsquo;oedin Desa Poteran.</p>
+<p style="text-align: justify;">
+	Sarana peribadatan yang ada di wilayah Pulau Ra&rsquo;as sebanyak 26 masjid dan 95 musholla/langgar. Sedangkan sarana dan prasarana pelayanan air bersih belum cukup memadai sama dengan wilayah kepulauan pada umumnya. Pada musim kemarau di Pulau Ra&rsquo;as sangat kekurangan air bersih. Untuk memenuhi kebutuhan air bersih masyarakat Pulau Ra&rsquo;as harus membeli untuk kebutuhan minum, masak, cuci dan mandi. Untuk konsumsi air minum masyarakat mengkonsumsi air mineral sedangkan untuk memenuhi kebutuhan yang lain membeli air bersih dengan wadah jerigen dari desa sekitar yang sumber airnya cukup memadai serta adanya fasilitas air perpipaan dalam wadah HIPPAM di Desa Jungkat dan Berakas.</p>
+<p style="text-align: justify;">
+	Kondisi jalan Pulau Ra&rsquo;as dalam keadaan kondisi baik sepanjang 28,890 km, kondisi sedang sepanjang 6,120 km, rusak berat sepanjang 6,490 km. transportasi darat yang banyak digunakan adalah sepeda, sepeda motor dan kendaraan roda 4 yaitu pick up sehingga dapat dikatakan aktifitas dan mobilitas transportasi di Pulau Ra&rsquo;as masih relatif rendah. Adapun transportasi laut sebagai sarana angkutan maupun sarana penangkapan ikan berupa perahu bermotor ataupun tidak bermotor. Sebagai penunjang sarana transportasi&nbsp; laut yaitu adanya dermaga Ketupat, Alas Malang, Panggung, Ra&rsquo;as dan Keropo dengan jalur pelayaran menuju dermaga Dungkek atau sebaliknya dan Pulau-pulau sekitarnya dengan biaya &plusmn; Rp. 50.000,- per orang. Jalur pelayaran Pulau Ra&rsquo;as-Dungkek dan Pulau Ra&rsquo;as-Gayam atau sebaliknya terkenal cukup rawan kecelakaan karena pusaran air dan arus ombaknya yang besar.</p>
+<p style="text-align: justify;">
+	Pelayanan kesehatan di Pulau Ra&rsquo;as dilengkapi dengan tersedianya puskesmas, pembantu puskesmas, puskesmas keliling maupun polindes. Pada tahun 2009 jumlah puskesmas di Pulau Ra&rsquo;as sebanyak 1 unit, pembantu puskesmas 3 unit, puskesmas keliling 1 unit serta polindes sebanyak 3 unit dilengkapi dengan tenaga kesehatan yang cukup memadai baik medis maupun paramedis.</p>
+<p style="text-align: justify;">
+	Indeks pendidikan di Pulau Ra&rsquo;as cukup tinggi sehingga dapat dikatakan sumber daya manusianya cukup baik. Walaupun jenjang pendidikan rata-rata penduduk Pulau Ra&rsquo;as mayoritas pada tingkatan SD, akan tetapi sebagian dari masyarakat sudah mengenyam pendidikan sampai pada tingkatan perguruan tinggi. Sedangkan jumlah sarana pendidikan yang ada di Pulau Ra&rsquo;as pada tahun 2009 untuk jenjang pendidikan sekolah dasar yaitu sebanyak 27 lembaga, 155 kelas, 3.027 murid dan 211 guru sedangkan pada jenjang pendidikan sekolah menengah pertama sebanyak 3 lembaga, 15 kelas, 466 murid dan 48 guru. Untuk jenjang pendidikan menengah umum dan kejuruan terdapat 1 lembaga, 6 kelas, 215 murid, dan 22 orang guru. Pada jenjang pendidikan seklah madrasah Ibtida&rsquo;iyah terdapat 25 sekolah, 150 kelas, 2.427 murid dan 253 orang guru. Sedangkan jumlah sekolah madrasah tsanawiyah di Pulau Ra&rsquo;as sebanyak 8 sekolah, 29 kelas, 921 murid dan 99 orang guru. Di Pulau Ra&rsquo;as juga terdapat sekolah madrasah Aliyah yang jumlahnya sebanyak 3 sekolah dengan 9 kelas dan 180 murid.</p>
+<p style="text-align: justify;">
+	<strong>Sarana Transportasi</strong></p>
+<p style="text-align: justify;">
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sarana dan prasarana transportasi yang ada di Pulau Ra&rsquo;as sesuai dengan keadaan alam di pulau tersebut. Untuk sarana transportasi laut, penduduk pulau ini menggunakan perahu yang berukuran panjang kurang lebih 5-10 meter atau ukuran yang lebih kecil. Selain sebagai sarana transportasi antar pulau, perahu-perahu tersebut juga dipakai untuk menangkap ikan.</p>
+<p style="text-align: justify;">
+	Sarana jalan yang ada di Pulau Ra&rsquo;as ini seluruhnya adalah jalan aspal/tanah. Lebar jalan antara 2 meter sampai dengan 3 meter. Kendaraan bermotor yang ada berupa mobil dan sepeda motor. Namun ada warga terutama anak-anak yang memiliki sepeda. Hal ini terjadi karena ukuran wilayah pulau yang dihuni oleh masyarakat cukup luas.</p>
+<p style="text-align: justify;">
+	<strong>Sarana Penerangan/Listrik</strong></p>
+<p style="text-align: justify;">
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Aliran listrik sudah tersedia di Pulau Ra&rsquo;as dan disalurkan kepada warga masyarakat. Listrik di pulau ini berasal dari beberapa buah PLTD yang dikelola oleh warga sendiri. PLTD milik pribadi dapat menyediakan listrik untuk sekitar 300 rumah namun hanya menyala dari pukul 18.00 WIB sampai dengan 05.00 WIB. Pembiayaan dilakukan secara bulanan dengan besaran tergantung pada jumlah pemakaian. Apabila warga memerlukan listrik diluar jam pada umumnya, maka beberapa warga memiliki mesin genset berukuran kecil yang disewakan untuk hajatan tertentu. Selain PLTD beberapa warga Pulau Ra&rsquo;as juga menggunakan pembangkit listrik tenaga surya (PLTS). Penggunaan PLTS di pulau ini hanya digunakan oleh beberapa warga saja.</p>
+<p style="text-align: justify;">
+	<strong>Sarana Air Bersih</strong></p>
+<p style="text-align: justify;">
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Warga masyarakat Pulau Ra&rsquo;as mendapatkan air bersih dari sumur yang banyak tersebar di pulau ini. Bahkan hampir setiap rumah warga di Pulau Ra&rsquo;as memiliki sumur air tawar. Kedalaman sumur warga berkisar antara 2-3 meter. Untuk mengangkat airnya, banyak pula warga yang sudah menggunakan pompa air, tapi terdapat juga warga yang masih menimba air dari sumur secara langsung. Kualitas air tawar di pulau ini juga cukup baik, sehingga bisa digunakan untuk air minum. Apabila dilihat dari kondisi persebarannya, maka ketersediaan air tawar di pulau ini dapat dianggap cukup untuk menunjang kehidupan warga. Akan tetapi apabila musim kemarau masrakat Pulau Ra&rsquo;as akan kekurangan air bersih sehingga harus membeli di des alai yang airnya masih tersedia.</p>
+<p style="text-align: justify;">
+	<strong>Sarana Kesehatan dan Pendidikan</strong></p>
+<p style="text-align: justify;">
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sarana dan prasarana kesehatan Pulau Ra&rsquo;as dilengkapi dengan tersedianya puskesmas, puskesmas pembantu, puskesmas keliling maupun polindes. Sarana dan prasarana di Pulau Ra&rsquo;as cukup memadai baik medis maupun paramedic, dimana Pulau Ra&rsquo;as memiliki 2 unit Puskesmas, dan 7 Poskesdes (Pos Kesehatan Desa) dengan 1 tenaga dokter serta 10 tenaga paramedis/bidan. Puskesmas di Pulau Ra&rsquo;as terletak di Desa Ketupat dan Desa Brakas Puskesmas.</p>
+<p style="text-align: justify;">
+	<strong>Sarana Peribadatan</strong></p>
+<p style="text-align: justify;">
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Seluruh penduduk Pulau Ra&rsquo;as adalah pemeluk agama Islam. Berdasarkan hasil pengamatan banyak ditemukan Masjid besar di Pulau Ra&rsquo;as. Jumlah Masjid yang ada di Pulau Ra&rsquo;as ini adalah 23 masjid dan 108 musholla. Selain sebagai pusat peribadatan, masjid ini merupakan tempat pendidikan non formal bagi warga sekitar, yaitu tempat mengaji. Berikut tabel jumlah masjid dan musholla di Pulau Ra&rsquo;as.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="pi">Peluang Investasi</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<h2><a id="pap">Potensi dan Arahan Pengembangan</a></h2>
+<p><div class="readmore"><p style="text-align: justify;">
+	<strong>Potensi Ekowisata Bahari</strong></p>
+<p style="text-align: justify;">
+	Ekowisata merupakan kegiatan wisata yang berorientasi pada lingkungan untuk menjembatani kepentingan perlindungan sumberdaya alam dan industri pariwisata. Kegiatan ini dikembangkan di wilayah pesisir dengan membangun konsep ekowisata bahari. Ekowisata bahari merupakan konsep wisata yang memanfaatkan karakteristik sumberdaya pesisir dan laut termasuk sumberdaya manusia yang dapat diintegrasikan menjadi komponen terpadu pada pemanfaatan wisata. Selanjutnya, Hutabarat <em>et al ., </em>(2009) menyatakan bahwa kegiatan wisata tersebut berkembang di daerah-daerah konservasi atau daerah-daerah yang masih memiliki sumberdaya alami dengan tetap mempertahankan keseimbangan alam. Fenomena ini memberikan manfaat positif bagi kelestarian alam dan keberadaan kawasan konservasi. Dengan demikian ekowisata juga dapat dikatakan merupakan suatu konsep pemanfaatan sumberdaya alam dengan pendekatan konservasi untuk pengembangan wisata.</p>
+<p style="text-align: justify;">
+	Obyek ekowisata bahari di Perairan Pulau Ra&rsquo;as dan sekitarnya terdiri obyek komoditi dan obyek ekosistem. Obyek komoditi terdiri dari potensi spesies biota laut dan material non hayati yang mempunyai daya tarik wisata, berupa kondisi pantai berpasir tebal dengan vegetasi pantai menyejukkan. Sedangkan obyek ekosistem merupakan daya tarik wisata di dalam kawasan, yaitu hamparan pasir pantai serta terumbu karang untuk aktivitas penyelaman (<em>diving</em>) dan <em>snorkling</em>.</p>
+<p style="text-align: justify;">
+	Penetapan kawasan untuk pengembangan ekowisata bahari kategori selam dan <em>snorkling </em>dilakukan dengan mempertimbangkan faktor-faktor pembatas yang terdiri dari parameter-parameter kecerahan perairan, tutupan karang hidup, jenis <em>lifeform</em>, jenis ikan karang, kedalaman terumbu karang dan lebar hamparan terumbu karang. Proses analisis kesesuaian tersebut diawali dengan penyusunan matrik sekaligus pemberian bobot dan skoring pada semua parameter pembatas sesuai tingkat kepentingan. Parameter kecerahan dan tutupan karang hidup memiliki bobot paling tinggi dibanding parameter lain. Hal ini disebabkan karena kecerahan merupakan penentu penetrasi cahaya untuk kelangsungan hidup bagi ekosistem terumbu karang. Dengan kecerahan yang tinggi, para wisatawan dapat dengan jelas melihat objek ekosistem terumbu karang. Sementara itu, tutupan karang hidup merupakan daya tarik wisatawan dalam menikmati keindahan bawah laut. Parameter-parameter penilaian kesesuaian ekowisata bahari dibedakan menjadi dua, yaitu pengaruh manusia dan bukan pengaruh manusia (Arifin <em>et al</em> 2002). Parameter yang tidak dipengaruhi oleh manusia meliputi kecerahan perairan, keragaman jenis terumbu karang dan ikan karang, sedangkan yang tidak dapat/sulit dipengaruhi oleh manusia seperti kedalaman perairan dan kecepatan arus.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="kp">Kendala Pengembangan</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<h2><a id="rf">Referensi</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<br />
+	<i> 
+		<p style="font-size:12px;">
+			Karena keterbatasan SDM dalam penginputan dan pengolahan data, kami mohon maaf atas ketidak lengkapan beberapa data pulau yang kami tampilkan, harap dimaklumi.
+			Berikan keritik dan saran pada kolom komentar agar kita dapat bersama menyajikan sebuah data yang cukup sempurna untuk halayak ramai yang berguna
+			demi kesejahterahan, kelestarian dan keindahan pulau-pulau kecil yang dimiliki Indonesia.<br />
+			*Jika sekiranya anda memiliki data yang cukup banyak, silakan mengirimkan file melalui email kami di <b><a>identifikasippk@gmail.com</a></b>
+			
+		</p>
+	</i>
+<br />
+
+<div id="fb_comn" class="fb-comments" data-href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_info/4714" data-width="800" data-numposts="5" data-colorscheme="light"></div>
+
+
+</div>
+</div>
+</div>
+<div id="wrapper">
+
+<div class="footer"><p>
+<!--<marquee onmouseover="this.stop()" onmouseout="this.start()" scrollamount="5" direction="right" width="798" height="14"  behavior="scroll">-->
+<a href="http://www.ppk-kp3k.kkp.go.id/" target="_blank">Direktorat Pendayagunaan Pulau-Pulau Kecil &nbsp; | &nbsp;</a>
+<a href="http://www.kp3k.kkp.go.id/" target="_blank">Ditjen Kelautan, Pesisir dan Pulau-Pulau Kecil &nbsp; | &nbsp;</a>
+<a href="http://www.kkp.go.id/" target="_blank">Kementerian Kelautan dan Perikanan</a>
+<!--</marquee>--> <br />
+Jl. Medan Merdeka Timur No. 16 Gedung Mina Bahari 3 Lantai 10, Jakarta, Indonesia <br />
+Email : identifikasippk@gmail.com <br />
+Telp &amp; Fax: (021) 3522058 <br />
+&copy; Copyright Direktorat Pendayagunaan Pulau-Pulau Kecil 2012&nbsp; <br /></p>
+</div>
+</div>
+</body>
+</html>

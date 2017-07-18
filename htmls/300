@@ -1,0 +1,482 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Pulau MANTEHAGE</title>
+
+<meta charset="utf-8"/>
+
+<meta property="fb:app_id" content="559408774147878" />
+
+
+<meta property="og:title" content="Pulau MANTEHAGE" />
+<meta property="og:url" content="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_info/300" />
+
+
+    <script type="text/javascript" src="http://ajax.microsoft.com/ajax/jquery/jquery-1.4.4.min.js">
+    </script>
+    
+    <script type="text/javascript" src="http://plugins.learningjquery.com/expander/jquery.expander.js">
+    </script>
+    
+    <script type="text/javascript">
+        $(function () {
+            $('div.readmore').expander({
+                slicePoint:200,
+                expandText: '(Baca selengkapnya)',
+                userCollapseText: '(Sembunyikan selengkapnya)'
+            });
+        });
+    </script>
+        
+	<script src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/galleria/galleria-1.2.8.min.js"></script>
+
+        <SCRIPT TYPE="text/javascript">
+            <!--
+            //Disable right click script
+            //visit http://www.rainbow.arch.scriptmania.com/scripts/
+            var message="Sorry, right-click has been disabled";
+            ///////////////////////////////////
+            function clickIE() {if (document.all) {(message);return false;}}
+            function clickNS(e) {if
+            (document.layers||(document.getElementById&&!document.all)) {
+            if (e.which==2||e.which==3) {(message);return false;}}}
+            if (document.layers)
+            {document.captureEvents(Event.MOUSEDOWN);document.onmousedown=clickNS;}
+            else{document.onmouseup=clickNS;document.oncontextmenu=clickIE;}
+            document.oncontextmenu=new Function("return false")
+            // -->
+            </SCRIPT>
+            
+            <SCRIPT TYPE="text/javascript">
+            <!--
+            //Disable select-text script (IE4+, NS6+)
+            //visit http://www.rainbow.arch.scriptmania.com/scripts/
+            ///////////////////////////////////
+            function disableselect(e){
+            return false
+            }
+            function reEnable(){
+            return true
+            }
+            //if IE4+
+            document.onselectstart=new Function ("return false")
+            //if NS6
+            if (window.sidebar){
+            document.onmousedown=disableselect
+            document.onclick=reEnable
+            }
+            // -->
+            </SCRIPT>  
+              
+<link rel="stylesheet" type="text/css" href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/css/main.css" media="screen"/>
+<style type='text/css'>
+#info_wrap{
+	width:820px;
+	margin:0 auto;
+	text-shadow:0px 1px 1px #09F;
+}
+table{
+	color:#000000;
+}
+h1{
+	color:#000000;
+}
+.tengahin{
+	width: 105px;
+	height: 30px;
+	margin: 0 auto auto auto;
+}
+#box_view{
+	background-image:-webkit-gradient(linear, 0 0%, 0 100%, from(#FFFFFF), to(#E0F0F5));
+	background:#FFF;
+	color:#F60;
+	border: 1px solid #fff;
+	border-radius: 4px 4px 4px 4px;
+	box-shadow: 0 8px 6px -6px black;
+	position:fixed;
+	right:0;
+	top:150px;;
+	width:80px;
+	z-index:10;
+	padding-left:12px;
+	font-size:10px;
+	}
+#box_view li{
+	color:#F60;
+	margin-left:-30px;
+	}
+	#wrapper a b {
+	color: #FFF;
+	font-size:14px;
+}
+.batas{
+	float:left;
+	border-right-style:inset;
+	border-right-width:thin;
+	}
+.text_h_wrap{
+	
+	padding-left:450px;
+	padding-top:39px;
+	text-shadow:0px 1px 1px #09F;
+	}
+#wrapper .footer p{
+	font-size:12px;
+	color: #FFF;
+	text-align:center;
+	text-shadow:0px 1px 1px #09F;
+}
+td,th {
+	font-size: 12px;
+}
+
+marquee a{
+	color:#FFF
+	}
+#wrapper .footer a{
+	color: #FFFFFF;
+}
+</style>
+            
+<script>
+function goBack()
+  {
+  window.history.back()
+  }
+</script>
+<script type="text/javascript">
+function Popup( url, height, width )
+{
+    var windowProperties = "toolbar = 0, scrollbars = 1, location = 0, statusbar = 0, menubar = 0, resizable = 1, width = " + width + ", height = " + height + ", left = 50, top = 50";
+ 
+    return window.open( url, "", windowProperties );
+}
+</script>
+
+
+
+</head>
+<body oncontextmenu='return false;' onkeydown='return false;' onmousedown='return false;'>
+
+<a id="top_view"></a>
+<div id="wrapper">
+<div class="header_wrap">
+<div class="text_h_wrap">
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/home_page'><b>&nbsp;Home&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/menu_info/1'><b>&nbsp;About Us&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_data'><b>&nbsp;Direktori Pulau&nbsp;&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/program_ip'><b>&nbsp;IKU&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/data_ppkt'><b>&nbsp;PPKT&nbsp;</b></a>
+</div>
+<!--<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/maintenance'><b>&nbsp;Login&nbsp;</b></a>-->
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/dir_log_cont'><b>&nbsp;Login&nbsp;</b></a>
+
+</div>
+</div>
+</div>
+
+<div id="fb-root"></div>
+<script>
+  window.fbAsyncInit = function() {
+    // init the FB JS SDK
+    FB.init({
+      appId      : '559408774147878',                        // App ID from the app dashboard
+      status     : true,                                 // Check Facebook Login status
+      xfbml      : true                                  // Look for social plugins on the page
+    });
+
+    // Additional initialization code such as adding Event Listeners goes here
+  };
+
+  // Load the SDK asynchronously
+  (function(){
+     // If we've already installed the SDK, we're done
+     if (document.getElementById('facebook-jssdk')) {return;}
+
+     // Get the first script element, which we'll use to find the parent node
+     var firstScriptElement = document.getElementsByTagName('script')[0];
+
+     // Create a new script element and set its id
+     var facebookJS = document.createElement('script'); 
+     facebookJS.id = 'facebook-jssdk';
+
+     // Set the new script's source to the source of the Facebook JS SDK
+     facebookJS.src = '//connect.facebook.net/en_US/all.js';
+
+     // Insert the Facebook JS SDK into the DOM
+     firstScriptElement.parentNode.insertBefore(facebookJS, firstScriptElement);
+   }());
+</script>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=559408774147878";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="box_view">
+    <a href="#top_view">MENU</a>
+    <h3><p>Lihat Informasi:</p></h3>
+    <ul>
+	<a href="#sf"><li>Slide Foto</li></a>
+    <a href="#gu"><li>Gambaran Umum</li></a>
+    <a href="#ksbk"><li>Kependudukan, Sosial Budaya dan Kelembagaan</li></a>
+    <a href="#eshp"><li>Ekosistem dan Sumberdaya Hayati</li></a>
+    <a href="#snh"><li>Sumberdaya Non Hayati</li></a>
+    <a href="#aps"><li>Aktivitas Pengelolaan Sumberdaya</li></a>
+    <a href="#ling"><li>Lingkungan</li></a>
+    <a href="#sp"><li>Sarana dan Prasarana</li></a>
+    <a href="#pi"><li>Peluang Investasi</li></a>
+    <a href="#pap"><li>Potensi Arahan Pengembangan</li></a>
+    <a href="#kp"><li>Kendala Pengembangan</li></a>
+	<a href="#rf"><li>Referensi</li></a>
+    </ul>
+    <a href="#fb_comn">KOMENTAR</a>
+</div>
+
+<br>
+			<a id="sf"></a></h2>
+			<div id="galleria">
+            <!--<div class='tengahin'><input type="button" value="Kembali Ke List" onclick="goBack()"></div>-->
+                            </div>
+            
+            <script>
+            Galleria.loadTheme('http://www.ppk-kp3k.kkp.go.id/direktori-pulau/galleria/themes/classic/galleria.classic.min.js');
+            Galleria.run('#galleria');
+            </script>
+</div>
+
+<div id="text_warp">
+
+
+<p><h1>MANTEHAGE</h1></p>
+<table>
+<tr>
+	<td>Nama Lain</td> <td>:</td> <td>MANTERAWU</td>
+</tr>
+<tr>
+	<td>Propinsi</td> <td>:</td> <td>SULAWESI UTARA</td>
+</tr>
+<tr>
+	<td>Kabupaten</td> <td>:</td> <td>KABUPATEN MINAHASA UTARA</td>
+</tr>
+<tr>
+	<td>Kecamatan</td> <td>:</td> <td>WORI</td>
+</tr>
+<tr>
+	<td>Koordinat</td> <td>:</td> <td><a href="http://www.ppk-kp3k.kkp.go.id/giskkp/index.html?extent=14154225.0062 516867.7790,14156135.9319 517590.3478"target="_blank"><p>
+	4&deg; 38&#39; 31,642&quot; LU - 127&deg; 9&#39; 30,180&quot; BT</p>
+</a></td>
+</tr>
+</table>
+<hr>
+
+<h2><a id="gu">Gambaran Umum</a></h2>
+<p><div class="readmore"><p>
+	&nbsp;</p>
+<div>
+	Pulau Mantehage atau Mantehrawu atau juga sering disebut Manterao merupakan salah satu pulau dari wilayah Kabupaten Minahasa Utara yang berada di Kawasan Taman Nasional Bunaken (TNB). Pulau ini memiliki empat kampung yang dikelilingi oleh tumbuhan mangrove atau pohon bakau serta daerah terumbu karang yang cukup luas.</div>
+<div>
+	&nbsp;</div>
+<div>
+	ADMINISTRATIF</div>
+<div>
+	&nbsp;</div>
+<div>
+	Secara administrasi, pulau Mantehage merupakan pulau yang berada di wilayah Kecamatan Wori, Kabupaten Minahasa Utara, Propinsi Sulawesi Utara. Di pulau ini terdapat 4 kampung; Tangkasi, Buhias, Tinongko dan Bango.</div>
+<div>
+	&nbsp;</div>
+<div>
+	GEEOGRAFI</div>
+<div>
+	&nbsp;</div>
+<div>
+	Secara geografis Pulau Manterhage terletak di sebelah utara dari ujung Pulau Sulawesi pada posisi 124 0 45&rsquo; 20&rsquo;&rsquo; BT 1&deg; 42&rsquo; 56&rsquo;&rsquo; LU. Pulau Mantehage terdiri dari pulau utama yang dikelilingi oleh bakau yang luas, dimana luas bakau tersebut hampir sama dengan luas daratan pulau. Di pulau ini terdapat Titik Dasar No TD.049 A &nbsp;dan Titik Referensi No TR.049 A. &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</div>
+<div>
+	&nbsp;</div>
+<div>
+	AKSESIBILITAS</div>
+<div>
+	&nbsp;</div>
+<div>
+	Pulau Mantehage dapat dijangkau dengan menggunakan beberapa sarana transportasi yang ada. Awal perjalanan dapat dimulai dari kota Manado yang merupakan salah satu pintu gerbang utama untuk mencapai wilayah-wilayah administratif Provinsi Sulawesi Utara selain Pelabuhan Bitung. &nbsp;Pulau ini bisa di capai dar Manado sebagai ibukota propinsi dengan waktu tempuh perjalanan hampir 2 jam dengan menggunakan perahu pamo sebagai alat tranportasi laut &ldquo;taxi lokal&rdquo;.&nbsp;</div>
+</div></p>
+
+<hr>
+
+<h2><a id="ksbk">Kependudukan, Sosial Budaya dan Kelembagaan</a></h2>
+<p><div class="readmore"><p>
+	&nbsp;</p>
+<div>
+	Jumlah penduduk Pulau Manterawu pada tahun 2009 sebanyak 2.163 jiwa. Penduduk terbanyak terdapat di Desa Buhias (730 jiwa), dan yang paling sedikit terdapat di Desa Tangkasi (380 jiwa). Besarnya penduduk di Desa Buhias karena desa ini merupakan desa induk sebelum dimekarkan menjadi empat desa. Sedangkan desa Tangkasi memiliki jumlah penduduk yang paling sedikit karena pada awalnya penduduk desa ini beradsal dari Suku Bajo yang hidupnya tinggal di laut dan kemudian dimukimkan di darat. Penduduk yang yang mendiami pulau ini sudah multi etnik (Jawa, Gorontalo, Sangir, Bajo, Minahasa). Hal ini terjadi karena terjadinya perkawinan antar suku. Suku yang dominan adalah suku Sangir/Siau karena mereka adalah orang pertama yang mendiami pulau ini.</div>
+<div>
+	&nbsp;</div>
+<div>
+	Agama yang dianut oleh penduduk di Pulau Manterawu sebagian besar adalah Kristen. Khusus di desa Tangkasi sebagian besar beragama Islam.</div>
+<div>
+	&nbsp;</div>
+<div>
+	Penduduk pulau Manterawu sebagian besar berpendidikan tamat Sekolah Dasar (SD). Rendahnya tingkat pendidikan ini kan berpengaruh pada kehidupan sosial ekonomi mereka, seperti umumnya masyarakat nelayan kurang dapat mengatur keuangan rumah tangga serta rendah dalam melakukan inovasi teknologi. Latar belakang pendidikan yang kurang memadai juga turut berpengaruh terhadap mereka dalam menanggapi kebijakan-kebijakan pemerintah setempat yang bertujuan untuk meningkatkan kesejahteraan nelayan melalui peningkatan pendapatan mereka.</div>
+<div>
+	&nbsp;</div>
+<div>
+	Mata pencaharian utama penduduk dari empat desa yang ada di Pulau Mantehage mereka adalah nelayan. Alat penangkapan ikan yang ada dan sering dipakai adalah pancing hand line dan pancing dasar yang oleh masyarakat Mantehage menyebutnya pancing noru. Ada juga alat tangkap jaring dalam bahasa lokal disebut soma paka-paka,soma darape. Hasil tangkapan yang terbanyak adalah ikan &ndash; ikan ekonomis. Dari hasil tangkapan ini ada yang dikonsumsi sendiri dan ada yang dijual langsung ke Manado.&nbsp;</div>
+<div>
+	&nbsp;</div>
+<div>
+	Kondisi rumah penduduk di Pulau Manterawu pada umumnya dapat digolongkan rumah permanen (dinding terbuat dari batako, atap terbuat dari seng dan lantai terbuat dari semen/tegel/keramik). Jenis penyakit dominan yang sering diderita penduduk di pulau ini adalah malaria, muntaber dan darah tinggi.</div>
+</div></p>
+
+<hr>
+
+<h2><a id="eshp">Ekosistem dan Sumberdaya Hayati</a></h2>
+<p><div class="readmore"><p>
+	&nbsp;</p>
+<div>
+	<strong>Terumbu Karang</strong></div>
+<div>
+	&nbsp;</div>
+<div>
+	Ekosistem terumbu karang merupakan salah satu potensi laut yang ada di pulau ini. Pulau Mantehage memiliki hamparan terumbu karang yang luas dan cukup menjanjikan apabila dikelola secara optimal. Keanekaragaman jenis terumbu karang memiliki daya tarik pulau ini untuk dikembangkan. &nbsp;&nbsp;</div>
+<div>
+	&nbsp;</div>
+<div>
+	<strong>Mangrove</strong></div>
+<div>
+	&nbsp;</div>
+<div>
+	Mangrove (bakau) merupakan komunitas vegetasi pantai tropis, yang didominasi oleh beberapa jenis pohon mangrove yang mampu tumbuh dan berkembang pada daerah pasang surut pantai berlumpur, berlempung atau berpasir. Hutan mangrove ditemukan di daerah pantai yang terlindung dan di muara sungai dengan ekosistem yang khas, sedangkan di pantai-pantai curam yang berdinding batu tidak ditumbuhi mangrove.</div>
+<div>
+	&nbsp;</div>
+<div>
+	Hutan mangrove di pulau ini cukup luas, hampir sama dengan luas daratan pulau Mantehage sendiri, sehingga adanya mangrove ini memiliki potensi untuk dikembangkan lebih lanjut, terutama apabila dikembangkan dengan metode pemanfatan yang lestari.</div>
+</div></p>
+
+<hr>
+
+<h2><a id="snh">Sumberdaya Non Hayati</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<h2><a id="aps">Aktivitas Pengelolaan Sumberdaya</a></h2>
+<p><div class="readmore"><p>
+	&nbsp;</p>
+<div>
+	Sebagian besar (80%) penduduk bermata pencaharian nelayan dan petani. Lahan di pulau ini cocok untuk tanaman pertanian (kelapa, jagung, ketela, dan tanaman palawija lain). Jika tidak melaut, penduduk umumnya bekarja menggarap lahan yang mereka miliki dengan berbagai tanaman.</div>
+<div>
+	&nbsp;</div>
+<div>
+	Sejak adanya kawasan &nbsp;Taman Nasional Bunaken menjadi bervariasi. Disamping usaha pertanian dan perkebunan banyak penduduk beralih mata pencaharian seperti membuat cendramata, tukang, berusaha sebagai pengemudi taksi laut serta budidaya rumput laut.</div>
+</div></p>
+
+<hr>
+
+<h2><a id="ling">Lingkungan</a></h2>
+<p><div class="readmore"><p>
+	Mantehage merupakan salah satu pulau dari gugusan pulau-pulau kecil yang berdekatan dengan kota Manado. Pulau ini memiliki bentuk topografi yang datar sampai landai dengan tingkat kemiringan lereng yang tidak terlalu bervariasi, yaitu antara 0 &ndash; 5 %. Tipe pantai di perairan ini merupakan pantai dengan sebaran terumbu karang yang meluas, yang ditumbuhi mangrove di sekelilingnya.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="sp">Sarana dan Prasarana</a></h2>
+<p><div class="readmore"><p>
+	&nbsp;</p>
+<div>
+	Infrastruktur yang tersedia untuk menghubungkan desa yang satu dengan desa yang lain yaitu berupa jalan desa yang terbuat dari semen. Alat transportasi umumnya menggunakan sepeda dan sepeda motor. Kondisi jalan desa dari desa Buhati ke desa Tangkasi sebagian rusak.</div>
+<div>
+	&nbsp;</div>
+<div>
+	Fasilitas penerangan penduduk pada umumnya berasal dari PLN cabang Manado. Listrik yang dialirkan pada hari-hari biasa (Senin - Sabtu) mulai dinyalakan pada pukul 18.00 - 01.00 WITA, sedangkan pada hari Minggu mulai pukul 08.00 - 13.00 WITA. Meskipun sudah dijadwalkan , seringkali terjadi pemadaman pada jam-jam tersebut dikarenakan adanya kerusakan peralatan yang tidak segera diperbaiki. Hal ini karena belum adanya tenaga teknisi yang ditempatkan di Pulau ini.</div>
+<div>
+	&nbsp;</div>
+<div>
+	Untuk kebutuhan air bersih di pulau Manterawu, pada umumnya berasal dari air sumur gali dan air tadah hujan. Kondisi air sumur yang paling bagus terdapat di desa Tangkasi karena airnya tidak payau. Menurut penuturan penduduk setempat, pada musim kemarau air sumur tidak mengering.</div>
+<div>
+	&nbsp;</div>
+<div>
+	Sarana pendidikan yang tersedia di pulau Manterawu dapat dikatakan cukup memadai karena masing-masing desa sudah tersedia gedung Sekolah Dasar. Bahkan di desa Tinongko terdapat gedung Sekolah Menengah Pertama. Bagi penduduk yang ingin melanjutkan pendidikannya ke jenjang yang lebih tinggi, maka mereka dapat bersekolah di Kabupaten Minahasa Utara atau kota Manado.</div>
+<div>
+	&nbsp;</div>
+<div>
+	Sarana peribadatan yang tersedia dapat dikatakan cukup memadai karena di masing-masing desa sudah tersedia sarana peribadatan sesuai dengan agama yang dominann dianut oleh penduduk setempat.</div>
+<div>
+	&nbsp;</div>
+<div>
+	Sarana kesehatan yang tersedia juga dapat dikatakan cukup memadai karena di masing-masing desa sudah tersedia puskesmas pembantu yang dilengkapi dengan tenaga medis.</div>
+<div>
+	&nbsp;</div>
+</div></p>
+
+<hr>
+
+<h2><a id="pi">Peluang Investasi</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<h2><a id="pap">Potensi dan Arahan Pengembangan</a></h2>
+<p><div class="readmore"><p>
+	&nbsp;</p>
+<div>
+	Upaya awal pengembangan pulau ini antara lain dengan rekonstruksi dan pemeliharaan Titik Referensi (TR) dan Titik Dasar (TD) yang terdapat di sisi utara pulau ini. Arahan pengembangan Pulau Mantahage antara lain pemberdayaan masyarakat pulau, pengembangan dan pengelolaan perikanan tangkap dan budidaya melalui pengembangan teknologi, penyediaan sarana dan prasarana perikanan, akses permodalan usaha perikanan, dan pembukaan akses pasar, melalui upaya budidaya, perlindungan habitat, pengelolaan biota-biota laut yang dilindungi, dan terlebih penting adalah upaya penegakan hukum dan pengawasan yang dilakukan bersama-sama antara aparat yang berwenang dengan masyarakat pulau, untuk menjamin sustainabilitas pemanfaatan sumberdaya di pulau ini.&nbsp;</div>
+<div>
+	&nbsp;</div>
+</div></p>
+
+<hr>
+
+<h2><a id="kp">Kendala Pengembangan</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<h2><a id="rf">Referensi</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<br />
+	<i> 
+		<p style="font-size:12px;">
+			Karena keterbatasan SDM dalam penginputan dan pengolahan data, kami mohon maaf atas ketidak lengkapan beberapa data pulau yang kami tampilkan, harap dimaklumi.
+			Berikan keritik dan saran pada kolom komentar agar kita dapat bersama menyajikan sebuah data yang cukup sempurna untuk halayak ramai yang berguna
+			demi kesejahterahan, kelestarian dan keindahan pulau-pulau kecil yang dimiliki Indonesia.<br />
+			*Jika sekiranya anda memiliki data yang cukup banyak, silakan mengirimkan file melalui email kami di <b><a>identifikasippk@gmail.com</a></b>
+			
+		</p>
+	</i>
+<br />
+
+<div id="fb_comn" class="fb-comments" data-href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_info/300" data-width="800" data-numposts="5" data-colorscheme="light"></div>
+
+
+</div>
+</div>
+</div>
+<div id="wrapper">
+
+<div class="footer"><p>
+<!--<marquee onmouseover="this.stop()" onmouseout="this.start()" scrollamount="5" direction="right" width="798" height="14"  behavior="scroll">-->
+<a href="http://www.ppk-kp3k.kkp.go.id/" target="_blank">Direktorat Pendayagunaan Pulau-Pulau Kecil &nbsp; | &nbsp;</a>
+<a href="http://www.kp3k.kkp.go.id/" target="_blank">Ditjen Kelautan, Pesisir dan Pulau-Pulau Kecil &nbsp; | &nbsp;</a>
+<a href="http://www.kkp.go.id/" target="_blank">Kementerian Kelautan dan Perikanan</a>
+<!--</marquee>--> <br />
+Jl. Medan Merdeka Timur No. 16 Gedung Mina Bahari 3 Lantai 10, Jakarta, Indonesia <br />
+Email : identifikasippk@gmail.com <br />
+Telp &amp; Fax: (021) 3522058 <br />
+&copy; Copyright Direktorat Pendayagunaan Pulau-Pulau Kecil 2012&nbsp; <br /></p>
+</div>
+</div>
+</body>
+</html>

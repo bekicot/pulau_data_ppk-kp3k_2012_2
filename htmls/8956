@@ -1,0 +1,614 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Pulau Molana</title>
+
+<meta charset="utf-8"/>
+
+<meta property="fb:app_id" content="559408774147878" />
+
+
+<meta property="og:title" content="Pulau Molana" />
+<meta property="og:url" content="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_info/8956" />
+
+
+    <script type="text/javascript" src="http://ajax.microsoft.com/ajax/jquery/jquery-1.4.4.min.js">
+    </script>
+    
+    <script type="text/javascript" src="http://plugins.learningjquery.com/expander/jquery.expander.js">
+    </script>
+    
+    <script type="text/javascript">
+        $(function () {
+            $('div.readmore').expander({
+                slicePoint:200,
+                expandText: '(Baca selengkapnya)',
+                userCollapseText: '(Sembunyikan selengkapnya)'
+            });
+        });
+    </script>
+        
+	<script src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/galleria/galleria-1.2.8.min.js"></script>
+
+        <SCRIPT TYPE="text/javascript">
+            <!--
+            //Disable right click script
+            //visit http://www.rainbow.arch.scriptmania.com/scripts/
+            var message="Sorry, right-click has been disabled";
+            ///////////////////////////////////
+            function clickIE() {if (document.all) {(message);return false;}}
+            function clickNS(e) {if
+            (document.layers||(document.getElementById&&!document.all)) {
+            if (e.which==2||e.which==3) {(message);return false;}}}
+            if (document.layers)
+            {document.captureEvents(Event.MOUSEDOWN);document.onmousedown=clickNS;}
+            else{document.onmouseup=clickNS;document.oncontextmenu=clickIE;}
+            document.oncontextmenu=new Function("return false")
+            // -->
+            </SCRIPT>
+            
+            <SCRIPT TYPE="text/javascript">
+            <!--
+            //Disable select-text script (IE4+, NS6+)
+            //visit http://www.rainbow.arch.scriptmania.com/scripts/
+            ///////////////////////////////////
+            function disableselect(e){
+            return false
+            }
+            function reEnable(){
+            return true
+            }
+            //if IE4+
+            document.onselectstart=new Function ("return false")
+            //if NS6
+            if (window.sidebar){
+            document.onmousedown=disableselect
+            document.onclick=reEnable
+            }
+            // -->
+            </SCRIPT>  
+              
+<link rel="stylesheet" type="text/css" href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/css/main.css" media="screen"/>
+<style type='text/css'>
+#info_wrap{
+	width:820px;
+	margin:0 auto;
+	text-shadow:0px 1px 1px #09F;
+}
+table{
+	color:#000000;
+}
+h1{
+	color:#000000;
+}
+.tengahin{
+	width: 105px;
+	height: 30px;
+	margin: 0 auto auto auto;
+}
+#box_view{
+	background-image:-webkit-gradient(linear, 0 0%, 0 100%, from(#FFFFFF), to(#E0F0F5));
+	background:#FFF;
+	color:#F60;
+	border: 1px solid #fff;
+	border-radius: 4px 4px 4px 4px;
+	box-shadow: 0 8px 6px -6px black;
+	position:fixed;
+	right:0;
+	top:150px;;
+	width:80px;
+	z-index:10;
+	padding-left:12px;
+	font-size:10px;
+	}
+#box_view li{
+	color:#F60;
+	margin-left:-30px;
+	}
+	#wrapper a b {
+	color: #FFF;
+	font-size:14px;
+}
+.batas{
+	float:left;
+	border-right-style:inset;
+	border-right-width:thin;
+	}
+.text_h_wrap{
+	
+	padding-left:450px;
+	padding-top:39px;
+	text-shadow:0px 1px 1px #09F;
+	}
+#wrapper .footer p{
+	font-size:12px;
+	color: #FFF;
+	text-align:center;
+	text-shadow:0px 1px 1px #09F;
+}
+td,th {
+	font-size: 12px;
+}
+
+marquee a{
+	color:#FFF
+	}
+#wrapper .footer a{
+	color: #FFFFFF;
+}
+</style>
+            
+<script>
+function goBack()
+  {
+  window.history.back()
+  }
+</script>
+<script type="text/javascript">
+function Popup( url, height, width )
+{
+    var windowProperties = "toolbar = 0, scrollbars = 1, location = 0, statusbar = 0, menubar = 0, resizable = 1, width = " + width + ", height = " + height + ", left = 50, top = 50";
+ 
+    return window.open( url, "", windowProperties );
+}
+</script>
+
+
+
+</head>
+<body oncontextmenu='return false;' onkeydown='return false;' onmousedown='return false;'>
+
+<a id="top_view"></a>
+<div id="wrapper">
+<div class="header_wrap">
+<div class="text_h_wrap">
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/home_page'><b>&nbsp;Home&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/menu_info/1'><b>&nbsp;About Us&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_data'><b>&nbsp;Direktori Pulau&nbsp;&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/program_ip'><b>&nbsp;IKU&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/data_ppkt'><b>&nbsp;PPKT&nbsp;</b></a>
+</div>
+<!--<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/maintenance'><b>&nbsp;Login&nbsp;</b></a>-->
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/dir_log_cont'><b>&nbsp;Login&nbsp;</b></a>
+
+</div>
+</div>
+</div>
+
+<div id="fb-root"></div>
+<script>
+  window.fbAsyncInit = function() {
+    // init the FB JS SDK
+    FB.init({
+      appId      : '559408774147878',                        // App ID from the app dashboard
+      status     : true,                                 // Check Facebook Login status
+      xfbml      : true                                  // Look for social plugins on the page
+    });
+
+    // Additional initialization code such as adding Event Listeners goes here
+  };
+
+  // Load the SDK asynchronously
+  (function(){
+     // If we've already installed the SDK, we're done
+     if (document.getElementById('facebook-jssdk')) {return;}
+
+     // Get the first script element, which we'll use to find the parent node
+     var firstScriptElement = document.getElementsByTagName('script')[0];
+
+     // Create a new script element and set its id
+     var facebookJS = document.createElement('script'); 
+     facebookJS.id = 'facebook-jssdk';
+
+     // Set the new script's source to the source of the Facebook JS SDK
+     facebookJS.src = '//connect.facebook.net/en_US/all.js';
+
+     // Insert the Facebook JS SDK into the DOM
+     firstScriptElement.parentNode.insertBefore(facebookJS, firstScriptElement);
+   }());
+</script>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=559408774147878";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="box_view">
+    <a href="#top_view">MENU</a>
+    <h3><p>Lihat Informasi:</p></h3>
+    <ul>
+	<a href="#sf"><li>Slide Foto</li></a>
+    <a href="#gu"><li>Gambaran Umum</li></a>
+    <a href="#ksbk"><li>Kependudukan, Sosial Budaya dan Kelembagaan</li></a>
+    <a href="#eshp"><li>Ekosistem dan Sumberdaya Hayati</li></a>
+    <a href="#snh"><li>Sumberdaya Non Hayati</li></a>
+    <a href="#aps"><li>Aktivitas Pengelolaan Sumberdaya</li></a>
+    <a href="#ling"><li>Lingkungan</li></a>
+    <a href="#sp"><li>Sarana dan Prasarana</li></a>
+    <a href="#pi"><li>Peluang Investasi</li></a>
+    <a href="#pap"><li>Potensi Arahan Pengembangan</li></a>
+    <a href="#kp"><li>Kendala Pengembangan</li></a>
+	<a href="#rf"><li>Referensi</li></a>
+    </ul>
+    <a href="#fb_comn">KOMENTAR</a>
+</div>
+
+<br>
+			<a id="sf"></a></h2>
+			<div id="galleria">
+            <!--<div class='tengahin'><input type="button" value="Kembali Ke List" onclick="goBack()"></div>-->
+                            </div>
+            
+            <script>
+            Galleria.loadTheme('http://www.ppk-kp3k.kkp.go.id/direktori-pulau/galleria/themes/classic/galleria.classic.min.js');
+            Galleria.run('#galleria');
+            </script>
+</div>
+
+<div id="text_warp">
+
+
+<p><h1>Molana</h1></p>
+<table>
+<tr>
+	<td>Nama Lain</td> <td>:</td> <td></td>
+</tr>
+<tr>
+	<td>Propinsi</td> <td>:</td> <td>MALUKU</td>
+</tr>
+<tr>
+	<td>Kabupaten</td> <td>:</td> <td>KABUPATEN MALUKU TENGAH</td>
+</tr>
+<tr>
+	<td>Kecamatan</td> <td>:</td> <td></td>
+</tr>
+<tr>
+	<td>Koordinat</td> <td>:</td> <td><a href="http://www.ppk-kp3k.kkp.go.id/giskkp/index.html?extent="target="_blank">3° 38' 31.000</a></td>
+</tr>
+</table>
+<hr>
+
+<h2><a id="gu">Gambaran Umum</a></h2>
+<p><div class="readmore"><ol>
+	<li style="text-align: justify;">
+		<strong>Kondisi Umum Pulau</strong></li>
+</ol>
+<p style="margin-left: 21.3pt; text-align: justify;">
+	Pulau Molana merupakan sebuah pulau kecil yang tidak berpenduduk di wilayah Kecamatan Saparua, <a href="http://id.wikipedia.org/wiki/Kabupaten_Maluku_Tengah" title="Kabupaten Maluku Tengah">Kabupaten Maluku Tengah</a>, <a href="http://id.wikipedia.org/wiki/Provinsi_Maluku" title="Provinsi Maluku">Provinsi Maluku</a>, <a href="http://id.wikipedia.org/wiki/Indonesia" title="Indonesia">Indonesia</a>. Pulau Molana merupakan gugusan karang yang mencuat ke permukaan laut dan menjadi daratan.</p>
+<p style="margin-left: 21.3pt; text-align: justify;">
+	Secara geografis Pulau Nusalaut memiliki batas-batas wilayah sebagai berikut :</p>
+<p style="margin-left: 21.3pt; text-align: justify;">
+	Sebelah Utara&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : berbatasan dengan Pulau Haruku dan</p>
+<p style="margin-left: 148.85pt; text-align: justify;">
+	&nbsp;Pulau Saparua</p>
+<p style="margin-left: 21.3pt; text-align: justify;">
+	Sebelah Selatan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : berbatasan dengan Laut Banda</p>
+<p style="margin-left: 21.3pt; text-align: justify;">
+	Sebelah Timur&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : berbatasan dengan Pulau Nusalaut</p>
+<p style="margin-left: 21.3pt; text-align: justify;">
+	Sebelah Barat&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : berbatasan dengan Pulau Ambon</p>
+<p style="margin-left: 21.3pt; text-align: justify;">
+	Pulau Molana terletak pada koordinat antara 03&deg; 38&rsquo; 31&rsquo;&rsquo; LS dan 128&deg; 36&rsquo; 31&rsquo;&rsquo;BT menurut &nbsp;topografi Pulau Molana merupakan pulau berbukit dengan tingkat kemiringan 15-40 % dan dengan ketinggian maksimal 200 meter diatas permukaan laut. Pulau Molana ditutupi oleh daerah hutan, kebun campuran dan semak-semak.</p>
+<p style="margin-left: 21.3pt; text-align: justify;">
+	Kepemilikan Pulau Molana secara adat menurut sejarahnya dipegang oleh tiga marga dari <a href="http://id.wikipedia.org/wiki/Haria,_Saparua,_Maluku_Tengah" title="Haria, Saparua, Maluku Tengah">Haria</a>, yaitu Marga Kaya, Marga Souisa dan Marga Kainama.</p>
+<p style="margin-left: 21.3pt; text-align: justify;">
+	Untuk mencapai Pulau Molana dari Jakarta, dapat ditempuh dengan menggunakan pesawat udara ke Kota Ambon (Bandar Udara Pattimura) dengan waktu perjalanan <u>+</u> 2 jam, kemudian dilanjutkan dengan perjalanan darat ke Pelabuhan Tulehu, Kecamatan Salahutu, Kabupaten Maluku Tengah dengan waktu tempuh <u>+</u> 30 menit.&nbsp; Selanjutnya, dari Pelabuhan Tulehu menggunakan jalur laut menuju Pulau Molana dengan waktu tempuh sekitar 3 jam apabila dengan cuaca baik.</p>
+<p style="text-align: justify;">
+	<strong>Klimatologi</strong></p>
+<p style="margin-left: 21.3pt; text-align: justify;">
+	Kondisi iklim di Pulau Molana didominasi oleh curah hujan yang relatif tinggi, yang ditunjukkan dengan kondisi vegetasi hutan yang rapat dan tumbuh subur. Tipe iklim hutan hujan tropis dan iklim musim dengan curah hujan rata-rata tahunan yang tinggi. Seperti wilayah Indonesia lainnya, di Pulau Molana hanya terdapat 2 musim dalam setahun, yaitu musim penghujan yang dimulai pada bulan Oktober dan musim kemarau yang dimulai pada bulan April, dengan bulan basah lebih lama dibanding dengan bulan kering. Pulau Molana terletak antara Laut Pasifik dengan Laut Banda, sehingga sering terjadi pusaran angin dan arus laut, maka pada saat musim penghujan sering tejadi badai hujan (<em>storm</em>) yang sangat memungkinkan terjadinya banjir besar.</p>
+<p style="margin-left: 21.3pt; text-align: justify;">
+	Berdasarkan Peta Isohyet (Direktoral Jenderal Cipta Karya, 1996), curah hujan rata-rata tahunan di Pulau Molana berkisar antara 2000&shy;-4000 mm. Curah hujan tertinggi (&gt;4000 mm/tahun). Berdasarkan klasifikasi Oldeman, zona agroklimat di Pulau Molana dapat dikelompokkan berdasarkan kondisi fisiografinya, yaitu: (a) pada satuan dataran rendah dengan ketinggian &lt;500 meter dpal, temperatur udara berkisar antara 25.8&deg;-27.2&deg;C, curah hujan antara 1.000-4.500 mm/tahun, hujan tersebar merata, jumlah bulan basah antara 3-9 bulan basah per tahun; (b) pada satuan dataran tinggi dengan ketinggian &gt;500 meter dpal, temperatur udara rata-rata 26,2&deg;C, curah hujan antara 3.000-4.000 mm/tahun, dan &gt;9 bulan basah.</p>
+<p style="text-align: justify;">
+	<strong>Oseanografi</strong></p>
+<p style="margin-left: 21.3pt; text-align: justify;">
+	Keadaan oceanografi (kelautan) di sekitar perairan sekitar Pulau Molana mempunyai arti penting dalam menunjang pekembangan wilayah tersebut, karena selain dapat dipergunakan sebagai salah satu prasarana transportasi antar wilayah yang cukup penting bagi aktifitas dan pergerakan orang dan barang (kegiatan ekonomi), juga menyimpan berbagai potensi sumber daya kelautan yang belum tergarap secara utuh. Wilayah perairan Pulau Molana memiliki karakteristik kedalaman laut yang sangat beragam mulai dari perairan yang landai, terjal dan sangat terjal.</p>
+<p style="margin-left: 21.3pt; text-align: justify;">
+	Terdapat beberapa kawasan pesisir pantai yang landai terdiri dari selain hamparan pasir juga terdapat paparan batuan, ceruk dan muara sungai serta daerah esturia yang kaya akan berbagai jenis <em>plankton</em>. Kedaan ini merupakan potensi alami yang mendukung untuk kegiatan perikanan, perhubungan laut maupun kegiatan pariwisata</p>
+<p style="text-align: justify;">
+	<strong>Hidrologi</strong></p>
+<p style="margin-left: 21.3pt; text-align: justify;">
+	Kondisi hidrologi Pulau Molana dicirikan dengan ketidaktersediaan air tawar sebagai kebutuhan air bersih serta aliran sungai juga tidak ditemukan sepanjang daratan Pulau Molana.</p>
+<p style="margin-left: 21.3pt; text-align: justify;">
+	Di Pulau Molana tidak ada sumur untuk dimanfaatkan sebagai persediaan air bersih, hal ini disebabkan karena di Pulau Molana tidak terdapat sumber mata air tawar. Ketersediaan air tawar untuk kebutuhan minum dan mandi merupakan hambatan utama dalam pengembangan obyek wisata di di Pulau Molana, sehingga air harus&nbsp; diambil dan diangkut dari Desa Haria yang berjarak &plusmn;3 Km menggunakan katinting atau speedboat. Pilihan lain yakni ketika saat hujan atau musim hujan air hujan ditampung dalam bak guna dipakai saat diperlukan.</p>
+<p style="text-align: justify;">
+	<strong>Keadaan Fisik Pulau</strong></p>
+<p style="margin-left: 21.3pt; text-align: justify;">
+	Pulau Molana memiliki ciri yang dapat diklasifikasikan sebagai pulau vulkanis dan karang.Topografi wilayahnya umumnya berbukit yang menjulang langsung dari permukaan laut. Jenis-jenis tanah yang dominan antara lain adalah tanah kompleks, latosol, renzina, dan mediteran. Pulau Molana memiliki tipe pantai berpasir dan pantai berbatu. Pantai berpasir &nbsp;dapat ditemui di sisi bagian Utara dan Timur &nbsp;Pulau Molana. Sedangkan pantai berbatu dapat ditemui di sisi bagian Selatan dan Barat Pulau Molana.</p>
+<h1 style="text-align: justify;">
+	Tipologi Pantai</h1>
+<p style="margin-left: 21.3pt; text-align: justify;">
+	Secara umum, tipologi pantai di Pulau Molana merupakan pantai berkarang, dan hampir didominansi oleh tebing.Pantai dengan tebing-tebing karang ini terhampar mulai dari sisi utara, timur dan selatan pulau, sedangkan disisi barat cenderung hanya bongkahan-bongkahan karang besar dan dibeberapa lokasi terdapat area yang landai (Gambar 5).</p>
+<p style="margin-left: 21.3pt; text-align: justify;">
+	&nbsp;&nbsp;&nbsp;&nbsp; Selain pantai berkarang, terdapat juga pantai dengan tipe pantai berpasir.Pantai berpasir tersebut terdapat di barat laut pulau. Pantai berpasir ini merupakan pantai dengan kondisi perairan yang cenderung tenang, sehingga menjadi area untuk melabuhkan perahu baik oleh nelayan dan penduduk yang memiliki lahan di pulau dan sebagai objek wisata pantai dan pulau kecil karena pasirnya yang putih bersih (Gambar 6).</p>
+<p style="margin-left: 21.3pt; text-align: justify;">
+	&nbsp;&nbsp;&nbsp;&nbsp; Tipologi pantai yang ada di Pulau Molana sangat erat kaitannya dengan kondisi oseanografi, dimana diperkirakan gelombang dan arah arus dominan dari arah timur ke barat, sehingga membuat pantai di sekitar wilayah timur menjadi terpapar terhadap gelombang. Berbeda dengan di sisi sebelah barat sampai barat daya, dimana pantainya cukup terlindung sehingga secara geomorfologi proses pembentukan pantai berpasir dapat terjadi.</p>
+<p align="center">
+	&nbsp;</p>
+</div></p>
+
+<hr>
+
+<h2><a id="ksbk">Kependudukan, Sosial Budaya dan Kelembagaan</a></h2>
+<p><div class="readmore"><p style="text-align: justify;">
+	<strong>Kependudukan</strong></p>
+<p style="margin-left: 21.3pt; text-align: justify;">
+	Pulau Molana adalah pulau yang tidak berpenduduk, hanya ada penjaga penginapan/cottage kalo ada pengunjung dan sebagai tempat singgah nelayan.</p>
+<p style="text-align: justify;">
+	<strong>Sosial-Budaya, Ekonomi dan Kelembagaan</strong></p>
+<p style="margin-left: 21.3pt; text-align: justify;">
+	Pulau Molana merupakan pulau yang tidak berpenduduk namun penduduk di sekitar Pulau Molana yaitu penduduk Desa Haria yang berada di daratan Pulau Saparua masih kokoh mempertahankan aturan adat, yang telah ditetapkan sejak ratusan tahun yang lalu meskipun sepenuhnya telah menganut agama tertentu. Sebagai contoh yang paling nyata dan dikenal adalah sasi. Disebutkan bahwa sasi diketahui sebagai suatu larangan untuk mengambil atau merusak sumber daya alam tertentu dalam jangka waktu tertentu pula, demi menjaga kelestarian dan agar terjamin hasil yang berlipat ganda di masa depan (Rahael,1995 <em>dalam</em> Silaya, 2003). Sasi memiliki peran penting dalam pelestarian ekosistem. Karena selain mengatur / membatasi eksploitasi sumber daya alam, aturan ini juga memberikan kesempatan untuk alam dapat memperbaharui diri dan berkembang dengan lebih baik. Di Kecamatan Saparua (Pulau&nbsp; Molana dan Pulau Saparua),&nbsp; sasi kelompokan menjadi sasi darat dan sasi laut. Kedua kelompok sasi itu juga dibedakan menjadi sasi negeri (adat) dan sasi gereja/ mesjid (agama). Namun dalam perkembangannya, sasi gereja/mesjid lebih ditaati hingga kini.</p>
+<p style="margin-left: 21.3pt; text-align: justify;">
+	<strong>Kelembagaan (KEWANG)</strong></p>
+<p style="margin-left: 21.3pt; text-align: justify;">
+	Pulau Molana yang masuk dalam wilayah masyarakat negeri Desa Haria Kecamatan Saparua masih mengakui dan menghormati kelembagaan adat. Suatu kawasan tidak dapat begitu saja dibuka oleh masyarakat tanpa persetujuan dari <em>Latukewanno. </em>Orang dengan jabatan Kewang adalah orang yang diberikan tanggung jawab untuk menjaga kawasan ekologis suatu daerah baik di darat (hutan) maupun di laut. Dalam pemberian izin penebangan atau pembukaan kawasan, Kewang harus mempertimbangkan kondisi ekologis misalnya mata air, daerah sepanjang aliran sungai, tempat keramat, sarang burung dan sebagainya. Dalam kegiatan penebangan, kewang juga akan memberikan syarat untuk meninggalkan pohon &ndash; pohon tertentu dan atau melakukan penanaman kembali.</p>
+<p>
+	&nbsp;</p>
+</div></p>
+
+<hr>
+
+<h2><a id="eshp">Ekosistem dan Sumberdaya Hayati</a></h2>
+<p><div class="readmore"><p style="text-align: justify;">
+	<strong>Ekosistem dan Sumberdaya Hayati Pesisir</strong></p>
+<ol style="list-style-type:lower-alpha;">
+	<li style="text-align: justify;">
+		<strong>Terumbu Karang</strong></li>
+</ol>
+<h1 style="text-align: justify;">
+	Keakaragaman Hayati Terumbu Karang</h1>
+<p style="text-align: justify;">
+	Pulau Molana merupakan salah satu pulau di Maluku.Pulau Molana terletak di selatan antara Pulau Saparua dan Haruku.Di bagian Selatan Pulau Molana berhadapan dengan laut lepas sehingga di bagian selatan arusnya cukup besar dan bagiannya utara cukup terlindung.Pertumbuhan Terumbu di Pulau Molana pada umumnya termasuk karang Tepi atau <em>fringing reef </em>dengan tubir yang cukup dekat dengan daratan.Substrat sedimen di perairan pulau Molana didominasi oleh pasir dan karang, dan terumbu batu.Bentuk Pulau Molana terlihat meruncing sehingga bagian timur dan barat Pulau Molana arusnya cukup besar.Kondisi kontur perairannya landai hingga slope terjal. Terumbu Karang di Pulau Molana hidup di kedalaman sekitar 3- lebih dari 10 meter.Jenis karang yang tumbuh bermacam-macam dari karang Acropora maupun Non-Acropora.</p>
+<p style="text-align: justify;">
+	Substrat Dasar perairan di Pulau Molana pada lokasi pengamatan cukup beragam, yakni: karang hidup; abiotik seperti pasir dan patahan karang; karang mati seperti <em>Death Coral</em> (DC) dan <em>Death Coral with Algae</em> (DCA), secara umum kondisi penutupan karang hidup di seluruh lokasi pengamatan pada Pulau Molana memiliki kisaran antara 12,96% - 40,36% yang termasuk dalam kriteria karang buruk sampai dengan sedang. Penutupan karang hidup tertinggi adalah bagian Barat Pulau Molana</p>
+<p style="margin-left: 21.3pt; text-align: justify;">
+	<strong>Barat Daya Pulau Molana</strong></p>
+<p style="margin-left: 21.3pt; text-align: justify;">
+	Kontur kedalaman di Barat Daya Pulau Molana adalah slope landai dengan terumbu karang yang hidup menyebar di tepi tubir.Subtrat dasar didominasi patahan karang, dan kecerahan perairan yang baik.Kondisi arus di lokasi Barat Daya Molana cukup besar karena berdekatan dengan tanjung selatan yang langsung menghadap laut lepas. Persentase penutupan karang hidup pada Lokasi Barat Daya Pulau Molana adalah 27,66%, termasuk dalam kriteria sedang (Gomes dan Yap 1988). Didominasi penutupan kategori substrat abiotik yang cukup besar sebesar 52,66%. Penutupan kategori biotik 6,54%. Kategori substrat karang mati sebesar 13,14%.</p>
+<p style="margin-left: 21.3pt; text-align: justify;">
+	<strong>Barat Pulau Molana</strong></p>
+<p style="margin-left: 21.3pt; text-align: justify;">
+	Kontur kedalaman di Barat Daya Pulau Molana adalah slope landai dengan terumbu karang yang hidup menyebar di tepi tubir.Subtrat dasar didominasi karang hidup, dan kecerahan perairan yang baik.Kondisi arus di lokasi Barat Daya Molana cukup terlindung. Persentase penutupan karang hidup pada Lokasi Barat Pulau Molana adalah 40,36%, termasuk dalam kriteria sedang (Gomes dan Yap 1988). Penutupan kategori substrat abiotik yang cukup besar sebesar 22,88%. Penutupan kategori biotik 19,64%.</p>
+<p style="margin-left: 21.3pt; text-align: justify;">
+	<strong>Utara Pulau Molana</strong></p>
+<p style="margin-left: 21.3pt; text-align: justify;">
+	Kontur kedalaman di Utara Pulau Molana adalah slope landai hingga terjal dengan terumbu karang yang hidup menyebar di tepi tubir.Subtrat dasar didominasi patahan karang, dan kecerahan perairan yang cukup baik.Kondisi arus di lokasi Utara Molana terlindung.Di bagian Utara Pulau Molana merupakan jalur kapal berlabuh sehingga ditemukan banyak patahan karang di perairan dangkal. Persentase penutupan karang hidup pada Lokasi Utara Pulau Molana adalah 12,96%, termasuk dalam kriteria sedang (Gomes dan Yap 1988). Penutupan kategori substrat abiotik yang cukup besar sebesar 21,98%. Didominasi penutupan kategori biotik 41,78% banyak ditemukan <em>Soft Coral</em>. Kategori substrat karang mati sebesar 23,28%.</p>
+<h1 style="text-align: justify;">
+	Tingkat Kerusakan dan Penyebab Utama</h1>
+<p style="text-align: justify;">
+	Eksistensi ekosistem terumbu karang menjadi suatu hal yang substansial dalam kawasan wilayah pesisir dan lautan terutama pulau-pulau kecil yang sangat tergantung pada kondisi ekosistem tersebut disamping mangrove dan lamun.Faktor-faktor penyebab kerusakan dapat berasal dari alam dan non-alam (anthropogenik).</p>
+<h1 style="text-align: justify;">
+	Permasalahan Utama Pengelolaan Kawasan Terumbu Karang</h1>
+<p style="margin-left: 21.25pt; text-align: justify;">
+	Pulau Molana merupakan pulau wisata penangkapan dimana pengelolaan kawasan Terumbu Karang belum ada.Perlu adanya dilakukan pengelolaan berbasis ekowisata untuk pemanfaatan wisata yang berdasarkan konservasi.Sebagai contoh bagian Utara ditemukan ikan Napoleon di kedalaman 10 meter, sedangkan di bagian Utara Pulau Molana digunakan untuk tempat berlabuh kapal.Sebaiknya pembangunan infrastruktur secara bijak dan tidak merusak ekosistem terumbu karang.</p>
+<h1 style="text-align: justify;">
+	Status Kawasan</h1>
+<p style="margin-left: 21.3pt; text-align: justify;">
+	Melalui tata ruang wilayah pesisir dan lautan di perairan Pulau Molana belum ada tercatat dalam status kawasan apapun.Perlu adanya perhatian dari pemerintah dan masyarakat setempat kelestarian terhadap lingkungan pesisir dan lautan di Pulau Molana agar mengurangi tingkat kerusakan ekosistem pesisir.</p>
+<h1 style="text-align: justify;">
+	Biota Asosiasi yang Ditemukan di Pulau Nusalaut</h1>
+<p style="text-align: justify;">
+	Beberapa biota asosiasi yang ditemukan di Pulau Molana baik sebagai indikator maupun mayor.Indikator sebagai indikasi kerusakan terumbu karang baik invasi maupun predasi. Mayor sebagai pengisi pada rantai makanan di ekosistem terumbu karang.</p>
+<h1 style="text-align: justify;">
+	b. Ikan terumbu</h1>
+<p style="margin-left: 21.25pt; text-align: justify;">
+	Pengamatan struktur komunitas ikan terumbu dilakukan di tiga titik pengamatan guna melihat keterwakilan ikan di Pulau Molana.Metode yang digunakan adalah <em>Underwater Visual census</em> (UVC) dimana penyelam mencatat jenis, jumlah dan panjang ikan terumbu yang berada disekitar garis transek.Identifikasi jenis ikan terumbu dilakukan dilapangan dan di laboratorium dengan menggunakan literatur Allen et.al (2003) dan Kuiter (1992).</p>
+<p style="margin-left: 21.25pt; text-align: justify;">
+	Hasil pengamatan ikan terumbu di sisi tiga sisi pulau Molana yaitu sisi Barat Daya, Barat dan Utara menunjukkan indeks nilai keanekaragaman (H&rsquo;) berada pada kategori sedang sampai dengan tinggi. Dari ketiga titik pengamatan tersebut, komunitas ikan terumbu di sisi Barat tergolong dalam kategori komunitas yang memiliki keanekaragaman jenis ikan sedang.Hal yang berbeda teramati pada sisi Barat Daya dan Utara Pulau Molana dimana keanekaragaman jenis ikan terumbu di kedua sisi ini tergolong dalam kategori yang memiliki keanekaragaman jenis ikan terumbu tinggi.</p>
+<p style="margin-left: 21.25pt; text-align: justify;">
+	Indeks nilai keseragaman (E&rsquo;) dihitung guna menunjukkan kategori kestabilan komunitas berdasarkan perbandingan banyaknya jumlah individu dengan jumlah jenis yang teramati.Semakin merata penyebaran jumlah individu tiap jenis maka semakin tinggi nilai yang ditunjukan indeks keseragaman.Komunitas ikan terumbu di ketiga sisi pulau Molana tergolong dalam kategori stabil.</p>
+<p style="text-align: justify;">
+	Nilai indeks Dominansi (C&rsquo;) dengan nilai Indeks keseragaman akan berbanding terbalik. Semakin tinggi nilai indeks keseragaman maka akan semakin rendah nilai indeks dominansi yang didapatkan. Dari ketiga stasiun pengamatan di pulau Molana, tidak ditemukan adanya dominansi dari jenis ikan terumbu.</p>
+<h1 style="text-align: justify;">
+	Barat Daya Pulau Molana</h1>
+<p style="margin-left: 21.3pt; text-align: justify;">
+	Ikan terumbu yang teramati di bagian barat pulau Molana sebanyak 63 jenis yang berasal dari 14 famili berbeda. Ikan yang berasal dari famili Pomacentridae merupakan jenis ikan yang sering ditemukan di Barat Daya terutama untuk jenis <em>Chromis viridis</em> dengan kelimpahan sebesar 1720 ind/ha. Ikan jenis ini seringkali terlihat mendominasi karena jenis ikan ini cenderung menempatidaerah terumbu karang yang bercabang dan tidak memiliki daerah ruaya yang luas. Jenis ikan terumbu lainnya yang banyak ditemukan di Barat Dayauntuk famili Pomacentridae adalah <em>Chromis margaritfer</em> dengan kelimpahan 1520ind/ha disusul dengan jenis <em>Pomacentrus auriventris</em>yang dengan kelimpahan 1320 ind/ha. Kepadatan terbesar kedua dimiliki oleh ikan famili Balistidae dengan jenis yang paling sering dijumpai adalah jenis <em>Odonus niger</em> dengan kepadatan sebesar 4520 ind/ha. Jenis lain untuk famili Balistidae yang ditemui pada saat pengamatan adalah jenis <em>Rhinecanthus verrucosa</em> dengan kepadatan yang terhitung sebesar 120 ind/ha. Jenis ikan ini memangsa plankton yang berada di kolom perairan dan beberapa organisme bentik seperti crustacean serta algae yang menempel pada permukaan terumbu.Kedua jenis famili dengan kepadatan tertinggi di sisi Barat Daya pulau ini tergolong kedalam kelompok ikan mayor yang memiliki peran sebagai rantai makanan dalam suatu ekosistem.</p>
+<p style="margin-left: 21.3pt; text-align: justify;">
+	Pengamatan ikan terumbu di sisi Barat Daya Pulau Molana juga ditemukan ikan unik yaitu jenis ikan <em>Nemateleotris magnifica </em>(Gambar 21).Ikan ini dikatakan unik karena ikan ini hidup &lsquo;menumpang&rsquo; di sarang yang telah dibuat oleh udang. Sebagai timbal baliknya, ikan ini akan berjaga-jaga disekitar sarang dan apabila melihat predator maka ikan ini akan menggerakan ekornya guna memberitahukan udang untuk segera bersembunyi ke dalam sarang. Ikan ini dapat bergerak dengan cepat, oleh karena itu ikan ini memiliki nama lain <em>dart fish</em>. Kelompok ikan selanjutnya yang ditemukan adalah kelompok ikan target dimana jenis famili yang dijumpai di Barat Daya pulau Molana diantaranya adalah Serranidae, Scaridae dan Lutjanidae. Hasil yang didapat dari pengamatan selanjutnya diolah guna melihat biomassa yang terkandung dalam setiap jenis ikan tangkapan para nelayan. Biomassa terbesar dimiliki oleh ikan jenis <em>Gracilla albomarginata</em> yaitu sebesar 69,21 kg/ha kemudian disusul oleh jenis <em>Scarus tricolor</em> dengan biomassa sebesar 54,79 kg/ha. Jenis ikan <em>Chlorurus sordidus</em> merupakan jenis ikan yang memiliki biomassa terkecil yaitu sebesar 26,84 kg/ha.</p>
+<h1 style="text-align: justify;">
+	Barat Pulau Molana</h1>
+<p style="margin-left: 21.3pt; text-align: justify;">
+	Hasil pengamatan pada sisi Barat, keberadaan ikan famili Pomacentridae sangat berlimpah keberadaannya. Menurut Montgomery <em>et al.</em> (1980) Famili Pomacentridae merupakan ikan terumbu yang cukup tinggi keanekaragaman spesiesnya.Pola yang cerah dan unik, ukuran yang bervariasi namun pada umumnya berukuran kecil dan jumlah yang sangat melimpah sehingga mudah dikenali.Ikan terumbu ini menempati hampir di setiap bentuk morfologi terumbu karang, sebagian besar ikan ini bersifat teritorial, spasial dan relatif stabil. Kepadatan famili ini didominansi oleh jenis <em>Chromis viridis</em> (3720 ind/ha) dan <em>Chromis margaritifer</em> (3520 ind/ha).</p>
+<p style="margin-left: 21.3pt; text-align: justify;">
+	Famili Chaetodontidae juga di jumpai di sisi Barat pulau Molana dengan jumlah individu yang tercatat sebanyak 640 ind/ha. Jenis ikan ini merupakan jenis ikan yang dapat digunakan sebagai bio-indikator terhadap kesehatan terumbu karang dalam suatu perairan.Jenis ikan yang sering dijumpai adalah <em>Forcipiger longrostris</em> dan <em>Chaetodon specullum</em>.Pola warna dan bentuk tubuh ikan ini mudah dikenali karena tubuhnya berwana kuning cerah dengan bagian mulut yang memanjang. Pada pengamatan di sisi Barat pulau ini tidak banyak ditemukan kelompok ikan target, hanya terdapat dua jenis ikan terumbu. Jenis ikan terumbu yang ditemukan adalah <em>Chlorurus sordidus</em> dengan kepadatan sebanyak 160 ind/ha dan biomassa yang terhitung sebesar 35,79 kg/ha; jenis <em>Cephalopholis urodeta</em> dengan kepadatan sebanyak 160 ind/ha dan biomassa yang terhitung sebesar 43,10 kg/ha.</p>
+<h1 style="text-align: justify;">
+	Utara Pulau Molana</h1>
+<p style="margin-left: 21.25pt; text-align: justify;">
+	Pengamatan ikan terumbu di sisi Utara Pulau Molana diperoleh sebanyak 55 jenis ikan terumbu yang tergolong menjadi 15 jenis famili.Kepadatan tertinggi pada tingkat famili dimiliki oleh Pomacentridae dengan jumlah jenis yang ditemukan untuk famili ini sebanyak 15 jenis ikan terumbu. Jenis ikan yang paling banyak ditemukan adalah jenis <em>Abudefduf vaigiensis</em>, <em>Chromis weberi</em>, <em>Amphiprion clarckii</em> dan <em>Chromis amboinensis</em>.Ketiga jenis ikan tersebut tergolong dalam kelompok ikan mayor dimana sering kali ikan mayor ini digunakan sebagai ikan hias akuarium air laut. Jenis famili lainnya yang tergolong dalam kelompok ikan mayor adalah Acanthuridae, Balistidae, Holocentridae, Labridae, Mullidae, Nemipteridae, Pomacanthidae, Zanclidae dan beberapa jenis Serranidae. Kepadatan kedua terbesar pada kelompok ikan mayor berasal dari famili Balistidae dengan jenis ikan yang sering ditemukan adalah jenis <em>Odonus niger</em> kemudian disusul dengan jenis <em>Meilichthys indicus</em>.</p>
+<p style="margin-left: 21.25pt; text-align: justify;">
+	Kelompok ikan target yang tercatat selama pengamatan di sisi Utara pulau Molana sebanyak 10 jenis dengan kepadatan tertinggi berasal dari jenis ikan <em>Pterocaesio randalli</em> yaitu sebanyak 1640 ind/ha dan biomassa yang terhitung untuk jenis ikan ini sebesar 468,48 kg/ha. Kepadatan tertinggi kedua untuk kelompok ikan target berasal dari jenis ikan <em>Caesio lunaris</em> dengan kepadatan 1120 ind/ha dan biomassa yang terhitung sebesar 175,23 kg/ha. Sedangkan pada jenis <em>Caesio teres</em> memiliki kepadatan 920 ind/ha dan biomassa yang terhitung sebesar 262,81 kg/ha. Hal tersebut menunjukkan bahwa biomassa yang terkandung tidak berbanding lurus dengan kepadatan satu jenis ikan.</p>
+<p style="text-align: justify;">
+	<strong>c. Vegetasi Pantai</strong></p>
+<p style="margin-left: 21.3pt; text-align: justify;">
+	<strong>Tipe Vegetasi Pantai</strong></p>
+<p style="margin-left: 21.3pt; text-align: justify;">
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Berdasarkan Tipologi pantai yang ada, maka vegetasi pantai yang ada di Pulau Molana didominasi oleh tumbuhan darat yang merupakan tanaman keras dan belukar.Hanya beberapa tanaman yang termasuk sebagai kategori tanaman pantai meliputi kelapa, ketapang, camplung dan <em>Pandanus </em>sp. (Gambar 29).Selain tipologi pantai, pembentukan vegetasi ini sangat terkait dengan iklim dan kondisi morfogenesis pulau yang merupakan bukit, sehingga relung hidup untuk tumbuhan sangat terbatas.Dipahami bahwa tanaman yang tersbut diatas merupakan tanaman yang mampu hidup pada kondisi tanah yang keras, berbatu dan hanya sedikit air.</p>
+<p style="margin-left:21.3pt;">
+	&nbsp;</p>
+</div></p>
+
+<hr>
+
+<h2><a id="snh">Sumberdaya Non Hayati</a></h2>
+<p><div class="readmore"><p style="text-align: justify;">
+	<strong>Sumberdaya Non-Hayati Pesisir</strong></p>
+<p style="margin-left: 21.3pt; text-align: justify;">
+	Berdasarkan hasil survey dan wawancara dengan penjaga dan pengunjung Pulau Molana dijelaskan bahwa tidak terdapat Sumberdaya Non-Hayati Pesisir di Pulau Molana.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="aps">Aktivitas Pengelolaan Sumberdaya</a></h2>
+<p><div class="readmore"><p style="text-align: justify;">
+	<strong>Perikanan Tangkap</strong></p>
+<p style="margin-left: 21.25pt; text-align: justify;">
+	<strong>Produksi dan Sarana Perikanan Tangkap</strong></p>
+<p style="margin-left: 21.25pt; text-align: justify;">
+	Daerah penangkapan perikanan umumnya dilakukan oleh masyarakat Pulau Saparua di sekitar perairan Pulau Molana. Nelayan melakukan aktivitasnya setiap hari baik pada siang hari maupun pada malam hari tergantung pada jenis ikan yang ditangkap. Jenis hasil tangkapan di sekitar pulau berupa ikan kakap putih, kerapu, rumput laut, tiram mutiara, teripang, udang, lobster dan cumi.</p>
+<p style="margin-left: 21.25pt; text-align: justify;">
+	Hasil tangkapan nelayan di perairanPulau Molana biasanya hanya untuk memenuhi kebutuhan hidup sehari-hari. Jika mendapat tangkapan ikan yang melimpah, baru hasil tangkapan tersebut dijual ke Pulau Saparua, Pulau Seram hingga ke Pulau Ambon. Alat tangkap yang beroperasi di sekitar perairan Pulau Molana adalah alat tangkap pancing dan jaring insang permukaan (<em>Gillnet</em>). Sedangkan perahu yang digunakan adalah perahu dayung dan perahu motor.</p>
+<p style="text-align: justify;">
+	<strong>Perikanan Budidaya</strong></p>
+<p style="margin-left: 21.3pt; text-align: justify;">
+	Tidak ada kegiatan usaha budidaya perikanan baik budidaya perikanan laut maupun budidaya perikanan air tawar di Pulau Molana, baik oleh warga Desa Haria Kecamatan Saparua.</p>
+<p style="text-align: justify;">
+	<strong>Pariwisata</strong></p>
+<p style="margin-left: 21.3pt; text-align: justify;">
+	Pulau Molana masuk dalam wilayah pemerintah Desa Haria, Kecamatan Saparua, Kabupaten Maluku tengah menyimpan potensi wisata bahari.Selain&nbsp; itu juga pesona keindahan bawah laut dan pasir putih terhampar sepanjang kiurang lebih 1,5 Km. Hamparan pasir putih pada sisi utara Pulau Molana mempunyai keunikan karena berpindah sesuai dengan musim angin yang terjadi. Pada musim angin timur pantai berpasir akan berada di sisi sebelah barat, sedangkan pada musim angin barat pantai berpasir berpindah menjadi ke sisi sebelah timur. Pergerakan pasir secara masif ini diperkirakan terjadi karena butiran pasir Pulau Molana sangatlah halus seperti bubuk.</p>
+<p style="margin-left: 21.3pt; text-align: justify;">
+	Menariknya selama menelusuri pantai ditemukan tebing batu karang alami dan gua-gua karang kecil/tebing terumbu terjal (cliff) sekitar Pulau Pulau Molana.</p>
+<p style="margin-left: 21.3pt; text-align: justify;">
+	Di Pulau Molana dengan mudah dapat dijumpai biawak (sejenis kadal), untuk melihatnya wisatawan hanya menyediakan ikan saja untuk menarik perhatian biawak untuk keluar dari sarangnya.</p>
+<p style="margin-left: 21.3pt; text-align: justify;">
+	Pulau Molana kini sudah dilengkapi fasilitas untuk bermalam bagi para wisatawan yang ingin menginap. Dua buah cottage dan sebuah restoran sudah dibangun oleh pemilik umel (tempat wisata di pulau Molana bernama August Kaya. Adapun bangunan yang ada diberikan nama agar mudah diingat seperti untuk restoran diberikan nama Andarias, sedangkan untuk Bungalow diberi nama Malatu, Elizabeth dan Paulus.</p>
+<p style="margin-left: 14.2pt; text-align: justify;">
+	Hingga saat ini kurang lebih 64 orang wisatawan telah berkunjung ke Pulau Molana. Pengembangan Pulau Molana perlu mendapat perhatian oleh Pemerintah Daerah dan Pusat mengingat Pulau Molana sebagai salah satu obyek wisata andalan di masa mendatang dengan potensi menjanjikan.</p>
+<p style="text-align: justify;">
+	<strong>Aktivitas Pengelolaan Sumberdaya</strong></p>
+<p style="text-align: justify;">
+	<strong>Kehutanan</strong></p>
+<p style="margin-left: 21.3pt; text-align: justify;">
+	Keberadaan hutan di Pulau Molana terdapat di seluruh bagian pulau dengan luasan hutan sebesar 138,42 Ha dan non hutan 92,34 Ha <em>(Sumber: Analisis Penutupan/Penggunaan Lahan Menggunakan Klasifikasi Kemiripan Maksimum di Pulau Saparua dan Molana, Kecamatan Saparua oleh Ronny Loppies, Dosen Fak. Pertanian, Unpatti, Ambon)</em>. Keberadaan hutan di Pulau Molana adalah hutan sekunder yang ditumbuhi berbagai macam tumbuhan. Hutan di Pulau Molana berbentuk hutan hutan adat yang dikelola dengan pola dusun.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="ling">Lingkungan</a></h2>
+<p><div class="readmore"><p style="text-align: justify;">
+	<strong>Kualitas Perairan</strong></p>
+<p style="margin-left: 21.3pt; text-align: justify;">
+	Perairan Pulau Molana mampu dikembangkan dalam sektor perikanan budidaya dan tangkap. Kawasan pesisir pantai yang landai dengan hamparan pasir dan terdapat paparan batuan dan ceruk. Keadaan ini merupakan potensi alami yang prospektif untuk kegiatan perikanan, perhubungan laut maupun kegiatan pariwisata.Wilayah Pulau Molana sebagian besar wilayah pesisir pantai berpotensi besar untuk dikembangkan sebagai area penangkapan ikan maupun budidaya karena sangat didukung oleh sumberdaya alam pesisir dan laut yang demikian besar sekaligus sebagai wahana untuk meningkatkan kesejahteraan masyarakat.</p>
+<p style="margin-left: 21.3pt; text-align: justify;">
+	Perairan Pulau Molana memiliki suhu permukaan laut sebesar 29,3 &deg;C. Suhu merupakan salah satu faktor pembatas lingkungan yang penting bagi tingkat kelangsungan hidup biota air.&nbsp; Menurut Mulyanto (1992) suhu yang baik untuk kehidupan ikan di daerah tropis berkisar antara 25 &ndash; 32 &deg;C.dengan demikian suhu masih baik untuk kehidupan ikan. Menurut KMNLH (2004) salinitas, oksigen terlarut, dan pH masih dalam keadaan normal dan dapat di manfaatkan sebagai budidaya ikan (biota laut).Derajat keasaman (pH) berada pada nilai7,8 dan salinitas perairan berada pada 33&permil;. Kondisi pengamatan insitu yang masih dalam kategori normal tersebut, mengindikasikan perairan Pulau Molana masih alami. Hasil pengukuran bahwa kandungan oksigen terlarut (DO) yakni benilai 7,5 mg/L, dalam kategori normal.</p>
+<p style="margin-left: 21.3pt; text-align: justify;">
+	Nitrat dan ammonia yang ada di daerah inimemiliki nilai 0,02 mg/L dan0,077 mg/L. sedangkan untuk silikat dan orto fosfat memiliki nilai 0,632 mg/L dan 0,008 mg/L. Kadar nitrat di perairan laut yang normal berkisar antara 0,01 &ndash; 0,05 mg/L (Brotowidjoko 1995). Silikat, ortofosfat, dan ammonia masih dalam keadaan normal dan dapat dimanfaatkan oleh biota laut (KMNLH 2004). Kondisi ini menunjukkan bawah Pulau Molana masih mendukung kegiatan yang dapat dikembangkan untuk tujuan pengembangan ekonomi masyarakat, yakni bersumber dari perikanan tangkap, budidaya perairan dan pengolahan hasil perikanan skala kecil.</p>
+<p style="text-align: justify;">
+	<strong>Kerentanan Bencana dan Upaya Mitigasi</strong></p>
+<p style="margin-left: 21.3pt; text-align: justify;">
+	Kerentanan bencana berupa gelombang tinggi terutama pada saat angin timur yang terjadi pada bulan juni s/d agustus. Ancaman yang ada di Pulau Molana terhadap pantai berupa abrasi pantai yang terjadi akibat alam, atau terjadi secara alami. Hal ini karena lokasi pulau yang tidak terlindung dan terpapar oleh gelombang dan arus yang kuat. Adanya ancaman ini masih belum pada kondisi yang mengkhawatirkan, terlebih karena tipologi pantai yang berkarang. Karena kondisinya belum mengkhawatirkan dan Pulau Molana merupakan pulau yang tidak berpenduduk, maka tidak ada bentuk adaptasi yang dilakukan untuk menanggulangi ancaman yang ada.</p>
+<p style="text-align: justify;">
+	<strong>Permasalahan Lingkungan</strong></p>
+<p style="margin-left: 21.3pt; text-align: justify;">
+	Pulau Molana merupakan pulau yang tidak berpenduduk, meskipun terdapat pemanfaatan untuk wisata yang didukung dengan adanya <em>cottage</em>, tetapi hanya digunakan jika ada tamu saja, sedangkan kesehariannya pemilik tinggal di Ambon (daratan utama). Sehingga, pada observasi lapang tidak ditemukan ancaman akibat kegiatan manusia.Tidak adanya ancaman oleh manusia juga terkait dengan mitos terkait Pulau Molana yang hingga kini masih dipercaya oleh masyarakat sekitar.</p>
+<p style="margin-left: 14.2pt; text-align: justify;">
+	Ancaman yang ada di Pulau Molana terhadap pantai berupa abrasi pantai yang terjadi akibat alam, atau terjadi secara alami (Gambar 29).Hal ini karena lokasi pulau yang tidak terlidung dan terpapar oleh gelombang dan arus yang kuat. Adanya ancaman ini masih belum pada kondisi yang mengkhawatirkan, terlebih karena tipologi pantai yang berkarang. Karena kondisinya belum mengkhawatirkan dan Pulau Molana merupakan pulau yang tidak berpenduduk, maka tidak ada bentuk adaptasi yang dilakukan untuk menanggulangi ancaman yang ada.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="sp">Sarana dan Prasarana</a></h2>
+<p><div class="readmore"><p style="text-align: justify;">
+	<strong>Sarana dan Prasarana</strong></p>
+<p style="margin-left: 21.3pt; text-align: justify;">
+	Sehubungan Pulau Molana tidak berpenduduk, maka belum terdapat sarana dan prasarana yang dibangun di pulau ini. Sarana yang terdapat di Pulau Molana berupa rumah pondok/<em>cottage</em> sebagai tempat menginap wisatawan yang bermalam di Pulau Molana. Sebagai sarana penerangan, penyedia tempat wisata&nbsp; menyediakan genset untuk memasok listrik&nbsp; guna kebutuhan wisatawan bermalam. Langkah tersebut diambil karena di Pulau Molana belum tersedia fasilitas pembangkit tenaga listrik sebagai sumber penerangan. Ketersediaan air tawar untuk kebutuhan minum dan mandi merupakan hambatan utama dalam pengembangan obyek wisata di di Pulau Molana, sehingga air harus&nbsp; diambil dan diangkut dari Desa Haria yang berjarak &plusmn;3 Km menggunakan katinting atau speedboat. Untuk sarana komunikasi, penduduk sekitar Pulau Molana maupun wisatawan yang berkunjung di Pulau Molana dapat berkomunikasi melalui telepon genggam yang memperoleh sinyal dari operator telkomsel yang mendirikan menara penguat sinyal (BTS) di daratan Pulau Saparua.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="pi">Peluang Investasi</a></h2>
+<p><div class="readmore"><p style="text-align: justify;">
+	<strong>Peluang Investasi</strong></p>
+<p style="margin-left: 21.3pt; text-align: justify;">
+	Saat ini sudah ada investor lokal yang mengelola wisata bahari di Pulau Molana yaitu August Kaya, yang sudah mendirikan bangunan rumah penginapan/<em>bungalow </em>sebanyak 2 unit, 1 unit restoran dan 1&nbsp; unit toilet umum serta penjaga pulau yang selalu disiagakan guna menjaga fasilitas wisata dan melayani wisatawan yang berkunjung.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="pap">Potensi dan Arahan Pengembangan</a></h2>
+<p><div class="readmore"><p style="text-align: justify;">
+	<strong>Potensi Pengembangan</strong></p>
+<p style="margin-left: 21.3pt; text-align: justify;">
+	Berdasarkan keragaman potensi yang dimiliki oleh Pulau Molana maka peluang pengembangan yang potensial adalah:</p>
+<ul>
+	<li style="text-align: justify;">
+		<strong>Potensi Perikanan dan Kelautan</strong></li>
+</ul>
+<p style="margin-left: 35.45pt; text-align: justify;">
+	Potensi perikanan dan kelautan merupakan andalan bagi masyarakat yang tinggal di sekitar Pulau Molana. Masyarakat memanfaatkan perairan disekitar pulau sebagai lokasi penangkapan ikan. Hal ini didukung dengan kondisi terumbu karang yang masih lumayan baik.</p>
+<ul>
+	<li style="text-align: justify;">
+		<strong>Wisata Bahari</strong></li>
+</ul>
+<p style="margin-left: 35.45pt; text-align: justify;">
+	Perairan di sekitar Pulau Molana kaya akan berbagai ekosistem lamun dan terumbu karang yang kondisinya masih baik. Hal ini disebabkan oleh kearifan lokal penduduk sekitar Pulau Molana dalam metode penangkapan ikan yaitu tidak menggunakan racun/bom ikan yang dapat merusak ekosistem terumbu karang. Selain itu, pasir yang mengelilingi Pulau Pelampong tergolong unik dikarenakan warnanya putih terhampar hampir diseluruh Pulau Molana dengan jarak &plusmn; 10 meter. Pengembangan yang dapat dilakukan di Pulau Molana adalah konservasi ekosistem lamun dan terumbu karang.</p>
+<ul>
+	<li style="text-align: justify;">
+		<strong>Perkebunan dan Hutan lindung</strong></li>
+</ul>
+<p style="margin-left: 35.45pt; text-align: justify;">
+	Perkebunan tidak terdapat di Pulau Molana karena tidak ada rencana pembukaan lahan perkebunan baru. Pulau Molana hanya ditutupi oleh daerah hutan, kebun campuran, dan semak-semak. Hutan yang di Pulau Molana adalah hutan milik dan hutan adat yang dikelola dengan pola dusun, mengingat pulau ini merupakan daerah petuanan Haria. Komposisi hutan Saparua pada umumnya terdiri dari vegetasi mangrove (<em>Soneratia sp</em>, <em>Bruguiera sp, Rhizophora sp, Avicenia sp)</em>, bintanggur (<em>Calopyllum inophylum</em>) kenari (<em>Canarium sp</em>) - <em>(Sumber: Ronny Loppies Dosen Fakultas Pertanian, Universitas Pattimura &ndash; Ambon)</em>.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="kp">Kendala Pengembangan</a></h2>
+<p><div class="readmore"><p style="text-align: justify;">
+	<strong>Kendala Pengembangan Pulau</strong></p>
+<ul>
+	<li style="text-align: justify;">
+		Tidak adanya sarana dan prasana pulau (listrik, air bersih, dermaga dll)</li>
+	<li style="text-align: justify;">
+		Aksesibilitas dan sarana transportasi dari dan ke pulau molana</li>
+	<li style="text-align: justify;">
+		Kurangnya fasilitas penunjang (alat transportasi laut, dermaga tambat/<em>jetty,</em> penerangan dan air bersih)</li>
+	<li style="text-align: justify;">
+		Armada dan alat penangkapan ikan masih sangat sederhana sehingga potensi perikanan yang sangat besar di perairan sekitar Pulau Molana tidak dapat dimanfaatkan secara optimal</li>
+	<li style="text-align: justify;">
+		Ketersediaan air tawar untuk kebutuhan minum dan mandi merupakan hambatan utama dalam pengembangan obyek wisata di di Pulau Molana, tidak adanya sumber air tawar, hanya mengandalkan air hujan, sehingga apabila musim kemarau harus mencari sumber mata air ke Desa Haria yang letaknya di pulau lain/Pulau Saparua dengan waktu tempuh sekitar 3 jam menggunakan katinting/<em>speedboat</em>.</li>
+	<li style="text-align: justify;">
+		Sumber energi listrik atau generator pembangkit listrik belum tersedia.</li>
+</ul>
+</div></p>
+
+<hr>
+
+<h2><a id="rf">Referensi</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<br />
+	<i> 
+		<p style="font-size:12px;">
+			Karena keterbatasan SDM dalam penginputan dan pengolahan data, kami mohon maaf atas ketidak lengkapan beberapa data pulau yang kami tampilkan, harap dimaklumi.
+			Berikan keritik dan saran pada kolom komentar agar kita dapat bersama menyajikan sebuah data yang cukup sempurna untuk halayak ramai yang berguna
+			demi kesejahterahan, kelestarian dan keindahan pulau-pulau kecil yang dimiliki Indonesia.<br />
+			*Jika sekiranya anda memiliki data yang cukup banyak, silakan mengirimkan file melalui email kami di <b><a>identifikasippk@gmail.com</a></b>
+			
+		</p>
+	</i>
+<br />
+
+<div id="fb_comn" class="fb-comments" data-href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_info/8956" data-width="800" data-numposts="5" data-colorscheme="light"></div>
+
+
+</div>
+</div>
+</div>
+<div id="wrapper">
+
+<div class="footer"><p>
+<!--<marquee onmouseover="this.stop()" onmouseout="this.start()" scrollamount="5" direction="right" width="798" height="14"  behavior="scroll">-->
+<a href="http://www.ppk-kp3k.kkp.go.id/" target="_blank">Direktorat Pendayagunaan Pulau-Pulau Kecil &nbsp; | &nbsp;</a>
+<a href="http://www.kp3k.kkp.go.id/" target="_blank">Ditjen Kelautan, Pesisir dan Pulau-Pulau Kecil &nbsp; | &nbsp;</a>
+<a href="http://www.kkp.go.id/" target="_blank">Kementerian Kelautan dan Perikanan</a>
+<!--</marquee>--> <br />
+Jl. Medan Merdeka Timur No. 16 Gedung Mina Bahari 3 Lantai 10, Jakarta, Indonesia <br />
+Email : identifikasippk@gmail.com <br />
+Telp &amp; Fax: (021) 3522058 <br />
+&copy; Copyright Direktorat Pendayagunaan Pulau-Pulau Kecil 2012&nbsp; <br /></p>
+</div>
+</div>
+</body>
+</html>

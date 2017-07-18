@@ -1,0 +1,694 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Pulau Rengit Gili</title>
+
+<meta charset="utf-8"/>
+
+<meta property="fb:app_id" content="559408774147878" />
+
+
+<meta property="og:title" content="Pulau Rengit Gili" />
+<meta property="og:url" content="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_info/4915" />
+
+
+    <script type="text/javascript" src="http://ajax.microsoft.com/ajax/jquery/jquery-1.4.4.min.js">
+    </script>
+    
+    <script type="text/javascript" src="http://plugins.learningjquery.com/expander/jquery.expander.js">
+    </script>
+    
+    <script type="text/javascript">
+        $(function () {
+            $('div.readmore').expander({
+                slicePoint:200,
+                expandText: '(Baca selengkapnya)',
+                userCollapseText: '(Sembunyikan selengkapnya)'
+            });
+        });
+    </script>
+        
+	<script src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/galleria/galleria-1.2.8.min.js"></script>
+
+        <SCRIPT TYPE="text/javascript">
+            <!--
+            //Disable right click script
+            //visit http://www.rainbow.arch.scriptmania.com/scripts/
+            var message="Sorry, right-click has been disabled";
+            ///////////////////////////////////
+            function clickIE() {if (document.all) {(message);return false;}}
+            function clickNS(e) {if
+            (document.layers||(document.getElementById&&!document.all)) {
+            if (e.which==2||e.which==3) {(message);return false;}}}
+            if (document.layers)
+            {document.captureEvents(Event.MOUSEDOWN);document.onmousedown=clickNS;}
+            else{document.onmouseup=clickNS;document.oncontextmenu=clickIE;}
+            document.oncontextmenu=new Function("return false")
+            // -->
+            </SCRIPT>
+            
+            <SCRIPT TYPE="text/javascript">
+            <!--
+            //Disable select-text script (IE4+, NS6+)
+            //visit http://www.rainbow.arch.scriptmania.com/scripts/
+            ///////////////////////////////////
+            function disableselect(e){
+            return false
+            }
+            function reEnable(){
+            return true
+            }
+            //if IE4+
+            document.onselectstart=new Function ("return false")
+            //if NS6
+            if (window.sidebar){
+            document.onmousedown=disableselect
+            document.onclick=reEnable
+            }
+            // -->
+            </SCRIPT>  
+              
+<link rel="stylesheet" type="text/css" href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/css/main.css" media="screen"/>
+<style type='text/css'>
+#info_wrap{
+	width:820px;
+	margin:0 auto;
+	text-shadow:0px 1px 1px #09F;
+}
+table{
+	color:#000000;
+}
+h1{
+	color:#000000;
+}
+.tengahin{
+	width: 105px;
+	height: 30px;
+	margin: 0 auto auto auto;
+}
+#box_view{
+	background-image:-webkit-gradient(linear, 0 0%, 0 100%, from(#FFFFFF), to(#E0F0F5));
+	background:#FFF;
+	color:#F60;
+	border: 1px solid #fff;
+	border-radius: 4px 4px 4px 4px;
+	box-shadow: 0 8px 6px -6px black;
+	position:fixed;
+	right:0;
+	top:150px;;
+	width:80px;
+	z-index:10;
+	padding-left:12px;
+	font-size:10px;
+	}
+#box_view li{
+	color:#F60;
+	margin-left:-30px;
+	}
+	#wrapper a b {
+	color: #FFF;
+	font-size:14px;
+}
+.batas{
+	float:left;
+	border-right-style:inset;
+	border-right-width:thin;
+	}
+.text_h_wrap{
+	
+	padding-left:450px;
+	padding-top:39px;
+	text-shadow:0px 1px 1px #09F;
+	}
+#wrapper .footer p{
+	font-size:12px;
+	color: #FFF;
+	text-align:center;
+	text-shadow:0px 1px 1px #09F;
+}
+td,th {
+	font-size: 12px;
+}
+
+marquee a{
+	color:#FFF
+	}
+#wrapper .footer a{
+	color: #FFFFFF;
+}
+</style>
+            
+<script>
+function goBack()
+  {
+  window.history.back()
+  }
+</script>
+<script type="text/javascript">
+function Popup( url, height, width )
+{
+    var windowProperties = "toolbar = 0, scrollbars = 1, location = 0, statusbar = 0, menubar = 0, resizable = 1, width = " + width + ", height = " + height + ", left = 50, top = 50";
+ 
+    return window.open( url, "", windowProperties );
+}
+</script>
+
+
+
+</head>
+<body oncontextmenu='return false;' onkeydown='return false;' onmousedown='return false;'>
+
+<a id="top_view"></a>
+<div id="wrapper">
+<div class="header_wrap">
+<div class="text_h_wrap">
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/home_page'><b>&nbsp;Home&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/menu_info/1'><b>&nbsp;About Us&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_data'><b>&nbsp;Direktori Pulau&nbsp;&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/program_ip'><b>&nbsp;IKU&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/data_ppkt'><b>&nbsp;PPKT&nbsp;</b></a>
+</div>
+<!--<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/maintenance'><b>&nbsp;Login&nbsp;</b></a>-->
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/dir_log_cont'><b>&nbsp;Login&nbsp;</b></a>
+
+</div>
+</div>
+</div>
+
+<div id="fb-root"></div>
+<script>
+  window.fbAsyncInit = function() {
+    // init the FB JS SDK
+    FB.init({
+      appId      : '559408774147878',                        // App ID from the app dashboard
+      status     : true,                                 // Check Facebook Login status
+      xfbml      : true                                  // Look for social plugins on the page
+    });
+
+    // Additional initialization code such as adding Event Listeners goes here
+  };
+
+  // Load the SDK asynchronously
+  (function(){
+     // If we've already installed the SDK, we're done
+     if (document.getElementById('facebook-jssdk')) {return;}
+
+     // Get the first script element, which we'll use to find the parent node
+     var firstScriptElement = document.getElementsByTagName('script')[0];
+
+     // Create a new script element and set its id
+     var facebookJS = document.createElement('script'); 
+     facebookJS.id = 'facebook-jssdk';
+
+     // Set the new script's source to the source of the Facebook JS SDK
+     facebookJS.src = '//connect.facebook.net/en_US/all.js';
+
+     // Insert the Facebook JS SDK into the DOM
+     firstScriptElement.parentNode.insertBefore(facebookJS, firstScriptElement);
+   }());
+</script>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=559408774147878";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="box_view">
+    <a href="#top_view">MENU</a>
+    <h3><p>Lihat Informasi:</p></h3>
+    <ul>
+	<a href="#sf"><li>Slide Foto</li></a>
+    <a href="#gu"><li>Gambaran Umum</li></a>
+    <a href="#ksbk"><li>Kependudukan, Sosial Budaya dan Kelembagaan</li></a>
+    <a href="#eshp"><li>Ekosistem dan Sumberdaya Hayati</li></a>
+    <a href="#snh"><li>Sumberdaya Non Hayati</li></a>
+    <a href="#aps"><li>Aktivitas Pengelolaan Sumberdaya</li></a>
+    <a href="#ling"><li>Lingkungan</li></a>
+    <a href="#sp"><li>Sarana dan Prasarana</li></a>
+    <a href="#pi"><li>Peluang Investasi</li></a>
+    <a href="#pap"><li>Potensi Arahan Pengembangan</li></a>
+    <a href="#kp"><li>Kendala Pengembangan</li></a>
+	<a href="#rf"><li>Referensi</li></a>
+    </ul>
+    <a href="#fb_comn">KOMENTAR</a>
+</div>
+
+<br>
+			<a id="sf"></a></h2>
+			<div id="galleria">
+            <!--<div class='tengahin'><input type="button" value="Kembali Ke List" onclick="goBack()"></div>-->
+                            </div>
+            
+            <script>
+            Galleria.loadTheme('http://www.ppk-kp3k.kkp.go.id/direktori-pulau/galleria/themes/classic/galleria.classic.min.js');
+            Galleria.run('#galleria');
+            </script>
+</div>
+
+<div id="text_warp">
+
+
+<p><h1>Rengit Gili</h1></p>
+<table>
+<tr>
+	<td>Nama Lain</td> <td>:</td> <td></td>
+</tr>
+<tr>
+	<td>Propinsi</td> <td>:</td> <td>NUSA TENGGARA BARAT</td>
+</tr>
+<tr>
+	<td>Kabupaten</td> <td>:</td> <td>KABUPATEN LOMBOK BARAT</td>
+</tr>
+<tr>
+	<td>Kecamatan</td> <td>:</td> <td></td>
+</tr>
+<tr>
+	<td>Koordinat</td> <td>:</td> <td><a href="http://www.ppk-kp3k.kkp.go.id/giskkp/index.html?extent="target="_blank">8° 43' 5.753</a></td>
+</tr>
+</table>
+<hr>
+
+<h2><a id="gu">Gambaran Umum</a></h2>
+<p><div class="readmore"><p style="text-align: justify;">
+	<span style="color:#800080;"><strong>GAMBARAN UMUM</strong></span></p>
+<p style="text-align: justify; margin-left: 40px;">
+	Secara administrasi Pulau Gili Rengit terletak di Kecamatan Sekotong Tengah, Kabupaten Lombok Barat, Propinsi Nusa Tenggara Barat. Pulau Gili Rengit masuk dalam status kawasan Desa Kepulauan.</p>
+<p style="text-align: justify; margin-left: 40px;">
+	Pulau Gili Rengit berada pada posisi koordinat geografis 8&deg; 43&#39; 5.753&quot; Lintang Selatan 115&deg; 54&#39; 56.074&quot; Bujur Timur. Batas wilayah Pulau Gili Rengit pada bagian sebelah utara berbatasan dengan Selat Lombok,&nbsp; di bagian selatan berbatasan dengan Laut Desa Gili Gede, di barat berbatasan dengan Laut Desa Batu Putih dan untuk bagian timur berbatasan dengan Selat Lombok.</p>
+<p style="text-align: justify; margin-left: 40px;">
+	Pulau Gili Rengit termasuk pulau tak berpenduduk, hanya saja terdapat resort yang ditempati oleh beberapa para penjaga. Resort yang terdapat pada Gili Rengit memiliki status bermasalah administratif dengan pihak pemda, oleh karena itu mereka masih belum mendapat ijin resmi sampai pada saat dilakukan survey identifikasi pada tanggal 14 September 2013 oleh Direktorat Pendayagunaan Pulau-Pulau Kecil.</p>
+<p style="text-align: justify; margin-left: 40px;">
+	Pulau Gili Rengit tertata dengan rapih pada sisi selatan dimana terdapat resort. Lebih ketengah pulau hanya terdapat semak belukar yang membentang luas hingga ujung sebelah utara sisi pulau. Terdapat dermaga besar, dermaga ini digunakan untuk sandar kapal pemilik pulau yang biasanya membawa banyak tamu dari Bali pada <em>event</em> tertentu terutama tahun baru hingga pulau ini ramai sekali.</p>
+<p style="text-align: justify;">
+	<span style="color:#800080;"><strong>AKSESIBILITAS</strong></span></p>
+<p style="margin-left: 22.5pt; text-align: justify;">
+	Aksesbilitas menuju Pulau Gili Rengit dapat diperhitungkan mulai dari bandara yang berada di Lombok Tengah menuju Kota Mataram sekitar 30 menit jarak tempuh menggunakan transportasi darat. Dari kota Mataram menuju Kabupaten Lombok Barat dapat ditempuh dengan jarak 20 menit. Kemudian dari Lombok Barat menuju Kecamatan Sekotong Tengah sekitar 2 jam dengan transportasi darat, tetapi jika menggunakan trasportasi laut maka akan dapat menghemat waktu 1 jam 20 menit karena lama perjalanan hanya 40 menit. Jika menggunakan kendaraan darat kita dapat menaiki perahu dari pesisir desa Sekotong Barat menuju pulau sekitar 20 menit perjalanan.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="ksbk">Kependudukan, Sosial Budaya dan Kelembagaan</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<h2><a id="eshp">Ekosistem dan Sumberdaya Hayati</a></h2>
+<p><div class="readmore"><p style="text-align: justify;">
+	<span style="color:#ff0000;"><strong>EKOSISTEM TERUMBU KARANG </strong></span></p>
+<ol>
+	<li style="text-align: justify;">
+		<p>
+			<strong>Barat Gili Gede</strong></p>
+	</li>
+</ol>
+<p style="text-align: justify; margin-left: 40px;">
+	Lokasi pengamatan Barat Gili Gede memiliki perairan yang cukup jernih di dalam kolom perairan dengan jarak pandang ke depan sekitar 6 meter dan jarak pandang ke atas sekitar 8 meter. Pengambilan data dilakukan pada kedalaman 9 meter pada kontur dasar perairan yang berbentuk <em>slope</em> atau miring. Karang lokasi pengamatan ini berbentuk <em>fringing reef</em> (terumbu karang tepi), kondisi arus termasuk kategori sedang dan semakin kencang menjelang sore hari.</p>
+<p style="text-align: justify; margin-left: 40px;">
+	Substrat dasar perairan pada lokasi pengamatan Barat Gili Gede didominasi oleh kelompok <em>Hard Coral</em> atau Karang Keras. Kondisi terumbu karang pada lokasi pengamatan ini termasuk dalam kategori sedang karena memiliki persentase diantara 25%-49,9% (English <em>et al</em>. 1998). Persentase terbanyak kedua adalah dari kelompok <em>Rubble</em> (patahan karang) atau berupa patahan-patahan karang. Sedangkan persentase ketiga berupa <em>Soft Coral</em> atau Karang lunak terutama dari genera <em>Xenia</em>. Biota <em>others</em> (lainnya) yang ditemukan terutama berasal dari kelompok lili laut.</p>
+<p style="text-align: justify; margin-left: 40px;">
+	Secara umum, persentase tutupan substrat dasar perairan dari komponen biotik (HC, SC, SP, dan OT) memiliki tutupan lebih besar dibandingkan dengan persentase tutupan substrat dasar perairan dari komponen abiotik (RB, DCA, dan S).</p>
+<p style="text-align: justify; margin-left: 40px;">
+	Komposisi <em>lifeform</em> HC yang ditemukan pada substrat dasar perairan Barat Gili Gede didominasi oleh <em>lifeform</em> <em>Coral Branching</em> (CB) atau karang-karang yang memiliki bentuk pertumbuhan bercabang, kemudian diikuti oleh karang dengan <em>lifeform</em> <em>Coral Mushroom</em> (CMR) atau karang-karang yang umumnya berupa karang <em>soliter</em>. Sedangkan sisanya berupa karang-karang dari <em>lifeform</em> <em>Acropora</em> <em>Branching</em> (ACB) atau karang bercabang dari genus <em>Acropora</em>, <em>Coral Foliose</em> (CF) atau karang-karang berbentuk seperti daun, <em>Coral Massive</em> (CM) yaitu karang dengan bentuk seperti batu bulat, <em>Coral Millepora</em> (CME) yaitu karang api dimana karang ini dapat menimbulkan sensasi seperti terbakar ketika bersentuhan dengan kulit, <em>Coral Encrusting</em> (CE) yaitu karang dengan bentuk pertumbuhan mengerak, <em>Coral Helliopora</em> (CHE) atau biasa disebut karang biru karena umumnya berwarna biru atau memiliki jaringan dalam berwarna biru, dan terkahir adalah <em>lifeform</em> <em>Coral Submassive</em> (CS).</p>
+<p style="text-align: justify; margin-left: 40px;">
+	Jumlah genus karang yang ditemukan sebanyak 19 genera. Berdasarkan komposisinya, genera <em>Seriatopora, Fungia</em>, dan <em>Acropora</em> secara berurutan memiliki persentase tertinggi diantara semua genera karang yang didapatkan di lokasi pengamatan ini. Genera Seriatopora dan <em>Acropora</em> mayoritas memiliki bentuk pertumbuhan <em>Branching</em> atau bercabang. Komposisi terendah terdapat pada Genus <em>Helliopora</em> dengan persentase kurang dari satu persen.</p>
+<ol>
+	<li style="text-align: justify;" value="2">
+		<p>
+			<strong>Timur Gili Gede</strong></p>
+	</li>
+</ol>
+<p style="text-align: justify; margin-left: 40px;">
+	Lokasi pengamatan Timur Gili Gede memiliki <em>visibility</em> yang tidak terlalu baik dimana nilai <em>visibility</em> <em>horizontal</em> hanya sekitar 4 meter dan <em>vertical</em> sekitar 6 meter. Sedimen dan partikel-partikel terlarut yang tinggi mempengaruhi <em>visibility</em> dan jarak pandang pada kolom perairan. Pengambilan data dilakukan pada kedalaman 3 meter dimana kontur dasar perairan berbentuk <em>plate</em> atau rata. Pada kedalaman lebih dari 5 meter substrat hanya terdiri dari hamparan <em>rubble</em> atau karang-karang patah. Arus termasuk dalam kategori sedang.</p>
+<p style="text-align: justify; margin-left: 40px;">
+	Pada lokasi pengamatan Timur Gili Gede ini, substrat dasar perairan masih didominasi oleh <em>Hard Coral</em> yang memiliki persentase hampir setengah dari total persentase seluruh substrat dasar perairan. Persentase HC ini masih termasuk dalam kategori baik dimana nilai persentase berada pada range 25%-49,9%. Persentase terbanyak selanjutnya dari kelompok <em>Dead Coral Algae </em>(DCA). Kedua kelompok substrat ini memiliki persentase yang cukup mencolok dibandingkan dengan kelompok substrat dasar lainnya. Kelompok substrat <em>Soft Coral</em> (SC) tidak ditemukan pada transek di pengambilan data lokasi pengamatan ini.</p>
+<p style="text-align: justify; margin-left: 40px;">
+	Persentase <em>Hard Coral</em> yang ditemukan pada lokasi pengamatan ini didominasi oleh karang dengan bentuk pertumbuhan <em>massive</em> (CM) dengan perbedaan persentase yang sangat jauh dibandingkan <em>lifeform</em> lainnya. Kondisi ini berbeda sekali dengan komposisi <em>lifeform</em> pada lokasi pengamatan pertama dimana persentase terbesar terdapat pada <em>lifeform</em> <em>Branching</em>, sedangkan pada lokasi pengamatan ini life form <em>Branching</em> memiliki persentase paling rendah. Adanya perbedaan kedalaman pengambilan data diduga memberikan pengaruh terhadap komposisi <em>lifeform</em> <em>Hard Coral</em> pada kedua lokasi pengamatan tersebut.</p>
+<p style="text-align: justify; margin-left: 40px;">
+	Jumlah genera yang ditemukan sebanyak 21 genera dimana persentase tertinggi didominasi oleh genus Porites dengan <em>lifeform</em> <em>Massive</em> (CM). Genus lainnya yang memiliki persentase tertinggi setelah <em>Porites</em> adalah <em>Millepora</em> atau karang api, dan <em>Montipora</em>. Komposisi genus terendah terdapata pada karang genus <em>Hydnophora</em> dengan persentase kurang dari satu persen.</p>
+<ol>
+	<li style="text-align: justify;" value="3">
+		<p>
+			<strong>Utara Gili Layar</strong></p>
+	</li>
+</ol>
+<p style="text-align: justify; margin-left: 40px;">
+	Lokasi pengamatan Utara Gili Layar memiliki <em>visibilty</em> yang cukup baik yaitu sekitar 10 meter untuk <em>visibility</em> horizontal dan 12 meter untuk vertikal. Kondisi arus yang cukup kencang diduga memberikan pengaruh terhadap tingkat kecerahan perairan lokasi pengamatan ini. Pengambilan data dilakukan pada kedalaman 8 meter. Kontur dasar perairan berbentuk <em>slope</em> atau miring dengan tingkat kemiringan sampai pada kedalaman sekitar 18 meter. Kondisi perairan yang jernih dan partikel terlarut yang cukup melimpah dan arus yang cukup kuat membuat lokasi pengamatan ini dihuni banyak sekali jenis ikan.</p>
+<p style="text-align: justify; margin-left: 40px;">
+	Berbeda dengan kedua lokasi pengamatan sebelumnya yang didominasi oleh <em>Hard Coral</em>, pada lokasi pengamatan Utara Gili Layar ini didominasi oleh <em>Soft Coral</em> atau karang lunak terutama dari jenis <em>Xenia, Sinularia</em>, dan <em>Clavularia</em>. Persentase <em>Hard Coral</em> atau karang keras yang ditemukan berada pada kategori rusak karena berada pada rentang 0%-24,9%.</p>
+<p style="text-align: justify; margin-left: 40px;">
+	Apabila dilihat dari komposisi komponen biotik dan abiotik, maka lokasi pengamatan ini memiliki jumlah persentase komponen abiotik (RB, DCA, dan S) yang paling rendah dibandingkan lokasi pengamatan barat Gili Gede dan Timur Gili Gede serta memiliki persentase komponen biotik (SC, HC, OT, SP, dan ZO) yang paling tinggi.</p>
+<p style="text-align: justify; margin-left: 40px;">
+	<em>Lifeform</em> <em>Hard Coral</em> yang ditemukan pada transek pengambilan data didominasi oleh <em>lifeform</em> Coral <em>Massive</em> (CM). <em>Lifeform</em> lain yang memiliki persentase tertinggi setelah <em>Coral</em> <em>Massive</em> adalah <em>Coral Mushroom</em> (CMR), <em>Coral</em> <em>Branching</em> (CB), dan <em>Coral Foliose</em> (CF). Sedangkan persentase <em>lifeform</em> terkecil terdapat pada karang api atau <em>Coral Millepora</em> (CME).</p>
+<p style="text-align: justify; margin-left: 40px;">
+	Jumlah genus yang ditemukan pada lokasi pengamatan Utara Gili Layar ini sebanyak 24 genera. Jumlah ini merupakan yang terbanyak dibandingkan kedua lokasi pengamatan sebelumnya. Komposisi genus tertinggi didominasi oleh karang genus <em>Fungia</em> dengan <em>lifeform</em> <em>Coral mushroom</em> (CMR). Kemudian disusul oleh genera <em>Acropora</em> dan <em>Hydnophora</em>. Beberapa karang selain <em>Fungia</em> yang termasuk ke dalam <em>Coral Mushroom</em> (CMR) yang terdata pada transek pengambilan data lokasi pengamatan ini seperti <em>Cycloseris, Herpolitha</em>, dan <em>Ctenactis</em>.</p>
+<p style="text-align: justify;">
+	<strong>EKOSISTEM LAMUN </strong></p>
+<p style="text-align: justify; margin-left: 40px;">
+	Pengamatan lamun di Pulau Gili Rengit dilakukan di dua sisi pulau tersebut, yaitu di bagian barat dan barat laut pulau.&nbsp;&nbsp; Pada dua stasiun pengamatan ini hanya ditemukan dua jenis lamun, yaitu jenis <em>Cymodocea rotundata </em>dan <em>Thalassia</em> <em>hemprichii</em>. Kedua ekosistem lamun tersebut tumbuh di rataan terumbu dengan substrat dasar perairannya berupa pasir.</p>
+<p style="margin-left: 40px; text-align: justify;">
+	Stasiun pengamatan lamun yang pertama berada di sisi barat Pulau Gili Rengit. Pada sisi ini ditemukan dua jenis lamun yang tumbuh yaitu <em>Cymodocea rotundata </em>dan <em>Thalassia</em> <em>hemprichii</em>. Stasiun pengamatan lamun berikutnya berada di sisi barat laut Pulau Gili Rengit dimana pada stasiun pengamatan ini hanya ditemukan satu jenis lamun saja yaitu <em>Thalassia</em> <em>hemprichii</em>.</p>
+<p style="margin-left: 40px; text-align: justify;">
+	Berdasarkan hasil pengamatan didapatkan nilai kerapatan total lamun berkisar&nbsp; antara 220 dan 228 ind/m&sup2; dari semua stasiun pengamatan. Kerapatan total lamun tertinggi terdapat di stasiun pengamatan pada sisi barat laut Pulau Gili Rengit, sedangkan kerapatan total terendah terdapat pada sisi barat pulau. Lamun spesies <em>Cymodocea rotundata </em>memiliki kerapatan sebesar 84 ind/m&sup2;, sedangkan <em>Thalassia</em> <em>hemprichii </em>berkisar antara 136 dan 288 ind/m&sup2;.</p>
+<p style="margin-left: 40px; text-align: justify;">
+	Lamun yang memiliki kerapatan tertinggi di Pulau Gili Rengit adalah lamun jenis <em>Thalassia</em> <em>hemprichii</em> yang berada di sisi barat laut Pulau Gili Rengit sebesar 288 ind/m&sup2;, sedangkan jenis lamun yang memiliki kerapatan terendah adalah lamun jenis <em>Cymodocea rotundata </em>yang berada masih di sisi barat Pulau Gili Rengit dengan kerapatan sebesar 84 ind/m&sup2;.</p>
+<p style="margin-left: 40px; text-align: justify;">
+	Penutupan total komunitas lamun pada lokasi penelitian di Pulau Gili Rengit berkisar antara 45% dan 65%. Penutupan total tertinggi diperoleh pada stasiun pengamatan yang terletak di sisi barat laut, sedangkan penutupan total terendah diperoleh di sisi barat Pulau Gili Rengit. Lamun yang memiliki penutupan jenis tertinggi di Pulau Gili Rengit adalah lamun jenis <em>Thalassia</em> <em>hemprichii </em>dengan penutupan sebesar 65% yang berada di sisi barat laut Pulau Gili Rengit. Sedangkan, lamun yang memiliki penutupan jenis terendah adalah lamun jenis <em>Cymodocea rotundata </em>yang berada di sisi barat Pulau Gili Rengit dengan penutupan sebesar 15%.&nbsp;</p>
+<p style="margin-left: 40px; text-align: justify;">
+	Ekosistem lamun dimanfaatkan oleh beberapa biota laut sebagai tempat memijah, mencari makan, dan mencari perlindungan dari serangan predator karena sebagian besar predator memiliki ukuran tubuh yang besar sehingga sulit jika harus mengejar mangsanya ke zona perairan yang lebih dangkal. Beberapa biota asosiasi yang hidup berdampingan di ekosistem lamun di Pulau Gili Rengit diantaranya adalah bintang laut dan teripang.</p>
+<p style="margin-left: 40px; text-align: justify;">
+	Pulau Gili Rengit memiliki tingkat keanekaragaman lamun yang rendah yaitu hanya mempunyai dua jenis lamun saja, yaitu: <em>Cymodocea rotundata</em> dan <em>Thalassia</em> <em>hemprichii</em>. Tingkat keanekaragaman jenis lamun tertinggi sebesar dua jenis lamun ditemukan di sisi barat Pulau Gili Rengit. Sedangkan, daerah yang memiliki tingkat keanekaragaman jenis lamun terendah terdapat di sisi barat laut Pulau Gili Rengit yaitu hanya mempunyai satu jenis lamun saja.</p>
+<p style="margin-left: 40px; text-align: justify;">
+	Jika dilihat dari segi distibusi keberadaannya maka lamun jenis <em>Thalassia</em> <em>hemprichii </em>adalah yang paling dominan karena terdapat di semua titik pengamatan. <em>Thalassia</em> <em>hemprichii </em>juga memiliki tingkat kerapatan dan penutupan yang paling tinggi dibandingkan jenis lamun lainnya sehingga dapat dikatakan lamun jenis <em>Thalassia</em> <em>hemprichii </em>mendominasi di perairan pesisir Pulau Gili Rengit.</p>
+<p style="text-align: justify;">
+	<span style="color:#ff0000;"><strong>EKOSISTEM MANGROVE</strong></span></p>
+<p style="text-align: justify; margin-left: 40px;">
+	Beberapa sisi di daerah pesisir Pulau Gili Rengit ditumbuhi oleh tumbuhan mangrove yang tumbuh berkelompok. Pengamatan mangrove di Pulau Gili Rengit dilakukan di sisi barat dan barat laut pulau tersebut. Substrat tempat tumbuhnya tumbuhan mangrove di Pulau Gili Rengit umumnya berupa pasir berbatu. Stasiun pengamatan mangrove yang pertama berada di sisi timur Pulau Gili Rengit dimana pada stasiun&nbsp; pengamatan ini hanya ditemukan satu jenis mangrove dengan kategori pohon yaitu jenis <em>Aegiceras corniculatum</em> dengan kerapatan sebesar 9 individu per 100 m<sup>2</sup>. Oleh karena hanya ditemukan satu jenis mangrove yang tumbuh pada sisi ini maka INP (Indeks Nilai Penting)-nya bernilai 300. Artinya jenis mangrove tersebut mempunyai dominasi tunggal dan sangat berpengaruh terhadap struktur komunitas mangrove pada ekosistem tersebut.</p>
+<p style="text-align: justify; margin-left: 40px;">
+	Titik stasiun pengamatan mangrove yang kedua berada di sisi barat laut Pulau Gili Rengit dimana titik pengamatan ini juga hanya ditemukan satu jenis mangrove yaitu jenis satu jenis mangrove dengan kategori pohon yaitu jenis <em>Aegiceras corniculatum</em> dengan kerapatan sebesar 16 individu per 100 m<sup>2</sup>. Pada stasiun pengamatan ini juga INP-nya sama bernilai 300.</p>
+<p style="text-align: justify; margin-left: 40px;">
+	Oleh karena Pulau Gili Rengit hanya mempunyai satu jenis mangrove saja yang tumbuh di pesisirnya maka nilai indeks keragamannya bernilai 0 yang artinya mangrove di Pulau Gili Rengit bersifat seragam.</p>
+<p style="text-align: justify; margin-left: 40px;">
+	Ekosistem mangrove mempunyai peranan yang sangat penting khususnya bagi pulau-pulau kecil untuk tetap menjaga eksistensinya agar tidak lambat laun hilang terendam oleh abrasi air laut. Ekosistem mangrove pun&nbsp; berfungsi sebagai tempat memijah, mencari makan, dan berlindung bagi beberapa biota laut. Beberapa biota laut yang ditemukan di ekosistem mangrove di Pulau Gili Gede diantaranya adalah juvenil ikan, gastropoda, dan kepiting. Ekosistem mangrove di Pulau Gili Rengit mendapat ancaman utama terutama yang berasal dari buangan limbah antropogenik khususnya sampah plastik.</p>
+<p style="text-align: justify; margin-left: 40px;">
+	Pulau Gili Rengit hanya mempunyai satu jenis mangrove yang tumbuh di wilayah pesisirnya yaitu mangrove jenis <em>Aegiceras corniculatum</em>. Oleh karena itu, INP-nya bernilai 300 di semua stasiun pengamatan dan nilai indeks keragaman mangrove di Pulau Gili Rengit bernilai 0 alias seragam. <em>Aegiceras corniculatum</em> di Pulau Gili Rengit umumnya tumbuh berkelompok membentuk kelompok kecil dengan substrat tempat tumbuhnya berupa pasir berbatu.</p>
+<p style="text-align: justify; margin-left: 40px;">
+	Kerapatan mangrove tertinggi terdapat pada sisi barat laut Pulau Gili Rengit dibandingkan dengan sisi baratnya. Ancaman yang paling utama bagi ekosistem mangrove yang ada di Pulau Gili Rengit adalah adanya pencemaran dari limbah antropogenik terutama sampah plastik yang banyak ditemukan menempel pada batang-batang pohon mangrove karena terbawa oleh arus laut.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="snh">Sumberdaya Non Hayati</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<h2><a id="aps">Aktivitas Pengelolaan Sumberdaya</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<h2><a id="ling">Lingkungan</a></h2>
+<p><div class="readmore"><p style="text-align: justify;">
+	<span style="color:#ff0000;"><strong>KONDISI PERAIRAN</strong></span></p>
+<p style="text-align: justify; margin-left: 40px;">
+	Pulau Gili Layar memiliki jarak yang cukup dekat dengan daratan Lombok, dan berada dalam geografis teluk. Kondisi kualitas air yang baik sangat dibutuhkan untuk mendukung lestarinya sumberdaya perairan di pulau-pulau kecil. Pengukuran nilai kualitas air pada sebagian pulau-pulau tersebut akan menunjukkan kadar nutrien serta kualitas air yang berada di perairan sekitar pulau-pulau tersebut. Untuk pengambilan sampel dan pengukuran <em>in-situ </em>dilakukan pada Gili Layar.</p>
+<p style="text-align: center;">
+	Hasil analisis kualitas air di Pulau Layar</p>
+<table align="center" border="1" cellpadding="0" cellspacing="0" height="412" width="513">
+	<tbody>
+		<tr>
+			<td nowrap="nowrap" style="width:8.92%;height:20px;">
+				<p style="text-align: justify;">
+					<strong>No.</strong></p>
+			</td>
+			<td nowrap="nowrap" style="width:29.54%;height:20px;">
+				<p style="text-align: justify;">
+					<strong>Parameter</strong></p>
+			</td>
+			<td nowrap="nowrap" style="width:20.8%;height:20px;">
+				<p style="text-align: justify;">
+					<strong>Satuan</strong></p>
+			</td>
+			<td nowrap="nowrap" style="width:22.38%;height:20px;">
+				<p style="text-align: justify;">
+					<strong>Nilai </strong></p>
+			</td>
+			<td style="width:18.36%;height:20px;">
+				<p style="text-align: justify;">
+					<strong>BM*</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="width:8.92%;height:20px;">
+				<p style="text-align: justify;">
+					1</p>
+			</td>
+			<td nowrap="nowrap" style="width:29.54%;height:20px;">
+				<p style="text-align: justify;">
+					Suhu</p>
+			</td>
+			<td nowrap="nowrap" style="width:20.8%;height:20px;">
+				<p style="text-align: justify;">
+					&deg;C</p>
+			</td>
+			<td nowrap="nowrap" style="width:22.38%;height:20px;">
+				<p style="text-align: justify;">
+					30,1 &ndash; 32</p>
+			</td>
+			<td style="width:18.36%;height:20px;">
+				<p style="text-align: justify;">
+					Alami</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="width:8.92%;height:20px;">
+				<p style="text-align: justify;">
+					2</p>
+			</td>
+			<td nowrap="nowrap" style="width:29.54%;height:20px;">
+				<p style="text-align: justify;">
+					pH</p>
+			</td>
+			<td nowrap="nowrap" style="width: 20.8%; height: 20px; text-align: justify;">
+				<p>
+					&nbsp;</p>
+			</td>
+			<td nowrap="nowrap" style="width:22.38%;height:20px;">
+				<p style="text-align: justify;">
+					6,5 &ndash; 7,26</p>
+			</td>
+			<td style="width:18.36%;height:20px;">
+				<p style="text-align: justify;">
+					7-8,5</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="width:8.92%;height:20px;">
+				<p style="text-align: justify;">
+					3</p>
+			</td>
+			<td nowrap="nowrap" style="width:29.54%;height:20px;">
+				<p style="text-align: justify;">
+					DO</p>
+			</td>
+			<td nowrap="nowrap" style="width:20.8%;height:20px;">
+				<p style="text-align: justify;">
+					&nbsp;mg/L</p>
+			</td>
+			<td nowrap="nowrap" style="width:22.38%;height:20px;">
+				<p style="text-align: justify;">
+					5,2 &ndash; 6,2</p>
+			</td>
+			<td style="width:18.36%;height:20px;">
+				<p style="text-align: justify;">
+					&gt; 5</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="width:8.92%;height:20px;">
+				<p style="text-align: justify;">
+					4</p>
+			</td>
+			<td nowrap="nowrap" style="width:29.54%;height:20px;">
+				<p style="text-align: justify;">
+					Salinitas</p>
+			</td>
+			<td nowrap="nowrap" style="width:20.8%;height:20px;">
+				<p style="text-align: justify;">
+					&permil;</p>
+			</td>
+			<td nowrap="nowrap" style="width:22.38%;height:20px;">
+				<p style="text-align: justify;">
+					29 - 32</p>
+			</td>
+			<td style="width:18.36%;height:20px;">
+				<p style="text-align: justify;">
+					Alami</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="width: 8.92%; height: 20px; text-align: justify;">
+				<p>
+					&nbsp;</p>
+			</td>
+			<td nowrap="nowrap" style="width:29.54%;height:20px;">
+				<p style="text-align: justify;">
+					<strong>Nutrient</strong></p>
+			</td>
+			<td nowrap="nowrap" style="width: 20.8%; height: 20px; text-align: justify;">
+				<p>
+					&nbsp;</p>
+			</td>
+			<td nowrap="nowrap" style="width:22.38%;height:20px;">
+				<p style="text-align: justify;">
+					<strong>Gili Layar</strong></p>
+			</td>
+			<td style="width:18.36%;height:20px;">
+				<p style="text-align: justify;">
+					<strong>BM*</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="width:8.92%;height:20px;">
+				<p style="text-align: justify;">
+					5</p>
+			</td>
+			<td nowrap="nowrap" style="width:29.54%;height:20px;">
+				<p style="text-align: justify;">
+					Amonia (NH3-N)</p>
+			</td>
+			<td nowrap="nowrap" style="width:20.8%;height:20px;">
+				<p style="text-align: justify;">
+					&nbsp;mg/L</p>
+			</td>
+			<td nowrap="nowrap" style="width:22.38%;height:20px;">
+				<p style="text-align: justify;">
+					0,068</p>
+			</td>
+			<td style="width:18.36%;height:20px;">
+				<p style="text-align: justify;">
+					0,3</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="width:8.92%;height:22px;">
+				<p style="text-align: justify;">
+					6</p>
+			</td>
+			<td nowrap="nowrap" style="width:29.54%;height:22px;">
+				<p style="text-align: justify;">
+					Nitrat (NO3-N)</p>
+			</td>
+			<td nowrap="nowrap" style="width:20.8%;height:22px;">
+				<p style="text-align: justify;">
+					&nbsp;mg/L</p>
+			</td>
+			<td nowrap="nowrap" style="width:22.38%;height:22px;">
+				<p style="text-align: justify;">
+					0,034</p>
+			</td>
+			<td style="width:18.36%;height:22px;">
+				<p style="text-align: justify;">
+					0,008</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="width:8.92%;height:22px;">
+				<p style="text-align: justify;">
+					7</p>
+			</td>
+			<td nowrap="nowrap" style="width:29.54%;height:22px;">
+				<p style="text-align: justify;">
+					Fosfat (PO4-P)</p>
+			</td>
+			<td nowrap="nowrap" style="width:20.8%;height:22px;">
+				<p style="text-align: justify;">
+					&nbsp;mg/L</p>
+			</td>
+			<td nowrap="nowrap" style="width:22.38%;height:22px;">
+				<p style="text-align: justify;">
+					0,010</p>
+			</td>
+			<td style="width:18.36%;height:22px;">
+				<p style="text-align: justify;">
+					0,015</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="width:8.92%;height:20px;">
+				<p style="text-align: justify;">
+					*)</p>
+			</td>
+			<td colspan="3" nowrap="nowrap" style="width:72.72%;height:20px;">
+				<p style="text-align: justify;">
+					: Baku Mutu Berdasarkan Kepmen-LH 51 Tahun 2004 (Untuk Biota Laut )</p>
+			</td>
+			<td>
+				<p style="text-align: justify;">
+					&nbsp;</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<p style="text-align: justify;">
+	&nbsp;</p>
+<p style="text-align: justify; margin-left: 40px;">
+	Hasil analisa laboratorium yakni amonia di Gili Layar yakni 0,068 mg/L, keadaan perairan masih dalam kondisi normal. Aktivitas pesisir yang masih jarang, maka masukan muatan dari daratan dikategorikan sedikit. Tingginya konsentrasi amonia mengindikasikan besarnya beban masukan limbah domestik oleh aktivitas warga di sekitar pulau. Amonia yang terakumulasi di dasar perairan jika terangkat ke kolom air akan toksik dan berbahaya bagi ikan. Namun konsentrasi amonia masih dalam dibawah ambang batas berdasarkan Kepmen-LH 51 Tahun 2004.</p>
+<p style="text-align: justify; margin-left: 40px;">
+	Aktifitas masyarakat terbesar yakni dari pulau utama (Lombok) memiliki potensi meningkatkan nilai hasil analisis parameter ammonia dan nitrat. Hasil analisa laboratorium kandungan nutrient di Gili Layar yakni 0,034 mg/L dan di Gili Layar sebesar 0,045 mg/L, berdasarkan kep men LH 51 tahun 2004 keadaan nitrat terjadi peningkatan. Nitrat merupakan nutrien yang dibutuhkan organisme autotrof dalam proses fotosintesis. Namun, kadar nitrat yang lebih dari 0,2 mg/L dapat mengakibatkan terjadinya eutrofikasi perairan dan dapat menstimulasi pertumbuhan alga dan tumbuhan air secara pesat. Kehadiran alga dan tumbuhan air dalam jumlah berlebihan dapat menghambat pertumbuhan karang (Haris 2001).</p>
+<p style="text-align: justify; margin-left: 40px;">
+	Pengelolaan wilayah terintegrasi juga harus dilakukan, mengingat wilayah pulau-pulau tersebut tidak jauh dengan daratan pulau besar sehingga kearifan lokal yang menjadi kunci utama dalam pelestarian ekosistem dan kualitas perairan. Oleh sebab itu, pemahaman mengenai pentingnya menjaga kebersihan dan kelestarian sumberdaya pesisir pulau-pulau kecil perlu dikenalkan kepada masyarakat sejak dini. Degradasi lingkungan dan habitat di pulau - pulau lainnya sedikit banyak akan berpengaruh, oleh karena itu kegiatan yang merusak lingkungan perlu diperhatikan dan diberikan arahan yang baik sehingga ancaman terhadap ekosistem akan diminimalisirkan.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="sp">Sarana dan Prasarana</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<h2><a id="pi">Peluang Investasi</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<h2><a id="pap">Potensi dan Arahan Pengembangan</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<h2><a id="kp">Kendala Pengembangan</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<h2><a id="rf">Referensi</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<br />
+	<i> 
+		<p style="font-size:12px;">
+			Karena keterbatasan SDM dalam penginputan dan pengolahan data, kami mohon maaf atas ketidak lengkapan beberapa data pulau yang kami tampilkan, harap dimaklumi.
+			Berikan keritik dan saran pada kolom komentar agar kita dapat bersama menyajikan sebuah data yang cukup sempurna untuk halayak ramai yang berguna
+			demi kesejahterahan, kelestarian dan keindahan pulau-pulau kecil yang dimiliki Indonesia.<br />
+			*Jika sekiranya anda memiliki data yang cukup banyak, silakan mengirimkan file melalui email kami di <b><a>identifikasippk@gmail.com</a></b>
+			
+		</p>
+	</i>
+<br />
+
+<div id="fb_comn" class="fb-comments" data-href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_info/4915" data-width="800" data-numposts="5" data-colorscheme="light"></div>
+
+
+</div>
+</div>
+</div>
+<div id="wrapper">
+
+<div class="footer"><p>
+<!--<marquee onmouseover="this.stop()" onmouseout="this.start()" scrollamount="5" direction="right" width="798" height="14"  behavior="scroll">-->
+<a href="http://www.ppk-kp3k.kkp.go.id/" target="_blank">Direktorat Pendayagunaan Pulau-Pulau Kecil &nbsp; | &nbsp;</a>
+<a href="http://www.kp3k.kkp.go.id/" target="_blank">Ditjen Kelautan, Pesisir dan Pulau-Pulau Kecil &nbsp; | &nbsp;</a>
+<a href="http://www.kkp.go.id/" target="_blank">Kementerian Kelautan dan Perikanan</a>
+<!--</marquee>--> <br />
+Jl. Medan Merdeka Timur No. 16 Gedung Mina Bahari 3 Lantai 10, Jakarta, Indonesia <br />
+Email : identifikasippk@gmail.com <br />
+Telp &amp; Fax: (021) 3522058 <br />
+&copy; Copyright Direktorat Pendayagunaan Pulau-Pulau Kecil 2012&nbsp; <br /></p>
+</div>
+</div>
+</body>
+</html>

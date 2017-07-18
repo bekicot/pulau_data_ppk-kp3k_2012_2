@@ -1,0 +1,803 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Pulau Laut Nusa</title>
+
+<meta charset="utf-8"/>
+
+<meta property="fb:app_id" content="559408774147878" />
+
+
+<meta property="og:title" content="Pulau Laut Nusa" />
+<meta property="og:url" content="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_info/8950" />
+
+
+    <script type="text/javascript" src="http://ajax.microsoft.com/ajax/jquery/jquery-1.4.4.min.js">
+    </script>
+    
+    <script type="text/javascript" src="http://plugins.learningjquery.com/expander/jquery.expander.js">
+    </script>
+    
+    <script type="text/javascript">
+        $(function () {
+            $('div.readmore').expander({
+                slicePoint:200,
+                expandText: '(Baca selengkapnya)',
+                userCollapseText: '(Sembunyikan selengkapnya)'
+            });
+        });
+    </script>
+        
+	<script src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/galleria/galleria-1.2.8.min.js"></script>
+
+        <SCRIPT TYPE="text/javascript">
+            <!--
+            //Disable right click script
+            //visit http://www.rainbow.arch.scriptmania.com/scripts/
+            var message="Sorry, right-click has been disabled";
+            ///////////////////////////////////
+            function clickIE() {if (document.all) {(message);return false;}}
+            function clickNS(e) {if
+            (document.layers||(document.getElementById&&!document.all)) {
+            if (e.which==2||e.which==3) {(message);return false;}}}
+            if (document.layers)
+            {document.captureEvents(Event.MOUSEDOWN);document.onmousedown=clickNS;}
+            else{document.onmouseup=clickNS;document.oncontextmenu=clickIE;}
+            document.oncontextmenu=new Function("return false")
+            // -->
+            </SCRIPT>
+            
+            <SCRIPT TYPE="text/javascript">
+            <!--
+            //Disable select-text script (IE4+, NS6+)
+            //visit http://www.rainbow.arch.scriptmania.com/scripts/
+            ///////////////////////////////////
+            function disableselect(e){
+            return false
+            }
+            function reEnable(){
+            return true
+            }
+            //if IE4+
+            document.onselectstart=new Function ("return false")
+            //if NS6
+            if (window.sidebar){
+            document.onmousedown=disableselect
+            document.onclick=reEnable
+            }
+            // -->
+            </SCRIPT>  
+              
+<link rel="stylesheet" type="text/css" href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/css/main.css" media="screen"/>
+<style type='text/css'>
+#info_wrap{
+	width:820px;
+	margin:0 auto;
+	text-shadow:0px 1px 1px #09F;
+}
+table{
+	color:#000000;
+}
+h1{
+	color:#000000;
+}
+.tengahin{
+	width: 105px;
+	height: 30px;
+	margin: 0 auto auto auto;
+}
+#box_view{
+	background-image:-webkit-gradient(linear, 0 0%, 0 100%, from(#FFFFFF), to(#E0F0F5));
+	background:#FFF;
+	color:#F60;
+	border: 1px solid #fff;
+	border-radius: 4px 4px 4px 4px;
+	box-shadow: 0 8px 6px -6px black;
+	position:fixed;
+	right:0;
+	top:150px;;
+	width:80px;
+	z-index:10;
+	padding-left:12px;
+	font-size:10px;
+	}
+#box_view li{
+	color:#F60;
+	margin-left:-30px;
+	}
+	#wrapper a b {
+	color: #FFF;
+	font-size:14px;
+}
+.batas{
+	float:left;
+	border-right-style:inset;
+	border-right-width:thin;
+	}
+.text_h_wrap{
+	
+	padding-left:450px;
+	padding-top:39px;
+	text-shadow:0px 1px 1px #09F;
+	}
+#wrapper .footer p{
+	font-size:12px;
+	color: #FFF;
+	text-align:center;
+	text-shadow:0px 1px 1px #09F;
+}
+td,th {
+	font-size: 12px;
+}
+
+marquee a{
+	color:#FFF
+	}
+#wrapper .footer a{
+	color: #FFFFFF;
+}
+</style>
+            
+<script>
+function goBack()
+  {
+  window.history.back()
+  }
+</script>
+<script type="text/javascript">
+function Popup( url, height, width )
+{
+    var windowProperties = "toolbar = 0, scrollbars = 1, location = 0, statusbar = 0, menubar = 0, resizable = 1, width = " + width + ", height = " + height + ", left = 50, top = 50";
+ 
+    return window.open( url, "", windowProperties );
+}
+</script>
+
+
+
+</head>
+<body oncontextmenu='return false;' onkeydown='return false;' onmousedown='return false;'>
+
+<a id="top_view"></a>
+<div id="wrapper">
+<div class="header_wrap">
+<div class="text_h_wrap">
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/home_page'><b>&nbsp;Home&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/menu_info/1'><b>&nbsp;About Us&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_data'><b>&nbsp;Direktori Pulau&nbsp;&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/program_ip'><b>&nbsp;IKU&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/data_ppkt'><b>&nbsp;PPKT&nbsp;</b></a>
+</div>
+<!--<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/maintenance'><b>&nbsp;Login&nbsp;</b></a>-->
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/dir_log_cont'><b>&nbsp;Login&nbsp;</b></a>
+
+</div>
+</div>
+</div>
+
+<div id="fb-root"></div>
+<script>
+  window.fbAsyncInit = function() {
+    // init the FB JS SDK
+    FB.init({
+      appId      : '559408774147878',                        // App ID from the app dashboard
+      status     : true,                                 // Check Facebook Login status
+      xfbml      : true                                  // Look for social plugins on the page
+    });
+
+    // Additional initialization code such as adding Event Listeners goes here
+  };
+
+  // Load the SDK asynchronously
+  (function(){
+     // If we've already installed the SDK, we're done
+     if (document.getElementById('facebook-jssdk')) {return;}
+
+     // Get the first script element, which we'll use to find the parent node
+     var firstScriptElement = document.getElementsByTagName('script')[0];
+
+     // Create a new script element and set its id
+     var facebookJS = document.createElement('script'); 
+     facebookJS.id = 'facebook-jssdk';
+
+     // Set the new script's source to the source of the Facebook JS SDK
+     facebookJS.src = '//connect.facebook.net/en_US/all.js';
+
+     // Insert the Facebook JS SDK into the DOM
+     firstScriptElement.parentNode.insertBefore(facebookJS, firstScriptElement);
+   }());
+</script>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=559408774147878";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="box_view">
+    <a href="#top_view">MENU</a>
+    <h3><p>Lihat Informasi:</p></h3>
+    <ul>
+	<a href="#sf"><li>Slide Foto</li></a>
+    <a href="#gu"><li>Gambaran Umum</li></a>
+    <a href="#ksbk"><li>Kependudukan, Sosial Budaya dan Kelembagaan</li></a>
+    <a href="#eshp"><li>Ekosistem dan Sumberdaya Hayati</li></a>
+    <a href="#snh"><li>Sumberdaya Non Hayati</li></a>
+    <a href="#aps"><li>Aktivitas Pengelolaan Sumberdaya</li></a>
+    <a href="#ling"><li>Lingkungan</li></a>
+    <a href="#sp"><li>Sarana dan Prasarana</li></a>
+    <a href="#pi"><li>Peluang Investasi</li></a>
+    <a href="#pap"><li>Potensi Arahan Pengembangan</li></a>
+    <a href="#kp"><li>Kendala Pengembangan</li></a>
+	<a href="#rf"><li>Referensi</li></a>
+    </ul>
+    <a href="#fb_comn">KOMENTAR</a>
+</div>
+
+<br>
+			<a id="sf"></a></h2>
+			<div id="galleria">
+            <!--<div class='tengahin'><input type="button" value="Kembali Ke List" onclick="goBack()"></div>-->
+                            </div>
+            
+            <script>
+            Galleria.loadTheme('http://www.ppk-kp3k.kkp.go.id/direktori-pulau/galleria/themes/classic/galleria.classic.min.js');
+            Galleria.run('#galleria');
+            </script>
+</div>
+
+<div id="text_warp">
+
+
+<p><h1>Laut Nusa</h1></p>
+<table>
+<tr>
+	<td>Nama Lain</td> <td>:</td> <td></td>
+</tr>
+<tr>
+	<td>Propinsi</td> <td>:</td> <td>MALUKU</td>
+</tr>
+<tr>
+	<td>Kabupaten</td> <td>:</td> <td>KABUPATEN MALUKU TENGAH</td>
+</tr>
+<tr>
+	<td>Kecamatan</td> <td>:</td> <td></td>
+</tr>
+<tr>
+	<td>Koordinat</td> <td>:</td> <td><a href="http://www.ppk-kp3k.kkp.go.id/giskkp/index.html?extent="target="_blank">3° 40' 24.000</a></td>
+</tr>
+</table>
+<hr>
+
+<h2><a id="gu">Gambaran Umum</a></h2>
+<p><div class="readmore"><p style="text-align: justify;">
+	<strong>Kondisi Umum Pulau</strong></p>
+<p style="margin-left: 13.5pt; text-align: justify;">
+	Pulau Nusalaut adalah sebuah pulau kecil di antara 6 gugusan pulau-pulau wilayah Maluku. Pulau Nusalaut termasuk dalam bagian dari Kepulauan Lease merupakan pulau berpenduduk sekaligus sebuah kecamatan yang secara administratif berada di Kecamatan Nusalaut, Kabupaten Maluku Tengah, Provinsi Malukuyang terdiri dari 7 (Tujuh) desa/negeri, memiliki jumlah penduduk 5469 <strong>jiwa</strong><strong> dengan rincian</strong> Laki-laki 2.790 jiwa dan Perempuan 2.679 jiwa. Secara geografis Pulau Nusalaut memiliki batas-batas wilayah sebagai berikut :</p>
+<p style="margin-left: 13.5pt; text-align: justify;">
+	Sebelah Utara&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : berbatasan dengan Pulau Saparua</p>
+<p style="margin-left: 13.5pt; text-align: justify;">
+	Sebelah Selatan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : berbatasan dengan Laut Banda</p>
+<p style="margin-left: 13.5pt; text-align: justify;">
+	Sebelah Timur&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : berbatasan dengan Laut Seram dan Pulau Serua</p>
+<p style="margin-left: 13.5pt; text-align: justify;">
+	Sebelah Barat&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : berbatasan dengan Pulau Molana</p>
+<p style="margin-left: 13.5pt; text-align: justify;">
+	Pulau Nusalaut terletak pada koordinat antara 03&deg; 34&rsquo; 30&rsquo;&rsquo;&ndash;3&deg; 45&rsquo; 40&rsquo;&rsquo; LS dan 128&deg; 42&rsquo; 15&rsquo;&rsquo;&ndash;128&deg; 52&rsquo; 45&rsquo;&rsquo; BT menurut &nbsp;topografi Pulau Nusalaut merupakan pulau berbukit dengan tingkat kemiringan 15-40 % dan dengan ketinggian maksimal 300 meter diatas permukaan laut.</p>
+<p style="margin-left: 13.5pt; text-align: justify;">
+	Kecamatan Nusalaut merupakan salah satu dari 17 Kecamatan yang ada di Kabupaten Maluku Tengah. Kecamatan Nusalaut merupakan kecamatan pemekaran dari Kecamatan Saparua pada Tahun 2001, terdapat 7 Desa/Negeri yaitu Titawaai, Abubu, Akoon, Amet, Nalahia, Sila, dan Leinitu dengan ibukota kecamatan terletak di Desa/Negeri Ameth. Luas keseluruhan Pulau Nusalaut, Kecamatan Nusalaut adalah 32,50 Km&sup2; dengan Desa/Negeri terluas adalah Desa/Negeri Titawaai sedangkan Desa/Negeri terkecil adalah Desa/Negeri Sila.</p>
+<p style="margin-left: 14.2pt; text-align: justify;">
+	Luas Negeri Titawaai adalah 6 Km&sup2; atau sebesar 19% dari luas keseluruhan Kecamatan Nusalaut, kemudian Desa/Negeri Ameth dengan luas 5,7 Km&sup2; atau sebesar 18%. Sedangkan Desa/Negeri dengan presentase luas terkecil adalah Desa/Negeri Sila yakni sebesar 10% dari luas kecamatan seluruhnya.</p>
+<p style="margin-left: 14.2pt; text-align: justify;">
+	Menurut penuturan masyarakat sejarah penamaan Pulau Nusalaut berawal dari kisah tetua bahwa Pulau Nusalaut dahulu merupakan pulau yang besar, di pulau tersebut&nbsp; hidup 2 orang bersaudara tapi beda kepercayaan/agama.&nbsp; Awal mulanya mereka hidup rukun dengan penuh kasih dan saling tolong menolong satu dengan yang lain tanpa melihat dan mempermasalahkan kepercayaan diantara mereka karena mereka adalah saudara kandung yangg satu bapak tapi lain mama. Namun karena keserakahan akan harta benda akhirnya mereka berdua ribut/bakalai hanya karena satu tanaman yang tumbuh di tengah batas mereka, namanya pohon &lsquo;Sukun/Sukung&rsquo;.</p>
+<p style="margin-left: 14.2pt; text-align: justify;">
+	Akibat dari perkelahian itu, pada malam hari disaat mereka tertidur, terjadi suatu peristiwa ajaib dan nyata. Pulau itu terbelah menjadi 2 bagian pulau, demikian pula dengan pohon Sukun yang menjadi awal sengketa itu, juga ikut terbelah menjadi 2 bagian dari ujung sampai ke akarnya, yang&nbsp;sebelah pohon ikut dengan 1 pulau yang kita kenal sampai hari ini dengan nama Pulau Ambalau sedangkan sebelah pohon lagi tinggal bersama Pulau Nusalaut. Seperti yang kita ketahui bahwa Pulau Ambalau (saudara kita) dengan penduduk yang mayoritas kepercayaannya Islam, sedangkan Nusalaut dengan penduduk yang mayoritas kepercayaanya Kristen.</p>
+<p style="margin-left: 14.2pt; text-align: justify;">
+	Pulau Nusalaut sering dikunjungi turis domestik maupun turis asing, paling tidak lebih dari 50 turis domestik maupun asing perbulan dan sebenarnya cukup dikenal oleh turis mancanegara. Desa/Negeri Ameth sering dikunjungi wisatawan yang ingin melihat taman laut pada bulan antara September sampai April.&nbsp; Di Pulau Nusalaut terdapat benda cagar budaya berupa gereja tua, patung pahlawan Christina Martha Tijahahu, dan benteng tua, selain itu Pulau Nusalaut disebut juga Pulau Anyo-anyo karena dilihat dari letak geografis Pulau Nusalaut dikelilingi oleh lautan, diterpa oleh hempasan ombak-ombak besar membuatnya kelihatan seperti pulau terapung yang sering juga disebut banyak orang sebagai Pulau Anyo-anyo. Dilihat dari letak strategis Pulau Nusalaut, maka untuk sampai ke sana harus ditempuh dengan menggunakan transportasi laut seperti kapal feri yang berdermaga di pelabuhan singgah Nalahia dengan jarak tempuh empat sampai lima jam. Jika menggunakan kapal spead boad langsung ke Abubu jarak tempuhnya adalah dua sampai empat jam.Keadaan alam negeri ini terdiri dari dataran tinggi dan rendah.Desa/negeri ini dekat dengan garis pantai, kira-kira 15 meter dari batas laut, 70 meter dari batas pegunungan, dan letaknya pada dataran rendah.Keseluruhan warga setempat berdomisili di pesisir pantai.</p>
+<p style="text-align: justify;">
+	<strong>. Klimatologi</strong></p>
+<p style="margin-left: 13.7pt; text-align: justify;">
+	Kondisi iklim di Pulau Nusalaut didominasi oleh curah hujan yang relatif tinggi, yang ditunjukkan dengan kondisi vegetasi hutan yang rapat dan tumbuh subur.Tipe iklim hutan hujan tropis dan iklim musim dengan curah hujan rata-rata tahunan yang tinggi. Seperti wilayah Indonesia lainnya, di Pulau Nusalaut hanya terdapat 2 musim dalam setahun, yaitu musim penghujan yang dimulai pada bulan Oktober dan musim kemarau yang dimulai pada bulan April, dengan bulan basah lebih lama dibanding dengan bulan kering. Pulau Nusalaut terletak antara Laut Pasifik dengan Laut Banda, sehingga sering terjadi pusaran angin dan arus laut, maka pada saat musim penghujan sering tejadi badai hujan (<em>storm</em>) yang sangat memungkinkan terjadinya banjir besar.</p>
+<p style="margin-left: 13.7pt; text-align: justify;">
+	Berdasarkan Peta Isohyet (Direktoral Jenderal Cipta Karya, 1996), curah hujan rata-rata tahunan di Pulau Nusalaut berkisar antara 2000&shy;-4000 mm. Curah hujan tertinggi (&gt;4000 mm/tahun). Berdasarkan klasifikasi Oldeman, zona agroklimat di Pulau Nusalaut dapat dikelompokkan berdasarkan kondisi fisiografinya, yaitu: (a) pada satuan dataran rendah dengan ketinggian &lt;500 meter dpal, temperatur udara berkisar antara 25.8&deg;-27.2&deg;C, curah hujan antara 1.000-4.500 mm/tahun, hujan tersebar merata, jumlah bulan basah antara 3-9 bulan basah per tahun; (b) pada satuan dataran tinggi dengan ketinggian &gt;500 meter dpal, temperatur udara rata-rata 26,2&deg;C, curah hujan antara 3.000-4.000 mm/tahun, dan &gt;9 bulan basah.</p>
+<p style="text-align: justify;">
+	<strong>Oseanografi</strong></p>
+<p style="margin-left: 13.7pt; text-align: justify;">
+	Keadaan oceanografi (kelautan) di sekitar perairan sekitar Pulau Nusalaut mempunyai arti penting dalam menunjang pekembangan wilayah tersebut, karena selain dapat dipergunakan sebagai salah satu prasarana transportasi antar wilayah yang cukup penting bagi aktifitas dan pergerakan orang dan barang (kegiatan ekonomi), juga menyimpan berbagai potensi sumber daya kelautan yang belum tergarap secara utuh. Wilayah perairan Pulau Nusalaut memiliki karakteristik kedalaman laut yang sangat beragam mulai dari perairan yang landai, terjal dan sangat terjal.</p>
+<p style="margin-left: 13.7pt; text-align: justify;">
+	Terdapat beberapa kawasan pesisir pantai yang landai terdiri dari selain hamparan pasir juga terdapat paparan batuan, ceruk dan muara sungai serta daerah esturia yang kaya akan berbagai jenis <em>plankton</em>. Kedaan ini merupakan potensi alami yang mendukung untuk kegiatan perikanan, perhubungan laut maupun kegiatan pariwisata</p>
+<p style="text-align: justify;">
+	<strong>Hidrologi</strong></p>
+<p style="margin-left: 14.2pt; text-align: justify;">
+	Kondisi hidrologi Pulau Nusalaut dicirikan oleh cukupnya sungai yang mengalir dari perbukitan dan bermuara di Teluk Nalahia.Sumber mata air yang ada di Pulau Nusalaut cukup banyak.Hampir setiap rumah telah memiliki sumur sebagai sumber mata air yang digunakan oleh warga untuk kebutuhan sehari-hari seperti air minum, mandi dan cuci.</p>
+<p style="margin-left: 14.2pt; text-align: justify;">
+	Di Pulau Nusalaut terdapat sumber mata air panas yang ada pada beberapa titik. Sumber mata air panas yang pertama terdapat di tepi pantai Desa/Negeri Nalahia dengan beberapa titik sumber air panas, sedangkan titik sumber mata air yang kedua terdapat pada sungai yang berada pada kedalaman negeri ini terdapat empat pancuran air yang biasa digunakan warga negeri untuk mandi. Sumber mata air panas di sungai juga terdapat tempat seperti bak yang dapat digunakan orang untuk berendam saat pulang dari berkebun.&nbsp;</p>
+<p style="text-align: justify;">
+	<strong>Keadaan Fisik Pulau</strong></p>
+<p style="margin-left: 13.5pt; text-align: justify;">
+	Pulau Nusalaut memiliki ciri yang dapat diklasifikasikan sebagai pulau vulkanis dan karang.Topografi wilayahnya umumnya bergunung dan berbukit yang menjulang langsung dari permukaan laut.Jenis-jenis tanah yang dominan antara lain adalah tanah kompleks, latosol, renzina, dan mediteran.</p>
+<p style="margin-left: 14.2pt; text-align: justify;">
+	Pulau Nusalaut memiliki tipe pantai berpasir dan pantai berbatu.Pantai berbatu dapat ditemui di sisi bagian Barat Pulau Nusalaut. Sedangkan Pantai berpasir dapat ditemui di sisi bagian Timur dan Selatan Pulau Nusalaut yang digunakan para penduduk sebagai pusat aktivitas nelayan, antara lain tempat berlabuhnya kapal atau tempat untuk memperbaiki kapal. Pulau Nusalaut merupakan pulau genesis campuran, dimana Pulau Nusalaut terbentuk dari gabungan dua atau lebih genesis pulau. Potensi air di pulau genesis campuran tergantung pada genesis pulau yang bergabung, dan dapat berupa sumber air yang mengalir sepanjang tahun maupun aliran air permukaan dengan jumlah yang biasanya terbatas.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="ksbk">Kependudukan, Sosial Budaya dan Kelembagaan</a></h2>
+<p><div class="readmore"><p style="text-align: justify;">
+	<strong>Kependudukan</strong></p>
+<p style="margin-left: 0.25in; text-align: justify;">
+	<strong>Kondisi Kependudukan</strong></p>
+<p style="margin-left: 0.25in; text-align: justify;">
+	Kondisi kependudukan pada tahun 2012 di Pulau Nusalaut seluruhnya berjumlah 5.513 jiwa, dengan perincian jumlah laki-laki sebanyak 2.754 jiwa ditambah dengan 2.740 jiwa perempuan. Jumlah Kepala Keluarga di Pulau Nusalaut pada tahun yang sama sebanyak 1.876 KK. Dalam tahun 2012 jumlah penduduk terbanyak mendiami Desa/Negeri Titawaai dengan jumlah penduduk 1.930 orang atau sebesar 35,01% dari jumlah penduduk seluruhnya. Desa/Negeri Ameth merupakan negeri yang penduduknya terbanyak berikutnya setelah Desa/Negeri Titawaai dengan jumlah penduduk 1.484 orang atau sebsar 26,92%. Jumlah penduduk paling sedikit berada di Desa/Negeri Sila dengan jumlah penduduk 272 orang atau sebesar 4,93%.Rata-rata jumlah penduduk diiseluruh desa/negeri mengalami penurunan kecuali Desa/Negeri Leinitu yang bertambah pada tahun 2012, dari 268 orang naik menjadi 283 orang. Desa/Negeri Ameth misalnya turun dari 1.514 orang di tahun 2012 menjadi 1.484 orang di tahun 2012.</p>
+<p style="margin-left: 0.25in; text-align: justify;">
+	Sajian data diatas menunjukkan adanya penurunan jumlah Kepala Keluarga. Jumlah Kepala Keluarga dari 1.886 KK pada tahun 2011 turun pada tahun 2012 menjadi 1.876 KK atau penurunan sebesar 1,01% atau 10 KK. Sedangkan untuk jumlah penduduk penurunannya mencapai 5,80% atau penurunan sebanyak 345 jiwa dari 5.858 menjadi 5.513. &nbsp;Penurunan jumlah Kepala Keluarga disebabkan karena kepala keluarga mencari pekerjaan diluar Pulau Nusalaut, sedangkan untuk penurunan jumlah jiwa disebabkan karena 2 (dua) faktor yakni penduduk yang melanjutkan pendidikan pada jenjang yang lebih tinggi baik ke SMA maupun Perguruan Tinggi.Khusus untuk Desa/Negeri Titawaai, sebagian besar lulusan SMP melanjutkan pendidikan SMAnya diluar Pulau Nusalaut baik ke Pulau Saparua Pulau Seram bahkan ada yang melanjutkan pendidikannya ke Kota Ambon.</p>
+<p style="margin-left: 0.25in; text-align: justify;">
+	<strong>Mata Pencaharian</strong></p>
+<p style="margin-left: 0.25in; text-align: justify;">
+	Mata pencaharian penduduk Pulau Nusalaut terutama laki-laki usia kerja sebagian besar memiliki mata pencaharian ganda, yakni nelayan sekaligus petani. Hal ini disebabkan karena kondisi alam yang berlaku. Jika pada musim penghujan dengan kondisi laut yang tidak bersahabat maka hamper sebagian besar melakukan kegiatan pertanian, hal inilah yang menyebabkan hasil pertanian di Pulau Nusalaut rendah. Sebab kegiatannya hanya pada waktu tertentu dan juga pada musim penghujan yang secara langsung berdampak buruk terhadap tanaman pertanian yang digarap. Sedangkan pada musim kemarau dengan kondisi laut yang cenderung bersahabat maka seluruhnya akan kembali melaut untuk mencari ikan. Oleh karenanya mereka yang melakukan pekerjaan ganda disebut sebagai nelayan.</p>
+<p style="margin-left: 0.25in; text-align: justify;">
+	Penduduk yang bukan usia kerja memiliki jumlah yang paling besar yakni 1.618 orang dari 5.513 orang jumlah penduduk. Besarnya jumlah penduduk yang bukan usia kerja ini disebabkan karena usia kerja hanya berada pada usia 16 tahun sampai dengan 65 Tahun sedangkan lainnya merupakan usia yang belum produktif dan tidak produktif. Usia belum produktif adalah usia dibawah 5 tahun dan usia sekolah, sedangkan usia tidak produktif adalah mereka yang berusia diatas 65 tahun. Jumlah nelayan sebanyak 1.605 orang dari jumlah penduduk seluruhnya sedangkan ibu rumah tangga menempati urutan kedua dengan jumlah 1.293 orang kemudian petani yang berjumlah 597 orang.Sisanya terdiri dari PNS, tukang, pedagang dan pensiunan serta TNI/POLRI. Pekerjaan lainnya adalah montir dan penyuling enau</p>
+<p style="margin-left: 0.25in; text-align: justify;">
+	<strong>Tingkat Pendidikan</strong></p>
+<p style="margin-left: 0.25in; text-align: justify;">
+	Di Pulau Nusalaut tidak ditemukan lagi penduduk yang buta huruf.Seluruh penduduk Pulau Nusalaut minimal mengenyam pendidikan tingkat dasar.Sebagian&nbsp; besar peduduk menamatkan pendidikan tingkat SMA. Dari jumlah penduduk seluruhnya sebanyak 2.186 orang menamatkan pendidikan SMA di tahun 2011 dan meningkat menjadi 2.450 pada tahun 2012 dari jumlah penduduk sebanyak 5.524 orang. Penduduk menamatkan pendidikan SMA mengalami peningkatan dari tahun sebelumnya. Kondisi yang sama berlaku juga untuk penduduk dengan tingkat pendidikan SMP dari 1.580 pada tahun 2011 meningkat menjadi 1.592 pada tahun 2012. Sedangkan penduduk yang menamatkan pendidikan SD mengalami penurunan yang cukup besar.Pada tahun 2011 jumlah penduduk yang menamatkan pendidikan SD sebanyak 1.483 orang turun menjadi 1.123 orang pada tahun 2012.Penduduk lainnya merupakan penduduk yang bukan merupakan usia sekolah dan penduduk yang menamatkan pendidikan diatas SMA yaitu D3, S1 dan S2 yang seluruhnya merupakan PNS.</p>
+<p style="text-align: justify;">
+	<strong>Sosial-Budaya, Ekonomi dan Kelembagaan</strong></p>
+<p style="margin-left: 0.25in; text-align: justify;">
+	Prasarana perekonomian di Pulau Nusalaut hanya berupa kios/toko sedangkan untuk kebutuhan sehari-hari penduduk Pulau Nusalaut biasanya membelinya di pasar yang berada di Pulau Saparua, Kota Masohi Pulau Seram bahkan sampai Kota Ambon. Sebenarnya pemerintah Kabupaten Maluku tengah telah membangun sebuah pasar di Negeri Desa/Ameth namun belum dimanfaatkan oleh penduduk untuk kegiatan jual beli.</p>
+<p style="margin-left: 0.25in; text-align: justify;">
+	Fasilitas perekonomian bank belum ada sehingga penduduk Pulau Nusalaut lebih banyak mengadakan transaksi jual beli bahan pangan pada toko-toko atau kios-kios milik masyarakat dengan persediaan bahan pangan yang sangat terbatas jenis dan jumlahnya.</p>
+<p style="margin-left: 0.25in; text-align: justify;">
+	Agama yang dianut penduduk pulau ini 100 % Kristen baik Protestan maupun Katholik dimana nilai-nilai yang terkandung dalam ajaran Kristiani mewarnai orientasi budaya dan kelembagaan masyarakat setempat, sedangkan suku yang mendiami pulau ini mayoritas suku Bati.</p>
+<p style="margin-left: 0.25in; text-align: justify;">
+	Kecamatan Nusalaut yang berada di Pulau Nusalaut merupakan salah satu kecamatan dari 17 (tujuh belas) kecamatan yang ada di Kabupaten Maluku Tengah dan membawahi 7 Desa/Negeri. Satuan Kerja Parangkat Daerah (SKPD) &nbsp;Kecamatan Saparua&nbsp; &nbsp;&nbsp;dipimpin oleh seorang camat membawahi perangkat kecamatan yang terdiri dari sekretariat kecamatan, kepala-kelapa seksi, kelompok jabatan fungsional dan melaksanakan fungsi koordinasi terhadap Unit Pelaksana Teknis Dinas/Badan di Kecamatan.&nbsp; Keadaan pemerintahan Desa/Negeri di Kecamatan Nusalaut terdiri atas 7 Pemerintah Negeri, 7 &nbsp;Lembaga Pemberdayaan masyarakat Negeri.</p>
+<p style="margin-left: 0.25in; text-align: justify;">
+	Pada sistem kemasyarakatan dan latar belakang sosial budaya masyarakat Pulau Nusalaut, sebenarnya mempunyai sejarah yang panjang dan cukup berpengaruh terhadap latar belakang sosial kemasyarakatnya.Terdapat sistem kemasyarakatan berupa <em>klen/ family</em>/ marga-marga.Fam/ marga-marga tersebut biasaya mengatur perkawinan marganya dan penggunaan tanah. Desa dinamakan <em>negeri</em> dan dikepalai oleh seorang <em>raja</em> (secara administratif sebagai kepala desa) suatu jabatan yang turun temurun, tetapi sekarang secara resmi harus dipilih dari rakyatnya. Organisasi desa juga terdiri atas:</p>
+<ul>
+	<li style="text-align: justify;">
+		Kepala adat (seorang ahli adat yang menguasai hukum adat tanah desa/negeri)</li>
+	<li style="text-align: justify;">
+		Kapitan( pejabat adat yang dulu merupakan panglima perang.)</li>
+	<li style="text-align: justify;">
+		Kewang (polisi Kehutanan)</li>
+	<li style="text-align: justify;">
+		Marinyo (penyiar berita di desa)</li>
+</ul>
+<p style="margin-left: 0.25in; text-align: justify;">
+	Semua pejabat-pejabat desa tersebut tergabung dalam satu dewan desa, bernama badan Saniri Negeri atau saniri saja.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="eshp">Ekosistem dan Sumberdaya Hayati</a></h2>
+<p><div class="readmore"><p style="text-align: justify;">
+	<strong>Ekosistem dan Sumberdaya Hayati Pesisir</strong></p>
+<ol style="list-style-type:lower-alpha;">
+	<li style="text-align: justify;">
+		<strong>Terumbu Karang</strong></li>
+</ol>
+<h1 style="text-align: justify;">
+	Keanekaragaman Hayati Terumbu Karang</h1>
+<p style="margin-left: 0.25in; text-align: justify;">
+	Pulau Nusalaut merupakan salah satu pulau di Maluku. Maluku merupakan propinsi dengan banyak pulau dengan jarak yang cukup jauh sehingga kecerahan perairan sangat bagus terkecuali apabila pulau tersebut bersubstrat lumpur. Pulau Nusalaut berdekatan dengan jalur vulkanik bawah laut sehingga dapat ditemukan <em>hydrothermal vein</em> di dalam perairan. Pertumbuhan Terumbu di Pulau Nusalaut pada umumnya termasuk karang Tepi atau <em>fringing reef</em>. Substrat sedimen di perairan pulau Nusalaut didominasi oleh pasir dan karang. Kondisi arus di Pulau Nusalaut bagian Utara cukup tenang karena terlindung dan banyak teluk, Selain Utara bagian Tanjung menuju barat, timur, dan selatan kondisi arusnya besar. Di bagian Selatan Pulau Nusalaut merupakan laut lepas sehingga gelombang perairannya besar, Terumbu Karang di Pulau Nusalaut hidup di kedalaman sekitar 3-10 meter. Jenis karang yang tumbuh bermacam-macam dari karang Acropora maupun Non-Acropora. Lokasi pengambilan data terumbu karang berada di 3 lokasi, yakni Timur Laut Nusalaut, Barat Daya Nusalaut, dan Utara.</p>
+<p style="margin-left: 0.25in; text-align: justify;">
+	Substrat Dasar perairan di Pulau Nusalaut pada lokasi pengamatan cukup beragam, yakni: karang hidup; abiotik seperti pasir dan patahan karang; karang mati seperti <em>Death Coral</em> (DC) dan <em>Death Coral with Algae</em> (DCA); Biotik seperti karang lunak, spons, ascidian, crinoid, anemon, bintang laut, dan Zoanthid; serta Alga seperti <em>Halimeda</em>. Secara umum kondisi penutupan karang hidup di seluruh lokasi pengamatan pada Pulau Nusalaut memiliki kisaran antara 18,22% - 66,20% yang termasuk dalam kriteria karang sedang sampai dengan baik. Penutupan karang hidup tertinggi adalah bagian Timur Laut Nusalaut sedangkan penutupan karang hidup terendah adalah Utara Nusalaut.</p>
+<p style="margin-left: 0.25in; text-align: justify;">
+	<strong>Utara Pulau Nusalaut</strong></p>
+<p style="margin-left: 0.25in; text-align: justify;">
+	Kontur kedalaman di Utara Pulau Nusalaut adalah slope landai dengan terumbu karang yang hidup menyebar di tepi tubir. Subtrat dasar didominasi patahan karang, dan kecerahan perairan yang cukup baik, persentase penutupan karang hidup pada Lokasi Utara Pulau Nusalaut adalah 18,22%, termasuk dalam kriteria buruk (Gomes dan Yap 1988). Didominasi penutupan kategori substrat abiotik yang cukup besar sebesar 57,60%. Penutupan kategori biotik 5,02%. Kategori substrat karang mati sebesar 19,16%. Substrat dasar perairan banyak sekali ditemukan patahan karang kemungkinan disebabkan penangkapan ikan yang tidak ramah lingkungan dengan menggunakan jaring serta tempat jalur kapal.</p>
+<p style="margin-left: 0.25in; text-align: justify;">
+	<strong>Barat Daya Pulau Nusalaut</strong></p>
+<p style="margin-left: 0.25in; text-align: justify;">
+	Kontur kedalaman di Barat Daya Nusalaut adalah slope landai dengan terumbu karang yang cukup rapat. Subtrat dasar didominasi karang hidup, pasir dan patahan karang. Kecerahan perairan di lokasi Barat Daya Nusalaut cukup baik, persentase penutupan karang hidup pada Lokasi Barat Daya Pulau Nusalaut adalah 33,90%, termasuk dalam kriteria sedang (Gomes dan Yap 1988). Didominasi penutupan kategori substrat abiotik yang cukup besar sebesar 36,12%. Penutupan kategori biotik 12,48%.</p>
+<p style="margin-left: 0.25in; text-align: justify;">
+	<strong>Timur Laut Pulau Nusalaut</strong></p>
+<p style="margin-left: 0.25in; text-align: justify;">
+	Kontur kedalaman di Timur Laut Pulau Nusalaut adalah landai dengan terumbu karang yang cukup rapat. Subtrat dasar didominasi karang hidup, dan kecerahan perairan yang cukup baik, persentase penutupan karang hidup pada Lokasi Timur Laut Pulau Nusalaut adalah 66,20%, termasuk dalam kriteria baik (Gomes dan Yap 1988). Penutupan kategori substrat abiotik sebesar 6,10%. Penutupan kategori biotik 0,34%. Kategori substrat cukup besar karang mati sebesar 24,76%.</p>
+<h1 style="text-align: justify;">
+	Tingkat Kerusakan dan Penyebab Utama</h1>
+<p style="text-align: justify;">
+	Eksistensi ekosistem terumbu karang menjadi suatu hal yang substansial dalam kawasan wilayah pesisir dan lautan terutama pulau-pulau kecil yang sangat tergantung pada kondisi ekosistem tersebut disamping mangrove dan lamun. Faktor-faktor penyebab kerusakan dapat berasal dari alam dan non-alam (anthropogenik).</p>
+<h1 style="text-align: justify;">
+	Permasalahan Utama Pengelolaan Kawasan Terumbu Karang</h1>
+<p style="margin-left: 0.25in; text-align: justify;">
+	Penangkapan ikan yang tidak ramah lingkungan seperti jaring tidak cocok untuk di kawasan terumbu karang karena dapat menyangkut di karang-karang bercabang. Hal tersebut menyebabkan banyak karang yang patah. Pendidikan konservasi dan penyuluhan terhadap masyarakat penduduk khususnya nelayan seharusnya diadakan untuk dapat mencegah kerusakan dan meningkatkan kelestarian ekosistem pesisir yang ada di Pulau Nusalaut.</p>
+<h1 style="text-align: justify;">
+	Status Kawasan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</h1>
+<p style="margin-left: 0.25in; text-align: justify;">
+	Melalui tata ruang wilayah pesisir dan lautan di perairan Pulau Nusalaut belum ada tercatat dalam status kawasan apapun. Perlu adanya perhatian dari pemerintah dan masyarakat setempat kelestarian terhadap lingkungan pesisir dan lautan di Pulau Nusalaut agar mengurangi tingkat kerusakan ekosistem pesisir.</p>
+<h1 style="text-align: justify;">
+	Biota Asosiasi yang Ditemukan di Pulau Nusalaut</h1>
+<p style="text-align: justify;">
+	Beberapa biota asosiasi yang ditemukan di Pulau Nusalaut baik sebagai indikator maupun mayor. Indikator sebagai indikasi kerusakan terumbu karang baik invasi maupun predasi. Mayor sebagai pengisi pada rantai makanan di ekosistem terumbu karang.</p>
+<h1 style="text-align: justify;">
+	b. Ikan terumbu</h1>
+<p style="margin-left: 0.25in; text-align: justify;">
+	Hasil pengamatan ikan terumbu di sisi tiga sisi pulau Nusalaut yaitu sisi Timur Laut, Barat Daya dan Utara menunjukkan indeks nilai keanekaragaman (H&rsquo;) berada pada kategori sedang sampai dengan tinggi. Dari ketiga titik pengamatan tersebut, komunitas ikan terumbu di sisi Timur Laut tergolong dalam kategori komunitas yang memiliki keanekaragaman jenis ikan sedang. Hal yang berbeda teramati pada sisi Barat Daya dan Utara Pulau Nusalaut dimana keanekaragaman jenis ikan terumbu di kedua sisi ini tergolong dalam kategori yang memiliki keanekaragaman jenis ikan terumbu tinggi.</p>
+<p style="margin-left: 0.25in; text-align: justify;">
+	Indeks nilai keseragaman (E&rsquo;) dihitung guna menunjukkan kategori kestabilan komunitas berdasarkan perbandingan banyaknya jumlah individu dengan jumlah jenis yang teramati. Semakin merata penyebaran jumlah individu tiap jenis maka semakin tinggi nilai yang ditunjukan indeks keseragaman. Komunitas ikan terumbu di sisi Timur Laut dan Utara Pulau Nusalaut tergolong dalam kategori tertekan sedangkan pada sisi Barat Daya komunitas ikan yang teramati berada pada kategori stabil.</p>
+<p style="text-align: justify;">
+	Nilai indeks Dominansi (C&rsquo;) dengan nilai Indeks keseragaman akan berbanding terbalik. Semakin rendah nilai indeks dominansi maka akan semakin tinggi nilai indeks keseragaman yang didapatkan. Dari ketiga stasiun pengamatan di Pulau Nusalaut, tidak ditemukan adanya dominansi dari jenis ikan terumbu.</p>
+<h1 style="text-align: justify;">
+	Timur Laut Pulau Nusalaut</h1>
+<p style="margin-left: 0.25in; text-align: justify;">
+	Pada sisi Timur Laut, kepadatan tertinggi berasal dari famili Balistidae dengan kepadatan yang tercatat sebesar 16480 ind/ha kemudian disusul dengan famili Pomacentridae dengan kepadatan 14760 ind/ha. Famili Balistidae ini sering dijumpai pada perairan yang mengarah ke laut lepas. <em>Odonus niger</em> merupakan salah satu jenis ikan yang berasal dari famili Basiltidae dengan jumlah individu yang berlimpah dan paling sering ditemukan di perairan Pulau Nusalaut. Ikan jenis ini biasa ditemukan berenang di kolom perairan dengan membentuk kelompok dalam jumlah besar dalam mencari makan.</p>
+<p style="margin-left: 0.25in; text-align: justify;">
+	Jenis ikan lain yang banyak dijumpai di sisi Timur Laut Pulau Nusalaut adalah jenis <em>Chromis ternatensis</em>. Memiliki ciri-ciri tubuhnya yang relative kecil dengan warna tubuh abu-abu kehitaman dan pada sirip ekornya berbentuk cagak dengan warna hitam tegas pada tulang ekornya. Ikan ini pada umumnya ditemukan pada daerah terumbu karang yang memiliki bentuk pertumbuhan bercabang. Selain kedua famili diatas, pada sisi Timur Laut banyak ditemukan jenis ikan yang termasuk dalam kelompok ikan indikator. Jenis ikan indikator yang ditemukan berasal dari famili Chaetodontidae dengan jumlah jenis sebanyak 15 jenis. Masyarakat pulau Nusalaut mengenal ikan ini dengan nama ikan kepe-kepe. Tubuh ikan ini memiliki warna yang cerah dengan bentuk tubuh yang oval dan pipih. Ikan kepe-kepe ini aktif memangsa hewan karang pada siang hari dan sering ditemukan berenang secara soliter ataupun sepasang. Seluruh jenis ikan yang ditemukan pada sisi Timur Laut di Pulau Nusalaut disajikan pada gambar 3. Jumlah jenis ikan yang ditemukan sebanyak 65 jenis ikan yang tergolong dalam 14 famili berbeda. Pada stasiun pengamatan ini ditemukan jenis ikan berbahaya, yaitu jenis <em>Pterois volitans</em> atau masyarakat sekitar menyebut ikan ini dengan sebutan ikan lepu. Ikan ini mendiami dasar perairan dan aktif mencari makan berupa ikan-ikan kecil pada malam hari. Duri pada sirip punggung ikan ini mampu membunuh orang dewasa dengan hitungan jam.</p>
+<p style="margin-left: 0.25in; text-align: justify;">
+	Jenis ikan terumbu yang tergolong dalam kelompok ikan target di catat jenis, jumlah individu dan estimasi panjang untuk dihitung biomassanya. Kelompok ikan target yang ditemukan di sisi Timur Laut sebanyak 15 jenis. Biomassa terbesar berasal dari ikan jenis <em>Lutjanus kasmira</em> dengan biomassa yang terhitung sebesar 793,02 kg/ha. Biomassa ikan terumbu terbesar kedua berasal dari jenis famili yang sama yaitu jenis Lutjanidae dengan jenis ikannya adalah <em>Lutjanus fulvus</em> dengan biomassa sebesar 528,68 kg/ha. Biomassa terendah berasal dari jenis ikan <em>Scarus rivulatus</em> yaitu sebesar 24,38 kg/ha.</p>
+<h1 style="text-align: justify;">
+	Barat DayaPulau Nusalaut</h1>
+<p style="text-align: justify;">
+	Hasil pengamatan ikan terumbu di sisi Barat Daya di pulau Nusalaut ditemukan sebanyak 74 jenis ikan terumbu yang terbagi kedalam 16 famili berbeda. Kepadatan tertinggi berasal dari famili Pomacentridae dengan jenis yang paling sering dijumpai adalah <em>Chromis viridis</em>. Ikan jenis ini banyak dijumpai pada daerah terumbu karang bercabang karena habitat tersebut cocok sebagai tempat bersembunyi ikan ini. Selain itu, ikan jenis ini memanfaatkan terumbu karang bercabang sebagai tempat memijah dan mencari makan. Jenis ikan lain yang sering dijumpai dari famili Pomacentridae adalah jenis <em>Chromis ternatensis</em>. Ikan jenis ini memiliki warna tubuh yang cenderung hitam keabu-abuan dengan bentuk ekor cagak berwarna hitam tegas.</p>
+<p style="margin-left: 0.25in; text-align: justify;">
+	Famili lainnya yang memiliki kepadatan terbesar kedua adalah jenis famili Balistidae. Bentuk tubuh ikan dari famili Balistidae unik dimana bentuk tubuhnya yang cenderung membundar dan sirip punggungnya berada di dekat sirip ekor berukuran kecil. Jenis ikan yang paling sering ditemukan untuk famili Balistidae adalah jenis <em>Odonus niger</em>. Ikan ini banyak dijumpai di perairan terbuka yang mengarah ke lautan lepas, berenang secara aktif di kolom perairan yang dekat dengan rataan terumbu dan memangsa plankton yang berada di perairan. Sebanyak 13 jenis ikan indikator ditemukan di perairan sisi sebelah Barat Daya pulau Nusalaut. Ikan-ikan ini sering ditemukan berpasangan atau terkadang soliter pada saat mencari makan. Hewan karang merupakan jenis makanan yang digemari oleh ikan yang berasal dari famili Chaetodontidae. <em>Chaetodon melanotus, Chaetodon rafflesi, Chaetodon trifascialis, Chaetodon ulietensis</em> dan <em>Forcipiger longirostris</em> merupakan jenis ikan yang paling sering dijumpai untuk jenis famili Chaetodontidae.</p>
+<p style="margin-left: 21.3pt; text-align: justify;">
+	Barat Daya pulau ini diperoleh sebanyak 2640 ind/ha yang termasuk kedalam 13 jenis ikan target. Biomassa dihitung guna mendefinisikan potensi yang dapat dimanfaatkan dari setiap jenis ikan target persatuan luas. Biomassa tertinggi berasal dari ikan <em>Lutjanus fulvus</em> yaitu sebesar 415,51 kg/ha kemudian disusul dengan jenis ikan <em>Balbometopon muricatum</em> sebesar 386,19 kg/ha dan jenis <em>Pterocaesio tile</em> sebesar 377,07 kg/ha. Biomassa terendah berasal dari jenis ikan <em>Ephinephelus bleekeri</em> yaitu sebesar 22,46 kg/ha.</p>
+<h1 style="text-align: justify;">
+	Utara Pulau Nusalaut</h1>
+<p style="margin-left: 0.25in; text-align: justify;">
+	Pengamatan ikan terumbu di sisi Utara pulau Nusalaut diperoleh 46320 ind/ha yang tergolong kedalam 69 jenis ikan terumbu. Berdasarkan famili, terdapat 15 jenis famili yang mendiami perairan Utara pulau Nusalaut dengan famili Pomacentridae merupakan jenis yang paling banyak memiliki kepadatan individu. Sebanyak 21 jenis ikan terumbu berasal dari famili Pomacentridae dengan jenis <em>Chromis viridis</em> merupakan jenis yang paling banyak dijumpai di sisi Utara pulau ini. Kepadatan terbesar kedua untuk famili yang sama dimiliki oleh jenis ikan <em>Chromis margaritfer</em> kemudian disusul dengan jenis ikan <em>Chromis weberi</em>.</p>
+<p style="margin-left: 0.25in; text-align: justify;">
+	Urutan kepadatan selanjutnya pada tingkat famili ditempati oleh famil Balistidae dengan jenis ikan yang paling sering ditemukan adalah jenis <em>Odonus niger</em>. Jenis ikan lainnya yang ditemukan untuk famili Balistidae adalah <em>Balistoides conspicillum, Meilichthys indicus</em> dan <em>Meilichthys vidua</em>. Pada kelompok ikan indikator di sisi Utara pulau ini ditemukan sebanyak 11 jenis dengan jumlah individu terbanyak adalah jenis ikan <em>Hemitaurichthys polylepis</em>. Keberadaan kelompok ikan ini merupakan indikator bagi kesehatan terumbu karang di suatu perairan.</p>
+<p style="margin-left: 21.3pt; text-align: justify;">
+	Beberapa jenis famili Pomacanthidae juga ditemukan di perairan sisi Utara pulau Nusalaut. Jenis ikan ini memiliki pola pewarnaan tubuh yang menarik dan sering kali terlihat menjadi ikan hias pada akuarium air laut. Jenis yang ditemukan adalah <em>Pomacanthus navarcus</em> dengan jumlah indivudu yang tercatat sebesar 120 ind/ha. Secara keseluruhan, kepadatan ikan terumbu pada tingkat famili disajikan pada Gambar dibawah ini. Kepadatan ikan terendah dimiliki oleh famili Carangidae atau lebih dikenal dengan nama <em>Giant traveler</em>. Ikan ini merupakan ikan ekonomis dengan harga yang relatif tinggi. Masyarakat sekitar menghargai ikan ini dengan harga Rp 40.000 per kg pada saat musim sulit dan dapat turun pada saat musim tenang.</p>
+<p style="text-align: justify;">
+	<strong>c. Ekosistem Lamun</strong></p>
+<h1 style="text-align: justify;">
+	Distribusi Jenis Lamun</h1>
+<p style="margin-left: 0.25in; text-align: justify;">
+	Lamun di Pulau Nusalaut menyebar di area-area pantai yang terlindung dan bersubstrat pasir. Umumnya ekosistem lamun banyak ditemukan di sekitar teluk-teluk kecil yang berada di Pulau Nusalaut. Beberapa jenis lamun yang ditemukan meliputi <em>Thalassian hemprichii </em>(Th), <em>Halodule pinifolia </em>(Hp), <em>Halophila ovalis</em> (Ho) dan <em>Enhalus acoroides </em>(Ea) (Tabel ).</p>
+<p style="margin-left: 0.25in; text-align: justify;">
+	Berdasarkan Tabel menunjukkan bahwa pola distribusi jenis lamun cenderung homogen, dimana lamun jenis Th ditemukan disemua stasiun pengamatan dan disemua substasiun, artinya jenis tersebut mendominasi sebaran disemua lokasi di Pulau Nusalaut. Kondisi distribusi ini berbeda dengan jenis Hp yang hanya ditemukan di stasiun 1 dan 3 dan jenis Ea yang hanya ditemukan di stasiun 2 dan 3. Selain itu, didalam pengamatan ditemukan juga jenis Ho, tetapi jenis ini hanya berada di stasiun 1.</p>
+<p style="margin-left: 0.25in; text-align: justify;">
+	Distribusi lamun di Pulau Nusalaut secara vertikal memiliki perbedaan yang cukup merata, berkisar antara 53-82% (Tabel 12 dan Gambar 33, 34 dan 35). Nilai persen tutupan lamun paling rendah berada pada stasiun 1. Rendahnya tutupan lamun tersebut sangat berkaitan dengan substrat yang pasir berkarang, sedangkan untuk stasiun 2 dan 3 memiliki persentase tutupan yang tinggi (55-90% dan 70-100%) karena memiliki substrat pasir berlumpur dan terlindung dari arus dan gelombang karena merupakan wilayah teluk. Selain itu, subur atau tidaknya ekosistem lamun sangat terkait dengan nutien. Sebagai ekosistem lamun yang berada di pulau kecil, sumber nurtien yang ada sangat terbatas, sehingga umumnya lamun mendapatkan nutrien dari dekomposisi daunnya yang yang mati dan dari area pemukiman penduduk, sehingga secara tidak langsung selain faktor keterlindungan, jika tidak ada tekanan secara fisik maka lamun yang berada disekitar area pemukiman lebih tumbuh subur.</p>
+<p style="margin-left: 0.25in; text-align: justify;">
+	Jika dilihat secara umum, maka status ekosistem lamun di Pulau Nusalaut berada pada rusak hingga baik berdasarkan Keputusan Menteri Negara Lingkungan Hidup Nomor 200 Tahun 2004. Secara terperinci, pada stasiun 1 memiliki status padang lamun rusak dengan kondisi kurang kaya/kurang sehat, sedangkan pada stasiun 2 dan 3 memiliki status padang lamun baik dengna kondisi kaya/sehat.</p>
+<h1 style="text-align: justify;">
+	Komposisi Penutupan Jenis Lamun</h1>
+<p style="margin-left: 0.25in; text-align: justify;">
+	Berdasarkan hasil analisis data, didapatkan bahwa secara umum jenis lamun yang mendominasi adalah jenis <em>Thalassia hempricii </em>(Gambar 36). Pada stasiun 1, komposisi jenis lamun <em>Thalassia hempricii </em>mencapai 62,46%, disusul <em>Halodule pinifolia</em> (33,28%) dan <em>Halophila ovalis</em> (4,26%). Semua jenis lamun yang ada di stasiun 1 cenderung jenis lamun ukuran kecil, hal ini erat kaitannya dengan kondisi oseanografi fisik lingkungan, dimana cenderung terpapar arus dan gelombang. Kondisi ini cukup berbeda dengan kondisi di stasiun 2 dan 3 yang lokasinya cukup terlindung.</p>
+<p style="margin-left: 0.25in; text-align: justify;">
+	Pada stasiun 2 dan 3 banyak terdapat jenis lamun ukuran besar seperti <em>Enhalus acoroides</em>. Di stasiun 2, komposisi jenis lamun tidak beragam, hanya terdapat dua jenis lamun saja, dimana jenis lamun yang mendominasi secara berututan adalah jenis <em>Thalassia hempricii</em> sebesar 92,55% dan <em>Enhalus acoroides </em>sebesar 7,45%. Sedangkan di stasiun 3 terdapat tiga jenis lamun, dimana jenis lamun yang mendominasi secara berurutan adalah jenis <em>Thalassia hempricii</em> (85,82%), <em>Halodule piniflia</em> (11,84%) dan <em>Enhalus acoroides</em> (2,34%).</p>
+<h1 style="text-align: justify;">
+	Kerapatan Jenis Lamun</h1>
+<p style="margin-left: 0.25in; text-align: justify;">
+	Kerapatan jenis lamun sangat terkait dengan persentase dan komposisi penutupan lamun. Jenis lamun dengan ukuran kecil akan lebih rapat jika dibandingkan dengan jenis lamun dengan ukuran besar karena berhubungan dengan ukuran daun dan letak pertumbuhan daun. Hal ini dapat dilihat pada Gambar, dimana pada stasiun 1 dan 3 memiliki kerapatan total yang tinggi (845 dan 781 individu/m<sup>2</sup>) dibanding dengan stasiun 2 (501 individu/m<sup>2</sup>).</p>
+<p style="margin-left: 0.25in; text-align: justify;">
+	Hipotesis tersebut sangat beralasan jika dilihat dari kerapatan jenis lamun per stasiun pengamatan (Gambar 38). Pada stasiun 1 dapat dilihat bahwa jenis <em>Thalassia hemprichii</em> memiliki kerapatan paling tinggi, yaitu 528 individu/m<sup>2</sup>, disusul oleh <em>Halodule pinifolia </em>dan <em>Halophila ovalis</em> (281 dan 36 individu/m<sup>2</sup>). Berdeda dengan stasiun 2, pada stasiun ini dapat dilihat bahwa hanya terdapat dua jenis lamun besar, dimana kerapatannya mencapai 464 individu/m<sup>2</sup> untuk jenis <em>thalassia hemprichii</em> dan 37 individu/m<sup>2</sup> untuk jenis <em>Enhalus acoroides</em>. Disini tidak ditemukan jenis lamun yang kecil, sehingga kerapatannya per jenisnya paling rendah dibandingkan dengan stasiun 1 dan 3. Pada stasiun 3 kondisinya hampir serupa dengan stasiun 1, dimana memiliki kerapatan yang tinggi karena banyak terdapat jenis lamun ukuran kecil. Pada stasiun ini kerapatan tertinggi adalah jenis lamun <em>Thalassian hemprichii</em> (587 individu/m<sup>2</sup>), disusul jenis <em>Halodule pinifolia</em> dan <em>Enhalus acoroides</em> (32 individu/m<sup>2</sup>). Tingginya kerapat lamun pada stasiun 3 sangat didukung oleh substrat dasar yang pasir berlumpur.</p>
+<h1 style="text-align: justify;">
+	Biota Asosiasi</h1>
+<p style="text-align: justify;">
+	Ekosistem lamun merupakan salah satu ekosistem penting karena memiliki fungsi yang menyediakan jasa ekologi bagi biota lainnya, sehingga banyak biota yang berasosiasi dengan lamun, baik sebagai tempat berlindung, mencari makan, maupun memijah. Beberapa biota yang ditemukan berasosiasi di ekosistem lamun di Pulau Nusalaut meliputi, ikan, karang, anemon, sponge, alga, teripang dan beberapa jenis alga</p>
+<h1 style="text-align: justify;">
+	Ancaman Terhadap Ekosistem Lamun dan Bentuk Adaptasi Yang Dilakukan</h1>
+<p style="margin-left: 0.25in; text-align: justify;">
+	Ekosistem lamun selama ini masih belum banyak dipahami sebagai ekosistem yang memiliki arti penting, ini terkait dengan belum banyaknya pemanfaatan secara langsung yang bisa didapatkan oleh masyarakat. Masyarakat masih belum memiliki perhatian terhadap lamun, sehingga aktifitas masyarakat terkadang menjadi ancaman bagi ekosistem lamun, seperti jangkar perahu dan tongkat galah untuk mendorong perahu diperairan dangkal. Kurangnya pemahaman masyarakat terhadap nilai penting lamun membuat tidak adanya bentuk adaptasi untuk menjaga maupun memperbaiki kondisi ekosistem lamun yang rusak.</p>
+<p style="margin-left: 0.25in; text-align: justify;">
+	Beberapa ancaman tersebut mungkin masih berdampak sangat kecil. Hal ini karena masih sedikitnya jumlah penduduk dan jenis aktifitas penduduk yang ada di Pulau Nusalaut, tetapi seiring berjalannya waktu, maka pertambahan penduduk akan dapat meningkatkan tekanan terhadap eksositem lamun yang ada. Untuk itu, upaya dari pemerintah perlu dilakukan agar pemahaman masyarakat terhadap pentingnya ekosistem lamun.</p>
+<p style="text-align: justify;">
+	<strong>d. Mangrove</strong></p>
+<h1 style="text-align: justify;">
+	Distribusi dan Kerapatan Jenis Mangrove</h1>
+<p style="margin-left: 0.25in; text-align: justify;">
+	Pulau Nusalaut memiliki distribusi ekositem mangrove yang hampir merata disetiap bagian pulaunya. Distribusi dan kerapatan jenis mangrove merupakan keberadaan suatu individu dalam satuan luasan tertentu yang didalamnya juga diketahui jumlah total tegakannya. Di Pulau Nusalaut ditemukan empat spesies mangrove yaitu <em>Rhizophora mucronata, Sonneratia alba, Xylocarpus moluccensis </em>dan <em>Bruguiera gymnorrhiza</em> (Tabel 7).</p>
+<p style="margin-left: 0.25in; text-align: justify;">
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Secara keseluruhan, pada lokasi pengamatan dapat diketahui bahwa setiap stasiun pengamatan memiliki jenis mangrove yang relatif berbeda. Distribusi jenis mangrove yang banyak ditemukan adalah mangrove dari jenis <em>Rhizophora mucronata </em>dan <em>Soneratia alba </em>dimana ditemukan disemua stasiun pengamatan, disusul kemudian jenis mangrove <em>Bruguiera gymnorrhiza </em>yang ditemukan di stasiun 3 dan 4. Selain itu, terdapat jenis <em>Xyocarpus moluccensis</em> yang hanya ditemukan di stasiunpengataman 3, di stasiun ini, diluar plot transek pengamatan&nbsp; juga ditemukan mangrove dari jenis <em>Aegiceras corniculatum</em>. Umumnya, di Pulau Nusalaut memiliki sistem zonasi mangrove campuran yang diawali oleh jenis <em>Soneratia alba</em> dan <em>Rhizophora mucronata</em>, kemudian dibelakangnya terdapat mangrove jenis <em>Bruguiera gymnorrhiza</em> dan jenis mangrove ikutan yaitu <em>Xyocarpus moluccensis </em>dan <em>Aegiceras corniculatum</em>.</p>
+<p style="margin-left: 0.25in; text-align: justify;">
+	Sebagai pulau kecil, ekosistem mangrove di Pulau Nusalaut yang ada memiliki lebar yang relatif tipis dan kerapatan yang rendah (Gambar 33), ini terkait dengan suplai nutrien yang dibutuhkan mangrove yang sebagian besar didapatkan dari pengurairan daun dan ranting yang jatuh. Hal ini juga mempengaruhi jumlah tegakan yang ada, semakin banyak nutrien makan akan banyak tegakan mangrove yang dapat tumbuh, begitu juga sebaliknya. Berdasarkan hasil analisis didapatkan bahwa jumlah tegakan berkisar antara 533-1.333 pohon/ha, 33-300 anakan/ha, dan 0-533 semai/ha (Tabel 8). Jumlah tegakan pohon paling tinggi berada pada stasiun 3 (1.333 pohon/ha), kemudian secara berurutan pada stasiun 2, 1 dan 4 (1.200, 800 dan 533 pohon/ha). Berdasarkan Keputusan Menteri Negara Lingkungan Hidup Nomor 201 Tahun 2004 menunjukkan bahwa mangrove pada stasiun 2 dan 3 termasuk dalam kriteria Baik dengan kategori kepadatan sedang, sedangkan untuk stasiun 1 dan 4 termasuk dalam kriteria rusak dengann kategori kepadatan jarang.</p>
+<p style="margin-left: 0.25in; text-align: justify;">
+	Untuk mangrove anakan, jumlah tertinggi berada pada stasiun 1 (300 tegakan/ha), lalu diikuti pada stasiun 3, 2, dan 4 (167, 100 dan 33 tegakan/ha). Sedangkan untuk kategori mangrove semai, jumlah tertinggi berada pada stasiun 4 (533 tegakan/ha), disusul oleh stasiun 2 dan 3 (400 dan 133 tegakan), sedangkan pada stasiun 1 tidak ditemukan semai. Anakan dan semai cukup penting diketahui untuk melihat keberlanjutan ekosistem dan perubahan kondisi lingkungan pada ekosistem mangrove.</p>
+<h1 style="text-align: justify;">
+	Struktur Vegetasi Mangrove</h1>
+<p style="margin-left: 0.25in; text-align: justify;">
+	Struktur vegetasi mangrove dapat menggambarkan bagaimana kondisi mangrove dari setiap jenisnya, termasuk jenis mangrove apa yang mendominasi. Struktur vegetasi mangrove dilihat dari nilai Indeks Nilai Penting (INP), indeks keanekaragaman (H&rsquo;), indeks keseragaman (E) dan indeks dominansi (C). INP merupakan nilai yang dapat memberikan gambaran mengenai pengaruh atau peranan suatu jenis vegetasi mangrove dalam suatu komunitas mangrove. Baik maupun tidak kondisi mangrove dan seberapa besar perannya dalam suatu komunitas mangrove, dapat dilihat dari nilai yang dapat ditunjukkannya.</p>
+<p style="text-align: justify;">
+	Berdasarkan hasil perhitungan INP, secara umum nilai INP mangrove tertinggi di Pulau Nusalaut dari sepesies <em>Sonneratia alba </em>(disemua stasiun pengamatan) (Gambar 42). Pada stasiun 1 menunjukkan bahwa spesies <em>Sonneratia alba</em> memiliki nilai INP tertinggi, yaitu 198,74, dan yang terendah dari spesies <em>Rhizophora mucronata</em> dengan nilai INP 101,26. Nilai INP tersebut cukup berimbang, yang artinya kedua spesies tersebut masih bisa saling bersaing. Hal ini dapat dilihat juga dari nilai indeks keanekaragaman (H&rsquo;) yang rendah (0,6931), keseragaman populasi (E) yang rendah (0,3333), dan dominansi (D) sedang (0,5000) (Tabel 15), artinya pada stasiun ini tidak memiliki jenis yang banyak dan tidak ada dominansi oleh satu spesies saja. Tetapi kondisi ini berbeda pada kategori anakan, dimana memiliki nilai INP 300 karena hanya ditemukan satu jenis anakan mangrove dari spesies <em>Rhizophora mucronata. </em></p>
+<p style="text-align: justify;">
+	<em>Pada stasiun 2 kondisinya hampir serupa dengan stasiun 1, dimana spesies <em>Sonneratia alba</em> memiliki nilai INP tertinggi, yaitu 188,93, dan yang terendah dari spesies <em>Rhizophora mucronata</em> dengan nilai INP 111,07. Begitu juga dengan nilai H&rsquo;, E, dan D yang memiliki kategori rendah (0,6792), rendah (0,2733), dan sedang (0,5139) (Tabel 15), artinya pada stasiun dua tidak memiliki jenis yang beragam dan tidak ada yang mendominasi. Kesamaan kondisi ini juga ditunjukkan oleh nilai INP kategori anakan, yaitu sebesar 300 dari spesies <em>Rhizophora mucronata. </em></em></p>
+<p style="margin-left: 0.25in; text-align: justify;">
+	Berbeda dengan kondisi pada stasiun 3 dan 4. Pada stasiun 3, terdapat 4 jenis lamun yang masing memiliki nilai INP kategori pohon 127,15 untuk <em>Sonneratia alba</em>, 125,88 untuk <em>Rhizophora mucronata</em>, 31,46 untuk <em>Xylocarpus moluccensis</em>, dan 15,51 untuk <em>Bruguiera gymnorrhiza</em>(Gambar 34). Kondisi INP ini juga terlihat pada kategori anakan, dimana nilainya merata untuk jenis&nbsp; <em>Sonneratia alba</em> (129,81) dan <em>Rhizophora mucronata</em> (170,19) (Gambar 42). Tetapi kondisi ini masih belum memperlihatkan keanekaragaman yang tinggi karena masih didominasi oleh jenis <em>Sonneratia alba </em>dan <em>Rhizophora mucronata</em>. Hal ini dapat dibuktikan dari nilai H&rsquo; dengan kategori rendah (0,8539), E dengan kategori rendah (0,2315), dan D dengan kategori sedang (0,5213), artinya meskipun terdapat empat jenis mangrove tetapi jumlahnya sangat sedikit, dan dominansi hanya ada pada jenis <em>Sonneratia alba</em> dan <em>Rhizophora mucronata</em>.</p>
+<p style="margin-left: 0.25in; text-align: justify;">
+	Begitu juga pada stasiun 4, dimana terjadi perbedaan nilai INP kategori pohon yang sangat signifikan. Spesies <em>Sonneratia alba</em> memiliki nilai tertingi, yaitu 209,88, diikuti oleh spesies <em>Rhizophora mucronata</em> dan <em>Bruguiera gymnorrhiza</em> yang memiliki nilai relatif sama, yaitu 53,69 dan 36,42 (Gambar 42). Kondisi ini bertolak belakang dengan kategori anakan yang hanya ditemukan spesies <em>Rhizophora mucronata</em> (300) (Gambar 43), artinya proses regenerasi dari spesies tersebut terjadi. Jika dibandingkan dengan nilai H&rsquo; (0,7029), E (0,2535), dan D , maka terlihat bahwa tidak ada keanekaragaman yang tinggi, tetapi yang terjadi malah adanya dominansi yang tinggi, yaitu oleh spesies <em>Sonneratia alba. </em>Rendahnya nilai INP ini menunjukkan spesies tersebut kurang mampu bersaing dan beradaptasi dengan baik pada lingkungan. Begitu juga sebaliknya, tingginya nilai INP menunjukkan suatu spesies mampu bersaing dengan jenis yang lain dan beradaptasi dengan baik pada lingkungan tumbuhnya.</p>
+<h1 style="text-align: justify;">
+	Biota Asosiasi</h1>
+<p style="margin-left: 0.25in; text-align: justify;">
+	Sebagai salah satu ekosistem yang memiliki fungsi ekologi yang besar, maka banyak ditemukan beberapa biota yang berasosiasi dengan mangrove. Beberapa biota yang ditemukan meliputi burung, gastropoda, krustasea, juvenil ikan, teripang, lamun, bahkan tumbuhan menempel.</p>
+<h1 style="text-align: justify;">
+	Ancaman Terhadap Ekosistem Mangrove dan Bentuk Adaptasi Yang Dilakukan</h1>
+<p style="margin-left: 0.25in; text-align: justify;">
+	Ekosistem mangrove di Pulau Nusalaut belum terlihat mendapatkan ancaman dari manusia. Hal ini karena pulau ini masih belum memiliki penduduk yang padat, selain itu aktifitas masyakat banyak terjadi didaratan. Salah satu ancaman adalah tsunami. Kejadian tsunami secara fisik dapat merusak ekosistem mangrove secara signifikan, sehingga perlu menjaga kondisi dan menambah ketebalan mangrove. Karena tidak adanya ancaman dan ketergantungan masyarakat terhadap ekosistem mangrove, maka tidak ada bentuk adaptasi yang dilakukan untuk meningkatkan kualitas kondisi dari ekosistem mangrove yang ada di Pulau Nusalaut.</p>
+<p style="text-align: justify;">
+	<strong>e. Vegetasi Pantai</strong></p>
+<h1 style="text-align: justify;">
+	Tipologi Pantai</h1>
+<p style="margin-left: 0.25in; text-align: justify;">
+	Pulau Nusalaut merupakan pulau kecil dengan tipe pulau berbukit, tetapi pulai ini memiliki tipe pantai yang relatif landai dan didominasi oleh pantai berpasir dan bervegetasi mangrove, hanya beberapa area saja yang memiliki pantai berkarang, padahal Pulau Nusalaut cukup terpapar oleh arus dan gelombang besar (Gambar 37). Pada area pantai berpasir, warna pasir pantai yang dimiliki agak kecoklatan, warna pasir tersebut diperkirakan karena pengaruh pengikisan dari darat dan endapan nutrien dari laut, mengingat hampir di sepanjang pantai terdapat ekosistem mangrove dan ekosistem lamun (Gambar 38).</p>
+<p style="margin-left: 0.25in; text-align: justify;">
+	Ekosistem diperairan sangat mendukung didalam pembentukan pantai. Hal ini karena massa pantai banyak dibentuk oleh sedimen yang dibawa dari laut. Umumnya jika ekosistem perairannya didominasi karang dan material biologis seperti kerang-kerangan, biasanya pantai cenderung berwarna putih, bahkan dibeberapa kasus di Lombok dan Taman Nasional Komodo terdapat pantai dengan pasir berwarna merah muda, yang terbentuk oleh pengikisan karang merah (<em>Tubipora musica</em>).</p>
+<p style="margin-left: 0.25in; text-align: justify;">
+	Kondisi pantai seperti pada Gambar 45 dan 46 di Pulau Nusalaut keberadaannya merata mengelilingi pulau. Kondisi ini terbentuk secara alami oleh proses-proses geomorfologi dan oseanografi. Tetapi dalam beberapa hal, faktor lokasi membuat Pulau Nusalaut rawan akan bercana tsunami, sehingga jika kondisi pantai tidak dijaga dengan baik akan menambah kerentanan pantai terhadap bencana alam.</p>
+<p style="margin-left: 0.25in; text-align: justify;">
+	<strong>Tipe Vegetasi Pantai</strong></p>
+<p style="margin-left: 0.25in; text-align: justify;">
+	Pulau Nusalaut memiliki vegetasi yang cenderung homogen. Dengan area yang berteluk-teluk kecil, membuat pantai banyak menjadi ekosistem mangrove. Selain itu, vegetasi pantai lain yang umum ditemui adalah kelapa, pandan laut, ketapang, camplung, mangrove dan semak belukar.</p>
+<p style="margin-left: 0.25in; text-align: justify;">
+	Mangrove biasanya tumbuh di area teluk dengan substrat yang berlumpur, sedangkan untuk di area pantai yang berpasir umumnya vegetasi yang hidup adalah pandan laut, kelapa dan tanaman semak. Selain itu, di area-area pantai yang pengaruh daratnya kuat banyak terdapat vegetasi dari tanaman ketapang dan camplung.</p>
+<p>
+	&nbsp;</p>
+<p>
+	&nbsp;</p>
+<p style="margin-left:.25in;">
+	&nbsp;</p>
+</div></p>
+
+<hr>
+
+<h2><a id="snh">Sumberdaya Non Hayati</a></h2>
+<p><div class="readmore"><p style="text-align: justify;">
+	<strong>Sumberdaya Non-Hayati Pesisir</strong></p>
+<p style="margin-left: 0.25in; text-align: justify;">
+	<strong>Mineral/Tambang</strong></p>
+<p style="margin-left: 0.25in; text-align: justify;">
+	Secara geologi Pulau Nusalaut terletak diantara pertemuan 3 lempeng utama pembentuk kerak bumi yaitu lempeng Eurasia (Utara), lempeng Indo Australia (Selatan),&nbsp; dan lempeng Pasifik (Barat), yang merupakan daerah potensi bagi terbentuknya berbagai cabakan bahan galian mineral, panas bumi, dan cekungan hydrocarbon yang memungkinkan untuk dikembangkan. Potensi bahan galian (tambang) dan energi yang potensial untuk dikembangkan secara komersil antara lain potensi panas bumi di Desa/Negeri Nalahia sebesar 25 MWe (<em>Sumber : Dinas ESDM </em><em>Provinsi Maluku, 2009</em>).</p>
+</div></p>
+
+<hr>
+
+<h2><a id="aps">Aktivitas Pengelolaan Sumberdaya</a></h2>
+<p><div class="readmore"><p style="text-align: justify;">
+	<strong>Perikanan Tangkap</strong></p>
+<p style="margin-left: 0.25in; text-align: justify;">
+	<strong>Produksi Perikanan Tangkap</strong></p>
+<p style="margin-left: 0.25in; text-align: justify;">
+	Pulau Nusalaut merupakan pulau yang dikelilingi oleh Laut Banda dan Laut Seram mempunyai prospek yang baik bagi penduduk jika dimanfaatkan dengan baik. Pemenuhan kebutuhan penduduk Pulau Nusalaut akan produksi perikanan terutama&nbsp; ikan secara umum dapat dikatakan terpenuhi dengan baik.</p>
+<p style="text-align: justify;">
+	Produksi perikanan di Pulau Nusalaut dalam 2 (dua) tahun terakhir dan ini selalu meningkat dari tahun ke tahun. Pada tahun 2011 produksi perikanan sebanyak 2.414,67 ton naik menjadi 2.693,00 ton pada tahun 2012 atau meningkat sebesar 11,3%. Kenaikan jumlah produksi perikanan ini berdampak positif terhadap nilai perikanan yang juga meningkat dari Rp. 12.432.458,- menjadi Rp. 13.865.500,-. Peningkatan produksi perikanan di Pulau Nusalaut dipicu oleh meningkatnya armada tangkap yang ada di wilayah Pulau Nusalaut dengan potensi perikanan yang sangat baik.</p>
+<p style="margin-left: 0.25in; text-align: justify;">
+	<strong>Sarana Perikanan Tangkap</strong></p>
+<p style="margin-left: 0.25in; text-align: justify;">
+	Kelengkapan penduduk untuk memenuhi kebutuhan ikan walau masih bersifat tradisional namun cukup untuk memenuhi kebutuhannya bahkan seringkali dapat dijual kepada penduduk lainnya dalam wilayah Pulau Nusalaut.Kelengkapan atau sarana tersebut adalah jarring, perahu, pancing, jala dan lain-lain.</p>
+<p style="margin-left: 0.25in; text-align: justify;">
+	Penduduk Pulau Nusalaut memiliki beberapa sarana yang cukup modern seperti kapal bobo yang ada di 4 (empat) desa/negeri, masing-masing Ameth, Abubu, Titawaai dan Sila. Pemasaran hasil perikanan yang diperoleh oleh kapal bobo tersebut sebagian besarnya langsung dijual kepada pembeli baik di dalam Nusalaut maupun ke Pulau Saparua, untuk hasil yang cukup banyak seringkali dijual langsung ke Kota Masohi Pulau Seram.</p>
+<p style="margin-left: 14.2pt; text-align: justify;">
+	<em>Sumber: Nusalaut Dalam Angka Tahun 2011</em></p>
+<p style="margin-left: 14.2pt; text-align: justify;">
+	Kondisi yang berkembang diperlihatkan oleh tabel diatas menunjukkan bahwa ada armada tangkap yang mengalami penurunan jumlah da nada juga armada tangkap yang mengalami peningkatan jumlahnya. Penurunan jumlah armada tangkap terjadi pada armada tangkap perahu tanpa motor, hal ini sebabkan karena armada tangkap tersebut dimakan usia dan biaya untuk membuat armada yang baru membutuhkan biaya yang tinggi serta tidak tersedianya bahan baku pembutan armada tangkap tersebut. Walau demikian jumlah armada tangkap yang tersedia di Pulau Nusalaut untuk kategori nelayan tradisional cukup memadai dari keseluruhan armada yang tersedia sebanyak 407 armada.</p>
+<p style="text-align: justify;">
+	Sedangkan untuk armada tangkap dengan menggunakan motor rata-rata mengalami peningkatan, bobo misalnya bertambah di Desa/Negeri Abubu sedangkan untuk <em>long boat</em> semua desa/negeri mengalami penambahan jumlah masing-masing satu buah bobo dan delapan buah <em>long body</em>. Alat tangkap yang digunakan oleh penduduk cukup beragam, jumlahnya cenderung tidak mengalami perubahan kecuali untuk pancing sedikit mengalami peningkatan sebanyak 8 unit jika dibandingkan dari tahun sebelumnya.</p>
+<p style="margin-left: 0.25in; text-align: justify;">
+	<strong>Nelayan</strong></p>
+<p style="margin-left: 0.25in; text-align: justify;">
+	Sebagian besar penduduk Pulau Nusalaut adalah nelayan, hal ini dimungkinkan karena letak Pulau Nusalaut berada ditengah laut yang luas yakni Laut Banda.Jumlah nelayan sebanyak 1.605 orang dari jumlah penduduk seluruhnya.</p>
+<p style="text-align: justify;">
+	<strong>Perikanan Budidaya</strong></p>
+<p style="margin-left: 0.25in; text-align: justify;">
+	<strong>Budidaya Laut</strong></p>
+<p style="margin-left: 0.25in; text-align: justify;">
+	Usaha budidaya laut di Pulau Nusalaut berupa teknik budidaya keramba jaring apung (KJA).Telah dikembangkan usaha budidaya rumput laut, ikan baronang, kepiting bakau, udang karang, teripang, dan penangkaran penyu.Perairan pesisir dan laut Pulau Nusalaut merupakan tempat mencari makan dan bertelur (<em>nesting</em>) penyu.Pemasaran hasil budidaya KJA hanya terbatas di lokasi yang dikumpulkan oleh pengepul, kemudian pengepul memasarkan ke daratan Ambon.</p>
+<p style="text-align: justify;">
+	<strong>. Pariwisata</strong></p>
+<p style="margin-left: 0.25in; text-align: justify;">
+	Pulau Nusalaut memiliki potensi wisata yang sangat beragam, keragaman potensi wisata tersebut antara lain potensi wisata bawah laut yang tersebar hampir di sepanjang pantai Pulau Nusalaut. Potensi wisata ini secara keseluruhan belum dikenal oleh para wisatawan mancanegara maupun dalam negeri kecuali goa bawah laut dan taman laut di Desa/Negeri Ameth yang selalu menghadirkan kunjungan wisatawan.</p>
+<p style="margin-left: 0.25in; text-align: justify;">
+	Di Pulau Nusalaut terdapat potensi wisata sejarah di Desa/Negeri Sila yang memiliki bangunan peninggalan colonial berupa benteng sekaligus gudang penampungan cengkih milik pemerintah Belanda yang masih berdiri kokoh walaupun terlihat kurang terawatt bagian atapnya.Terdapat juga Gereja Tua Eben Haezer yang dibangun pada tahun 1715 dengan bentuk bangunan yang unik perpaduan antara bangunan colonial dengan budaya setempat yang masih terawat dengan baik.Di Desa/Negeri Leinitu terdapat potensi wisata pantai pasir putih yang bersih dan tenang. Di Desa/Negeri Titawaai terdapat gua alam dengan pemandangan yang memukau di tanjung Wae Selanno, di Desa/Negeri Abubu yang merupakan Negeri asal Pahlawan Nasional Christina Martha Tiahahu juga menyimpan potensi wisata berupa danau yang indah. Di Desa/Negeri Akoon terdapat lokasi wisata berupa batu kapal.Di Desa/Negeri Nalahia yang terletak pada ketinggian terdapat sumber mata air panas yang seringkali dimanfaatkan oleh penduduk setempat.Ketujuh desa/negeri di Pulau Nusalaut merupakan negeri adat yang tentunya mempunyai potensi wisata budaya yang hingga saat ini masih dijaga dan dilakukan secara teratur.Di Pulau Nusalaut hingga saat ini baru tersedia satu buah penginapan di Desa/Negeri Ameth, namun hampir d setiap desa/negeri terdapat rumah penduduk yang telah disiapkan untuk menampung para wisatawan yang datang berkunjung.Biasanya yang berkunjung ke Pulau Nusalaut hampir seluruhnya merupakan wisatawan mancanegara untuk menikmati pesona bawah laut pantai Desa/Negeri Ameth.Rata-rata wisatawan tersebut datang karena diberitahukan oleh teman atau saudara mereka yang sebelumnya pernah berkunjung.Kebanyakan wisatawan mancanegara berasal dari Eropa dan Amerika.Kunjungan wisatawan tersebut rata-rata mencapai 35 orang perbulan terutama pada saat kondisi laut baik untuk penyelaman.</p>
+<p style="text-align: justify;">
+	<strong>Aktivitas Pengelolaan Sumberdaya</strong></p>
+<p style="margin-left: 0.25in; text-align: justify;">
+	<strong>Pertanian</strong></p>
+<p style="text-align: justify;">
+	Pertanian merupakan salah satu bidang yang digeluti oleh penduduk yang ada di Pulau Nusalaut.Sebagian besar penduduk Pulau Nusalaut merupakan petani yang sebagian besar hanya untuk memnuhi kebutuhan hidup keluarga masing-masing selain dijual jika ada kelebihan dari hasil pertanian tersebut.Di Pulau Nusalaut oleh penduduk tidak disediakan lahan khusus untuk pertanian, lahan pertanian yang digunakan oleh penduduk adalah di sela-sela lahan perkebunan yang ada.Hasil pertanian yang cukup dominan di Pulau Nusalaut adalah ubi kayu, ubi jalar dan jagung.</p>
+<p style="margin-left: 35.45pt; text-align: justify;">
+	<em>Sumber : Nusalaut Dalam Angka Tahun 2012</em></p>
+<p style="margin-left: 0.25in; text-align: justify;">
+	Perbandingan luas lahan dan hasil produksi pertanian sebagaimana diperlihatkan dalam tabel menunjukkan bahwa pertama, luas lahan pertanian tidak mengalami perubahan sama sekali. Hal ini disebabkan karena rata-rata petani hanya bekerja untuk memenuhi kebutuhan rumah tangganya saja, tidak untuk diperjualbelikan.Kedua, hasil produksi mengalami penurunan untuk semua komoditas pertanian yang ada di Pulau Nusalaut. Komoditas pertanian yang mengalami penurunan hasil produksi yang cukup menonjol adalah jagung yakni dari 30,0 ton menjadi 27,3 ton. Penurunan hasil pertanian di pulau Nusalaut disebabkan karena adanya pekerjaan ganda yang berlaku di Pulau Nusalaut, disamping petani, mereka juga melakukan kegiatan sebagai nelayan jika kondisi laut memungkinkan. Penyebab lain adalah kegiatan sebagai petani tepat pada musim penghujan sehingga berdampak kurang bagus bagi hasil panennya.</p>
+<p style="margin-left: 0.25in; text-align: justify;">
+	<strong>Peternakan</strong></p>
+<p style="margin-left: 0.25in; text-align: justify;">
+	Bidang peternakan di pulau Nusalaut dilakukan secara tradisional.Tidak ada peternakan yang dikelola penduduk, segala jenis hewan peternakan hanya dipelihara secara perorangan.Hewan ternak dibiarkan berkeliaran secara bebas.Jenis ternak yang sering dipelihara oleh penduduk adalah ayam kampung, babi.Sedangkan jenis lainnya populasinya sangat sedikit seperti sapi, populasi ternak mengalami penurunan rai tahun sebelumnya. Penurunan populasi ternak yang sangat menyolok adalah ternak babi yang mengalami penurunan jumlah populasi sebanyak 357 ekor, sedangkan ayam kampung mengalami penurunan dari tahun sebelumnya sebesar 292 ekor&nbsp; dari 2.645. Sedangkan hewan ternak yang lain mengalami penurunan yang tidak terlalu berarti. Penurunan populasi hewan ternak terutama hewan babi dan ayam kampung disebabkan karena dua penyebab yakni, pertama hewan ternak tersebut tidak dipelihara dengan baik, hewan dibiarkan berkeliaran secara bebas sehingga perkembangbiakannya terjasi secara alami. Kondisi ini disempurnakan dengan penyebab kedua yaitu hewan ternak tersebut merupakan menu makanan atau hidangan&nbsp; istimewa penduduk Pulau Nusalaut dalam merayakan hari tertentu sehingga pada hari-hari tersebut populasi hewan ternak berkurang secara drastis.</p>
+<p style="margin-left: 0.25in; text-align: justify;">
+	<strong>Perkebunan</strong></p>
+<p style="text-align: justify;">
+	Pulau Nusalaut sejak dulu dikenal sebagai penghasil cengkih.Karena itu tanaman cengkih sebagai produk tertinggi di Pulau Nusalaut.Tanaman cengkih menyebar diseluruh lahan perkebunan yangada di Pulau Nusalaut.Penduduk secara optimal memanfaatkan lahan yang ada untuk menanam tanaman cengkih.Selain cengkih, pala juga dihasilkan di Pulau Nusalaut.Khusus untuk pala, tanaman ini juga diperlakukan seperti lahan pertanian dimana penanamannya selalu merupakan tanaman selingan di antara tanaman cengkih tang ada.Seluruh lahan perkebunan yang ada di Pulau Nusalaut merupkan lahan milik keluarga yang telah dikelola jauh sebelumnya yang oleh penduduk setempat disebut dengan &ldquo;tanah dati&rdquo;.</p>
+<p style="margin-left: 0.25in; text-align: justify;">
+	Luas lahan perkebunan yang dimanfaatkan oleh penduduk tidak mengalami peningkatan.Penduduk hanya melakukan peremajaan terhadap tanaman yang sudah tua umurnya, sehingga luas lahan dari tahun ke tahun tidak mengalami perubahan.Hal ini menyebabkan produktivitas tanaman juga tidak mengalami perubahan.Tanaman cengkih masih dikelola secara tradisionalbelum nampak upaya-upaya yang berarti untuk peningkatan produktivitas tanaman sehingga hasil panen kurang maksimal.</p>
+<p style="margin-left: 0.25in; text-align: justify;">
+	<strong>Kehutanan</strong></p>
+<p style="margin-left: 0.25in; text-align: justify;">
+	Pola pemanfaatan lahan dengan mengkombinasikan tanaman pertanian <em>(agriculture)</em> dan pohon-pohon hutan atau kehutanan <em>(forestry)</em> dalam satu ruang dan waktu yang sama atau pola Agroforestri sudah lama dipraktekkan oleh penduduk di Pulau Nusalaut dan dinamai dengan istilah dusung. Salah satu jenis tanaman tahunan yang potensial didalam dusung adalah pala yang merupakan tanaman rempah asli Pulau Nusalaut dan telah dibudidayakan dan diperdagangkan secara turun-temurun dalam bentuk usaha rakyat. Karakteristik masyarakat petani pala yaitu umur petani pala berkisar antara 30-60 tahun, Tingkat pendidikannya lebih banyak berasal tamatan SD (65 %), Pendidikan non formal (pelatihan atau penyuluhan) yang diikuti hanya 8%. Rata-rata luas kepemilikan lahan dusung antara 2-5 Ha, jumlah pohon pala/ha bervariasi karena mereka melakukan pencampuran dengan tanaman lainnya, seperti cengkih, cacao, kelapa serta jenis buah-buahan. Dari lahan 2-5 ha tersebut yang ditanami pala antara 0,2&ndash;0,7 ha dengan jumlah pohon pala: 40&ndash;100 pohon. Rata-rata jumlah pohon pala/Ha: 65 pohon. Kebun yang dimiliki adalah milik marga dan dibagikan untuk setiap keluarga yang ada di dalam dusung tersebut. Tahapan terbentuknya dusung di lokasi penelitian umumnya melalui beberapa tahap, yaitu fase tahap/ladang, tahap aong (bekas kebun campuran yang ditinggalkan) dan tahap dusung. Pengelolaan dan Pengembangan dusung dapat dilakukan melalui beberapa aspek yaitu a.l.: (1) Aspek Ekonomi: Dusung merupakan sumber pendapatan yang potensial bagi ekonomi keluarga, (2) Aspek Lingkungan: Lingkungan dusung memiliki banyak keunggulan dibandingkan dengan sistem penggunaan lain, khususnya sistem monokultur; dan (3) Aspek Manajemen: dapat dilakukan melalui (a) Manajemen Produksi yang meliputi penanaman/ permudaan tanaman, pemeliharaan dan pemanenan, (b) Manajemen Pemasaran, yang meliputi pengaturan hasil panen dan pemasaran hasil, serta (c) Manajemen Penanganan / Pengolahan Pasca Panen <em>(Sumber: G. Mardiatmoko, Th.M. Silaya, A.Kastanya, M.Tjoa dan I. Bone - </em><em>Fakultas Pertanian, Universitas Pattimura).</em></p>
+</div></p>
+
+<hr>
+
+<h2><a id="ling">Lingkungan</a></h2>
+<p><div class="readmore"><p style="text-align: justify;">
+	<strong>Kualitas Perairan</strong></p>
+<p style="margin-left: 0.25in; text-align: justify;">
+	Pulau Nusalaut merupakan pulau kecil yang berada jauh dari bagian selatan Pulau Ambon. Kondisi perairan pada umumnya memiliki arus dan gelombang yang cukup besar, oleh karena itu sirkulasi air di wilayah ini dikatakan cepat. Hasil pengukuran pada daerah perairan Pulau Nusalaut memiliki suhu permukaan laut sebesar 30,3 &deg;C dengan derajat keasaman (pH) berada pada nilai 8,3 dan salinitas berada pada 32&permil;. Selanjutnya Kemeterian Kelautan dan Perikanan mengukur oksigen terlarut (DO) yang berada di daerah ini benilai 6,4 mg/L. Menurut Mulyanto (1992) suhu yang baik untuk kehidupan ikan di daerah tropis berkisar antara 25 &ndash; 32 &deg;C. dengan demikian suhu masih baik untuk kehidupan ikan. Kadar oksigen terlarut yang memiliki nilai lebih dari &gt; 5.0 mg/L dapat mempengaruhi pertumbuhan biota akuatik dengan baik (Effendi 2003). Menurut KMNLH (2004) salinitas, oksigen terlarut, dan pH masih dalam keadaan normal dan dapat dimanfaatkan sebagai budidaya ikan (biota laut).</p>
+<p style="margin-left: 0.25in; text-align: justify;">
+	Bahan organik yang dikandung oleh suatu perairan merupakan parameter kesuburan perairan tersebut. Bahan organik yakni Nitrat dan ammonia yang ada di daerah ini memiliki nilai 0,012 mg/L dan 0,161 mg/L, sedangkan untuk silikat dan orto fosfat memiliki nilai 0,268 mg/L dan 0,008 mg/L. Menurut Mulyanto (1992) perairan di daerah Nusalaut&nbsp; ditemukan kandungan nitrat yang kurang dari &lt; 0.226 mg/L, ini berarti kesuburan perairan kurang sehingga kelimpahan fitoplankton yang ditemukan tidak tinggi. Silikat, ortofosfat, dan ammonia masih dalam keadaan normal dan dapat dimanfaatkan oleh biota laut (KMNLH 2004). Komponen kimia ini akan berada relatif lama dalam ekosistem perairan pesisir dapat terakumulasi dalam biota laut (tumbuhan maupun hewan), kemudian mengalami proses biotransformasi melalui sistem jaringan makanan, dan proses biomagnifikasi di mana kadarnya dalam tubuh biota tersebut akan meningkat. Perairan Pulau Nusalaut dikategorikan normal dalam standar baku mutu biota laut. Kondisi ini merupakan lokasi ideal bagi sebaran ekosistem terumbu karang, ekosistem lamun, dan ikan terumbu.</p>
+<p style="text-align: justify;">
+	<strong>Kerentanan Bencana dan Upaya Mitigasi</strong></p>
+<p style="margin-left: 0.25in; text-align: justify;">
+	Sebagai pulau yang jauh dari pemanfaatan ekstraktif, Pulau Nusalaut masih terlihat dalam kondisi yang alami dan tidak terlihat adanya ancaman kerusakan terhadap pantai oleh manusia, tetapi ancaman yang ada adalah dari bencana alam. Pulau Nusalaut masuk ke dalam kategori rawan bencana tsunami, dan berdasarkan informasi yang ada pulau ini pernah dihantam tsunami.</p>
+<p style="text-align: justify;">
+	Berdasarkan pengalaman tersebut, masyarakat kapasiatas adaptasi yang baik, dimana mereka melakukan mitigasi bencana dengan membuat jalur evakuasi dan membangun tangkis laut di sepanjang pantai yang berpasir dan pantai-pantai yang berada di daerah pemukiman. Jalur evakuasi yang dibuat atas inisiasi badan nasional penanggulangan bencana (BNPB) bertujuan untuk mengarahkan masyarakat yang berada di sekitar pantai agar menuju ke tempat yang lebih tinggi dan aman (Gambar), sedangkan tangkis laut dibangun bukan hanya mitgasi bencana tsunami, tetapi juga untuk mengantisipasi adanya abrasi pantai, walaupun saat ini kondisi pantainya masih dalam kondisi stabil. Kegiatan pembangunan tangkis laut ini biasanya dilakukan atas dasar inisiatif masyarakat dan dikerjakan secara gotong royong</p>
+<p style="text-align: justify;">
+	<strong>Permasalahan Lingkungan</strong></p>
+<p style="margin-left: 22.5pt; text-align: justify;">
+	Permasalahan yang&nbsp; terjadi di Pulau Kemujan antara lain:</p>
+<ul>
+	<li style="text-align: justify;">
+		Faktor alam di Pulau Kemujan yang letaknya berada di Kepulauan Karimunjawa seperti
+		<ul>
+			<li>
+				Angin kencang</li>
+			<li>
+				Hujan lebat,</li>
+			<li>
+				Ombak musim barat.</li>
+		</ul>
+	</li>
+</ul>
+<p style="margin-left: 40.5pt; text-align: justify;">
+	mengakibatkan pengembangan Pulau Nusalaut baik untuk pariwisata maupun perdagangan potensi perikanan menjadi terhambat.</p>
+<ul>
+	<li style="text-align: justify;">
+		Minimnya fasilitas penerangan terutama pengadaan listrik yang durasinya tidak memenuhi standar untuk menyala 24 jam, hal ini mengakibatkan khususnya di bidang pariwisata tidak dapat berkembang</li>
+	<li style="text-align: justify;">
+		Minimnya fasilitas kesehatan dan sulitnya transportasi menyebabkan pelayanan kesehatan sulit terjangkau.</li>
+	<li style="text-align: justify;">
+		Minimnya sarana perdagangan mengakibatkan perkembangan aktivitas ekonomi masyarakat masih kurang.</li>
+	<li style="text-align: justify;">
+		Kualitas SDM yang masih rendah dalam pemanfaatan potensi perikanan maupun pariwisata</li>
+	<li style="text-align: justify;">
+		Tingginya masalah dalam pemanfaatan potensi perikanan</li>
+</ul>
+</div></p>
+
+<hr>
+
+<h2><a id="sp">Sarana dan Prasarana</a></h2>
+<p><div class="readmore"><p style="text-align: justify;">
+	<strong>Sarana dan Prasarana</strong></p>
+<p style="text-align: justify;">
+	<strong>a. Sarana Transportasi</strong></p>
+<p style="margin-left: 0.25in; text-align: justify;">
+	Transportasi antar desa/negeri di pulau Nusalaut seluruhnya menggunakan sarana transportasi darat yakni kendaraan roda dua (ojek) kecuali untuk hari-hari tertentu ada juga sarana transportasi laut yang digunakan misalnya pada hari Selasa dan Rabu. Transportasi laut ini hanya digunakan oleh penduduk ketika ada penduduk yang dating atau keluar dari Pulau Nusalaut dengan menggunakan kapal ferry yang melayani angkutan Ambon dan Masohi satu minggu satu kali. Sedangkan untuk melakukan perjalanan keluar Pulau Nusalaut atau dating ke Pulau Nusalaut, sarana transportasi yang digunakan adalah sarana transportasi laut. Untuk perjalanan ke Ambon dapat dilakukan dengan menggunakan kapal ferry dan untuk Desa/Negeri Titawaai dan Abubu ada juga motor temple dan <em>speed boat</em>. Untuk perjalanan ke Masohi Pulau Seram hanya tersedia kapal ferry yang melakukan pelayaran seminggu sekali. Sedangkan untuk perjalanan ke Pulau Saparua menggunakan angkutan laut berupa motor temple yang ada pada hari hari Rabu dan Sabtu setiap minggunya.</p>
+<p style="margin-left: 0.25in; text-align: justify;">
+	Desa/Negeri Ameth tidak membutuhkan alat transportasi ke ibukota kecamatan Nusalaut di Pulau Nusalaut karena letak ibukota kecamatan berada di Negeri Ameth. Untuk angkutan laut yang digunakan selain dimanfaatkan mengangkut penumpang kapal ferry yang dating atau pergi, khusus untuk Desa/Negeri Titawaai penggunaan angkutan laut sangat murah jika dibandingkan dengan menggunakan jasa ojek,</p>
+<p style="margin-left: 0.25in; text-align: justify;">
+	jumlah sarana transportasi yang ada baik sarana transportasi darat maupun transportasi laut seluruhnya berjumlah 69 buah dengan perincian sepeda motor sebanyak 51 unit sedangkan sisanya 18 unit merupakan sarana transportasi laut. Kepemilikan alat angkutan darat yang sangat dominan tersebut, selain karena sudah tersedianya prasarana jalan darat juga disebabkan karena biaya yang diperlukan untuk mendapatkan sebuah sepeda motor tergolong murah dan ditambah dengan kemudahan untuk memperoleh jika dibandingkan dengan alat angkutan laut. Untuk sarana transportasi laut, terdapat satu desa/negeri yang sama sekali tidak memiliki angkutan tersebut yakni Desa/Negeri Akoon. Untuk melakukan perjalanan ke Ambon dan Masohi penduduk Pulau Nusalaut menggunakan kapal ferry sedangkan untuk perjalanan ke Pulau Saparua memanfaatkan motor temple yang ada di Desa/Negeri Ameth. Panjang jalan darat di Pulau Nusalaut Kecamatan Nusalaut (lingkar Nusalaut) adalah &plusmn; 24 Km yang sudah diaspal &plusmn; 21 Km sedangkan sisanya merupakan jalan tanah yang merupakan pembukaan jalan baru yang telah dikerjakan sejak tahun 2005 namun hingga kini belum dikerjakan pengaspalannya. Tabel berikut menunjukkan secara jelas konstruksi jalan lingkar Pulau Nusalaut.</p>
+<p style="margin-left: 0.25in; text-align: justify;">
+	Kondisi jalan aspal sebagian besarnya rusak baik ringan maupun berat sehingga jalan tersebut tidak dapat dilewati oleh kendaraan roda 4 dan hanya bisa digunakan oleh kendaraan roda 2. Panjang jalan lingkar Pulau Nusalaut &plusmn; 24 Km, sepanjang 20,20 Km telah diaspal sisanya merupakan jalan yang telah dibuka sejak lama. Sepanjang jalan tanah ini tidak bisa dilewati oleh jenis kendaraan apapun. Kondisi ini mengakibatkan perjalanan penduduk Desa/Negeri Titawaai untuk menuju pelabuhan ferry harus melakukan perjalanan panjang padahal jika melalui jalan tersebut tidak membutuhkan waktu lama. Untuk prasarana jembatan seluruhnya berjumlah 15 buah jembatan yangada disepanjang jalur jalan lingkar Pulau Nusalaut, dimana 3 buah diantaranya dalam keadaan rusak berat yang tentunya akan mengancam keselamatan pengendara yang melewati jalan tersebut.</p>
+<p style="text-align: justify;">
+	<strong>b. Sarana Air Bersih</strong></p>
+<p style="margin-left: 0.25in; text-align: justify;">
+	Penyediaan air bersih di Pulau Nusalaut mempunyai peranan yang sangat penting dalam meningkatkan kesehatan lingkungan atau penduduk, yakni mempunyai peranan dalam menurunkan angka penderita penyakit, khususnya yang berhubungan dengan air, dan berperan dalam meningkatkan standar atau taraf/kualitas hidup. Ketersedian air bersih di Pulau Nusalaut berasal dari air sumur dan mata air yang tersebar di pemukiman penduduk masing-masing Desa/Negeri. Apabila dilihat dari kondisi persebarannya, maka ketersediaan air tawar di pulau ini dapat dianggap cukup untuk menunjang kehidupan warga.</p>
+<p style="text-align: justify;">
+	<strong>c. Sarana Kesehatan </strong></p>
+<p style="margin-left: 0.25in; text-align: justify;">
+	Sarana keseluruhan jumlah prasarana kesehatan yang tersedia di Pulau Nusalaut berjumlah 7 buah yakni 1 rumah sakit, 1 puskesmas dan 5 buah puskesmas pembantu. Rumah sakit yang terletak di Negeri Titawaai hingga kini belum bisa dimanfaatkan oleh penduduk karena selain sarana lainnya belum tersedia juga disebabkan karena minimnya tenaga medis yang tersedia untuk mengelola rumah sakit tersebut.</p>
+<p style="margin-left: 0.25in; text-align: justify;">
+	Seluruh pelayanan kesehatan terpusat di puskesmas perawatan Ameth. Sedangkan pelayanan di puskesmas pembantu hanya untuk penanganan penyakit ringan seperti demam, influenza dan sebagainya. Posyandu di Pulau Nusalaut seluruhnya berjumlah 12 (dua belas) buah posyandu dengan perincian 3 (tiga) buah posyandu masing-masing di Desa/Negeri Titawaai dan Desa/Negeri Ameth, sedangkan desa/negeri lainnya masing-masing terdapat 1 (satu) posyandu.</p>
+<p style="margin-left: 0.25in; text-align: justify;">
+	Untuk tenaga medis yang tersedia di Pulau Nusalaut seluruhnya berjumlah 18 (delapan belas) orang dengan perincian 1 (satu) orang dokter PTT, 2 (dua) petugas gizi, 7 (tujuh) orang bidan dan 8 (delapan) orang perawat. Sebagian besar tenaga medis tersebut berada di puskesmas perawatan Ameth yakni sebanyak 15 (lima belas) orang sedangkan sisanya berada pada pustu-pustu yang ada dengan masing-masing pustu ditangani oleh 1(satu) orang bidan atau perawat. Tabel berikut ini akan memperjelas keadaan tenaga medis di Pulau Nusalaut. Selain tenaga medis di Pulau Nusalaut juga dijumpai dukun beranak di ssetiap desa/negeri 1 (satu) orang.</p>
+<p style="text-align: justify;">
+	<strong>d. Sarana Pendidikan</strong></p>
+<p style="margin-left: 0.25in; text-align: justify;">
+	jumlah bangunan sekolah (termasuk PAUD) sebanyak 23 (dua puluh tiga) sekolah, dimana penyebarannya untuk SD meliputi seluruh Desa/Negeri sebanyak 10 (sepuluh) bangunan. Jika dibandingkan dengan lembaga pendidikan SD yang berjumlah 11 (sebelas) lembaga pendidikan, maka terdapat 2 (dua) SD yang menggunakan 1 (satu) gedung sekolah yakni di Desa/Negeri Titawaai dimana SD Negeri 1 dan SD Negeri 2 menggunakan gedung yang sama secara bergantian pagi dan siang hari. Untuk gedung SMP/Sederajat terdapat 4 (empat) gedung yakni gedung SMPN 1 Nusalaut yang terletak di Desa/Negeri Titawaai, gedung SMP N 2 Nusalaut yang terletak di Desa/Negeri Ameth, dan 2 (dua) gedung sekolah satu atap yakni SATAP Negeri Nalahia dan SATAP Negeri Abubu. Kondisi gedung sekolah yang digunakan bagi proses belajar mengajar untuk semua jenjang pendidikan dalam kondisi baik/layak, hanya terdapat beberapa sekolah terutama SMP yang kondisinya perlu diperhatikan lebih lanjut, diperbaiki/direhab ulang, pendidikan di Pulau Nusalaut.Kedua jumlah murid kecuali untuk SMA yang mengalami penurunan, jenjang SD dan SMP/Sederajat justru mengalami peningkatan. Penurunan jumlah murid pada tingkat SMA disebabkan karena sebagian besar tamatan SMP terutama pada SMP Negeri 1 Nusalaut yang berlokasi di Desa/Negeri Titawaai melanjutkan pendidikannya pada SMA di luar Pulau Nusalaut yaitu Pulau Saparua, Pulau Seram dan Kota Ambon.</p>
+<p style="text-align: justify;">
+	<strong>e. Sarana Peribadatan</strong></p>
+<p style="margin-left: 0.25in; text-align: justify;">
+	Penduduk Pulau Nusalaut mayoritas beragama Kristen, baik <a href="http://id.wikipedia.org/wiki/Kristen_Protestan" title="Kristen Protestan">Kristen Protestan</a> dan <a href="http://id.wikipedia.org/wiki/Katolik" title="Katolik">Katolik</a>. &nbsp;Penyebaran Kristen tersebar akibat pengaruh penjajahan <a href="http://id.wikipedia.org/wiki/Portugis" title="Portugis">Portugis</a>, <a href="http://id.wikipedia.org/wiki/Spanyol" title="Spanyol">Spanyol</a>, dan <a href="http://id.wikipedia.org/wiki/Belanda" title="Belanda">Belanda</a> yang mengunjungi Pulau Nusalaut. <a href="http://id.wikipedia.org/wiki/Gereja_Protestan_Maluku" title="Gereja Protestan Maluku">Gereja Protestan Maluku</a> atau biasa dikenal sebagai GPM merupakan organisasi sinode dan pertubuhan gereja terbesar yang ada di Maluku, yang memiliki jemaat gereja di hampir seluruh desa/negeri di seluruh Pulau Nusalaut.</p>
+<p style="text-align: justify;">
+	<strong>f. Sarana Penerangan/Listrik</strong></p>
+<p style="margin-left: 0.25in; text-align: justify;">
+	Pulau Nusalaut telah memperoleh distribusi jaringan listrik dengan tersedianya kantor PLN Nusalaut yang mengaliri hampir seluruh desa/negeri. Waktu pelayanan kepada penduduk selama 18 (delapan belas) jam yaitu dari jam 18.00 WIT sampai jam 12.00 WIT. Hal ini di lakukan untuk menjawab tantangan dan kebutuhan penduduk sekaligus mendorong pemerintah daerah untuk meningkatkan aset-aset wisata yang ada di Pulau Nusalaut. Selain itu juga pelayanan selama 18 jam ini diupayakan untuk lebih meningkatkan mutu pendidikan bagi siswa-siswi melalui penggunaan internet maupun komputer di sekolah serta pelayanan pemerintahan di Nusa laut.</p>
+<p style="margin-left: 0.25in; text-align: justify;">
+	Pada tahun 2014 akan di gunakan listrik tenaga surya bagi beberapa desa/negeri yang sulit di jangkau di kecamatan Nusa Laut. Penggunaan listrik tenaga surya sebagai upaya untuk mempemudah tingkat kebutuhan penduduk dan sekaligus memberikan keringanan terhadap kesejahteraan masyarakat di bidang kelistrikan.</p>
+<p style="text-align: justify;">
+	<strong>g. Sarana Komunikasi</strong></p>
+<p style="margin-left: 0.25in; text-align: justify;">
+	Sarana komunikasi yang terdapat di Pulau Nusalaut adalah telepon genggam.Masyarakat dapat menggunakan telepon genggam untuk berkomunikasi dengan masyarakat lainnya di luar pulau.Akan tetapi penerimaan sinyal telepon hanya bagus dibeberapa lokasi saja dan menggunakan bantuan antenna luar untuk memperoleh sinyal kuat.Selain itu hanya 1 (satu) operator saja yaitu telkomsel yang dapat digunakan untuk berkomunikasi.</p>
+<p style="text-align: justify;">
+	<strong>h. Sarana Pendukung Lainnya</strong></p>
+<p style="margin-left: 0.25in; text-align: justify;">
+	Penyelenggaraan pemerintahan Kecamatan Nusalaut di Pulau Nusalaut berpusat pada kantor Kecamatan Nusalaut, yang didukung oleh beberapa UPTD yang ada sesuai dengan kebutuhannya yakni UPTD Perhubungan, UPTD Pendidikan Pemuda dan Olah raga, UPTD Pendapatan Daerah, UPTD Pertanian dan Perkebunan serta UPTB Pemberdayaan Perempuan dan Keluarga Bencana. Dari UPTD dan UPTB yang ada di Kecamatan Nusalaut seluruhnya belum memiliki bangunan kantor dan masih memanfaatkan rumah sebagai kegiatannya, kecuali untuk UPTD Pendidikan Pemuda dan Olah raga yang sudah menggunakan kantor sendiri walaupun menggunakan bekas Kantor Camat Nusalaut. Jumlah pegawai pada Kantor Kecamatan Nusalaut adalah sebanyak 11 orang pegawai termasuk 2 Sekretaris Desa/Negeri. Untuk bidang pelayanan ketertiban dilaksanakan oleh Kepolisian Sektor Nusalaut yang mempunyai kantor di Desa/Negeri Nalahia dengan jumlah anggota sebanyak 18 orang termasuk Kapolsek Nusalaut. Selain itu terdapat juga Komando Rayon Militer 1504-08 Nusalaut yang berpusat di Desa/Negeri Ameth dengan jumlah anggota sebanyak 8 orang termasuk Komandan Koramil. Untuk penyelenggaraan pemerintahan desa/negeri sebanyak 5 desa/negeri yang mempunyai Kantor Pemerintahan Desa/Negeri, kecuali Desa/Negeri Titawaai dan Desa/Negeri Nalahia yang belum memiliki Kantor Pemerintahan Desa/Negeri. Berbagai urusan penduduk dari kedua desa/negeri tersebut masih menggunakan rumah kepala pemerintahan atau sekretaris negeri dalam memberikan pelayanannya. Seluruh desa/negeri mempunyai Baileuw sebagai tempat musyawarah atau wadah demokrasi local yang berlaku di Pulau Nusalaut.</p>
+<p style="margin-left: 0.25in; text-align: justify;">
+	Selain itu, di Pulau Nusalaut terdapat tempat pemakaman umum dimasing-masing desa/negeri yang terletak pada lahan yang sudah disediakan secara turun temurun oleh leluhur setiap desa/negeri, untuk tempat berkumpul dan aktifitas olah raga Pulau Nusalaut memiliki lapangan sepakbola dan lapangan volley. Guna memperoleh informasi penduduk Pulau Nusalaut mempergunakan antena parabola untuk menangkap siaran televisi.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="pi">Peluang Investasi</a></h2>
+<p><div class="readmore"><p style="text-align: justify;">
+	<strong>Peluang Investasi</strong></p>
+<p style="margin-left: 0.25in; text-align: justify;">
+	Pulau Nusalaut menyimpan beberapa peluang investasi yang dapat dikembangkan. Peluang investasi yang dapat dikembangkan diantaranya perikanan skala kecil dan sedang, perikanan budidaya baik itu budidaya kerapu dengan keramba jaring apung ataupun budidaya rumput laut, pariwisata bahari dan usaha penginapan yang tentu menjadi pendongkrak peningkatan jumlah wisatawan ke Pulau Nusalaut.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="pap">Potensi dan Arahan Pengembangan</a></h2>
+<p><div class="readmore"><p style="text-align: justify;">
+	<strong>Potensi Pengembangan</strong></p>
+<p style="margin-left: 0.25in; text-align: justify;">
+	Potensi energi baru terbarukan dan ketenagalistrikan cukup menjanjikan untuk peluang investasi. Selain itu juga potensi panas bumi (<em>Geothermal</em>) lainnya ditemukan di Pulau Nusalaut yang terdapat sumber mata air panas pada beberapa titik. Sumber mata air panas terdapat di tepi pantai Desa/Negeri Nalahia dengan beberapa titik sumber air panas. Pohon durian sudah ada sejak dahulu dalam lahan-lahan milik penduduk Pulau Nusalaut dan tumbuh dengan sendirinya, saat ini sudah diusahakan untuk dikembangbiakkan. Perlu diketahui pohon durian di Pulau Nusalaut pembudidayaannya memang berbeda dengan daerah lain di nusantara. Kalau di daerah lain biasanya pohon durian ditanam secara perkebunan sehingga pohonnya juga tidak terlalu besar jadi pas waktu panen bisa dipetik. Di Pulau Nusalaut biasanya pohon durian ditanam dihutan, dan ukuran pohonnya sangat besar sehingga saat panen pohon tidak bisa dipanjat. Dan biasanya ketika sudah musim buah durian tiba penduduk sering menunggu hingga buah durian jatuh sendiri baru bisa dibawa pulang, waktu musim buah durian bisa menjadi waktu yang tepat bagi wisatawan sambil menikmati wisata bahari dan suguhan buah durian hasil perkebunan Pulau Nusalaut.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="kp">Kendala Pengembangan</a></h2>
+<p><div class="readmore"><p style="text-align: justify;">
+	<strong>Kendala Pengembangan Pulau</strong></p>
+<p style="margin-left: 0.25in; text-align: justify;">
+	Kendala umum yang dihadapi dalam pengembangan investasi di Pulau Nusalaut antara lain :</p>
+<ol style="list-style-type:lower-alpha;">
+	<li style="text-align: justify;">
+		Masih terbatasnya sarana perikanan dan kelautan</li>
+</ol>
+<p style="margin-left: 35.45pt; text-align: justify;">
+	Sampai saat ini, di Pulau Nusalaut belum tersedia sarana pendukung untuk kegiatan perikanan seperti tempat pelelangan ikan, pasar ikan, dan pabrik es. Masyarakat memiliki keterbatasan dalam memanfaatkan sumberdaya perikanan seperti sarana penangkapan dan pengawetan ikan hasil tangkapan.</p>
+<ol style="list-style-type:lower-alpha;">
+	<li style="text-align: justify;" value="2">
+		Masih terbatasnya peralatan teknologi penangkapan ikan</li>
+	<li style="text-align: justify;" value="3">
+		Hal yang tak kalah penting untuk dipikirkan adalah ketersediaan infrastruktur. Ketersediaan air tawar, sinyal telepon seluler, listrik, konektivitas antar pulau berupa kapal, serta infrastruktur minimal seperti pelabuhan penunjang pulau kecil adalah kendala bagi pihak yang ingin berinvestasi.</li>
+</ol>
+<p>
+	&nbsp;</p>
+</div></p>
+
+<hr>
+
+<h2><a id="rf">Referensi</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<br />
+	<i> 
+		<p style="font-size:12px;">
+			Karena keterbatasan SDM dalam penginputan dan pengolahan data, kami mohon maaf atas ketidak lengkapan beberapa data pulau yang kami tampilkan, harap dimaklumi.
+			Berikan keritik dan saran pada kolom komentar agar kita dapat bersama menyajikan sebuah data yang cukup sempurna untuk halayak ramai yang berguna
+			demi kesejahterahan, kelestarian dan keindahan pulau-pulau kecil yang dimiliki Indonesia.<br />
+			*Jika sekiranya anda memiliki data yang cukup banyak, silakan mengirimkan file melalui email kami di <b><a>identifikasippk@gmail.com</a></b>
+			
+		</p>
+	</i>
+<br />
+
+<div id="fb_comn" class="fb-comments" data-href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_info/8950" data-width="800" data-numposts="5" data-colorscheme="light"></div>
+
+
+</div>
+</div>
+</div>
+<div id="wrapper">
+
+<div class="footer"><p>
+<!--<marquee onmouseover="this.stop()" onmouseout="this.start()" scrollamount="5" direction="right" width="798" height="14"  behavior="scroll">-->
+<a href="http://www.ppk-kp3k.kkp.go.id/" target="_blank">Direktorat Pendayagunaan Pulau-Pulau Kecil &nbsp; | &nbsp;</a>
+<a href="http://www.kp3k.kkp.go.id/" target="_blank">Ditjen Kelautan, Pesisir dan Pulau-Pulau Kecil &nbsp; | &nbsp;</a>
+<a href="http://www.kkp.go.id/" target="_blank">Kementerian Kelautan dan Perikanan</a>
+<!--</marquee>--> <br />
+Jl. Medan Merdeka Timur No. 16 Gedung Mina Bahari 3 Lantai 10, Jakarta, Indonesia <br />
+Email : identifikasippk@gmail.com <br />
+Telp &amp; Fax: (021) 3522058 <br />
+&copy; Copyright Direktorat Pendayagunaan Pulau-Pulau Kecil 2012&nbsp; <br /></p>
+</div>
+</div>
+</body>
+</html>

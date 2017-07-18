@@ -1,0 +1,498 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Pulau Mansuar</title>
+
+<meta charset="utf-8"/>
+
+<meta property="fb:app_id" content="559408774147878" />
+
+
+<meta property="og:title" content="Pulau Mansuar" />
+<meta property="og:url" content="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_info/12411" />
+
+
+    <script type="text/javascript" src="http://ajax.microsoft.com/ajax/jquery/jquery-1.4.4.min.js">
+    </script>
+    
+    <script type="text/javascript" src="http://plugins.learningjquery.com/expander/jquery.expander.js">
+    </script>
+    
+    <script type="text/javascript">
+        $(function () {
+            $('div.readmore').expander({
+                slicePoint:200,
+                expandText: '(Baca selengkapnya)',
+                userCollapseText: '(Sembunyikan selengkapnya)'
+            });
+        });
+    </script>
+        
+	<script src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/galleria/galleria-1.2.8.min.js"></script>
+
+        <SCRIPT TYPE="text/javascript">
+            <!--
+            //Disable right click script
+            //visit http://www.rainbow.arch.scriptmania.com/scripts/
+            var message="Sorry, right-click has been disabled";
+            ///////////////////////////////////
+            function clickIE() {if (document.all) {(message);return false;}}
+            function clickNS(e) {if
+            (document.layers||(document.getElementById&&!document.all)) {
+            if (e.which==2||e.which==3) {(message);return false;}}}
+            if (document.layers)
+            {document.captureEvents(Event.MOUSEDOWN);document.onmousedown=clickNS;}
+            else{document.onmouseup=clickNS;document.oncontextmenu=clickIE;}
+            document.oncontextmenu=new Function("return false")
+            // -->
+            </SCRIPT>
+            
+            <SCRIPT TYPE="text/javascript">
+            <!--
+            //Disable select-text script (IE4+, NS6+)
+            //visit http://www.rainbow.arch.scriptmania.com/scripts/
+            ///////////////////////////////////
+            function disableselect(e){
+            return false
+            }
+            function reEnable(){
+            return true
+            }
+            //if IE4+
+            document.onselectstart=new Function ("return false")
+            //if NS6
+            if (window.sidebar){
+            document.onmousedown=disableselect
+            document.onclick=reEnable
+            }
+            // -->
+            </SCRIPT>  
+              
+<link rel="stylesheet" type="text/css" href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/css/main.css" media="screen"/>
+<style type='text/css'>
+#info_wrap{
+	width:820px;
+	margin:0 auto;
+	text-shadow:0px 1px 1px #09F;
+}
+table{
+	color:#000000;
+}
+h1{
+	color:#000000;
+}
+.tengahin{
+	width: 105px;
+	height: 30px;
+	margin: 0 auto auto auto;
+}
+#box_view{
+	background-image:-webkit-gradient(linear, 0 0%, 0 100%, from(#FFFFFF), to(#E0F0F5));
+	background:#FFF;
+	color:#F60;
+	border: 1px solid #fff;
+	border-radius: 4px 4px 4px 4px;
+	box-shadow: 0 8px 6px -6px black;
+	position:fixed;
+	right:0;
+	top:150px;;
+	width:80px;
+	z-index:10;
+	padding-left:12px;
+	font-size:10px;
+	}
+#box_view li{
+	color:#F60;
+	margin-left:-30px;
+	}
+	#wrapper a b {
+	color: #FFF;
+	font-size:14px;
+}
+.batas{
+	float:left;
+	border-right-style:inset;
+	border-right-width:thin;
+	}
+.text_h_wrap{
+	
+	padding-left:450px;
+	padding-top:39px;
+	text-shadow:0px 1px 1px #09F;
+	}
+#wrapper .footer p{
+	font-size:12px;
+	color: #FFF;
+	text-align:center;
+	text-shadow:0px 1px 1px #09F;
+}
+td,th {
+	font-size: 12px;
+}
+
+marquee a{
+	color:#FFF
+	}
+#wrapper .footer a{
+	color: #FFFFFF;
+}
+</style>
+            
+<script>
+function goBack()
+  {
+  window.history.back()
+  }
+</script>
+<script type="text/javascript">
+function Popup( url, height, width )
+{
+    var windowProperties = "toolbar = 0, scrollbars = 1, location = 0, statusbar = 0, menubar = 0, resizable = 1, width = " + width + ", height = " + height + ", left = 50, top = 50";
+ 
+    return window.open( url, "", windowProperties );
+}
+</script>
+
+
+
+</head>
+<body oncontextmenu='return false;' onkeydown='return false;' onmousedown='return false;'>
+
+<a id="top_view"></a>
+<div id="wrapper">
+<div class="header_wrap">
+<div class="text_h_wrap">
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/home_page'><b>&nbsp;Home&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/menu_info/1'><b>&nbsp;About Us&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_data'><b>&nbsp;Direktori Pulau&nbsp;&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/program_ip'><b>&nbsp;IKU&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/data_ppkt'><b>&nbsp;PPKT&nbsp;</b></a>
+</div>
+<!--<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/maintenance'><b>&nbsp;Login&nbsp;</b></a>-->
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/dir_log_cont'><b>&nbsp;Login&nbsp;</b></a>
+
+</div>
+</div>
+</div>
+
+<div id="fb-root"></div>
+<script>
+  window.fbAsyncInit = function() {
+    // init the FB JS SDK
+    FB.init({
+      appId      : '559408774147878',                        // App ID from the app dashboard
+      status     : true,                                 // Check Facebook Login status
+      xfbml      : true                                  // Look for social plugins on the page
+    });
+
+    // Additional initialization code such as adding Event Listeners goes here
+  };
+
+  // Load the SDK asynchronously
+  (function(){
+     // If we've already installed the SDK, we're done
+     if (document.getElementById('facebook-jssdk')) {return;}
+
+     // Get the first script element, which we'll use to find the parent node
+     var firstScriptElement = document.getElementsByTagName('script')[0];
+
+     // Create a new script element and set its id
+     var facebookJS = document.createElement('script'); 
+     facebookJS.id = 'facebook-jssdk';
+
+     // Set the new script's source to the source of the Facebook JS SDK
+     facebookJS.src = '//connect.facebook.net/en_US/all.js';
+
+     // Insert the Facebook JS SDK into the DOM
+     firstScriptElement.parentNode.insertBefore(facebookJS, firstScriptElement);
+   }());
+</script>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=559408774147878";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="box_view">
+    <a href="#top_view">MENU</a>
+    <h3><p>Lihat Informasi:</p></h3>
+    <ul>
+	<a href="#sf"><li>Slide Foto</li></a>
+    <a href="#gu"><li>Gambaran Umum</li></a>
+    <a href="#ksbk"><li>Kependudukan, Sosial Budaya dan Kelembagaan</li></a>
+    <a href="#eshp"><li>Ekosistem dan Sumberdaya Hayati</li></a>
+    <a href="#snh"><li>Sumberdaya Non Hayati</li></a>
+    <a href="#aps"><li>Aktivitas Pengelolaan Sumberdaya</li></a>
+    <a href="#ling"><li>Lingkungan</li></a>
+    <a href="#sp"><li>Sarana dan Prasarana</li></a>
+    <a href="#pi"><li>Peluang Investasi</li></a>
+    <a href="#pap"><li>Potensi Arahan Pengembangan</li></a>
+    <a href="#kp"><li>Kendala Pengembangan</li></a>
+	<a href="#rf"><li>Referensi</li></a>
+    </ul>
+    <a href="#fb_comn">KOMENTAR</a>
+</div>
+
+<br>
+			<a id="sf"></a></h2>
+			<div id="galleria">
+            <!--<div class='tengahin'><input type="button" value="Kembali Ke List" onclick="goBack()"></div>-->
+                            </div>
+            
+            <script>
+            Galleria.loadTheme('http://www.ppk-kp3k.kkp.go.id/direktori-pulau/galleria/themes/classic/galleria.classic.min.js');
+            Galleria.run('#galleria');
+            </script>
+</div>
+
+<div id="text_warp">
+
+
+<p><h1>Mansuar</h1></p>
+<table>
+<tr>
+	<td>Nama Lain</td> <td>:</td> <td></td>
+</tr>
+<tr>
+	<td>Propinsi</td> <td>:</td> <td>PAPUA BARAT</td>
+</tr>
+<tr>
+	<td>Kabupaten</td> <td>:</td> <td>KABUPATEN RAJA AMPAT</td>
+</tr>
+<tr>
+	<td>Kecamatan</td> <td>:</td> <td></td>
+</tr>
+<tr>
+	<td>Koordinat</td> <td>:</td> <td><a href="http://www.ppk-kp3k.kkp.go.id/giskkp/index.html?extent="target="_blank">0° 35' 9.268</a></td>
+</tr>
+</table>
+<hr>
+
+<h2><a id="gu">Gambaran Umum</a></h2>
+<p><div class="readmore"><p>
+	<strong>Gambaran Umum</strong></p>
+<p>
+	Pulau Mansuar secara administratif termasuk kedalam wilayah Distrik/Kecamatan Meos Mansar, Kabupaten Raja Ampat, Provinsi Papua Barat. Batas-batas Pulau Mansuar sebagai berikut:</p>
+<ul>
+	<li>
+		Sebelah Utara&nbsp;&nbsp; &nbsp; &nbsp; : Kecamatan Waigeo Selatan</li>
+	<li>
+		Sebelah Timur&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :&nbsp; Kecamatan Waigeo Selatan</li>
+	<li>
+		Sebelah selatan&nbsp;&nbsp; : Kecamatan Selat Sagawin</li>
+	<li>
+		Sebelah Barat&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : Kecamatan Waigeo Barat</li>
+</ul>
+<p>
+	<strong>Aksesibilitas</strong></p>
+<p>
+	Pulau ini dapat ditempuh dari Pelabuhan Waisai dengan waktu tempuh kurang lebih 2 jam perjalanan dengan menggunakan alat transportasi perahu motor (mesin 15 PK), sedangkan jika menggunakan speed boat (mesin 40 PK) dapat ditempuh sekitar 45 menit.</p>
+<p>
+	&nbsp;</p>
+<p>
+	&nbsp;</p>
+</div></p>
+
+<hr>
+
+<h2><a id="ksbk">Kependudukan, Sosial Budaya dan Kelembagaan</a></h2>
+<p><div class="readmore"><p>
+	<strong>Kependudukan Sosial Budaya dan Kelembagaan</strong></p>
+<p>
+	Pulau Mansuar yang terdiri dari atas empat dasar (Yenbekwan, Yenbuba, Kurkapa dan Sauandarex) memiliki jumlah penduduk pada tahun 2009M sebanyak 889 jiwa. Penduduk Pulau Mansuar berdasarkan hasil wawancara sebagai besar berpendidikan tamat Sekolah Dasar (SD). Rendahnya tingkat pendidikan iniakan berpengaruh pada kehidupan sosial ekonomi mereka. Mata Pencaharian di pulau ini adalah nelayan dan pengolah hasil perikanan, sedangkan mata pencaharian lainnya adalah bidang pertanian. Agama yang dianut di pulau ini adalah sebagian besar adalah agama Kristen Protestan.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="eshp">Ekosistem dan Sumberdaya Hayati</a></h2>
+<p><div class="readmore"><p>
+	<strong>Ekosistem Yang Ada Di Pulau Mansuar:</strong></p>
+<p>
+	a, Vegetasi</p>
+<p>
+	Lahan yang ada di pulau ini sangat cocok ditanami berbagai jenis tanaman pangan (antara lain kelapa , kakao, jagung, ubi kayu, pisang dan ubi jalar).</p>
+<p>
+	b. Mangrove</p>
+<p>
+	Vegetasi mangrove di Pulau Mansuar hanya tumbuh disisi Utara pulau. Berdasarkan hasil analisis indeks keanekaragaman jenis mangrove yang diperoleh selama penilitian menunjukan bahwa hutan mangrove di Pulau Mansuar tergolong dalam kategori keanekaragaman jenis sedang dan komunitas sedang.</p>
+<p>
+	c. Lamun</p>
+<p>
+	Jenis lamun yang tedapat di Pulau Mansuar adalah jenis Cymodocea sp. dan Halophila sp. Berdasarkan hasil pengamatan di lapangan hanya menemukan 2 jenis lamun, maka dikatakan rataan terumbu pantai Pulau Mansuar bertipe vegetasi homogen.</p>
+<p>
+	d. Terumbu Karang</p>
+<p>
+	Terumbu karang yang terdapat di Pulau Mansuar adalah jenis &quot;Fringing reefs&quot; (karang tepi). Pada kedalaman lebih dari 18 meter keberadaan terumbu karang sudah sanagt berkurang dibnadingkan dengan kedalaman diatasnya.</p>
+<p>
+	e. Ikan Karang</p>
+<p>
+	Pulau Mansuar memiliki kekayaan ikan yang tinggi, terutama jenis ikan ekonomis sangat banyak terdapat di ekosistem terumbu karang.Selain ikan karang, juga ditemukan ikan hias di Pulau Mansuar.</p>
+<p>
+	f, Plankton</p>
+<p>
+	Hasil identifikasi dan perhitungan jumlah plankton yang ada di perairan Pulau Mansuar dapat dikategorikan&nbsp; keanekaragamannya kecil dan kestabilan komunitas rendah.</p>
+<p>
+	&nbsp;</p>
+</div></p>
+
+<hr>
+
+<h2><a id="snh">Sumberdaya Non Hayati</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<h2><a id="aps">Aktivitas Pengelolaan Sumberdaya</a></h2>
+<p><div class="readmore"><p>
+	<strong>Aktivitas Pengolahan Sumberdaya Meliputi:</strong></p>
+<p>
+	1. Perikanan dan Kelautan</p>
+<p>
+	Kegiatan penangkapan ikan yang dilakukan oleh penduduk di pulau ini pada umumnya dengan alat tangkap pancing. Usaha budidaya yang sudah ada di pulau ini adalah budidya rumput laut dan keramba jaring apung.</p>
+<p>
+	2. Pengolahan hasil tangkapan</p>
+<p>
+	Penduduk pulau ini juga melakukan kegiatan pengolahan hasil perikanan berupa pembuatan ikan asin, namun usaha ini hanya berupa sambilan dan untuk memenuhi kebutuhan sendiri.</p>
+<p>
+	3. Pengolahan kelapa</p>
+<p>
+	Kegiatan lain yang dilakukan di Pulau Mansuar adalah pengolahan kelapa menjadi kopra dan minyak goreng.</p>
+<p>
+	4. Pemanfaatankarang dan kayu hutan</p>
+<p>
+	Pulau Mansuar juga memanfaatkan karang dan kayu hutan yang sudah mati untuk keperluan bahan bangunan dan kayu bakar.</p>
+<p>
+	&nbsp;</p>
+</div></p>
+
+<hr>
+
+<h2><a id="ling">Lingkungan</a></h2>
+<p><div class="readmore"><p>
+	Kondisi lingkungan di Pulau Mansuar ini dapat dikatakan cukup baik</p>
+</div></p>
+
+<hr>
+
+<h2><a id="sp">Sarana dan Prasarana</a></h2>
+<p><div class="readmore"><p>
+	<strong>Sarana Dan Prasarana Yang Ada Di Pulau Mansuar antara lain:</strong></p>
+<p>
+	1. Perhubungan</p>
+<p>
+	Tidak ada kapal yang khusus digunakakn untuk alat transportasi ke pulau ini, tetapi hanya menggunakan perahu nelayan atau menyewa speed boat.</p>
+<p>
+	2. Kesehatan</p>
+<p>
+	Sarana kesehatan yang ada di Pulau Mansuar dapat dikatakan tidak memadai karena sarana kesehatan yang berapa puskemas hanya terdapat di Desa Yenbekwan dan Yenbuba.</p>
+<p>
+	3. Penerangan</p>
+<p>
+	Untuk kepentingan penerangan, masyarakat pada umumnya menggunakan penerrangan genset dan tenaga surya. Listrik tersebut dioperasikan pada pukul</p>
+<p>
+	4. Pendidikan</p>
+<p>
+	Sarana pendidikan yang tersedia di Pulau Mansuar dapat dikatakan cukup memadai karena hampir masing - masing desa sudah tersedia gedung Sekolah Dasar (SD), kecuali Warga Desa Kurkapa tidak memiliki gedung SD. Bahkan di Desa Yenbekwen terdapat gedung SLTP dan gedung SLTA berarda di di Waisai (Ibukota Raja Ampat.&nbsp;</p>
+<p>
+	5. Sarana Keagamaan</p>
+<p>
+	Mayoritas penduduk Pulau Mansuar beragama kristen, pada masing - masing desa telah dilengkapi dengan gereja, kecuali di Desa Kurkapa tidak dapat gereja.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="pi">Peluang Investasi</a></h2>
+<p><div class="readmore"><p>
+	<strong>Peluang Investasi Pengembangan di Pulau Mansuar meliputi :</strong></p>
+<p>
+	1. Usaha penangkapan</p>
+<p>
+	2. Usaha budidaya perikanan (budidaya rumput laut dan keramba apung/tancap)</p>
+<p>
+	3. Usaha pengolahan hasil perikanan (ikan asin dan teripang asap)</p>
+<p>
+	4. Perkebunan kelapa (kopra dan minyak goreng) kakao</p>
+<p>
+	5. Ekowisata (mangrove dan bahari)</p>
+<p>
+	&nbsp;</p>
+</div></p>
+
+<hr>
+
+<h2><a id="pap">Potensi dan Arahan Pengembangan</a></h2>
+<p><div class="readmore"><p>
+	<strong>Pemanfaatan Potensi Sumberdaya Yang ada Di Pulau Mansuar yaitu:</strong></p>
+<p>
+	&nbsp;Perikanan dan Kelautan</p>
+<p>
+	Kegiatan penangkapan ikan yang dilakukan oleh penduduk di pulau ini pada umumnya dengan alat tangkap pancing. Usaha budidaya yang sudah ada di pulau ini adalah budidya rumput laut dan keramba jaring apung, karena di Pulau Mansuar berdasarkan pengamatan banyak ditemukan rumput laut yang masih alami. Pulau Mansuar yang merupakan bagian dari Kabupaten Raja Ampat memiliki terumbu karang dan keanekaragaman laut yang sangat kaya. Hal tersebut membuka peluang bagi berkembangnya usaha pariwisata, yaitu berusaha usaha penginapan/cottage dan penyewaan peralatan senam.</p>
+<p>
+	&nbsp;</p>
+</div></p>
+
+<hr>
+
+<h2><a id="kp">Kendala Pengembangan</a></h2>
+<p><div class="readmore"><p>
+	<strong>Kendala yang dihadapi dalam melakukan pengembangan di Pulau Mansuar antara lain:</strong></p>
+<p>
+	1. Kurangnya permodalan</p>
+<p>
+	2. Minimnya fasilitas penunjang (alat transportasi laut, pendidikan, kesehatan dan penerangan)</p>
+<p>
+	3. Adanya nelayan dari luar pulau yang menggunakan alat tangkap illegal (bom, potassium dan trawl)</p>
+</div></p>
+
+<hr>
+
+<h2><a id="rf">Referensi</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<br />
+	<i> 
+		<p style="font-size:12px;">
+			Karena keterbatasan SDM dalam penginputan dan pengolahan data, kami mohon maaf atas ketidak lengkapan beberapa data pulau yang kami tampilkan, harap dimaklumi.
+			Berikan keritik dan saran pada kolom komentar agar kita dapat bersama menyajikan sebuah data yang cukup sempurna untuk halayak ramai yang berguna
+			demi kesejahterahan, kelestarian dan keindahan pulau-pulau kecil yang dimiliki Indonesia.<br />
+			*Jika sekiranya anda memiliki data yang cukup banyak, silakan mengirimkan file melalui email kami di <b><a>identifikasippk@gmail.com</a></b>
+			
+		</p>
+	</i>
+<br />
+
+<div id="fb_comn" class="fb-comments" data-href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_info/12411" data-width="800" data-numposts="5" data-colorscheme="light"></div>
+
+
+</div>
+</div>
+</div>
+<div id="wrapper">
+
+<div class="footer"><p>
+<!--<marquee onmouseover="this.stop()" onmouseout="this.start()" scrollamount="5" direction="right" width="798" height="14"  behavior="scroll">-->
+<a href="http://www.ppk-kp3k.kkp.go.id/" target="_blank">Direktorat Pendayagunaan Pulau-Pulau Kecil &nbsp; | &nbsp;</a>
+<a href="http://www.kp3k.kkp.go.id/" target="_blank">Ditjen Kelautan, Pesisir dan Pulau-Pulau Kecil &nbsp; | &nbsp;</a>
+<a href="http://www.kkp.go.id/" target="_blank">Kementerian Kelautan dan Perikanan</a>
+<!--</marquee>--> <br />
+Jl. Medan Merdeka Timur No. 16 Gedung Mina Bahari 3 Lantai 10, Jakarta, Indonesia <br />
+Email : identifikasippk@gmail.com <br />
+Telp &amp; Fax: (021) 3522058 <br />
+&copy; Copyright Direktorat Pendayagunaan Pulau-Pulau Kecil 2012&nbsp; <br /></p>
+</div>
+</div>
+</body>
+</html>

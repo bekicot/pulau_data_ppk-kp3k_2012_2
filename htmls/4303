@@ -1,0 +1,934 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Pulau Menjangan Besar</title>
+
+<meta charset="utf-8"/>
+
+<meta property="fb:app_id" content="559408774147878" />
+
+
+<meta property="og:title" content="Pulau Menjangan Besar" />
+<meta property="og:url" content="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_info/4303" />
+
+
+    <script type="text/javascript" src="http://ajax.microsoft.com/ajax/jquery/jquery-1.4.4.min.js">
+    </script>
+    
+    <script type="text/javascript" src="http://plugins.learningjquery.com/expander/jquery.expander.js">
+    </script>
+    
+    <script type="text/javascript">
+        $(function () {
+            $('div.readmore').expander({
+                slicePoint:200,
+                expandText: '(Baca selengkapnya)',
+                userCollapseText: '(Sembunyikan selengkapnya)'
+            });
+        });
+    </script>
+        
+	<script src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/galleria/galleria-1.2.8.min.js"></script>
+
+        <SCRIPT TYPE="text/javascript">
+            <!--
+            //Disable right click script
+            //visit http://www.rainbow.arch.scriptmania.com/scripts/
+            var message="Sorry, right-click has been disabled";
+            ///////////////////////////////////
+            function clickIE() {if (document.all) {(message);return false;}}
+            function clickNS(e) {if
+            (document.layers||(document.getElementById&&!document.all)) {
+            if (e.which==2||e.which==3) {(message);return false;}}}
+            if (document.layers)
+            {document.captureEvents(Event.MOUSEDOWN);document.onmousedown=clickNS;}
+            else{document.onmouseup=clickNS;document.oncontextmenu=clickIE;}
+            document.oncontextmenu=new Function("return false")
+            // -->
+            </SCRIPT>
+            
+            <SCRIPT TYPE="text/javascript">
+            <!--
+            //Disable select-text script (IE4+, NS6+)
+            //visit http://www.rainbow.arch.scriptmania.com/scripts/
+            ///////////////////////////////////
+            function disableselect(e){
+            return false
+            }
+            function reEnable(){
+            return true
+            }
+            //if IE4+
+            document.onselectstart=new Function ("return false")
+            //if NS6
+            if (window.sidebar){
+            document.onmousedown=disableselect
+            document.onclick=reEnable
+            }
+            // -->
+            </SCRIPT>  
+              
+<link rel="stylesheet" type="text/css" href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/css/main.css" media="screen"/>
+<style type='text/css'>
+#info_wrap{
+	width:820px;
+	margin:0 auto;
+	text-shadow:0px 1px 1px #09F;
+}
+table{
+	color:#000000;
+}
+h1{
+	color:#000000;
+}
+.tengahin{
+	width: 105px;
+	height: 30px;
+	margin: 0 auto auto auto;
+}
+#box_view{
+	background-image:-webkit-gradient(linear, 0 0%, 0 100%, from(#FFFFFF), to(#E0F0F5));
+	background:#FFF;
+	color:#F60;
+	border: 1px solid #fff;
+	border-radius: 4px 4px 4px 4px;
+	box-shadow: 0 8px 6px -6px black;
+	position:fixed;
+	right:0;
+	top:150px;;
+	width:80px;
+	z-index:10;
+	padding-left:12px;
+	font-size:10px;
+	}
+#box_view li{
+	color:#F60;
+	margin-left:-30px;
+	}
+	#wrapper a b {
+	color: #FFF;
+	font-size:14px;
+}
+.batas{
+	float:left;
+	border-right-style:inset;
+	border-right-width:thin;
+	}
+.text_h_wrap{
+	
+	padding-left:450px;
+	padding-top:39px;
+	text-shadow:0px 1px 1px #09F;
+	}
+#wrapper .footer p{
+	font-size:12px;
+	color: #FFF;
+	text-align:center;
+	text-shadow:0px 1px 1px #09F;
+}
+td,th {
+	font-size: 12px;
+}
+
+marquee a{
+	color:#FFF
+	}
+#wrapper .footer a{
+	color: #FFFFFF;
+}
+</style>
+            
+<script>
+function goBack()
+  {
+  window.history.back()
+  }
+</script>
+<script type="text/javascript">
+function Popup( url, height, width )
+{
+    var windowProperties = "toolbar = 0, scrollbars = 1, location = 0, statusbar = 0, menubar = 0, resizable = 1, width = " + width + ", height = " + height + ", left = 50, top = 50";
+ 
+    return window.open( url, "", windowProperties );
+}
+</script>
+
+
+
+</head>
+<body oncontextmenu='return false;' onkeydown='return false;' onmousedown='return false;'>
+
+<a id="top_view"></a>
+<div id="wrapper">
+<div class="header_wrap">
+<div class="text_h_wrap">
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/home_page'><b>&nbsp;Home&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/menu_info/1'><b>&nbsp;About Us&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_data'><b>&nbsp;Direktori Pulau&nbsp;&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/program_ip'><b>&nbsp;IKU&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/data_ppkt'><b>&nbsp;PPKT&nbsp;</b></a>
+</div>
+<!--<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/maintenance'><b>&nbsp;Login&nbsp;</b></a>-->
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/dir_log_cont'><b>&nbsp;Login&nbsp;</b></a>
+
+</div>
+</div>
+</div>
+
+<div id="fb-root"></div>
+<script>
+  window.fbAsyncInit = function() {
+    // init the FB JS SDK
+    FB.init({
+      appId      : '559408774147878',                        // App ID from the app dashboard
+      status     : true,                                 // Check Facebook Login status
+      xfbml      : true                                  // Look for social plugins on the page
+    });
+
+    // Additional initialization code such as adding Event Listeners goes here
+  };
+
+  // Load the SDK asynchronously
+  (function(){
+     // If we've already installed the SDK, we're done
+     if (document.getElementById('facebook-jssdk')) {return;}
+
+     // Get the first script element, which we'll use to find the parent node
+     var firstScriptElement = document.getElementsByTagName('script')[0];
+
+     // Create a new script element and set its id
+     var facebookJS = document.createElement('script'); 
+     facebookJS.id = 'facebook-jssdk';
+
+     // Set the new script's source to the source of the Facebook JS SDK
+     facebookJS.src = '//connect.facebook.net/en_US/all.js';
+
+     // Insert the Facebook JS SDK into the DOM
+     firstScriptElement.parentNode.insertBefore(facebookJS, firstScriptElement);
+   }());
+</script>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=559408774147878";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="box_view">
+    <a href="#top_view">MENU</a>
+    <h3><p>Lihat Informasi:</p></h3>
+    <ul>
+	<a href="#sf"><li>Slide Foto</li></a>
+    <a href="#gu"><li>Gambaran Umum</li></a>
+    <a href="#ksbk"><li>Kependudukan, Sosial Budaya dan Kelembagaan</li></a>
+    <a href="#eshp"><li>Ekosistem dan Sumberdaya Hayati</li></a>
+    <a href="#snh"><li>Sumberdaya Non Hayati</li></a>
+    <a href="#aps"><li>Aktivitas Pengelolaan Sumberdaya</li></a>
+    <a href="#ling"><li>Lingkungan</li></a>
+    <a href="#sp"><li>Sarana dan Prasarana</li></a>
+    <a href="#pi"><li>Peluang Investasi</li></a>
+    <a href="#pap"><li>Potensi Arahan Pengembangan</li></a>
+    <a href="#kp"><li>Kendala Pengembangan</li></a>
+	<a href="#rf"><li>Referensi</li></a>
+    </ul>
+    <a href="#fb_comn">KOMENTAR</a>
+</div>
+
+<br>
+			<a id="sf"></a></h2>
+			<div id="galleria">
+            <!--<div class='tengahin'><input type="button" value="Kembali Ke List" onclick="goBack()"></div>-->
+                            </div>
+            
+            <script>
+            Galleria.loadTheme('http://www.ppk-kp3k.kkp.go.id/direktori-pulau/galleria/themes/classic/galleria.classic.min.js');
+            Galleria.run('#galleria');
+            </script>
+</div>
+
+<div id="text_warp">
+
+
+<p><h1>Menjangan Besar</h1></p>
+<table>
+<tr>
+	<td>Nama Lain</td> <td>:</td> <td></td>
+</tr>
+<tr>
+	<td>Propinsi</td> <td>:</td> <td>JAWA TENGAH</td>
+</tr>
+<tr>
+	<td>Kabupaten</td> <td>:</td> <td>KABUPATEN JEPARA</td>
+</tr>
+<tr>
+	<td>Kecamatan</td> <td>:</td> <td></td>
+</tr>
+<tr>
+	<td>Koordinat</td> <td>:</td> <td><a href="http://www.ppk-kp3k.kkp.go.id/giskkp/index.html?extent="target="_blank">5° 53' 16.000</a></td>
+</tr>
+</table>
+<hr>
+
+<h2><a id="gu">Gambaran Umum</a></h2>
+<p><div class="readmore"><p style="text-align: justify;">
+	<strong>Gambaran Umum </strong></p>
+<p style="text-align: justify;">
+	Pulau Menjangan Besar adalah salah satu pulau yang berada di Kecamatan Karimunjawa dan secara geografis terletak di titik koordinat 5&deg; 53&rsquo; 16&rdquo; LS dan 110&deg; 25&rsquo; 41&rdquo; BT. Lokasi Pulau Menjangan Besar berdekatan dengan Pulau Karimunjawa atau tepatnya di sisi sebelah selatan. Keduanya dipisahkan oleh selat yang sempit yang dapat ditempuh hanya dalam waktu 15 menit. Pulau Menjangan Besar merupakan pulau yang berpenduduk tidak tetap dengan luas 61 Ha dan keliling pulau mencapai 5.026 m.</p>
+<p style="text-align: justify;">
+	Pulau Menjangan Besar masuk dalam kawasan Balai Taman Nasional Karimunjawa berdasarkan Surat Keputusan Direktur Jenderal Hutan dan Konservasi Alam Nomor : SK.79/IV/Set.3/2005 tentang Revisi Zonasi/Mintakat Taman Nasional Kepulauan Karimunjawa tanggal 30 Juni 2005 yang diperbarui dengan Keputusan Direktur Jenderal Perlindungan Hutan Dan Konservasi Alam No. SK. 28/TV-SET/2012 Tentang Zonasi Taman Nasional Karimunjawa tanggal 06 Maret 2012.</p>
+<p style="text-align: justify;">
+	<strong>Sejarah Nama Pulau</strong></p>
+<p style="text-align: justify;">
+	Pada dasarnya penamaan pulau kecil di Indonesia diambil dari beberapa cerita rakyat, kekhasan lokasi dan beberapa sebutan dari orang-orang yang pernah singgah di pulau tersebut. Pulau Menjanga Besar merupakan salah satu pulau yang jika ditelusuri dengan sejarahnya, tidak banyak bahkan hampir tidak ada referensi khusus yang menyebut mengenai Sejarah penamaan Pulau Menjangan Besar ini.</p>
+<p style="text-align: justify;">
+	Berdasarkan data hasil FGD (<em>Focus Group Discussion)</em> dengan warga Pulau Karimunjawa yang memanfaatkan Pulau Menjangan Besar ada beberapa versi penamaan pulau tersebut. Versi pertama menyebutkan bahwa penamaan Pulau Menjangan Besar dilihat dari bentuk pulau yang menyerupai binatang menjangan. Versi yang kedua menyebutkan bahwa penamaan Pulau Menjangan Besar dikarenakan pada masa lampau pulau ini dihuni oleh binatang menjangan. Sedangkan nama Besar atau Kecil pada Pulau Menjangan Besar dan Menjangan Kecil hanya membedakan ukuran pulau saja.</p>
+<p style="text-align: justify;">
+	<strong>Letak Geografis, Administrasi, dan Batas Wilayah</strong></p>
+<p style="text-align: justify;">
+	Pulau Menjangan Besar menjadi pulau yang berdekatan dengan Pulau Karimunjawa sebagai pusat pemerintahan Kecamatan Karimunjawa adalah salah satu nilai tambah bagi aspek pariwisata. Lokasinya yang hanya membutuhkan waktu tempuh &plusmn; 15 menit dengan menggunakan kapal/perahu sangat diminati oleh wisatawan. Pulau Menjangan Besar berada pada 5&deg; 53&rsquo; 16&rdquo; LS dan 110&deg; 25&rsquo; 41&rdquo; BT yaitu di sebelah selatan Pulau Karimunjawa. Pulau ini hanya memiliki luas&nbsp;&nbsp;&nbsp;&nbsp; 61 Hektar dengan keliling pulau mencapai 5.026 Meter. Batas-batas wilayah Pulau Menjangan Besar adalah sebagai berikut :</p>
+<ul>
+	<li style="text-align: justify;">
+		Sebelah Utara&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : Pulau Karimunjawa</li>
+	<li style="text-align: justify;">
+		Sebelah Selatan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : Laut Jawa</li>
+	<li style="text-align: justify;">
+		Sebelah Barat&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : Pulau Menjangan Kecil</li>
+	<li style="text-align: justify;">
+		Sebelah Timur&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : Laut Jawa</li>
+</ul>
+<p style="text-align: justify;">
+	Secara visual pulau yang dijadikan obyek wisata ini masih banyak potensi yang dapat dimanfaatkan jika dilihat dari letak geografisnya yang strategis. Jika hal ini dapat dioptimalkan, maka tidak menutup kemungkinan jumlah intensitas kunjungan isatawan ke Pulau Menjangan Besar akan meningkat.</p>
+<p style="margin-left: 205.55pt; text-align: justify;">
+	<strong>Aksesibilitas/Kemudahan Transportasi</strong></p>
+<p style="margin-left: 205.55pt; text-align: justify;">
+	Transportasi&nbsp;adalah pemindahan manusia&nbsp; atau barang dari satu tempat ke tempat lainnya dengan menggunakan sebuah &nbsp;<a href="http://id.wikipedia.org/wiki/Kendaraan" title="Kendaraan">kendaraan</a> yang digerakkan oleh&nbsp; <a href="http://id.wikipedia.org/wiki/Manusia" title="Manusia">manusia</a> &nbsp;atau &nbsp;<a href="http://id.wikipedia.org/wiki/Mesin" title="Mesin">mesin</a>. Moda transportasi merupakan istilah yang digunakan untuk menyatakan alat angkut yang digunakan untuk berpindah tempat dari satu tempat ke tempat lain. Moda yang biasanya digunakan dalam transportasi dapat dikelompokkan atas moda yang berjalan di darat, berlayar di perairan laut dan pedalaman, serta moda yang terbang di udara. Moda yang di darat juga masih bisa dikelompokkan atas moda jalan, moda kereta api dan moda pipa.</p>
+<p style="text-align: justify;">
+	Aksesibiitas merupakan Kondisi aksesibilitas di Pulau Menjangan Besar didominasi dengan penggunaan kapal/perahu pencari ikan yang dimiliki oleh nelayan dan kapal wisata sebagai sarana untuk mengantar wisatawan menikmati pulau. Pulau Menjangan Besar dapat ditempuh hanya &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&plusmn; 15 menit dengan menggunakan kapal/perahu tersebut.</p>
+<p style="text-align: justify;">
+	<strong>Status Kawasan</strong></p>
+<p style="text-align: justify;">
+	Wilayah Taman Nasional Karimunjawa terbagi menjadi beberapa zonasi, diantaranya Zona Inti, Zona Budidaya, Zona Pemanfaatan Pariwisata, Zona Pemukiman, Zona Perlindungan, Zona Rehabilitasi, dan Zona Pemanfaatan Perikanan Tradisional. Penetapan zonasi tersebut ditetapkan melalui Surat Keputusan Direktur Jenderal PHKA No. 79/IV/Set-3/2005 tanggal 30 juni 2005 dan diperbarui dengan Keputusan Direktur Jenderal Perlindungan Hutan Dan Konservasi Alam No. SK. 28/TV-SET/2012 Tentang Zonasi Taman Nasional Karimunjawa tanggal 06 Maret 2012.</p>
+<p style="text-align: justify;">
+	Pulau Menjangan Besar termasuk kedalam zona pemanfaatan pariwisata dan zona budidaya bahari. Hal ini sangat sesuai dengan kondisi dilapangan dimana terdapat beberapa faktor yang mendukung seperti adanya keindahan panorama alam, aksesibilitas yang mudah, adanya penangkaran hiu, adanya penangkaran/penetasan telur penyu, dan kondisi ekosistem pesisir yang sangat baik. Hingga saat ini, Pulau Menjangan Besar menjadi salah satu pulau tujuan wisata yang sangat diminati oleh pengunjung/wisatawan baik wisatawan lokal ataupun mancanegara.</p>
+<p style="text-align: justify;">
+	<strong>Status Kepemilikan Pulau</strong></p>
+<p style="text-align: justify;">
+	Kepemilikan pulau-pulau kecil pada dasarnya merupakan tanggungjawab negara dan dibawah otonomi daerah. Namun pada kenyataannya, banyak pulau kecil yang disewakan atau dikelola oleh pihak swasta atau pihak asing. Hal ini tidak dilarang akan tetapi dikhawatirkan terjadi perusakan atau tidak sesuainya fungsi kawasan dengan zonasi yang telah ditetapkan. Saat ini status pengelolaan Pulau Menjangan Besar berada di bawah PT. Rajabesi. Tidak banyak masyarakat atau referensi yang membahas dan mengetahui tentang status kepemilikan pulau atau status pengelolaan pulau.</p>
+<p style="text-align: justify;">
+	Salah satu bukti kepemilikan lahan Pulau Menjangan Besar telah berpindah ke pihak swasta adalah adanya artikel yang dilangsir di website (<a href="http://www2.kompas.com/kompas-cetak/0108/04/JATENG/pula20.htm">http://www2.kompas.com/kompas-cetak/0108/04/JATENG/pula20.htm</a><em>),&nbsp; yang menyebutkan&nbsp; bahwa Pulau Menjangan Besar telah dijual oleh warga yang memiliki sertifikat tanah di pulau tersebut kepada pihak swasta dalam hal ini Budi Santosa dan Acong yang tidak lain adalah pemilik PT. Rajabesi Semarang. Dengan adanya informasi ini, perlu dilakukan pengecekan ulang baik oleh pemerintah daerah atau pemerintah pusat mengenai status kepemilikan pulau.</em></p>
+<ol>
+	<li style="text-align: justify;">
+		<strong>Klimatologi</strong></li>
+</ol>
+<p style="text-align: justify;">
+	Wilayah Kepulauan Karimunjawa merupakan gugusan Kepulauan yang dikelilingi oleh laut, beriklim tropis dipengaruhi oleh angin laut yang bertiup sepanjang hari dengan suhu rata-rata 26&deg; &ndash; 30&deg;C, dimana suhu minimum 22&deg;C dan suhu maksimal 34&deg;C. Kelembaban nisbi antara 70 s.d 85% dan tekanan udara berkisar pada 1.012 mb (anonim, 1989). Keadaan ini sangat bervariasi bergantung pada tempat dan waktu pengukuran.</p>
+<p style="text-align: justify;">
+	Dalam satu tahun terdapat dua pergantian musim, yaitu musim kemarau dan musim penghujan dengan musim pancaroba diantaranya. Musim kemarau yang relatif pendek terjadi antara bulan Juni &ndash; Agustus dan biasanya oleh penduduk disebut sebagai musim Timuran. Pada waktu musim Timuran ini cuaca sepanjang hari cukup cerah dengan curah hujan rata-rata &lt; 200 mm/bulan. Rata-rata penyinaran matahari antara 70 &ndash; 80 % setiap harinya. Bulan kering terjadi antara bulan Maret &ndash; Agustus dengan curah hujan &plusmn; 60 mm/bulan. Arah angin datang dari Timur sampai Tenggara dengan kecepatan antara 7 &ndash; 10 knot, kadang-kadang dapat mencapai 16 knot atau lebih. Bertiup angin yang kadang-kadang cukup kencang dan sedikit mengandung uap air, sehingga kadang menimbulkan hujan lokal. Pada periode ini angin didominasi dari Barat-barat Laut, kadang-kadang juga dari Timur dan Utara dengan kecepatan yang bervariasi.</p>
+<p style="text-align: justify;">
+	Setelah berakhirnya musim Timuran tersebut terdapat musim pancaroba I yang terjadi pada bulan September &ndash; Oktober sebagai perubahan atau peralihan dari musim kemarau ke musim penghujan. Pada periode ini angin didominasi dari Barat-barat Laut, kadang-kadang juga dari Timur dan Utara dengan kecepatan yang bervariasi.</p>
+<p style="text-align: justify;">
+	Musim penghujan berlangsung antara bulan November &ndash; Maret, yang memiliki curah hujan yang cukup tinggi yaitu rata-rata &gt;20 mm/bulan dan bertiup angin yang cukup kencang sehingga berakibat adanya gelombang besar. Keadaan ini oleh penduduk sering disebut dengan musim Baratan yang membawa uap air dan jatuh diwilayah Kepulauan Karimunjawa sebagai hujan. Rata-rata penyinaran matahari sekitar 30 &ndash; 60 % setiap harinya. Bulan Januari gelombang cukup besar, dengan kecepatan angin rata-rata 7 &ndash; 16 knot, kadang-kadang dapat mencapai 21 knot dengan arah yang bervariasi dari Barat-barat Laut.</p>
+<p style="text-align: justify;">
+	Setelah berakhirnya musim Barat terjadi musim Pancaroba II yaitu pada bulan April &ndash; Mei. Antara bulan Maret &ndash; Mei arah angin lebih bervariasi dari Barat ke Timur silih berganti dengan kecepatan rata-rata antara 4 &ndash; 10 knot.</p>
+<p style="text-align: justify;">
+	Pengaruh musim Barat dengan angin Barat yang bertiup kencang mengakibatkan gelombang besar dan mengganggu stabilitas pehubungan laut yang merupakan jalur penghubung utama antar pulau yang satu dengan pulau yang lain di Kepulauan Karimunjawa maupun dengan luar Kepulauan Karimunjawa. Sehingga saat musim ini Kepulauan di Karimunjawa menjadi terisolir yang berakibat berhentinya roda perekonomian masyarakat, juga kegiatan para nelayan. Saat datangnya musim Barat ini masyarakat mengalami kerawanan pangan karena sebagian besar bahan makanan utama dibawa dari Kota Jepara.</p>
+<p style="text-align: justify;">
+	Pengukuran jumlah curah hujan di Kepulauan Karimunjawa tidak dapat dilakukan. Hal ini dikarenakan belum adanya alat pengukuran curah hujan di wilayah tersebut. Data mengenai curah hujan di Kecamatan Karimunjawa pun tidak tercantum pada data statistik Kabupaten Jepara sebagaimana yang dikeluarkan oleh Badan Pusat Statistik Kabupaten Jepara.</p>
+<p style="text-align: justify;">
+	<strong>Oseanografi</strong></p>
+<p style="text-align: justify;">
+	Oseanografi adalah &nbsp;studi dan penjelajahan (eksplorasi) ilmiah mengenai laut dan segala fenomenanya. Beberapa hal yang dipelajari dalam studi ini antara lain organisme laut dan dinamika ekosistem; arus samudera, ombak, dan dinamika fluida geofisika; tektonik lempeng dan geologi dasar laut; dan aliran berbagai zat kimia dan sifat fisik didalam samudera dan pada batas-batasnya. Pembahasan oseanografi Pulau Menjangan Besar akan lebih menitikberatkan pada kondisi yang berkaitan dengan dinamika ekosistem yang ada sebagai sumber informasi mengenai potensi alam yang tersedia di pulau tersebut.</p>
+<p style="text-align: justify;">
+	Kondisi perairan sangat dipengaruhi oleh pola arus dan kontur kedalaman perairan itu sendiri. Pada kegiatan identifikasi potensi dan pemetaan pulau-pulau kecil ini sangat penting untuk memberikan informasi mengenai beberapa hal tersebut. Secara umum pengukuran kondisi oseanografi pada sebuah perairan dibantu dengan adanya data sekunder dan observasi langsung serta adanya citra satelit sebagai penunjang kebenaran data.</p>
+<p style="text-align: justify;">
+	<strong>Bathimetri</strong></p>
+<p style="text-align: justify;">
+	Data batimetri merupakan data hasil survey pemeruman dengan menggunakan Garmin Fishfinder pada bulan Juli 2013 serta data <em>Digital Elevasi</em> <em>Model </em>citra Aster sebagai acuan.&nbsp; Data Batimetri diolah dengan menggunakan data pasang surut perairan Pulau Menjangan Besar dan Menjangan Kecil, komponen pasut yang digunakan adalah LLWL.</p>
+<p style="text-align: justify;">
+	Pada Pulau Menjangan Besar, kondisi batimetri terdapat bagian landai, terutama pada bagian barat laut dan barat,&nbsp; dengan jarak rata-rata 0.5 km, di tutupi oleh mayoritas substrat pasir. Setelah bagian landai tersebut, ditemui bagian yang curam. Akan tetapi pada bagian selatan dan timur pulau, daerah landai nya lebih sedikit daripada pada bagian barat dan barat laut. Pada bagian selatan pulau, mayoritas tutupan nya adalah batu. Dan kedalaman paling besar pada daerah survey adalah 20 m.</p>
+<p style="text-align: justify;">
+	Batimetri suatu perairan sangat mempengaruhi kondisi perairan tersebut, beberapa parameter fisika dan parameter kimia berhubungan langsung dengan batimetri. Contohnya seperti suhu, salinitas dan densitas.</p>
+<p style="text-align: justify;">
+	Batimetri suatu perairan juga mempengaruhi kondisi hidrodinamika perairan tersebut, Perubahan batimetri dan keberadaan penghalang mengakibatkan deformasi gelombang yang merambat dari laut dalam menuju pantai. Akibatnya, gelombang pecah di daerah pantai saat mencapai batas kelancipan maksimum antara gelombang dan dasar perairan, sehingga terbentuk arus (<em>longshore current </em>dan <em>rip current/cross-shore velocity</em>) yang menyebabkan transpor sedimen pantai.</p>
+<p style="text-align: justify;">
+	<strong>Pasang Surut</strong></p>
+<p style="text-align: justify;">
+	Data pasang surut pada daerah survey di dapat dengan menggunakan&nbsp; metode peramalan dengan memakai <em>software TMD (Tide Model Driver)</em> selama 2 tahun pada koordinat&nbsp;&nbsp; -5.83 S&nbsp; dan&nbsp; 110.42 E dan menggunakan data pengukuran pasang surut DISHIDROS Jepara tahun 2012 sebagai acuan. Berikut grafik pasang surut&nbsp; hasil peramalan dengan data peramalan pasut terdapat lampiran pasut tahun 2013 dan tahun 2014 :</p>
+<p style="text-align: justify;">
+	Dari hasil pemodelan, dilakukan uji verifikasi terhadap hasil model, dengan membandingkan hasil pemodelan dengan data pasut DISHIDROS. Dari hasil verifikasi di dapat hasil <em>Mean Relative Error (MRE)</em> sebesar 34%.</p>
+<p style="text-align: justify;">
+	&nbsp;Terdapat Error cukup besar yang disebabkan oleh cukup jauh lokasi antara data DISHIDROS yaitu stasiun jepara dengan lokasi survey di Pulau Menjangan. Dan Stasiun DISHIDROS yang terdekat adalah di jepara. Akan tetapi Menurut sugiyono (2011), verifikasi model yang masih dapat diterima jika masih berada di dalam batas 40 %.</p>
+<p style="text-align: justify;">
+	Berdasarkan analisa admiralty yang telah dilakukan, didapatkan nilai konstanta harmonik yang telah disajikan dalam Tabel 1. Sedangkan komponen penting pasang surut dari hasil analisa Admiralty disajikan dalam Tabel 2<strong>, </strong>dimana didapatkan nilai muka laut rerata (MSL) adalah 103 cm, LLWL atau muka laut rendah terendah 52 cm dan nilai muka laut tinggi tertinggi HHWL adalah 154 cm. Dari nilai bilangan Formzahl (Nilai F = 2.67) maka dapat disimpulkan bahwa jenis pasut perairan Pulau Menjangan, Kepulauan Karimun Jawa adalah memiliki tipe pasang surut campuran condong ke harian tunggal&nbsp; (Wrytki, 1961 <em>dalam</em> Triatmodjo, 2008).</p>
+<p style="text-align: justify;">
+	<strong>Arus</strong></p>
+<p style="text-align: justify;">
+	Pengolahan data arus menggunakan metode pemodelan hidrodinamika 2d memakai <em>software MIKE 21.</em> Skenario yang di gunakan adalah pada saat musim timur dan musim barat, dan pada saat <em>spring</em>&nbsp; (bulan purnama) dan <em>neap</em> (perbani), hal ini dimaksudkan untuk mewakili kondisi perairan sepanjang tahun.</p>
+<p style="text-align: justify;">
+	<strong>Musim Barat</strong></p>
+<p style="margin-left: 21.3pt; text-align: justify;">
+	Verifikasi Dilakukan dengan metode MRE (<em>Mean Relative Error</em>)<em>, </em>dengan membandingkan nilai surface elevation dari hasil model pada musim barat dengan data DISHIDROS tahun 2012 bulan desember. Pada perhitungan metode MRE didapat nilai kesalahan rata rata sebesar 35 %. Nilai MRE yang besar dipengaruhi oleh perbedaan lokasi stasiun pasang surut yang berbeda cukup jauh lokasi nya. Lokasi Stasiun DISHIDROS paling dekat terletak di Tanjung Jati, Kabupaten Jepara, sedangkan titik pantau survey terletak di Pulau Menjangan Besar.</p>
+<p style="margin-left: 21.3pt; text-align: justify;">
+	Dengan nilai MRE pada musim barat dan musim timur, pemodelan ini dapat diterima. Menurut sugiyono (2011), verifikasi model yang masih dapat diterima jika masih berada di dalam batas 40 %.</p>
+<p style="margin-left: 21.3pt; text-align: justify;">
+	Pemodelan&nbsp; pola arus di perairan Pulau Menjangan Besar&nbsp; diberikan skenario yang dibuat mendekati kondisi di lapangan saat pengukuran, dengan masukan nilai nilai yang dibutuhkan untuk memodelkan menggunakan mike 21 menggunakan data lapangan, seperti kondisi batimetri, arah angin dominan, pasang surut dan nilai gesekan dasar, dengan tujuan dapat menggambarkan pola arus daerah tersebut mendekati kondisi di lapangan.</p>
+<p style="margin-left: 21.3pt; text-align: justify;">
+	Berdasarkan data hasil model arus di perairan Pulau Menjangan Besar, pada saat musim barat kecepatan arus berkisar 0.25 &ndash; 0,3 m/s dengan kecepatan maksimal terjadi pada kondisi menuju pasang saat&nbsp; purnama (<em>Spring</em>). Kondisi kedalaman perairan saat pasang di waktu <em>Spring</em> merupakan yang tertinggi selama waktu pemodelan, sedangkan kondisi kedalaman minimal terjadi pada saat surut di waktu Spring, dan perubahan ketinggian permukaan laut yang paling rendah terjadi pada saat <em>neap. </em>&nbsp;Kecepatan tertinggi terjadi pada saat terjadinya perubahan antara waktu surut dan pasang, atau sebaliknya. Kecepatan arus minimum terjadi pada kondisi perairan saat <em>slack water</em>. Gross (1990) dalam Prasetyo (2009) menambahkan bahwa arah arus saat air meninggi biasanya bertolak belakang dengan arah arus saat air merendah. Kecepatan arus pasut minimum terjadi saat <em>slack</em> <em>water</em>. Pada saat-saat tersebut terjadi perubahan arah arus pasut. Kecepatan arus pasut maksimum terjadi pada saat-saat antara air tinggi dimana arah arus pasut menuju pantai (<em>Flood water</em>) dan air rendah ketika arah arus pasut meninggalkan pantai (<em>Ebb water</em>). Dengan demikian periode kecepatan arus pasut akan mengikuti periode pasut yang membangkitkannya.</p>
+<p style="margin-left: 21.3pt; text-align: justify;">
+	Pola Arus Pada perairan Menjangan Besar ini juga sangat di pengaruhi oleh angin, dimana hal itu&nbsp; terlihat dari grafik hubungan <em>surface elevation </em>dengan kecepatan arus di musim barat, pada grafik tersebut, terlihat bahwa kecepatan arus tercepat terjadi pada periode surut, dimana pada periode tersebut arah angin dalam arah yang sama dengan arah arus waktu surut, sehingga menjadi daya pembangkit arus yang besar</p>
+<p style="text-align: justify;">
+	<strong>Musim Timur</strong></p>
+<p style="margin-left: 21.3pt; text-align: justify;">
+	Verifikasi Dilakukan dengan metode MRE (<em>Mean Relative Error</em>)<em>, </em>dengan membandingkan nilai surface elevation dari hasil model pada musim timur dengan data DISHIDROS&nbsp; tahun&nbsp; 2012 bulan&nbsp; Juni.&nbsp; Pada perhitungan metode MRE didapat nilai kesalahan rata rata sebesar 33 %</p>
+<p style="margin-left: 21.3pt; text-align: justify;">
+	Dengan nilai MRE pada musim barat dan musim timur, pemodelan ini dapat diterima. Menurut sugiyono (2011), verifikasi model yang masih dapat diterima jika masih berada di dalam batas 40 %.</p>
+<p style="margin-left: 21.3pt; text-align: justify;">
+	Pemodelan&nbsp; pola arus di perairan Pulau Menjangan Besar&nbsp; diberikan skenario yang dibuat mendekati kondisi di lapangan saat pengukuran, dengan masukan nilai nilai yang dibutuhkan untuk memodelkan menggunakan mike 21 menggunakan data lapangan, seperti kondisi batimetri, arah angin dominan, pasang surut dan nilai gesekan dasar, dengan tujuan dapat menggambarkan pola arus daerah tersebut mendekati kondisi di lapangan.</p>
+<p style="margin-left: 21.25pt; text-align: justify;">
+	Berdasarkan hasil pemodelan hidrodinamika perairan Pulau Menjangan Besar, didapat kecepatan arus pada musim timur berkisar 0.2 &ndash; 0.25 m/s. Kecepatan maksimum terjadi saat menuju surut dengan kecepatan berkisat 0.25m/s. Kondisi kedalaman perairan saat pasang di waktu <em>Spring</em> merupakan yang tertinggi selama waktu pemodelan, sedangkan kondisi kedalaman minimal terjadi pada saat surut di waktu Spring. Kecepatan tertinggi terjadi pada saat terjadinya perubahan antara waktu surut dan pasang, atau sebaliknya. Kecepatan arus minimum terjadi pada kondisi perairan saat <em>slack water</em>. Gross (1990) dalam Prasetyo (2009) menambahkan bahwa arah arus saat air meninggi biasanya bertolak belakang dengan arah arus saat air merendah. Kecepatan arus pasut minimum terjadi saat <em>slack</em> <em>water</em>. Pada saat-saat tersebut terjadi perubahan arah arus pasut. Kecepatan arus pasut maksimum terjadi pada saat-saat antara air tinggi dimana arah arus pasut menuju pantai (<em>Flood water</em>) dan air rendah ketika arah arus pasut meninggalkan pantai (<em>Ebb water</em>). Dengan demikian periode kecepatan arus pasut akan mengikuti periode pasut yang membangkitkannya.</p>
+<p style="text-align: justify;">
+	<strong>Gelombang</strong></p>
+<p style="text-align: justify;">
+	<em>1. Angin </em></p>
+<p style="text-align: justify;">
+	Keadaan angin di perairan Karimun diambilkan berdasarkan data yang diperoleh dari Stasiun Klimatologi&nbsp; Semarang, Jawa Tengah.</p>
+<p style="text-align: justify;">
+	Pengolahan data angin terdiri dari analisis statistik dengan membuat tabel frekuensi dan mawar angin, pehitungan <em>fetch</em>, dan peramalan gelombang.</p>
+<p style="text-align: justify;">
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Pada gambar diatas terlihat bahwa pada bulan September sampai dengan Februari merupakan musim angin barat, hal ini di tandakan dominasi arah angin pada bulan bulan tersebut yang berasal dari arah utara dan barat laut, sedangkan pada bulan Maret sampai dengan Agustus Dominasi arah sudah berubah, dimana arah dominasi arah nya berasal dari timur.</p>
+<p style="text-align: justify;">
+	<em>2. Gelombang</em></p>
+<p style="text-align: justify;">
+	Menurut Dahuri, <em>et al</em>. (1996), gelombang di permukaan laut umumnya terbentuk karena adanya proses aliran energi dari angin ke permukaan laut atau pada saat-saat tertentu disebabkan oleh gempa di dasar laut. Dalam CERC (1984), dinyatakan bahwa gelombang adalah sebuah proses dimana energi disebarkan melalui material tanpa perpindahan yang signifikan dari material tersebut. Gelombang selalu menimbulkan sebuah ayunan yang selalu bergerak tanpa henti pada lapisan permukaan laut dan jarang berada dalam keadaan yang sama sekali diam.</p>
+<p style="text-align: justify;">
+	Gelombang yang terjadi di laut dapat dibangkitkan oleh beberapa faktor, antara lain gelombang angin akibat adanya tiupan angin di permukaan laut, gelombang pasang surut yang dibangkitkan oleh gaya gravitasi bumi dan benda-benda angkasa, gelombang tsunami, dan gelombang yang dibangkitkan oleh gerakan kapal. Diantara beberapa bentuk gelombang tersebut yang paling penting dalam bidang tehnik pantai adalah gelombang angin (yang selanjutnya disebut sebagai gelombang) dan gelombang pasang surut (Triatmodjo, 1999)</p>
+<p style="text-align: justify;">
+	Pada umumnya bentuk gelombang di alam adalah sangat kompleks dan sulit untuk digambarkan secara matematis karena ketidak-linearan, tiga dimensi, dan mempunyai bentuk yang acak. Untuk memepelajarinya dilakukan pendekatan dengan menganggap bahwa suatu gelombang yang tak beraturan merupakan superposisi dari tak berhingga gelombang-gelombang sederhana yang mempunyai sinusoidal.</p>
+<p style="text-align: justify;">
+	Tiap gelombang sinusoidal dapat dicirikan oleh berbagai parameter gelombang. Gambar dibawah menunjukan sketsa dua-dimensional suatu gelombang dan komponen-komponennya yang berada pada koordinat <em>x </em>dan <em>y</em>. Beberapa istilah dari bagian-bagian gelombang yang dijelaskan oleh Hutabarat dan Evans (1984) :</p>
+<table align="left" border="0" cellpadding="0" cellspacing="0" width="603">
+	<tbody>
+		<tr>
+			<td style="width:127px;">
+				<p style="text-align: justify;">
+					<em>Crest</em></p>
+			</td>
+			<td style="width:16px;">
+				<p style="text-align: justify;">
+					:</p>
+			</td>
+			<td style="width:459px;">
+				<p style="text-align: justify;">
+					Titik tertinggi puncak gelombang</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:127px;">
+				<p style="text-align: justify;">
+					<em>Trough</em></p>
+			</td>
+			<td style="width:16px;">
+				<p style="text-align: justify;">
+					:</p>
+			</td>
+			<td style="width:459px;">
+				<p style="text-align: justify;">
+					Titik terendah lembah gelombang</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:127px;">
+				<p style="text-align: justify;">
+					<em>Wave height</em></p>
+			</td>
+			<td style="width:16px;">
+				<p style="text-align: justify;">
+					:</p>
+			</td>
+			<td style="width:459px;">
+				<p style="text-align: justify;">
+					Jarak vertikal antara <em>crest</em> dan <em>trough</em></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:127px;">
+				<p style="text-align: justify;">
+					<em>Wave length</em></p>
+			</td>
+			<td style="width:16px;">
+				<p style="text-align: justify;">
+					:</p>
+			</td>
+			<td style="width:459px;">
+				<p style="text-align: justify;">
+					Jarak berturut-turut antara dua buah <em>crest</em> dan dua buah <em>trough</em></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:127px;">
+				<p style="text-align: justify;">
+					<em>Wave periode</em></p>
+			</td>
+			<td style="width:16px;">
+				<p style="text-align: justify;">
+					:</p>
+			</td>
+			<td style="width:459px;">
+				<p style="text-align: justify;">
+					Waktu yang dibutuhkan <em>crest</em> untuk kembali pada titik semula secara berturut-turut</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:127px;">
+				<p style="text-align: justify;">
+					<em>Waves stepness&nbsp;&nbsp; </em>&nbsp;&nbsp;</p>
+			</td>
+			<td style="width:16px;">
+				<p style="text-align: justify;">
+					:</p>
+			</td>
+			<td style="width:459px;">
+				<p style="text-align: justify;">
+					Perbandingan antara panjang gelombang dengan tinggi gelombang</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<p style="text-align: justify;">
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p style="text-align: justify;">
+	&nbsp;</p>
+<p style="text-align: justify;">
+	&nbsp;</p>
+<p style="text-align: justify;">
+	&nbsp;</p>
+<p style="text-align: justify;">
+	&nbsp;</p>
+<p style="text-align: justify;">
+	&nbsp;</p>
+<p style="text-align: justify;">
+	&nbsp;</p>
+<p style="text-align: justify;">
+	&nbsp;</p>
+<p style="text-align: justify;">
+	&nbsp;</p>
+<p style="text-align: justify;">
+	&nbsp;</p>
+<p style="text-align: justify;">
+	Hutabarat dan Evans (1984) menjelaskan bahwa sifat-sifat gelombang paling tidak dipengaruhi oleh:</p>
+<ol>
+	<li style="text-align: justify;">
+		<em>Besarnya kecepatan angin</em></li>
+</ol>
+<p style="margin-left: 0.25in; text-align: justify;">
+	Umumnya makin kencang angin yang bertiup maka akan makin besar gelombang yang terbentuk dengan kecepatan tinggi danpanjang gelombang yang besar.</p>
+<ol>
+	<li style="text-align: justify;" value="2">
+		<em>Waktu dimana angin sedang bertiup</em></li>
+</ol>
+<p style="margin-left: 0.25in; text-align: justify;">
+	Besarnya kecepatan gelombang dan tinggi gelombang seluruhnya cenderung untuk meningkat sesuai dengan meningkatnya lama waktu pada saat angin mulai bertiup.</p>
+<ol>
+	<li style="text-align: justify;" value="3">
+		<em>Jarak tanpa rintangan dimana angin bertiup (fetch)</em></li>
+</ol>
+<p style="margin-left: 0.25in; text-align: justify;">
+	<em>Fetch </em>yang besar akan menghasilkan gelombang dengan panjang gelombang yang besar pula</p>
+<p style="text-align: justify;">
+	<strong>Hidrologi</strong></p>
+<p style="text-align: justify;">
+	Di seluruh pulau di Pulau Karimunjawa tidak dijumpai adanya sungai besar maupun permanen. Khususnya di Pulau Karimunjawa yang merupakan pulau terbesar dan topografinya berbukit-bukit terdapat beberapa sumber mata air yang berasal dari bukit yang berada di bagian tengah pulau. Sumber mata air tersebut membentuk alur-alur sungai kecil ke dataran rendah, seperti di Legon Goprak, Legon Lele, Kapuran, Legon Cikmas, dan Nyamplungan. Alur-alur sungai kecil ini yang kemudian dapat dimanfaatkan memenuhi kebutuhan akan air tawar di Pulau Karimunjawa. Adapun bagi penduduk yang tinggal di pulau-pulau lainnya, kebutuhan air tawar diperoleh dari sumur-sumur gali sedalam 4-7 m untuk daerah tepi pantai dan 15 m atau lebih apabila daerah tersebut jaraknya dari pantai &plusmn; 100 m.</p>
+<p style="text-align: justify;">
+	Secara keseluruhan sekalipun kawasan ini merupakan gugusan pulau-pulau kecil yang dikelilingi oleh laut, namun ternyata sejauh ini dapat dikatakan kualitas air tanahnya masih cukup baik. Kualitas air tawar di kawasan ini tergolong baik yang ditandai dengan pH berkisar antara 6,55-6,92, kesadahan berkisar 9,12-9,84 ppm, kandungan ion Mg berkisar antara 3,24-3,91 ppm dan Na berkisar 3,20-3,34 ppm. Hal ini, dikarenakan tekstur tanahnya sangat baik untuk menyimpan air dan mampu menetralkan garam sehingga intrusi air asin belum muncul pada jarak &plusmn; 100 m dari pantai. Intrusi justru terjadi pada daerah-daerah yang hutan mangrovenya telah dibuka untuk budidaya tambak.</p>
+<p style="text-align: justify;">
+	Oleh karena itu, sampai saat ini penduduk Karimunjawa, khususnya yang tinggal di Pulau Karimunjawa belum menghadapi masalah kekurangan air tawar untuk memenuhi kebutuhan sehari-hari walaupun tanda-tanda kesadahan dari beberapa sumur gali sudah mulai terasa yaitu agak licin jika dipakai untuk keperluan mandi.</p>
+<p style="text-align: justify;">
+	Hal ini berbeda dengan keberadaan air tawar yang ada di Pulau Menjangan Besar. Pulau ini masih memiliki sumur &nbsp;air tawar. Berdasarkan hasil survey lapangan, kondisi air tawar di Pulau Menjangan Besar &nbsp;masih sangat baik dengan tidak adanya rasa asin dan licin saat digunakan untuk mandi dan cuci tangan. Air permukaan adalah air yang terkumpul diatas tanah. Pada Pulau Menjangan Besar air permukaan berasal dari air hujan yang jatuh di dataran Pulau. Ketidakterdapatan sungai atau danau, menandakan bahwa air hujan tersebut sebagian masuk kedalam tanah dan sebagian lainnya&nbsp; bercampur dengan air laut.</p>
+<p style="text-align: justify;">
+	Cabang keilmuan yang mempelajari tentang air tanah dan potensinya adalah Hidrogeologi. Hidrogeologi yaitu cabang dari ilmu geologi yang mempelajari proses pembentukan air tanah berdasarkan dasar-dasar ilmu geologi. Berdasakan data survey di lapangan, data yang diperoleh adalah berupa data koordinat lokasi&nbsp; sumur yaitu&nbsp; 1&nbsp; titik&nbsp; pada&nbsp; posisi pengambilan sampel : 110.429<sup>o</sup> E dan -5.884<sup>o</sup> S. Kondisi sumber air berada pada kedalaman 5 meter, warna jernih, tidak berbau dan&nbsp; pH netral atau 7.&nbsp; Hasil analisis kualitas air untuk kandungan bacteri yang dianalisis di Balai Laboratotium Kesehatan dengan No. 443.5/5763/2.3 identifikasi <em>Escherichia coli </em>&nbsp;hasilnya adalah negatip, ini menunjukan bahwa sumber air sumur di Pulau Menjangan Besar &nbsp;tidak terkontaminasi oleh bakteri.&nbsp; Berdasarkan Peraturan Pemerintah RI. No. 82 tahun 2001 tentang Pengelolaan Kualitas Air dan Pengendali Pencemaran kriteria mutu air klas 1/100 ml,&nbsp; total Coliform : 1000/100 ml dan total Coli Fecal : 100/100 ml.</p>
+<p style="text-align: justify;">
+	Kolom litologi diatas diambil dari sumur S1, yang waktu pembuatannya bersamaan dengan&nbsp; waktu survey pengambilan data. Berdasarkan kolom litologi diatas urutan litologi dari bawah berupa batulapili, dan perulangan tuff kasar dan tuff halus. Sifat litologi tuff halus mempunyai sifat tidak dapat mengalirkan air dalam jumlah tertentu.Sifat tersebut yang mengakibatkan tidak terjadi intrusi air laut yang terbukti dari sumur wali yang mempunyai kedalaman 5 meter dan berlokasi sangat dekat dengan pantai yang menghasilkan air tawar. Keberadaan tuff halus tersebut tidak menyebar merata di semua pulau, sehingga masih terdapat celah zona untuk melewatkan air ke akuifer.</p>
+<p style="text-align: justify;">
+	<strong>Kondisi Fisik Pulau</strong></p>
+<p style="margin-left: 0.25in; text-align: justify;">
+	<strong>Topografi</strong></p>
+<p style="text-align: justify;">
+	Topografi merupakan ilmu yang mempelajari bentuk permukaan bumi atau objek lain seperti planet maupun asteroid. Dalam arti luas, topografi adalah studi yang mempelajari tentang bentuk muka bumi, vegetasi penyusun hingga sampai pengaruh manusia terhadap lingkungan serta kebudayaan lokal di suatu tempat. Namun dalam kegiatan ini, topografi lebih sering dikaitkan dengan bentuk relief suatu daratan dan identifikasi jenis lahan yang ditampilkan dalam bentuk peta baik dua dimensi maupun tiga dimensi. Relief adalah bantuk permukaan suatu lahan yang dikelompokkan atau ditentukan berdasarkan perbedaan ketinggian (<em>amplitude</em>) dari permukaan bumi (bidang datar) suatu bentuk bentang lahan (<em>landform</em>). Sedang topografi secara kualitatif adalah bentang lahan (landform) dan secara kuantitatif dinyatakan dalam satuan kelas lereng (% atau derajat), arah lereng, panjang lereng dan bentuk lereng.</p>
+<p style="text-align: justify;">
+	Berdasarkan survei lapangan dan analisis citra satelit QUICKBIRD tahun 2014, Pulau Menjangan Besar memiliki kontur topografi yang unik. Ketinggian daratan pulau tertinggi mencapai 10 mdpl. Titik tertinggi berada pada sebelah selatan&nbsp; pulau yang berbentuk lereng. Daerah selatan merupakan bagian dari formasi karimun, sedangkan bagian utara pulau merupakan&nbsp; bentukan alluvial, dimana bagian utara pulau memiliki ketinggian yang relative datar, dengan ketinggian rata-rata sebesar 2 mdpl.</p>
+<p>
+	&nbsp;&nbsp;&nbsp;</p>
+<p>
+	&nbsp;</p>
+</div></p>
+
+<hr>
+
+<h2><a id="ksbk">Kependudukan, Sosial Budaya dan Kelembagaan</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<h2><a id="eshp">Ekosistem dan Sumberdaya Hayati</a></h2>
+<p><div class="readmore"><p style="text-align: justify;">
+	<strong>Ekositem dan Sumberdaya Hayati</strong></p>
+<p style="text-align: justify;">
+	Ekosistem adalah Ekosistem pesisir merupakan suatu himpunan integral dari komponen hayati (organisme hidup) dan nir-hayati (fisik), mutlak dibutuhkan oleh manusia untuk hidup dan untuk meningkatkan mutu kehidupan manusia.&nbsp;Karakteristik dari ekosistem pesisir adalah mempunyai beberapa jumlah ekosistem yang berada di daerah pesisir. Contoh ekosistem lain yang ikut kedalam wilayah ekosistem pesisir adalah ekosistem mangrove, ekosistem lamun (<em>seagrass</em>), dan ekosistem terumbu karang (Aci, 2012).</p>
+<p style="text-align: justify;">
+	Pada pokok bahasan diatas, telah disinggung beberapa ekosistem penting yang menyusun ekosistem pesisir. Pulau-pulau kecil merupakan bagian yang tidak dapat dipisahkan dari wilayah pesisir dan di wilayah tersebut itulah biasanya ketiga ekosistem tersebut sering dijumpai. Seperti halnya di Pulau Menjangan Besar yang masuk dalam kategori baik untuk ekosistem karang, ekosistem mangrove dan ekosistem padang lamunnya.</p>
+<p style="text-align: justify;">
+	<strong>a. Ekosistem Terumbu Karang</strong></p>
+<p style="text-align: justify;">
+	<strong><em>Manta Tow</em></strong></p>
+<p style="text-align: justify;">
+	Secara umum kondisi ekosistem terumbu karang di pulau Menjangan Besar, Kecamatan Karimunjawa, Kabupaten Jepara tumbuh di sepanjang pantai dan mengelilingi pulau masih relatif sedang dilihat dari persentase penutupan dan hasil dari manta taw. Bentuk pertumbuhan karang keras berupa <em>branching, tabulate, massive, foliose, sub-masive, encrusting, dan mushroome/solitere</em>.</p>
+<p style="text-align: justify;">
+	Pengamatan dengan metode Manta Tow ini disa dikatakan adalah metode pengamatan tutupan dan kondisi karang yang hampir sempurna. Hal ini dapat dibuktikan dengan banyaknya para peneliti menggunakan metode ini untuk mengetahui jenis, tutupan dan kondisi karang yang ada di perairan di seluruh dunia.</p>
+<p style="text-align: justify;">
+	Kondisi perairan Pulau Menjangan Besar masih baik kondisinya, &nbsp;ini dibuktikan dari tingkat kecerahan air laut yang jarak pandang <em>(visibility) </em>antara 6 - 10 m, selain itu tidak ditemukan sampah. Karakteristik lereng terumbu dalam kategori landai, dengan sudut kemiringan terumbu beriksar 25 - 40&deg;. Terumbu karang yang menpunyai fungsi alami untuk melindungi ekosistem pantai dari pengaruh abrasi ombak.</p>
+<p style="text-align: justify;">
+	Secara umum kondisi tutupan di pulau Menjangan Besar, masih berupa karang keras (HCL), karang mati (HCD), dan pasir (sand). Ini dapat dilihat dari sepanjang pesisir kedua site tersebut. Karang hidup (HCL) masih mendominasi di perairan tersebut dibandingkan dengan substrat yang lain, ini terbukti masih terdapat banyak ikan &ndash; ikan karang yang tinggal. Fungsi alami suatu terumbu karang adalah sebagai tempat berlindung ikan, mencari makan, memijah.</p>
+<p style="text-align: justify;">
+	Dari panjang total pengamatan dengan menggunakan metode manta tow didapatkan rata-rata tutupan karang hidup memiliki persentase mencapai 33.64%, tutupan karang mati memiliki persentase mencapai 28.4% dan pecahan karang sebesar 11.5%, tutupan pasir sebesar 20.91% dan yang paling rendah dengan nilai 5.5% adalah makro alga (MA), ini nilai yang didapat dari Pulau Menjangan Besar. Hasil&nbsp; menunjukkan bahwa: &nbsp;kondisi terumbu karang dengan penekanan pada persentase tutupan karang hidup dan mati menunjukkan kondisi yang terancam.</p>
+<p style="text-align: justify;">
+	<strong><em>LIT (Line Intercept Transect)</em></strong></p>
+<p style="text-align: justify;">
+	Monitoring terumbu karang di perairan Pulau Karimunjawa dilaksanakan di pulau Menjangan Besar yang di ambil 2 titik yang dtentukan dari hasil manta taw melihat dari kondisi yang paling rapat penutupan karangnya dan yang tidak yaitu pada Menjangan Besar Site 1 (barat) dengan posisi <strong>E : 110,421937&deg; </strong>dan<strong> S : -5,894&deg;</strong>, Menjangan Besar site 2 (timur) dengan posisi &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>E : 110,443567&deg; </strong>dan <strong>&nbsp;S : -5,888&deg;</strong>.</p>
+<p style="text-align: justify;">
+	Pulau Menjangan Besar site 2 yang memiliki nilai persentase penutupan karang paling kecil dan masuk dalam kategori rusak, karena gelombang yang datang cukup besar.&nbsp; ini terjadi pada saat musim tertentu, sehingga terumbu karang yang ada disana rusak karena diterjang oleh gelombang. Selain itu pada Menjangan Besar site 2 merupakan jalur transoprtasi kapal yang ingin menuju Pulau Karimunjawa seperti ASDP dan kapal cepat. Lain halnya dengan Menjangan Besar site 1 yang masuk kedalam kategori sehat meskipun pada daerah tersebut masih di pengaruhi oleh gelombang yang besar datang dari laut lepas namun pada site 1 ini aktifitas transportasi kapal tidak terlalu besar karena bukan jalur untuk kapal yang datang dari Jepara.</p>
+<p style="text-align: justify;">
+	Pada persentase penutupan karang Menjangan Besar site 1, karang hidup yang paling mendominasi adalah genus <em>porites</em> yang mencapai 26.15%, selanjutnya di ikuti oleh genus <em>acropora</em> 15.84%, <em>pachyseris</em> 3.29%, <em>montipora</em> 3.18%, terumbu karang hidup lainya yang &lt; 1% adalah genus <em>astreopora</em>, <em>stylhopora</em>, <em>euphylia</em>, <em>favites</em>, <em>goniopora</em>, dan <em>merulina</em>. Sedangkan pada penutupan karang mati cukup tinggi yatu mencapai 30.06%.</p>
+<p style="text-align: justify;">
+	Site ini memiliki nilai persentase penutupan karang yang paling kecil dibandingkan dengan site yang lain. Genus yang paling mendominasi di site ini adalah <em>porites</em> mencapai nilai 25.22%, tertinggi kedua adalah genus <em>acropora</em> 9.89%, <em>pocilopora</em> 1.27%, sedangkan genus karang yang lain&nbsp; yang di bawah &gt; 1% adalah <em>chypastrea</em>, <em>favites</em>,<em> lobophyllia</em>, <em>montipora</em>. Pada site ini tingkat penutupan karang pecah <em>(rubble) </em>cukup tinggi mencapai 20.78% di ikuti dengan karang mati 20.35%, pada site ini pun untuk tutupan pasir <em>(sand) </em>mencapai 17.87 %. Tingkat penutupan karang pecah dan karang mati yang cukup tinggi bisa terjadi karenan pada site ini merupakan daerah yang dilalui kapal dan merupakan jalur transportasi yang padat, selain itu pada sisi ini gelombang yang datang pun cukup tinggi dari laut lepas. Pada musim tertentu pun gelombang yang datang besar. Dari kedua site yang di data memliki persamaan di antaranya adalah genus karang yang paling mendominasi adalah genus <em>porites </em>, karena karang jenis ini memlik daya tahan yang cukup baik terhadap kondisi lingkungan yang ekstrim atau jauh dari ambang normal suatu perairan.</p>
+<p style="text-align: justify;">
+	Indeks keanekaragaman (H&rsquo;)&nbsp; di pulau Menjangan Besar yang paling tinggi adalah di Menjangan Besar site 2 dengan nilai 3.08 masuk dalam kategori tinggi, meskipun pada site ini persentase penutupan karangnya kecil. Sedangkan nilai keanekargaman yang kecil terdapat pada Menjangan besar site 1 dengan nilai 2.45 ini masuk kedalam kategori sedang. Hal ini dapat terjadi karena pasokan nutren yang ada jumlahnya cukup melimpah karena dipengaruhi oleh arus dan gelombang yang cukup besar, planula karang (larva) tersebar luas untuk mencari tempat hinggap (<em>saetled</em>). Keseragaman (E) karang di Pulau Menjangan Besar yang memilki nilai paling tinggi adalah di Menjangan Besar site 2 dengan nilai mencapai 0.8, rata-rata untuk Indeks keseragaman karang di Menjangan Besar site 1 mendekati angka 1 yaitu 0.66. Menurut Ludwig dan Reynold (1988) Bila E mendekati 0 (nol) , spesies penyusun tidak banyak ragamnya, ada dominansi dari spesies tertentu dan menunjukan adanya tekanan terhadap ekosistem. Bila E mendekati 1 (satu), jumlah individu yang dimiliki anter spesies tidak jauh berbeda., tidak ada dominansi dan tidak ada tekanan terhadap ekosistem. Untuk Indeks dominansi (C)&nbsp; di Pulau Menjangan Besar yang paling tinggi terdapat di Menjangan Besar site 1 mencapai 0.18, sedangkan di Menjangan Besar site 2 nilai indeks dominansi nya 0.11. Nilai indeks keseragaman (E) dan indeks dominansi (C) berkisar antara 0 hingga 1, semakin kecil nilai E maka nilai C akan semakin mendekati satu, artinya semakin kecil keseragaman suatu populasi maka ada kecenderungan suatu jenis mendominasi populasi tersebut (Odum, 1971).</p>
+<p style="text-align: justify;">
+	Dari daftar kehadiran karang yang di pulau Menjangan Besar yang sering muncul adalah karang genus <em>acropora, favites,&nbsp; </em>dan <em>porites. </em>Pada Menjangan Besar site 1 ditemukan genus yang tidak ditemukan di Menjangan Kecil site 2 yaitu genus <em>astreopora, montypora, pavona. pacchyseris, merulina, euphyllia, styllopora.</em></p>
+<p style="text-align: justify;">
+	&nbsp;Sedangkan di Menjangan Besar site 2 terdapat genus&nbsp; <em>cypastrea, lobophyllia, pocilopora, seriatopora </em>yang tidak ditemukan di Menjangan Kecil site 1. Jika di lihat dari daftar kehadiran karang di antara kedua site tersebut, Menjangan Besar site 2 memiliki keanekaragaman yang lebih tinggi dibandingkan dengan site 1.</p>
+<p style="text-align: justify;">
+	<strong>b. Ikan Karang</strong></p>
+<p style="text-align: justify;">
+	&nbsp; Monitoring ikan karang di perairan Pulau Menjangan Besar di laksanakan pada perairan sisi barat (site 1) dengan posisi koordinat <strong>E : 110,421937&deg; </strong>dan<strong> S : -5,894&deg;</strong>, dan sisi timur (site 2) Dengan posisi Koordinat <strong>E : 110,443567&deg; </strong>dan <strong>&nbsp;S : -5,888&deg;</strong>.</p>
+<p style="text-align: justify;">
+	Dari 2 site yang diamati, sisi barat Menjangan Besar memiliki kelimpahan komposisi ikan karang yang paling tinggi, yaitu ditemukan sebanyak 11 family dan 24 genus. Dengan didominasi oleh genus <em>Abudefduf</em> sebanyak 39,69% dan genus <em>Caesio</em> sebanyak 31,89%. Sisi ini cukup didominasi oleh dua genus <em>caesio</em> dan <em>abudefduf. </em>Sedangkan, sebaran kelimpahan genus lain berada dibawah 5%. Selain sempat juga terekam beberapa ikan ekonomis seperti Grouper dari genus <em>Ephinepelus</em> dan genus <em>Naso </em>dari family Acanthuridae.</p>
+<p style="text-align: justify;">
+	Ikan Abudfeduf ini merupakan ikan yang memiliki nilai pariwisata yang paling tinggi di Karimunjawa, khususnya di Pulau Menjangan Kecil dan Menjangan Besar. Ikan yang menjadi daya tarik pariwisata di Pulau Menjangan ini adalah Ikan dari genus <em>Abudefduf. </em>Sementara itu sisi barat Menjangan Besar yang memang daerah <em>Exposure </em>dan memiliki arus yang cukup kencang menjadi habitat yang tepat dan favorit untuk ikan Ekor kuning sehingga genus <em>Caesio </em>cukup mendominasi pada sisi barat Pulau menjangan Besar.</p>
+<p style="text-align: justify;">
+	Sisi Timur Pulau Menjangan Besar tidak terlalu menunjukan perbedaan signifikan dengan site lain yang di survey. Sisi Timur masih di dominasi oleh ikan-ikan mayor seperti <em>Abudefduf</em> dengan prosentase 20,77%, <em>Chromis</em> dengan 17,96%, <em>Pomacentrus</em> dengan 13,38% juga dengan <em>Caesio</em> dan <em>Dascyllus</em> dengan 10,04% dan 10,21%. Tidak mengherankan mengapa genus <em>Caesio </em>masih banyak ditemukan pada sisi ini karena sisi timur merupakan daerah terbuka/exposure dengan lautan lepas dan pada sebelah timur laut berbatasan dengan pulau Karimun Besar, sehingga membentuk semacam selat antara dua pulau yang menyebabkan perairan memiliki arus yang lumayan kencang.</p>
+<p style="text-align: justify;">
+	Pada site ini sempat ditemukan species <em>Cromileptes altivelis</em> berukuran besar. Ikan ini merukapan ikan kerapu dengan harga paling tinggi dan merupakan komoditas ekspor favorit ke luar negeri seperti Taiwan, china dan Hongkong. Beberapa ikan ekonomis lain pun masih ditemui pada site ini seperti ikan baronang dari genus <em>Siganus</em>,</p>
+<p style="text-align: justify;">
+	dapat diketahui bahwa dari 2 stasiun pengamatan yaitu perairan sisi barat dan timur Pulau Menjangan Besar ditemukan jumlah ikan karang sebanyak 1745 individu. Terdiri dari 13 famili dan 29 genus yang tercatat. Dari 13 Family yang ditemukan, 9 family selalu ditemukan pada kedua stasiun Barat dan Timur hanya Family <em>Epiphoidae</em>, <em>Tetraodontidae</em>, <em>Acanthuridae</em> dan <em>Apogonidae</em> yang hanya ditemukan pada satu stasiun pengamatan. Hal ini menunjukan kelimpahan Ikan karang di Pulau Menjangan Besar memiliki keseimbangan dalam hal keanekaragaman tidak ada yang mendominasi untuk jenis ikan tertentu maupun,</p>
+<p style="text-align: justify;">
+	Family pomacentridae didominasi oleh genus Pomacentrus, Abudefduf, Chromis, Neoglyphidodon, Neopomacentrus dan Dascyllus juga genus Thalassoma dan Epibulus dari family labridae. Hal ini merupakan hal yang wajar karena kedua jenis family ini termasuk kedalam jenis ikan mayor yang menghabiskan seluruh hidupnya pada ekosistem Terumbu Karang.</p>
+<p style="text-align: justify;">
+	Sementara itu family <em>Serranidae</em>, <em>Lutjanidae</em> dan <em>Siganidae</em> berperan dalam komposisi ikan karang ekonomis yang dimanfaatkan untuk konsumsi dan menjadi komoditas tangkapan nelayan. Selain itu family <em>Serranidae</em> dan <em>Lutjanidae</em> pun berperan sebagai penyeimbang dalam rantai makanan pada ekosistem terumbu karang karena kedua family ini merupakan kelompok Ikan karnivora. sementara itu family Scarini dan Siganidae berperan dalam ekologi pada proses <em>reef resilience</em> sebagai pemangsa algae yang merupakan pesaing utama pertumbuhan dan persebaran karang dalam perebutan substrat sebagai tempat seattle untuk tumbuh dan hidup. Secara garis besar Komposisi Ikan Karang pada perairan Pulau Menjangan Besar masih memiliki kelimpahan yang baik dengan masih banyak ditemukan beberapa Ikan Indikator seperti Scarus dan Siganus sebagai ikan herbivore dan kelompok Ikan Serranidae dan Lutjanidae sebagai ikan bernilai ekonomis.</p>
+<p style="text-align: justify;">
+	Berdasarkan nilai-nilai indeks komunitas, ikan karang yang berada di dua stasiun pengamatan perairan Menjangan Besar menunjukkan nilai indeks keanekagaman (H&rsquo;) yang sedang, yaitu diantaranya 1,806, dan 2,342 Hal ini sesuai dengan apa yang dinyatakan oleh Krebs (1985) bahwa indeks keanekaragaman dikategorikan sedang apabila 1<h’<3, 1="" 3.="" adanya="" atau="" bernilai="" contohnya="" dapat="" dari="" dengan="" ditemukan="" em="" famili="" hal="" ikan="" indeks="" ini="" jenis="" karang="" keanekaragaman="" kurang="" lebih="" pengamatan.="" sama="" setiap="" stasiun="" terlihat="" tertentu="" yang="">Pomacentridae, Pomacanthidae, Labridae, Serranida, lutjanidae,&nbsp; Scarini, Sianidae, Chaetodontidae dan<em> Caesionidae</em>.</h’<3,></p>
+<p style="text-align: justify;">
+	Indeks dominasi (C) di kedua stasiun pengamatan menunjukkan bahwa perairan Menjangan Kecil mempunyai nilai yang rendah dan hampir sama yaitu berkisar antara 0-0,3 yaitu 0,268 dan 0,127. Dikatakan oleh Odum (1971) bahwa bila nilai C mendekati 0 (nol), di dalam komunitas tidak ada spesies yang dominan, komunitas dalam keadaan stabil, dan bila nilai C mendekati 1 (satu), ada dominasi dari spesies tertentu, komunitas berada dalam keadaan labil dan terjadi tekanan pada ekosistem.</p>
+<p style="text-align: justify;">
+	Sementara itu Indeks keseragaman (E) yang ada di perairan Pulau Menjangan Besar dan Menjangan Kecil memiliki nilai yang berkisar antara 0,5-1 yaitu 0,568 dan 0,747. Seperti yang telah disampaikan oleh Ludwig dan Reynold (1988) bahwa bila E mendekati 0 (nol), spesies penyusun tidak banyak ragamnya, ada dominansi dari spesies tertentu dan menunjukan adanya tekanan terhadap ekosistem. Bila E mendekati 1 (satu), jumlah individu yang dimiliki anter spesies tidak jauh berbeda, tidak ada dominansi dan tidak ada tekanan terhadap ekosistem.</p>
+<p style="text-align: justify;">
+	<strong>c. Ekosistem Padang lamun</strong></p>
+<p style="text-align: justify;">
+	Pengambilan data lamun di Pulau Menjangan Besar dilakukan dengan metode English <em>et al</em>. Pemilihan site ini didasarkan pada metode <em>purposive sampling method</em> yaitu pemilihan tempat berdasarkan ciri-ciri yang telah diketahui sebelumnya dimana sebelah utara banyak dijumpai lamun oleh nelayan-nelayan setempat. Padang lamun tumbuh di sepanjang pantai pada kedalaman &plusmn; 100 cm. Sebaran padang lamun terletak pada garis pantai sejauh 10 m dari dengan substrat dasar berupa pasir dan shell (pecahan karang dan cangkang).</p>
+<p style="text-align: justify;">
+	Rata &ndash; rata penutupan padang lamun adalah 15,82% sampai 70,31%, dengan tinggi kanopi berkisar 30 cm. Hasil pengamatan dan pengambilan data yang dilakukan di Pulau Menjangan Besar menemukan 3 spesies lamun, yaitu <em>Cymodocea rotundata, Thalassia hemprichii, </em>dan <em>Enhalus acoroides</em>.</p>
+<p style="text-align: justify;">
+	penutupan lamun yang tertinggi pada lokasi 2 transek kuadran ke-1 dengan nilai sebesar 70,31%. Disusul pada lokasi 1 transek yang ke-3 sebesar 48,05%. Sedangkan yang terendah pada lokasi 3 transek kuadran ke-2 dengan tutupan sebesar 15,82%.</p>
+<p style="text-align: justify;">
+	<strong>Kelimpahan</strong></p>
+<p style="text-align: justify;">
+	Pada Pulau Menjangan Besar, mempunyai rata-rata nilai kelimpahan berkisar 290 ind/m&sup2; pada keseluruhan lokasi. Jenis lamun yang mempunyai nilai kelimpahan tertinggi adalah <em>Cymodocea rotundata</em>, dengan nilai 233 ind/m&sup2;, sedangkan yang paling rendah nilai kelimpahannya adalah <em>Enhalus acoroides</em> dengan nilai 1 ind/m&sup2;.</p>
+<p style="text-align: justify;">
+	<strong>Dominansi</strong></p>
+<p style="text-align: justify;">
+	Hasil analisis padang lamun di Menjangan Besar menunjukan indeks dominans sebesar 0,0093, yang didominasi oleh jenis <em>Cymodocea rotundata. </em>Jenis ini mendominasi karena kondisi perairan yang optimum untuk pertumbuhan <em>Cymodocea rotundata </em>serta jenis ini dapat hidup pada berbagai habitat, meskipun terbatas pada daerah sublitoral. Jenis lamun yang mempunyai indeks dominansi paling rendah adalah <em>Enhalus acoroides</em>, karena substrat&nbsp; yang kurang optimum bagi pertumbuhan <em>Enhalus acoroides.</em></p>
+<p style="text-align: justify;">
+	<strong>Keanekaragaman</strong></p>
+<p style="text-align: justify;">
+	Indeks keanekaragaman di Pulau Menjangan Besar tertinggi pada lokasi 2 dengan nilai 0,5334 dan terendah terdapat pada lokasi 3 dengan nilai 0,4802. Pada lokasi 2 mempunyai jumlah jenis yang ditemukan lebih banyak dari lokasi lain yaitu 3 jenis, dani nilai keanekaragaman tertinggi karena penyusun komunitas dari masing-masing jenis mempunyai kesamarataan, berbagai macam organisme yang dijumpai di Pulau Menjangan Besar ini diantaranya adalah teripang jenis <em>Holothuria atra</em>, sponge, ikan amphripoin, alga, anemon dan ikan-ikan lain yang memanfaatkan padang lamun sebagai tempat asuhan. Keberadaan lamun di perairan utara Pulau Menjangan Besar menunjukkan potensi keanekaragaman biota yang tinggal di dalamnya. Hal ini disebabkan karena ekosistem lamun merupakan tempat mencari makan yang menghasilkan produktivitas primer yang tinggi.</p>
+<p style="text-align: justify;">
+	Potensi Pulau Menjangan Besar ditinjau dari kondisi padang lamunnya yaitu melimpahnya teripang yang dijumpai di perairan ini. <em>Holothuria atra</em> sangat sering ditemukan di Pulau Menjangan Besar, kebanyakan biota ini berukuran kecil hingga sedang. Hasil pendataan menunjukkan bahwa teripang ini dijumpai sebanyak 11 individu.</p>
+<p style="text-align: justify;">
+	<strong>d. Ekosistem Mangrove</strong></p>
+<p style="text-align: justify;">
+	Analisa vegetasi mangrove Pulau Menjangan Besar, Kecamatan Karimunjawa, Kabupaten Jepara, mengambil sampel di 6 (enam) lokasi yang berbeda, yaitu MMB1, MMB2, MMB3, MMB4, MMB5, dan MMB6.</p>
+<p style="text-align: justify;">
+	Berdasarkan hasil identifikasi komposisi mangrove di Pulau Menjangan Besar, secara keseluruhan ditemukan sebanyak 2 spesies mangrove yang merupakan hasil identifikasi ekosistem mangrove. Untuk kategori pohon, sapling dan seedling masing-masing ditemukan 2 spesies. Berdasarkan klasifikasi Tomlinson (1994) spesies-spesies yang ditemukan tersebut termasuk dalam genus Rhizhophora.</p>
+<p style="text-align: justify;">
+	<strong>Kerapatan (ind/ha)</strong></p>
+<p style="text-align: justify;">
+	Struktur vegetasi mangrove berdasarkan hasil identifikasi di lapangan, vegetasi mangrove di Pulau Menjangan Besar merupakan jenis vegetasi yang didominasi oleh komponen mangrove mayor dan asosiasi berupa <em>Pandanus tectorius</em>, dan <em>Hibiscus tiliaceus</em>. Hasil identifikasi menunjukkan bahwa kerapatan rata-rata vegetasi mangrove (Kategori Pohon) di Pulau Menjangan Besar bernilai 3.117 ind/ha dengan nilai kerapatan tertinggi di MMB4 (3.700 ind/ha) dan yang paling rendah di MMB6 (2.400 ind/ha).</p>
+<p style="text-align: justify;">
+	Menurut Kepmen LH Nomor 201 Tahun 2004 tentang Baku Mutu dan Pedoman Penentuan Kerusakan Mangrove, menyatakan bahwa kondisi mangrove bisa dikatakan baik apabila memiliki kerapatan &gt;1.500 pohon/ha, sedangkan dari hasil pengamatan di lapangan pada lokasi identifikasi ditemukan kerapatan di atas 1.500 pohon/ha, sehingga kerapatan mangrove di semua lokasi (2.400-3.700 ind/ha) dapat dikategorikan baik dengan kriteria sangat rapat, kerapatan vegetasi mangrove khususnya untuk Sapling/anakan di Pulau Menjangan Besar mempunyai rata-rata berkisar 5.067 ind/ha, kerapatan yang paling tinggi adalah di MMB4 dengan kerapatan mencapai 11.200 ind/ha dan kerapatan yang paling rendah adalah di MMB5 dengan kerapatan sebesar 3.200 ind/ha.</p>
+<p style="text-align: justify;">
+	Kerapatan vegetasi mangrove khususnya untuk Seedling/semai di Pulau Menjangan Besar memiliki rata-rata berkisar 120.000 ind/ha, kerapatan yang paling tinggi adalah di MMB4 dengan kerapatan mencapai 240.000 ind/ha dan kerapatan yang paling rendah adalah di MMB3, dan MMB5 dengan kerapatan sebesar 80.000 ind/ha.</p>
+<p style="text-align: justify;">
+	<strong>Indeks Keanekaragaman (H&rsquo;)</strong></p>
+<p style="text-align: justify;">
+	Indeks Keanekaragaman (H&#39;) vegetasi mangrove untuk pohon, sapling, dan seedling&nbsp; di Pulau Menjangan Besar, memiliki indeks Keanekaragaman yang rendah. Ini dikarenakan keanekaragaman mangrove disana sangat kecil yaitu 0 pada masing-masing lokasi transek. Secara keseluruhan di Pulau Menjangan Besar mempunyai Indeks keanekaragaman 0,619.</p>
+<p style="text-align: justify;">
+	Dalam menentukan tingkat indeks keanekaragaman mangrove, menggunakan acuan menurut Wilhm dan Dorris, 1986 <em>dalam</em> Setiawan, 2001, dimana H&#39; &lt; 2,303 artinya &lsquo;rendah&rsquo;, 2,303 &ndash; 6,908 artinya &lsquo;sedang&rsquo; dan H&#39; &gt; 6,908 berarti &lsquo;tinggi&rsquo;.</p>
+<p style="text-align: justify;">
+	Indeks Keanekaragaman (H&#39;) vegetasi mangrove khususnya untuk Sapling di Pulau Menjangan Besar, indeks Keanekaragaman juga rendah. Ini karena nilai indek Keanekaragaman secara keeluruhan hanya mencapai 1,750716.</p>
+<p style="text-align: justify;">
+	Indeks Keanekaragaman (H&#39;) vegetasi mangrove khususnya untuk Seedling di Pulau Menjangan Besar, secara keseluruhan memiliki nilai indeks Keanekaragaman yang rendah yaitu bernilai 1,577.</p>
+<p style="text-align: justify;">
+	<strong>Indek keseragaman (J&rsquo;)</strong></p>
+<p style="text-align: justify;">
+	Dalam menentukan tingkat indeks keanekaragaman mangrove, menggunakan acuan menurut Krebs (1989) dalam Nugroho (2002), menyatakan besarnya indeks keseragaman spesies berkisar antara 0 &ndash;1, dimana J&rsquo; &lt; 0,4 artinya &lsquo;rendah&rsquo;, 0,4 &ndash; 0,6 artinya &lsquo;sedang&rsquo; dan J&rsquo; &gt; 0,6 berarti &lsquo;tinggi&rsquo;.</p>
+<p style="text-align: justify;">
+	Secara keseluruhan tingkat keseragaman spesies baik pohon, sapling dan seedling di 6 lokasi pengamatan tergolong rendah (&lt;0,4). Hasil perhitungan dapat dilihat pada tabel 4.21. Indeks Keseragaman (J&rsquo;) vegetasi mangrove khususnya untuk pohon di Pulau Menjangan Besar, secara keseluruhan menunjukkan Indeks Keseragaman yang rendah, dengan nilai Indeks Keseragaman 0,132491.</p>
+<p style="text-align: justify;">
+	Indeks Keseragaman (J&rsquo;) vegetasi mangrove khususnya Sapling di Pulau Menjangan Besar, secara keseluruhan menunjukkan Indeks Keseragaman yang sedang, dengan nilai Indeks Keseragaman 0,404254.</p>
+<p style="text-align: justify;">
+	Indeks Keseragaman (J&rsquo;) vegetasi mangrove khususnya Seedling di Pulau Menjangan Besar, secara keseluruhan menunjukkan Indeks Keseragaman yang rendah, dengan nilai Indeks Keseragaman 0,3687.</p>
+<p style="text-align: justify;">
+	<strong>Nilai Penting</strong></p>
+<p style="text-align: justify;">
+	Menurut Curtis (1959), nilai penting dalan analisa vegetasi mangrove diperoleh untuk mengetahui tingkat dominasi suatu spesies pada suatu areal. Nilai penting ini didapat dengan menjumlahkan nilai kerapatan relatif dan dominansi relatif.</p>
+<p style="text-align: justify;">
+	Nilai Penting yang didapat dari pengambilan sampling Pohon di Pulau Menjangan Besar, Kecamatan Karimunjawa, Kabupaten Jepara, memiliki nilai penting yang paling besar dari jenis <em>Rhizhophora stylosa </em>dengan nilai 138 dan Nilai penting terendah dari jenis <em>Rhizophora mucronata </em>dengan nilai 62.</p>
+<p style="text-align: justify;">
+	Menurut hasil nilai penting sapling <em>Sapling</em>/anakan di Pulau Menjangan Besar yang didapat, maka dapat disimpulkan untuk sampling Sapling Pulau Menjangan Besar memiliki nilai penting tertinggi yaitu 157,71 untuk jenis mangrove <em>Rhizophora stylosa</em> dan nilai Penting terendah yaitu 42,29 untuk jenis mangrove <em>Rhizophora mucronata</em>.</p>
+<p style="text-align: justify;">
+	Menurut hasil nilai penting dari <em>Seedling</em>/semai di Pulau Menjangan Besar yang didapat, maka dapat disimpulkan untuk sampling Seedling semua area di Pulau Menjangan Besar memiliki nilai penting 110,83 dengan jenis <em>Rhizophora stylosa </em>dan nilai Penting terendah yaitu 89,17 untuk jenis mangrove <em>Rhizophora mucronata</em>.</p>
+<p style="text-align: justify;">
+	<strong>Distribusi Diameter Batang Mangrove</strong></p>
+<p style="text-align: justify;">
+	Secara umum kerapatan spesies menurun seiring dengan naiknya diameter batang pohon dan terdapat dominansi spesies tertentu yang cukup tinggi pada salah satu spesies. Diameter spesies mangrove kategori pohon pada masing-masing transek di Pulau Menjangan Besar termasuk dalam kategori berdiameter rata-rata kecil, dengan kisaran 5,84 cm. Pada lokasi MMB2, <em>Rhizophora stylosa</em> memiliki diameter yang paling besar yaitu 13,30 cm dan pada lokasi MMB3, <em>Rhizophora stylosa</em> memiliki diameter yang kecil yaitu 4,05 cm.</p>
+<p style="text-align: justify;">
+	Citron-Novelli (1984) menyatakan bahwa diameter pohon akan sejalan dengan umur, spesies dan perkembangan mangrove itu sendiri. Hal ini menunjukan bahwa vegetasi mangrove di Pulau Menjangan Besar termasuk kedalam vegetasi mangrove muda.</p>
+<p style="text-align: justify;">
+	<strong>Distribusi Tinggi Mangrove</strong></p>
+<p style="text-align: justify;">
+	Distrbusi ketinggian pohon mangrove di Pulau Menjangan Besar pada gambar 4.57. menunjukan secara umum didominasi ukuran ketinggian 5-6 m dan 8-9 m. Mangrove dewasa mempunyai tinggi vegetasi 10-30 m bahkan bisa lebih menurut Chapman (1976), berdasarkan hal tersebut mangrove di Pulau Menjangan Besar tergolong mangrove muda karena rata-rata kurang dari 10 m.</p>
+<p style="text-align: justify;">
+	<strong>e. Vegetasi Pantai</strong></p>
+<p style="text-align: justify;">
+	Pantai pada Pulau Menjangan Besar merupakan pantai berpasir putih yang ada hampir di seluruh pulau kecuali pada bagian selatan pulau terdapat batuan. Perbedaan yang mencolok adalah pada kondisi vegetasi yang ada di sisi barat dan sisi timur pulau. Pada sisi barat pulau didominasi oleh mangrove, sedangkan pada sisi timur pulau didominasi oleh pantai berpasir. Terdapat pula pohon kelapa dan semak belukar yang mengisi vegetasi pantai di Pulau Menjangan Besar meskipun luasannya yang kecil.</p>
+<p>
+	&nbsp;</p>
+<table align="left" cellpadding="0" cellspacing="0" height="91" width="1">
+	<tbody>
+		<tr>
+			<td height="11">
+				&nbsp;</td>
+			<td>
+				&nbsp;</td>
+			<td>
+				&nbsp;</td>
+			<td>
+				&nbsp;</td>
+		</tr>
+		<tr>
+			<td height="1">
+				&nbsp;</td>
+			<td align="left" rowspan="2">
+				&nbsp;</td>
+		</tr>
+		<tr>
+			<td height="198">
+				&nbsp;</td>
+			<td>
+				&nbsp;</td>
+			<td align="left" rowspan="2">
+				&nbsp;</td>
+		</tr>
+		<tr>
+			<td height="1">
+				&nbsp;</td>
+		</tr>
+	</tbody>
+</table>
+<p>
+	&nbsp;</p>
+</div></p>
+
+<hr>
+
+<h2><a id="snh">Sumberdaya Non Hayati</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<h2><a id="aps">Aktivitas Pengelolaan Sumberdaya</a></h2>
+<p><div class="readmore"><p style="text-align: justify;">
+	<strong>Pengelolaan Sumberdaya Pesisir</strong></p>
+<p style="text-align: justify;">
+	Potensi pengelolaan daratan Pulau Menjangan Besar dilihat dari hasil groundcheck lapangan didominasi oleh vegetasi pohon kelapa yang hingga saat ini masih ada aktivitas pemanenan kelapa. Kendala untuk memperoleh data mengenai jumlah dan pengelolaan buah kelapa adalah pada saat dilakukannya survei, proses pemanenan telah berlangsung dan data tidak tersedia baik oleh pemerintah desa ataupun warga. Dari hasil FGD (<em>Focus Group Discussion</em>), warga dan perangkat desa hanya menyampaikan bahwa pemanfaatan daratan Pulau Menjangan Besar hanya berupa pemanfaatan kebun kelapa. Buah kelapa itu sendiri biasanya hanya digunakan untuk memenuhi kebutuhan masyarakat sekitar dan Pulau Karimunjawa sebagai salah satu pelengkap kuliner untuk wisatawan.</p>
+<p style="text-align: justify;">
+	Jika melihat status kawasan Pulau Menjangan Besar yang termasuk dalam wilayah zona pemanfaatan wisata bahari, sangat memungkinkan dilakukan pengembangan di wilayah ini. Pembangunan resort/penginapan dapat dikembangkan dengan memperhatikan kelestarian ekosistem yang ada. Resort/penginapan ini mempunyai peran penting untuk mendorong peningkatan pariwisata. Namun, hal ini juga akan mempengaruhi pola pengelolaan dan pengawasan ekosistem yang ada.</p>
+<p style="text-align: justify;">
+	Aktivitas masyarakat yang pada umumnya adalah warga dari Pulau Karimunjawa merupakan aktivitas yang berhubungan dengan pariwisata. Hampir setiap kapal yang bersandar di dermaga Pulau Menjangan Besar adalah kapal yang mengantar para wisatawan. Minimnya aktivitas penangkapan ikan lebih disebabkan oleh kesadaran dan tingkat pengetahuan masyarakat mengenai status kawasan Pulau Menjangan Besar. Pulau ini memiliki daya tarik tersendiri dengan keberadaan kolam pembesaran hiu dan penetasan telur penyu. Sarana dermaga pulau yang langsung berdampingan dengan kolam penangkaran hiu merupakan satu-satunya dermaga yang paling ramai dikunjungi karena sebagai pintu masuk utama bagi wisatawan.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="ling">Lingkungan</a></h2>
+<p><div class="readmore"><p style="text-align: justify;">
+	<strong>Kualitas Air</strong></p>
+<p style="text-align: justify;">
+	Dalam survei ini, digunakan beberapa parameter dalam penentuan kualitas perairan di Pulau Menjangan Besar. Parameter tersebut antara lain : Derajat Keasaman (pH), Salinitas, Suhu, Amonia, BOD, COD, DO, Timbal, Kecerahan, dan Kesuburan Perairan (kelimpahan plankton). Kualitas air&nbsp;adalah suatu ukuran kondisi air dilihat dari karakteristik fisik, kimiawi, dan biologisnya. Kualitas air juga menunjukkan ukuran kondisi air relatif terhadap kebutuhan biota air dan manusia. Kualitas air seringkali menjadi ukuran standar terhadap kondisi kesehatan <a href="http://id.wikipedia.org/w/index.php?title=Ekosistem_air&amp;action=edit&amp;redlink=1" title="Ekosistem air (halaman belum tersedia)">ekosistem air</a>&nbsp;dan kesehatan manusia terhadap&nbsp;<a href="http://id.wikipedia.org/wiki/Air_minum" title="Air minum">air minum</a>. Survei kualitas air di Pulau Menjangan Besar dilakukan di 4 (empat) titik survei dengan koordinat : <strong>(1) E : 110,4185&deg; dan S : -5,88833&deg;</strong>; <strong>(2) E : 110,428&deg; dan S : -5,90073&deg;</strong>;<strong> (3) E : 110,4373&deg; dan S : -5,88907;</strong> dan (<strong>4) E : 110,4305&deg; dan S : -5,88387&deg;</strong>.</p>
+<p style="text-align: justify;">
+	<strong>Derajat Keasaman (pH)</strong></p>
+<p style="text-align: justify;">
+	Menurut Wardhana (2001), air dapat bersifat asam atau basa, tergantung pada besar kecilnya pH air atau besarnya konsentrasi ion Hidrogen di dalam air. Derajat keasaman atau pH merupakan gambaran jumlah atau lebih tepatnya aktifitas ion Hidrogen dalam perairan. Secara umum nilai pH menggambarkan seberapa asam atau basa suatu perairan. Nilai pH = 7 dikatakan netral, &gt;7 adalah basa, dan &lt;7 adalah asam. Menurut Widigdo (2001) nilai pH bagi suatu perairan payau adalah antara 7-9, sementara pH air laut adalah antara 8,0-8,5.</p>
+<p style="text-align: justify;">
+	Menurut Muslim (2009), nilai pH di perairan laut banyak dipengaruhi dan mempengaruhi beberapa parameter lain seperti kekuatan redoks, DO dan temperatur. Kelarutan logam dalam air dikontrol oleh pH air. Ditambahkan oleh Muslim (2009) dan Palar (1994) bahwa, kenaikan&nbsp; pH akan menurunkan kelarutan logam dalam air, karena kenaikan pH akan mengubah logam dari bentuk karbonat menjadi bentuk hidroksi yang membentuk ikatan dengan partikel pada badan air, sehingga akan mengendap dalam bentuk lumpur. Bryan (1978) menyatakan, bahwa pH yang tinggi dapat mengurangi toksisitas dari logam berat, karena logam berat dalam air dengan pH yang tinggi akan membentuk senyawa kompleks yang mengendap dalam perairan.</p>
+<p style="text-align: justify;">
+	Pada besaran pH di atas diperoleh suatu pola persebaranya secara umum dimana&nbsp; jika semakin jauh dari pantai dan semakin bertambahnya kedalaman, maka besaran pH akan bertambah besar. Besaran nilai derajat keasaman di atas, di bandingkan dengan standar baku mutu berdasarkan KEPMEN LH No. 51 Tahun 2004 tentang baku mutu air laut untuk menentukan kondisi kualitas air pada perairan ini.</p>
+<p style="text-align: justify;">
+	Kondisi Perairan Pulau Menjangan Besar secara umum baik dengan pertimbangan standar baku mutu berdasarkan KEPMEN LH No 51 Tahun 2004 tentang baku mutu air laut untuk parameter DO sebagai&nbsp; wisata bahari dan biota air laut.</p>
+<p style="text-align: justify;">
+	<strong>Timbal (Pb)</strong></p>
+<p style="text-align: justify;">
+	Timbal/Timah hitam (Pb) tergolong kedalam logam berat, yang dalam sistem periodik unsur ini terletak pada unsur golongan IV A, dan periode ke 6. Timah Hitam mempunyai berat atom 207,21; berat jenis 11,34; bersifat lunak serta berwarna biru atau silver abu - abu dengan kilau logam, nomor atom 82 mempunyai titik leleh 327,4&deg;C dan titik didih 1.620&deg;C.</p>
+<p style="text-align: justify;">
+	Timbal termasuk logam berat &rdquo;trace metals&rdquo; karena mempunyai berat jenis lebih dari lima kali berat jenis air. Bentuk kimia senyawa Pb yang masuk ke dalam tubuh melalui makanan akan mengendap pada jaringan tubuh, dan sisanya akan terbuang bersama bahan sisa metabolisme.</p>
+<p style="text-align: justify;">
+	Keberadaan timbal dipengaruhi oleh beberapa faktor seperti arus angin dan curah hujan. Timbal tidak mengalami penguapan namun dapat ditemukan di udara sebagai partikel. Karena timbal merupakan sebuah unsur maka tidak mengalami degradasi (penguraian) dan tidak dapat dihancurkan. Timbal banyak dimanfaatkan oleh kehidupan manusia seperti sebagai bahan pembuat baterai, amunisi, produk logam (logam lembaran, solder, dan pipa), perlengkapan medis (penangkal radiasi dan alat bedah), cat, keramik, peralatan kegiatan ilmiah/praktek (papan sirkuit/CB untuk komputer) untuk campuran minyak bahan-bahan untuk meningkatkan nilai oktan.</p>
+<p style="text-align: justify;">
+	Konsentrasi timbal di lingkungan tergantung pada tingkat aktivitas manusia, misalnya di daerah industri, di jalan raya, dan tempat pembuangan sampah. Karena timbal banyak ditemukan di berbagai lingkungan maka timbal dapat memasuki tubuh melalui udara, air minum, makanan yang dimakan dan tanah pertanian.</p>
+<p style="text-align: justify;">
+	Berikut penggolongan sumber timbal (Pb) :</p>
+<ol>
+	<li style="text-align: justify;">
+		Sumber dari Alam</li>
+</ol>
+<p style="margin-left: 14.2pt; text-align: justify;">
+	Kadar Pb yang secara alami dapat ditemukan dalam bebatuan sekitar 13 mg/kg. Khusus Pb yang tercampur dengan batu fosfat dan terdapat didalam batu pasir ( sand stone) kadarnya lebih besar yaitu 100 mg/kg. Pb yang terdapat di tanah berkadar sekitar 5 - 25 mg/kg dan di air&nbsp; bawah tanah (ground water) berkisar antara 1- 60 &mu;g/liter. Secara alami Pb juga ditemukan di air permukaan. Kadar Pb pada air telaga dan air sungai adalah sebesar 1 -10 &mu;g/liter. Dalam air laut kadar Pb lebih rendah dari dalam air tawar.</p>
+<ol>
+	<li style="text-align: justify;" value="2">
+		Sumber dari Industri</li>
+</ol>
+<p style="margin-left: 14.2pt; text-align: justify;">
+	Industri yang perpotensi sebagai sumber pencemaran Pb adalah semua industri yang memakai Pb sebagai bahan baku maupun bahan penolong.</p>
+<ol>
+	<li style="text-align: justify;" value="3">
+		Sumber dari Transportasi</li>
+</ol>
+<p style="margin-left: 14.2pt; text-align: justify;">
+	Hasil pembakaran dari bahan tambahan (<em>aditive</em>) Pb pada bahan bakar kendaraan bermotor menghasilkan emisi Pb inorganik. Logam berat Pb yang bercampur dengan bahan bakar tersebut akan bercampur dengan oli dan melalui proses di dalam mesin maka logam berat Pb akan keluar dari knalpot.</p>
+<p style="text-align: justify;">
+	<strong>Kecerahan</strong></p>
+<p style="text-align: justify;">
+	Kecerahan air merupakan ukuran kejernihan suatu perairan, semakin tinggi suatu kecerahan perairan semakin dalam cahaya menembus ke dalam air. Kecerahan air menentukan ketebalan lapisan produktif. Berkurangnya kecerahan air akan mengurangi kemampuan fotosintesis tumbuhan air, selain itu dapat pula mempengaruhi kegiatan fisiologi biota air, dalam hal ini bahan-bahan ke dalam suatu perairan terutama yang berupa suspensi dapat mengurangi kecerahan air (KLH dan LON-LIPI, 1983 dalam Mansyur, 2000).</p>
+<p style="text-align: justify;">
+	Kecerahan air tergantung pada warna dan kekeruhan. Kecerahan merupakan ukuran transparansi perairan, yang ditentukan secara visual dengan menggunakan secchi disk yang dikembangkan oleh Profesor Secchi&nbsp; pada abad ke-19. Nilai kecerahan dinyatakan dalam satuan meter. Nilai ini sangat dipengaruhi oleh keadaan cuaca, waktu pengukuran, padatan tersuspensi dan kekeruhan serta ketelitian orang yang melakukan pengukuran. Tingkat kecerahan air dinyatakan dalam suatu nilai yang dikenal dengan kecerahan secchi disk (Effendi, 2000).</p>
+<p style="text-align: justify;">
+	Kondisi Perairan Pulau Menjangan Besar&nbsp; memenuhi standar baku mutu berdasarkan KEPMEN LH No 51 Tahun 2004 tentang baku mutu air laut sebagai perairan pelabuhan dan wisata bahari,&nbsp; dan biota air laut dengan parameter Kecerahan.</p>
+<p style="text-align: justify;">
+	<strong>Plankton (Kesuburan Perairan)</strong></p>
+<p style="text-align: justify;">
+	Berdasarkan hasil sampling di perairan Pulau Menjangan Besar pada Bulan Juni 2014 yang dilakukan di 2 (dua) lokasi yaitu (1) Sampel Barat (1 MB) pada koordinat <strong>E : 110,418&deg; &amp; S : -5,888&deg;</strong> dan (2) Sampel Timur (MBP 2) pada koordinat <strong>E : 110,437&deg; &amp; S : -5,893&deg;</strong>, diketahui bahwa kelimpahan plankton tertinggi terdapat pada titik 1 MB sebesar 1850 ind/liter. Kehadiran <em>Rhizosolenia</em> dan <em>Thallassiotrix </em>sangat mendominasi pada lokasi 1 MB dan MBP 2.</p>
+<p style="text-align: justify;">
+	Indeks keanekaragaman plankton berkisar antara 1,88-2,16. Hal ini menunjukan bahwa keanekaragaman spesies plankton di seluruh lokasi berada pada kategori sedang (1<h’< .="" 15="" bahwa="" berada="" di="" kategori="" keseragaman="" lokasi="" menunjukkan="" nilai="" p="" pada="" plankton="" seluruh="" spesies="" yang=""> </h’<></p>
+</div></p>
+
+<hr>
+
+<h2><a id="sp">Sarana dan Prasarana</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<h2><a id="pi">Peluang Investasi</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<h2><a id="pap">Potensi dan Arahan Pengembangan</a></h2>
+<p><div class="readmore"><p style="text-align: justify;">
+	Potensi pengembangan Pulau Menjangan Besar lebih besar berada di wilayah perairan yang berupa spot penyelaman, kolam penangkaran hiu, dan wisata pantai pasir putih. Sedangkan untuk wilayah daratan terdapat tempat penetasan penyu namun saat ini sudah tidak terpakai hanya tersisa bangunan kosong dan kolam penetasan telur penyu.</p>
+<ol>
+	<li style="text-align: justify;">
+		Wisata Selam (wisata bawah air)</li>
+</ol>
+<p style="margin-left: 14.2pt; text-align: justify;">
+	Spot penyelaman terbaik ada pada titik LIT dalam pembahasan ekosistem terumbu karang yaitu pada Menjangan Besar Site 1 (barat) dengan posisi E : 110,421937&deg; dan S : -5,894&deg;, Menjangan Besar site 2 (timur) dengan posisi E : 110,443567&deg; dan&nbsp; S : -5,888&deg;. Pada spot ini para wisatawan akan dimanjakan dengan berbagai macam jenis terumbu karang yang kondisinya masih baik. Ikan karang yang mendiami terumbu karang juga bervariasi jenisnya.</p>
+<ol>
+	<li style="text-align: justify;" value="2">
+		Penangkaran Hiu</li>
+</ol>
+<p style="margin-left: 14.2pt; text-align: justify;">
+	Lokasi penangkaran hiu yang ada di Pulau Menjangan Besar berada tepat di dermaga pulau. Setiap wisatawan yang masuk dan berwisata di pulau ini akan melewati kolam penangkaran ikan hiu. Bukan hanya untuk melihat saja, namun wisatawan diperbolehkan untuk berenang bersama hiu-hiu yang ada di kolam dengan didampingi oleh petugas yang ada.&nbsp;</p>
+<ol>
+	<li style="text-align: justify;" value="3">
+		Wisata Pantai</li>
+</ol>
+<p style="margin-left: 14.2pt; text-align: justify;">
+	Wisata pantai di Pulau Menjangan Besar juga banyak diminati. Hal ini sangat didukung oleh kontur pulau yang landai sehingga kedalaman laut disekitar pantai tidak membahayakan bagi para wisatawan. Pantai dengan pasir putih sebagian besar berada pada sisi sebelah barat utara dan barat pulau.</p>
+<p style="text-align: justify;">
+	Pengembangan dan optimalisasi potensi sebuah wilayah (pulau-pulau kecil) akan sangat bergantung kepada kondisi wilayah, kondisi ekosistem, dan partisipasi masyarakat. Pemanfaatan potensi tersebut akan berjalan lancar jika beberapa faktor tersebut mampu berjalan dengan selaras tanpa ada yang merasa dirugikan. Pengembangan Pulau Menjangan Besar juga harus sesuai dengan aturan-aturan yang melekat pada pulau, seperti aturan mengenai status kawasan pulau. Terdapat beberapa kendala dalam proses pengembangan Pulau Menjangan Besar diantaranya adalah masih minimnya dukungan dari pemerintah dalam rangka memenuhi fasilitas pariwisata. Sebagai kawasan yang termasuk kedalam zona pemanfaatan wisata bahari dan budidaya bahari, Pulau Menjangan besar masih perlu mengembangkan potensi wisata dan potensi budidaya. Penetasan telur penyu yang pernah ada dapat diaktifkan atau difungsikan kembali. Hal ini selain menjadi fungsi budidaya (konservasi), kegiatan penangkaran penyu juga dapat dijadikan sebagai daya tarik untuk wisatawan.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="kp">Kendala Pengembangan</a></h2>
+<p><div class="readmore"><p style="text-align: justify;">
+	<strong>Kendala Pengembangan Pulau</strong></p>
+<p style="text-align: justify;">
+	Pentingnya mengetahui kondisi dan potensi suatu pulau kecil adalah menggali informasi baik dengan survei kondisi sumberdaya alam secara langsung ataupun dengan menggali informasi dari masyarakat setempat dan masyarakat yang memanfaatkan pulau tersebut. Penggalian informasi kepada masyarakat biasanya melalui pertemuan atau diskusi kecil dengan para tokoh masyarakat. <em>Focus Group Discussion</em> merupakan salah satu metode pengumpulan data untuk menampung aspirasi dan usulan masyarakat tentang kondisi pulau. Hal ini perlu dilakukan karena pola identifikasi ini harus melibatkan masyarakat agar tidak terjadi kesalahan dalam penetapan kebijakan pengembangan pulau.</p>
+<p style="text-align: justify;">
+	Metode ini juga pernah digunakan pada kegiatan identifikasi potensi dan pemetaan Pulau Parang dan Pulau Nyamuk yang hasilnya sangat membantu terhadap kegiatan ini. Sama seperti halnya di Pulau Parang dan Pulau Nyamuk, potensi dan kendala pengembangan di Pulau Menjangan Besar hampir sama yaitu berfokus pada sektor wisata bahari sesuai dengan status kawasan pulau. Kesadaran masyarakat mengenai kondisi ekosistem pesisir ini akan sangat membantu dalam pelestarian ekosistem pulau itu sendiri meskipun pemanfaatannya juga masih dapat dioptimalkan.</p>
+<p style="text-align: justify;">
+	Kendala-kendala lainnya yang menjadi prioritas penanganan antara lain adalah kondisi perairan dengan kandungan timbal yang tinggi dan fasilitas wisata yang terbatas. Telah diulas di subbab kualitas air, kandungan timbal di perairan Pulau Menjangan Besar diatas baku mutu air laut berdasarkan KEPMEN LH No 51 Tahun 2004. Sedangkan untuk fasilitas pendukung wisata yang diperlukan antara lain sumberdaya listrik yang masih terbatas, dermaga, sumber air tawar, resort/penginapan, dan fasilitas kebersihan. Belum adanya aturan tegas untuk wisatawan juga ikut menjadi ancaman bagi kondisi ekosistem yang merupakan daya tarik utama wisata.&nbsp;</p>
+<p>
+	&nbsp;</p>
+</div></p>
+
+<hr>
+
+<h2><a id="rf">Referensi</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<br />
+	<i> 
+		<p style="font-size:12px;">
+			Karena keterbatasan SDM dalam penginputan dan pengolahan data, kami mohon maaf atas ketidak lengkapan beberapa data pulau yang kami tampilkan, harap dimaklumi.
+			Berikan keritik dan saran pada kolom komentar agar kita dapat bersama menyajikan sebuah data yang cukup sempurna untuk halayak ramai yang berguna
+			demi kesejahterahan, kelestarian dan keindahan pulau-pulau kecil yang dimiliki Indonesia.<br />
+			*Jika sekiranya anda memiliki data yang cukup banyak, silakan mengirimkan file melalui email kami di <b><a>identifikasippk@gmail.com</a></b>
+			
+		</p>
+	</i>
+<br />
+
+<div id="fb_comn" class="fb-comments" data-href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_info/4303" data-width="800" data-numposts="5" data-colorscheme="light"></div>
+
+
+</div>
+</div>
+</div>
+<div id="wrapper">
+
+<div class="footer"><p>
+<!--<marquee onmouseover="this.stop()" onmouseout="this.start()" scrollamount="5" direction="right" width="798" height="14"  behavior="scroll">-->
+<a href="http://www.ppk-kp3k.kkp.go.id/" target="_blank">Direktorat Pendayagunaan Pulau-Pulau Kecil &nbsp; | &nbsp;</a>
+<a href="http://www.kp3k.kkp.go.id/" target="_blank">Ditjen Kelautan, Pesisir dan Pulau-Pulau Kecil &nbsp; | &nbsp;</a>
+<a href="http://www.kkp.go.id/" target="_blank">Kementerian Kelautan dan Perikanan</a>
+<!--</marquee>--> <br />
+Jl. Medan Merdeka Timur No. 16 Gedung Mina Bahari 3 Lantai 10, Jakarta, Indonesia <br />
+Email : identifikasippk@gmail.com <br />
+Telp &amp; Fax: (021) 3522058 <br />
+&copy; Copyright Direktorat Pendayagunaan Pulau-Pulau Kecil 2012&nbsp; <br /></p>
+</div>
+</div>
+</body>
+</html>

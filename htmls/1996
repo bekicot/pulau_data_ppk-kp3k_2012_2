@@ -1,0 +1,818 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Pulau Kuil</title>
+
+<meta charset="utf-8"/>
+
+<meta property="fb:app_id" content="559408774147878" />
+
+
+<meta property="og:title" content="Pulau Kuil" />
+<meta property="og:url" content="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_info/1996" />
+
+
+    <script type="text/javascript" src="http://ajax.microsoft.com/ajax/jquery/jquery-1.4.4.min.js">
+    </script>
+    
+    <script type="text/javascript" src="http://plugins.learningjquery.com/expander/jquery.expander.js">
+    </script>
+    
+    <script type="text/javascript">
+        $(function () {
+            $('div.readmore').expander({
+                slicePoint:200,
+                expandText: '(Baca selengkapnya)',
+                userCollapseText: '(Sembunyikan selengkapnya)'
+            });
+        });
+    </script>
+        
+	<script src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/galleria/galleria-1.2.8.min.js"></script>
+
+        <SCRIPT TYPE="text/javascript">
+            <!--
+            //Disable right click script
+            //visit http://www.rainbow.arch.scriptmania.com/scripts/
+            var message="Sorry, right-click has been disabled";
+            ///////////////////////////////////
+            function clickIE() {if (document.all) {(message);return false;}}
+            function clickNS(e) {if
+            (document.layers||(document.getElementById&&!document.all)) {
+            if (e.which==2||e.which==3) {(message);return false;}}}
+            if (document.layers)
+            {document.captureEvents(Event.MOUSEDOWN);document.onmousedown=clickNS;}
+            else{document.onmouseup=clickNS;document.oncontextmenu=clickIE;}
+            document.oncontextmenu=new Function("return false")
+            // -->
+            </SCRIPT>
+            
+            <SCRIPT TYPE="text/javascript">
+            <!--
+            //Disable select-text script (IE4+, NS6+)
+            //visit http://www.rainbow.arch.scriptmania.com/scripts/
+            ///////////////////////////////////
+            function disableselect(e){
+            return false
+            }
+            function reEnable(){
+            return true
+            }
+            //if IE4+
+            document.onselectstart=new Function ("return false")
+            //if NS6
+            if (window.sidebar){
+            document.onmousedown=disableselect
+            document.onclick=reEnable
+            }
+            // -->
+            </SCRIPT>  
+              
+<link rel="stylesheet" type="text/css" href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/css/main.css" media="screen"/>
+<style type='text/css'>
+#info_wrap{
+	width:820px;
+	margin:0 auto;
+	text-shadow:0px 1px 1px #09F;
+}
+table{
+	color:#000000;
+}
+h1{
+	color:#000000;
+}
+.tengahin{
+	width: 105px;
+	height: 30px;
+	margin: 0 auto auto auto;
+}
+#box_view{
+	background-image:-webkit-gradient(linear, 0 0%, 0 100%, from(#FFFFFF), to(#E0F0F5));
+	background:#FFF;
+	color:#F60;
+	border: 1px solid #fff;
+	border-radius: 4px 4px 4px 4px;
+	box-shadow: 0 8px 6px -6px black;
+	position:fixed;
+	right:0;
+	top:150px;;
+	width:80px;
+	z-index:10;
+	padding-left:12px;
+	font-size:10px;
+	}
+#box_view li{
+	color:#F60;
+	margin-left:-30px;
+	}
+	#wrapper a b {
+	color: #FFF;
+	font-size:14px;
+}
+.batas{
+	float:left;
+	border-right-style:inset;
+	border-right-width:thin;
+	}
+.text_h_wrap{
+	
+	padding-left:450px;
+	padding-top:39px;
+	text-shadow:0px 1px 1px #09F;
+	}
+#wrapper .footer p{
+	font-size:12px;
+	color: #FFF;
+	text-align:center;
+	text-shadow:0px 1px 1px #09F;
+}
+td,th {
+	font-size: 12px;
+}
+
+marquee a{
+	color:#FFF
+	}
+#wrapper .footer a{
+	color: #FFFFFF;
+}
+</style>
+            
+<script>
+function goBack()
+  {
+  window.history.back()
+  }
+</script>
+<script type="text/javascript">
+function Popup( url, height, width )
+{
+    var windowProperties = "toolbar = 0, scrollbars = 1, location = 0, statusbar = 0, menubar = 0, resizable = 1, width = " + width + ", height = " + height + ", left = 50, top = 50";
+ 
+    return window.open( url, "", windowProperties );
+}
+</script>
+
+
+
+</head>
+<body oncontextmenu='return false;' onkeydown='return false;' onmousedown='return false;'>
+
+<a id="top_view"></a>
+<div id="wrapper">
+<div class="header_wrap">
+<div class="text_h_wrap">
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/home_page'><b>&nbsp;Home&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/menu_info/1'><b>&nbsp;About Us&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_data'><b>&nbsp;Direktori Pulau&nbsp;&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/program_ip'><b>&nbsp;IKU&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/data_ppkt'><b>&nbsp;PPKT&nbsp;</b></a>
+</div>
+<!--<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/maintenance'><b>&nbsp;Login&nbsp;</b></a>-->
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/dir_log_cont'><b>&nbsp;Login&nbsp;</b></a>
+
+</div>
+</div>
+</div>
+
+<div id="fb-root"></div>
+<script>
+  window.fbAsyncInit = function() {
+    // init the FB JS SDK
+    FB.init({
+      appId      : '559408774147878',                        // App ID from the app dashboard
+      status     : true,                                 // Check Facebook Login status
+      xfbml      : true                                  // Look for social plugins on the page
+    });
+
+    // Additional initialization code such as adding Event Listeners goes here
+  };
+
+  // Load the SDK asynchronously
+  (function(){
+     // If we've already installed the SDK, we're done
+     if (document.getElementById('facebook-jssdk')) {return;}
+
+     // Get the first script element, which we'll use to find the parent node
+     var firstScriptElement = document.getElementsByTagName('script')[0];
+
+     // Create a new script element and set its id
+     var facebookJS = document.createElement('script'); 
+     facebookJS.id = 'facebook-jssdk';
+
+     // Set the new script's source to the source of the Facebook JS SDK
+     facebookJS.src = '//connect.facebook.net/en_US/all.js';
+
+     // Insert the Facebook JS SDK into the DOM
+     firstScriptElement.parentNode.insertBefore(facebookJS, firstScriptElement);
+   }());
+</script>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=559408774147878";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="box_view">
+    <a href="#top_view">MENU</a>
+    <h3><p>Lihat Informasi:</p></h3>
+    <ul>
+	<a href="#sf"><li>Slide Foto</li></a>
+    <a href="#gu"><li>Gambaran Umum</li></a>
+    <a href="#ksbk"><li>Kependudukan, Sosial Budaya dan Kelembagaan</li></a>
+    <a href="#eshp"><li>Ekosistem dan Sumberdaya Hayati</li></a>
+    <a href="#snh"><li>Sumberdaya Non Hayati</li></a>
+    <a href="#aps"><li>Aktivitas Pengelolaan Sumberdaya</li></a>
+    <a href="#ling"><li>Lingkungan</li></a>
+    <a href="#sp"><li>Sarana dan Prasarana</li></a>
+    <a href="#pi"><li>Peluang Investasi</li></a>
+    <a href="#pap"><li>Potensi Arahan Pengembangan</li></a>
+    <a href="#kp"><li>Kendala Pengembangan</li></a>
+	<a href="#rf"><li>Referensi</li></a>
+    </ul>
+    <a href="#fb_comn">KOMENTAR</a>
+</div>
+
+<br>
+			<a id="sf"></a></h2>
+			<div id="galleria">
+            <!--<div class='tengahin'><input type="button" value="Kembali Ke List" onclick="goBack()"></div>-->
+                            </div>
+            
+            <script>
+            Galleria.loadTheme('http://www.ppk-kp3k.kkp.go.id/direktori-pulau/galleria/themes/classic/galleria.classic.min.js');
+            Galleria.run('#galleria');
+            </script>
+</div>
+
+<div id="text_warp">
+
+
+<p><h1>Kuil</h1></p>
+<table>
+<tr>
+	<td>Nama Lain</td> <td>:</td> <td></td>
+</tr>
+<tr>
+	<td>Propinsi</td> <td>:</td> <td>KEPULAUAN BANGKA BELITUNG</td>
+</tr>
+<tr>
+	<td>Kabupaten</td> <td>:</td> <td>KABUPATEN BELITUNG</td>
+</tr>
+<tr>
+	<td>Kecamatan</td> <td>:</td> <td></td>
+</tr>
+<tr>
+	<td>Koordinat</td> <td>:</td> <td><a href="http://www.ppk-kp3k.kkp.go.id/giskkp/index.html?extent="target="_blank">2° 59' 4.000</a></td>
+</tr>
+</table>
+<hr>
+
+<h2><a id="gu">Gambaran Umum</a></h2>
+<p><div class="readmore"><p style="text-align: justify;">
+	<span style="color:#ff0000;"><strong>GAMBARAN UMUM</strong></span></p>
+<p style="text-align: justify; margin-left: 40px;">
+	Pulau Kuils ecara administratif berada wilayah Desa Gersik, Kecamatan Selat Nasik, Kabupaten Belitung, Provinsi Bangka Belitung. Secara geografis berada pada koordinat <sup>0</sup> &rsquo; &rdquo; LS dan <sup>0</sup>&rsquo; &rdquo; BT.Pulau Kuil memiliki nama yang berarti bangunan Kuil atau tempat beribadah bagi umat Tionghoa, karena menurut penuturan masyarakat yang mendiami pulau tersebut dahulu kala terdapat kuil yang digunakan untuk beribadah orang Cina. Jauh sebelum didiami oleh penduduk saat ini, Pulau Kuil merupakan pulau tidak berpenduduk yang biasa digunakan sebagai tempat singgah pedagang dari Cina hingga akhirnya terdapat lima orang Cina yang menetap di pulau dan berprofesi sebagai pengumpul ikan dari nelayan, kemudian mendirikan kuil untuk tempat beribadah. Karena terdapat kuil maka orang cina tersebut menamakan pulau ini sebagai Pulau Kuil.</p>
+<p style="text-align: justify; margin-left: 40px;">
+	Pulau Kuil berpenduduk hampir 90% merupakan Suku Bugis, yang sebagian besar bekerja di sektor perikanan, sisanya merupakan pendatang dari daratan Pulau Bangka dan Belitung. Untuk memenuhi kebutuhan pokok sehari-hari dan membeli es untuk menangkap ikan, masyarakat lebih senang membeli di Sadai, Bangka Selatan dengan jarak tempuh sekitar 2 jam dengan menggunakan kapal motor kayu dibandingkan ke Tanjung Pandan karena memiliki jarak tempuh yang lebih lama sekitar 5-6 Jam. Tetapi sebagai tempat menjual hasil tangkapan dan tempat pusat perekonomian tidak jarang penduduk tetap ke Tanjung Pandan.</p>
+<p style="text-align: justify; margin-left: 40px;">
+	Pulau Kuil merupakan salah satu pulau berpenduduk yang berada dibawah Desa Gersik dimana pusat pemerintahan terdapat di Pulau Gersik sehingga sebagian kegiatan perkumpulan dipusatkan di Pulau Gersik, Desa Gersik sendirimembawahi 15 pulau di sekitarnya, dimana 5 pulau diantaranya berpenduduk, yaitu: Pulau Gersik, Pulau Kuil, Pulau Aur, Pulau Kalambau, dan Pulau Buntar. Pulau-pulau yang tidak berpenduduk yaitu Pulau Kimar, Pulau Bangkai, Pulau Cina, Pulau Aji, Pulau Panjang, Pulau Gusungru&rsquo;, Pulau Sunuk, Pulau Kapal, Pulau Bakau, dan Pulau Selema. Gugusan pulau ini terletak di Selat Gaspar atau di bagian barat Pulau Belitung.</p>
+<p style="text-align: justify;">
+	<span style="color:#ff0000;"><strong>AKSESIBILITAS</strong></span></p>
+<p style="text-align: justify; margin-left: 40px;">
+	Aksesibilitas menuju Pulau Kuil tidak semudah ke Pulau Gersikkarena banyak kapal nelayan yang pulang-pergi Tanjung Pandan &ndash; Pulau Gersik, untuk menuju ke Pulau Kuil maka harus menyambung kapal Nelayan dari Pulau Gersik ke Pulau Kuil. Hampir seminggu tiga kali ada saja kapal nelayan dari Gersik yang singgah ke Tanjung Pandan untuk menjual hasil tangkapan atau berbelanja kebutuhan pokok, es balok, dan bahan bakar minyak (BBM). Untuk transportasi regular seperti taksi laut tidak tersedia, adapun kapal penumpang reguler dari Tanjung Pandan hanya mencapai Pulau Mendanau sebagai pusat pemerintahan Kecamatan Selatnasik, dari Pulau Mendanau harus menyambung dengan menyewa atau menumpang kapal nelayan. Perjalanan dari Tanjung Pandan menuju Pulau Kuil apabila menggunakan kapal kayu memakan waktu sekitar 5 &ndash; 6 jam namun apabila menggunakan speed boat dengan 2 mesin yang masing-masing berkekuatan 200 PK hanya memakan waktu selama 2-3 jam. Kegiatan perekonomian masyarakat Pulau Kuil lebih banyak dilakukan ke Sadai, Bangka Selatan dengan menggunakan kapal kayu selama 2 jam untuk membeli es balok ataupun menjual sebagian hasil tangkapan.</p>
+<p style="text-align: justify;">
+	<span style="color:#ff0000;"><strong>Klimatologi</strong></span></p>
+<p style="text-align: justify; margin-left: 40px;">
+	Secara umum kondisi iklim di pulau ini sama dengan iklim di Kabupaten Belitung, yaitu beriklim tropis dengan dua musim (kemarau dan hujan) dimana curah hujan bulanan antara 3,3 mm sampai 691,6 mm.Rata-rata suhu udara bervariasi antara 24,0<sup>0</sup>C sampai 27,9<sup>0</sup>C, dimana kelembaban udaranya antara 81% sampai 92%.</p>
+<p style="text-align: justify;">
+	<span style="color:#ff0000;"><strong>Hidrologi</strong></span></p>
+<p style="text-align: justify; margin-left: 40px;">
+	Meskipun pulaunya cukup kecil dengan penduduk yang tidak terlalu padat dan sedikit lahan terbuka untuk perkebunan namun air tawar di pulau ini mudah didapatkan. Hampir di setiap rumah memiliki sumur yang dialirkan ke dalam rumah menggunakan pompa air. Air tawar tidak akan habis meskipun saat musim kemarau tiba, hanya debit airnya berkurang.</p>
+<p style="text-align: justify;">
+	<span style="color:#ff0000;"><strong>Topografi</strong></span></p>
+<p style="text-align: justify; margin-left: 40px;">
+	Topografi pulau ini sangat datar dengan ketinggian mencapai 5 meter di atas permukaan laut. Tidak ada bukit atau bebatuan, hanya ada hamparan pasir dan padang rumput yang cukup luas yang dijadikan permukiman penduduk.</p>
+<p style="text-align: justify;">
+	&nbsp;</p>
+</div></p>
+
+<hr>
+
+<h2><a id="ksbk">Kependudukan, Sosial Budaya dan Kelembagaan</a></h2>
+<p><div class="readmore"><p style="text-align: justify;">
+	<span style="color:#ff0000;"><strong>KEPENDUDUKAN</strong></span></p>
+<p style="text-align: justify; margin-left: 40px;">
+	Pulau Kuil terdiri dari 1 dusun, dimana dusun tersebut memiliki 3 rukun tetangga (RT) yaitu RT 09, 10, dan 11. Jumlah penduduk Pulau Kuil relatif lebih sedikit dibandingkan Pulau Gersik yaitu, sebanyak 571 jiwa dengan jumlah Kepala Keluarga sebanyak kurang lebih 118 KK. Sebagian besar penduduk Pulau Kuil berasal dari Suku Bugis dan sudah bercampur dengan Melayu karena banyak yang sudah menikah dengan penduduk daratan belitung. Penduduk Pulau kuil seluruhnya memeluk agama islam.</p>
+<p style="margin-left: 40px; text-align: justify;">
+	Mata Pencaharian sebagian besar masyarakat adalah bergerak di sektor perikanan, disamping ada juga yang menjadi PNS, guru, pembuat kapal, dll. Berbeda dengan nelayan di Pulau Gersik yang mayoritas menggunakan payang, Nelayan di Pulau Kuil sebagian besar menangkap ikan dengan menggunakan Pancing dan Jaring kemudian sisanya menangkap ikan dengan menggunakan Payang, nelayan Payang rata-rata menangkap ikan dengan nelayan Pulau Gersik. Nelayan yang mengoperasikan alat tangkap pancing, jaring dan payang disekitar perairan Desa Gersik hingga Bangka Selatan selama 8 bulan yaitu bulan April &ndash; November, sisanya, yaitu Desember &ndash; Maret, ada memancing ikan hingga ke Selat Karimata, ada juga yang tidak menangkap ikan karena cuaca buruk. Sama halnya seperti nelayan payang, nelayan pancing dan jaring Kapal yang digunakan untuk memancing berukuran 3 GT dengan ABK berjumlah 8 orang. Nelayan pancing sudah membentuk kelompok dan telah menerima bantuan berupa bubu dari KKP yang langsung disalurkan ke 6 kelompok di Desa Gersik.</p>
+<p style="margin-left: 40px; text-align: justify;">
+	Ikan Hasil tangkapan dengan pancing terdiri dari Tenggiri, Tongkol, Kembung dan Terisi. Ikan hasil tangkapan dengan jaring terdiri dari Ikan Kembung, Tenggiri dan Tongkol, Ikan hasil payang antara lain laisi dan selar yang kemudian diolah menjadi ikan asin melalui&nbsp; proses yaitu hanya dikeringkan saja. Ikan asin tersebut selanjutnya dijual ke pengepul dari Lampung atau Jakarta yang datang langsung ke Pulau Gersik dan Pulau Kuil. Berbeda halnya dengan hasil tangkapan payang, nelayan pancing dan jaring menjual ikan segar kepada pengumpul yang kemudian dijual ke Tanjung Pandan dan Pulau Bangka.</p>
+<p style="margin-left: 40px; text-align: justify;">
+	Terdapat 4 Pengumpul Ikan sekaligus Pemodal Kapal penangkap ikan di Pulau Kuil yang mengumpulkan ikan segar langsung dari Nelayan Pancing dan Jaring kemudian dijual ke Belitung dan Bangka. Lain halnya dengan Pulau Gersik, Pulau Kuil hanya memiliki 1 orang pengering ikan yaitu H. Nyala yang memiliki usaha tersebut untuk memfasilitasi nelayan Payang maupun Jaring agar hasil tangkapan yang berlebih tidak cepat rusak dan masih dapat dijual. Walaupun tidak sepadat Pulau Gersik, Pulau Kuil memiliki jumlah armada penangkapan ikan yang cukup banyak yaitu sebanyak 102 armada tangkap.</p>
+<p style="margin-left: 40px; text-align: justify;">
+	Usaha pendukung perikanan lainnya adalah pembuatan kapal yang dilakukan oleh beberapa penduduk Pulau Kuil. Produksi kapal dari Pulau Gersik dan Kuil ini cukup terkenal kualitasnya dikalangan nelayan Bangka Belitung hingga ke Jakarta. Selain harganya mampu bersaing, kualitasnya juga terjamin. Beberapa warga yang bergerak dalam usaha ini, mempekerjakan 2 sampai 3 orang tukang yang berasal dari sanak saudara sendiri untuk membantu mengerjakan satu buah kapal.</p>
+<p style="margin-left: 40px; text-align: justify;">
+	Untuk menyelesaikan 1 buah kapal memerlukan waktu 3 bulan atau lebih tergantung ukuran dan tingkat kesulitan dalam pembuatannya. Semakin besar kapal tentunya waktu yang dibutuhkan akansemakin lama. Kayu yang digunakan untuk membuat kapal berasal dari daratan Pulau Mendanau,Tanjung Labu, dan Pulau Pongok, untuk mengeksploitasinya harus menggunakan surat pengantar dari Kepala Desa Gersik. Hal ini untuk menghindari eksploitasi kayu berlebih dan menjaga hutan tetap lestari. Harga 1 unit kapal yaitu badan/&rdquo;body&rdquo;nya saja tidak termasuk mesin kapal, berkisar antara 50 juta hingga 130 juta tergantung ukuran (Gross Ton/GT).</p>
+<p style="margin-left: 40px; text-align: justify;">
+	Payang atau istilah lokal &ldquo;mayang&rdquo; membutuhkan rumpon atau &ldquo;rompang&rdquo; untuk mengumpulkan ikan. Para nelayan Desa Gersik membentuk suatu kelompok pelestari rompang untuk mempertahankan jumlah tangkapan. Para nelayan yang menangkap ikan di perairan Desa Gersik tidak diperbolehkan menangkap ikan dengan menggunakan lampu dalam operasi penangkapannya, hal ini dilakukan agar ikan-ikan kecil tidak ikut tertangkap. Kearifan lokal ini sudah turun temurun dan terbukti hasil tangkapan ikan tidak berkurang. Sayangnya nelayan payang belum memiliki kelompok sehingga kesulitan untuk mendapatkan bantuan dari pemerintah.</p>
+<p style="text-align: justify;">
+	<span style="color:#ff0000;"><strong>KELEMBAGAAN</strong></span></p>
+<p style="text-align: justify; margin-left: 40px;">
+	Adat istiadat yang masih melekat di masyarakat tidak lepas dari budaya Bugis seperti Salama&rsquo; Kampung atau Larung Laut yaitu membuang hasil bumi ke laut tepatnya di areal rumpon. Makanan tradional Bugis juga masih dilestarikan masyarakat, antara lain untuk konsumsi pada saat pesta pernikahan, lebaran, atau hari-hari besar lainnya.</p>
+<p style="text-align: justify; margin-left: 40px;">
+	Struktur pemerintahan yang ada di Pulau Kuil ini terdiri dari Kepala Dusun yang di bantu oleh 3 kepala RT dengan pusat pemerintahan desa berada di Pulau Gersik sehingga kegiatan masyarakat dan perkumpulan banyak dilakukan di Pulau Gersik. Pertemuan antar kepala dusun dan kepala desa dilakukan bergilir di pulau-pulau yang berpenduduk di Aula Pertemuan. Kelembagaan non formal yang terbentuk di masyakarat antara lain majlis ta&rsquo;lim, kelompok pelestari rompong (rumpon),dan kelompok ibu PKK yang sebagian besar tidak berjalan.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="eshp">Ekosistem dan Sumberdaya Hayati</a></h2>
+<p><div class="readmore"><p style="text-align: justify;">
+	<span style="color:#ff0000;"><strong>TERUMBU KARANG</strong></span></p>
+<p style="text-align: justify; margin-left: 40px;">
+	Kondisi terumbu karang di Pulau Kuil dapat dikatakan sangat baik. Kondisi serupa ditemuka di pulau Kuil, kondisi perairan hanya bisa ditempuh oleh kapal kecil , dimana kapal kecil tersebut mengaitkan tali untuk berlabuh, kemudian menggunakan sampan untuk mencapai ke pantai.</p>
+<p style="text-align: justify; margin-left: 40px;">
+	Terumbu karang masih ditemukan pada kedalaman 2 meter, dengan kondisi yang cukup rapat. Adapun patahan karang yang ditemukan ini diduga akibat arus dan gelombang yang besar pada musim tertentu. Pulau Kuil memiliki bentuk dasar lautnya datar (<em>flat</em>) hingga sejauh kurang lebih 10 hingga 25 meter terumbu karang masih temukan, lalu kemudian menjadi landai hingga kedalaman kurang lebih 25 meter, dimana pada kedalaman ini penutupan substratnya mulai didominasi oleh pasir putih.</p>
+<p style="text-align: justify; margin-left: 40px;">
+	Kondisi terumbu karang di Barat Pulau Kuil tergolong Sangat Baik melihat dari persen tutupan karang kerasnya (HC) sebesar 75,1%. Karang mati beralga (DCA) ditemukan sebesar 11,8% dan patahan karang (R) sebesar 6,4%. Sponge dan karang lunak ditemukan dalam transek garis dengan nilai masing-masing tutupan sebesar 1,2% dan 0,3%. Terdapat abiotik yang masuk ke dalam transek garis, yaitu kayu sebesar 0,6%. Substrat pasir ditemukan sebesar 4,5% pada kedalaman 10 meter di lokasi ini.</p>
+<p style="text-align: justify; margin-left: 40px;">
+	Bentuk pertumbuhan karang yang dominan tumbuh di lokasi ini adalah karang lembaran (CF) sebesar 55,6%, selain itu terdapat juga bentuk pertumbuhan karang <em>Acropora</em> bercabang (ACB) sebesar 13,1%, 1,8% karang bercabang (CB), 1,8% karang jamur (CMR), 1,3% karang submasif (CS), 1,2% karang mengerak (CE), dan 0,4% karang masif (CM).</p>
+<p style="text-align: justify; margin-left: 40px;">
+	Pada lokasi kedua pengambilan data terumbu karang, Timur Pulau Kuil, persen tutupan karang kerasnya lebih tinggi dibanding pada lokasi pertama, yaitu sebesar 78,5%, namun karang mati beralga juga banyak ditemukan yaitu sebesar 19,8%. Pada lokasi ini lebih banyak ditemukan bintang laut berduri (<em>Acanthaster plancii</em>/COT) yang merupakan predator alami karang. Namun jika terjadi blooming (meledaknya populasi) COT akan menyebabkan degradasi yang pesat dari kondisi terumbu karang. Substrat pasir (S) ditemukan sebesar 1,1% dan patahan karang (R) sebesar 0,7%.</p>
+<p style="text-align: justify; margin-left: 40px;">
+	Bentuk pertumbuhan karang di lokasi ini tidak seberagam pada lokasi pertama. Karang lembaran juga merupakan bentuk pertumbuhan karang yang dominan tumbuh di lokasi ini. Bentuk pertumbuhan karang lainnya yaitu 17,3% karang submasif (CS), 1,9% karang mengerak (CE), 0,7% karang bercabang (CB), dan 0,2% karang massif (CM).</p>
+<p style="text-align: justify; margin-left: 40px;">
+	Genus karang yang ditemukan di Pulau Kuil yaitu sebanyak 25 genus, antara lain:</p>
+<p style="text-align: justify; margin-left: 40px;">
+	<em>Acropora</em>, <em>Ctenactis</em>, <em>Echinopora</em>, <em>Favia</em>, <em>Favites</em>, <em>Fungia</em>, <em>Galaxea</em>, Goniopora, <em>Heliofungia</em>, <em>Heliopora</em>, <em>Herpolitha</em>, <em>Hydnopora</em>, <em>Montastrea</em>, <em>Montipora</em>, <em>Mycedium</em>, <em>Pachyseris</em>, <em>Pavona</em>, <em>Pectinia</em>, <em>Physogyra</em>, <em>Plerogyra</em>, <em>Pocillopora</em>, <em>Porites</em>, <em>Sandalolitha</em>, <em>Serriatopora</em>, <em>Turbinaria</em>,</p>
+<p style="text-align: justify;">
+	<span style="color:#ff0000;"><strong>LAMUN</strong></span></p>
+<p style="text-align: justify; margin-left: 40px;">
+	Komunitas lamun di Pulau Kuil tumbuh di rataan terumbu (<em>reef </em>flat) di sekeliling pesisir pantai dengan substrat dasar perairannya berupa pasir. Pengamatan lamun dilakukan di empat titik stasiun pengamatan yang tersebar di sisi barat, utara, timur, dan selatan Pulau Kuil. Berdasarkan hasil pengamatan, Pulau Kuil hanya memiliki dua dari tiga belas jenis lamun.</p>
+<p style="text-align: justify; margin-left: 40px;">
+	Berdasarkan hasil pengamatan maka dapat dikatakan bahwa Pulau Kuil memiliki tingkat keanekaragaman lamun yang rendah yaitu hanya mempunyai dua jenis lamun saja, yaitu <em>Cymodocea serrulata</em> dan <em>Enhalus acoroides</em>. Di semua sisi pesisir Pulau Kuil rata-rata terdapat kedua jenis lamun tersebut dan hanya di bagian utara saja yang ditemukan satu jenis lamun yaitu jenis <em>Cymodocea serrulata</em>. Oleh karena itu, jika dilihat dari distibusi keberadaannya maka lamun jenis <em>Cymodocea serrulata</em> adalah yang paling dominan karena terdapat di semua titik pengamatan. <em>Cymodocea serrulata</em> juga mendominasi baik dari segi kerapatan maupun pentupan area di ekosistem lamun yang terdapat di sekeliling Pulau Kuil.</p>
+<p>
+	&nbsp;</p>
+</div></p>
+
+<hr>
+
+<h2><a id="snh">Sumberdaya Non Hayati</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<h2><a id="aps">Aktivitas Pengelolaan Sumberdaya</a></h2>
+<p><div class="readmore"><p style="text-align: justify;">
+	Pulau Kuil dapat dikatakan cukup baik dari armada penangkapan ikan yang ada dan kehidupan perekonomian masyarakat. Adapun potensi yang dapat dikembangkan antara lain:</p>
+<ol style="list-style-type:lower-alpha;">
+	<li style="text-align: justify;">
+		<p>
+			Pengeringan ikan</p>
+	</li>
+</ol>
+<p style="margin-left: 40px; text-align: justify;">
+	Usaha ini telah berjalan oleh 1 orang pengepul/pengering ikan saja dan dapat membantu meningkatkan harga jual ikan bernilai ekonomis rendah serta membantu nelayan ketika musim ikan sedang berlimpah agar tidak busuk. Banyaknya ikan laisi dan terisi hasil tangkapan payang dan jaring, menjadikan usaha ini dapat terus berkembang dan dipasarkan luas hingga ke Jakarta. Kendala yang dihadapi pengusaha adalah belum adanya pelatihan dari instansi terkait tentang proses pengolahan dan pengemasan yang baik agar nilai produk meningkat. Jumlah pengepul yang masih sangat sedikit hanya mampu menampung sedikit hasil tangkapan nelayan saja, sehingga perlu ada penambahan dan pembinaan bersama dengan Pengering ikan di Desa Gersik.</p>
+<ol style="list-style-type:lower-alpha;">
+	<li style="text-align: justify;" value="2">
+		<p>
+			Perikanan tangkap</p>
+	</li>
+</ol>
+<p style="margin-left: 40px; text-align: justify;">
+	Potensi perikanan di Selat Gaspar dan perairan sekitar Desa Gersik cukup besar. Hal ini menjadi magnet bagi nelayan lokal dan nelayan pendatang untuk mencari ikan di perairan tersebut. Alat tangkap yang biasa digunakan adalah payang, pancing dan jaring. Alat tangkap payang tanpa lampu cukup berkembang dan tetap dapat menghasilkan jumlah tangkapan yang berlimpah selain itu juga ramah lingkungan.</p>
+<ol style="list-style-type:lower-alpha;">
+	<li style="text-align: justify;" value="3">
+		<p>
+			Pembuatan Kapal</p>
+	</li>
+</ol>
+<p style="margin-left: 40px; text-align: justify;">
+	Usaha pembuatan kapal kayu dilakukan sebagian warga dibantu oleh beberapa pekerja yang berasal dari keluarga sendiri. Kapal buatan warga Pulau Kuil cukup terkenal hingga ke Bangka dan Jakarta dengan pelanggan tetap dan kualitas yang telah teruji sebagai kapal penangkap ikan.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="ling">Lingkungan</a></h2>
+<p><div class="readmore"><p>
+	<span style="color:#ff0000;"><strong>Kondisi Perairan Pulau Kuil</strong></span></p>
+<p style="margin-left: 40px;">
+	Pengamatan kualitas air juga dilakukan di Pulau Kuil di wilayah <a href="http://id.wikipedia.org/wiki/Selat_Nasik,_Belitung" title="Selat Nasik, Belitung">Kecamatan Selat Nasik</a>, <a href="http://id.wikipedia.org/wiki/Kabupaten_Belitung" title="Kabupaten Belitung">Kabupaten Belitung</a>, <a href="http://id.wikipedia.org/wiki/Provinsi" title="Provinsi">Provinsi</a><a href="http://id.wikipedia.org/wiki/Bangka_Belitung" title="Bangka Belitung"> Bangka Belitung</a>.</p>
+<p style="text-align: center;">
+	Hasil analisis kualitas air Pulau Kuil</p>
+<table align="center" border="1" cellpadding="0" cellspacing="0" style="width:73.28%;" width="73%">
+	<tbody>
+		<tr>
+			<td nowrap="nowrap" style="width:7.98%;height:20px;">
+				<p align="center">
+					<strong>No.</strong></p>
+			</td>
+			<td nowrap="nowrap" style="width:41.2%;height:20px;">
+				<p align="center">
+					<strong>Parameter</strong></p>
+			</td>
+			<td nowrap="nowrap" style="width:19.34%;height:20px;">
+				<p align="center">
+					<strong>Satuan</strong></p>
+			</td>
+			<td nowrap="nowrap" style="width:15.82%;height:20px;">
+				<p align="center">
+					<strong>Nilai</strong></p>
+			</td>
+			<td nowrap="nowrap" style="width:15.66%;height:20px;">
+				<p align="center">
+					<strong>BM*</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="width:7.98%;height:20px;">
+				<p align="center">
+					1</p>
+			</td>
+			<td nowrap="nowrap" style="width:41.2%;height:20px;">
+				<p>
+					Suhu</p>
+			</td>
+			<td nowrap="nowrap" style="width:19.34%;height:20px;">
+				<p align="center">
+					<sup>0</sup>C</p>
+			</td>
+			<td nowrap="nowrap" style="width:15.82%;height:20px;">
+				<p align="center">
+					30,3-30,6</p>
+			</td>
+			<td nowrap="nowrap" style="width:15.66%;height:20px;">
+				<p align="center">
+					Alami</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="width:7.98%;height:20px;">
+				<p align="center">
+					2</p>
+			</td>
+			<td nowrap="nowrap" style="width:41.2%;height:20px;">
+				<p>
+					DO</p>
+			</td>
+			<td nowrap="nowrap" style="width:19.34%;height:20px;">
+				<p align="center">
+					&nbsp;mg/L</p>
+			</td>
+			<td nowrap="nowrap" style="width:15.82%;height:20px;">
+				<p align="center">
+					6,6-6,7</p>
+			</td>
+			<td nowrap="nowrap" style="width:15.66%;height:20px;">
+				<p align="center">
+					&gt; 5</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="width:7.98%;height:20px;">
+				<p align="center">
+					3</p>
+			</td>
+			<td nowrap="nowrap" style="width:41.2%;height:20px;">
+				<p>
+					pH</p>
+			</td>
+			<td nowrap="nowrap" style="width:19.34%;height:20px;">
+				<p align="center">
+					-</p>
+			</td>
+			<td nowrap="nowrap" style="width:15.82%;height:20px;">
+				<p align="center">
+					9,78-9,98</p>
+			</td>
+			<td nowrap="nowrap" style="width:15.66%;height:20px;">
+				<p align="center">
+					7-8,5</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="width:7.98%;height:20px;">
+				<p align="center">
+					4</p>
+			</td>
+			<td nowrap="nowrap" style="width:41.2%;height:20px;">
+				<p>
+					Salinitas</p>
+			</td>
+			<td nowrap="nowrap" style="width:19.34%;height:20px;">
+				<p align="center">
+					ppt</p>
+			</td>
+			<td nowrap="nowrap" style="width:15.82%;height:20px;">
+				<p align="center">
+					30-31</p>
+			</td>
+			<td nowrap="nowrap" style="width:15.66%;height:20px;">
+				<p align="center">
+					Alami</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="width:7.98%;height:20px;">
+				<p align="center">
+					5</p>
+			</td>
+			<td nowrap="nowrap" style="width:41.2%;height:20px;">
+				<p>
+					Amonia (NH<sub>3</sub>-N)</p>
+			</td>
+			<td nowrap="nowrap" style="width:19.34%;height:20px;">
+				<p align="center">
+					&nbsp;mg/L</p>
+			</td>
+			<td nowrap="nowrap" style="width:15.82%;height:20px;">
+				<p align="center">
+					1,396</p>
+			</td>
+			<td nowrap="nowrap" style="width:15.66%;height:20px;">
+				<p align="center">
+					0,3</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="width:7.98%;height:22px;">
+				<p align="center">
+					6</p>
+			</td>
+			<td nowrap="nowrap" style="width:41.2%;height:22px;">
+				<p>
+					Nitrat (NO<sub>3</sub>-N)</p>
+			</td>
+			<td nowrap="nowrap" style="width:19.34%;height:22px;">
+				<p align="center">
+					&nbsp;mg/L</p>
+			</td>
+			<td nowrap="nowrap" style="width:15.82%;height:22px;">
+				<p align="center">
+					0,111</p>
+			</td>
+			<td nowrap="nowrap" style="width:15.66%;height:22px;">
+				<p align="center">
+					0,008</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="width:7.98%;height:22px;">
+				<p align="center">
+					7</p>
+			</td>
+			<td nowrap="nowrap" style="width:41.2%;height:22px;">
+				<p>
+					Fosfat (PO<sub>4</sub>-P)</p>
+			</td>
+			<td nowrap="nowrap" style="width:19.34%;height:22px;">
+				<p align="center">
+					&nbsp;mg/L</p>
+			</td>
+			<td nowrap="nowrap" style="width:15.82%;height:22px;">
+				<p align="center">
+					0,048</p>
+			</td>
+			<td nowrap="nowrap" style="width:15.66%;height:22px;">
+				<p align="center">
+					0,015</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="width:7.98%;height:22px;">
+				<p align="right">
+					<strong>*)</strong></p>
+			</td>
+			<td colspan="4" nowrap="nowrap" style="width:92.02%;height:22px;">
+				<p>
+					<strong>: Baku Mutu Berdasarkan Kepmen-LH 51 Tahun 2004 (Untuk Biota Laut )</strong></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<div style="clear:both;">
+	&nbsp;</div>
+<p style="margin-left: 40px; text-align: justify;">
+	Pengukuran kualitas air Pulau Kuil dilakukan pada 7 parameter kualitas air, yaitu suhu, oksigen terlarut (DO), pH, salinitas, amonia, nitrat, dan fosfat. Suhu perairan Pulau Kuil berkisar antara 30,3-30,6 &deg;C. Nilai suhu ini menunjukkan kondisi perairan yang alamiah dan sesuai dengan baku mutu. Organisme akuatik memiliki kisaran suhu tertentu untuk mendukung pertumbuhannya (Nybakken 2000). Kisaran suhu optimum bagi pertumbuhan fitoplankton di perairan adalah 20-30 &deg;C. Konsentrasi oksigen terlarut berkisar antara 6,6-6,7 mg/L dan masih memenuhi baku mutu kualitas air. Oksigen terlarut tidak hanya digunakan untuk respirasi biota akuatik, namun juga untuk perombakan bahan organik. Oleh sebab itu, perairan yang kaya bahan organik cenderung memiliki oksigen terlarut rendah. Oksigen terlarut di perairan harus mencukupi kebutuhan organisme akuatik, khususnya pada malam hari, mengingat terhentinya aktivitas fotosintesis pada malam hari.</p>
+<p style="text-align: justify; margin-left: 40px;">
+	Perairan Pulau Kuil bersifat basa, dengan kisaran pH berkisar antara 9,78-9,98. Nilai ini normal ditemukan di pulau pesisir. Sumbangsih karbonat dari material patahan karang, cangkang avertebrata mati, serta bebatuan di dasar perairan menyebabkan nilai pH tinggi. Salinitas perairan juga memenuhi baku mutu, yaitu 30-31 ppt. Salinitas juga merupakan faktor penting bagi hewan akuatik. Biota laut dengan kisaran salinitas sempit (<em>euryhaline</em>) akan terganggu kehidupannya saat terjadi penurunan salinitas, misalkan sebagai akibat tingginya masukan air tawar dari sungai besar.</p>
+<p style="text-align: justify; margin-left: 40px;">
+	Pengukuran konsentrasi amonia (NH<sub>3</sub>) di Pulau Kuil menunjukkan hasil yang sangat tinggi dan jauh melebihi baku mutu, yaitu 1,396 mg/L (BM=0,3 mg/L). Pertumbuhan penduduk yang pesat di Pulau Kuil membawa dampak turunan pada meningkatnya jumlah buangan limbah rumah tangga ke pesisir pulau. Limbah rumah tangga berupa sisa makanan, mandi, cuci, dan kakus umumnya berupa bahan organik. Bahan organik yang masuk di perairan umumnya akan mengendap di dasar perairan karena densitas yang besar. Bahan organik akan mengalami proses perombakan (dekomposisi) yang membutuhkan oksigen terlarut. Namun, umumnya konsentrasi oksigen terlarut di dasar perairan cenderung rendah, sehingga dekomposisi akan berlangsung anaerob. Hasil dekomposisi anaerob adalah material toksik, diantaranya amonia. Buangan rumah tangga secara terus menerus ke badan air menyebabkan akumulasi amonia di perairan.</p>
+<p style="margin-left: 40px; text-align: justify;">
+	Kandungan nitrat dan fosfat di perairan Pulau Kuil menunjukkan nilai yang sedikit melebihi baku mutu kualitas perairan. Nitrat sebesar 0,111 mg/L (BM=0,008 mg/L) dan fosfat sebesar 0,048 mg/L (BM=0,015 mg/L). Nitrat dan fosfat mencerminkan keberadaan nutrien di perairan. Keduanya dapat bersumber dari limbah organik yang memasuki badan air, pupuk dari pertanian, deterjen dari air sisa cucian, serta kotoran hewan budidaya. Nutrien dibutuhkan organisme autotrof untuk fotosintesis serta sebagai penentu produktivitas primer suatu perairan. Perairan yang subur dinilai produktif dalam produksi perikanan. Namun, nutrien dalam jumlah berlebihan dapat menyebabkan pertumbuhan dari alga-alga yang tidak diharapkan. Alga-alga tersebut dapat menjadi penghambat pertumbuhan karang, lamun, dll. Hal ini tentu saja akan merugikan dan berdampak buruk bagi keberlanjutan ekologis ekosistem perairan pesisir. Oleh sebab itu, sangat penting dilakukan pengelolaan lingkungan pesisir dari segala aktivitas yang dapat mempengaruhi keberadaannya.</p>
+<p style="margin-left: 40px; text-align: justify;">
+	&nbsp;</p>
+</div></p>
+
+<hr>
+
+<h2><a id="sp">Sarana dan Prasarana</a></h2>
+<p><div class="readmore"><ol style="list-style-type: lower-alpha;">
+	<li style="text-align: justify;">
+		<strong>Transportasi</strong></li>
+</ol>
+<p style="text-align: justify; margin-left: 40px;">
+	Transportasi darat berupa sepeda motor dan sepeda banyak dijumpai di pulau ini untuk aktifitas sehari-hari atau mengelilingi pulau. Karena luas pulau yang tidak terlalu besar, sebagian masyarakat memilih berjalan kaki untuk menuju rumah saudara, pelabuhan, sekolah,atau fasilitas umum lainnya. Transportasi laut yang ada yaitu sampan untuk mobilisasi orang dan barang dari kapal menuju daratan pada saat surut, karena ketika surutkapal motor kayu tidak dapat sandar di dermaga. Kapal motor nelayan mulai dari ukuran kecil hingga besar digunakan untuk menangkap ikan atau melakukan jual beli hasil tangkapan dan barang kebutuhan pokok ke Tanjung Pandan maupun ke Bangka Selatan.</p>
+<p style="text-align: justify; margin-left: 40px;">
+	Untuk mempermudah tambat labuh kapal, telah dibangun dermaga dari beton namun pada saat surut dermaga ini kurang berfungsi karena kapal harus berlabuh cukup jauh dari dermaga dan untuk mencapai daratan memerlukan bantuan sampan atau perahu kecil. Untuk mengatasi hal ini, maka dermaga perlu dibangun agar lebih panjang sampai batas surut terendah.</p>
+<p style="text-align: justify; margin-left: 40px;">
+	Pembangunan dermaga merupakan bantuan dari Kementerian Pekerjaan Umum (PU) dengan rencana pembangunan dermaga sepanjang 350 meter namun baru terlaksana 200 meter dan sisa nya belum terlaksana hingga saat ini</p>
+<ol style="list-style-type:lower-alpha;">
+	<li style="text-align: justify;" value="2">
+		Penerangan</li>
+</ol>
+<p style="text-align: justify; margin-left: 40px;">
+	Penerangan di Pulau Kuil belum tersentuh Perusahaan Listrik Negara (PLN) Wilayah Bangka Belitung walaupun PLTS Terpusat sudah ada di Pulau Gersik sebagai pusat pemerintahan Desa Gersik. Bantuan LTS individu dari pemerintah telah dirasakan oleh sebagian warga, namun saat ini sebagian besarsudah rusak dan tidak berfungsi lagi. Penerangan yang ada di Pulau Kuil saat ini hanya menggunakan genset pribadi di setiap rumah bagi yang mampu, serta ada juga yang menggunakan Genset terpusat yang mengaliri beberapa rumah yang pengelolaannya secara swadaya. Bagi warga yang tidak mampu maka rumah mereka tidak memiliki penerangan.</p>
+<ol style="list-style-type:lower-alpha;">
+	<li style="text-align: justify;" value="3">
+		Air Bersih</li>
+</ol>
+<p style="margin-left: 40px; text-align: justify;">
+	Air tawar atau air bersih tersedia cukup melimpah di pulau ini. Hampir setiap rumah memiliki sumur yang dialirkan ke dalam rumah dengan menggunakan pompa air atau tanpa pompa dengan timba manual, ada juga sumur terpusat yang digunakan oleh beberapa rumah. Pada saat musim kemarau, air tawar masih tersedia meskipun debit air berkurang.Rata-rata Air sumur digunakan untuk mandi, cuci, masak dan minum, sedangkan bagi sebagian warga yang mampu lebih memilih menggunakan air minum isi ulang karena dirasakan lebih praktis dan bersih. Air minum isi ulang dapat diperoleh di tempat pengisian air minum isi ulang</p>
+<ol style="list-style-type:lower-alpha;">
+	<li style="text-align: justify;" value="4">
+		Sarana Sanitasi dan Kebersihan</li>
+</ol>
+<p style="margin-left: 40px; text-align: justify;">
+	Sarana Sanitasi yang ada di Pulau Kuil adalah 3 buah MCK dngan kondisi 1 Baru dan 2 lagi sudah rusak. MCK tersebut digunakan sebagian besar warga yang tidak memiliki kamar mandi di dalam rumah, sedangkan bagi warga yang sudah mampu dan memiliki sumur telah memiliki MCK di masing-masing rumah baik dialiri pompa maupun dengan timba air. Tidak terdapat sarana pengolah limbah di Pulau Kuil, rata-rata limbah rumah tangga dibuang langsung ke laut dan sampah yang ada dibakar di lubang pembakaran sampah. Warga Pulau Kuil sudah memiliki kesadaran yang cukup baik untuk menjaga kebersihan pulau, hal ini dapat terlihat dari jalanan dan lingkunagn pulau yang cukup bersih.</p>
+<ol style="list-style-type:lower-alpha;">
+	<li style="text-align: justify;" value="5">
+		Permukiman</li>
+</ol>
+<p style="margin-left: 40px; text-align: justify;">
+	Kondisi bangunan rumah warga cukup bervariasi, ada yang sudah permanen dan dalam kondisi yang cukup baik, ada pula yang hanya terbuat dari papandengan kondisi yang memprihatinkan, tergantung dari tingkat perekonomian masing-masing warga. Rata-rata rumah warga di Pulau Kuilsudah permanen dan sebagian besar bangunannya merupakan rumah panggung khas Suku Bugis.</p>
+<ol style="list-style-type:lower-alpha;">
+	<li style="text-align: justify;" value="6">
+		Jalan</li>
+</ol>
+<p style="margin-left: 40px; text-align: justify;">
+	Kondisi jalan cukup baik walaupun ada beberapa jalan yang sudah mulai rusak, berupa susunan paving block dan semenyangdibangun mengelilingi pulau dan masuk ke pemukiman, jalan tanah masih terdapat di beberapa gang-gang kecil .Lebar jalan ada yang mencapai 2 meter di Jalanan utama pulau. Jalanan ini cukup bersih, hampir tidak ada sampah karena masyarakat Pulau Kuil sangat menjaga kebersihan lingkungan. Pembangunan jalan kampung merupakan bantuan dari Pemerintah Kabupaten Belitung yang dibangun pada tahun 2006 &ndash; 2007.</p>
+<ol style="list-style-type:lower-alpha;">
+	<li style="text-align: justify;" value="7">
+		Peribadatan</li>
+</ol>
+<p style="margin-left: 40px; text-align: justify;">
+	Sarana peribadatan berupa satu buah masjid yang dibangun di dekat jalan utama dan dermaga pulau. Masjid berukuran sedang ini mampu menampung ratusan jamaah sekaligus menjadi pusat kegiatan rohani maupun perkumpulan warga oleh karena letaknya yang sangat berdekatan dengan aula dusun dan rumah kepala dusun.</p>
+<ol style="list-style-type:lower-alpha;">
+	<li style="text-align: justify;" value="8">
+		Sarana Telekomunikasi</li>
+</ol>
+<p style="margin-left: 40px; text-align: justify;">
+	Sarana Telekomunikasi yang terdapat di Pulau Kuil sangat terbatas karena sinyal provider komunikasi hanya bisa diperoleh di pesisir pulau dan daerah sekitar warga saja. Hal ini dikarenakan tidak terdapat BTS di pulau ini dan BTS terdekat berada di Pulau Gersik. Rata-rata penduduk menggunakan HP untuk berkomunikasi. Sebagian besar penduduk pulau memiliki parabola untuk menangkap siaran televisi.</p>
+<ol style="list-style-type:lower-roman;">
+	<li style="text-align: justify;">
+		Pendidikan</li>
+</ol>
+<p style="margin-left: 40px; text-align: justify;">
+	Sarana pendidikan yang ada di Pulau Kuilyaitu terdiri dari 1 PAUD dan 1 SD yang dibangun dengan menggunakan dana PNPM. Kondisi bangunan SD cukup baik dengan tenaga pengajar yang cukup baik terdiri dari 5 Orang PNS, dan 2 orang Honorer, tenaga pengajar sebagian besar berasal dari Tanjung Pandan. PAUD yang ada di pulau ini tidak berjalan karena tidak adanya pengajar.Untuk melanjutkan pendidikan ke tingkat yang lebih tinggi, warga Pulau Kuil menyekolahkan anaknya di Pulau gersik, Tanjung Pandan ataupun Pangkalpinang.</p>
+<ol style="list-style-type:lower-alpha;">
+	<li style="text-align: justify;" value="10">
+		Kesehatan</li>
+</ol>
+<p style="margin-left: 40px; text-align: justify;">
+	Sarana kesehatan yang ada di Pulau Kuil yaitu: Puskesmas Pembantu (Pustu), ,dengan tenaga kesehatan yang &nbsp;terdiri dari 1 orang bidan dan 1 orang mantri. Rumah sakit terdekat terletak di ibukota kabupaten yaitu di Tanjung Pandan.</p>
+<ol style="list-style-type:lower-alpha;">
+	<li style="text-align: justify;" value="11">
+		Sarana Olahraga</li>
+</ol>
+<p style="margin-left: 40px; text-align: justify;">
+	Sarana olahraga terdiri dari lapangan serbaguna yang biasa digunakan warga untuk bermain voli, bola, maupun bulutangkis.</p>
+<ol>
+	<li>
+		Sarana Pendukung Pemerintahan</li>
+</ol>
+<p style="margin-left: 40px; text-align: justify;">
+	Untuk mendukung roda pemerintahan diperlukan bangunan penunjang untuk melaksanakan tugas harian maupun sebagai tempat berkumpulnya warga jika ada musyawarah. Bangunan penunjang tersebut adalah aula pertemuan yang letaknya di dekat mesjid dan rumah kepala dusun. Sedangkan Jika terdapat musyawarah antar kepala dusun dan kepala desa biasanya dilakukan di Pulau Gersik</p>
+<ol style="list-style-type:lower-alpha;">
+	<li style="text-align: justify;" value="13">
+		Sarana Jual Beli</li>
+</ol>
+<p style="margin-left: 40px; text-align: justify;">
+	Terdapat beberapa 5 toko kelontong yang menjual kebutuhan sehari-hari, seperti makanan pokok, minyak tanah, BBM untuk kapal, jajanan anak, perlengkapan sekolah, dll.Barang-barang kebutuhan pokok tersebut dibeli dari Tanjung Pandan oleh para pedagang.</p>
+<ol>
+	<li style="text-align: justify;">
+		Sarana Lainnya</li>
+</ol>
+<p style="margin-left: 40px; text-align: justify;">
+	Terdapat tempat pemakaman umum (TPU) tepat di pesisir pantai dan ditengah perkebunan kelapa.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="pi">Peluang Investasi</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<h2><a id="pap">Potensi dan Arahan Pengembangan</a></h2>
+<p><div class="readmore"><p style="text-align: justify;">
+	Pulau Kuil dapat dikatakan cukup baik dari armada penangkapan ikan yang ada dan kehidupan perekonomian masyarakat. Adapun potensi yang dapat dikembangkan antara lain:</p>
+<ol style="list-style-type:lower-alpha;">
+	<li style="text-align: justify;">
+		<p>
+			Pengeringan ikan</p>
+	</li>
+</ol>
+<p style="margin-left: 40px; text-align: justify;">
+	Usaha ini telah berjalan oleh 1 orang pengepul/pengering ikan saja dan dapat membantu meningkatkan harga jual ikan bernilai ekonomis rendah serta membantu nelayan ketika musim ikan sedang berlimpah agar tidak busuk. Banyaknya ikan laisi dan terisi hasil tangkapan payang dan jaring, menjadikan usaha ini dapat terus berkembang dan dipasarkan luas hingga ke Jakarta. Kendala yang dihadapi pengusaha adalah belum adanya pelatihan dari instansi terkait tentang proses pengolahan dan pengemasan yang baik agar nilai produk meningkat. Jumlah pengepul yang masih sangat sedikit hanya mampu menampung sedikit hasil tangkapan nelayan saja, sehingga perlu ada penambahan dan pembinaan bersama dengan Pengering ikan di Desa Gersik.</p>
+<ol style="list-style-type:lower-alpha;">
+	<li style="text-align: justify;" value="2">
+		<p>
+			Perikanan tangkap</p>
+	</li>
+</ol>
+<p style="margin-left: 40px; text-align: justify;">
+	Potensi perikanan di Selat Gaspar dan perairan sekitar Desa Gersik cukup besar. Hal ini menjadi magnet bagi nelayan lokal dan nelayan pendatang untuk mencari ikan di perairan tersebut. Alat tangkap yang biasa digunakan adalah payang, pancing dan jaring. Alat tangkap payang tanpa lampu cukup berkembang dan tetap dapat menghasilkan jumlah tangkapan yang berlimpah selain itu juga ramah lingkungan.</p>
+<ol style="list-style-type:lower-alpha;">
+	<li style="text-align: justify;" value="3">
+		<p>
+			Pembuatan Kapal</p>
+	</li>
+</ol>
+<p style="margin-left: 40px; text-align: justify;">
+	Usaha pembuatan kapal kayu dilakukan sebagian warga dibantu oleh beberapa pekerja yang berasal dari keluarga sendiri. Kapal buatan warga Pulau Kuil cukup terkenal hingga ke Bangka dan Jakarta dengan pelanggan tetap dan kualitas yang telah teruji sebagai kapal penangkap ikan.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="kp">Kendala Pengembangan</a></h2>
+<p><div class="readmore"><p style="text-align: justify;">
+	Kendala yang dihadapi masyarakat Pulau Kuil antara lain:</p>
+<ol style="list-style-type:lower-alpha;">
+	<li style="text-align: justify;">
+		<p>
+			Keterbatasan sarana penerangan</p>
+	</li>
+</ol>
+<p style="margin-left: 40px; text-align: justify;">
+	Listrikhanya bisa dinikmati sebagian warga yang mampu membeli bahan bakar diesel saja, sedangkan warga lain yang tidak mampu masih belum bisa menikmati penerangan sebagai sarana dasar. Hendaknya dilakukan pemerataan infrastruktur penerangan pulau-pulau berpenduduk di Desa Gersik sehingga tidak hanya berpusat di Pulau Gersik saja. PLTS yang sudah rusak seharusnya mendapat penggantian atau perbaharuan dari pemerintah setempat.</p>
+<ol style="list-style-type:lower-alpha;">
+	<li style="text-align: justify;" value="2">
+		<p>
+			Keterbatasan sarana pendukung penangkapan ikan</p>
+	</li>
+</ol>
+<p style="margin-left: 40px; text-align: justify;">
+	Banyaknya jumlah armada penangkap ikan di Pulau Kuil tidak diiringi dengan sarana pendukungnya seperti Coolbox ataupun jaring ikan sehingga nelayan harus segera menjual hasil tangkapan kepada pengepul dan juga langsung ke Tanjung Pinang.</p>
+<ol style="list-style-type:lower-alpha;">
+	<li style="text-align: justify;" value="3">
+		<p>
+			Keterbatasan sarana transportasi antar pulau</p>
+	</li>
+</ol>
+<p style="margin-left: 40px; text-align: justify;">
+	Terbatasnya sarana transportasi sangat berpengaruh pada kegiatan perekonomian penduduk terutama distribusi hasil tangkapan ikan. Lokasi yang cukup jauh dari tanjung pandan membuat warga pulau Kuil lebih banyak melakukan kegiatan perekeonomian kearah pulau Bangka. Tidak ada nya akses reguler menjadikan warga hanya bergantung pada kapal nelayan sebagai satu-satunya alat transportasi laut dari dan menuju daratan.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="rf">Referensi</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<br />
+	<i> 
+		<p style="font-size:12px;">
+			Karena keterbatasan SDM dalam penginputan dan pengolahan data, kami mohon maaf atas ketidak lengkapan beberapa data pulau yang kami tampilkan, harap dimaklumi.
+			Berikan keritik dan saran pada kolom komentar agar kita dapat bersama menyajikan sebuah data yang cukup sempurna untuk halayak ramai yang berguna
+			demi kesejahterahan, kelestarian dan keindahan pulau-pulau kecil yang dimiliki Indonesia.<br />
+			*Jika sekiranya anda memiliki data yang cukup banyak, silakan mengirimkan file melalui email kami di <b><a>identifikasippk@gmail.com</a></b>
+			
+		</p>
+	</i>
+<br />
+
+<div id="fb_comn" class="fb-comments" data-href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_info/1996" data-width="800" data-numposts="5" data-colorscheme="light"></div>
+
+
+</div>
+</div>
+</div>
+<div id="wrapper">
+
+<div class="footer"><p>
+<!--<marquee onmouseover="this.stop()" onmouseout="this.start()" scrollamount="5" direction="right" width="798" height="14"  behavior="scroll">-->
+<a href="http://www.ppk-kp3k.kkp.go.id/" target="_blank">Direktorat Pendayagunaan Pulau-Pulau Kecil &nbsp; | &nbsp;</a>
+<a href="http://www.kp3k.kkp.go.id/" target="_blank">Ditjen Kelautan, Pesisir dan Pulau-Pulau Kecil &nbsp; | &nbsp;</a>
+<a href="http://www.kkp.go.id/" target="_blank">Kementerian Kelautan dan Perikanan</a>
+<!--</marquee>--> <br />
+Jl. Medan Merdeka Timur No. 16 Gedung Mina Bahari 3 Lantai 10, Jakarta, Indonesia <br />
+Email : identifikasippk@gmail.com <br />
+Telp &amp; Fax: (021) 3522058 <br />
+&copy; Copyright Direktorat Pendayagunaan Pulau-Pulau Kecil 2012&nbsp; <br /></p>
+</div>
+</div>
+</body>
+</html>

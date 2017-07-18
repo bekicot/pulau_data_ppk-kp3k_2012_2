@@ -1,0 +1,800 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Pulau PAGANG</title>
+
+<meta charset="utf-8"/>
+
+<meta property="fb:app_id" content="559408774147878" />
+
+
+<meta property="og:title" content="Pulau PAGANG" />
+<meta property="og:url" content="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_info/641" />
+
+
+    <script type="text/javascript" src="http://ajax.microsoft.com/ajax/jquery/jquery-1.4.4.min.js">
+    </script>
+    
+    <script type="text/javascript" src="http://plugins.learningjquery.com/expander/jquery.expander.js">
+    </script>
+    
+    <script type="text/javascript">
+        $(function () {
+            $('div.readmore').expander({
+                slicePoint:200,
+                expandText: '(Baca selengkapnya)',
+                userCollapseText: '(Sembunyikan selengkapnya)'
+            });
+        });
+    </script>
+        
+	<script src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/galleria/galleria-1.2.8.min.js"></script>
+
+        <SCRIPT TYPE="text/javascript">
+            <!--
+            //Disable right click script
+            //visit http://www.rainbow.arch.scriptmania.com/scripts/
+            var message="Sorry, right-click has been disabled";
+            ///////////////////////////////////
+            function clickIE() {if (document.all) {(message);return false;}}
+            function clickNS(e) {if
+            (document.layers||(document.getElementById&&!document.all)) {
+            if (e.which==2||e.which==3) {(message);return false;}}}
+            if (document.layers)
+            {document.captureEvents(Event.MOUSEDOWN);document.onmousedown=clickNS;}
+            else{document.onmouseup=clickNS;document.oncontextmenu=clickIE;}
+            document.oncontextmenu=new Function("return false")
+            // -->
+            </SCRIPT>
+            
+            <SCRIPT TYPE="text/javascript">
+            <!--
+            //Disable select-text script (IE4+, NS6+)
+            //visit http://www.rainbow.arch.scriptmania.com/scripts/
+            ///////////////////////////////////
+            function disableselect(e){
+            return false
+            }
+            function reEnable(){
+            return true
+            }
+            //if IE4+
+            document.onselectstart=new Function ("return false")
+            //if NS6
+            if (window.sidebar){
+            document.onmousedown=disableselect
+            document.onclick=reEnable
+            }
+            // -->
+            </SCRIPT>  
+              
+<link rel="stylesheet" type="text/css" href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/css/main.css" media="screen"/>
+<style type='text/css'>
+#info_wrap{
+	width:820px;
+	margin:0 auto;
+	text-shadow:0px 1px 1px #09F;
+}
+table{
+	color:#000000;
+}
+h1{
+	color:#000000;
+}
+.tengahin{
+	width: 105px;
+	height: 30px;
+	margin: 0 auto auto auto;
+}
+#box_view{
+	background-image:-webkit-gradient(linear, 0 0%, 0 100%, from(#FFFFFF), to(#E0F0F5));
+	background:#FFF;
+	color:#F60;
+	border: 1px solid #fff;
+	border-radius: 4px 4px 4px 4px;
+	box-shadow: 0 8px 6px -6px black;
+	position:fixed;
+	right:0;
+	top:150px;;
+	width:80px;
+	z-index:10;
+	padding-left:12px;
+	font-size:10px;
+	}
+#box_view li{
+	color:#F60;
+	margin-left:-30px;
+	}
+	#wrapper a b {
+	color: #FFF;
+	font-size:14px;
+}
+.batas{
+	float:left;
+	border-right-style:inset;
+	border-right-width:thin;
+	}
+.text_h_wrap{
+	
+	padding-left:450px;
+	padding-top:39px;
+	text-shadow:0px 1px 1px #09F;
+	}
+#wrapper .footer p{
+	font-size:12px;
+	color: #FFF;
+	text-align:center;
+	text-shadow:0px 1px 1px #09F;
+}
+td,th {
+	font-size: 12px;
+}
+
+marquee a{
+	color:#FFF
+	}
+#wrapper .footer a{
+	color: #FFFFFF;
+}
+</style>
+            
+<script>
+function goBack()
+  {
+  window.history.back()
+  }
+</script>
+<script type="text/javascript">
+function Popup( url, height, width )
+{
+    var windowProperties = "toolbar = 0, scrollbars = 1, location = 0, statusbar = 0, menubar = 0, resizable = 1, width = " + width + ", height = " + height + ", left = 50, top = 50";
+ 
+    return window.open( url, "", windowProperties );
+}
+</script>
+
+
+
+</head>
+<body oncontextmenu='return false;' onkeydown='return false;' onmousedown='return false;'>
+
+<a id="top_view"></a>
+<div id="wrapper">
+<div class="header_wrap">
+<div class="text_h_wrap">
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/home_page'><b>&nbsp;Home&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/menu_info/1'><b>&nbsp;About Us&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_data'><b>&nbsp;Direktori Pulau&nbsp;&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/program_ip'><b>&nbsp;IKU&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/data_ppkt'><b>&nbsp;PPKT&nbsp;</b></a>
+</div>
+<!--<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/maintenance'><b>&nbsp;Login&nbsp;</b></a>-->
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/dir_log_cont'><b>&nbsp;Login&nbsp;</b></a>
+
+</div>
+</div>
+</div>
+
+<div id="fb-root"></div>
+<script>
+  window.fbAsyncInit = function() {
+    // init the FB JS SDK
+    FB.init({
+      appId      : '559408774147878',                        // App ID from the app dashboard
+      status     : true,                                 // Check Facebook Login status
+      xfbml      : true                                  // Look for social plugins on the page
+    });
+
+    // Additional initialization code such as adding Event Listeners goes here
+  };
+
+  // Load the SDK asynchronously
+  (function(){
+     // If we've already installed the SDK, we're done
+     if (document.getElementById('facebook-jssdk')) {return;}
+
+     // Get the first script element, which we'll use to find the parent node
+     var firstScriptElement = document.getElementsByTagName('script')[0];
+
+     // Create a new script element and set its id
+     var facebookJS = document.createElement('script'); 
+     facebookJS.id = 'facebook-jssdk';
+
+     // Set the new script's source to the source of the Facebook JS SDK
+     facebookJS.src = '//connect.facebook.net/en_US/all.js';
+
+     // Insert the Facebook JS SDK into the DOM
+     firstScriptElement.parentNode.insertBefore(facebookJS, firstScriptElement);
+   }());
+</script>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=559408774147878";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="box_view">
+    <a href="#top_view">MENU</a>
+    <h3><p>Lihat Informasi:</p></h3>
+    <ul>
+	<a href="#sf"><li>Slide Foto</li></a>
+    <a href="#gu"><li>Gambaran Umum</li></a>
+    <a href="#ksbk"><li>Kependudukan, Sosial Budaya dan Kelembagaan</li></a>
+    <a href="#eshp"><li>Ekosistem dan Sumberdaya Hayati</li></a>
+    <a href="#snh"><li>Sumberdaya Non Hayati</li></a>
+    <a href="#aps"><li>Aktivitas Pengelolaan Sumberdaya</li></a>
+    <a href="#ling"><li>Lingkungan</li></a>
+    <a href="#sp"><li>Sarana dan Prasarana</li></a>
+    <a href="#pi"><li>Peluang Investasi</li></a>
+    <a href="#pap"><li>Potensi Arahan Pengembangan</li></a>
+    <a href="#kp"><li>Kendala Pengembangan</li></a>
+	<a href="#rf"><li>Referensi</li></a>
+    </ul>
+    <a href="#fb_comn">KOMENTAR</a>
+</div>
+
+<br>
+			<a id="sf"></a></h2>
+			<div id="galleria">
+            <!--<div class='tengahin'><input type="button" value="Kembali Ke List" onclick="goBack()"></div>-->
+                            </div>
+            
+            <script>
+            Galleria.loadTheme('http://www.ppk-kp3k.kkp.go.id/direktori-pulau/galleria/themes/classic/galleria.classic.min.js');
+            Galleria.run('#galleria');
+            </script>
+</div>
+
+<div id="text_warp">
+
+
+<p><h1>PAGANG</h1></p>
+<table>
+<tr>
+	<td>Nama Lain</td> <td>:</td> <td></td>
+</tr>
+<tr>
+	<td>Propinsi</td> <td>:</td> <td>SUMATERA BARAT</td>
+</tr>
+<tr>
+	<td>Kabupaten</td> <td>:</td> <td>KABUPATEN PESISIR SELATAN</td>
+</tr>
+<tr>
+	<td>Kecamatan</td> <td>:</td> <td></td>
+</tr>
+<tr>
+	<td>Koordinat</td> <td>:</td> <td><a href="http://www.ppk-kp3k.kkp.go.id/giskkp/index.html?extent=11169662.9750 -129591.9982,11171956.0858 -128659.2275"target="_blank"><p>
+	01?09&rsquo;34&rdquo; LS dan 100?20&rsquo;55&rdquo; BT.</p>
+</a></td>
+</tr>
+</table>
+<hr>
+
+<h2><a id="gu">Gambaran Umum</a></h2>
+<p><div class="readmore"><p>
+	<strong>Letak Geografis, Administrasi dan Batas Wilayah</strong></p>
+<p style="text-align: justify;">
+	<span style="text-align: justify;">Pulau Pagang secara administrasi masuk dalam Nagari Sungai Pinang Kecamatan Koto XI Tarusan, Kabupaten Pesisir Selatan, dengan posisi geografis pulau terletak pada koordinat 01&deg;09&rsquo;34&rdquo; LS dan 100&deg;20&rsquo;55&rdquo; BT. Pulau ini memiliki keliling pulau 2,47 km2 dengan batas wilayah pulau adalah:</span></p>
+<ul>
+	<li style="text-align: justify;">
+		<span style="text-align: justify;">Sebelah Barat &nbsp;: Selat Kepulauan Mentawai</span></li>
+	<li style="text-align: justify;">
+		<span style="text-align: justify;">Sebelah Timur : Nagari Sungai Pinang, Kab. Pesisir Selatan</span></li>
+	<li style="text-align: justify;">
+		<span style="text-align: justify;">Sebelah Utara &nbsp;: Pulau Sikuai (Kota Padang)</span></li>
+	<li style="text-align: justify;">
+		<span style="text-align: justify;">Sebelah Selatan : Nagari Sungai Pinang, Kab. Pesisir Selatan</span></li>
+</ul>
+<p style="text-align: justify;">
+	<span style="text-align: justify;">?</span><span style="text-align: justify;">Pulau yang sudah berpenduduk ini secara umum memiliki topografi berbukit dengan kondisi pantai berbatu (clif), ditumbuhi tumbuhan tingkat tinggi yang cukup lebat seperti pohon kelapa dan mangrove. Selain itu juga ditumbuhi rerumputan dan semak belukar. Pulau ini merupakan tempat singgah nelayan, dan sudah terdapat Pos Polisi Air dan Udara (Polairud).</span></p>
+<p style="text-align: justify;">
+	&nbsp;</p>
+<p style="text-align: justify;">
+	<strong><span style="text-align: justify;">Status Kawasan</span></strong></p>
+<p style="text-align: justify;">
+	<span style="text-align: justify;">Status kawasan pulau ini dikelola oleh saudara Heru Sapta anak Bapak Taher Tenek (Alm.) dan dijaga oleh seorang penunggu pulau yang ditugaskan oleh pengelola pulau. Saat ini pulau ini dijadikan sebagai kawasan wisata bahari dengan pengunjung wisata lokal dan mancanegara langsung dari Padang maupun Pesisir Selatan dan juga limpahan kunjungan dari wisatawan dari pulau Sikuai dan pulau Cubadak yang telah berkembang terlebih dahulu.</span></p>
+<p style="text-align: justify;">
+	<span style="text-align: justify;">Berdasarkan ketentuan UU RI yang berlaku, pulau tidak boleh dimiliki oleh individu atau kelompok, sedangkan menurut adat Minangkabau bahwa pulau dapat dikuasai oleh kelompok ataupun kaum dan hal tersebut sudah menjadi tradisi terhadap pulau-pulau kecil yang terdapat di Propinsi Sumatera Barat.</span></p>
+<p style="text-align: justify;">
+	<span style="text-align: justify;">Pulau ini dimiliki oleh keluarga Sultan Taharudin yang dikelola oleh Bapak Taher Tenek dengan legalitas penguasaan pulau dalam bentuk kontrak sampai dengan 2020, karena Sultan Taharudin dan Bapak Taher Tanek sudah meninggal (1998 &amp; 2009) maka pengelolaan pulau ini diperpanjang oleh ahli waris (Heru Sapta) untuk mengelola pulau tersebut sampai tahun 2050.</span></p>
+<p style="text-align: justify;">
+	&nbsp;</p>
+<p style="text-align: justify;">
+	<strong>Aksesibilitas</strong></p>
+<p style="text-align: justify;">
+	Aksesibilitas menuju pulau ini dilakukan melalui transportasi laut, menggunakan perahu nelayan dan perahu wisata dengan kapasitas mesin 15 PK, 40 PK, dan 80 PK, akses ke pulau ini dapat dilalui dari dua wilayah yaitu:</p>
+<ul>
+	<li style="text-align: justify;">
+		Kota Padang dapat ditempuh melalui Pelabuhan Muaro dan Pelabukan Bungus Teluk Kabung. Jarak tempuh dari Pelabuhan Muaro menuju Pulau Pagang; 21,50 km dengan waktu 1 jam. Jarak tempuh dari Bungus Teluk Kabung; 15 km dengan waktu 40 menit.</li>
+	<li style="text-align: justify;">
+		Kabupaten Pesisir Selatan dapat ditempuh melalui Pelabukan Carocok Tarusan dengan jarak 14 km dengan waktu tempuh 30 menit, sedangkan jarak dari Mandeh 10 km, dari Sungai Nyalo 6,5 km, dari Sungai Pinang 4 km, sedangkan dari Pulau Cubadak 8,50 km. Sedangkan dari Ibukota Kabupaten Pesisir Selatan adalah 32,80 km.</li>
+</ul>
+</div></p>
+
+<hr>
+
+<h2><a id="ksbk">Kependudukan, Sosial Budaya dan Kelembagaan</a></h2>
+<p><div class="readmore"><p>
+	<strong>Nama Pulau dan Sejarah Penamaan Pulau</strong></p>
+<p style="text-align: justify;">
+	Penamaan pulau Pagang bermula dari sebuah legenda yang berkembang di tengah masyarakat di mana nama pulau ini bermula dari sebuah kisah satu keluarga dalam sebuah kaum yang bermukim di kawasan Tarusan mengalami konflik dalam kaum yang mengakibatkan beberapa keluarga tersebut terpisah-pisah dan sebagian besar keluarga tersebut ada yang menghindar keluar dari tarusan pergi ke pulau-pulau dan bermukim di pulau Pasumpahan, selang berapa lama kemudian keluarga yang bermukim di pulau Pasumpahan tersebut berkembang dan ada yang kembali ke kampung halamannya. Karena sudah terpisah-pisah oleh jarak dan lautan, mereka bersepakat untuk berkumpul/bertemu (berpagangan) di sebuah pulau yang jaraknya tidak jauh dari Bukit Pamutusan dan Pulau Pasumpahan.&nbsp;</p>
+<p style="text-align: justify;">
+	Dari peristiwa bertemunya semua keluarga yang sudah terpisah di pulau tersebut maka pulau ini dinamakan pulau Pagang atau pulau Tempat menyatukan keluarga. (Sumber: Heru Sapta/pengelola pulau).</p>
+<p>
+	&nbsp;</p>
+</div></p>
+
+<hr>
+
+<h2><a id="eshp">Ekosistem dan Sumberdaya Hayati</a></h2>
+<p><div class="readmore"><p>
+	<strong>Potensi Wisata</strong></p>
+<p>
+	Keindahan alam pulau Pagang terletak pada pantainya yang berpasir putih serta air lautnya yang biru dan kondisinya yang masih alami. Potensi wisata yang ada di pulau ini berupa wisata bahari yang umumnya dilakukan oleh wisatawan antara lain: berenang, berjemur, menyelam. Selain keindahan pantainya ada juga keindahan panorama pantai yang dapat dilihat dari puncak bukit dengan mendaki. Para wisatawan dapat menginap di pulau ini karena telah memiliki fasilitas pondok wisata cottage sebanyak 3 unit, 9 kamar. Untuk bersantai wisatwan bisa menggunakan fasilitas Gazebo sebanyak 4 unit. Pulau ini juga dijadikan tempat berkemah bagi para pecinta alam.</p>
+<p>
+	<strong>Potensi Perairan</strong></p>
+<p>
+	<strong>Terumbu Karang</strong></p>
+<p>
+	Jenis karang yang mendominasi adalah kelompok karang Foliose, genus Montipora Infomis, Montipora Foliosa, Montipora Danae, Encrusing Genus Montipora Sp, Asreopora sp, Oxypora Lacera, Massive Genus, Favites Sp, Porites sp, Porites Lutea, Goniastrea sp, Favia sp.</p>
+<p>
+	<strong>Ikan</strong></p>
+<p>
+	Terumbu karang memiliki fungsi sebagai lokasi sumber makanan bagi ikan, lokasi perkembangbiakan ikan terutama ikan karang dan ikan yang berasosiasi dengan keberadaan ekosistem terumbu karang.</p>
+<p>
+	Adapun jenis ikan yang terdapat di Pulang Pagang adalah jenis: Chaetodon Trifasciatus, Chaetodon vagabundus, Heniochus Pleurotaenia, dan ikan target jenis: Acanthurus Pyroferus, Ctenochaetus Striatus, Caesio Cunning, Scolopsis Bilineata, Scolopsis ciliate, Tastrelliger kanagurta, sedangkan ikan mayor adalah jenis: Apogon sp, Chrysiptera Talboti, Cirrilabrus Cyanopleura, Dascyllus Reticulates, Dascyllus trimaculatus, Halichoeres scapularis, Neopomacentrus azryson, Pomacentrus alleni, Pomacentrus chrysurus, Pomacentrus moluccensis, dan Thallassoma lunnare.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="snh">Sumberdaya Non Hayati</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<h2><a id="aps">Aktivitas Pengelolaan Sumberdaya</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<h2><a id="ling">Lingkungan</a></h2>
+<p><div class="readmore"><p>
+	<strong>Topografi dan Barimetri</strong></p>
+<p style="text-align: justify;">
+	Keadaan topografi dari hasil interpretasi citra dan survey di lapangan, pulau Pagang didominasi oleh kawasan berbukit seluas 0,2194 km<sup>2</sup> atau 21,94 ha sedangkan untuk kawasan datar seluas 0,0279 km<sup>2</sup> atau 2,79 ha dan kawasan landai 0,0128 km<sup>2</sup> atau 2,79 ha.</p>
+<p style="text-align: justify;">
+	Pulau Pagang dapat dikeleompokan menjadi 3 kedalaman laut, yaitu ; kedalaman 0 - 2 m disekeliling pulau luasnya 0,0559 km2 atau 5,60 Ha, kedalaman 2 - 4 m luasnya 0,0576 km2 atau 5,76 ha dan kedalaman 4 - 8 m luasnya 0,0477 km2 atau 4,77 ha.</p>
+<p style="text-align: justify;">
+	<strong>Kualitas Perairan</strong></p>
+<table border="1" cellpadding="1" cellspacing="1" style="width: 500px;">
+	<tbody>
+		<tr>
+			<td style="text-align: center;">
+				<strong>No</strong></td>
+			<td style="text-align: center;">
+				<strong>Titik Kawasan</strong></td>
+			<td style="text-align: center;">
+				<strong>Kawasan</strong></td>
+			<td style="text-align: center;">
+				<strong>Suhu (</strong><strong>&ordm;C)</strong></td>
+			<td style="text-align: center;">
+				<strong>Kecerahan (m)</strong></td>
+		</tr>
+		<tr>
+			<td style="text-align: center;">
+				1</td>
+			<td>
+				01&deg;09&#39;41,0&quot;LS - 100&ordm;21&#39;00&quot; BT</td>
+			<td>
+				Bagian Selatan</td>
+			<td style="text-align: center;">
+				27</td>
+			<td style="text-align: center;">
+				8</td>
+		</tr>
+		<tr>
+			<td style="text-align: center;">
+				2</td>
+			<td>
+				01&deg;09&#39;42,5&quot;LS - 100&ordm;20&#39;41,9&quot; BT</td>
+			<td>
+				Bagian Barat</td>
+			<td style="text-align: center;">
+				30</td>
+			<td style="text-align: center;">
+				8</td>
+		</tr>
+		<tr>
+			<td style="text-align: center;">
+				3</td>
+			<td>
+				01&deg;09&#39;19,5&quot;LS - 100&ordm;20&#39;57,9&quot; BT</td>
+			<td>
+				Bagian Utara</td>
+			<td style="text-align: center;">
+				31</td>
+			<td style="text-align: center;">
+				8</td>
+		</tr>
+		<tr>
+			<td style="text-align: center;">
+				4</td>
+			<td>
+				01&deg;09&#39;31,9&quot;LS - 100&ordm;21&#39;06,0&quot; BT</td>
+			<td>
+				Bagian Timur</td>
+			<td style="text-align: center;">
+				28</td>
+			<td style="text-align: center;">
+				8</td>
+		</tr>
+	</tbody>
+</table>
+<p>
+	&nbsp;</p>
+<p>
+	<strong>Kimia Perairan</strong></p>
+<table border="1" cellpadding="1" cellspacing="1" style="width: 500px;">
+	<tbody>
+		<tr>
+			<td colspan="1" rowspan="2" style="text-align: center;">
+				No</td>
+			<td colspan="1" rowspan="2" style="text-align: center;">
+				<strong>Kimia Perairan</strong></td>
+			<td colspan="4" rowspan="1" style="text-align: center;">
+				<strong>Titik Pengamatan</strong></td>
+			<td colspan="1" rowspan="2" style="text-align: center;">
+				<strong>Rata-rata</strong></td>
+		</tr>
+		<tr>
+			<td style="text-align: center;">
+				<strong>1</strong></td>
+			<td style="text-align: center;">
+				<strong>2</strong></td>
+			<td style="text-align: center;">
+				<strong>3</strong></td>
+			<td style="text-align: center;">
+				<strong>4</strong></td>
+		</tr>
+		<tr>
+			<td style="text-align: center;">
+				1</td>
+			<td>
+				Salinitas</td>
+			<td style="text-align: center;">
+				27,25</td>
+			<td style="text-align: center;">
+				27,78</td>
+			<td style="text-align: center;">
+				27,55</td>
+			<td style="text-align: center;">
+				27,84</td>
+			<td style="text-align: center;">
+				27,61</td>
+		</tr>
+		<tr>
+			<td style="text-align: center;">
+				2</td>
+			<td>
+				pH</td>
+			<td style="text-align: center;">
+				8</td>
+			<td style="text-align: center;">
+				8</td>
+			<td style="text-align: center;">
+				8</td>
+			<td style="text-align: center;">
+				8</td>
+			<td style="text-align: center;">
+				8</td>
+		</tr>
+		<tr>
+			<td style="text-align: center;">
+				3</td>
+			<td>
+				Dissolved Oxygen (DO)</td>
+			<td style="text-align: center;">
+				6,85</td>
+			<td style="text-align: center;">
+				6,52</td>
+			<td style="text-align: center;">
+				6,74</td>
+			<td style="text-align: center;">
+				6,49</td>
+			<td style="text-align: center;">
+				6,65</td>
+		</tr>
+		<tr>
+			<td style="text-align: center;">
+				4</td>
+			<td>
+				Amonia</td>
+			<td style="text-align: center;">
+				0,08</td>
+			<td style="text-align: center;">
+				0,15</td>
+			<td style="text-align: center;">
+				0,10</td>
+			<td style="text-align: center;">
+				0,19</td>
+			<td style="text-align: center;">
+				0,13</td>
+		</tr>
+		<tr>
+			<td style="text-align: center;">
+				5</td>
+			<td>
+				Nitrat</td>
+			<td style="text-align: center;">
+				0,9</td>
+			<td style="text-align: center;">
+				0,10</td>
+			<td style="text-align: center;">
+				0,17</td>
+			<td style="text-align: center;">
+				0,02</td>
+			<td style="text-align: center;">
+				0,30</td>
+		</tr>
+		<tr>
+			<td style="text-align: center;">
+				6</td>
+			<td>
+				Posphat</td>
+			<td style="text-align: center;">
+				0,14</td>
+			<td style="text-align: center;">
+				0,26</td>
+			<td style="text-align: center;">
+				0,16</td>
+			<td style="text-align: center;">
+				0,30</td>
+			<td style="text-align: center;">
+				0,22</td>
+		</tr>
+		<tr>
+			<td style="text-align: center;">
+				7</td>
+			<td>
+				BOD<sub>5</sub></td>
+			<td>
+				5,51</td>
+			<td style="text-align: center;">
+				5,06</td>
+			<td style="text-align: center;">
+				5,54</td>
+			<td style="text-align: center;">
+				4,77</td>
+			<td style="text-align: center;">
+				5,22</td>
+		</tr>
+	</tbody>
+</table>
+<p>
+	<strong>Guna Lahan</strong></p>
+<table border="1" cellpadding="1" cellspacing="1" style="width: 500px;">
+	<tbody>
+		<tr>
+			<td colspan="1" rowspan="2" style="text-align: center;">
+				<strong>No</strong></td>
+			<td colspan="1" rowspan="2" style="text-align: center;">
+				<strong>Penggunaan Lahan</strong></td>
+			<td colspan="1" rowspan="2" style="text-align: center;">
+				<strong>Lokasi</strong></td>
+			<td colspan="3" rowspan="1" style="text-align: center;">
+				<strong>Luas</strong></td>
+		</tr>
+		<tr>
+			<td style="text-align: center;">
+				Ha</td>
+			<td style="text-align: center;">
+				Km<sup>2</sup></td>
+			<td style="text-align: center;">
+				%</td>
+		</tr>
+		<tr>
+			<td style="text-align: center;">
+				1</td>
+			<td>
+				Hutan</td>
+			<td style="text-align: center;">
+				01&deg;9&#39;28,77&quot;LS - 100&ordm;21&#39;5,80&quot; BT</td>
+			<td style="text-align: center;">
+				18,72</td>
+			<td style="text-align: center;">
+				0,1872</td>
+			<td style="text-align: center;">
+				72,01</td>
+		</tr>
+		<tr>
+			<td style="text-align: center;">
+				2</td>
+			<td>
+				Belukar</td>
+			<td style="text-align: center;">
+				01&deg;9&#39;28,20&quot;LS - 100&ordm;21&#39;5,16&quot; BT</td>
+			<td style="text-align: center;">
+				2,74</td>
+			<td style="text-align: center;">
+				0,0274</td>
+			<td style="text-align: center;">
+				10,55</td>
+		</tr>
+		<tr>
+			<td style="text-align: center;">
+				3</td>
+			<td>
+				Semak</td>
+			<td style="text-align: center;">
+				01&deg;9&#39;28,85&quot;LS - 100&ordm;21&#39;4,68&quot; BT</td>
+			<td style="text-align: center;">
+				1,51</td>
+			<td style="text-align: center;">
+				0,0151</td>
+			<td style="text-align: center;">
+				5,82</td>
+		</tr>
+		<tr>
+			<td style="text-align: center;">
+				4</td>
+			<td>
+				Rawa</td>
+			<td style="text-align: center;">
+				01&deg;9&#39;28,68&quot;LS - 100&ordm;21&#39;1,60&quot; BT</td>
+			<td style="text-align: center;">
+				0,27</td>
+			<td style="text-align: center;">
+				0,00027</td>
+			<td style="text-align: center;">
+				1,05</td>
+		</tr>
+		<tr>
+			<td style="text-align: center;">
+				5</td>
+			<td>
+				Areal Tambak Ikan</td>
+			<td style="text-align: center;">
+				01&deg;9&#39;39,25LS - 100&ordm;20&#39;58,81&quot; BT</td>
+			<td style="text-align: center;">
+				0,24</td>
+			<td style="text-align: center;">
+				0,00024</td>
+			<td style="text-align: center;">
+				0,94</td>
+		</tr>
+		<tr>
+			<td style="text-align: center;">
+				6</td>
+			<td>
+				Kebun Kelapa</td>
+			<td style="text-align: center;">
+				01&deg;9&#39;32,12&quot;LS - 100&ordm;21&#39;1,85&quot; BT</td>
+			<td style="text-align: center;">
+				1,17</td>
+			<td style="text-align: center;">
+				0,0117</td>
+			<td style="text-align: center;">
+				4,50</td>
+		</tr>
+		<tr>
+			<td style="text-align: center;">
+				7</td>
+			<td>
+				Kawasan Bangunan Wisata</td>
+			<td style="text-align: center;">
+				01&deg;9&#39;23,37&quot;LS - 100&ordm;20&#39;59,90&quot; BT</td>
+			<td style="text-align: center;">
+				0,19</td>
+			<td style="text-align: center;">
+				0,0019</td>
+			<td style="text-align: center;">
+				0,73</td>
+		</tr>
+		<tr>
+			<td style="text-align: center;">
+				8</td>
+			<td>
+				Pasir Putih</td>
+			<td style="text-align: center;">
+				01&deg;9&#39;39,25&quot;LS - 100&ordm;20&#39;58,81&quot; BT</td>
+			<td style="text-align: center;">
+				1,14</td>
+			<td style="text-align: center;">
+				0,0114</td>
+			<td style="text-align: center;">
+				4,39</td>
+		</tr>
+		<tr>
+			<td colspan="3" rowspan="1" style="text-align: center;">
+				<strong>Jumlah</strong></td>
+			<td style="text-align: center;">
+				26,00</td>
+			<td style="text-align: center;">
+				0,2600</td>
+			<td style="text-align: center;">
+				100</td>
+		</tr>
+	</tbody>
+</table>
+<p>
+	&nbsp;</p>
+</div></p>
+
+<hr>
+
+<h2><a id="sp">Sarana dan Prasarana</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<h2><a id="pi">Peluang Investasi</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<h2><a id="pap">Potensi dan Arahan Pengembangan</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<h2><a id="kp">Kendala Pengembangan</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<h2><a id="rf">Referensi</a></h2>
+<p><div class="readmore"><ul>
+	<li>
+		Direktori Pulau di Provinsi Sumatera Barat, Dit. Pendayagunaan Pulau-pulau Kecil, Ditjen KP3K, KKP</li>
+	<li>
+		Leaflet Informasi Pulau Pagang, Dinas Kelautan dan Perikanan Pemprov Sumbar.</li>
+</ul>
+</div></p>
+
+<hr>
+
+<br />
+	<i> 
+		<p style="font-size:12px;">
+			Karena keterbatasan SDM dalam penginputan dan pengolahan data, kami mohon maaf atas ketidak lengkapan beberapa data pulau yang kami tampilkan, harap dimaklumi.
+			Berikan keritik dan saran pada kolom komentar agar kita dapat bersama menyajikan sebuah data yang cukup sempurna untuk halayak ramai yang berguna
+			demi kesejahterahan, kelestarian dan keindahan pulau-pulau kecil yang dimiliki Indonesia.<br />
+			*Jika sekiranya anda memiliki data yang cukup banyak, silakan mengirimkan file melalui email kami di <b><a>identifikasippk@gmail.com</a></b>
+			
+		</p>
+	</i>
+<br />
+
+<div id="fb_comn" class="fb-comments" data-href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_info/641" data-width="800" data-numposts="5" data-colorscheme="light"></div>
+
+
+</div>
+</div>
+</div>
+<div id="wrapper">
+
+<div class="footer"><p>
+<!--<marquee onmouseover="this.stop()" onmouseout="this.start()" scrollamount="5" direction="right" width="798" height="14"  behavior="scroll">-->
+<a href="http://www.ppk-kp3k.kkp.go.id/" target="_blank">Direktorat Pendayagunaan Pulau-Pulau Kecil &nbsp; | &nbsp;</a>
+<a href="http://www.kp3k.kkp.go.id/" target="_blank">Ditjen Kelautan, Pesisir dan Pulau-Pulau Kecil &nbsp; | &nbsp;</a>
+<a href="http://www.kkp.go.id/" target="_blank">Kementerian Kelautan dan Perikanan</a>
+<!--</marquee>--> <br />
+Jl. Medan Merdeka Timur No. 16 Gedung Mina Bahari 3 Lantai 10, Jakarta, Indonesia <br />
+Email : identifikasippk@gmail.com <br />
+Telp &amp; Fax: (021) 3522058 <br />
+&copy; Copyright Direktorat Pendayagunaan Pulau-Pulau Kecil 2012&nbsp; <br /></p>
+</div>
+</div>
+</body>
+</html>

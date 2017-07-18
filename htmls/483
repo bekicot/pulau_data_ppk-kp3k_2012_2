@@ -1,0 +1,430 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Pulau ANSO</title>
+
+<meta charset="utf-8"/>
+
+<meta property="fb:app_id" content="559408774147878" />
+
+
+<meta property="og:title" content="Pulau ANSO" />
+<meta property="og:url" content="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_info/483" />
+
+
+    <script type="text/javascript" src="http://ajax.microsoft.com/ajax/jquery/jquery-1.4.4.min.js">
+    </script>
+    
+    <script type="text/javascript" src="http://plugins.learningjquery.com/expander/jquery.expander.js">
+    </script>
+    
+    <script type="text/javascript">
+        $(function () {
+            $('div.readmore').expander({
+                slicePoint:200,
+                expandText: '(Baca selengkapnya)',
+                userCollapseText: '(Sembunyikan selengkapnya)'
+            });
+        });
+    </script>
+        
+	<script src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/galleria/galleria-1.2.8.min.js"></script>
+
+        <SCRIPT TYPE="text/javascript">
+            <!--
+            //Disable right click script
+            //visit http://www.rainbow.arch.scriptmania.com/scripts/
+            var message="Sorry, right-click has been disabled";
+            ///////////////////////////////////
+            function clickIE() {if (document.all) {(message);return false;}}
+            function clickNS(e) {if
+            (document.layers||(document.getElementById&&!document.all)) {
+            if (e.which==2||e.which==3) {(message);return false;}}}
+            if (document.layers)
+            {document.captureEvents(Event.MOUSEDOWN);document.onmousedown=clickNS;}
+            else{document.onmouseup=clickNS;document.oncontextmenu=clickIE;}
+            document.oncontextmenu=new Function("return false")
+            // -->
+            </SCRIPT>
+            
+            <SCRIPT TYPE="text/javascript">
+            <!--
+            //Disable select-text script (IE4+, NS6+)
+            //visit http://www.rainbow.arch.scriptmania.com/scripts/
+            ///////////////////////////////////
+            function disableselect(e){
+            return false
+            }
+            function reEnable(){
+            return true
+            }
+            //if IE4+
+            document.onselectstart=new Function ("return false")
+            //if NS6
+            if (window.sidebar){
+            document.onmousedown=disableselect
+            document.onclick=reEnable
+            }
+            // -->
+            </SCRIPT>  
+              
+<link rel="stylesheet" type="text/css" href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/css/main.css" media="screen"/>
+<style type='text/css'>
+#info_wrap{
+	width:820px;
+	margin:0 auto;
+	text-shadow:0px 1px 1px #09F;
+}
+table{
+	color:#000000;
+}
+h1{
+	color:#000000;
+}
+.tengahin{
+	width: 105px;
+	height: 30px;
+	margin: 0 auto auto auto;
+}
+#box_view{
+	background-image:-webkit-gradient(linear, 0 0%, 0 100%, from(#FFFFFF), to(#E0F0F5));
+	background:#FFF;
+	color:#F60;
+	border: 1px solid #fff;
+	border-radius: 4px 4px 4px 4px;
+	box-shadow: 0 8px 6px -6px black;
+	position:fixed;
+	right:0;
+	top:150px;;
+	width:80px;
+	z-index:10;
+	padding-left:12px;
+	font-size:10px;
+	}
+#box_view li{
+	color:#F60;
+	margin-left:-30px;
+	}
+	#wrapper a b {
+	color: #FFF;
+	font-size:14px;
+}
+.batas{
+	float:left;
+	border-right-style:inset;
+	border-right-width:thin;
+	}
+.text_h_wrap{
+	
+	padding-left:450px;
+	padding-top:39px;
+	text-shadow:0px 1px 1px #09F;
+	}
+#wrapper .footer p{
+	font-size:12px;
+	color: #FFF;
+	text-align:center;
+	text-shadow:0px 1px 1px #09F;
+}
+td,th {
+	font-size: 12px;
+}
+
+marquee a{
+	color:#FFF
+	}
+#wrapper .footer a{
+	color: #FFFFFF;
+}
+</style>
+            
+<script>
+function goBack()
+  {
+  window.history.back()
+  }
+</script>
+<script type="text/javascript">
+function Popup( url, height, width )
+{
+    var windowProperties = "toolbar = 0, scrollbars = 1, location = 0, statusbar = 0, menubar = 0, resizable = 1, width = " + width + ", height = " + height + ", left = 50, top = 50";
+ 
+    return window.open( url, "", windowProperties );
+}
+</script>
+
+
+
+</head>
+<body oncontextmenu='return false;' onkeydown='return false;' onmousedown='return false;'>
+
+<a id="top_view"></a>
+<div id="wrapper">
+<div class="header_wrap">
+<div class="text_h_wrap">
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/home_page'><b>&nbsp;Home&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/menu_info/1'><b>&nbsp;About Us&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_data'><b>&nbsp;Direktori Pulau&nbsp;&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/program_ip'><b>&nbsp;IKU&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/data_ppkt'><b>&nbsp;PPKT&nbsp;</b></a>
+</div>
+<!--<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/maintenance'><b>&nbsp;Login&nbsp;</b></a>-->
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/dir_log_cont'><b>&nbsp;Login&nbsp;</b></a>
+
+</div>
+</div>
+</div>
+
+<div id="fb-root"></div>
+<script>
+  window.fbAsyncInit = function() {
+    // init the FB JS SDK
+    FB.init({
+      appId      : '559408774147878',                        // App ID from the app dashboard
+      status     : true,                                 // Check Facebook Login status
+      xfbml      : true                                  // Look for social plugins on the page
+    });
+
+    // Additional initialization code such as adding Event Listeners goes here
+  };
+
+  // Load the SDK asynchronously
+  (function(){
+     // If we've already installed the SDK, we're done
+     if (document.getElementById('facebook-jssdk')) {return;}
+
+     // Get the first script element, which we'll use to find the parent node
+     var firstScriptElement = document.getElementsByTagName('script')[0];
+
+     // Create a new script element and set its id
+     var facebookJS = document.createElement('script'); 
+     facebookJS.id = 'facebook-jssdk';
+
+     // Set the new script's source to the source of the Facebook JS SDK
+     facebookJS.src = '//connect.facebook.net/en_US/all.js';
+
+     // Insert the Facebook JS SDK into the DOM
+     firstScriptElement.parentNode.insertBefore(facebookJS, firstScriptElement);
+   }());
+</script>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=559408774147878";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="box_view">
+    <a href="#top_view">MENU</a>
+    <h3><p>Lihat Informasi:</p></h3>
+    <ul>
+	<a href="#sf"><li>Slide Foto</li></a>
+    <a href="#gu"><li>Gambaran Umum</li></a>
+    <a href="#ksbk"><li>Kependudukan, Sosial Budaya dan Kelembagaan</li></a>
+    <a href="#eshp"><li>Ekosistem dan Sumberdaya Hayati</li></a>
+    <a href="#snh"><li>Sumberdaya Non Hayati</li></a>
+    <a href="#aps"><li>Aktivitas Pengelolaan Sumberdaya</li></a>
+    <a href="#ling"><li>Lingkungan</li></a>
+    <a href="#sp"><li>Sarana dan Prasarana</li></a>
+    <a href="#pi"><li>Peluang Investasi</li></a>
+    <a href="#pap"><li>Potensi Arahan Pengembangan</li></a>
+    <a href="#kp"><li>Kendala Pengembangan</li></a>
+	<a href="#rf"><li>Referensi</li></a>
+    </ul>
+    <a href="#fb_comn">KOMENTAR</a>
+</div>
+
+<br>
+			<a id="sf"></a></h2>
+			<div id="galleria">
+            <!--<div class='tengahin'><input type="button" value="Kembali Ke List" onclick="goBack()"></div>-->
+                            </div>
+            
+            <script>
+            Galleria.loadTheme('http://www.ppk-kp3k.kkp.go.id/direktori-pulau/galleria/themes/classic/galleria.classic.min.js');
+            Galleria.run('#galleria');
+            </script>
+</div>
+
+<div id="text_warp">
+
+
+<p><h1>ANSO</h1></p>
+<table>
+<tr>
+	<td>Nama Lain</td> <td>:</td> <td></td>
+</tr>
+<tr>
+	<td>Propinsi</td> <td>:</td> <td>SUMATERA BARAT</td>
+</tr>
+<tr>
+	<td>Kabupaten</td> <td>:</td> <td>KOTA PARIAMAN</td>
+</tr>
+<tr>
+	<td>Kecamatan</td> <td>:</td> <td>PARIAMAN TENGAH</td>
+</tr>
+<tr>
+	<td>Koordinat</td> <td>:</td> <td><a href="http://www.ppk-kp3k.kkp.go.id/giskkp/index.html?extent="target="_blank">00°38'01" LS dan 100°05'57" BT</a></td>
+</tr>
+</table>
+<hr>
+
+<h2><a id="gu">Gambaran Umum</a></h2>
+<p><div class="readmore"><p style="text-align: justify;">
+	Pulau Anso merupakan salah satu pulau yang termasuk dalam administrasi Kecamatan Pariaman Tengah, dengan koordinat terletak pada 00&deg;38&#39;01&quot; LS dan 100&deg;05&#39;57&quot; BT. Pulau Anso memiliki luas 5,13 Ha yang terdiri dari: 1,25 Ha hamparan pasir, 3,88 Ha kawasan bervegetasi, dan luas terumbu karang 16,49 Ha. Hamparan pasir mengelilingi seluruh pulau dan dapat dikelilingi dengan jalan kaki selama 25 menit. Pulau ini memiliki flat terrain untuk seluruh kawasannya. Rata-rata ketinggian daratan dari permukaan laut 1,5 m, bentangan pasir terpanjang sejauh 43 meter dan dapat dijumpai pada sisi timur pulau. Keliling pulau adalah 840,7 m. Potongan melintang pulau dari arah Timur ke Barat sepanjang 315 meter dan dari arah Utara ke Selatan 215 meter. Jarak garis pantai pulau Sumatera menuju pulau Anso sejauh 1.900 meter.</p>
+<p>
+	Kondisi umum pulau Anso merupakan pulau datar dengan pasir putih yang ditumbuhi beberapa jenis pohon seperti kelapa, bakau. semak dan rumput.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="ksbk">Kependudukan, Sosial Budaya dan Kelembagaan</a></h2>
+<p><div class="readmore"><p>
+	Pulau ini tidak berpenduduk dan kata Anso itu sendiri memiliki arti angsa.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="eshp">Ekosistem dan Sumberdaya Hayati</a></h2>
+<p><div class="readmore"><p>
+	Vegetasi</p>
+<p style="text-align: justify;">
+	Kawasan bervegetasi di pulau Anso seluas 3,88 hektar. Hampir seluruh daratan pulau ditumbuhi vegetasi diluar kawasan pantai berpasir. Formasi vegetasi yang terdapat di pulau ini cukup jelas, pada bagian terdepan dari rataan daratan banyak ditumbuhi oleh vegetasi waru, tandang-tandang dan subang-subang. Pada bagian tengah pulau didominasi oleh pohon Ketapang dan tanaman budidaya seperti pohon kelapa. Berbagai jenis pohon lain yang tumbuh di pulau ini adalah sukun, mengkudu, beringin, melinjo, pandan dan tumbuhan merambat lainnya.</p>
+<p style="text-align: justify;">
+	<strong>Hewan</strong></p>
+<p style="text-align: justify;">
+	diketahui beberapa hewan penghuni pulau antara lain: berbagai jenis burung seperti burung hantu, elang, dan merbah; kadal, capung dan pada bagian pantai dijumpai umang-umang. Sedangkat ke arah perairan dijumpai kepiting batu, teripang dan gerombolan anakan ikan.</p>
+<p style="text-align: justify;">
+	<strong>Terumbu Karang</strong></p>
+<p style="text-align: justify;">
+	Rata-rata tutupan terumbu karang hidup sebesar 27% dengan kondisi sedang. Tutupan terbesar merupakan karang mati yang ditumbuhi oleh algasebesar 41,75%, persentase tutupan sponge sangat kecil hanya 1% dari total pengamatan. dan sisanya berupa patahan terumbu, pasir. Karang yang tumbuh didominasi oleh suku Poccilloporidae marga pocillopora, acropora, favia, dan porites, bentuk pertumbuhan karang padang umumnya coral massive dan encrusting sedangkan acropora pada umumnya bercabang pendek dan kecil.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="snh">Sumberdaya Non Hayati</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<h2><a id="aps">Aktivitas Pengelolaan Sumberdaya</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<h2><a id="ling">Lingkungan</a></h2>
+<p><div class="readmore"><p>
+	<strong>Kualitas Perairan</strong></p>
+<p style="text-align: justify;">
+	Dari nilai parameter fisika perairan, tingkat kecerahan di pulau Anso yakni 6 meter (kedalaman 12 meter). Wilayah ini memiliki kisaran suhu alami antara 30 - 30,9&nbsp;&ordm;C. Kondisi suhu tersebut cukup bagus bagi pertumbuhan biota laut, terumbu karang. Kecepatan arus berkisar pada 0,15 - 0,2 m/det yang mengkategorikan kecepatan arus lambat. Kisaran pasang surut berkisar 1,5 - 2 meter. Ketinggian gelombang terukur dalam kisaran 0,5 - 1 meter, namun dapat mencapai maksimum 3 meter pada bulan juli dan desember. Nilai kekeruhan diwilayah ini adalah 3,80 NU. dimana kurang baik untuk kepentingan perikanan karena memiliki nilai TSS yakni 117 mg/l.</p>
+<p style="text-align: justify;">
+	Kisaran pH berada pada 8 - 8,5 (baik), nilai salinitas antara 33 - 34 % yang mendukung bagi pertumbuhan biota laut seperti terumbu karang. Nilai DO yang diperoleh yakni 30,2 mg/l dan BOD<sub>5</sub> yakni 25,6 mg/l. Dari aspek konsentrasi nitrat yakni 0,008 mg/l sedangkan posfat dalam kisaran 0,0075 mg/l.</p>
+<p style="text-align: justify;">
+	Berdasarkan hasil penelitian organisme plankton diperoleh 6 jenis plankton di pulau ini: Cyanophyta, Chlorophyta, Bacillariophyta, Euglenophyta, Copepoda, dan Ciliata yang masing-masing terdiri dari beberapa spesies. Indeks keanekaragaman jenis menunjukan nilai 3,93 (tingkat stabil) sedang indeks dominasi jenis menunjukan nilai 0,08 (stabil), dan Indeks keseragaman jenis pada nilai 0,71 (kondisi baik/keseragaman masih banyak dan tidak ada spesies yang mendominasi).</p>
+</div></p>
+
+<hr>
+
+<h2><a id="sp">Sarana dan Prasarana</a></h2>
+<p><div class="readmore"><p>
+	Sarana dan prasarana yang dijumpai pada pulau Anso antara lain:</p>
+<ul>
+	<li>
+		2 unit pondok semi permanen yang digunakan untuk nelayan berteduh</li>
+	<li>
+		di depan pondok yang masih berdiri terdapat tugu benchmark koordinat, namun sayang lempengan informasi pada tugu tersebut sudah hilang</li>
+	<li>
+		Kanopi wisata berpentuk payung namun disekitarnya sudah ditumbuhi semak dan ilalang</li>
+	<li>
+		Menyusuri dari pondok ke arah dalam pulau akan dijumpai kuburan dengan panjang 4 meter. Pada Nisan kuburan tersebut tertulis nama Mhd.Nasir, Wali Allah dari Mesir. Dan tidak jauh dari kuburan tersebut, terdapat kuburan lain namun pada nisannya tidak terdapat informasi apapun.</li>
+	<li>
+		Kearah barat dri kuburan sekitar 20 meter ditemukan bangunan rumah tua permanen yang telah lama ditinggalkan atap rumah telah tergantikan dengan ranting dan akar pohon menambah kesan mistis pada bangunan.</li>
+	<li>
+		Sumber air tawar ditemukan pada sumur tua yang berada di depan bangunan tua.</li>
+</ul>
+</div></p>
+
+<hr>
+
+<h2><a id="pi">Peluang Investasi</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<h2><a id="pap">Potensi dan Arahan Pengembangan</a></h2>
+<p><div class="readmore"><p>
+	Potensi pemanfaatan jasa ekosistem:</p>
+<ul>
+	<li>
+		Rekreasi pantai</li>
+	<li>
+		Perlindungan bentuk pantai</li>
+	<li>
+		Wisata snorkling</li>
+	<li>
+		Kawasan rehabilitasi</li>
+	<li>
+		Perikanan ramah lingkungan</li>
+	<li>
+		Rehabilitasi fisik</li>
+	<li>
+		Pemanfaatan perikanan terbatas</li>
+</ul>
+</div></p>
+
+<hr>
+
+<h2><a id="kp">Kendala Pengembangan</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<h2><a id="rf">Referensi</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<br />
+	<i> 
+		<p style="font-size:12px;">
+			Karena keterbatasan SDM dalam penginputan dan pengolahan data, kami mohon maaf atas ketidak lengkapan beberapa data pulau yang kami tampilkan, harap dimaklumi.
+			Berikan keritik dan saran pada kolom komentar agar kita dapat bersama menyajikan sebuah data yang cukup sempurna untuk halayak ramai yang berguna
+			demi kesejahterahan, kelestarian dan keindahan pulau-pulau kecil yang dimiliki Indonesia.<br />
+			*Jika sekiranya anda memiliki data yang cukup banyak, silakan mengirimkan file melalui email kami di <b><a>identifikasippk@gmail.com</a></b>
+			
+		</p>
+	</i>
+<br />
+
+<div id="fb_comn" class="fb-comments" data-href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_info/483" data-width="800" data-numposts="5" data-colorscheme="light"></div>
+
+
+</div>
+</div>
+</div>
+<div id="wrapper">
+
+<div class="footer"><p>
+<!--<marquee onmouseover="this.stop()" onmouseout="this.start()" scrollamount="5" direction="right" width="798" height="14"  behavior="scroll">-->
+<a href="http://www.ppk-kp3k.kkp.go.id/" target="_blank">Direktorat Pendayagunaan Pulau-Pulau Kecil &nbsp; | &nbsp;</a>
+<a href="http://www.kp3k.kkp.go.id/" target="_blank">Ditjen Kelautan, Pesisir dan Pulau-Pulau Kecil &nbsp; | &nbsp;</a>
+<a href="http://www.kkp.go.id/" target="_blank">Kementerian Kelautan dan Perikanan</a>
+<!--</marquee>--> <br />
+Jl. Medan Merdeka Timur No. 16 Gedung Mina Bahari 3 Lantai 10, Jakarta, Indonesia <br />
+Email : identifikasippk@gmail.com <br />
+Telp &amp; Fax: (021) 3522058 <br />
+&copy; Copyright Direktorat Pendayagunaan Pulau-Pulau Kecil 2012&nbsp; <br /></p>
+</div>
+</div>
+</body>
+</html>

@@ -1,0 +1,688 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Pulau Kenawa</title>
+
+<meta charset="utf-8"/>
+
+<meta property="fb:app_id" content="559408774147878" />
+
+
+<meta property="og:title" content="Pulau Kenawa" />
+<meta property="og:url" content="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_info/5160" />
+
+
+    <script type="text/javascript" src="http://ajax.microsoft.com/ajax/jquery/jquery-1.4.4.min.js">
+    </script>
+    
+    <script type="text/javascript" src="http://plugins.learningjquery.com/expander/jquery.expander.js">
+    </script>
+    
+    <script type="text/javascript">
+        $(function () {
+            $('div.readmore').expander({
+                slicePoint:200,
+                expandText: '(Baca selengkapnya)',
+                userCollapseText: '(Sembunyikan selengkapnya)'
+            });
+        });
+    </script>
+        
+	<script src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/galleria/galleria-1.2.8.min.js"></script>
+
+        <SCRIPT TYPE="text/javascript">
+            <!--
+            //Disable right click script
+            //visit http://www.rainbow.arch.scriptmania.com/scripts/
+            var message="Sorry, right-click has been disabled";
+            ///////////////////////////////////
+            function clickIE() {if (document.all) {(message);return false;}}
+            function clickNS(e) {if
+            (document.layers||(document.getElementById&&!document.all)) {
+            if (e.which==2||e.which==3) {(message);return false;}}}
+            if (document.layers)
+            {document.captureEvents(Event.MOUSEDOWN);document.onmousedown=clickNS;}
+            else{document.onmouseup=clickNS;document.oncontextmenu=clickIE;}
+            document.oncontextmenu=new Function("return false")
+            // -->
+            </SCRIPT>
+            
+            <SCRIPT TYPE="text/javascript">
+            <!--
+            //Disable select-text script (IE4+, NS6+)
+            //visit http://www.rainbow.arch.scriptmania.com/scripts/
+            ///////////////////////////////////
+            function disableselect(e){
+            return false
+            }
+            function reEnable(){
+            return true
+            }
+            //if IE4+
+            document.onselectstart=new Function ("return false")
+            //if NS6
+            if (window.sidebar){
+            document.onmousedown=disableselect
+            document.onclick=reEnable
+            }
+            // -->
+            </SCRIPT>  
+              
+<link rel="stylesheet" type="text/css" href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/css/main.css" media="screen"/>
+<style type='text/css'>
+#info_wrap{
+	width:820px;
+	margin:0 auto;
+	text-shadow:0px 1px 1px #09F;
+}
+table{
+	color:#000000;
+}
+h1{
+	color:#000000;
+}
+.tengahin{
+	width: 105px;
+	height: 30px;
+	margin: 0 auto auto auto;
+}
+#box_view{
+	background-image:-webkit-gradient(linear, 0 0%, 0 100%, from(#FFFFFF), to(#E0F0F5));
+	background:#FFF;
+	color:#F60;
+	border: 1px solid #fff;
+	border-radius: 4px 4px 4px 4px;
+	box-shadow: 0 8px 6px -6px black;
+	position:fixed;
+	right:0;
+	top:150px;;
+	width:80px;
+	z-index:10;
+	padding-left:12px;
+	font-size:10px;
+	}
+#box_view li{
+	color:#F60;
+	margin-left:-30px;
+	}
+	#wrapper a b {
+	color: #FFF;
+	font-size:14px;
+}
+.batas{
+	float:left;
+	border-right-style:inset;
+	border-right-width:thin;
+	}
+.text_h_wrap{
+	
+	padding-left:450px;
+	padding-top:39px;
+	text-shadow:0px 1px 1px #09F;
+	}
+#wrapper .footer p{
+	font-size:12px;
+	color: #FFF;
+	text-align:center;
+	text-shadow:0px 1px 1px #09F;
+}
+td,th {
+	font-size: 12px;
+}
+
+marquee a{
+	color:#FFF
+	}
+#wrapper .footer a{
+	color: #FFFFFF;
+}
+</style>
+            
+<script>
+function goBack()
+  {
+  window.history.back()
+  }
+</script>
+<script type="text/javascript">
+function Popup( url, height, width )
+{
+    var windowProperties = "toolbar = 0, scrollbars = 1, location = 0, statusbar = 0, menubar = 0, resizable = 1, width = " + width + ", height = " + height + ", left = 50, top = 50";
+ 
+    return window.open( url, "", windowProperties );
+}
+</script>
+
+
+
+</head>
+<body oncontextmenu='return false;' onkeydown='return false;' onmousedown='return false;'>
+
+<a id="top_view"></a>
+<div id="wrapper">
+<div class="header_wrap">
+<div class="text_h_wrap">
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/home_page'><b>&nbsp;Home&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/menu_info/1'><b>&nbsp;About Us&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_data'><b>&nbsp;Direktori Pulau&nbsp;&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/program_ip'><b>&nbsp;IKU&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/data_ppkt'><b>&nbsp;PPKT&nbsp;</b></a>
+</div>
+<!--<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/maintenance'><b>&nbsp;Login&nbsp;</b></a>-->
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/dir_log_cont'><b>&nbsp;Login&nbsp;</b></a>
+
+</div>
+</div>
+</div>
+
+<div id="fb-root"></div>
+<script>
+  window.fbAsyncInit = function() {
+    // init the FB JS SDK
+    FB.init({
+      appId      : '559408774147878',                        // App ID from the app dashboard
+      status     : true,                                 // Check Facebook Login status
+      xfbml      : true                                  // Look for social plugins on the page
+    });
+
+    // Additional initialization code such as adding Event Listeners goes here
+  };
+
+  // Load the SDK asynchronously
+  (function(){
+     // If we've already installed the SDK, we're done
+     if (document.getElementById('facebook-jssdk')) {return;}
+
+     // Get the first script element, which we'll use to find the parent node
+     var firstScriptElement = document.getElementsByTagName('script')[0];
+
+     // Create a new script element and set its id
+     var facebookJS = document.createElement('script'); 
+     facebookJS.id = 'facebook-jssdk';
+
+     // Set the new script's source to the source of the Facebook JS SDK
+     facebookJS.src = '//connect.facebook.net/en_US/all.js';
+
+     // Insert the Facebook JS SDK into the DOM
+     firstScriptElement.parentNode.insertBefore(facebookJS, firstScriptElement);
+   }());
+</script>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=559408774147878";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="box_view">
+    <a href="#top_view">MENU</a>
+    <h3><p>Lihat Informasi:</p></h3>
+    <ul>
+	<a href="#sf"><li>Slide Foto</li></a>
+    <a href="#gu"><li>Gambaran Umum</li></a>
+    <a href="#ksbk"><li>Kependudukan, Sosial Budaya dan Kelembagaan</li></a>
+    <a href="#eshp"><li>Ekosistem dan Sumberdaya Hayati</li></a>
+    <a href="#snh"><li>Sumberdaya Non Hayati</li></a>
+    <a href="#aps"><li>Aktivitas Pengelolaan Sumberdaya</li></a>
+    <a href="#ling"><li>Lingkungan</li></a>
+    <a href="#sp"><li>Sarana dan Prasarana</li></a>
+    <a href="#pi"><li>Peluang Investasi</li></a>
+    <a href="#pap"><li>Potensi Arahan Pengembangan</li></a>
+    <a href="#kp"><li>Kendala Pengembangan</li></a>
+	<a href="#rf"><li>Referensi</li></a>
+    </ul>
+    <a href="#fb_comn">KOMENTAR</a>
+</div>
+
+<br>
+			<a id="sf"></a></h2>
+			<div id="galleria">
+            <!--<div class='tengahin'><input type="button" value="Kembali Ke List" onclick="goBack()"></div>-->
+                            </div>
+            
+            <script>
+            Galleria.loadTheme('http://www.ppk-kp3k.kkp.go.id/direktori-pulau/galleria/themes/classic/galleria.classic.min.js');
+            Galleria.run('#galleria');
+            </script>
+</div>
+
+<div id="text_warp">
+
+
+<p><h1>Kenawa</h1></p>
+<table>
+<tr>
+	<td>Nama Lain</td> <td>:</td> <td></td>
+</tr>
+<tr>
+	<td>Propinsi</td> <td>:</td> <td>NUSA TENGGARA BARAT</td>
+</tr>
+<tr>
+	<td>Kabupaten</td> <td>:</td> <td>KABUPATEN SUMBAWA BARAT</td>
+</tr>
+<tr>
+	<td>Kecamatan</td> <td>:</td> <td></td>
+</tr>
+<tr>
+	<td>Koordinat</td> <td>:</td> <td><a href="http://www.ppk-kp3k.kkp.go.id/giskkp/index.html?extent="target="_blank">8° 29' 57.000</a></td>
+</tr>
+</table>
+<hr>
+
+<h2><a id="gu">Gambaran Umum</a></h2>
+<p><div class="readmore"><p style="text-align: justify;">
+	<span style="color:#b22222;"><strong>GAMBARAN UMUM</strong></span></p>
+<p style="margin-left: 40px; text-align: justify;">
+	Pulau Kenawa&nbsp; merupakan salah satu pulau di gugusan pulau Gili Balu yang terletak di Kabupaten Sumbawa Barat Provinsi Nusa Tenggara Barat tepatnya di desa pesisir, Desa Poto Tano, Kecamatan Poto Tano, Kabupaten Sumbawa Barat. Sementara Kabupaten Sumbawa Barat sendiri merupakan kabupaten baru di Provinsi Nusa Tenggara Barat (NTB).</p>
+<p style="margin-left: 40px; text-align: justify;">
+	Kabupaten Sumbawa Barat adalah hasil pemekaran dari Kabupaten Sumbawa pada tanggal 18 Desember 2003 berdasarkan Undang-undang Nomor 30 Tahun 2003 tentang Pembentukan Kabupaten Sumbawa Barat di Provinsi NTB.</p>
+<p style="margin-left: 40px; text-align: justify;">
+	Secara geografis Pulau Kenawa terletak&nbsp; pada posisi 116<sup>0</sup>49&rsquo;58,98&rdquo; BT dan 08<sup>0</sup>29&rsquo;55,18&rdquo; LS, dengan batas-batas wilayah administrasi sebagai berikut:</p>
+<ul>
+	<li style="margin-left: 40px; text-align: justify;">
+		Sebelah Utara&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : Pulau Panjang dan Laut Flores</li>
+	<li style="margin-left: 40px; text-align: justify;">
+		Sebelah Timur&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : Pulau Range (Namo) dan Pulau Kalong</li>
+	<li style="margin-left: 40px; text-align: justify;">
+		Sebelah Selatan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : Pulau Sumbawa</li>
+	<li style="margin-left: 40px; text-align: justify;">
+		Sebelah Barat&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : Pulau Ular dan Selat Alas</li>
+</ul>
+<p style="text-align: justify; margin-left: 40px;">
+	Pulau Kenawa mempunyai luas 13,8 ha sedangkan garis pantai yang membentang sepanjang 1,73 km. Daratan Pulau Kenawa didominasi oleh padang rumput yang hampir lebih dari sebagian luas pulau, vegetasi mangrove menutupi sekitar &frac14; garis pantai. Sedangkan tipologi pantai pada umumnya berpasir putih. Pulau Kenawa adalah pulau Sabana yang menghijau saat musim hujan dan kuning emas saat musim panas. Perpaduan alam perbukitan, hamparan pantai berpasir putih,&nbsp; padang rumput, serta gradasi warna air laut yang membentang, menjadikan alam Pulau Kenawa begitu indah dan mengesankan sehingga mempunyai peluang unggulan sebagai destinasi wisata alami di Indonesia</p>
+<p style="margin-left: 40px; text-align: justify;">
+	Pulau Kenawa tidak berpenduduk, terdapat beberapa fasilitas sarana dan prasarana yang dibangun untuk mendukung kegiatan wisata bahari di pulau ini.</p>
+<p style="text-align: justify; margin-left: 40px;">
+	Pulau Kenawa merupakan salah satu dari 4 (empat) rumpun pulau di bagian utara Desa Poto Tano Kecamatan Poto Tano yang memiliki potensi yang sangat strategis untuk dijadikan sebagai lokasi wisata bahari. Pulau tersebut selain memiliki keindahan&nbsp; dan panorama alam (mangrove dan pasir putih) juga memiliki keindahan alam laut dan ekosistemnya.</p>
+<p style="margin-left: 40px; text-align: justify;">
+	Guna menjaga kelestariannya, Pemerintah Kabupaten Sumbawa Barat terus melakukan upaya pelestarian serta pengawasan dengan menyiapkan pondok jaga di Pulau Kenawa. Diantaranya dengan menempatkan reef-ball (terumbu karang buatan) di perairan Pulau Kenawa,&nbsp; melepas tukik (anak penyu) dan menanam pohon mangrove sepanjang pantai. Upaya tersebut sejalan dengan program pemerintah Sumbawa Barat untuk menjadikan pulau ini sebagai pulau wisata laut dan pusat penelitian kelautan.</p>
+<p style="text-align: justify;">
+	<span style="color:#b22222;"><strong>AKSESIBILITAS</strong></span></p>
+<p style="margin-left: 40px; text-align: justify;">
+	Untuk mencapai Pulau Kenawa bisa ditempuh dengan menggunakan transportasi yang menghubungkan&nbsp; antara Pulau Sumbawa dan Pulau Lombok, yaitu kapal feri dari Pelabuhan Kayangan di Kabupaten Lombok Timur yang menempuh 1 - 2 jam perjalanan mengarungi Selat Alas menuju Pelabuhan Poto Tano di Sumbawa Barat. Pelabuhan Poto berada di Kabupaten Sumbawa Barat (KSB) beroperasi selama 24 jam non-stop dengan jadwal keberangkatan setiap 1 jam sekali.&nbsp; Poto Tano oleh masyarakat Sumbawa disebut &quot;Lawang Desa&quot; atau Gerbang Desa, Masyarakat Sumbawa biasa menyebut Sumbawa dengan sebutan &quot;Desa Kami&quot; sebagai ungkapan rasa bangga dan rasa memiliki yang kuat pada tanah kelahirannya.</p>
+<p style="margin-left: 40px; text-align: justify;">
+	Pulau Kenawa berada tidak jauh dari pelabuhan penyeberangan Poto Tano, Sumbawa Barat.. Karena tidak ada kapal besar yang menyediakan jasa transportasi Untuk menjangkau Pulau Kenawa., wisatawan biasa naik kapal nelayan dengan waktu tempuh sekitar 15 menit dari Pelabuhan Poto Tano.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="ksbk">Kependudukan, Sosial Budaya dan Kelembagaan</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<h2><a id="eshp">Ekosistem dan Sumberdaya Hayati</a></h2>
+<p><div class="readmore"><p style="text-align: justify;">
+	<span style="color:#b22222;"><strong>Ekosistem Terumbu Karang</strong></span></p>
+<p style="text-align: justify; margin-left: 40px;">
+	Pulau-pulau di bagian Sumbawa Barat memiliki karakteristik yang unik, dengan batuan sebagai dasar pembentukan pulau akibat aktifitas vulkanik ataupun tektonik menjadikan pulau-pulau tersebut memiliki bukit-bukit yang tidak banyak ditumbuhi pepohonan besar. Keadaan ekosistem pesisir pulau pada umumnya adalah terumbu karang dan mangrove yang cukup banyak pada pulau-pulau tertentu.</p>
+<p style="text-align: justify; margin-left: 40px;">
+	Pengamatan pada Pulau Kenawa di bagian timur, Pulau Kenawa dipengaruhi oleh arus yang cukup kuat dan saat pengambilan data dilakukan merupakan musim angin yang berpengaruh pada gelombang di pulau-pulau tersebut. Kondisi jarak pandang di dalam perairan cukup jernih dan mampu melihat hingga jarak sekitar 10 meter. Rata-rata kedalaman pengambilan data dilakukan pada kedalaman 7 &ndash; 8 meter.</p>
+<p style="text-align: justify; margin-left: 40px;">
+	Pulau Kenawa merupakan pulau yang pengembangannya diperuntukkan sebagai tujuan wisata. Pada pesisir pulau ini terlihat beberapa bangunan pondok untuk wisatawan yang ingin duduk dan berteduh. Vegetasi pulau ini umunya tergolong rerumputan dan bukit batu yang menjulang pada sudut pulau. Kontur dasar cukup curam dan tidak jauh dari pinggir pantai. Pada bagian selatan pulau terdapat gosong karang yang menjadi lokasi bermain bagi wisatawan yang datang maupun para nelayan yang mencari tangkapan. Sebaran terumbu karang dapat ditemukan pada kedalaman 1 &ndash; 15 meter lebih. Kondisi jarak pandang di dalam kolom perairan cukup jernih dan arus yang tenang setelah kondisi kenaikan arus pasang.</p>
+<p style="text-align: justify;">
+	<span style="color:#b22222;"><strong>Ikan Karang</strong></span></p>
+<p style="margin-left: 40px; text-align: justify;">
+	Pengamatan komunitas ikan pada lokasi Sumbawa Barat dilakukan pada 3 lokasi yaitu Selatan Pulau Paserang, Timur Pulau Kenawa dan Utara Pulau Kalong. Indeks keanekaragaman (H&rsquo;), keseragaman (E) dan dominasi (C) dapat digunakan untuk melihat kondisi hubungan antar kelompok spesies ikan terumbu dan untuk mengetahui kestabilan ekosistem. Indeks keanekaragaman (H&rsquo;) yang didapatkan dari ketiga lokasi berkisar antara 1.88 &lt; H &lt; 2.44. Hal ini menunjukkan keanekaragaman yang berbeda diantara ketiga lokasi tersebut dengan kategori kecil dan sedang.</p>
+<p style="margin-left: 40px; text-align: justify;">
+	Grafik 1 menunjukkan nilai keanekaragaman yang paling tinggi pada lokasi Timur Pulau Kenawa dengan nilai keanekaragaman sebesar 2.44 nilai ini menunjukkan keanekaragaman yang tergolong sedang, pada lokasi ini di temukan spesies yang paling beragam diantara lokasi lainnya, yaitu sejumlah 37 spesies dengan 238 individu dan kelimpahan sebesar 0.95 ind/m<sup>2 </sup>. Timur Pulau Kenawa memiliki keanekaragaman yang lebih tinggi karena walaupun jumlah individu yang ditemukan cenderung lebih sedikit, namun jenis spesies yang ditemukan lebih banyak. Pada lokasi ini ditemukan famili terbanyak yaitu, <em>Caesionidae</em> dan <em>Acanthuridae</em> yang tergolong kategori ikan target. Sedangkan untuk keanekaragaman dengan nilai terendah pada lokasi Utara Pulau Kalong dengan nilai H&rsquo; sebesar 1.88&nbsp; dengan jumlah spesies yang ditemukan sebanyak 33 spesies sebanyak 724 individu, namun kelimpahan pada lokasi ini memiliki jumlah yang lebih banyak yaitu, sebesar 2.89 ind/ m<sup>2</sup> dengan kelimpahan tertinggi pada ikan famili <em>Pomacentridae</em> yang tergolong kategori ikan mayor dan <em>Scaridae</em> kategori ikan target. Lokasi Selatan Pulau Paserang memiliki nilai keanekaragaman dengan ketegori yang sama dengan Timur Pulau Kenawa, yaitu sedang, namun nilainya lebih rendah dari Pulau Kenawa yaitu 2.28.</p>
+<p style="text-align: center;">
+	Total Kelimpahan ikan pada setiap lokasi penyelaman</p>
+<table align="center" border="0" cellpadding="0" cellspacing="0" height="166" width="251">
+	<tbody>
+		<tr>
+			<td nowrap="nowrap" style="width:181px;height:20px;">
+				<p style="text-align: justify;">
+					<strong>Lokasi</strong></p>
+			</td>
+			<td nowrap="nowrap" style="height:20px;">
+				<p style="text-align: justify;">
+					<strong>Kelimpahan (ind/m2)</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="width:181px;height:19px;">
+				<p style="text-align: justify;">
+					Selatan Paserang</p>
+			</td>
+			<td nowrap="nowrap" style="height:19px;">
+				<p style="text-align: justify;">
+					1.27</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="width:181px;height:21px;">
+				<p style="text-align: justify;">
+					Timur Kenawa</p>
+			</td>
+			<td nowrap="nowrap" style="height:21px;">
+				<p style="text-align: justify;">
+					0.95</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="width:181px;height:23px;">
+				<p style="text-align: justify;">
+					Utara Kalong</p>
+			</td>
+			<td nowrap="nowrap" style="height:23px;">
+				<p style="text-align: justify;">
+					2.89</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<div style="clear: both; text-align: justify;">
+	&nbsp;</div>
+<p style="text-align: justify; margin-left: 40px;">
+	Nilai keseragaman (E) pada ketiga lokasi berkisar antara 0,54 &lt; E &lt; 0.74 dengan semua lokasi memiliki kategori keseragaman yang sama,yaitu kategori labil dan nilai Dominansi (C) berkisar 0.16 &lt; C &lt; 0.28. Nilai keseragaman terendah ditemukan pada lokasi penyelaman Utara Pulau Kalong dengan nilai 0.54 dan nilai ini berbanding lurus dengan nilai keanekaragaman paling kecil berada pada lokasi ini serta nilai Dominansi (C) pada lokasi ini memiliki nilai yang paling tinggi, namun tidak nampak adanya biota yang mendominansi pada lokasi tersebut dengan nilai sebesar yaitu 0,28. Lokasi Selatan Pulau Paserang yang memiliki nilai keseragaman yang paling tinggi dengan nilai 0.74 namun tetap menunjukkan kategori lingkungan yang labil dan memiliki nilai dominansi terendah,yaitu 0.16 yang memiliki arti bahwa tingkat dominansi suatu biota pada lokasi tersebut masih tergolong rendah.</p>
+<p style="text-align: justify; margin-left: 40px;">
+	Nilai indeks keseragaman dan nilai indeks keanekaragaman yang kecil biasanya menandakan adanya dominasi suatu spesies terhadap spesies-spesies lain.&nbsp; Dominasi suatu spesies yang cukup besar akan mengarah pada kondisi ekosistem atau komunitas yang labil atau tertekan. Nilai indeks dominansi berkisar antara 1&ndash;0.&nbsp; Semakin tinggi nilai indeks tersebut, maka akan terlihat suatu biota mendominasi substrat dasar perairan.&nbsp; Jika nilai indeks dominansi (C) mendekati nol, maka hal ini menunjukkan pada perairan tersebut tidak ada biota yang mendominasi dan biasanya diikuti oleh nilai keseragaman (E) yang tinggi.</p>
+<p style="margin-left: 40px; text-align: justify;">
+	Persentase penutupan substrat dasar yang paling tinggi di bagian barat Pulau Kenawa adalah kategori biotik mencapai 45,2% yang merupakan karang lunak. Sedangkan penutupan karang keras hidup (KKH) sebesar 34,8% yang termasuk dalam kriteria sedang. Penutupan abiotik sebesar 13,6% dan penutupan karang mati merupakan yang paling sedikit yaitu sebesar 6,4% (Gambar).</p>
+<p style="margin-left: 40px; text-align: justify;">
+	Ragam jenis penutupan substrat dasar cukup banyak di bagian barat Pulau Kenawa. Terlihat penutupan karang lunak yang lebih tinggi dibandingkan dengan KKH. Karang lunak ini mendominasi tutupan substrat dasar dan jenis karang lunak yang disebut <em>gorgonian</em> terlihat pada lokasi pengamatan. <em>Gorgonian</em> memiiliki bentuk seperti kipas dan sangat menarik bagi para penyelam. KKH yang ditemukan umumnya memiliki ukuran koloni yang cukup besar dan rata-rata jenis karang yang bertentakel besar atau selalu terlihat.</p>
+<p style="text-align: justify;">
+	<span style="color:#b22222;"><strong>Ekosistem Mangrove Dan Lamun</strong></span></p>
+<p style="text-align: justify; margin-left: 40px;">
+	Identifikasi ekosistem padang lamun dan mangrove dilakukan di kawasan Gili Balu yaitu di Pulau Kenawa yang secara geografis merupakan bagian dari Pulau Sumbawa (Nusa Tenggara Barat) dan lebih tepatnya di Sumbawa Barat. Pulau Kenawa adalah pulau kosong (tidak berpenduduk) dan terdapat rumah-rumah pondok/singgah sebagai tempat wisatawan dan beristirahat nelayan pulau-pulau di sekitar Pulau Kenawa, sebagian besar daratan Pulau Kenawa tersebut oleh ilalang, sehingga membentuk padang sabana.</p>
+<p style="text-align: justify; margin-left: 40px;">
+	Pulau Kenawa ini sangat mudah dikenali karena terdapatnya bukit yang tidak terlalu tinggi dan&nbsp; biasa didaki oleh wisatawan. Karena pada saat itu sedang musim kemarau, pulau ini terlihat seperti sabana dengan padang rumput yang menguning. Di pulau ini terdapat beberapa <em>gazebo </em>yang sudah tidak terawat lagi keberadaannya, sehingga pulau ini terlihat kumuh. Di Pulau Kenawa ini terdapat eksosistem mangrove di bagian barat dan utara. Mangrove di bagian barat memiliki kerapatan lebih tinggi dibandingan di bagian utara. Di bagian barat dan utara Pulau Kenawa terdapat mangrove jenis <em>Rhizophora stylosa, Bruguiera gymnorrizha </em>dan <em>Sonneratia alba. R. stylosa </em>&nbsp;ditemukan dalam jumlah yang banyak sehingga membentuk komunitas. Kerapatan mangrove jenis <em>R. stylosa </em>di barat Pulau Kenawa mencapai 1714 individu/m<sup>2</sup> sedangkan di bagian utara mencapai 1500 individu/m<sup>2</sup>. Selain jenis <em>R. stylosa </em>di bagian utara terdapat <em>Bruguiera gymnorrizha </em>dan <em>Sonneratia alba </em>dengan kerapatan jenisnya masing-masing adalah 1333 individu/m<sup>2</sup> dan 1000 individu/m<sup>2</sup>.</p>
+<p style="text-align: justify; margin-left: 40px;">
+	Di perairan Pulau Kenawa juga terdapat lamun yang tumbuh dengan kedalam kurang dari 50 cm. Adapun jenis lamun yang ditemukan di Pulau Kewana adalah <em>Enhallus acroides, Cymodocea rotundata, </em>dan <em>Thalassia hemprichii.</em></p>
+<p style="text-align: justify; margin-left: 40px;">
+	Dari Gambar diatas dapat dilihat bahwa kerapatan jenis lamun di Pulau Kenawa yang paling tinggi adalah jenis <em>Thalassia hemprichii </em>yaitu 38 individu/m<sup>2</sup><em>. </em>Sedangkan kerapatan jenis lamun terendah adalah jenis <em>Enhallus acroides </em>sebesar 14 individu/m<sup>2</sup>. Kerapatan jenis lamun <em>Cymodocea rotundata </em>adalah sebesar 34 individu/m<sup>2</sup>.</p>
+<p style="text-align: justify; margin-left: 40px;">
+	Persen penutupan lamun pada masing-masing jenis memiliki nilai yang berbeda. Gambar 17 memperlihatkan bahwa lamun <em>Thalassia hemprichii </em>memiliki nilai persen penutupan tertinggi yaitu 9,5%, sedangkan nilai persen penutupan lamun terendah adalah jenis <em>Enhallus acroides </em>3,5%. Sedangkan jenis <em>Syringodium isoetifolium </em>memeiliki persen penutupan sebesar 8,5%. Persen penutupan lamun akan tinggi apabila nilai kerapatannya tinggi pula. Total persen penutupan lamun di Pulau Kenawa adalah 21,5%.</p>
+<p style="text-align: justify; margin-left: 40px;">
+	Pulau yang dijadikan lokasi pengamatan kualitas air adalah Pulau Kenawa Pulau Kenawa merupakan pulau yang di targetkan menjadi pulau wisata. Pulau Kenawa memiliki ekosistem mangrove dan ekosistem terumbu karang yang lebih luas dibandingkan dengan ekosistem lamun yang terlihat hanya sedikit. Kualitas perairan sebagai pendukung kelestarian ekosistem tersebut merupakan hal yang sangat berpengaruh. Berikut ini di sajikan nilai kulaitas air pada saat pengukuran di lapangan dan hasil analisis laboratorium.</p>
+<p style="text-align: center;">
+	Hasil analisis kualitas air di Pulau Kenawa</p>
+<table align="center" border="1" cellpadding="0" cellspacing="0" height="353" width="453">
+	<tbody>
+		<tr>
+			<td nowrap="nowrap" style="width:10.3%;height:20px;">
+				<p style="text-align: justify;">
+					<strong>No.</strong></p>
+			</td>
+			<td nowrap="nowrap" style="width:32.98%;height:20px;">
+				<p style="text-align: justify;">
+					<strong>Parameter</strong></p>
+			</td>
+			<td nowrap="nowrap" style="width:15.48%;height:20px;">
+				<p style="text-align: justify;">
+					<strong>Satuan</strong></p>
+			</td>
+			<td nowrap="nowrap" style="width:23.72%;height:20px;">
+				<p style="text-align: justify;">
+					<strong>Pulau Kenawa</strong></p>
+			</td>
+			<td nowrap="nowrap" style="width:17.5%;height:20px;">
+				<p style="text-align: justify;">
+					<strong>BM*</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="width:10.3%;height:20px;">
+				<p style="text-align: justify;">
+					1</p>
+			</td>
+			<td nowrap="nowrap" style="width:32.98%;height:20px;">
+				<p style="text-align: justify;">
+					Suhu</p>
+			</td>
+			<td nowrap="nowrap" style="width:15.48%;height:20px;">
+				<p style="text-align: justify;">
+					<sup>0</sup>C</p>
+			</td>
+			<td nowrap="nowrap" style="width:23.72%;height:20px;">
+				<p style="text-align: justify;">
+					28,4</p>
+			</td>
+			<td nowrap="nowrap" style="width:17.5%;height:20px;">
+				<p style="text-align: justify;">
+					Alami</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="width:10.3%;height:20px;">
+				<p style="text-align: justify;">
+					2</p>
+			</td>
+			<td nowrap="nowrap" style="width:32.98%;height:20px;">
+				<p style="text-align: justify;">
+					DO</p>
+			</td>
+			<td nowrap="nowrap" style="width:15.48%;height:20px;">
+				<p style="text-align: justify;">
+					&nbsp;mg/L</p>
+			</td>
+			<td nowrap="nowrap" style="width:23.72%;height:20px;">
+				<p style="text-align: justify;">
+					9,2</p>
+			</td>
+			<td nowrap="nowrap" style="width:17.5%;height:20px;">
+				<p style="text-align: justify;">
+					&gt; 5</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="width:10.3%;height:20px;">
+				<p style="text-align: justify;">
+					3</p>
+			</td>
+			<td nowrap="nowrap" style="width:32.98%;height:20px;">
+				<p style="text-align: justify;">
+					pH</p>
+			</td>
+			<td nowrap="nowrap" style="width:15.48%;height:20px;">
+				<p style="text-align: justify;">
+					-</p>
+			</td>
+			<td nowrap="nowrap" style="width:23.72%;height:20px;">
+				<p style="text-align: justify;">
+					9,06</p>
+			</td>
+			<td nowrap="nowrap" style="width:17.5%;height:20px;">
+				<p style="text-align: justify;">
+					7-8,5</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="width:10.3%;height:20px;">
+				<p style="text-align: justify;">
+					4</p>
+			</td>
+			<td nowrap="nowrap" style="width:32.98%;height:20px;">
+				<p style="text-align: justify;">
+					Salinitas</p>
+			</td>
+			<td nowrap="nowrap" style="width:15.48%;height:20px;">
+				<p style="text-align: justify;">
+					ppt</p>
+			</td>
+			<td nowrap="nowrap" style="width:23.72%;height:20px;">
+				<p style="text-align: justify;">
+					36</p>
+			</td>
+			<td nowrap="nowrap" style="width:17.5%;height:20px;">
+				<p style="text-align: justify;">
+					Alami</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="width:10.3%;height:20px;">
+				<p style="text-align: justify;">
+					5</p>
+			</td>
+			<td nowrap="nowrap" style="width:32.98%;height:20px;">
+				<p style="text-align: justify;">
+					Ammonia (NH<sub>3</sub>-N)</p>
+			</td>
+			<td nowrap="nowrap" style="width:15.48%;height:20px;">
+				<p style="text-align: justify;">
+					&nbsp;mg/L</p>
+			</td>
+			<td nowrap="nowrap" style="width:23.72%;height:20px;">
+				<p style="text-align: justify;">
+					1.852</p>
+			</td>
+			<td nowrap="nowrap" style="width:17.5%;height:20px;">
+				<p style="text-align: justify;">
+					0,3</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="width:10.3%;height:22px;">
+				<p style="text-align: justify;">
+					6</p>
+			</td>
+			<td nowrap="nowrap" style="width:32.98%;height:22px;">
+				<p style="text-align: justify;">
+					Nitrat (NO<sub>3</sub>-N)</p>
+			</td>
+			<td nowrap="nowrap" style="width:15.48%;height:22px;">
+				<p style="text-align: justify;">
+					&nbsp;mg/L</p>
+			</td>
+			<td nowrap="nowrap" style="width:23.72%;height:22px;">
+				<p style="text-align: justify;">
+					0.114</p>
+			</td>
+			<td nowrap="nowrap" style="width:17.5%;height:22px;">
+				<p style="text-align: justify;">
+					0,008</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="width:10.3%;height:22px;">
+				<p style="text-align: justify;">
+					7</p>
+			</td>
+			<td nowrap="nowrap" style="width:32.98%;height:22px;">
+				<p style="text-align: justify;">
+					Fosfat (PO<sub>4</sub>-P)</p>
+			</td>
+			<td nowrap="nowrap" style="width:15.48%;height:22px;">
+				<p style="text-align: justify;">
+					&nbsp;mg/L</p>
+			</td>
+			<td nowrap="nowrap" style="width:23.72%;height:22px;">
+				<p style="text-align: justify;">
+					0.042</p>
+			</td>
+			<td nowrap="nowrap" style="width:17.5%;height:22px;">
+				<p style="text-align: justify;">
+					0,015</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<p style="text-align: center;">
+	*)&nbsp; : Baku Mutu Berdasarkan Kepmen-LH 51 Tahun 2004 (Untuk Biota Laut )</p>
+<p style="text-align: justify; margin-left: 40px;">
+	Nilai suhu perairan di Pulau Kenawa memperlihatkan nilai suhu yang normal. Namun, nilai DO (kandungan oksigen) memperlihatkan nilai yang cukup tinggi sebesar 9,2 mg/L pada Pulau Kenawa. Nilai DO tersebut memperlihatkan aktifitas fisik perairan cukup tinggi seperti aktifitas gelombang dan ombak di perairan tersebut. Kondisi angin yang kencang dapat menyebabkan terjadinya turbulensi permukaan perairan laut sehingga banyak oksigen bebas di udara yang terperangkap ke dalam perairan. Kondisi geografis pulau-pulau yang merupakan jalur lintas arus dari perairan utara Indonesia menuju selatan Indonesia (ARLINDO) yang melewati kawasan pulau Pulau Kenawa.</p>
+<p style="text-align: justify; margin-left: 40px;">
+	Konsentrasi pH (kadar asam-basa) perairan Pulau Kenawa menunjukkan nilai sebesar 9,06 , konsentrasi pH tersebut menunjukkan adanya kandungan karbon yang cukup tinggi dalam perairan sehingga kondisi perairan menuju tingkat basa. Konsentrasi karbon yang tinggi dapat diakibatkan oleh aktifitas organisme dalam perairan yang menghasilkan kadar karbon yang cukup banyak. Kandungan oksigen (DO) juga ikut mempengaruhi hal ini, dengan kandungan oksigen yang tinggi, banyak organisme yang melakukan proses respirasi maupun proses lainnya yang berakibat menghasilkan kadar karbon dalam jumlah yang banyak dalam perairan. Nilai salinitas perairan dalam hal ini termasuk dalam kategori normal dan pada saat pengamatan cuaca sangat cerah, pemanasan oleh matahari dapat meningkatkan evaporasi (penguapan) yang cukup tinggi pada permukaan perairan sehingga peningkatan kadar garam dapat terjadi.</p>
+<p style="text-align: justify; margin-left: 40px;">
+	Hasil analisis kualitas air di Pulau Kenawa memperlihatkan nilai kadar ammonia, nitrat, dan fosfat yang melebihi baku mutu. Kadar ammonia dalam perairan Pulau Kenawa sebesar 1,852 mg/L (BM 0,3 mg/L) yang cukup tingi dari standar baku mutu. Kadar nitrat dalam perairan sebesar 0,114 mg/L (BM 0,008 mg/L) dan kadar fosfat sebesar 0,042 mg/L (BM 0,015 mg/L). Peningkatan kadar tersebut merupakan hal yang buruk bagi biota yang ada di dalam perairan Pulau Kenawa. Aktifitas manusia di pulau ini terlihat cukup sering dikarenakan pulau ini merupakan pulau yang di targetkan menjadi pulau wisata. Keberadaan pondok-pondok kayu di sepanjang pesisir pulau menjadi hal menarik bagi pengunjung untuk datang ke pulau ini. Aktifitas manusia dengan melakukan pembuangan zat sisa dari tubuh saat berenang, aktifitas kapal-kapal pembawa wisatawan dengan buangan sisa pembakaran bbm kapal serta jalur pelayaran kapal penumpang (kapl fery) lintas Lombok-Sumbawa Barat (Pototano) dapat menjadi penyumbang kadar nutrien dan limbah lainnya dalam perairan.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="snh">Sumberdaya Non Hayati</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<h2><a id="aps">Aktivitas Pengelolaan Sumberdaya</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<h2><a id="ling">Lingkungan</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<h2><a id="sp">Sarana dan Prasarana</a></h2>
+<p><div class="readmore"><p>
+	<strong>Sarana Air bersih</strong></p>
+<p style="margin-left: 40px;">
+	Pulau Kenawa belum mempunyai sumber air bersih, yang mengakibatkan tidak tersedianya prasarana seperti toilet dan penginapan.</p>
+<p>
+	<strong>Sarana Pariwisata</strong></p>
+<p style="margin-left: 40px;">
+	Sejauh mata memandang, terhampar dataran rendah padang rumput kecuali satu bukit kecil di bagian tengahnya. Terdapat sejumlah &quot;brugak&quot; (bangunan kecil semacam gubuk) atau saung-saung di beberapa sudut pulau, untuk duduk dan menggelar tikar menikmati keindahan alam Pulau Kenawa.</p>
+<p style="margin-left: 40px;">
+	Pulau Kenawa tak berpenghuni. Pepohonan besar tak banyak tumbuh di pulau di utara Sumbawa Barat, NTB, ini, kecuali mangrove. Meski begitu,&nbsp; bukan berarti pulau ini sepi dari aktivitas masyarakat. Pulau Kenawa memiliki panorama indah dan mempesona. Wisatawan domestik maupun mancanegara banyak berkunjung ke tempat ini.</p>
+<p style="margin-left: 40px;">
+	Dermaga kayu yang menjulur beberapa meter ke laut di Pulau Kenawa menjadi sarana aktivitas penyeberangan kapal-kapal nelayan yang hampir setiap hari bersandar di dermaga untuk mengantarkan para wisatawan yang ingin menikmati keindahan alam Pulau Kenawa.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="pi">Peluang Investasi</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<h2><a id="pap">Potensi dan Arahan Pengembangan</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<h2><a id="kp">Kendala Pengembangan</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<h2><a id="rf">Referensi</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<br />
+	<i> 
+		<p style="font-size:12px;">
+			Karena keterbatasan SDM dalam penginputan dan pengolahan data, kami mohon maaf atas ketidak lengkapan beberapa data pulau yang kami tampilkan, harap dimaklumi.
+			Berikan keritik dan saran pada kolom komentar agar kita dapat bersama menyajikan sebuah data yang cukup sempurna untuk halayak ramai yang berguna
+			demi kesejahterahan, kelestarian dan keindahan pulau-pulau kecil yang dimiliki Indonesia.<br />
+			*Jika sekiranya anda memiliki data yang cukup banyak, silakan mengirimkan file melalui email kami di <b><a>identifikasippk@gmail.com</a></b>
+			
+		</p>
+	</i>
+<br />
+
+<div id="fb_comn" class="fb-comments" data-href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_info/5160" data-width="800" data-numposts="5" data-colorscheme="light"></div>
+
+
+</div>
+</div>
+</div>
+<div id="wrapper">
+
+<div class="footer"><p>
+<!--<marquee onmouseover="this.stop()" onmouseout="this.start()" scrollamount="5" direction="right" width="798" height="14"  behavior="scroll">-->
+<a href="http://www.ppk-kp3k.kkp.go.id/" target="_blank">Direktorat Pendayagunaan Pulau-Pulau Kecil &nbsp; | &nbsp;</a>
+<a href="http://www.kp3k.kkp.go.id/" target="_blank">Ditjen Kelautan, Pesisir dan Pulau-Pulau Kecil &nbsp; | &nbsp;</a>
+<a href="http://www.kkp.go.id/" target="_blank">Kementerian Kelautan dan Perikanan</a>
+<!--</marquee>--> <br />
+Jl. Medan Merdeka Timur No. 16 Gedung Mina Bahari 3 Lantai 10, Jakarta, Indonesia <br />
+Email : identifikasippk@gmail.com <br />
+Telp &amp; Fax: (021) 3522058 <br />
+&copy; Copyright Direktorat Pendayagunaan Pulau-Pulau Kecil 2012&nbsp; <br /></p>
+</div>
+</div>
+</body>
+</html>

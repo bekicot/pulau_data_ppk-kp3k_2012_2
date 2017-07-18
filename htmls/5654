@@ -1,0 +1,1414 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Pulau Cempedak Dua</title>
+
+<meta charset="utf-8"/>
+
+<meta property="fb:app_id" content="559408774147878" />
+
+
+<meta property="og:title" content="Pulau Cempedak Dua" />
+<meta property="og:url" content="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_info/5654" />
+
+
+    <script type="text/javascript" src="http://ajax.microsoft.com/ajax/jquery/jquery-1.4.4.min.js">
+    </script>
+    
+    <script type="text/javascript" src="http://plugins.learningjquery.com/expander/jquery.expander.js">
+    </script>
+    
+    <script type="text/javascript">
+        $(function () {
+            $('div.readmore').expander({
+                slicePoint:200,
+                expandText: '(Baca selengkapnya)',
+                userCollapseText: '(Sembunyikan selengkapnya)'
+            });
+        });
+    </script>
+        
+	<script src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/galleria/galleria-1.2.8.min.js"></script>
+
+        <SCRIPT TYPE="text/javascript">
+            <!--
+            //Disable right click script
+            //visit http://www.rainbow.arch.scriptmania.com/scripts/
+            var message="Sorry, right-click has been disabled";
+            ///////////////////////////////////
+            function clickIE() {if (document.all) {(message);return false;}}
+            function clickNS(e) {if
+            (document.layers||(document.getElementById&&!document.all)) {
+            if (e.which==2||e.which==3) {(message);return false;}}}
+            if (document.layers)
+            {document.captureEvents(Event.MOUSEDOWN);document.onmousedown=clickNS;}
+            else{document.onmouseup=clickNS;document.oncontextmenu=clickIE;}
+            document.oncontextmenu=new Function("return false")
+            // -->
+            </SCRIPT>
+            
+            <SCRIPT TYPE="text/javascript">
+            <!--
+            //Disable select-text script (IE4+, NS6+)
+            //visit http://www.rainbow.arch.scriptmania.com/scripts/
+            ///////////////////////////////////
+            function disableselect(e){
+            return false
+            }
+            function reEnable(){
+            return true
+            }
+            //if IE4+
+            document.onselectstart=new Function ("return false")
+            //if NS6
+            if (window.sidebar){
+            document.onmousedown=disableselect
+            document.onclick=reEnable
+            }
+            // -->
+            </SCRIPT>  
+              
+<link rel="stylesheet" type="text/css" href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/css/main.css" media="screen"/>
+<style type='text/css'>
+#info_wrap{
+	width:820px;
+	margin:0 auto;
+	text-shadow:0px 1px 1px #09F;
+}
+table{
+	color:#000000;
+}
+h1{
+	color:#000000;
+}
+.tengahin{
+	width: 105px;
+	height: 30px;
+	margin: 0 auto auto auto;
+}
+#box_view{
+	background-image:-webkit-gradient(linear, 0 0%, 0 100%, from(#FFFFFF), to(#E0F0F5));
+	background:#FFF;
+	color:#F60;
+	border: 1px solid #fff;
+	border-radius: 4px 4px 4px 4px;
+	box-shadow: 0 8px 6px -6px black;
+	position:fixed;
+	right:0;
+	top:150px;;
+	width:80px;
+	z-index:10;
+	padding-left:12px;
+	font-size:10px;
+	}
+#box_view li{
+	color:#F60;
+	margin-left:-30px;
+	}
+	#wrapper a b {
+	color: #FFF;
+	font-size:14px;
+}
+.batas{
+	float:left;
+	border-right-style:inset;
+	border-right-width:thin;
+	}
+.text_h_wrap{
+	
+	padding-left:450px;
+	padding-top:39px;
+	text-shadow:0px 1px 1px #09F;
+	}
+#wrapper .footer p{
+	font-size:12px;
+	color: #FFF;
+	text-align:center;
+	text-shadow:0px 1px 1px #09F;
+}
+td,th {
+	font-size: 12px;
+}
+
+marquee a{
+	color:#FFF
+	}
+#wrapper .footer a{
+	color: #FFFFFF;
+}
+</style>
+            
+<script>
+function goBack()
+  {
+  window.history.back()
+  }
+</script>
+<script type="text/javascript">
+function Popup( url, height, width )
+{
+    var windowProperties = "toolbar = 0, scrollbars = 1, location = 0, statusbar = 0, menubar = 0, resizable = 1, width = " + width + ", height = " + height + ", left = 50, top = 50";
+ 
+    return window.open( url, "", windowProperties );
+}
+</script>
+
+
+
+</head>
+<body oncontextmenu='return false;' onkeydown='return false;' onmousedown='return false;'>
+
+<a id="top_view"></a>
+<div id="wrapper">
+<div class="header_wrap">
+<div class="text_h_wrap">
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/home_page'><b>&nbsp;Home&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/menu_info/1'><b>&nbsp;About Us&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_data'><b>&nbsp;Direktori Pulau&nbsp;&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/program_ip'><b>&nbsp;IKU&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/data_ppkt'><b>&nbsp;PPKT&nbsp;</b></a>
+</div>
+<!--<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/maintenance'><b>&nbsp;Login&nbsp;</b></a>-->
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/dir_log_cont'><b>&nbsp;Login&nbsp;</b></a>
+
+</div>
+</div>
+</div>
+
+<div id="fb-root"></div>
+<script>
+  window.fbAsyncInit = function() {
+    // init the FB JS SDK
+    FB.init({
+      appId      : '559408774147878',                        // App ID from the app dashboard
+      status     : true,                                 // Check Facebook Login status
+      xfbml      : true                                  // Look for social plugins on the page
+    });
+
+    // Additional initialization code such as adding Event Listeners goes here
+  };
+
+  // Load the SDK asynchronously
+  (function(){
+     // If we've already installed the SDK, we're done
+     if (document.getElementById('facebook-jssdk')) {return;}
+
+     // Get the first script element, which we'll use to find the parent node
+     var firstScriptElement = document.getElementsByTagName('script')[0];
+
+     // Create a new script element and set its id
+     var facebookJS = document.createElement('script'); 
+     facebookJS.id = 'facebook-jssdk';
+
+     // Set the new script's source to the source of the Facebook JS SDK
+     facebookJS.src = '//connect.facebook.net/en_US/all.js';
+
+     // Insert the Facebook JS SDK into the DOM
+     firstScriptElement.parentNode.insertBefore(facebookJS, firstScriptElement);
+   }());
+</script>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=559408774147878";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="box_view">
+    <a href="#top_view">MENU</a>
+    <h3><p>Lihat Informasi:</p></h3>
+    <ul>
+	<a href="#sf"><li>Slide Foto</li></a>
+    <a href="#gu"><li>Gambaran Umum</li></a>
+    <a href="#ksbk"><li>Kependudukan, Sosial Budaya dan Kelembagaan</li></a>
+    <a href="#eshp"><li>Ekosistem dan Sumberdaya Hayati</li></a>
+    <a href="#snh"><li>Sumberdaya Non Hayati</li></a>
+    <a href="#aps"><li>Aktivitas Pengelolaan Sumberdaya</li></a>
+    <a href="#ling"><li>Lingkungan</li></a>
+    <a href="#sp"><li>Sarana dan Prasarana</li></a>
+    <a href="#pi"><li>Peluang Investasi</li></a>
+    <a href="#pap"><li>Potensi Arahan Pengembangan</li></a>
+    <a href="#kp"><li>Kendala Pengembangan</li></a>
+	<a href="#rf"><li>Referensi</li></a>
+    </ul>
+    <a href="#fb_comn">KOMENTAR</a>
+</div>
+
+<br>
+			<a id="sf"></a></h2>
+			<div id="galleria">
+            <!--<div class='tengahin'><input type="button" value="Kembali Ke List" onclick="goBack()"></div>-->
+                            </div>
+            
+            <script>
+            Galleria.loadTheme('http://www.ppk-kp3k.kkp.go.id/direktori-pulau/galleria/themes/classic/galleria.classic.min.js');
+            Galleria.run('#galleria');
+            </script>
+</div>
+
+<div id="text_warp">
+
+
+<p><h1>Cempedak Dua</h1></p>
+<table>
+<tr>
+	<td>Nama Lain</td> <td>:</td> <td></td>
+</tr>
+<tr>
+	<td>Propinsi</td> <td>:</td> <td>KALIMANTAN BARAT</td>
+</tr>
+<tr>
+	<td>Kabupaten</td> <td>:</td> <td>KABUPATEN KETAPANG</td>
+</tr>
+<tr>
+	<td>Kecamatan</td> <td>:</td> <td></td>
+</tr>
+<tr>
+	<td>Koordinat</td> <td>:</td> <td><a href="http://www.ppk-kp3k.kkp.go.id/giskkp/index.html?extent="target="_blank">2° 37' 54.000</a></td>
+</tr>
+</table>
+<hr>
+
+<h2><a id="gu">Gambaran Umum</a></h2>
+<p><div class="readmore"><p style="text-align: justify;">
+	<strong>Kondisi Umum Pulau</strong></p>
+<p style="text-align: justify;">
+	<strong>Nama Pulau</strong></p>
+<p style="margin-left: 35.45pt; text-align: justify;">
+	Menurut sejarah Pulau ini dinamakan Pulau Cempedak, karena pada mulanya banyak ditemukan buah cepedak dipulau ini terutama saat musim buah.&nbsp; Masyarakat Kecamatan Kendawangan bila ingin makan buah cempedak akan mendatangi pulau ini.&nbsp; Sejak saat Pulau tersebut terkenal dengan nama Pulau cempedak.&nbsp; Hal ini masih terlihat sisa-sisa pohon cempedak dibagian perbukitan pulau tersebut.</p>
+<p style="text-align: justify;">
+	<strong>Sejarah Nama Pulau</strong></p>
+<p style="margin-left: 35.45pt; text-align: justify;">
+	Dilihat dari sejarah, bahwa Nama pulau Cempedak diambil dari nama yang berasal turun-temurun di zaman nenek moyang dahulu. Selanjutnya berdasarkan hasil wawancara dan interview dalam bentuk FGD di lokasi Pulau Cempedak maupun di rumah-rumah nelayan sekitar pulau Cempedak, bahwa dari zaman dulu sampai zaman sekarang, pulau Cempedak tidak mengalami perubahan yang signifikan baik dalam hal status lahan maupun status kawasan.&nbsp; Perubahan hanya pada status penghuninya, yang dahulunya hanya penghuni musiman yaitu penduduknya bersifat musiman, dimana saat buah cempedak banyak, maka pulau tersebut akan ramai dikunjungi masyarakat dari daerah disekitarnya, namun saat ini telah berpenghuni menetap.</p>
+<p style="text-align: justify;">
+	<strong>Letak Administrasi dan Geografis</strong></p>
+<p style="margin-left: 35.45pt; text-align: justify;">
+	Secara administratif Kecamatan Kendawangan yang terletak pada garis lintang 2<sup>o</sup> 00&#39;00&quot;&ndash; 3<sup>o</sup> 05&#39;00&quot; Lintang Selatan dan 110<sup>O</sup> 01&#39; 12&quot;&ndash; 110<sup>O</sup> 56&#39; 24&quot; Bujur Timur memiliki luas sekitar 5.859,10 km<sup>2</sup>, dan daerah terluas di Kabupaten Ketapang. Secara geografis, Kecamatan Kendawangan memiliki posisi strategis karena dikelilingi oleh kecamatan lainnya yang merupakan penghasil komoditas perikanan, pertanian dan sentra produksi perkebunan di Kabupaten Ketapang.</p>
+<p style="margin-left: 35.45pt; text-align: justify;">
+	Batas Wilayah Administrasi Kecamatan Sebelah Utara berbatasan dengan Kecamatan&nbsp; Matan Hilir Selatan dan Marau, Sebelah Selatan berbatasan dengan Laut Jawa, Sebelah Timur berbatasan dengan Kecamatan Air Upas, Singkup dan Manis Mata dan Sebelah Barat berbatasan dengan Selat Karimata</p>
+<p style="text-align: justify;">
+	Sebagian besar daerah sekitar di Kecamatan Kendawangan sudah dapat diakses langsung melalui transportasi darat dan sebagian kecil diakses melalui air (laut). Kondisi yang berhubungan &nbsp;langsung dengan laut tersebut sangat bermanfaat untuk mendukung proses pemasaran hasil?hasil perikanan dan pertanian. Hal ini juga didukung sarana?prasarana pelabuhan yang telah dikembangkan di Muara Kendawangan. Prasarana ini tentunya sangat berperan dalam membantu roda pembangunan di Kecamatan Kendawangan.</p>
+<p style="margin-left: 0.5in; text-align: justify;">
+	Pulau Cempedak merupakan salah satu Dusun di Desa Kendawangan Kiri.&nbsp; Berada pada posisi astronomis 2<sup>0</sup>37&rsquo;37,366&rdquo; - 2<sup>0</sup>38&rsquo;18,588&rdquo; Lintang Selatan dan 110<sup>0</sup>6&rsquo;55,974&rsquo;&rsquo; - 110<sup>0</sup>7&rsquo;43,012&rsquo;&rsquo; Bujur Timur. Masyarakat secara umum adalah nelayan tradisional yang juga melakukan kegiatan bercocok tanam diperkebunan.</p>
+<p style="text-align: justify;">
+	<strong>Luas Pulau</strong></p>
+<p style="margin-left: 35.45pt; text-align: justify;">
+	Pulau Cempedak luasnya mencapai 79,3 Ha yang menempati urutan kedua setelah Pulau Sempadi Besar.&nbsp; Berada pada posisi astronomis 2<sup>0</sup>37&rsquo;37,366&rdquo; Lintang Utara - 2<sup>0</sup>38&rsquo;18,588&rdquo; Lintang Selatan dan 110<sup>0</sup>6&rsquo;55,974&rsquo;&rsquo; - 110<sup>0</sup>7&rsquo;43,012&rsquo;&rsquo; Bujur Timur.&nbsp; Memiliki sumberdaya air tawar untuk masyarakat lokal dan seringkali digunakan sebagai pasokan bagi kapal nelayan yang datang dari wilayah lain terutama pada saat musim tangkap ikan.&nbsp; Berpenghuni secara menetap dan telah menjadi desa definitive di Wilayah Kecamatan Kendawangan. Masyarakat secara umum adalah nelayan tradisional yang juga melakukan kegiatan bercocok tanam di perkebunan. Bentang lahan Pulau Cempedak merupakan kebun campuran yang cukup subur.</p>
+<p style="text-align: justify;">
+	Demikian pula dengan perairan laut disekitarnya yang memiliki sumberdaya hayati terumbu karang. Namun pada bulan Agustus-September dan Desember-Pebruari mempunyai tingkat kekeruhan yang cukup tinggi (transparansi cahaya &lt; 2 m). Kawasan sekitar perairan Pulau Cempedak adalah area untuk penangkapan (Fishing grounds) tidak saja&nbsp; bagi komunitas nelayan lokal, tetapi juga nelayan dari luar Pulau Cempedak dan luar Kecamatan Kendawangan.</p>
+<p style="text-align: justify;">
+	<strong>Batas wilayah pulau</strong></p>
+<p style="margin-left: 35.45pt; text-align: justify;">
+	Secara administratif, batas-batas wilayah Pulau Cempedak adalah sebagai berikut:</p>
+<p style="margin-left: 35.45pt; text-align: justify;">
+	Sebelah Utara &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : Laut arah muara Kendawangan</p>
+<p style="margin-left: 35.45pt; text-align: justify;">
+	Sebelah Selatan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : Pulau Bawal</p>
+<p style="margin-left: 35.45pt; text-align: justify;">
+	Sebelah Timur &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : Pulau Iras</p>
+<p style="margin-left: 35.45pt; text-align: justify;">
+	Sebelah Barat &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : Laut Jawa</p>
+<p style="text-align: justify;">
+	<strong>Aksesibilitas</strong></p>
+<p style="margin-left: 35.45pt; text-align: justify;">
+	Aksesibilitas merupakan ukuran kenyamanan atau kemudahan suatu tata guna lahan berinteraksisatu sama lain dan mudah atau susahnya lokasi tersebut dicapai melalui sistem jaringan transportasi (Black, 1981). Definisi mudah atau susah setiap orang pasti berbeda-beda, karena penilaian ini cenderung bersifat subjektif. Sebagian orang ada yang menilai aksesibilitas dipengaruhi oleh jarak dari dua lokasi. Artinya makin pendek jarak 2 lokasi maka makin tinggi akssibilitas, karena mudah untuk dijangkau. Tetapi bagaimana pada saat terjadi macet, secara otomatis tempat yang kita tuju tidak mudah dijangkau lagi walaupun pada kenyataannya jaraknya dekat bahkan mungkin dekat sekali. Sehingga orang pun akan menganggap bahwa waktu lebih tepat untuk menentukan aksesibiltas pada suatu tata guna lahan dari pada jarak. Sebagai contoh 2 lokasi yang berjauhan akan tetapi mempunyai sistem transportasi yang dapat dilewati dengan kecepatan tinggi yang mengakibatkan waktu perjalanan menjadi pendek, yang mana kondisi ini menunjukkan bahwa aksebilitas kedua lokasi tinggi.</p>
+<p style="margin-left: 35.45pt; text-align: justify;">
+	Untuk meningkatkan aksesibiltas dapat dilakukan dengan memperbaiki sistem transportasi seperti pelebaran jalan, pembuatan jalan baru, peningkatan layanan angkutan umum. Peningkatan aksesibilitas tidak menjamin meningkatan mobilitas penduduk dalam memanfaatkan jaringan jalan yang ada. Ketidak-mampuan orang membayar biaya transportasi mengakibatkan investasi yang telah dilakukan terasa sia-sia, karena tidak semua kalangan merasakan manfaatnya, yang secara tidak langsung mengakibatkan rendahnya mobilitas. Sehingga dalam pengambilan kebijakan terkait mengatasi permasalahan transportasi tidak hanya fokus pada peningkatan aksesibilitasnya saja, akan tetapi harus dapat menjamin bahwa setiap orang mampu memanfaatkan infrastruktur yang ada. Sehingga dapat disimpulkan bahwa untuk mengukur aksesibilitas 2 lokasi dapat dilhat dari jarak, waktu dan faktor biaya, yang mana ketiga komponen ini merupakan suatu faktor hambatan perjalanan.</p>
+<p style="margin-left: 35.45pt; text-align: justify;">
+	Aksesibilitas Kota Kecamatan ke Pulau Cempedak umumnya menggunakan transportasi air.&nbsp; Sampai saat ini transportasi yang tersedia adalah angkutan kapal nelayan dari penduduk yang bermukim di Pulau Cempedak, karena belum tersedia angkutan transportasi missal., karena belum tersedia angkutan transportasi missal., karena belum tersedia angkutan transportasi missal.&nbsp; Waktu tempuh rata-rata dari Kota Kendawangan yaitu &plusmn; 1 jam dengan menggunakan kapal motor 5 GT.</p>
+<p style="text-align: justify;">
+	<strong>Status </strong><strong>K</strong><strong>awasan</strong></p>
+<p style="margin-left: 0.5in; text-align: justify;">
+	Status Kawasan merupakan penetapan suatu kawasan yang dapat difungsikan sebagaimana mestinya. Lebih lanjut, status kawasan dapat dikelompokkan menjadi 3 (tiga) bagian diantaranya :</p>
+<p style="text-align: justify;">
+	<strong>Kawasan strategis nasional</strong> adalah wilayah yang penataan ruangnya diprioritaskan karena mempunyai pengaruh sangat penting secara nasional terhadap kedaulatan negara, pertahanan dan keamanan negara, ekonomi, sosial, budaya, dan/atau lingkungan, termasuk wilayah yang telah ditetapkan sebagai warisan dunia</p>
+<p style="text-align: justify;">
+	<strong>Kawasan lindung</strong> adalah wilayah yang ditetapkan dengan fungsi utama melindungi kelestarian lingkungan hidup yang mencakup sumber daya alam dan sumber daya buatan.</p>
+<p style="margin-left: 35.45pt; text-align: justify;">
+	<strong>Kawasan budidaya</strong> adalah wilayah yang ditetapkan dengan fungsi utama untuk dibudidayakan atas dasar kondisi dan potensi sumber daya alam, sumber daya manusia, dan sumber daya buatan.Pulau Cempedak karena karakteristik lokasinya ditetapkan sebagai kawasan konservasi perairan khususnya terumbu karang.Karena terumbu karang di daerah ini sudah banyak yang mengalami kerusakan berat akibat penggunaan bom di masa lalu dalam penangkapan ikan.</p>
+<p style="text-align: justify;">
+	<strong>S</strong><strong>tatus pulau</strong></p>
+<p style="margin-left: 35.45pt; text-align: justify;">
+	Status pulau harus jelas, dan hal ini dilakukan untuk menghindari konflik batas wilayah. Sejumlah pulau&ndash;pulau kecil dan pesisir yang masuk wilayah Kabupaten Ketapang, hingga kini status kepemilikannya tidak jelas sehingga mudah diklaim. Disamping itu, pemanfaatannya pun tidak&nbsp; jelas. Untuk itu ada kejelasan statusnya pulau-pulau kecil yang masuk wilayah Kabupaten Ketapang, termasuk wilayah pesisir dalam bentuk Rancangan Peraturan Daerah (Raperda) tentang Zona Wilayah Pesisir dan pulau-pulau kecil Kabupaten Ketapang. Sehingga nantinya akan jelas pengaturannya, kemudian tidak terjadi&nbsp; tumpang tindih, begitu juga jelas kewenangan Pemerintah Kabupaten Ketapang.&nbsp; Selain itu, perlu diatur untuk pemanfaatan pulau-pulau mau-pun pesisir khususnya menciptakan pola pemanfaatan ruang yang optimal antara pengembangan zona, pemanfaatan dengan zona preservasi dan konservasi. Tetapi tidak menutup kemungkinan di pulau-pulau kecil dan pesisir justru ditetapkan menjadi kawasan khusus. &ldquo;Misalnya ada pulau atau wilayah pesisir yang ditetapkan menjadi zona ekonomi, berkaitan dengan usaha budidaya&rdquo;. Ketika raperda itu disahkan nantinya juga akan mendorong upaya konservasi hutan mangrove guna melindungi daerah pesisir darat dari gangguan gelombang dan mendukung potensi perikanan.</p>
+<p style="margin-left: 35.45pt; text-align: justify;">
+	Menciptakan keserasian antara keserasian pengembangan zona pesisir dengan arahan rencana tata ruang wilayah daratan yang telah disusun dan itu semua sangat terkait. Kemudian nantinya juga tidak ada konflik atas kepemilikan dan status wilayah pesisir maupun pulau-pulau kecil yang ada, dengan harapan menghindari terjadinya konflik didalam pemanfataan di wilayah pesisir dan pulau-pulau kecil. Pulau Cempedak status kepemilikan pulau adalah milik Pemerintah Daerah Kabupaten Ketapang.&nbsp; Oleh karena itu rencana pengembangan kawasan ditetapkan oleh Pemerintah Daerah.</p>
+<p style="text-align: justify;">
+	<strong>Kondisi Fisik</strong></p>
+<p style="text-align: justify;">
+	<strong>Klimatologi </strong></p>
+<p style="text-align: justify;">
+	<strong>a. Curah hujan</strong></p>
+<p style="margin-left: 56.7pt; text-align: justify;">
+	Suhu udara di Kabupaten Ketapang secara umum relatif panas namun stabil sepanjang tahun dengan temperatur udara berkisar antara 27,00 &ndash; 27,30 selama 5 tahun terakhir. Pola penurunan suhu udara selama 5 tahun terakhir pada umumnya terjadi pada bulan-bulan Juli &ndash; Agustus namun tidak terlalu ekstrim. Rata-rata penyinaran matahari selama 5 tahun terakhir sebesar 67,20 % dengan pola puncak tahunan yang beranjak naik pada awal tahun dan mencapai puncaknya pada bulan Agustus, kemudian berangsur turun hingga akhir tahun.</p>
+<p style="margin-left: 56.7pt; text-align: justify;">
+	Dengan kondisi hutan tropis yang cukup lebat, rata-rata hari hujan di Kabupaten Ketapang relaif tinggi yaitu 15 hari hujan setiap bulannya dengan curah hujan rata-rata 211,50 mm. Pola hari hujan tahunan pada umumnya menurun sekitar bulan Juni hingga September dengan titikterendah pada bulan Agustus. Sedangkan mencapai puncak tingginya pada bulan November hingga Januari.</p>
+<p style="margin-left: 56.7pt; text-align: justify;">
+	Adanya perubahan iklim global pada beberapa tahun terakhir juga memberikan dampak langsung terhadap perubahan iklim di Kabupaten Ketapang. Hal ini terlihat dari adanya pergeseran pola curah hujan dan hari hujan bila dibandingkan dari tahun ke tahun.&nbsp; Kemudian rata-rata kecepatan angin di wilayah Kabupaten Ketapang secara umum selama 5 tahun terakhir sebesar 3,30 knot dengan kecepatan terendah 2,10 knot dan kecepatan tertinggi mencapai 5,70 knot pada sekitar bulan Agustus yang seiring dengan datangnya musim penghujan. Berikut ini dapat dilihat pada tabel berikut data klimatologi di Kabupaten Ketapang selama beberapa tahun terakhir.</p>
+<p style="margin-left: 56.7pt; text-align: justify;">
+	Keadaan iklim dan curah hujan sangat erat kaitannya dengan kuantitas dan kualitas air sebagai media hidup biota budidaya, terutama kondisi curah hujan dan jumlah hari hujan.&nbsp; Selain itu curah hujan dan jumlah hari hujan yang berlebihan tidak potensial&nbsp; pengembangan usaha budidaya perikanan karena sangat berpotensi menimbulkan banjir.&nbsp; Sebaliknya pada curah hujan dan jumlah hari hujan yang kurang atau rendah dapat menyebabkan perairan tidak dapat mendukung kehidupan dan pertumbuhan ikan yang dibudidayakan.</p>
+<p style="margin-left: 56.7pt; text-align: justify;">
+	Intensitas curah hujan di Kecamatan Kendawangan tahun 2011 termasuk rendah. Curah hujan terendah sepanjang tahun 2011 hanya 1 mm dan terjadi pada bulan Agustus dengan jumlah hari hujan sebanyak 1 hari. Curah hujan tertinggi mencapai 407,0 mm terjadi pada bulan Desember dengan jumlah hari hujan yang tidak terlalu tinggi, yaitu 24 hari hujan.</p>
+<p style="text-align: justify;">
+	<strong>b. Kelembaban Relative</strong></p>
+<p style="margin-left: 56.7pt; text-align: justify;">
+	Kelembaban adalah faktor ekologis yang penting mempengaruhi aktifitas organisme dan membatasi penyebarannya dengan keragaman harian, serta keragaman tegak dan mendatar.Kandungan uap air itu sendiri atau bersama-sama dengan suhu merupakan faktor yang sangat penting yang mempengaruhi ekologi mahluk-mahluk hidup daratan. Untuk mahluk-mahluk hidup darat, kandungan uap air harus dianggap sebagai kelembaban dalam astmosfir, air tanah untuk tanaman dan air minum untuk hewan-hewan. Banyak hewan-hewan darat seperti moluska, amfibia, isopoda, nematoda, sejumlah serangga dan antropoda lainnya di temukan hanya pada habitat-habitat atmosfernya jenuh dengan uap air (Michael, 1994).</p>
+<p style="margin-left: 56.7pt; text-align: justify;">
+	Temperatur dan kelembaban umumnya penting dalam lingkungan daratan dan demikian eratnya berhubungan sehingga diakui sebagai bagian yang paling penting dari iklim.Interaksi antara temperature dengan kelembaban, seperti pada kasus interaksi kebanyakan faktor, tergantung pada nilai nisbi dan juga nilai mutlak setiap faktor. Sehingga temperatur memberikan efek membatasinya lebih hebat lagi terhadap organisme apabila keadaan kelembaban adalah ekstrim, yakni apakah keadaan tadi sangat tinggi atau sangat rendah, daripada keadaan itu adalah sedang-sedang saja.Demikian juga, kelembaban memainkan peranan yang lebih gawat dalam keadaan temperature ekstrim. Dengan kata lain, hal ini adalah aspek laindari asas mengenai factor interaksi (Odum, 1994).</p>
+<p style="margin-left: 56.7pt; text-align: justify;">
+	Kelembaban relatif adalah istilah yang digunakan untuk menggambarkan jumlah uap air yang terkandung di dalam campuran air-udara dalam fase gas.Kelembaban relatf dari suatu campuran udara-air didefinisikan sebagai rasio dari <a href="http://id.wikipedia.org/wiki/Tekanan_parsial" title="Tekanan parsial">tekanan parsial</a><a href="http://id.wikipedia.org/wiki/Uap_air" title="Uap air">uap air</a> dalam campuran terhadap <a href="http://id.wikipedia.org/wiki/Tekanan_uap" title="Tekanan uap">tekanan uap</a> jenuh air pada temperatur tersebut.Kelembaban relatif menggunakan satuan persen dan dihitung dengan menggunakan alat hygrometer.</p>
+<p style="margin-left: 56.7pt; text-align: justify;">
+	Irama harian kelembaban sangat bervariasi, tinggi pada malam hari dan rendah pada siang hari, juga adanya perbedaan horizontal dan vertikal.Kelembaban sejalan dengan temperatur dan sinar matahari mempunyai peranan penting dalam mengatur aktifitas organisme dan dalam membatasi penyebarannya (Umar, 2010).</p>
+<p style="margin-left: 56.7pt; text-align: justify;">
+	Tinggi rendahnya kelembaban udara di suatu tempat sangat bergantung pada beberapa faktor yaitu (Umar, 2010):</p>
+<ol>
+	<li style="text-align: justify;">
+		Suhu</li>
+	<li style="text-align: justify;">
+		Tekanan udara</li>
+	<li style="text-align: justify;">
+		Pergerakan angin</li>
+	<li style="text-align: justify;">
+		Kuantitas dan kualitas penyinaran</li>
+	<li style="text-align: justify;">
+		Vegetasi</li>
+	<li style="text-align: justify;">
+		Ketersediaan air di suatu tempat (air, tanah, perairan).</li>
+</ol>
+<p style="text-align: justify;">
+	<strong>c. Suhu Udara</strong></p>
+<p style="margin-left: 56.7pt; text-align: justify;">
+	Suhu menunjukkan derajat <a href="http://id.wikipedia.org/wiki/Panas" title="Panas">panas</a> benda. Mudahnya, semakin tinggi suhu suatu benda, semakin panas benda tersebut. Secara mikroskopis, suhu menunjukkan <a href="http://id.wikipedia.org/wiki/Energi" title="Energi">energi</a> yang dimiliki oleh suatu benda.Setiap <a href="http://id.wikipedia.org/wiki/Atom" title="Atom">atom</a> dalam suatu benda masing-masing bergerak, baik itu dalam bentuk perpindahan maupun gerakan di tempat <a href="http://id.wikipedia.org/wiki/Getaran" title="Getaran">getaran</a>.Makin tingginya energi atom-atom penyusun benda, makin tinggi suhu benda tersebut.</p>
+<p style="margin-left: 56.7pt; text-align: justify;">
+	Suhu juga disebut temperatur yang diukur dengan alat <a href="http://id.wikipedia.org/wiki/Termometer" title="Termometer">termometer</a>.Empat macam termometer yang paling dikenal adalah Celsius, Reumur, Fahrenheit dan Kelvin. Perbandingan antara satu jenis termometer dengan termometer lainnya mengikuti:</p>
+<p style="margin-left: 56.7pt; text-align: justify;">
+	C : R : (F-32) = 5 : 4 : 9 dan K = C + 273&nbsp; (derajat)</p>
+<p style="margin-left: 56.7pt; text-align: justify;">
+	Karena dari Kelvin ke derajat Celsius, Kelvin dimulai dari 273 derajat, bukan dari -273 derajat. Dan derajat Celsius dimulai dari 0 derajat. Suhu Kelvin sama perbandingan nya dengan derajat Celsius yaitu 5:5, maka dari itu, untuk mengubah suhu tersebut ke suhu yang lain, sebaiknya menggunakan atau mengubahnya ke derajat Celsius terlebih dahulu, karena jika kita menggunakan Kelvin akan lebih rumit untuk mengubahnya ke suhu yang lain.</p>
+<p style="margin-left: 56.7pt; text-align: justify;">
+	Secara umum, termasuk wilayah pesisir Kabupaten Ketapang bahwa dari tahun ke tahun selama periode 2008-2012 suhu harian, suhu maksimum dan suhu minimum rata-rata bulanan memiliki pola yang hampir sama dengan dua puncak. Puncak pertama terjadi sekitar bulan April atau Mei dan puncak kedua terjadi pada bulan Oktober.Keadaan ini berkaitan dengan posisi matahari yang berada di ekuator pada bulan Maret dan September.</p>
+<p style="text-align: justify;">
+	<strong>d. Arah angin</strong></p>
+<p style="text-align: justify;">
+	Di Kalimantan Barat, umumnya gelombang laut yang terjadi disebabkan oleh angin. Tinggi gelombang dan kecepatan gelombang sangat dipengaruhi oleh kekuatan angin yang bertiup diatasnya.</p>
+<p style="text-align: justify;">
+	<strong>Oseanografi</strong></p>
+<p style="margin-left: 35.45pt; text-align: justify;">
+	Lingkungan laut selalu berubah dan dinamik. Perubahan tersebut kadang-kadang lambat, kadang-kadang cepat.&nbsp; Cepat atau lambatnya perubahan tersebut tetapi mempunyai pengaruh yang sama yaitu akan mengubah intensitas faktor-faktor lingkungan.&nbsp; Perubahan tersebut akan memberikan pengaruh baik terhadap suatu kehidupan, namun dapat memberikan pengaruh buruk bagi kehidupan lainnya.&nbsp;&nbsp; Kedinamisan tersebut menyebabkan terjadinya perubahanlingkungan, dan dengan demikian makhluk hidup juga akan berubah.&nbsp;&nbsp; Faktor-faktor yang banyak berpengaruh terhadap kehidupan laut adalah gerakan air, suhu, salinitas, dan cahaya.</p>
+<ol style="list-style-type:lower-alpha;">
+	<li style="text-align: justify;">
+		<strong>Pola Arus</strong></li>
+</ol>
+<p style="margin-left: 56.7pt; text-align: justify;">
+	Perbedaan letak daerah bumi dan matahari berbeda-beda dan berubah sepanjang tahun sehingga menyebabkan perbedaan temperatur yang akhirnya akan menyebabkan perbedaan tekanan udara pada masing-masing bagian tempat tersebut. Akibat perbedaan tekanan udara inilah terjadi gerakan udara yang disebut angin. Angin musim di Indonesia (angin yang bertiup setiap tahunnnya dalam keadaan tetap) dan berakibat terjadinya musim penghujan dan musim kemarau, mempunyai pengaruh terhadap permukaan laut. Angin yang bertiup pada lautan mengakibatkan perpindahan momentum atmosfer dengan menarik lapisan permukaan lautan menjadi sejajar dengan udara akibatnya lautan menjadi lembab dan gerakannya adalah 1&ndash;2% terhadap kecepatan angin dan tergantung kepada viskositas air laut.&nbsp; Gerakan permukaan air laut akibat angin ini sesuai dengan kedalaman, semakin kedalam perairan, pengaruh angin terhadap laut menjadi nol.</p>
+<p style="margin-left: 56.7pt; text-align: justify;">
+	Arus laut merupakan cerminan langsung dari pola angin yang bertiup waktu itu.&nbsp; Dengan demikian arus permukaan tersebut digerakkan oleh angin, dan air di lapisan bawahnya ikut terbawa. Selain itu arus permukaan laut juga dipengaruhi oleh pasang surut yang disebabkan oleh gaya tarik bumi, bulan dan matahari.&nbsp;&nbsp; Energi yang ditimbulkan oleh angin akan menghasilkan energi kinetis yang dapat memberikan keseimbangan dinamis dari berbagai gaya yang mencoba merubah distribusi energi lautan dan alirannya.</p>
+<p style="margin-left: 56.7pt; text-align: justify;">
+	Perairan Kecamatan Kendawangan dan sekitarnya yang berhubungan langsung dengan dengan perairan Selat Karimata dan Laut Jawa mengalami perubahan total dua kali setahun sesuai dengan perkembangan musim.&nbsp; Pada bulan Desember sampai Februari, arus musim barat mengalir menuju timur.&nbsp;&nbsp; Di Selat Karimata hingga Laut Flores dapat dijumpai arus dengan kekuatan lebih dari 75 cm/detik. Pada musim peralihan (pancaroba), arus ke timur tersebut mulai melemah dan bahkan mulai berbalik arah dapat menyebabkan terjadinya pusaran (edies) di beberapa tempat. Biasanya dalam musim pancaroba tersebut, arus sudah mulai mengalir ke barat di pantai selatan Kalimantan.&nbsp; Sedangkan di lepas pantai utara Jawa arus masih mengalir ke timur.&nbsp; Pada bulan Juni sampai Agustus barulah berkembang arus musim timur dan arah arus telah sepenuhnya berbalik arah menuju arah barat yang akhirnya menuju Laut China Selatan.</p>
+<p style="margin-left: 56.7pt; text-align: justify;">
+	Pada bulan Februari di wilayah Selat Karimata, arus dominan menuju utara hingga barat laut dengan&nbsp; kecepatan berkisar 0,8-0,9 km/jam.&nbsp; Sedangkan pada bulan Agustus-September arah arus dominan dari barat laut dan tenggara dengan kecepatan berkisar 0,8-1,2 m/detik.</p>
+<p style="margin-left: 56.7pt; text-align: justify;">
+	Kecepatan rata-rata angin setiap tahunnya mulai meningkat pada bulan Juni. Kemudian kecepatan rata angin tersebut tinggi pada bulan Juli &ndash; September, dan mulai menurun kembali pada bulan Oktober. Kecepatan angin tersebut&nbsp; sangat mempengaruhi gelombang di perairan laut Kabupaten Ketapang termasuk wilayah perairan Kecamatan Kendawangan.</p>
+<p style="margin-left: 56.7pt; text-align: justify;">
+	Di perairan Kabupaten Ketapang frekwensi tinggi gelombang berkisar antara 10-30 cm dengan arah gelombang datang dari Barat Laut.&nbsp;&nbsp; Tinggi gelombang tersebut bersifat relatif sama antara di pinggir pantai (0-4 mil) hingga 8-12 mil.&nbsp; Pada musim barat yaitu pada bulan Nopember sampai awal Januari, ketinggian gelombang mencapai 60-140 cm di tengah laut dengan jarak di atas 12 mil.&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p style="margin-left: 56.7pt; text-align: justify;">
+	Ketinggian gelombang yang cukup tinggi di sekitar perairan Kendawangan pada waktu-waktu tertentu tersebut menyebabkan aktivitas nelayan menjadi terbatas, baik&nbsp; jarak tempuh menuju lokasi penangkapan (fishing ground) maupun lamanya waktu aktivitas (trip) penangkapan.</p>
+<p style="margin-left: 56.7pt; text-align: justify;">
+	Umumnya tipe hempasan gelombang di Kabupaten Ketapang adalah surging dan sedikit bertipe Spilling. Menurut Romimohtarto dan Juwana (2005) bahwa gelombang bertipe surging merupakan gelombang penerpa yang diakibatkan oleh dasar pantai yang begitu terjal, sehingga gelombang tidak mempunyai waktu untuk bereaksi (sama sekali tidak pecah) tetapi akan mendorong air ke atas ke darat dan menyedotnya kembali. Gelombang tipe surging ini berbahaya bagi manusia. Kemudian gelombang bertipe spilling merupakan gelombang tumpah yang terjadi karena dasar pantai landai, dimana gelombang akan pecah perlahan-lahan dan menggulung ke arah pantai.</p>
+<ol style="list-style-type:lower-alpha;">
+	<li style="text-align: justify;" value="2">
+		<strong>Pola </strong><strong>Gelombang</strong></li>
+</ol>
+<p style="margin-left: 56.7pt; text-align: justify;">
+	Dahuri <em>et al.</em> (2001) menyatakan bahwa pada umumnya gelombang yang ditemukan dipermukaan laut terbentuk karena adanya proses alih energi dari angin ke permukaan laut, atau pada saat-saat tertentu disebabkan oleh gempa didasar laut. Namun sebagian besar gelombang ditimbulkan oleh dorongan angin diatas permukaan dan sebagian lagi oleh tekanan tangensial pada partikel air. Selain itu gelombang dapat terjadi karena pasang surut gerakan tektonik dan vulkanik. Sedangkan karakter gelombang juga dipengaruhi topografi dasar perairan dan kedalamannya (Romimohtarto dan Juwana, 2005).</p>
+<p style="margin-left: 56.7pt; text-align: justify;">
+	Di perairan Kabupaten Ketapang frekwensi tinggi gelombang berkisar antara 10-30 cm dengan arah gelombang datang dari Barat Laut.&nbsp;&nbsp; Tinggi gelombang tersebut bersifat relatif sama antara di pinggir pantai (0-4 mil) hingga 8-12 mil.&nbsp; Pada musim barat yaitu pada bulan Nopember sampai awal Januari, ketinggian gelombang mencapai 60-140 cm di tengah laut dengan jarak di atas 12 mil.&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p style="margin-left: 56.7pt; text-align: justify;">
+	Ketinggian gelombang yang cukup tinggi di sekitar perairan Kendawangan pada waktu-waktu tertentu tersebut menyebabkan aktivitas nelayan menjadi terbatas, baik&nbsp; jarak tempuh menuju lokasi penangkapan (<em>fishing ground</em>) maupun lamanya waktu aktivitas (trip) penangkapan.</p>
+<p style="margin-left: 56.7pt; text-align: justify;">
+	Umumnya tipe hempasan gelombang di Kabupaten Ketapang adalah <em>surging</em> dan sedikit bertipe <em>Spilling</em>. Menurut Romimohtarto dan Juwana (2005) bahwa gelombang bertipe <em>surging </em>merupakan gelombang penerpa yang diakibatkan oleh dasar pantai yang begitu terjal, sehingga gelombang tidak mempunyai waktu untuk bereaksi (sama sekali tidak pecah) tetapi akan mendorong air ke atas ke darat dan menyedotnya kembali. Gelombang tipe <em>surging </em>ini berbahaya bagi manusia. Kemudian gelombang bertipe <em>spilling </em>merupakan gelombang tumpah yang terjadi karena dasar pantai landai, dimana gelombang akan pecah perlahan-lahan dan menggulung ke arah pantai.</p>
+<ol style="list-style-type:lower-alpha;">
+	<li style="text-align: justify;" value="3">
+		<strong>Pasang Surut</strong></li>
+</ol>
+<p style="margin-left: 56.7pt; text-align: justify;">
+	Secara periodik gerakan air laut selalu berubah-ubah.&nbsp; Perubahan tersebut diakibatkan gaya tarik benda-benda ruang angkasa terhadap bumi seperti matahari dan bulan.&nbsp; Selain itu pasang surut juga dipengaruhi berbagai faktor lainnya seperti: tingkah laku gerakan air, kecondongan bulan dan matahari, perubahan jarak antara bulan dan bumi selama perputaran mengelilingi bumi,&nbsp; perubahan jarak antara matahari dan bumi selama bumi mengelilingi matahari,&nbsp; susunan letak antara daratan dan lautan,&nbsp; kekerasan angin, perbedaan tinggi-rendahnya paras laut pada saat pasang dan surut (amplitudo), serta perbedaan paras laut antara pasang dan surut yang mengakibatkan terjadinya arus (arus pasang surut).&nbsp;</p>
+<p style="margin-left: 56.7pt; text-align: justify;">
+	Pada umumnya kondisi pasang surut di Perairan Ketapang dan Kalimantan Barat sangat dipengaruhi oleh kondisi perairan Laut China Selatan.&nbsp; Keadaan pasang surut di wilayah Kabupaten Ketapang adalah pasang surut diurnal yaitu pasang surut yang terjadi 2 (dua) kali sehari (24 jam).&nbsp; Perambatan gelombang di wilayah tersebut berasal dari Samudera Pasifik yang merambat melalui Laut China Selatan dan masuk ke perairan Indonesia bagian barat.&nbsp; Perbedaan tinggi pasang surut rata-rata di Perairan Ketapang adalah 86 cm.&nbsp;&nbsp;</p>
+<p style="margin-left: 56.7pt; text-align: justify;">
+	Salah satu gejala laut, pasang surut memiliki pengaruh yang besar terhadap biota laut, khususnya di wilayah pantai.&nbsp; Sebaran biota-biota pantai seperti plankton, ikan-ikan dan hewan-hewan serta tumbuhan lainnya sangat dipengaruhi oleh pasang surut air laut.&nbsp; Karena biota-biota kecil di pantai tersebut merupakan sumber makanan bagi ikan dalam jaringan makanan di perairan pantai, maka sebaran biota-biota pantai tersebut akan menentukan pula sebaran ikan. Secara tidak langsung, arus (arah dan kekuatannya) sangat mempengaruhi pola sebaran atau distribusi ikan yang selanjutnya merupakan <em>fishing ground</em> bagi nelayan.</p>
+<ol style="list-style-type:lower-alpha;">
+	<li style="text-align: justify;" value="4">
+		<strong>Bathimetri</strong></li>
+</ol>
+<p style="margin-left: 56.7pt; text-align: justify;">
+	Bathimetri adalah studi tentang kedalaman air danau atau dasar lautan. Dengan kata lain, bathimetri adalah setara dengan hypsometry bawah air. Bathimetri berasal dari bahasa Yunani &beta;&alpha;&theta;&upsilon;&sigmaf;, &mu;&epsilon;&tau;&rho;&omicron;&nu;, deep dan mengukur. Peta bathimetri (hidrografi) biasanya diproduksi untuk mendukung keselamatan navigasi permukaan atau sub-permukaan, dan biasanya menunjukkan relief dasar laut atau daerah dasar laut sebagai garis kontur (isodepth) dan pemilihan kedalaman (sounding), dan biasanya juga menyediakan informasi mengenai navigasi permukaan .</p>
+<p style="margin-left: 56.7pt; text-align: justify;">
+	Peta Bathimetri dapat juga dibuat dengan menggunakan Digital Terrain Model dan teknik pencahayaan buatan untuk menggambarkan kedalaman yang digambarkan. Paleobathimetri adalah studi tentang masa lalu kedalaman air.</p>
+<p style="margin-left: 56.7pt; text-align: justify;">
+	Awalnya, batimetri mengacu pada pengukuran kedalaman laut dengan sounding kedalaman. Teknik awal yang digunakan dalam pengukuran bathimetri adalah dengan tali yang diberikan pemberat. Keterbatasan terbesar dari teknik ini adalah bahwa metode ini hanya mengukur kedalaman pada satu titik pada satu waktu, dan sangat tidak efisien. Selain itu metode ini juga sangat dipengaruhi oleh pergerakan kapal dan arus terhadap tali, sehingga membuatnya tidak akurat.</p>
+<p style="margin-left: 56.7pt; text-align: justify;">
+	Data yang digunakan untuk membuat peta bathimetrik biasanya berasal dari echosounder (sonar) yang dipasang di bawah atau di samping kapal, &ldquo;ping&rdquo; berkas suara ke dasar laut atau dari penginderaan jarak jauh LIDAR atau sistem LADAR (Olsen, 2007). Jumlah waktu yang dibutuhkan untuk suara atau cahaya melakukan perjalanan melalui air, memantul dari dasar laut, dan kembali ke penerima menunjukkan jarak ke dasar laut. Survei LIDAR / LADAR ini biasanya dilakukan dengan pesawat udara (Airborne).</p>
+<p style="text-align: justify;">
+	<strong>Hidrologi</strong></p>
+<p style="text-align: justify;">
+	<strong>Air Permukaan/Tubuh Aliran Air Tanah</strong></p>
+<p style="margin-left: 0.5in; text-align: justify;">
+	Di dalam UU No. 7/2004 tentang Sumber Daya Air (pada pasal 12) disebutkan bahwa pengelolaan air permukaan didasarkan pada wilayah sungai. Yang dimaksud dengan wilayah sungai (WS) adalah kesatuan wilayah pengelolaan sumber daya air dalam satu atau lebih daerah aliran sungai dan/atau pulau-pulau kecil yang luasnya kurang dari atau sama dengan 2.000 km&sup2;. Dalam hal ini, daerah aliran sungai (DAS) adalah suatu wilayah daratan yang merupakan satu kesatuan dengan sungai dan anakanak sungainya, yang berfungsi menampung, menyimpan, dan mengalirkan air yang berasal dari curah hujan ke danau atau ke laut secara alami, yang batas di darat merupakan pemisah topografis dan batas di laut sampai dengan daerah perairan yang masih terpengaruh aktivitas daratan.</p>
+<p style="margin-left: 0.5in; text-align: justify;">
+	Di wilayah Kabupaten Ketapang terdapat tiga sub Daerah Aliran Sungai (DAS) yaitu di sebelah utara adalah sub DAS Pawan merupakan sungai yang paling penting. Di bagian tengah adalah Sub DAS Pesaguan, sementara di bagian selatan adalah Sub DAS Kendawangan. Pada umumnya sungai-sungai tersebut dimanfaatkan sebagai sarana transportasi dan mengairi sawah. Peta Sub DAS dan sungai-sungai yang melintasi Kabupaten Ketapang.</p>
+<p style="margin-left: 0.5in; text-align: justify;">
+	Pada kawasan Cagar Alam Muara Kendawangan juga terdapat dua Daerah Aliran Sungai (DAS) yaitu DAS Simbar dan DAS Air Hitam Kecil, selain DAS tersebut juga terdapat sungai sungai kecil seperti Sungai Bengkuang, Sungai Matan Sepi dan Sungai Kerandang.</p>
+<p style="text-align: justify;">
+	Pada kawasan Pulau Cempedak tidak terdapat sungai, sehingga tidak memiliki muara sungai.&nbsp; Tetapi kondisi perairan laut disekitar Pulau Cempedak sangat dipengaruhi murara&nbsp; Kendawangan karena lokasinya muara Kendawangan alirannya menuju Pulau-pulau disekitarnya seperti Pulau Iras,&nbsp; Pulau Cempedak dan Pulau Bawal.</p>
+<p style="margin-left: 35.45pt; text-align: justify;">
+	Dalam bentang ruang keseluruhan wilayah Kabupaten Ketapang, secara garis besar jenis tanah dan lokasi dominannya, dapat dideskripsikan sebagai berikut :</p>
+<ol>
+	<li style="text-align: justify;">
+		<u>Tanah Alluvial</u></li>
+</ol>
+<p style="margin-left: 56.7pt; text-align: justify;">
+	Jenis tanah Alluvial merupakan hasil pelapukan dari bahan induk endapan laut atau endapan sungai-sungai dan terdapat pada daerah dengan bentuk wilayah datar. Warna dominan dari jenis tanah ini adalah abu-abu coklat sampai kehitam-hitaman. Tanah Alluvial diusahakan sebahagian besar oleh petani setempat untuk sawah tadah hujan dan kebun kelapa. Jenis tanah ini sebahagian besar terdapat di daerah pantai seperti Kecamatan Pesisir Kabupaten Ketapang.</p>
+<ol>
+	<li style="text-align: justify;" value="2">
+		<u>Tanah Organosal</u></li>
+</ol>
+<p style="margin-left: 56.7pt; text-align: justify;">
+	Jenis tanah ini merupakan tanah yang tersusun dari bahan organik, baik sebagian maupun seluruhnya. Merupakan jenis tanah dengan daerah yang terluas di Kabupaten Ketapang yang meliputi Kecamatan Matan Hilir Utara, Matan Hilir Selatan, Bunua Kayong dan Kendawangan.</p>
+<p style="margin-left: 56.7pt; text-align: justify;">
+	Untuk Muara Kendawangan Jenis tanah sebagian besar adalah Organosol glein humus dengan bahan induk berasal dari Alluvial, Litoral dan Terrace Deposite dengan fisiografi datar; sedangkan pada fisiografi intuksi jenis tanahnya terdiri dari Podsolik Merah Kuning (PMK) yang berasal dari bahan induk batuan beku.</p>
+<p style="text-align: justify;">
+	<strong>Topografi</strong></p>
+<p style="margin-left: 35.45pt; text-align: justify;">
+	Keadaan topografi Cagar Alam Muara Kendawangan umumnya datar dan hanya dibagian Barat Lautnya yang berbukit serta bergelombang ringan dengan ketinggian antara 0 sampai dengan 191 meter di atas permukaan laut. Bukit-bukit yang terdapat pada bagian Barat Laut tersebut yaitu Gunung Tajam dengan ketinggian 191 m dpl, Bukit Batu Jurung dengan ketinggian 141 m dpl, serta Bukit Danau Udang, Bukit Baang, Bukit Mangkul, dan Bukit Embarang yang ketinggiannya di bawah 100 m dpl.</p>
+<ol>
+	<li style="text-align: justify;" value="NaN">
+		<strong>Bentuk Lahan / Geomorfologi</strong></li>
+</ol>
+<p style="margin-left: 0.5in; text-align: justify;">
+	Geomorfologi ( <em>geomorphology</em> ) adalah ilmu tentang roman muka bumi beserta aspek-aspek yang mempengaruhinya. Geomorfologi bisa juga merupakan salah satu&nbsp;bagian dari geografi. Di mana geomorfologi yang merupakan cabang dari ilmu geografi, mempelajari tentang bentuk muka bumi, yang meliputi pandangan luas sebagai cakupan satu kenampakan sebagai bentang alam (landscape) sampai pada satuan terkecil sebagai bentuk lahan (landform).</p>
+<p style="margin-left: 0.5in; text-align: justify;">
+	Hubungan geomorfologi dengan kehidupan manusia adalah dengan adanya&nbsp;pegunungan-pegunungan, lembah, bukit, baik yang ada didarat maupun di dasar laut. Dengan adanya bencana alam seperti gunung berapi, gempa bumi, tanah longsor dan sebagainya yang berhubungan dengan lahan yang ada di bumi yang juga mendorong manusia untuk melakukan pengamatan dan mempelajari bentuk-bentuk&nbsp;geomorfologi yang ada di bumi. Baik yang dapat berpotensi berbahaya maupun aman. Sehingga dilakukan pengamatan dan identifikasi bentuk lahan.</p>
+<p style="margin-left: 0.5in; text-align: justify;">
+	Bentuk lahan adalah bagian dari permukaan bumi yang memiliki bentuk&nbsp;topografis khas, akibat pengaruh kuat dari proses alam dan struktur geologis pada material batuan dalam ruang dan waktu kronologis tertentu. Bentuk lahan terdiri dari sistem Pegunungan, Perbukitan, Vulkanik, Karst, Alluvial, Dataran sampai Marine terbentuk oleh pengaruh batuan penyusunnya yang ada di bawah lapisan permukaan&nbsp;bumi. Pada makalah ini akan dijelaskan kembali apa yang dimaksud dengan bentanglahan yang terbentuk berasal dari proses pelarutan.</p>
+<p style="margin-left: 0.5in; text-align: justify;">
+	Kondisi geomorfologi di wilayah pesisir kecamatan Kendawangan dan pulau-pulau kecil di sekitarnya sebagian besar didominasi oleh batuan induk terdeformasi dan sebagian merupakan dataran aluvial pantai dengan material dasar endapan pasir yang tersedimen. Bentuk pesisir pantai pada umumnya landai namun bentuk datarannya berbukit. Di daerah kaki perbukitan yang memiliki kondisi kemiringan lereng relatif miring terdapat bentukan geomorfologi rombakan lereng dan endapan material tersedimen. Keterdapatannya berada disekitar daerah perbukitan yang berasosiasi dengan material alluvial.</p>
+<p style="margin-left: 0.5in; text-align: justify;">
+	Pada beberapa bagian di pesisir Kecamatan Kendawangan terdapat bentukan geomorfologi estuaria dan laguna yang terlindung pulau-pulau dan tanjung namun masih terjangkau penetrasi laut secara intensif. Di sepanjang pesisir pantai pada umumnya terdapat bentukan geomorfologi berupa teras pasir, rataan lumpur pasang surut, dan dataran aluvial pantai. Pada umumnya material pasir masih dapat terurai dan tidak terkompaksi karena aktivitas pasang surut air laut. Bentukan geomorfologi berupa rataan lumpur pasang surut pada umumnya terdapat didaerah yang dangkal dan tergenang secara periodik. Materianya masih sangat mudah terurai dan terdeformasi oleh gelombang air laut. Namun pada saat air laut mengalami surut terdalam, bentukan geomorfologi ini dapat menyerupai daratan yang pejal dan solid namun tidak dapat digunakan untuk aktivitas permanen.</p>
+<p style="margin-left: 0.5in; text-align: justify;">
+	Di beberapa bagian wilayah pesisir Pulau Cempedak banyak dijumpai rataan pasir yang berasosiasi dengan padang lamun dan terumbu karang. Pada umumnya perairan pantai relatif dangkal dan pada kondisi air laut surut, wilayah padang lamun muncul dan terumbu karang di beberapa tempat dapat terlihat dengan jelas.</p>
+<p style="text-align: justify;">
+	<strong>Asal usul / Genesis </strong><strong>P</strong><strong>ulau</strong></p>
+<p style="margin-left: 35.45pt; text-align: justify;">
+	Endapan zirkon diperkirakan terdapat di beberapa lokasi di daerah Kecamatan Kendawangan ini, terutama pada daerah penyebaran Endapan Rawa (Qs) yang tersebar cukup luas di bagian barat dan selatan wilayah Kecamatan Kendawangan. Endapan zirkon tersebut diperkirakan berasal dari hasil rombakan batuan Granit Sukadana yang terdapat di bagian hulu sungai Kendawangan yang kemudian mengalami transportasi dan pengendapan kembali bersama-sama dengan pasir kuarsa.</p>
+<p style="margin-left: 0.5in; text-align: justify;">
+	Selain zirkon, diperkirakan akan dijumpai juga beberapa jenis bahan galian mineral non logam yaitu antara lain pasir kuarsa, sirtu, lempung dan kaolin.</p>
+<p style="text-align: justify;">
+	<strong>Penggunaan Lahan</strong></p>
+<p style="margin-left: 35.45pt; text-align: justify;">
+	Penggunaan lahan di Kecamatan Kendawangan dapat dibedakan meniadi 2 (dua) kategori yaitu penggunaan lahan sawah dan bukan&nbsp; lahan sawah. Sebagian besar lahan bukan sawah masih didominasi oleh hutan, dalam bentuk hutan produksi, hutan lindung gambut, cagar alam, hutan produksi konversi dan hutan produksi terbatas.</p>
+<ol>
+	<li style="text-align: justify;" value="NaN">
+		<strong>Tutupan lahan</strong></li>
+</ol>
+<p style="margin-left: 35.45pt; text-align: justify;">
+	Kondisi vegetasi dan penutupan lahan di wilayah Kecamatan Kendawangan secara umum menunjukkan trend penurunan kwalitas. Akselerasi penurunan kwalitas ini dapat terlihat terutama pada kawasan konservasi seperti Cagar Alam Muara Kendawangan dan sekitarnya. Penurunan kwalitas penutupan lahan pada umumnya berubah menjadi vegetasi kerapatan sedang &ndash; rendah (hutan sekunder), semak belukar, hingga lahan terbuka.</p>
+<p style="margin-left: 35.45pt; text-align: justify;">
+	Vegetasi yang banyak dijumpai adalah Ketapang (<em>Terminalia cattapa</em>), Beringin Pantai (<em>Ficus bengalensis</em>), Bakau (<em>Rhizophora sp</em>), Sentigi (<em>Phempis acidula</em>), Pandan (<em>Pandanus tectorius</em>), Katang-katang (<em>Ipomea pescaprae</em>), Bakung Hutan (<em>Hanguana sp</em>), Nyamplung (<em>Callophyllum inophyllum</em>), Cemara Laut (<em>Casuarina equisetifolia</em>), Kelapa (<em>Cocos nucifera</em>), Waru Laut (<em>Hibiscus tiliaceus</em>), Rumput Lari (<em>Spinivex sp</em>) namun secara umum tidak terdapat jenis vegetasi atau penutupan lahan yang dominan di Kecamatan Kendawangan. Kelompok penutupan lahan yang terluas antara lain Semak Belukar Rawa, Lahan Terbuka, Semak Belukar Lahan Kering, Hutan Rawa Sekunder, dan Rawa. Selain kelompok penutupan lahan tersebut, terdapat beberapa kelas penutupan lahan yang berpola sporadis satu dengan lainnya.</p>
+<p style="margin-left: 35.45pt; text-align: justify;">
+	Sedangkan kondisi vegetasi dan penutupan lahan di Pulau Cempedak didominasi oleh Semak Belukar, Lahan Kering, Bakau, Cemara Laut dan Kelapa.</p>
+<p style="text-align: justify;">
+	<strong>Kemiringan lereng</strong></p>
+<p style="text-align: justify;">
+	Kemiringan lereng merupakan ukuran kemiringan lahan relative terhadap bidang datar yang secara umum dinyatakan dalam persen atau derajat. Kecuraman lereng,panjang lereng dan bentuk lereng semuanaya akan mempengaruhi besarnya erosi dan aliran permukaan.</p>
+<p style="margin-left: 35.45pt; text-align: justify;">
+	Berdasarkan database Dinas Kelautan dan Perikanan Kabupaten Ketapang 2008 untuk wilayah Kecamatan Kendawangan yang memiliki kemiringan lereng kurang dari 2% seluas 574.017 km<sup>2</sup>, kemiringan lereng 2% - 4% seluas 4.016 km<sup>2</sup> dan kemiringan lereng 15% - 40% 3.125 km<sup>2</sup>.</p>
+<p style="text-align: justify;">
+	<strong>Morfologi Pantai</strong></p>
+<p style="margin-left: 35.45pt; text-align: justify;">
+	Kecamatan Kendawangan memiliki beberapa pulau-pulau, termasuk salah satunya Pulau Cempedak dan beberapa pulau-pulau kecil lainnya. Pulau-pulau tersebut tersebar dan berada pada pantai yang terbuka, serta berhadapan langsung dengan selat Karimata, Laut Jawa dan Laut Cina Selatan. Umumnya pulau-pulau tersebut mempunyai bentuk yang tidak teratur, lereng bervariasi (8 &ndash; 12 %). Beberapa pulau memiliki topohgrafi pantai yang relatif datar seperti Pulau Cempedak, P. Bawal dan P. Gelang, terutama yang menghadap ke laut lepas. Beberapa pulau kecil lainnya juga ada yang memiliki topografi pantai yang agak curam. Lebar garis pantai bervariasi 25 &ndash; 50 m. Material pembentukan pulau pada umumnya terjadi dari batuan beku basa dengan sedimen padu berupa batu pasir dan lempung. Sedangkan sedimen tak padunya berupa pasir marine.</p>
+<p style="margin-left: 35.45pt; text-align: justify;">
+	Umumnya proses geomorfologi yang terjadi berupa abrasi dengan jenis pelapukan mekanik karena angin, arus dan gelombang serta energi ledak / getar. Jenis erosi yang terjadi dibeberapa pulau biasanya bertipe percik (<em>splash</em>). Sedimentasi yang cukup tinggi terjadi di pulau-pulau yang bagiannya berbatasan langsung dengan daratan pulau induk (<em>main land</em>) Kalimantan seperti Pulau Bawal dan Gelam.</p>
+<p style="margin-left: 35.45pt; text-align: justify;">
+	Berdasarkan hasil survey bathimetri di perairan laut Kabupaten Ketapang oleh Pusat Pengembangan Geologi Kelautan Dirjen Geologi dan Sumberdaya Mineral, Deptamben (2000), secara umum perairan laut di Kabupaten Ketapang mempunyai kedalaman laut yang relatif dangkal, dan bertambah dalam ke arah Barat Daya yaitu sekitar 10 &ndash; 46 m. Pada bagian Selatan dari Kabupaten Ketapang yang meliputi kendawangan dan sekitarnya mempunyai kedalaman yang bervariasi antara 4 &ndash; 46 m. Hasil penarikan kontur kedalaman dasar laut memperlihatkan pola-pola kelurusan barat laut &ndash; tenggara dengan kemiringan dasar laut ke arah barat daya, timur laut &ndash; barat daya dengan kemiringan dasar laut ke arah tenggara. Morfologi dasar laut bervariasi dengan kemiringan dasar laut landai, bergelombang sampai curam.</p>
+<p style="text-align: justify;">
+	<strong>Geologi</strong></p>
+<p style="margin-left: 35.45pt; text-align: justify;">
+	Geologi daerah studi berdasarkan Peta Geologi Lembar Kendawangan Skala 1 : 250.000 yang dipublikasikan oleh Pusat Penelitian dan Pengembangan Geologi (D. Sudana,. dkk., 1994) terdiri dari beberapa formasi batuan sedimen, gunungapi dan terobosan yang berumur dari Mesozoik hingga Kuarter. Secara regional formasi-formasi batuan yang terdapat di daerah penyelidikan berturut-turut dari tua ke muda dapat diuraikan sebagai berikut :</p>
+<ul>
+	<li style="text-align: justify;">
+		Batuan Malihan Pinoh (PzTrp), berumur Trias, terdiri dari kuarsit dan sekis mika.</li>
+	<li style="text-align: justify;">
+		Kompleks Ketapang (JKke), berumur Jura hingga Kapur, terdiri dari batu pasir kuarsa, batu lanau, dan serpih.</li>
+	<li style="text-align: justify;">
+		Batuan Gunung api Kerabai (Kuk), berumur Kapur Akhir, terdiri dari tuf sela, tuf hablur dan lava, berselingan batu pasir, batu lanau dan batu lempung yang termalihkan.</li>
+	<li style="text-align: justify;">
+		Granit Sukadana (Kus), berumur Kapur Akhir, terdiri dari granit, granodiorit dan diorit.</li>
+	<li style="text-align: justify;">
+		Basal Bunga (Kubu), berumur Kapur Akhir&nbsp; hingga Paleosen, terdiri dari basal, tuf sela dan breksi tufan, lava andesit, batupasir kuarsa, batupasir kuarsa tufan dan batulempung tufan.</li>
+	<li style="text-align: justify;">
+		Endapan Rawa (Qs), berumur Holosen, terdiri dari lempung, lumpur, dan pasir halus mengandung sisa tumbuhan.</li>
+	<li style="text-align: justify;">
+		Aluvium (Qa), berumur Holosen, terdiri dari lempung, pasir, kerikil dan kerakal.</li>
+</ul>
+<p style="margin-left: 35.45pt; text-align: justify;">
+	Struktur geologi yang berkembang berdasarkan Peta Geologi Lembar Kendawangan (D.Sudana dkk., 1994) adalah berupa sesar dan kelurusan pada batuan gunung api dan plutonik yang umumnya berarah timur laut &ndash; barat daya, serta sekumpulan retakan yang berarah utara &ndash; timur laut.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="ksbk">Kependudukan, Sosial Budaya dan Kelembagaan</a></h2>
+<p><div class="readmore"><p style="text-align: justify;">
+	<strong>Kependudukan, Sosial-budaya, ekonomi dan kelembagaan</strong></p>
+<p style="text-align: justify;">
+	<strong>Kependudukan</strong></p>
+<p style="text-align: justify;">
+	<strong>Jumlah Penduduk</strong></p>
+<p style="margin-left: 56.7pt; text-align: justify;">
+	Faktor &nbsp;pendukung &nbsp;utama &nbsp;untuk &nbsp;mencapai &nbsp;keberhasilan &nbsp;dalam pelaksanaan program pembangunan ekonomi pada suatu daerah adalah tersedianya sumberdaya manusia, baik dari segi kuantitas maupun kualitas. Sumberdaya manusia &nbsp;merupakan &nbsp;subyek &nbsp;sekaligus &nbsp;&nbsp;sebagai &nbsp;obyek &nbsp;dari &nbsp;pembangunan &nbsp;itu sendiri.</p>
+<p style="margin-left: 56.7pt; text-align: justify;">
+	Ada beberapa aspek yang &nbsp;berkaitan &nbsp;dengan masalah sumber daya manusia yang meliputi; 1) Jumlah dan &nbsp;kepadatan penduduk, 2) Jumlah penduduk menurut kelompok umur, &nbsp;dan 3) &nbsp;Rata &ndash; rata &nbsp;pertumbuhan penduduk.</p>
+<p style="margin-left: 56.7pt; text-align: justify;">
+	Jumlah penduduk dan laju pertumbuhan penduduk sangat mempengaruhi pola dan gerak &nbsp;langkah dalam program pembangunan ekonomi. Oleh sebab itu pertumbuhan &nbsp;penduduk dan penyebarannya harus merupakan faktor utama yang perlu diperhitungkan dalam menyusun rencana pembangunan. Pertumbuhan penduduk di Kecamatan Kendawangan &nbsp;pada tahun 2000 &ndash; 2007 &nbsp;yaitu 2,40%. Pertumbuhan ini &nbsp;lebih &nbsp;rendah &nbsp;&nbsp;dibandingkan &nbsp;dengan &nbsp;periode tahun 1990 &ndash; 2000 &nbsp;yang mencapai 3,46% &nbsp;(Kecamatan Kendawangan dalam &nbsp;Angka tahun 2008).&nbsp;</p>
+<p style="margin-left: 56.7pt; text-align: justify;">
+	Jumlah &nbsp;penduduk &nbsp;di Kecamatan &nbsp;Kendawangan pada Tahun 2012 berjumlah 33,111 jiwa &nbsp;dengan &nbsp;kepadatan 6 jiwa/km<sup>2</sup> ( Kecamatan Kendawangan dalam Angka tahun 2012 ). &nbsp;Konsentrasi &nbsp;penduduk &nbsp;tertinggi &nbsp;berada &nbsp;di &nbsp;Kendawangan &nbsp;Kiri dan &nbsp;Suka&nbsp; Harapan).&nbsp; &nbsp;Jumlah&nbsp; &nbsp;penduduk &nbsp;yang &nbsp;&nbsp;paling &nbsp;jarang &nbsp;&nbsp;berada di Pembedilan dan Serian.</p>
+<p style="margin-left: 56.7pt; text-align: justify;">
+	Dusun Pulau Cempedak berpenghuni menetap sebanyak 496 jiwa dengan 120 Kepala Keluarga terdiri dari 252 orang laki-laki dan 244 orang perempuan.</p>
+<p style="text-align: justify;">
+	<strong>Komposisi penduduk berdasarkan mata pencaharian</strong></p>
+<p style="margin-left: 56.7pt; text-align: justify;">
+	Mata pencaharian penduduk di Kecamatan Kendawangan sangat bervariasi yaitu di sektor pertanian, sub sektor tanaman pangan, sub sektor perikanan (sebagai nelayan) dan perkebunan. Di sektor perikanan, hasil produksi perikanan meliputi hasil tangkapan laut, hasil tambak udang, hasil budidaya laut. Hasil tangkapan laut diperoleh dari perairan Muara Sungai Kendawangan, Pulau Sawi, Pulau Bawal, Pulau Gelam dan Pulau Cempedak.</p>
+<p style="margin-left: 56.7pt; text-align: justify;">
+	Mata pencaharian penduduk Pulau Cempedak adalah nelayan tradisional yang juga melakukan kegiatan bercocok tanam di perkebunan.&nbsp; Bentang lahan Pulau Cempedak merupakan kebun campuran yang cukup subur.</p>
+<p style="text-align: justify;">
+	<strong>Komposisi penduduk berdasarkan umur</strong></p>
+<p style="margin-left: 56.7pt; text-align: justify;">
+	Penduduk merupakan sumberdaya manusia dalam pelaksanaan pengembangan program?program pembangunan yang direncanakan. Sebagian besar penduduk Pulau Cempedak berusia produktif (20-59 tahun) dan bekerja sebagai nelayan. Sisanya sebagian kecil adalah anak-anak yang masih sekolah dasar (6-12 tahun).</p>
+<p style="text-align: justify;">
+	<strong>Komposisi penduduk berdasarkan agama</strong></p>
+<p style="margin-left: 56.7pt; text-align: justify;">
+	Dari hasil pengamatan terhadap ketersediaan serta kondisi fasilitas-fasilitas peribadatan dapat disimpulkan bahwa daerah pesisir Kecamatan Kendawangan merupakan daerah yang cukup maju dan cukup mendukung pembangunan Kecamatan Kendawangan. Berdasarkan data desa dan informasi masyarakat seluruh masyarakat Pulau Cempedak (100%) beragama Islam, karena itu di Pulau Cempedak&nbsp; terdapat 1 (satu) buah masjid dan 1 (satu) buah mushola.</p>
+<p style="text-align: justify;">
+	<strong>Sosial-budaya, </strong><strong>E</strong><strong>konomi dan </strong><strong>K</strong><strong>elembagaan</strong></p>
+<p style="text-align: justify;">
+	<strong>Sosial Budaya dan Ekonomi</strong></p>
+<p style="margin-left: 35.45pt; text-align: justify;">
+	Faktor pendukung utama untuk mencapai keberhasilan dalam pelaksanaan program pembangunan ekonomi pada suatu daerah adalah tersedianya sumber daya manusia baik dari segi kuantitas maupun kualitasnya. Hal ini karena mengingat bahwa sumber daya manusia merupakan subyek sekaligus obyek dari pembangunan itu sendiri. Ada dua aspek yang berkaitan dengan masalah sumber daya manusia, yaitu pertumbuhan penduduk dan persebarannya, dan mata pencaharian penduduk.</p>
+<p style="margin-left: 35.45pt; text-align: justify;">
+	Berdasarkan analisa ekonomi yang telah dilakukan, secara umum dapat diambil kesimpulan bahwa subsektor perikanan dapat dipertimbangkan sebagai sub sektor yang paling potensial untuk dikembangkan. Harga ikan relatif stabil dan cenderung menarik mengikuti dinamika pasar. Permintaan terhadap ikan selalu tinggi. Oleh karena itu, pemasaran ikan secara local, nasional dan internasional tetap tinggi asalkan kualitas ikan tetap terpelihara. Berdasarkan analisis LQ terhadap sub sector perikanan Kabupaten Ketapang, angka LQ 1,94 menunjukkan bahwa pengembangan subsektor perikanan sangat potensial dibandingkan daerah-daerah lainnya.</p>
+<p style="margin-left: 35.45pt; text-align: justify;">
+	Daerah kecamatan Kendawangan memiliki pantai dan laut yang luas, sangat potensial untuk pengembangan perikanan. Pengembangannya dapat melalui peningkatan kualitas nelayan terutama memodernisasi alat tangkap ikan yang digunakan. Unit penangkap ikan tanpa motor mempunyai daya jelajah hanya di sekitar pantai dan tidak mampu menghadapi ombak besar, sedangkan ikan-ikan besar biasanya berada di laut bebas dan dalam. Oleh karena itu, modernisasi unit penangkap ikan merupakan prioritas untuk dibenahi supaya mengangkat taraf kehidupan nelayan. Untuk mendukung kegiatan perekonomian di Kecamatan Kendawangan dan sekitarnya, harus tersedia prasarana dan sarana terutama transportasi (jalan darat, dermaga, pelabuhan, dll) dan pusat perekonomian (bank, pasar, koperasi, dll).</p>
+<p style="margin-left: 35.45pt; text-align: justify;">
+	Berdasarkan hasil survey lapangan kondisi ekonomi masyarakat Pulau Cempedak cukup baik, hal Ini bila dilihat dari kondisi tempat tinggal (rumah) yang dimiliki penduduk. Kondisi ini diperoleh dari hasil mata pencaharian penduduk sebagai nelayan. Karena perairan yang subur menyebabkan hasil tangkapan menjadi banyak sehingga pendapatan penduduk cukup untuk mensejahterakan kehidupan keluarganya.</p>
+<p style="text-align: justify;">
+	<strong>Kelembagaan</strong></p>
+<p style="text-align: justify;">
+	Kelembagaan sektor perikanan yang ada baik untuk nelayan, pembudidaya ikan,ataupun pengolahan hasil perikanan umumnya adalah dalam bentuk koperasi. Namun kelembagan koperasi nelayan, pembudidaya ikan, dan pengolahan hasil perikanan di wilayah Kecamatan Kendawangan tidak ditemukan. Koperasi yang ada pun tidak berfungsi dengan baik. Bentuk kelembagaan yang ada dan cukup berfungsi dengan baik ditingkat nelayan, pembudidaya ikan, dan pengolah hasil perikanan adalah kelembagaan dalam bentuk kelompok-kelompok nelayan. Bentuk kelembagaan seperti ini umumnya bersifat tentatif, yakni terbentuk saat ada program pemerintah (PNPM dan PUMP), namun demikian dibeberapa desa atau dusun pembentukan kelembagaan seperti ini dapat berkembang secara efektif. seperti halnya kelompok-kelompok nelayan yang ditemui di dusun Sungai Tengar, Dusun Pulau Cempedak, ataupun dusun Pulau Bawal.</p>
+<p style="margin-left: 35.45pt; text-align: justify;">
+	Pada umumnya masyarakat merasakan perlunya pembentukan kelembagaan&nbsp; yang dapat mewadahi nelayan, pembudidaya, maupun pengolah hasil perikanan.&nbsp; Akan tetapi karena minimnya pengetahuan dan kemampuan manajerial pengelola, maka kelembagan yang telah dibentuk umumnya akan sulit berkembang dan pada akhirnya bubar.&nbsp; Untuk menjaga eksistensi kelembangaan ditingkat nelayan, pembudidaya, dan pengolah hasil perikanan maka diperlukan tenaga-tenaga pendamping teknis yang telah dibekali keterampilan manajerial dan pengelolaan organisasi dengan pendekatan dinamika sosial masyarakat pesisir.</p>
+<h1>
+	&nbsp;</h1>
+</div></p>
+
+<hr>
+
+<h2><a id="eshp">Ekosistem dan Sumberdaya Hayati</a></h2>
+<p><div class="readmore"><p style="text-align: justify;">
+	<strong>Ekosistem dan Sumberdaya hayati Pesisir</strong></p>
+<p style="text-align: justify;">
+	<strong>Terumbu Karang</strong></p>
+<p style="margin-left: 28.35pt; text-align: justify;">
+	Kabupaten Ketapang, khususnya perairan laut Kecamatan Kendawangan merupakan kecamatan yang memiliki pulau-pulau kecil yang tersebar dengan keanekaragaman pesona terumbu karang.&nbsp; Hal ini terutama disebabkan oleh kondisi kewilayahan yang bukan merupakan estuaria dari sungai-sungai besar yang berada di Kalimantan Barat. Dengan demikian, pengaruh dominan dari melimpahnya air tawar dan sedimentasi, serta padatan tersuspensi lainnya relative sangat kecil bila dibandingkan dengan beberapa kecamatan lainnya di Kabupaten Ketapang.</p>
+<p style="margin-left: 28.35pt; text-align: justify;">
+	Kebanyakan komunitas terumbu karang di Perairan laut Kabupaten Ketapang adalah jenis karang tepi (fringing reef) dengan luasan relative 20 &ndash; 60 meter. Pertumbuhan karang akan berhenti pada kedalaman 10 &ndash; 17 meter secara eksponensial. Hal ini berarti semakin ke dalam pertumbuhan karang akan semakin terhambat, akibat penetrasi sinar matahari yang semakin dalam semakin rendah intensitasnya. Terumbu karang pada umumnya dibentuk terutama oleh hewan karang, dan hewan seperti molusca bercangkang dan tumbuhan lainnya seperti alga yang mengandung zat kapur. Terumbu karang tumbuh dengan baik terutama pada sisi yang yang terlindung dari gempuran gelombang dan angin, yaitu&nbsp; sisi selatan dan timur dari pulau.</p>
+<p style="margin-left: 28.35pt; text-align: justify;">
+	Jenis karang yang ada di perairan laut Kabupaten Ketapang pada awalnya tergolong sangat beragam dan cukup berlimpah dengan tingkat kesehatan karang masih baik. Tingkat penutupan terumbu karang dari bibir pantai sampai 74 % dengan tingkat kepadatan tertinggi 50 &ndash; 100 m dari bibir pantai pulau-pulau kecil.</p>
+<p style="margin-left: 28.35pt; text-align: justify;">
+	Kegiatan-kegiatan yang diperkirakan dapat merusak terumbu karang di Kabupaten Ketapang, antara lain pembuangan sampah ke laut, membuang jangkar kapal secara sembarangan di daerah terumbu karang, penangkapan ikan dengan bom dan bahan beracun, serta penyelam yang tidak konservasionis (merusak dengan menginjak, mematahkan, bahkan mengambil biota baik disengaja atau tidak), disamping pengambilan karang sebagai bahan bangunan dan cinderamata.</p>
+<p style="margin-left: 28.35pt; text-align: justify;">
+	Selain itu pembuatan tambak yang mengkonversi lahan mangrove disepanjang pantai telah merusak terumbu karang akibat limbah yang dihasilkannya, serta penebangan hutan di daerah hulu sungai dan terrestrial lainnya telah mengakibatkan sedimentasi di daerah pertumbuhan terumbu karang.</p>
+<p style="margin-left: 28.35pt; text-align: justify;">
+	Ekosistem terumbu karang di perairan laut Kecamatan Kendawangan tersebar di pesisir dan pulau-pulau kecilnya. Tipe terumbu karang tersebut umumnya adalah terumbu karang pinggiran dengan kondisi baik.Akan tetapi di perairan pulau-pulau yang banyak dimanfaatkan oleh kelompok nelayan untuk berteduh dari hantaman gelombang, karang keras banyak mengalami kerusakan akibat tertabrak perahu dan penangkapan ikan menggunakan bahan peledak. Realitas iini dapat diperhatikan di karang perairan laut Pulau Cempedak, Pulau Bawal dan Pulau Gelam, meskipun demikian keanekaragaman hayati ikan-ikan karang di wilayah ini masih sangat banyak beragam.</p>
+<p style="margin-left: 28.35pt; text-align: justify;">
+	Di pulau-pulau kecil tersebut ditemukan jenis-jenis karang keras dan karang lunak dengan kondisi yang masih baik. Jenis karang keras seperti Acropora (A. palifera, A. formusa, A. humilis, Acropora sp., Montifora foliosa, M. ramose dan Montifora sp.); Favidae (Favia maxima dan F. palida), Fungiidae (F. achinata, F. concina dan Fungia sp.); Agritidae (Agricea pavona, A. ronata dan Agricea sp.); Portidae (P. lutea, P. lobata, P. silindrica, Porites sp.); Pocilloporidae (P. verrucosa, Pocillopora sp., Seratiopora sp., S. histrix) dan Pectinidae (P. lactuca dan Pectinia sp.)&nbsp; Sedangkan jenis karang lunak yang ditemui misalnya Lemnalia sp., Sinularia sp., Nepthea sp., Antiphates sp.</p>
+<p style="margin-left: 28.35pt; text-align: justify;">
+	Di pulau Gelam, Pulau Bawal dan Pulau Cempedak terumbu karang sebagian&nbsp; besar tersebar di bagian barat&nbsp; selatan dan timur.&nbsp; Sebagai contoh sesuai hasil survey, terumbu karang terdapat pada titik sampel B6 dan B7. Pada kedua titik sampel tersebut, kedalaman terumbu karang 1,0-3,5 m sepanjang&nbsp; &gt; 100 m.&nbsp; Sesuai hasil survey Team Dinas Kelautan Kabupaten Ketapang pada tahun 2006 di pulau-pulau kecil dan laut di Kabupaten Ketapang, luas tutupan karang hidup adalah 50,57% yang terdiri dari non Acropora 49,1% dan Acropora 1,47% serta karang mati dengan alga mencapai 21,93%.&nbsp; Jenis karang batu yang teridentifikasi adalah: Montipora spp., Pavona spp., Montastrea spp., Heliopora spp., Porites spp., Plathygyra spp., Merulina&nbsp; spp., Stylophora pistilata, Goniastrea spp., Diploastrea helipora, Symphillia spp., Favites spp., Favia spp. Galaxea spp., dan Turbinaria spp.</p>
+<p style="margin-left: 28.35pt; text-align: justify;">
+	Di bagian Selatan Pulau Cempedak terdapat gosong yang cukup luas dan jika surut tampak paronama yang sangat indah.Di sebelah daratan pantai Timur umumnya dipakai sebagai kawasan pemmukiman penduduk.Pulau ini sangat visible dijadikan sebagai kawasan budidaya perikanan (marine culture), seperti karamba jarring apung dan rumput laut.&nbsp;</p>
+<p style="text-align: justify;">
+	<strong>Ikan Karang</strong></p>
+<p style="margin-left: 28.35pt; text-align: justify;">
+	Romimohtarto dan Juwana (2005) menyatakan bahwa terumbu karang merupakan ekosistem yang subur dan kaya akan makanan.&nbsp;&nbsp; Kemudian struktur fisiknya yang rumit, bercabang-cabang, bergua-gua dan berlorong-lorong membuat ekosistem ini merupakan habitat yang menarik bagi banyak biota laut.Oleh sebab itu cukup banyak jenis-jenis biota berupa hewan dan tumbuhan yang hidup bersimbiosis dengan trumbu karang.</p>
+<p style="margin-left: 28.35pt; text-align: justify;">
+	Selain beragam jenis karang, ekosistem terumbu karang di perairan Kendawangan dan sekitarnya (termasuk perairan Pulau Cempedak) terdapat berbagai jenis-jenis ikan, Molusca, Crustacea, Alga (ganggang) Echinodermata dan sebagainya.&nbsp; Beberapa jenis ikan hias teramati di ekosistem terumbu karang yang ada, misalnya <em>Chaetodon</em> sp, Scarus niger, Thalasoma lunar dan sebagainya.Ikan-ikan ini memiliki warna yang indah dan menarik.</p>
+<p style="margin-left: 28.35pt; text-align: justify;">
+	Tidak hanya ikan-ikan hias, beberapa spesies ikan konsumsi ekonomis penting lainnya juga terdapat di perairan Kedawangan dan sekitarnya. Jenis-jenis yang sering tertangkap misalnya ikan kerapu (<em>Epinephelus</em> spp), kakap merah (<em>Lutjanus</em> spp), kakap putih (<em>Lates calcarifer</em>) dan sebagainya. Selain itu, ekosistem terumbu karang, juga banyak ditemukan Crustacea jenis lobster (<em>Panulirus</em> spp) dan berbagai jenis udang Panaied.</p>
+<p style="text-align: justify;">
+	<strong>Padang Lamun</strong></p>
+<p style="margin-left: 28.35pt; text-align: justify;">
+	Lamun merupakan satu-satunya tumbuhan berbunga (Angiospermae) yang memiliki rhizome, daun dan akar sejati yang hidup terendam di dalam laut. Lamun mengkolonisasi suatu daerah melalui penyebaran buah (propagule) yang dihasilkan secara sexual (dioeciotis).&nbsp; Lamun umumnya membentuk padang lamun yang luas di dasar laut yang masih dapat dijangkau oleh cahaya matahari untuk mendukung pertumbuhannya, biasanya hidup diperairan yang dangkal dan jernih pada kedalaman berkisar antara 2-12 meter dengan sirkulasi air yang baik.&nbsp; Substrat lumpur berpasir merupakan substrat yang disukai oleh lamun dan berada diantara ekosistem mangrove dan terumbu karang.</p>
+<p style="margin-left: 28.35pt; text-align: justify;">
+	Secara ekologis, padang lamun mempunyai beberapa fungsi penting bagai wilayah pulau-pulau kecil yaitu sebagai produsen detritus dan zat hara; mengikat sedimen dan menstabilkan substrat yang lunak dengan system perakaran yang padat dan saling menyilang; sebagai tempat berlindung, mencari makan, tumbuh besar dan memijah bagi beberapa jenis biota laut terutama yang melewati masa dewasanya dilingkungan ini; serta sebagai tudung pelindung yang melindungi penghuni padang lamun dari sengatan matahari.&nbsp; Disamping itu, padang lamun juga dapat dimanfaatkan sebagai tempat kegiatan budidaya berbagai jenis ikan, kerang-kerangan dan tiram, tempat rekreasi dan sumber pupuk hijau. Di kawasan pulau-pulau kecil disekitar Pulau Cempedak banyak dijumpai lamun dari jenis <em>Enhalus</em> dan <em>Thalassia</em>, karena di kawasan ini kandungan sedimen organiknya relative rendah dan didominasi oleh substrat pasir.</p>
+<p style="text-align: justify;">
+	<strong>Mangrove</strong></p>
+<p style="margin-left: 28.35pt; text-align: justify;">
+	Secara umum keanekaragaman sumberdaya hayati komunitas hutan mangrove di Kabupaten Ketapang, khususnya di lokasi kegiatan tergolong sedang. Sebagian besar didominasi oleh komunitas Api-api (<em>Avicennia alba</em> dan <em>Avicennia marina</em>) pada lahan yang baru terbentuk atau akresi, ditunjang oleh Buta-buta (<em>Bruguiera parviflora</em> dan <em>Excoecaria agallocha</em>) yang lazim tumbuh dan dijumpai di wilayah estuaria atau muara sungai. Agak ke hulu dijumpai Nipah (<em>Nypa fruticans</em>), Pedada (<em>Sonneratia caseolaris</em>) dan <em>Xylocarpus granatun</em> yang menunjukkan adanya pengaruh air tawar. Bakau (<em>Rhyzophora stylosa</em>) terbukti banyak mendominasi mengrove yang berasosiasi dengan terumbu karang, hal dapat diperhatikan pada tumbuhnya di beberapa pulau kecil Kabupaten Ketapang, terutama di Pulau Iras dan Pulau Bawal, meskipun hanya sebagian kecil dari luas lahan ke dua pulau tersebut.</p>
+<p style="margin-left: 28.35pt; text-align: justify;">
+	Hutan mangrove di Kabupaten Ketapang dengan kerapatan tinggi, terutama di lokasi tempat pekerjaan dapat dipaparkan dengan rincian sebagai berikut.</p>
+<ol style="list-style-type:lower-alpha;">
+	<li style="text-align: justify;">
+		Mangrove di Muara Kendawangan</li>
+</ol>
+<p style="margin-left: 56.7pt; text-align: justify;">
+	Keanekaragaman mangrove di muara kendawangan sebagian besar di dominasi oleh api-api (<em>Avicennia spp</em>). Hamparan mangrove tersebut membentang dari daerah di pantai Desa Banjar Sari dan Desa Kendawangan Kanan.</p>
+<ol style="list-style-type:lower-alpha;">
+	<li style="text-align: justify;" value="2">
+		Mangrove di Pulau Bawal&nbsp; dan Pulau Cempedak</li>
+</ol>
+<p style="margin-left: 56.7pt; text-align: justify;">
+	Vegetasi mangrove di wilayah ini terdapat di sisi timur pulau diperkirakan memiliki luas &plusmn; 35 ha dan didominasi oleh Api-Api (<em>Avicennia spp</em>) dan Rizhopora sp. yang memiliki ketebalanrelatif tipis yaitu bervariasi antara 100 hingga 200 meter. Seluruh habitat mangrove di lokasi ini berupa konsosiasi <em>Avicenniaspp</em> tingkat sapihan dengan kerapatan 1.200 individu/ha yang timbul di habitat yang lebih mantap. Sedangkan konsosiasi <em>Avicennia spp </em>tingkat semai terdapat terutama pada habitat yang kurang mantap atau pada daerah yang baru terbentuk/tanah timbul berupa hamparan lumpur. Kerapatan dari konsosiasi ini adalah 3.700 individu/ha.</p>
+<ol style="list-style-type:lower-alpha;">
+	<li style="text-align: justify;" value="3">
+		Mangrove di Desa Air Hitam Besar dan Nata Kuini</li>
+</ol>
+<p style="margin-left: 56.7pt; text-align: justify;">
+	Mangrove di Kelurahan Tanjung dengan perkiraan luas &plusmn; 5.000 ha, didominasi oleh jenis <em>Avicennia spp </em>(Api-Api) dan <em>Rizhopora</em> sp (bakau)&nbsp; yang terdapat di pinggiran pantai dengan kerapatan berkisar antara 350 individu/ha hingga 3.500 individu/ha, tingkat tiang 350 batang (individu)/ha dengan nilai potensi=60,44 m/ha, tingkat pancang 1.576 individu/ha dan tingkat semai 3.470 individu/ha.</p>
+<p style="margin-left: 56.7pt; text-align: justify;">
+	Sedangkan yang tumbuh/terdapat agak di belakang garis pantai didominasi <em>Bruguiera spp </em>dengan kerapatan berkisar antara 70 batang (individu)/ha sama dengan 3.150 batang (individu)/ha dengan rincian tingkat pohon = 70 batang/ha dengan nilai potensi 30,30 m<sup>3</sup>/ha, tingkat tiang 560 batang (individu)/ha dengan nilai potensi 119,90 m<sup>3</sup>/ha, tingkat sapihan/pancang 740 batang (individu)/ha dan tingkat semai 3.150 individu/ha. Ketebalan mangrove pada wilayah ini berkisar antara 70 meter sampai dengan 2.000 meter.</p>
+<p style="margin-left: 56.7pt; text-align: justify;">
+	Kawasan mangrove di wilayah Pulau Cempedak terdapat dibagian Barat, sehingga Pulau Cempedak kondisinya pada posisi aman dari abrasi pantai yang disebabkan oleh gelombang. Karena hanya bagian Barat pulau yang berhadapan dengan Laut Jawa.</p>
+<p style="text-align: justify;">
+	<strong>Vegetasi Pantai</strong></p>
+<p style="margin-left: 28.35pt; text-align: justify;">
+	Vegetasi pantai merupakan kelompok tumbuhan yang menempati daerah intertidal mulai dari daerah pasang surut hingga daerah di bagian dalam pulau atau daratan dimana masih terdapat pengaruh laut. Secara umum kelompok tumbuhan darat yang tumbuh di daerah intertidal atau daerah dekat laut yang memiliki salinitas cukup tinggi, dapat dibagi menjadi 3 (Noor <em>et al</em>, 1999) :</p>
+<ol>
+	<li style="text-align: justify;">
+		Mangrove Sejati : adalah merupakan kelompok tumbuhan yang secara morfologis, anatomis dan fisiologis telah menyesuaikan diri untuk hidup di daerah sekitar pantai. Mangrove tumbuh pada substrat berpasir, berbatu dan terutama berlumpur.&nbsp; &nbsp;Ciri khas dari kelompok tumbuhan ini adalah adanya modifikasi akar yang sangat spesifik untuk mengatasi kekurangan oksigen, sebagai penopang pada substrat yang labil, memiliki kelenjar khusus untuk mengeluarkan kelebihan garam serta memiliki daun berkutikula tebal untuk mengurangi penguapan. Jenis tumbuhan ini didominasi oleh genera Rhizophora, Avicenia, Brugueira, Sonneratia.</li>
+	<li style="text-align: justify;">
+		Mangrove Ikutan (Associated Mangrove) : adalah kelompok tumbuhan yang ditemukan tumbuh bersama-sama dengan komunitas mangrove, tetapi tidak termasuk mangrove karena tumbuhan ini bersifat lebih kosmopolit dan memiliki kisaran toleransi yang besar terhadap perubahan faktor fisik lingkungan seperti suhu, salinitas dan substrat . Jenis tumbuhan yang tergolong mangrove ikutan misalnya : waru laut, pandan, ketapang, jeruju dan lain-lain.</li>
+	<li style="text-align: justify;">
+		Vegetasi pantai Non Mangrove : vegetasi pantai non mangrove umumnya banyak ditemukan pada daerah pantai dengan substrat yang didominasi oleh pasir. Kelompok tumbuhan ini dicirikan oleh adanya zonasi bentuk pertumbuhan (habitus) secara horizontal dari daerah intertidal ke arah darat yang terdiri dari : tumbuhan menjalar, semak, perdu dan pohon. Semakin ke darat, keragaman jenis dan habitus pohon akan semakin besar. Jenis vegetasi pantai non mangrove umumnya terdiri dari &nbsp;tapak kambing, rumput angin, santigi, ketapang, cemara laut dan kelapa.&nbsp;&nbsp; Tumbuhan ini membentuk zonasi yang khas.</li>
+</ol>
+<p style="margin-left: 28.35pt; text-align: justify;">
+	Di daerah pasang surut, vegetasi didominasi oleh tumbuhan perintis yang menjalar atau rumput-rumputan&nbsp; tertentu dan dikenal sebagai &ldquo;<strong>Formasi Pes-Caprae</strong>&rdquo;. Dinamakan demikian karena mengacu pada tumbuhan menjalar tapak kambing (<em>Ipomoea pes-caprae</em>) yang sangat dominan di daerah tersebut.&nbsp; Kelompok tumbuhan ini diikuti oleh kelompok tumbuhan semak dan perdu yang berukuran lebih besar dan berada di belakang vegetasi perintis (ke arah darat).&nbsp; Kelompok tumbuhan ini disebut &ldquo;formasi Barringtonia&rdquo; yang penamaannya juga mengacu pada salah satu jenis tumbuhan yang umum ditemukan di di daerah ini, yaitu :<em>Barringtonia asiatica.</em></p>
+<p style="margin-left: 28.35pt; text-align: justify;">
+	Gelombang merupakan salah satu faktor lingkungan yang sangat berpengaruh terhadap ekosistem yang berada di daerah pesisir pantai dan laut.Pengertian gelombang sesungguhnya sangat sulit untuk didefenisikan, mengingat begitu kompleksnya proses-proses yang berlangsung dan begitu banyaknya faktor lingkungan yang terlibat.Namun secara sangat sederhana dapat dikatakan bahwa gelombang adalah merupakan rambatan atau perpindahan energi melalui badan air.</p>
+<p style="margin-left: 28.35pt; text-align: justify;">
+	Vegetasi pantai di Pulau Cempedak selain mangrove di bagian Barat, vegetasi non mangrove yang dapat ditemukan di Pulau Cempedak seperti Nyirih, Cemara laut dan Gelam.</p>
+<p style="margin-left: 28.35pt; text-align: justify;">
+	Gelombang laut memiliki kekuatan besar yang dapat menyebabkan abrasi di tepi pantai, terutama&nbsp; Tsunami. Secara ekologi gelombang laut tidak selamanya bersifat merugikan karena gelombang laut memiliki peran yang sangat penting untuk menyebarkan biji/buah/benih tumbuhan pantai seperti benih kelapa, buah mangrove, buah pandan dan lain-lain.Besar kecilnya gelombang di suatu daaerah/pulau, selain ditentukan oleh bentuk dan topografi pantai juga ditentukan oleh posisi pulau atau daerah tersebut. Daerah yang secara langsung berada di tengah lautan terbuka atau ditepi samudera yang besar akan memiliki ombak yang lebih kuat. Sedangkan pulau yang berada dekat daratan utama atau di daerah bagian dalam kepulauan seperti laut Jawa akan memiliki ombak yang lebih tenang.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="snh">Sumberdaya Non Hayati</a></h2>
+<p><div class="readmore"><p style="text-align: justify;">
+	<strong>Sumberdaya Non Hayati Pesisir</strong></p>
+<p style="text-align: justify;">
+	<strong>Mineral</strong></p>
+<p style="margin-left: 28.35pt; text-align: justify;">
+	Sepanjang pantai Kalimantan Barat dapat dijumpai beragam sumberdaya alam mulai dari hutan bakau, padang lamun, terumbu karang, migas, sumberdaya mineral hingga pantai berpasir putih yang layak untuk dikembangkan menjadi obyek wisata. Pada kawasan pantai Kabupaten Ketapang dapat ditemui&nbsp; juga delta yang terbentuk karena adanya proses sedimentasi dari sungai-sungai besar seperti sungai Pawan.</p>
+<p style="margin-left: 28.35pt; text-align: justify;">
+	Ketersediaan sumberdaya alam non hayati di wilayah pesisir&nbsp; dan laut yang menyediakan bahan-bahan mineral, endapan dasar laut agregat&nbsp; konstruksi, dan pada beberapa lokasi tersedia cadangan minyak dan gas bumi merupakan potensi yang dapat diandalkan. Potensi sumberdaya alam yang dimiliki pada kawasan pesisir dan laut Jawa, bila dikelola dengan perencanaan yang baik akan sangat potensial untuk mendukung pembangunan daerah yang berkelanjutan.</p>
+<p style="margin-left: 28.35pt; text-align: justify;">
+	Pemanfaatan secara optimal data wilayah pesisir dan laut Jawa hasil-hasil dari kegiatan survei yang telah dilaksanakan oleh Puslitbang Geologi Kelautan, adalah untuk memberdayakan data serta merupakan evaluasi keberadaan informasi pesisir dan laut agar dapat dikelola secara terpadu untuk mendukung perencanaan wilayah pesisir dan laut secara cermat dan sistematis, sehingga dapat&nbsp; meningkatkan pendapatan daerah, ilmu pengetahuan, dan peluang usaha khususnya disektor investasi pertambangan kelautan.</p>
+<p style="margin-left: 28.35pt; text-align: justify;">
+	Pemanfaatan potensi mineral di kawasan pulau-pulau kecil harus dilakukan dengan perencanaan yang ketat dan dilakukan secara berkelanjutan sesuai peraturan perundangan yang berlaku.&nbsp; Struktur batuan dan geologi pulau-pulau kecil di Indonesia adalah struktur batuan tua yang diperkirakan mengandung deposit bahan-bahan tambang/mineral penting seperti emas, mangan, nikel dan lain-lain.</p>
+<p style="margin-left: 28.35pt; text-align: justify;">
+	Berdasarkan hasil identifikasi, Pulau cempedak mempunyai kandungan tambang berupa pasir kuarsa, namun potensi ini belum dieksplorasi.&nbsp; Dibeberapa daerah aktivitas pertambangan telah dilakukan penyelidikan, eksplorasi maupun eksploitasi di pulau-pulau kecil antara lain : timah di P. Kundur, P. Karimun (Ria), nikel di P. Gag (Papua), P. Gebe (Maluku Utara), P. Pakal (Maluku);&nbsp; batubara di P. Laut, P. Sebuku (Kalimantan Selatan); emas di P. Weter, P Haruku (Maluku) dan migas di P Natuna (Riau Kepulauan).</p>
+<p style="margin-left: 28.35pt; text-align: justify;">
+	Sumberdaya non hayati yang terdapat di Pulau Cempedak berdasarkan hasil informasi kepala Dusun menyimpan mineral berupa pasir kuarsa.&nbsp; Namun karena rencana peruntukan pengembangan Pulau bukan sebagai lokasi pertambangan, sehingga saat ini tidak dilakukan eksplorasi dan eksloitasi bahan tambang tersebut.</p>
+<p style="text-align: justify;">
+	<strong>Energi Kelautan</strong></p>
+<p style="margin-left: 28.35pt; text-align: justify;">
+	Dengan luas wilayah laut yang lebih besar dibandingkan darat, maka potensi energi kelautan memiliki prospek yang baik sebagai energi alternatif untuk mengantisipasi berkurangnya minyak bumi, LNG, batubara dan lain-lain sepanjang kemampuan Negara diarahkan untuk pemanfaatannya.&nbsp; Sumberdaya kelautan yang mungkin digunakan untuk pengelolaan pulau-pulau kecil seperti Pulau Cempedak adalah angin, ombak dan pasang surut.</p>
+<p style="margin-left: 28.35pt; text-align: justify;">
+	Potensi tenaga angin dan ombak mempunyai potensi yang cukup besar karena bagian Barat Pulau Cempedak berhubungan dengan laut Jawa, sehingga mempunyai tenaga angin dan ombak cukup besar.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="aps">Aktivitas Pengelolaan Sumberdaya</a></h2>
+<p><div class="readmore"><p style="text-align: justify;">
+	<strong>Aktivitas Pengelolaan Sumberdaya</strong></p>
+<p style="text-align: justify;">
+	<strong>Perikanan</strong></p>
+<ol style="list-style-type:lower-alpha;">
+	<li style="text-align: justify;">
+		<strong>Perikanan Tangkap</strong></li>
+</ol>
+<p style="margin-left: 49.5pt; text-align: justify;">
+	Selain sebagai petani, pekerjaan yang cukup dominan dilakukan oleh masyarakat di Kecamatan Kendawangan adalah nelayan penangkap ikan di pantai/laut. Sebagai daerah pesisir, daerah ini memiliki potensi Perikanan tangkap yang cukup baik. Pantai atau laut hanya berjarak 100?200 meter saja dari jalan raya provinsi yang melalui daerah ini. Pada tahun 2007 tercatat nelayan penangkap ikan berjumlah 2.988 orang. Di daerah ini sebagian besar nelayan tergolong nelayan tradisional. Sebagian besar usaha penangkapan ikan telah menggunakan perahu motor (440 unit dan motor tempel 60 unit, sedangkan perahu tanpa motor hanya 290unit). Pada tahun yang sama tercatat produksi perikanan laut 5.315,25 ton, perikanan perairan umum 60,45 ton dan 1.290,16 ton berupa ikan awetan.&nbsp;</p>
+<p style="margin-left: 49.5pt; text-align: justify;">
+	Jenis ikan hasil tangkapan dominan di daerah ini adalah ikan-ikan dasar,&nbsp; ikan karang kerapu, kakap, udang karang (lobster), ranjungan dan lain-lain. Hasil tangkapan ikan nelayan bervariasi, dan sangat bergantung dari jenis armada penangkapan.&nbsp; Nelayan yang melakukan penangkapan menggunakan sampan tanpa motor hasil tangkapannya mencapai 20-50 kg per trip operasiona penangkapan setiap harinya, sedangkan nelayan yang menggunakan kapal motor &lt;5 Gt dapat mencapai 50-100 kg per trip penangkapan, dan kapal-kapal yang memiliki ukuran &gt; 5-20 Gt hasil tangkapannya dapat mencapai lebih dari 500 kg per trip penangkapan.&nbsp; Nelayan dengan armada penangkapan yang dilengkapi kapal motor dengan ukuran lebih besar&nbsp; menghasilkan hasil tangkapan lebih banyak karena dapat mencapai <em>fishing ground</em> (daerah penangkapan) lebih jauh dan jumlah hari penangkapan per trip lebih lama.</p>
+<p style="margin-left: 49.5pt; text-align: justify;">
+	Sentra perikanan tangkap di Kabupaten Ketapang tersebar mulai dari Kecamatan Kendawangan, Matan Hilir Selatan, Benuakayong, Matan Hilir Utara, Deltan Pawan dan Muara Pawan.</p>
+<p style="text-align: justify;">
+	<strong>b. Perikanan Budidaya</strong></p>
+<p style="margin-left: 49.5pt; text-align: justify;">
+	Selain perikanan tangkap, potensi lain yang dapat dikembangkan adalah budidaya, baik budidaya pantai maupun budidaya laut. Dengan kondisi umum pantai yang relatif landai, kawasan pesisir Kabupaten Ketapang mempunyai lahan potensial untuk budidaya air payau seluas 5.000 ha di Desa Air Hitam sedangkan potensi budidaya laut diperkirakan mencapai 2.500 ha (Data DKP Kab.Ketapang, 2008).&nbsp; Data potensi budidaya perikanan air payau dan laut di Kabupaten Ketapang selengkapnya tersaji pada tabel 4.10.</p>
+<p style="margin-left: 49.5pt; text-align: justify;">
+	Dari hasil studi didapat prakiraan luasan periran yang layak untuk kegiatan budidaya rumput laut, ikan dan crustace terdapat luasan mencapai 2.186 ha dengan distribusi pada titik lokasi Pulau Sawi 68 ha,&nbsp; Pulau Bawal (642 ha perairan Barat Pulau Bawal dan 351 ha pada bagianTimur Pulau Bawal), pada titik lokasi Pulau Cempedak mecapai 69 ha, Selat Bilik 78 ha dan pulau gelam 978 ha. Terdapat perbedaan luasan potensi budidaya laut antara data exsisting dari Dinas Kelautan dan Perikanan Kabupaten Ketapang dengan hasil studi, hal ini dimungkinkan karena terdapat beberapa revisi luasan potensi lahan yang disebabkan oleh pembatasan lahan potensi karena dialokasikan untuk zona konservasi di perairan Pulau Cempedak dan Pulau Bawal serta kajian potensi lahan yang dilakukan dalam studi ini berdasarkan pendekatan komoditas potensial yang akan dikembangkan yaikni komoditas rumput laut, lobster, ranjungan dan kerapu.</p>
+<p style="margin-left: 49.5pt; text-align: justify;">
+	Budidaya ikan laut&nbsp; yang ada adalah budidaya pembesaran dengan menggunakan jaring apung. Jenis ikan yang dapat dibudidayakan adalah ikan kerapu dan budidaya rumput laut. Pembudidayaan ikan kerapu ini masih dalam tahap percobaan kelayakan secara ekonomis. Jenis kegiatan budidaya lainnya adalah pembesaran udang karang (lobster). Lobster yang dibesarkan adalah sisa tangkapan yang tidak terjual karena belum mencapai ukuran standar untuk dijual dengan ukuran kurang dari 300 gram. Pembesaran dilakukan selama 3-4 bulan sehingga bisa mencapai ukuran komersial untuk diperdagangkan.&nbsp; Semua aktivitas budidaya laut yang pernah ada belum dilakukan secara serius karena lebih cenderung hanya bersifat penampungan sementara/pengumpul, aktivitas budidaya tersebut masih bersifat sambilan dan sangat bergantung dari musim.&nbsp; Hasil budidaya yang dipasarkan dalam kondisi hidup dan sejauh ini tidak mengalamai kendala dalam pemasaran ikan kerapu dan lobster karena pada umumnya pembeli akan datang langsung ke kelokasi budidaya atau si pembudidaya akan memasarkan hasil budidayanya langsung ke Kepulauan Bangka Belitung.</p>
+<p style="margin-left: 49.5pt; text-align: justify;">
+	Aktivitas budidaya rumput laut di lokasi yang pernah dilakukan, dihadapkan pada kendala pemasaran.&nbsp; Kendala pemasaran rumput laut terutama disebabkan olah beberapa faktor: 1)&nbsp; keterbatasan jumlah produksi tidak memenuhi quota (jumlah minimum) yang diharapkan pembeli; 2) siklus produksi tidak tetap (continueitas)&nbsp; karena hasil produksi dari budidaya terbatas dan ketersediaan rumput laut di alam sangat bergantung dengan musim, maka pasokan produksi rumpul laut kering tidak dapat tersedia secara terus menerus; 3) standar mutu produk rumput laut kering masih rendah karena cara penanganan, pengeringan dan pengemasan yang kurang baik; 4)&nbsp; keragaman jenis rumput laut, karena jenis yang dibudidayakan dan rumput laut yang ada di alam terdapat berbagai jenis (<em>Gracilaria</em> sp. dan <em>Euchuma</em> sp.)&nbsp;</p>
+<p style="margin-left: 49.5pt; text-align: justify;">
+	Untuk menjamin jumlah produksi rumput laut kering maka perlu dilakukan perbaikan pola tanam dengan memanfaatkan potensi lahan yang ada.&nbsp;&nbsp; Pola tanam memperhatikan musim dan jenis rumput laut yang memiliki nilai jual cukup tinggi (<em>Echeuma</em> sp.).&nbsp; Standar mutu rumput laut ditentukan oleh kadar air maksimum 30 %, terhindar dari jamur saat penyimpanan dan tidak terkontaminasi bahan asing (pasir, kerikil dan tumbuhan air lainnya) Untuk meningkatkan standar mutu produk rumput laut kering diperlukan pembinaan dan pelatihan bagi masyarakat.</p>
+<p style="margin-left: 49.5pt; text-align: justify;">
+	Nilai jual rumput laut dapat ditingkatkan dengan mengembangkan berbagai produk olahan rumput laut, untuk mencapai tujuan ini maka diperlukan pelatihan dan pembinaan sehingga terbentuk industri skala rumah tangga dengan berbagai produk diversifikasi olahan rumput laut dan produk perikanan lainnya.</p>
+<p style="margin-left: 49.5pt; text-align: justify;">
+	Kegiatan budidaya pantai (air payau) yang dilakukan adalah pembesaran ikan/udang windu di tambak. Sebagian besar kegiatan budidaya udang tambak dilakukan dengan pola tradisional dengan siklus produksi 2 (dua) kali dalam setahun.&nbsp; Sentra budidaya udang windu di Kecamatan Kendawangan hanya terdapat di Desa Air Hitam Besar dan Desa Nata Khuini.&nbsp;&nbsp; Dengan arah pengembangan pemanfaatan lahan tambak ke bagaian utara tanjung lumpur dan di Desa Pembedilan.&nbsp; Dari hasil studi yang dilakukan, bahwa pemanfaatan kawasan hutan bakau yang dikonversi menjadi lahan tambak di daerah tanjung lumpur menunjukan pola pemanfaatan lahan yang kurang teratur. Hal ini terlihat dari pola pengairan, pembagian/pengalokasian zona penyangga (green beld), tata letak petak tambak,&nbsp; dan pemanfaatan lahan kurang optimal karena setiap hektar lahan yang dikonversi menjadi tambak hanya memiliki zona hidup (untuk pemeliharaan udang dan banding) berkisar 10-30 % dari tiap luasan petakan tambak.&nbsp;&nbsp; Pola pembangunan tambak dengan menggunakan carren (saluran yang mengelilingi hamparan petakan tambak), berdampak pada kurang optimalnya pemanfaatan lahan.&nbsp; Luas lahan hutan mangrove yang dikonversi menjadi tambak tidak sebanding dengan produktivitas tambak, sehingga berdampak pada tingkat kerusakan hutan mangrove.&nbsp;&nbsp;</p>
+<p style="margin-left: 49.5pt; text-align: justify;">
+	Pola pemanfaatan hutan mangrove seperti ini perlu diperbaiki dengan melalukan penataan dan penyusunan tata ruang kawasan tambak (grand disaig) dengan pengalokasian zona penyangga, penataan pengairan, pengalokasian zona pemukiman, zona pengembangan industri pasca panen hasil budidaya air payau, dan zona pengembangan fasilitas dan sarana budidaya air payau.&nbsp;&nbsp; Selain itu perbaikan pola budidaya dari tradisional ke arah pembudidayaan dengan pola tradisional plus atau semi intensif, dengan memasukan sentuhan teknologi budidaya melalui pengolahan lahan, pemupukan tambak sebelum penebaran benur dan nener bandeng, pengelolaan pemberian pakan tambahan.</p>
+<p style="margin-left: 49.7pt; text-align: justify;">
+	Nilai manfaat pembangunan tambak di Desa Air Hitam Besar dan Desa Nata Khuini,&nbsp; belum dapat dirasakan dampaknya secara ekonomi bagi daerah KabupatenKetapang.&nbsp; Hal ini disebabkan hasil produksi budidaya udang dan bandeng&nbsp; dipasarkan ke luar KabupatenKetapang, bahkankeluardariPropinsi Kalimantan Barat, karena para pembudidaya menjual hasil panennya ke para penampung yang lebih dekat dengan lokasi tambak yakni ke Kalimantan Tengah<strong>.&nbsp; </strong>Kendala pemasaran hasil produksi budidaya tambak dihadapkan pada jarak tempuh ke kota Kendawangandan Kota Ketapang yang sangat jauh dibandingkan dengan pemasaran ke Kalimantan Tengah dan tidak tersedianya sarana angkutan reguler yang dapat membawa hasil produksi ke daerah Kabupaten Ketapang.&nbsp;&nbsp;</p>
+<p style="margin-left: 49.7pt; text-align: justify;">
+	Kegiatan budidaya perikanan di Kecamatan Kendawangan sangat memungkinkan untuk dikembangkan karena terdapat faktor penunjang diantaranya adalah tersedianya fasilitas Balai Benih Ikan Pantai di Desa Mekar Utama dan ketersedian benih ikan (kerapu, dan kakap), benih lobster dan ranjungan, dan bibit rumput laut yang tersedia melimpah di perairan disekitar Pulau Tanah Merah, Pulau Bawal, Pulau Gelam dan selat&nbsp; Bilik.</p>
+<p style="text-align: justify;">
+	Untuk meningkatkan produktivitas Balai Benih Ikan Pantai yang ada perlu dilakukan pembenahan fasilitas dan meningkatkan jumlah serta kualitas sumberdaya manusia pengelola panti benih tersebut.&nbsp;&nbsp; Keberadaan Balai Benih ini sangat strategis mengingat tingginya kebutuhan benih (udang dan bandeng) terutama untuk mensuplai kegiatan budidaya di tambak Desa Air Hitam.&nbsp; Kebutuahan benur dan nener bandeng selama ini masih mengandalkanpasokan dari pulau jawa yang dikirim transit melalui Kalimantan Tengah.&nbsp; Pada tahun 2011 produksi perikanan Kabupaten Ketapang mengalami kenaikan yang berkisar antara 2-21% untuk setiap jenis perikanan. Dengan hasil produksi sebesar 12.563 ton, perikanan laut masih menjadi penyumbang terbesar produksi perikanan tahun 2011.</p>
+<p style="text-align: justify;">
+	<strong>c. Pengolahan Hasil Perikanan</strong></p>
+<p style="margin-left: 49.5pt; text-align: justify;">
+	Kegiatan pengolahan hasil perikanan yang cukup dominan di Kecamatan Kendawangan adalah pengolahan ranjungan.&nbsp; Pengelolahan ranjugan hanya bersifat penanganan sementara hasil tangkapan sebelum dipasarkan dalam bentuk&nbsp; ranjungan rebus tanpa carapas dan produk daging ranjungan tanpa cangkang.&nbsp;&nbsp;&nbsp; Hasil olahan ranjungan dijual&nbsp; untuk tujuan ekspor dan penyedaiaan bahan baku untuk industri makanan di Pulau Jawa.&nbsp; Proses pengolahanya sagat sederhana, yaitu: ranjungan hasil tangkapan ditampung oleh pengumpul atau langsung diolah oleh nelayan dengan cara perebusan menggunakan dandang,&nbsp; kompor minyak tanah ataupun tungku perebusan.&nbsp; Ranjungan yang sudah direbus dikupas carapasnya, pembersihan lalu dijual ke penampung untuk diolah lebih lanjut. Di tingkat penampung, daging ranjungan tanpa carapas dibekukan sebelum dipasarkan atau dilakkan pengolahan lanjut dengan melakukan pengupasan cangkang sehingga didapat produk akhir berupa daging ranjungan rebus bersih dari cangkang.&nbsp;&nbsp;&nbsp; Daging ranjugan rebus tanpa cangkang dibekukan sebelum di ekspor atau dipasarkan ke Pulau Jawa.</p>
+<p style="margin-left: 49.5pt; text-align: justify;">
+	Pengolahan ranjungan dengan sisitem ini dihadapkan pada permasalahan ketersediaan sarana penampungan produk olahan, ketersediaan listrik dari PLN yang sering megalami pemadaman, ketersediaan pasokan es, dan kontiunitas pasokan bahan baku.&nbsp;&nbsp; Ketersediaan sarana penampungan produk olahan yang hingga saat ini hanya menggunakan box fiber (<em>cold box</em>) dengan pendinginan mengandalkan ketersediaan es.&nbsp; Penyediaan es hanya mengandalkan produksi es dari rumah tangga,&nbsp; bahkan dibeberapa sentra pengolahan ranjungan yang terdapat di Pulau Cempedak dan&nbsp; Pulau Bawal pasokan es didatangkan dari Kota Kendawangan.&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p style="margin-left: 49.5pt; text-align: justify;">
+	Di wilayah Kecamatan Kendawangan belum ditemukan produk olahan hasil perikanan yang menjadi andalan ataupun ciri khas daerah ini.&nbsp; Jenis produk olahan hasil perikanan seperti ikan asin, udang ebi, trasi, dan kerupuk ikan/udang, hanya diproduksi bersifat sambilan karena produksi hasil tangkapan berlebih sehingga kesulitan pemasarannya maka dijadikan produk ikan asin,&nbsp; produk kerupuk ikan/udang yang ada karena tidak dikemas dalam bentuk yang menarik sehingga kurang memiliki pangsa pasar luas.</p>
+<p style="margin-left: 49.5pt; text-align: justify;">
+	Untuk memberikan nilai tambah produk olahan dan menjangkau pangsa pasar yang lebih luas, diperlukan inovasi produk pengolahan hasil perikanan sehingga memberikan dampak ekonomi melalui penyediaan lapangan pekerjaan dan optimalisasi pemanfaatan sumberdaya perikanan yang ada. Berbagai diversifikasi produk olahan diantaranya adalah kerupuk ikan/udang, abon, naget, sosis, stick ikan dan lain-lain. Pengembangan produk diversifikasi olahan hasil perikanan di daerah ini sangat memungkinkan terutama di wilayah Desa Mekar Utama atau Kota Kendawangan karena memiliki beberapa faktor penunjang, diantaranya:</p>
+<ol>
+	<li style="text-align: justify;">
+		Aksesibilitas, mudah dijangkau melalui jalur darat maupun transfortasi laut.</li>
+	<li style="text-align: justify;">
+		Ketesediaan sumberdaya listrik</li>
+	<li style="text-align: justify;">
+		Merupakan pusat aktivitas ekonomi kawasan</li>
+	<li style="text-align: justify;">
+		Kemudahan pasokan bahan baku dari berbagai senra produksi/hasil tangkapan, sehingga menjamin kontinyuitas produksi.</li>
+	<li style="text-align: justify;">
+		Ketersediaan pasokan air bersih PDAM.</li>
+	<li style="text-align: justify;">
+		Poteni investasi pabrik es.</li>
+	<li style="text-align: justify;">
+		Ketersediaan sarana penunjang produksi perikanan lainnya, warung dan kios nelayan yang menyediakan berbagai keperluan sarana perikanan.</li>
+</ol>
+<p style="text-align: justify;">
+	Selain memiliki sentra peroduksi olahan hasil ikan laut, di Kecamatan Kendawangan juga ditemui sentra pengolahan ikan perairan umum yaitu di Dusun Air Hitam Kecil Desa Pembedilan dan Desa Air Hitam Besar.&nbsp; Jenis produk olahan berupa ikan asin, kerupuk dan ikan salai (ikan asap).&nbsp; Jenis ikan yang diolah adalah ikan betok (<em>Anabas</em> <em>sp.</em>), Gabus (<em>Opiocephalus satriatus</em>), Toman (<em>Opiocephalus</em> <em>sp.</em>), Ikan Tapah, dan Ikan baung.&nbsp;&nbsp; Di Dusun Air Hitam Kecil terdapat 3 agen pengolah hasil hasil perikanan dengan kavasitas produksi per bulan mencapai 2-3 ton&nbsp; per dan di Desa Air Hitam Besar terdapat 4 agen pengolah hasil perikanan dengan kavasitas produksi mencapai 4 ton per bulan.</p>
+<p style="text-align: justify;">
+	<strong>Pertanian</strong></p>
+<p style="text-align: justify;">
+	Sebagian besar masyarakat di Kabupaten Ketapanag merupakan petani dan nelayan. Rumah tangga pertanian di daerah ini mencapai 1.060 KK pada tahun 2007. Usaha pertanian tanaman pangan dan hortikultura yang diusahakan oleh masyarakat di Kecamatan Kendawangan masih bersifat sederhana misalnya padi dan palawija. Tanaman padi yang diusahakan adalah padi sawah tadah hujan dengan produktivitas 33,57 kwintal/ha. Tanaman palawija yang diusahakan jagung dan ubi kayu. Usaha tani tersebut bersifat subsisten yang hanya untuk memenuhi kebutuhan rumah tangga tani.</p>
+<p style="text-align: justify;">
+	<strong>Peternakan</strong></p>
+<p style="text-align: justify;">
+	Sebagian besar usaha peternakan yang dilakukan oleh masyarakat Kecamatan Kendawangan masih bersifat ekstensif. Usaha peternakan yang dilakukan masih dalam skala kecil dan hanya untuk memenuhi kebutuhan keluarga. Kemudian usaha peternakan tersebut masih merupakan usaha sampingan sebagai sumber pendapatan tambahan dan untuk memenuhi kebutuhan sumber protein keluarga. Hampir seluruh keluarga di Kecamatan Kendawangan ini mengusahakan ternak pada skala rumah tangga dengan teknologi ekstensif. Ternak yang banyak diusahakan meliputi ayam buras, sapi, kambing, babi dan itik.</p>
+<p style="text-align: justify;">
+	<strong>Perkebunan</strong></p>
+<p style="text-align: justify;">
+	Perkebunan di daerah ini cukup luas yaitu mencapai 4.638,00 ha. Tanaman perkebunan yang diusahakan karet, kelapa dalam, kelapa hibrida, kelapa sawit, kakao, lada, kopi dan aneka tanaman perkebunan lainnya. Akan tetapi tanaman kelapa sawit sangat mendominasi dari usaha perkebunan ini dengan produksi mencapai 3.129,00 ton dari luas lahan 18.137,00 ha pada tahun 2005. Dari luas tanaman kelapa sawit tersebut, 2.200,00 ha diantaranya merupakan luas tanam kebun kelapa sawit milik perkebunan swasta besar/negara.</p>
+<p style="text-align: justify;">
+	<strong>Kehutanan</strong></p>
+<p style="margin-left: 28.35pt; text-align: justify;">
+	Kondisi vegetasi dan penutupan lahan di wilayah Kecamatan Kendawangan secara umum menunjukkan trend penurunan kwalitas.&nbsp; Akselerasi penurunan kwalitas ini dapat terlihat terutama pada kawasan konservasi seperti Cagar Alam Muara Kendawangan dan sekitarnya. Penurunan kwalitas penutupan lahan pada umumnya berubah menjadi vegetasi kerapatan sedang &ndash; rendah (hutan sekunder), semak belukar, hingga lahan terbuka.</p>
+<p style="margin-left: 28.35pt; text-align: justify;">
+	Vegetasi yang banyak dijumpai adalah Ketapang (<em>Terminalia cattapa</em>), Beringin Pantai (<em>Ficus bengalensis</em>), Bakau (<em>Rhizophora sp</em>), Sentigi (<em>Phempis acidula</em>), Pandan (<em>Pandanus tectorius</em>), Katang-katang (<em>Ipomea pescaprae</em>), Bakung Hutan (<em>Hanguana sp</em>), Nyamplung (<em>Callophyllum inophyllum</em>), Cemara Laut (<em>Casuarina equisetifolia</em>), Kelapa (<em>Cocos nucifera</em>), Waru Laut (<em>Hibiscus tiliaceus</em>), Rumput Lari (<em>Spinivex sp</em>) namun secara umum tidak terdapat jenis vegetasi atau penutupan lahan yang dominan di Kecamatan Kendawangan. Kelompok penutupan lahan yang terluas antara lain Semak Belukar Rawa, Lahan Terbuka, Semak Belukar Lahan Kering, Hutan Rawa Sekunder, dan Rawa. Selain kelompok penutupan lahan tersebut, terdapat beberapa kelas penutupan lahan yang berpola sporadis satu dengan lainnya.</p>
+<p style="text-align: justify;">
+	Sedangkan kondisi vegetasi dan penutupan lahan di Pulau Bawal didominasi oleh Hutan Rawa Sekunder dan Rawa seluas 2.647 hektar atau 92,42 % dari luas total Pulau Bawal. Di Pulau Gelam, kondisi vegetasi dan penutupan lahan didominasi Hutan Rawa Sekunder seluas 3.456 hektar atau 68,93 % dari total luas Pulau Gelam.</p>
+<p style="text-align: justify;">
+	<strong>Pertambangan Non Ekstraktif</strong></p>
+<p style="text-align: justify;">
+	Potensi sumberdaya alam yang ada di Kabupaten Ketapang antara lain AntimoniStibium, Bauksit, emas, timahhitam, pasir zircon, barit, kaolin, pasirkuarsa, andresit, basal, granit, gambutdan batubara yang telah dikelola sebesar&nbsp; 30 persen, sedangkan AntimoniStibium, Bauksit, timahhitam, pasir zircon, barit, kaolin, andresit, basal, granit, gambut,batubaradan batuan/bahan galian non logam yang belum dikelola mencapai 70 persen.</p>
+<p style="text-align: justify;">
+	<strong>Industri</strong></p>
+<p style="text-align: justify;">
+	Perkembangan industri di Kecamatan Kendawangan cukup baik terutama industri kecil atau industri rakyat. Namun dari tahun 2007-2011 tidak terdapat perkembangan industri atau jumlah industri tetap.</p>
+<p style="text-align: justify;">
+	<strong>Pariwisata</strong></p>
+<p style="margin-left: 28.35pt; text-align: justify;">
+	Kecamatan Kendawangan memiliki beragam potensi wisata pantai dan wisata bahari yang dapat dikembangkan, di antaranya adalah Pantai Tanjung Gangse, Pantai Pulau Kucing, Pantai Kendawangan, Pantai Pulau Jambat, Pantai Pulau Sahabat dan Pantai Selat Bilik, Pulau Sawi dan Pulau Bawal. Sedangkan potensi wisata alam konservasi <em>(ecotourism) </em>dapat diarahkan di Wisata Alam Muara Kendawangan.</p>
+<p style="text-align: justify;">
+	Kekayaan sumber daya alam laut Pulau Cempedak dengan kualitas keindahan dan keasliannya berpotensi menjadi tujuan wisata seperti <em>cruising</em>, <em>yachting</em>, <em>diving</em>, <em>surfing</em>, dan <em>fishing</em> serta marine <em>eco-tourism. </em>Di samping itu, wilayah Pulau Cempedak juga mempunyai potensi wisata terrestrial, yaitu wisata dengan pemanfaatan lahan daratannya.&nbsp; Wisata Pulau Cempedak merupakan daya tarik tersendiri bagi penikmat pariwisata, mengingat kawasan Pulau Cempedak adalah pulau yang sangat sepi (penduduknya relatif sedikit), sehingga alamnya masih sangat asri.</p>
+<p style="text-align: justify;">
+	<strong>Wisata Bahari</strong></p>
+<p style="margin-left: 35.45pt; text-align: justify;">
+	Kawasan Pulau Cempedak&nbsp; merupakan aset wisata bahari yang sangat besar yang didukung oleh potensi geologis dan karaktersistik yang mempunyai hubungan sangat dekat dengan terumbu karang (<em>Coral Reef)</em>, khususnya <em>h</em><em>ard corals</em>. Disamping itu, kondisi Pulau Cempedak yang sedikit penduduknya, secara logika akan memberikan kualitas keindahan dan keaslian dari <em>bio-diversity</em> yang dimilikinya.</p>
+<p style="margin-left: 35.45pt; text-align: justify;">
+	Berdasarkan rating yang dilakukan oleh lembaga kepariwisataan internasional, beberapa kawasan di Indonesia dengan sumberdaya yang dimilikinya mempunyai rating tertinggi bila ditinjau dari segi daya tarik&nbsp; wisata bahari dibandingkan dengan kawasan-kawasan lain di dunia. Beberapa kawasan wisata bahari yang sangat sukses di dunia antara lain adalah kawasan <em>Great Barrier Reef</em>, kawasan negara-negara di Karibia, seperti Bahama, Kawasan Pasifik seperti Hawai, serta&nbsp; Kawasan Meditterranean. Belajar dari pengalaman di kawasan tersebut, ternyata negara-negara tersebut merupakan &ldquo;Negara Pulau-pulau Kecil (<em>Small Islands State</em>)&rdquo;, kecuali di <em>Great Barrier Reef</em>&nbsp; dan Meditterranea.</p>
+<p style="margin-left: 35.45pt; text-align: justify;">
+	Sebagian besar pulau-pulau kecil di Indonesia memiliki potensi wisata bahari yang cukup potensial. Beberapa diantaranya telah dikembangkan sebagai daerah tujuan wisata bahari seperti Taman Nasional (TN) Taka Bone Rate (Sulsel), TN Teluk Cendrawasih, TN Kep. Wakatobi (Sultra), Taman Wisata Alam (TWA) Kep. Kapoposang (Sulsel), TWA Tujuh Belas Pulau (NTT), TWA Gili Meno, Ayer, Trawangan (NTB), TWA P. Sangiang (Jabar), dan lain-lain.</p>
+<p style="text-align: justify;">
+	<strong>Wisata Terestrial</strong></p>
+<p style="margin-left: 35.45pt; text-align: justify;">
+	Pulau-pulau kecil mempunyai potensi wisata terestrial yaitu wisata&nbsp; yang merupakan satu kesatuan dengan potensi wisata perairan laut. Wisata terestrial di pulau-pulau kecil misalnya TN Komodo (NTT), sebagai lokasi Situs Warisan Dunia(<em>World Herritage Site</em>) merupakan kawasan yang memiliki potensi darat sebagai habitat komodo, serta potensi keindahan perairan lautnya di P. Rinca dan P. Komodo. Contoh lain adalah Pulau Moyo yang terletak di NTB sebagai Taman Buru (TB), dengan kawasan hutan yang masih asri untuk wisata berburu dan wisata bahari (<em>diving</em>). Kondisi Pulau Moyo tersebut dimanfaatkan oleh para pengusaha pariwisata sebagai kawasan &ldquo;Ekowisata Terestrial&rdquo;. Dikawasan tersebut terdapat resort yang tarifnya relatif mahal, dengan fasilitas yang ditawarkan berupa tenda-tenda, sehingga merupakan &ldquo;wisata <em>camping</em>&rdquo; yang dikemas secara mewah. Paket wisata di Kawasan Pulau Moyo ini sudah sangat terkenal di mancanegara sehingga dapat memberikan devisa bagi negara.</p>
+<p style="margin-left: 35.45pt; text-align: justify;">
+	<strong>Wisata Kultural </strong></p>
+<p style="margin-left: 35.45pt; text-align: justify;">
+	Pulau-pulau kecil&nbsp; merupakan suatu prototipe konkrit dari suatu unit kesatuan utuh dari sebuah ekosistem yang terkecil. Salah satu komponennya yang sangat signifikan adalah komponen masyarakat lokal. Masyarakat ini sudah lama sekali berinteraksi dengan ekosistem pulau kecil, sehingga secara realitas di lapangan, masyarakat pulau-pulau kecil&nbsp; tentunya mempunyai budaya dan kearifan tradisional (<em>local wisdom</em>) tersendiri yang merupakan nilai komoditas wisata yang tinggi.</p>
+<p style="margin-left: 35.45pt; text-align: justify;">
+	Kawasan yang dapat dijadikan sebagai obyek wisata kultural, misalnya, di Pulau Lembata. Masyarakat suku Lamalera di Pulau Lembata mempunyai budaya heroik &ldquo;Berburu Paus secara tradisional&rdquo; (<em>traditional whales hunter</em>). Kegiatan berburu paus secara tradisional tersebut dilakukan setelah melalui ritual-ritual budaya yang sangat khas, yang hanya di miliki oleh suku Lamalera tersebut. Keunikan budaya dan kearifan tradisional tersebut, menjadi daya tarik bagi para wisatawan.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="ling">Lingkungan</a></h2>
+<p><div class="readmore"><p style="text-align: justify;">
+	<strong>L</strong> <strong>i</strong> <strong>n</strong> <strong>g</strong> <strong>k</strong> <strong>u</strong> <strong>n</strong> <strong>g</strong> <strong>a</strong> <strong>n</strong></p>
+<p style="text-align: justify;">
+	<strong>Kualitas Perairan</strong></p>
+<p style="margin-left: 28.35pt; text-align: justify;">
+	Parameter kualitas perairan, seperti suhu, salinitas, pH, kecerahan, kekeruhan, kandungan minyak, Cu, dan Coliform. Kualitas air suatu perairan laut sangat mempengaruhi keragaman dan kelimpahan sumberdaya hayati dan kehidupan organisme beserta ekosistemnya. Suatu perairan yang memiliki kualitas air yang baik akan dapat mendukung kehidupan dan ekosistem di dalamnya secara optimal. Selanjutnya kualitas air yang baik dan memenuhi persyaratan tumbuh bagi biota yang hidup di dalamnya akan menyebabkan produktivitas perairan tersebut menjadi tinggi, atau sebaliknya. Kualitas air tersebut sangat dicirikan oleh sifat fisika, kimia dan biologinya.</p>
+<p style="margin-left: 28.35pt; text-align: justify;">
+	Kualitas air di lokasi kegiatan perairan Kabupaten Ketapang tergolong memenuhi syarat baku untuk pariwisata, rekreasi, maupun untuk tujuan budidaya perikanan dan perairan biota laut. Karena berdasarkan pengukuran terhadap berbagai paramaternya secara umum tergolong dalam kisaran yang dalam batas bawah toleransi untuk berbagai aktivitas di atas. Kategorian ini didasarkan pada Keputusan Menteri Lingkungan Hidup No. 21/1988 Tentang Baku Mutu Air Laut untuk biota laut golongan B dan D. Namun demikian, kualitas air di sekitar pesisir pantai tergolong rendah/keruh. Untuk sekitar pulau-pulau kecil terkategori jernih, kecuali sebelah timur Pulau Cempedak dan Pulau Bawal pada saat musim selatan (Angin Bertiup dari Selatan Ke Utara).</p>
+<p style="margin-left: 28.35pt; text-align: justify;">
+	Berdasarkan hasil pengamatan dan pengukuran untuk mengetahui kualitas air di lokasi pekerjaan didapatkan informasi kualitas perairan, sebagaimana dalam Tabel 8.1. Secara umum kualitas fisik dan kimia air tergolong baik untuk kehidupan biota laut, dengan berbagai sumberdaya hayatinya terutama komunitas hutan mangrove, kerapu, lobster dan rumput laut yang dalam konteks pekerjaan ini merupakan priotitas komoditas yang paling memungkinkan untuk dikembangkan dari output pekerjaan. Demikian juga untuk perencanaan dan pengembangan kegiatan budidaya laut, baik untuk keramba jaring apung maupun untuk kawasan pertambakan.</p>
+<p style="margin-left: 28.35pt; text-align: justify;">
+	Kecuali untuk daerah muara dan daerah padat penduduk, kekeruhan daerah muara umumnya disebabkan oleh pengadukan lumpur karena pertemuan arus dari sungai dan ombak dari laut,&nbsp; sedangkan di daerah pemukiman kekeruhan air dan parameter fisika lainnya sangat dipengaruhi oleh aktivitas penduduk seperti transfortasi air dan pemukiman.</p>
+<ol>
+	<li style="text-align: justify;">
+		<u>Sifat Fisika</u></li>
+</ol>
+<p style="margin-left: 49.65pt; text-align: justify;">
+	Parameter sifat fisika air (alamiah) yang dianggap penting adalah suhu air, kekeruhan,&nbsp; warna air, dan transparansi cahaya.&nbsp;&nbsp; Pengamatan terhadap suhu perairan laut di wilayah studi didapat kisaran suhu 28.50-29.00 <sup>0</sup>C.&nbsp;&nbsp; Kekeruhan&nbsp; perairan berkisar antara 0.74-45.6 Skala NTU.&nbsp; Warna air di perairan laut berkisar antara 0.08-15.23 Unit PtCo (hijau-hijau kebiruan).&nbsp;&nbsp; Transparansi cahaya berkisar 50-350 cm.</p>
+<p style="margin-left: 49.65pt; text-align: justify;">
+	Pada perairan terbuka suhu air umumnya berfluktuasi dalam kisaran yang normal dan dapat ditoleransi biota perairan.&nbsp; Kisaran optium yang menunjang kehidupan ikan adalah 28,5-31.3 <sup>o</sup>C (Widagdo dkk, 1999).&nbsp; Fluktuasi suhu secara ekstrim akan mempengaruhi proses metabolisme ikan/biota perairan, ikan akan stress dan mudah terserang penyakit, fluktuasi suhu melebihi 5<sup>o</sup>C bahkan akan mengakibatkan kematian biota perairan.</p>
+<p style="margin-left: 49.65pt; text-align: justify;">
+	Kekeruhan dan warna perairan mempunyai kisaran yang besar.&nbsp; Perairan yang mempunyai nilai kekeruhan dan warna air yang kurang baik terdapat pada Muara Kendawangan dan Perairan disekitar Tanjung Lumpur.&nbsp; Hal ini dapat terjadi selain karena kawasan tersebut merupakan kawasan yang padat akan aktivitas penduduk dan merupakan jalur transportasi air.&nbsp;&nbsp; Dengan transparansi berkisar 47-165 cm menunjukan kualitas air di wilayah masih cukup baik.&nbsp; Kekeruhan yang disebabkan oleh biota air phytoplankton dikehendaki karena menunjukkan perairan tersebut subur.&nbsp;</p>
+<p style="margin-left: 49.65pt; text-align: justify;">
+	Transparansi cahaya adalah masuknya sinar matahari ke dalam perairan.&nbsp; Sinar ini sangat berguna bagi proses fotosintesis plankton maupun tumbuhan air lainnya.&nbsp; Masuknya sinar ini dipengaruhi oleh warna air, kekeruhan maupun padatan tersuspensi.</p>
+<p style="margin-left: 49.65pt; text-align: justify;">
+	Faktor penting dari fisika air adalah padatan tersuspensi, nilai padatan tersuspensi melebihi ambang batas yang dapat ditoleransi biota air dapat mengganggu pernafasan ikan mengurangi penetrasi sinar matahari dan dapat menutupi selterur dan permukaan karang sehingga berdampak pada kematian masal telur dan karnag.&nbsp;&nbsp; Dari pengukuran nilai padatan tersuspensi di setiap titik sampel menunjukan kisaran yang rendah dan sangat layak untuk menunjang aktivitas budidaya perikanan.&nbsp;</p>
+<ol>
+	<li style="text-align: justify;" value="2">
+		<u>Sifat Kimia Air</u></li>
+</ol>
+<ul style="list-style-type:circle;">
+	<li style="text-align: justify;">
+		PH</li>
+</ul>
+<p style="margin-left: 70.9pt; text-align: justify;">
+	Nilai pH merupakan kisaran/kandungan ion H<sup>+</sup> dalam air.&nbsp; Nilai pH memiliki deret ukur dari 0 sampai 14, air akan bereaksi asam jika berada dibawah nilai 7 dan bereaksi basa jika diatas nilai 7. Hasil pengukuran dan pengamatan pada lokasi studi menujukan nilai pH yang terukur menunjukkan kisaran yang cukup baik, yaitu berkisar antara 8,00-9,00.&nbsp;&nbsp; Nilai pH rendah hanya di temui di sekitar perairan kawasan tambak di Air Hitam Besar yakni berkisar 6,78-7,69.&nbsp; Nilai pH rendah dikawasan tambak dikarenakan pengaruh keasaman tanah tambak dari proses pencucian dan prombakan bahan organic (sulfat masam) sebagai akibat pembukaan tambak pada kawasan mangrove dengan kandungan bahan organik dan pelumpuran yang tinggi.&nbsp;&nbsp; Nilai kisaran pH air yang didapat pada setiap titik sample masih berada pada kisaran optimum untuk aktivitas budidaya laut dan tambak.</p>
+<ul style="list-style-type:circle;">
+	<li style="text-align: justify;">
+		DO (Oksigen Terlarut)</li>
+</ul>
+<p style="margin-left: 70.9pt; text-align: justify;">
+	Oksigen terlarut merupakan salah satu faktor pembatas yang keberadaannya mutlak dibutuhkan dalam air.&nbsp; Oksigen terlarut dibutuhkan selain untuk kebutuhan metabolisme (respirasi) mahluk hidup yang ada di air juga dibutuhkan untuk proses penguraian (miniralisasi) bahan-bahan organik.&nbsp; Jika kondungan oksigen terlarut tersedia dalam jumlah yang cukup dalam air proses penguraian bahan organik akan berlangsung secara aerobic dan akan menghasilkan unsur-unsur yang memperkaya perairan dan dapat dimanfaatkan oleh tumbuhan air dalam proses asimilasi (fotosintesis).&nbsp; Jika oksigen tersedia dalam jumlah terbatas proses penguraian akan berlangsung secara anairobic dan akan menghasilkan senyawa beracun seperti NH<sub>3, </sub>H<sub>2</sub>S, dll.</p>
+<p style="margin-left: 70.9pt; text-align: justify;">
+	Kelarutan oksigen dalam air sangat dipengaruhi oleh tekanan parsial gas, garam-garam terlarut, kekeruhan dan turbelensi air.&nbsp; Hasil pengukuran kandungan oksigen di wilayah studi berkisar 5,6-8,6 mg/l.&nbsp; Kisaran tersebut merupakan kisaran yang baik untuk kehidupan organisme perairan.&nbsp; Secara umum diketahui bahwa kandungan oksigen &lt;4 mg/l dapat mengganggu kehidupan dan menghambat pertumbuhan biota air (Cholik, dkk, 1986).&nbsp; Kisaran oksigen yang diinginkan untuk kehidupan ikan adalah &gt;6 mg/l.</p>
+<ul style="list-style-type:circle;">
+	<li style="text-align: justify;">
+		Salinitas</li>
+</ul>
+<p style="margin-left: 70.9pt; text-align: justify;">
+	Untuk ikan yang hidup kisaran salinitas juga merupakan faktor pembatas penyebaran dan kehidupan ikan/organisme perairan.&nbsp; Salinitas yang tidak sesuai dengan kebutuhan ikan dapat mengganggu kesehatan ikan.&nbsp; Karena secara fisiologis salinitas akan mempengaruhi fungsi organ osmoregulasi ikan.&nbsp; Perbedaan salinitas air media dengan tubuh ikan akan menimbulkan gangguan keseimbangan.&nbsp; Kondisi ini mengakibatkan sebagian besar energi yang tersimpan dalam tubuh ikan digunakan untuk penyesuaian diri terhadap kondisi yang kurang mendukung tersebut, sehingga dapat merusak sistem pencernaan dan transportasi zat-zat makanan dalam darah (Ali Hafiz, Sudjiharno dan Anindiastuti, 1999).&nbsp; Kisaran salinitas yang tidak dapat ditoleransi oleh ikan akan dapat menghambat pertumbuhan dan bahkan membunuhnya (Budiman, 2002).&nbsp;</p>
+<p style="margin-left: 70.9pt; text-align: justify;">
+	Kisaran salinitas perairan di wilayah studi saat dilakukan pengukuran berkisar antara 29-33 ppt.&nbsp; Kisaran salinitas pada wilayah studi dapat mencapai titik terendah 27,5-28 ppt (hasil survey, tahun 2009).&nbsp;&nbsp; Fluktuasi salinitas cukup signifikan hanya terjadi di muara kendawangan dan di sekitar perairan tambak tanjung lumpur desa Air Hitam Besar. Fluktuasi salinitas terutama disebabkan pengaruh hujan dan tekanan air tawar dari hulu sungai dan daratan.&nbsp;&nbsp; Melihat fluktuasi salinitas yang cukup tinggi maka untuk pemeliharaan ikan-ikan laut ekonomis tinggi, harus memperhatikan peralihan musim (hanya dapat dilakukan pada musim kemarau).&nbsp; Atau dengan memelihara ikan-ikan endemik yang secara ekonomis memiliki nilai jual tinggi dan dapat ditemukan di wilayah studi seperti kerapu lumpur (Epinephelus tauvina, E.suillus), kakap putih (Lates calcalifer), belanak (Mungil sp.) dan kepiting bakau (Scylla serrata forskal).&nbsp; Untuk perairan sekitar Pulau Sawi, Pulau Cempedak, Pulau Bawal, Pulau Gelam dan Selat Bilik fluktuasi salinitas tidak berada pada kisaran yang sempit dan berlangsung disempanjang musim.&nbsp;&nbsp; Fluktuasi salinitas tersebut umumnya berada pada kisaran yang optimum bagi biota laut potensial untuk dibuidayakan di wilayah ini yaitu (Rumput laut, Kerapu dan lobster).</p>
+<ul style="list-style-type:circle;">
+	<li style="text-align: justify;">
+		Parameter Kualitas Air Lainnya</li>
+</ul>
+<p style="margin-left: 70.9pt; text-align: justify;">
+	Kualitas perairan di wilayah studi dalam peruntukan sebagai kawasan perikanan laut menujukkan bahwa parameter-parameter yang ada sesuai dengan baku mutu (Kep. MENKLH No. KEP-02/MENKLH/1/1988.</p>
+<p style="margin-left: 70.9pt; text-align: justify;">
+	Amoniak Bebas dan Nitrat (NO<sub>3</sub>) yang terukur di wilayah studi masing-masing adalah 0.148 mg/l dan 1.632 mg/l atau kurang dari &lt;0,01 ppm.&nbsp; Kisaran tersebut masih dalam toleransi yang layak untuk kehidupan biota perairan (ikan).&nbsp; Konsentrasi CO<sub>2</sub> terlarut 0,0001-0,0007 mg/l, hardness &gt; 250 mg/l, pospat &nbsp;0,001-0.20 mg/l, Fenol 0.032 mg/l , Sulfat 1740 mg/l cukup tinggi, Mn &lt;0.002 mg/l, Pb 0.004 mg/l, CU 0.032 mg/l, Zn 0.035-0,048 mg/l, Hg ,0.0002 mg/l, Detergen 6,81-9,26 mg/l, secara umum kisaran tersebut berada dibawah ambang batas baku mutu yang ditetapkan.</p>
+<p style="margin-left: 70.9pt; text-align: justify;">
+	Dari Tabel 8.1. tersebut juga tampak salinitas (29-33 ppt) juga cukup baik, dan dapat menunjang kehidupan serta pertumbuhan karang. Menurut Dahuri&nbsp; et al. (2001), terumbu karang hidup dengan baik di daerah pesisir pada salinitas 30-35 ppt. Vaughan, (1919); Wells, (1932) dalam Supriharyono (2002), berpendapat bahwa binatang karang hidup dengan baik pada salinitas 34-36 ppt, namun pengaruh suhu terhadap kehidupan karang sangat bervariasi bergantung pada kondisi perairan laut setempat, sehingga kisaran salinitas bisa mencapai 17,5-52,5 ppt. Bahkan seringkali salinitas di bawah minimum dan di atas maksimum tersebut karang masih hidup.&nbsp; Daya tahan karang terhadap salinitas tidak sama.&nbsp; Acropora dapat bertahan pada salinitas 40 ppt hanya beberapa jam , tetapi Porites dapat tahan dengan salinitas sampai mencapai 48 ppt.&nbsp;&nbsp;</p>
+<p style="margin-left: 70.9pt; text-align: justify;">
+	Faktor fisika lainnya yang mempengaruhi kehidupan dan pertumbuhan karang adalah cahaya (illumination). Cahaya sangat penting bagi kehidupan karang (hermatypic atau reef building corals) untuk berfotosintesa, karena bersiombiosis dengan ganggang (zooxanthellae). Titik kompensasi karang terhadap cahaya adalah pada intensitas cahaya antara 200-5000 f.c. Dengan pertimbangan tersebut, sebagian besar karang atau terumbu karang banyak tersebar di daerah tropis.</p>
+<p style="margin-left: 70.9pt; text-align: justify;">
+	Berkaitan dengan cahaya tersebut, maka faktor fisika lainnya yang berhubungan dengan cahaya adalah kedalaman perairan, kecerahan, kekeruhan, padatan tersuspensi, sedimentasi dan lain sebagainya.&nbsp; Sesuai dengan Tabel 4.4. tersebut dapat dinyatakan, bahwa kedalaman perairan yang terdapat karang dan terumbu karang memiliki kedalaman yang dangkal yaitu 0,5 &ndash; 4,0 meter, karena pada kedalaman tersebut cahaya masih tembus dan karang masih menerima cahaya matahari. Menurut Kinsman (1964) dalam Supriharyono (2002) bahwa karang atau terumbu karang tumbuh baik pada kedalaman kurang dari 20 m.</p>
+<p style="margin-left: 70.9pt; text-align: justify;">
+	Berdasarkan Tabel.3.6. di atas, kecerahan air yang terdapat pada lokasi (titik-titik) sampel yaitu 50-350 cm. Tampak bahwa kecerahan tersebut tidak ideal bagi pertumbuhan karang. Kecerahan yang ideal bagi pertumbuhan karang dimana cahaya harus dapat menembus perairan sampai ke terumbu karang sesuai dengan kedalaman lokasi. Pada lokasi tersebut terdapat kecerahan yang kurang ideal yaitu 50 cm. Kecerahan tersebut merupakan kecerahan yang terdapat pada titik sample yang tidak terdapat terumbu karang.&nbsp; Di lokasi ini ekosistem pantainya memiliki dasar pasir berlumpur misalnya pada lokasi sampel yang terletak di antara beberapa teluk Pulau Iras, Selat Bilik dan Muara Sungai Kendawangan.&nbsp; Kedua lokasi banyak menerima sedimentasi dari daratan di main land yang banyak muara sungai kecil yang mengalir di bentang lahan muara kendawangan.&nbsp; Sedangkan titik sampel lainnya (bagian barat dan timur Pulau Cempedak, Pulau Bawal, Pullau Tanah Merah, Selat Bilaik dan Pulau Sawi) yang merupakan ekosistem terumbu karang,&nbsp; kecerahannya masing-masing adalah 3,50 m dan 2,00 m, di mana cahaya dapat menembus dasar perairan (terumbu karang).&nbsp; Di lokasi ini kekeruhan dan&nbsp; padatan tersuspensi sangat kecil, karena tidak terdapat sumber sedimentasi.</p>
+<p style="margin-left: 70.9pt; text-align: justify;">
+	Secara umum sedimentasi dapat terjadi karena aktivitas pembangunan di sekitar wilayah pantai seperti pengerukan, pertambangan, pengeboran minyak, dan pembukaan hutan, aktivitas pertanian dan sebagainya.&nbsp; Aktivitas tersebut dapat membebaskan sedimen (terregenous sediments) ke perairan pantai atau ke ekosistem terumbu karang.&nbsp; Selain itu, ada sedimen lain yang disebut dengan carbonate sediment, yaitu sedimen yang berasal dari erosis karang-karang, baik secara fisik maupun biologis. &nbsp;Bioerosi ini dilakukan oleh hewan-hewan laut seperti bulu babi, ikan, bintang laut dan sebagainya yang menghasilkan sedimen karbonat.&nbsp;&nbsp;&nbsp;</p>
+<p style="margin-left: 70.9pt; text-align: justify;">
+	Sedimentasi merupakan faktor pembatas bagi pertumbuhan karang.&nbsp; Kondisi sedimentasi yang tinggi menyebabkan turunnya kualitas terumbu karang.&nbsp; Sedimentasi dapat meningkatkan bahan tersuspensi, sehingga dapat mengganggu pernafasan atau respirasi karang dan kebiasaan makan karang (Dahuri et al., 2001). Sedimentasi juga mengganggu penetrasi cahaya yang masuk ke dalam perairan, sehingga dapat menghambat proses fotosintesis. Hal ini sesuai menurut Supriharyono (2002) yang menyebutkan, bahwa pengaruh sedimen terhadap pertumbuhan karang dapat terjadi secara langsung dan tidak langsung.&nbsp; Secara langsung, sedimen yang banyak dan ukurannya besar dapat menutup polyp (mulut) karang, dan secara tidak langsung adalah pengurangan penetrasi cahaya dan banyaknya energi yang terbuang oleh karang untuk menghalau sedimen. Selain itu pengaruh tidak langsung juga dapat berupa kandungan hara yang ada atau terikat pada sedimen. Kandungan unsur hara pada sedimen dapat merangsang pertumbuhan alga, sehingga dapat mengganggu penetrasi cahaya, dan menimbulkan pencemaran kualitas air bila alga mengalami kematian. b) melalui pemanfaatan jaring-jaring lendir untuk menangkap makanan, dimana yang tertangkap tidak hanya makanan tetapi juga sediment yang mengandung logamberat; dan c) mendorong atau menekan &ldquo;mesenterial filament&rdquo; untuk mengambil logam-logam berat yang terikat pada sediment secara langsung.&nbsp; Sedangkan kemungkinan terkontaminasinya logam berat pada kerangka karang (CaCO<sub>3</sub>) ada beberapa mekanisme yaitu: 1) substitusi unsur kalsium oleh logam-logam tertentu, dan 2) serpihan-serpihan&nbsp; Parameter kimia perairan yang berpengaruh terhadap ekosistem terumbu karang berupa kandungan unsur hara dan logam-logam berat. Unsur-unsur hara dan logam-logam berat tersebut dapat dalam bentuk unsur atau terikat dalam bentuk senyawa.&nbsp; Secara umum kandungan unsur-unsur hara dan logam-logam berat yang ada di lokasi pengambilan sampel masih tergolong rendah, dan dalam ambang batas toleransi bagi kehidupan karang.</p>
+<p style="text-align: justify;">
+	Unsur-unsur dan logam yang terlarut dalam perairan dapat mempengaruhi kehidupan karang, karena karang dapat menyerap unsur-unsur dan logam berat.&nbsp; Ada tiga mekanisme penyebab terkontaminasinya karang dengan logam berat, yaitu a) melalui makanan, yaitu zooplankton yang telah terkontaminasi bahan-bahan organik yang mengandung logam berat masuk ke ruang pori-pori kerangka.Secara biologi kualitas perairan di lokasi studi juga tergolong baik.&nbsp;</p>
+<p style="text-align: justify;">
+	<strong>Permasalahan Lingkungan</strong></p>
+<p style="margin-left: 28.35pt; text-align: justify;">
+	Gelombang pasang yang kerap terjadi pada bulan-bulan tertentu sering mengakibatkan terjadinya abrasi dan akresi (pendangkalan) pada daerah-daerah tertentu, khususnya diwilayah selatan yang wilayahnya terbuka langsung dengan laut jawa. Untuk abrasi sering terjadi pada bagian-bagian tertentu disepanjang pesisir pantai yang diawali dari koordinat 110<sup>o</sup>13&rsquo;15,65&rdquo; BT 2<sup>o</sup>44&rsquo;34,67&rdquo; LS&nbsp; kemudian koordinat 110<sup>o</sup>18&rsquo;18,77&rdquo; BT 2<sup>o</sup>59&rsquo;42,58&rdquo; LS sampai dengan 110<sup>o</sup>31&rsquo;48,28&rdquo; BT 2<sup>o</sup>51&rsquo;02,20&rdquo; LS. Lokasi-lokasi tersebut yang sering terjadi abrasi adalah lokasi yang tidak termasuk dalam ekosistem mangrove atau lokasi tersebut merupakan topografi ekstrim dengan kondisi tebing tanah terjal bertemu langsung dengan laut seperti disekitar koordinat 110<sup>o</sup>31&rsquo;48,28&rdquo; BT 2<sup>o</sup>51&rsquo;02,20&rdquo; LS.</p>
+<p style="margin-left: 28.35pt; text-align: justify;">
+	Untuk akresi terjadi pada sekitar muara Sungai Tengar dengan koordinat 110<sup>o</sup>8&rsquo;41,89&rdquo; BT 2<sup>o</sup>20&rsquo;53,34&rdquo; LS dan sekitar muara Sungai Air Hitam Kecil dengan koordinat 110<sup>o</sup>23&rsquo;26,93&rdquo; BT 2<sup>o</sup>55&rsquo;03,16&rdquo; LS. Lokasi-lokasi tersebut sering terjadi akresi akibat dari perubahan arus gelombang &nbsp;yang membawa sedimentasi bertemu dengan arus sungai, untuk muara Sungai Tengar terbuka langsung dengan Selat Karimata sedangkan muara Sungai Air Hitam Kecil terbuka langsung dengan laut Jawa.</p>
+<p style="margin-left: 28.35pt; text-align: justify;">
+	Abrasi di laut adalah merupakan proses terjadinya pengikisan daratan (erosi) oleh gelombang sehingga menyebabkan hanyutnya substrat dan berkurangnya luas daratan. Jika proses erosi berlangsung di pulau-pulau yang kecil dengan vegetasi yang terbatas, maka menyebabkan pulau tersebut&nbsp; tenggelam.</p>
+<p style="margin-left: 28.35pt; text-align: justify;">
+	Indikasi terjadinya abrasi dan penciutan luas pulau-pulau kecil dapat ditemukan di Kepulauan Spermonde Sulawesi Selatan. Kepulauan Spermonde terdiri dari 207 pulau-pulau kecil yang terletak di Pantai Barat Kota Makassar. Luas wilayah diperkirakan sekitar 14.000 km<sup>2</sup>. Hutchinson (1945) dalam MCRMP 2006 menyatakan bahwa wilayah Kepulauan Spermonde dapat dibagi menjadi 4 zona, yaitu : zona dalam (inner zone), zona tengah bagian dalam (inter middle zone), zona tengah bagian luar (outer middle zone) dan zona luar (outer zone). Zona dalam didominasi oleh substrat berlumpur, banyak run off air tawar dan&nbsp; sedimentasi dari daratan. Pada zona ini umumnya didominasi oleh mangrove terutama dari genus Rhizophora. Zona tengah umumnya memiliki substrat campuran antara pasir dan lumpur, sehingga mangrove masih dapat ditemukan dalam jumlah sedikit. Sedangkan Zona luar terdiri dari substrat pasir putih yang didominasi oleh vegetasi pantai. Pada zona ini jenis mangrove tidak ditemukan (MCRMP, 2006).</p>
+<p style="margin-left: 28.35pt; text-align: justify;">
+	Ombak besar sering terjadi di daerah zona luar, terutama pada saat musim Barat dan&nbsp; seringkali menyebabkan tumbangnya pohon-pohon yang cukup besar ditepi pantai, terutama pohon kelapa dan cemara laut. Aktivitas penduduk yang menebang vegetasi pantai untuk kayu bakar, bahan bangunan dan lain-lain menyebabkan hilangnya tumbuhan pelindung di daerah pesisir. Penduduk di Kepulauan Spermonde umumnya membangun rumah di tepi pantai dan &ldquo;memarkir&rdquo; perahu tempel di daerah pasang surut. Akibatnya, jenis vegetasi perintis seperti <em>Ipomoea pes-caprae</em> dan jenis lainnya hilang karena tertimpa lunas perahu dan terinjak-injak nelayan. Jika vegetasi perintis tumbuh, maka nelayan akan segera menyingkirkannya karena menganggap vegetasi pantai sebagai tanaman liar yang tidak berguna. Padatnya populasi penduduk seringkali juga menyebabkan hilangnya vegetasi pantai sehingga pulau-pulau kecil tersebut amat rentan terhadap abrasi akibat naiknya paras air laut dan tingginya gelombang pada musim Barat. Satu-satunya tempat yang paling hijau dan padat dengan vegetasi di daerah pulau-pulau kecil yang memiliki banyak penduduk adalah tempat pemakaman (MCRMP, 2006).</p>
+<p style="text-align: justify;">
+	Pantai&nbsp; Pulau Cempedak tidak mengalami abrasi karena pada bagian sebelah Barat secara umum bervegetasi mangrove yang dapat menahan gelombang laut, sedangkan bagian Timur pulau yang pantainya berpasir dan bervetasi tumbuhan non mangrove seperti pohon kelapa dan tumbuhan jenis lainnya tidak terdapat gelombang besar.&nbsp; Hal ini karena bagian Timur tidak berhubungan dengan laut Jawa, yang berhubungan dengan laut Jawa adalah bagian Barat.&nbsp; Sehingga bagian Timur sering dijadikan tempat berlindung dari gelombang atau badai saat musim Barat pada bulan September &ndash; Pebruari.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="sp">Sarana dan Prasarana</a></h2>
+<p><div class="readmore"><p style="text-align: justify;">
+	<strong>Sarana dan Prasarana</strong></p>
+<p style="text-align: justify;">
+	<strong>Sarana Transportasi </strong></p>
+<p style="margin-left: 28.35pt; text-align: justify;">
+	Secara umum transportasi darat di Kecamatan Kendawangan cukup lancar. Namun jalan kabupaten yang menghubungkan Kecamatan Kendawangan dengan Ketapang dan kecamatan lainnya masih perlu perbaikan. Pada tahun 2007, kondisi jalan rusak berat mencapai 32,75 km, rusak ringan 3,59 km, sedang 131,02 km dan kondisi baik 14,36 km. Kemudian akses jalan antar desa cukup baik karena sebagian juga dihubungkan oleh jalan aspal, dan sebagian dihubungkan oleh jalan tanah.</p>
+<p style="text-align: justify;">
+	<strong>Sarana Penerangan </strong></p>
+<p style="margin-left: 28.35pt; text-align: justify;">
+	Untuk pelayanan kelistrikan di wilayah kepulauan (Pulau Sawi, Pulau Bawal, Pulau Cempedak) masyarakat telah beberapa kali mendapatkan fasilitas dari pemerintah berupa pembangkit tenaga listrik tenaga surya dengan skala rumah tangga, namun karena minimnya pengalihan teknologinya maka keberadaan fasilitas tersebut menjadi tidak berguna. Sebagian penduduknya yang berkemampuan lebih, dalam pengadaan jaringan listriknya menggunakan tenaga diesel dengan konsekuensi harus selalu menyiapkan bahan bakar. Pulau Cempedak masyarakat telah beberapa kali mendapatkan fasilitas dari pemerintah berupa pembangkit tenaga listrik tenaga surya dengan skala rumah tangga yang berjumlah 106 unit. Listrik swadaya (Genset) berjumlah 10 buah.</p>
+<p style="text-align: justify;">
+	<strong>Sarana Air</strong> <strong>&nbsp;Bersih</strong></p>
+<p style="margin-left: 28.35pt; text-align: justify;">
+	Di wilayah kecamatan Kendawangan, sebagian besar desa dan dusun di wilayah daratan sudah memperoleh layanan PDAM, dan penampungan air hujan. Namun, di dusun-dusun yang berada di pulau-pulau memperoleh kebutuhan air bersih dari penampungan air hujan maupun mata air. Untuk saat ini pemenuhan kebutuhan air bersih diupayakan melalui prasarana/sarana yang dikelola oleh masyarakat sendiri yaitu Penampungan Air Hujan (PAH) dan penggunaan langsung dari air sungai, begitu pun untuk kegiatan MCK-nya masyarakat di wilayah Pulau Bawal masih menggunakan sungai dan semak belukar sebagai sarana pembuangan limbahnya. Hampir sebagian besar penduduk di wilayah pulau menggunakan kebutuhan air dari sungai-sungai kecil yang mengalir dari kaki bukit, dengan cara diambil langsung. Selain itu ada sebagian lagi memanfaatkan air sumur dangkal dan air hujan untuk memenuhi kebutuhan air bersih mereka.</p>
+<p style="margin-left: 28.35pt; text-align: justify;">
+	Di wilayah Pulau Cempedak tidak memiliki &nbsp;layanan PDAM, namun karena ketersediaan sumber air tawar cukup baik sehingga masyarakat tidak kesulitan dalam memenuhi kebutuhan air tawar. Bahkan sumber air tawar di Pulau Cempedak selain menjadi sumber kebutuhan masyarakat penduduk setempat, sumber air ini juga menjadi pasokan untuk nelayan dari luar pulau.</p>
+<p style="text-align: justify;">
+	<strong>Sarana Kesehatan</strong></p>
+<p style="margin-left: 28.35pt; text-align: justify;">
+	Fasilitas kesehatan yang terdapat di Pulau Cempedak berupa puskesmas pembantu (PUSTU), namun kondisinya tidak dikelola.&nbsp; Hal ini karena tenaga medis yang bertugas di fasilitas tersebut hingga saat ini tidak ada.&nbsp; Kondisi ini juga terjadi pada Dusun terdekat yaitu Dusun Pulau Bawal, karena tidak ada petugas medisnya sehingga tidak terawat.&nbsp; Kedua Masyarakat Pulau Cempedak dan Pulau Bawal yang ingin memperoleh layanan kesehatan harus ke Kota Kendawangan.</p>
+<p style="text-align: justify;">
+	<strong>Sarana Pendidikan </strong></p>
+<p style="margin-left: 28.35pt; text-align: justify;">
+	Berdasarkan data statistik terakhir, di Kecamatan Kendawangan terdapat 52 buah sekolah (di berbagai jenjang), 5.702 orang murid sekolah, dan 289 orang guru, dengan rasio murid terhadap guru adalah 20. Kondisi fasilitas pendidikan tersebut beragam, dengan kondisi masih baik, maupun menurun.</p>
+<p style="text-align: justify;">
+	Saat ini warga Dusun Pulau Cempedak yang sekolah yaitu sekolah dasar (SD) berjumlah 50 anak, Sekolah Menengah Pertama (SMP) tidak ada dan yang sekolah Menengah Atas (SMA) sebanyak 3 (tiga) anak terdiri dari 1 (satu) anak kelas 3 dan 2 (dua) anak kelas 1.&nbsp; Anak-anak yang sekolah Menengah Atas menuju ke kota Kecamatan Kendawangan.Sarana pendidikan yang terdapat di Pulau Cempedak yaitu Sekolah Dasar (SD) yang dibangun pada tahun 2005 sebanyak 3 lokal dan pada tahun 2012 ditambah 3 lokal.&nbsp; Kondisi fasilitas pendidikan masih baik.</p>
+<p style="text-align: justify;">
+	<strong>Sarana Peribadatan</strong></p>
+<p style="margin-left: 28.35pt; text-align: justify;">
+	Fasilitas peribadatan yang terdapat di Pulau Cempedak berupa 1 (satu) buah masjid dan 1 (satu) buah surau.&nbsp; Masjid ini dibangun pada tahun 2012 atas bantuan salah satu agen nelayan di kota Keandawangan.&nbsp; Walaupun beragama lain, namun agen tersebut turut berpartisipasi terhadap pembangunan masjid.&nbsp; Hal ini karena seluruh masyarakat Pulau Cempedak beragam islam.</p>
+<p style="text-align: justify;">
+	<strong>Sarana Pendukung Kepemerintahan </strong></p>
+<p style="margin-left: 28.35pt; text-align: justify;">
+	Sarana Pemerintahan Desa Kendangan kanan berada berdekatan dengan kantor Kecamatan Kendawangan, sehingga urusan pemerintahan diselenggarakan di wilayah Kota Kendawangan, sedangkan urusan Kepala Dusun hanya dilakukan dirumahnya.&nbsp; Dalam satu minggu sekali Kepala Dusun Pulau Cempedak melaporkan kondisi Pulau ke Desa.</p>
+<p style="text-align: justify;">
+	<strong>Sarana Pendukung Wisata</strong></p>
+<p style="margin-left: 28.35pt; text-align: justify;">
+	Wisata di Pulau Cempedak belum berkembang, karena itu fasilitas pendukung pariwisata juga belum ada di Pulau Cempedak.&nbsp; Tahapan pengenalan terhadap peluang pariwisata sudah ada seperti wisata memancing disekitar Pulau Cempedak telah dilakukan, baik oleh nelayan yang berasal dari Pulau Cempedak maupun nelayan yang berasal dari Kendawangan.</p>
+<p style="margin-left: 28.35pt; text-align: justify;">
+	Sarana pendukung wisata antara lain berupa tersedianya fasilitas penginapan dan lokasi yang strategis untuk kunjungan.&nbsp; Karena itu, penataan daerah pemancingan dan adanya lokasi alat tangkap ikan tradisional sangat diperlukan untuk mengembangkan wisata bahari Pulau cempedak.</p>
+<p style="text-align: justify;">
+	<strong>Sarana Sanitasi Lingkungan</strong></p>
+<p style="margin-left: 28.35pt; text-align: justify;">
+	Penduduk Pulau Cempedak sudah memiliki kesadaran yang cukup baik dalam menangani sanitasi, namun belum terdapat fasilitas sanitasi umum seperti&nbsp; MCK A yang diperlukan pengunjung ke Pulau Cempedak.</p>
+<p style="text-align: justify;">
+	<strong>Sarana Perikanan dan Kelautan</strong></p>
+<p style="margin-left: 28.35pt; text-align: justify;">
+	Sarana penunjang perikanan yang diperlukan meliputi ketersediaan Tempat Pendaratan Ikan, Pelabuhan Perikanan, Ketersediaan Pabrik Es, ketersediaan toko/kedai penyedia sarana/peralatan pengangkapan dan pengolahan hasil perikanan, ketersediaan galangan kapal penangkap ikan, ketersediaan SPBU Khusus Nelayan dan pangkalan/kios BBM.&nbsp;&nbsp; Diberbagai wilayah penangkapan (<em>fishing ground</em>) dan wilayah pendaratan ikan sebagian bersar prasarana penunjang tersebut tidak tersedia.&nbsp;&nbsp; Kondisi ketersediaan prasarana penunjang perikanan diberbagai daerah di Kecamatan Kendawangan dapat didiskripsikan sebagai berikut:</p>
+<ol>
+	<li style="text-align: justify;">
+		Di Dusun Sungai Tengar Desa Mekar Utama terdapat TPI yang dibangun Dinas Kelautan dan Perikanan Kabupaten Ketapang, namun tidak tersedia pabrik ES, tidak tersedia toko/kedai penyedia sarana/peralatan penangkapan ikan, pasokan listrik tidak kontinyu (sering mengalami pemadaman).&nbsp;&nbsp; Kemudahan aksesibilitas melalui jalur.</li>
+	<li style="text-align: justify;">
+		Desa Kendawangan Kiri, Desa Kendawangan Kanan, Desa Banjar Sari di Kota Kendawangan hampir seluruh sarana penunjang perikanan dapat ditemukan di wilayah ini, adanya TPI, Pabrik Es, toko/kedai penyedia sarana/perlatan penangkapan, perusahaan penampungan hasil perikanan, aksesibilitas mudah melalui jalur darat dan laut, terdapat pelabuhan umum dan rencana pengembangan pelabuhan perikanan.&nbsp;&nbsp; Danya SPBU dan SPBU Nelayan namun belum berfungsi dengan baik.&nbsp; Galangan kapal tersedia di wilayah ini terutama untuk kapal-kapal nelayan dengan bobot kurang dari 10 GT.</li>
+	<li style="text-align: justify;">
+		Di Pulau Cepmpedak dan Pulau Bawal, tidak terseida TPI, Pabrik ES, dan pasokan listrik menggunakan mesin generator.&nbsp; Aksesibilitas menggunakan jalur laut menggunakan angkutan kapal nelayan, tidak tersedia galangan kapal dan pasokan air bersih.</li>
+	<li style="text-align: justify;">
+		Dusun Air Hitam Kecil Desa Pembedilan, Desa Air Hitam Besar dan Desa Nata khuini tidak terdapat Pabrik Es, Pasokan Listrik menggunakan mesin generator.&nbsp; TPI hanya terdapat di Tanjung Lumpur di kawasan tambak udang/bandeng.&nbsp; Tidak terdapat toko/kedai peneyedia sarana/peralatan penangkapan dan pengolahan,&nbsp; tidak tersedia galangan kapal dan pasokan air bersih.</li>
+</ol>
+<p style="margin-left: 28.35pt; text-align: justify;">
+	Hingga saat sarana perikanan dan Kelautan yang terdapat di Pulau Cempedak berupa dermaga yang mencapai panjang &plusmn; 150 m dan dilengkapi dengan kantor TPI, namun karena bongkar hasil tangkapan dilakukan di tempat agen (Kendawangan) menyebabkan sarana tersebut khususnya kantor yang digunakan untuk tempat tinggal masyarakat.</p>
+<p style="text-align: justify;">
+	<strong>Sarana Telekomunikasi</strong></p>
+<p style="margin-left: 28.35pt; text-align: justify;">
+	Pelayanan telekomunikasi yang dilaksanakan oleh PT. Telkom belum mencapai seluruh wilayah Kecamatan Kendawangan, terutama bagi masyarakat yang tinggal di pulau-pulau termasuk Pulau Cempedak. Namun begitu, untuk wilayah Pulau Cempedak penggunaan telpon seluler dapat digunakan.</p>
+<p style="text-align: justify;">
+	&nbsp;</p>
+<p style="margin-left:28.35pt;">
+	&nbsp;</p>
+</div></p>
+
+<hr>
+
+<h2><a id="pi">Peluang Investasi</a></h2>
+<p><div class="readmore"><p style="text-align: justify;">
+	<strong>PELUANG INVESTASI</strong></p>
+<p style="text-align: justify;">
+	<strong>Jenis Kegiatan Investasi yang </strong>&nbsp;<strong>Sudah Berkembang</strong></p>
+<p style="margin-left: 28.35pt; text-align: justify;">
+	Kawasan Pulau Cempedak memiliki potensi pembangunan yang cukup besar karena didukung oleh letaknya yang strategis dari aspek ekonomi, pertahanan dan keamanan serta adanya ekosistem khas tropis dengan produktivitas hayati tinggi yaitu terumbu karang (<em>coral reef</em>), padang lamun (<em>seagrass</em>), dan hutan bakau (<em>mangrove</em>). Ketiga ekosistem tersebut saling berinteraksi baik secara fisik, maupun dalam bentuk bahan organik terlarut, bahan organik partikel, migrasi fauna, dan aktivitas manusia.</p>
+<p style="text-align: justify;">
+	Hingga saat ini kegiatan investasi yang sudah dilakukan pemilik modal hanya memanfaatkan potensi sumberdaya laut khusunya potensi perikanan tangkap dengan merekrut tenaga nelayan dari Pulau Cempedak sebagai tenaga kerja penangkap ikan (nelayan).&nbsp; Mulai dari pembiayaan seperti bahan bakar (minyak), bahan pokok berupa makanan sampai urusan penjualan hasil tangkapan semua diatur oleh pemilik modal atau disebut agen.Hampir semua kepala keluarga (KK) penduduk di Pulau Cempedak berprofesi sebagai nelayan.</p>
+<p style="margin-left: 28.35pt; text-align: justify;">
+	Berdasarkan tabel di atas dari tahun 2007 sampai 2011 terjadi penurunan jumlah nelayan dan armada penengkapan ikan.&nbsp; Kondisi ini disebabkan telah berkembangnya Kecamatan menjadi daerah pertambangan, sehingga masyarakat banyak yang beralih profesi dari nelayan menjadi pekerja tambang seperti tambang pasir kuarsa dan emas.</p>
+<p style="margin-left: 28.35pt; text-align: justify;">
+	Namun pada desa yang sama yaitu Pulau Bawal yang letaknya bersebelahan dengan Pulau Cempedak (lain dusun) telah masuk investor yang berusaha dibidang perkebunan kelapa sawit.&nbsp; Hal ini karena potensi dan luasan Pulau Bawal lebih besar dari Pulau Cempedak.</p>
+<ol>
+	<li style="text-align: justify;" value="10.1">
+		<strong>Kegiatan Promosi yang sudah dilakukan</strong></li>
+</ol>
+<p style="margin-left: 28.35pt; text-align: justify;">
+	Pembangunan pulau-pulau sebagai implementasi amanat Peraturan Pemerintah Nomor 62 tahun 2010 tentang Pemanfaatan Pulau-Pulau Kecil Terluar yaitu pemanfaatan pertahanan dan keamanan, kesejahteraan masyarakat, dan pelestarian lingkungan. Pengembangan pulau-pulau kecil dan terluar tersebut akan dilakukan setiap tahun dengan harapan pada 2014 sudah mencapai 92 pulau. Pengembangan pulau terluar itu selain memberikan peluang untuk ekonomi pariwisata, juga membantu pemerintah dalam menjaga kedaulatan dan pertahanan. Potensi ekonomi pulau kecil dan pulau terluar juga sangat besar. &nbsp;Di antaranya, banyak pulau yang bisa dikembangkan untuk pembangunan resort wisata, hotel, <em>eco-tourism</em> dan lokasi menyelam, sesuai dengan konsep minawisata, investasi di pulau kecil tidak boleh merusak ekosistem pulau yang sudah ada.</p>
+<p style="margin-left: 28.35pt; text-align: justify;">
+	Kementerian&nbsp; Kelautan dan Perikanan telah memfasilitasi investasi untuk pulau kecil tersebut. Terutama membantu promosi pulau tersebut kepada para investor. Selain itu ada beberapa kebijakan Kementerian&nbsp; Kelautan dan Perikanan untuk mendukungnya. Di antaranya, kebijakan dan strategi untuk pengoptimalan pengembangan kawasan pesisir dan pulau-pulau kecil, peningkatan upaya untuk mempertahankan dan memperbaiki ekosistem pesisir. Termasuk pencanangan strategi untuk meningkatkan nilai tambah ekonomi dengan mengandalkan sektor pariwisata serta menghindari kerusakan lingkungan &ldquo;Dengan kebijakan Kementerian&nbsp; Kelautan dan Perikanan tersebut, diharapkan investasi di pulau kecil tersebut akan terealisasi dengan baik, terutama pengembangan konsep minawisata.</p>
+<p style="margin-left: 28.35pt; text-align: justify;">
+	Terkait kebijakan konsep Minawisata, sudah ada beberapa investor yang serius mengembangkan pulau yang ditawarkan pemerintah. Di antaranya, beberapa investor tertarik untuk investasi di pulau-pulau yang berada di lokasi Kepulauan Riau, Kepulauan Raja Ampat dan Nusa Tenggara Barat. Para investor yang tertarik dengan program pemberdayakan pulau kecil berasal dari Singapura, Maladewa, dan Timur Tengah. &ldquo;Rencana investasi masih dalam kajian dan perencanaan bisnis. Investor juga sangat minat untuk menggarap pulau Anambas di Kepulauan Riau, pulau Raja Ampat Papua dan pulau tiga Gili di Nusa Tenggara Barat.</p>
+<p style="margin-left: 28.35pt; text-align: justify;">
+	Salah satu program Kementerian Kelautan dan Perikanan untuk mempromosikan pulau-pulau kecil di antaranya adalah kegiatan Sail. Seperti penyelenggaraan Sail Komodo 2013 merupakan yang ke-5 kalinya sejak tahun 2009. Event internasional ini dimulai dengan penyelenggaraan Sail Bunaken tahun 2009, Sail Banda 2010, Sail Wakatobi - Belitong 2011 dan Sail Morotai 2012. Penyelenggaraan event internasional Sail, dilakukan pemerintah dalam rangka pelaksanaan pembangunan serta kesejahteraan rakyat secara berkelanjutan. Kegiatan Sail juga menjadi model percepatan pembangunan daerah kepulauan dan daerah terpencil. &ldquo;Kegiatan Sail, termasuk Sail Komodo 2013 merupakan event internasional yang bertujuan untuk meningkatkan perekonomian daerah terutama melalui sektor pariwisata bahari. Event ini menjadi momentum untuk memajukan wisata bahari di pulau pulau kecil menjadi destinasi utama wisata dunia.</p>
+<p style="margin-left: 28.35pt; text-align: justify;">
+	Seperti pulau-pulau kecil lainnya Pulau Cempedak sebagai salah satu pulau wilayah konservasi terumbu karang mempunyai peluang sebagai pulau wisata bahari.&nbsp; Karena itu perlu adanya upaya yang serius baik dari Pemerintah Daerah maupun masyarakat untuk mempromosikan Pulau Cempedak sebagai pulau wisata bahari.</p>
+<p style="text-align: justify;">
+	<strong>Peraturan tentang Investasi</strong></p>
+<p style="margin-left: 28.35pt; text-align: justify;">
+	Pembangunan Sub Sektor Kelautan dan Perikanan, termasuk didalamnya Pembangunan Perikanan Tangkap, merupakan bagian integral dari pembangunan nasional yang diarahkan paada : (1) Peningkatan kesejahteraan masyarakat nelayan, pembudidayaan ikan dan masyarakat pesisir lainnya, (2) peningkatan peran sektor perikanan dan kelautan sebagai sumber pertumbuhan ekonomi, (3) peningkatan kecerdasan dan kesehatan bangsa melalui peningkatan konsumsi ikan, (4) Pemeliharaan dan peningkatan daya dukung serta kualitas lingkungan perairan tawar, pesisir, pulau-pulau kecil dan lautan, dan (5) Peningkatan peran laut sebagai pemersatu bangsa dan peningkatan budaya bahari bangsa Indonesia.</p>
+<p style="margin-left: 28.35pt; text-align: justify;">
+	Pembangunan Perikanan Tangkap, sebagaimana tertuang dalam UU No. 9 Tahun 1985, pada hakekatnya ditunjukan untuk meningkatkan kesejahteraan masyarakat, khususnya nelayan, dan sekaligus untuk menjaga kelestarian sumberdaya ikan serta lingkungannya. Tujuan tersebut dewasa ini diperluas cakupannya, sehingga tidak hanya untuk meningkatkan kesejahteraan masyarakat dan menjaga kelestarian sumberdaya ikan, tetapi juga untuk meningkatkan kontribusi Sub Sektor Perikanan Tangkap terhadap pembangunan perekonomian nasional, utamanya guna membantu mengatasi krisis ekonomi yang sedang melanda negara kita, baik dalam bentuk penyediaan lapangan kerja, penerima devisa melalui ekspor, maupun Penerimaan Negara Bukan Pajak (PNPB).</p>
+<p style="margin-left: 28.35pt; text-align: justify;">
+	Untuk mencapai tujuan tersebut, upaya yang ditempuh adalah dengan menerapkan Manajemen Perikanan Tangkap secara terpadu dan terarah, agar pemanfaatan sumberdaya ikan dapat dilakukan secara berkelanjutan dari generasi ke generasi. Hal ini karena sumberdaya ikan dapat mengalami degradai bahkan pemusnahan apabila dieksploitasi secara tidak terkendali, meskipun sumberdaya ikan merupakan sumberdaya yang dapat diperbaharukan (<em>renewable resources). </em>Disamping itu, penerapan manajemen perikanan yang baik, juga merupakan wujud dari implementasi komitmen Pemerintah Indonesia terhadap issu mengenai pengelolaan perikanan yang bertanggungjawab sebagaimana tertuang dalam <em>FAO-Code of Conduct for Responsible Fisheries, </em>yang dewasa ini dipergunakan sebagai pedoman global.</p>
+<p style="margin-left: 28.35pt; text-align: justify;">
+	Dalam kaitan dengan hal di atas, Direktorat Jendral Perikanan Tangkap telah menetapkan kebijakan, sasran, strategi dan program kerja yang dari tahun ke tahaun selalu dievaluasi efektifitasnya, untuk selanjutnya disempurnakan sesuai perubahan lingkungan strategik.</p>
+<p style="margin-left: 28.35pt; text-align: justify;">
+	Pelaksanaan pembangunan perikanan tangkap didasarkan pada sistem ekonomi kerakyatan yang mengarah pada mekanisme pasar dan persaingan sehat Pembangunan ini didukung oleh pengembangan industri berbasis keunggulan sumber daya alam dan sumber daya manusia dalam mencapai daya saing yang tinggi.</p>
+<p style="margin-left: 28.35pt; text-align: justify;">
+	Dengan memperhatikan perubahan lingkungan strategis serta kendala dan peluang yang ada, pembangunan perikanan tangkap diarahkan untuk mewujudkan visi pembangunan perikanan tangkap, yaitu Usaha Perikanan Tangkap yang Mampu Meningkatkan Kesejahteraan masyaarakat, Mempunyai Daya Saing, Memanfaatkan Sumber daya Secara Efisien dan Berkelanjutan.</p>
+<p style="margin-left: 28.35pt; text-align: justify;">
+	Untuk mewujudkan visi tersebut, maka Misi yang diemban adalah :</p>
+<ol>
+	<li style="text-align: justify;">
+		Mengendalikan pemanfaatan sumberdaya ikan;</li>
+	<li style="text-align: justify;">
+		Meningkatkan pendapatan dan kesejahteraaan nelayan;</li>
+	<li style="text-align: justify;">
+		Meningkatkan nilai tambah hasil perikanan;</li>
+	<li style="text-align: justify;">
+		Menyediakan bahan pangan sumber protein hewani dan bahan baku industri serta ekspor;</li>
+	<li style="text-align: justify;">
+		Menciptakan iklim usaha yang kondusif bagi pengembangan perikanan tangkap;</li>
+	<li style="text-align: justify;">
+		Menciptakan lapangan kerja dan kesempatan berusaha yang produktif;</li>
+</ol>
+<p style="margin-left: 28.35pt; text-align: justify;">
+	Sejalan dengan Visi dan Misi tersebut diatas maka sasaran pembangunan perikanan adalah :</p>
+<ol>
+	<li style="text-align: justify;">
+		Meningkatkan produksi perikanan tangkap.</li>
+	<li style="text-align: justify;">
+		Peningkatan ekspor hasil perikanan.</li>
+	<li style="text-align: justify;">
+		Meningkatkan konsumsi ikan dalam negeri.</li>
+	<li style="text-align: justify;">
+		Meningkatkan penyerapan tenaga kerja (nelayan).</li>
+	<li style="text-align: justify;">
+		Peningkatan kontribusi ekonomi nasional melalui Penerimaan Negara Bukan Pajak (PNBP).</li>
+</ol>
+<p style="margin-left: 28.35pt; text-align: justify;">
+	Kebijakan yang akan diterapkan dalam rangka pembangunan perikanan lima tahun kedepan adalah &ldquo;peningkatan kesejahteraan masyarakat nelayan melalui optimalisas pemanfaatan sumberdaya ikan, serta peningkatan nilai tambah hasil perikanan&rdquo;.</p>
+<p style="margin-left: 28.35pt; text-align: justify;">
+	Stategi yang ditempuh antara lain :</p>
+<ol>
+	<li style="text-align: justify;">
+		Peningkatan produktivitas dan efisensi usaha penangkapan;</li>
+	<li style="text-align: justify;">
+		Peningkatan mutu dan nilai tambah hasil perikanan tangkap;</li>
+	<li style="text-align: justify;">
+		Pengembangan sarana dan prasarana perikanan tangkap;</li>
+	<li style="text-align: justify;">
+		Peningkatan pelayanan dan pengendalian perizinan usaha penangkapan;</li>
+	<li style="text-align: justify;">
+		Penyempurnaan peraturan perundang-undangan;</li>
+	<li style="text-align: justify;">
+		Penyempurnaan sistem statistik perikanan tangkap;</li>
+	<li style="text-align: justify;">
+		Peningkatan peran Indonesia dalam organisasi/kelembagaan internasional;</li>
+</ol>
+<p style="margin-left: 28.35pt; text-align: justify;">
+	Secara operasional, pencapaian tujuan dan sasaran pembangunan perikanan tangkap diimplementasikan melalui pelaksanaan berbagai <strong>Program Pembangunan Perikanan Tangkap</strong> sebagai berikut :</p>
+<ol>
+	<li style="text-align: justify;">
+		Program Unggulan Pengembangan Usaha Perikanan Tangkap Skala Kecil;</li>
+	<li style="text-align: justify;">
+		Program Unggulan Peningkatan Mutu dan Nilai Tambah Hasil Perikanan;</li>
+	<li style="text-align: justify;">
+		Program Peningkatan Tata Pemanfaataan Sumberdaya Ikan;</li>
+	<li style="text-align: justify;">
+		Program Pengembangan Prasarana Perikanan Tangkap;</li>
+	<li style="text-align: justify;">
+		Program Pengembangan Sarana Perikanan Tangkap;</li>
+	<li style="text-align: justify;">
+		Program Peningkatan Pelayanan dan Pengendalian Perizinan Usaha Penangkapan;</li>
+	<li style="text-align: justify;">
+		Program Peningkatan Peran Indonesia dalam Organisasi/Lembaga Internasional.</li>
+</ol>
+<p style="margin-left: 28.35pt; text-align: justify;">
+	Kebijakan dan program pembangunan Perikanan Tangkap tersebut nyata disusun berdasarkan isu atau permasalahan terkini yang dihadapi serta dengan mempertimbangkan pengaruh lingkungan internal dan eksternal yang selalu berubah. Oleh karena itu nuansa kebijakan pembangunan pada masa lalu berbeda dengan kebijakan saat ini. Kebijakan pembangunan perikanan tangkap saat ini bertitik berat kepada <strong>optimalisasi bahkan pengendalian pemanfaatan</strong> sumberdaya ikan serta <strong>peningkatan mutu dan nilai tambah</strong> hasil perikanan dalam rangka meningkatkan kesejahteraaan masyarakat nelayan. Perumusan kebijakan tersebut antara lain untuk menjawab beberapa isu/permasalahan terkini seperti <em>overfishing, </em>dan lain-lain serta dengan memperhatikan perubahan lingkungan strategis seperti globalisasi dan otonomi daerah. Orientasi kebijakan tersebut memberikan arah bagi penyusunan program dan kegiatan yang dilakukan agar lebih terarah dimana Program Pengembangan Usaha Perikanan Tangkap Skala Kecil dan Program Peningkatan Mutu dan Nilai Tambah Hasil Perikanan ditempatkan sebagai Program Unggulan, disamping program-program utama dan program penunjang lainnya.</p>
+<p style="margin-left: 28.35pt; text-align: justify;">
+	Selain sembilan program yang telah disebutkan di atas, juga dilakukan program-program terpadu antara lai : (1) Relokasi Usaha Nelayan Skala Kecil yang bertujuan untuk menyebarkan kesejahteraan nelayan skala kecil dan mengoptimalkan pemanfaatan sumberdaya ikan di Wilayah Pengelolaan Perikanan; (2) Revitalisasi Pelabuhan Perikanan sebagai &ldquo;DKP Mini&rdquo; untuk mengoptimalkan fungsi Pelabuhan Perikanan bagi pelayanan masyarakat; (3) Restrukturisasi dan Moderendisasi Industri Perikanan Tangkap sesuai potensi lestari; (4) dukungan Permodalan melalui Skim Kredit Khusus; (5) Pembangunan <em>Solar Packed Dealer Nelaayan </em>(SPDN); dan sebagainya.</p>
+<ol>
+	<li style="text-align: justify;" value="10.3">
+		<strong>Profil investor yang sudah menanamkan modalnya di lokasi pulau </strong></li>
+</ol>
+<p style="margin-left: 28.35pt; text-align: justify;">
+	Hingga saat ini belum ada investor yang menanamkan modalnya di Pulau Cempedak.&nbsp; Hal ini kemungkinan disebabkan belum ada investor yang tertarik berinvestasi pada bidang pariwisata.&nbsp; Selain itu belum adanya peraturan daerah yang mengatur investasi dibidang pariwisata di Pulau Cempedak.</p>
+<p style="margin-left: 28.35pt; text-align: justify;">
+	Oleh karena itu, promosi yang terprogram dengan baik dari semua pihak sangat diharapkan untuk memanfaatkan peluang perkembangan pulau-pulau kecil termasuk Pulau Cempedak sangat diharapkan dimasa mendatang.&nbsp; Agar potensi yang terdapat di Pulau Cempedak dapat terekspos ke luar, sehingga masyarakat di luar Pulau Cempedak dapat menikmati potensi yang dimilikinya. Harapannya tingkat kesejahteraan masyarakat di Pulau Cempedak dapat meningkat seiring dengan pengembangan Pulau Cempedak menjadi salah satu daerah tujuan/kunjungan wisata bahari.</p>
+<p style="text-align: justify;">
+	<strong>Kendala </strong><strong>U</strong><strong>mum yang dihadapi dalam </strong><strong>M</strong><strong>ewujudkan </strong><strong>K</strong><strong>egiatan </strong><strong>I</strong><strong>nvestasi</strong></p>
+<p style="margin-left: 28.35pt; text-align: justify;">
+	Sejak bergulirnya pelaksanaan Otonomi Daerah, Pemerintah Daerah telah dihadapkan pada berbagai permasalahan di bidang pengelolaan Pulau-Pulau Kecil. Permasalahan tersebut secara umum disebabkan karena keterbatasan kemampuan sumberdaya aparatur yang dimiliki oleh daerah, yang secara nyata kemudian berkontribusi terhadap munculnya beragam permasalahan di bidang Kelautan. Sebagai contoh, akibat kurang pahamnya aparatur di daerah terhadap landasan kebijakan dan prosedur yang telah ditetapkan Pemerintah Pusat di bidang pengelolaan Pulau-Pulau Kecil, sempat muncul berbagai kebijakan daerah yang ternyata kemudian harus direvisi kembali. Kekeliruan ini menjadi kontraproduktif bagi usaha memajukan pengembangan pulau-pulau kecil di daerah.</p>
+<p style="margin-left: 28.35pt; text-align: justify;">
+	Penetapan kebijakan yang keliru disebabkan karena Pemerintah Daerah belum berpengalaman dalam mengelola Pulau-Pulau Kecil. Selain itu juga karena minimnya penguasaan teknis di bidang Kelautan, baik pada tahapan penyelidikan awal, eksplorasi dan eksploitasi maupun hingga pada kegiatan hilirnya. Demikian halnya menyangkut aturan tentang permodalan dan investasi yang juga harus dipahami oleh daerah. Kesemua hal tersebut bermuara menjadi kendala dalam pemanfaatan potensi Pulau-Pulau Kecil secara efektif dan berdaya guna bagi daerah Kabupaten Ketapang.</p>
+<p style="text-align: justify;">
+	<strong>Langkah-langkah yang telah diambil dalam </strong><strong>M</strong><strong>enghadapi </strong><strong>P</strong><strong>ermasalahan</strong></p>
+<p style="margin-left: 28.35pt; text-align: justify;">
+	Secara umum, Pemerintah tidak akan melarang investor asing yang akan mengembangkan perekonomian di pulau-pulau kecil di wilayah Indonesia khususnya Pulau Cempedak di Kabupaten Ketapang, yang penting tetap memperhatikan kesejahteraan masyarakat sekitar.</p>
+<p style="margin-left: 28.35pt; text-align: justify;">
+	Banyaknya isu-isu mengenai penjualan pulau-pulau kecil ke orang asing karena mereka hanya melakukan investasi untuk mengembangkan kawasan tersebut dan memanfaatkan hak guna usaha bukan hak milik terhadap pulau tersebut. Dan selama aturannya jelas dan bertujuan untuk kesejahteraan masyarakat maka investasi asing di pulau-pulau kecil tersebut termasuk di Pulau Cempedak diperbolehkan, karena investasi di pulau kecil (Pulau Cempedak) dapat menyerap lapangan kerja dan mengurangi pengangguran masyarakat pesisir sekitar Pulau Cempedak. Sementara itu investor yang menanamkan modal di pulau-pulau kecil tidak dibolehkan menutup akses warga sekitar terhadap wilayah perairan maupun daratan pulau tersebut.</p>
+<p style="margin-left: 28.35pt; text-align: justify;">
+	Secara ilmu manajemen, bahwa langkah-langkah dalam pengambilan keputusan &nbsp;diantaranya :</p>
+<ol>
+	<li style="text-align: justify;">
+		Rumuskan Persoalan Keputusan</li>
+</ol>
+<p style="margin-left: 49.65pt; text-align: justify;">
+	Persoalan (problem) adalah sesuatu yang terjadi tidak sesuai dengan yang diinginkan/ diharapkan. Kita harus berusaha mencari pemecahan yang baik bagi suatu persoalan yang tepat (benar) sebab pemecahan yang terbaik bagi persoalan yang salah tak ada gunanya. Maka dari itu, dalam membuat keputusan untuk memecahkan persoalan harus bisa menemukan persoalan apa yang perlu dipecahkan/ diselesaikan.</p>
+<ol>
+	<li style="text-align: justify;" value="2">
+		Kumpulkan Informasi Yang Relevan</li>
+</ol>
+<p style="margin-left: 49.65pt; text-align: justify;">
+	Memecahkan persoalan berarti suatu keputusan atau tindakan untuk menghilangkan faktor-faktor yang menyebabkan timbulnya persoalan tersebut. Perlu dikumpulkan data atau informasi yang relevan artinya faktor-faktor yang mungkin terjadi penyebab timbulnya persoalan tersebut.</p>
+<ol>
+	<li style="text-align: justify;" value="3">
+		Cari Alternatif Tindakan</li>
+</ol>
+<p style="margin-left: 49.65pt; text-align: justify;">
+	Memutuskan berati memilih salah satu dari beberapa alternatif tindakan yang tersedia berdasarkan kriteria tertentu. Singkatnya, buatlah alternatif tindakan yang fisibel sebanyak mungkin.</p>
+<ol>
+	<li style="text-align: justify;" value="4">
+		Analisis Alternatif yang Fisibel</li>
+</ol>
+<p style="margin-left: 49.65pt; text-align: justify;">
+	Setiap alternatif harus dianalisis, harus dievaluasi baik berdasarkan suatu kriteria tertentu atau prioritas. Hasil analis memudahkan pengambil keputusan di dalam memilih alternatif yang baik.</p>
+<ol>
+	<li style="text-align: justify;" value="5">
+		Memilih Alternatif Terbaik</li>
+</ol>
+<p style="margin-left: 49.65pt; text-align: justify;">
+	Di dalam pengambilan keputusan, pengambil keputusan harus memilih salah satu alternatif di antara banyak alternatif. Pemilihan dapat dilakukan berdasarkan pada kriteria tertentu, kompromi, atau tekanan. Memang harus diakui ada hasil keputusan yang memuaskan semua pihak tetapi ada juga yang merugikan pihak lain.</p>
+<ol>
+	<li style="text-align: justify;" value="6">
+		Laksanakan Keputusan dan Evaluasi Hasilnya</li>
+</ol>
+<p style="margin-left: 49.65pt; text-align: justify;">
+	Pengambilan keputusan berarti mengambil tindakan tertentu (taking certain action). Pelaksanaan suatu rencana tindakan, merupakan tahap akhir dari proses pengambilan keputusan. Perlu dilakukan evaluasi terhadap pelaksanaan keputusan yang telah diambil. Evaluasi sangat berguna untuk memperbaiki suatu keputusan untuk mengubah tujuan semula karena terjadi perubahan.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="pap">Potensi dan Arahan Pengembangan</a></h2>
+<p><div class="readmore"><p style="text-align: justify;">
+	<strong>Potensi dan Arahan Pengembangan</strong></p>
+<p style="text-align: justify;">
+	<strong>Potensi Pengembangan Pulau</strong></p>
+<p style="margin-left: 28.35pt; text-align: justify;">
+	Pulau-pulau kecil di Kabupaten Ketapang, secara geografis memiliki fungsi akses yang penting dengan wilayah lainnya, terutama dalam bentang ruang perairan laut Selat Karimata.&nbsp; Di samping itu, juga memiliki kandungan sumberdaya alam yang besar, karena terkategori Pulau Benua yang karakter lahannya memiliki kesamaan dengan daratan utamanya yaitu daratan Kabupaten Ketapang.</p>
+<p style="margin-left: 28.35pt; text-align: justify;">
+	Namun secara morfologis pulau-pulau ini sebagian besar berupa karang cadas, sehingga tidak memiliki sumberdaya perairan tawar dan sulit berkembangnya berbagai flora endimik.&nbsp; Kekuatan potensial kawasan pulau-pulau kecil di Kabupaten Ketapang ini adalah kesuburan lahan perairannya yang merupakan stimulasi dari pengaruh Laut Cina Selatan dan Laut Jawa.&nbsp; Oleh karena itu, merupakan tantangan yang khas dalam perencanaan pengembangannya agar keberadaannya mampu memberikan nilai tambah bagi masyarakat di wilayahnya.&nbsp; Terkait dengan realitas tersebut, maka diperlukan berbagai rencana yang kompatibel, diantaranya meliputi uraian berikut.</p>
+<p style="text-align: justify;">
+	<strong>Potensi Pemanfaatan</strong></p>
+<p style="margin-left: 28.35pt; text-align: justify;">
+	Rencana pemanfaatan ruang perairan dan ruang daratan Pulau Cempedak berdasarkan identifikasi terhadap variabel kesuburan perairan laut, aspek hidrooseanografi dan keberadaan ekosistem sumberdaya hayati yang merupakan habitat sumberdaya ikan yang menjadi prioritas kajian, disajikan pada berbagai narasi berikut.</p>
+<p style="margin-left: 28.35pt; text-align: justify;">
+	Rencana dimaksud dilakukan sebagai program pengembangan kedepan, bagi sub-sektor perikanan dan kelautan untuk memanfaatkan secara terencana dan sistematis ruang pesisir, laut dan Pulau Cempedak di Kecamatan Kendawangan Kabupaten Ketapang.&nbsp;</p>
+<p style="margin-left: 28.35pt; text-align: justify;">
+	Pada muaranya kegiatan aksi yang akan dilakukan sebagai implementasi dari pekerjaan ini dapat memberikan manfaat yang optimal kepada masyarakat.&nbsp; Manfaat tersebut tidak hanya diprioritaskan untuk aspek ekonomi perikanan, tetapi juga disinergiskan dengan manfaat ekologis lingkungan.&nbsp; Karena, tanpa perhatian terhadap system ekologis lingkungan, maka keuntungan aspek social ekonomi hanya akan bersifat sesaat atau tidak berkelanjutan.&nbsp; Di samping itu, hanya untuk kepentingan generasi sekarang, namun mengabaikan kepentingan generasi yang akan datang.&nbsp; Oleh karena itu, prinsip ekonomi hijau (<em>green economic</em>) juga menjadi bagian tak terpisahkan dalam rekomendasi yang diusulkan dari pekerjaan ini.</p>
+<p style="text-align: justify;">
+	Pulau-pulau kecil di Kabupaten Ketapang terdapat di 3 (tiga) wilayah administrasi kecamatan.&nbsp; Ketiga alokasi ruang wilayah tersebut diidentifikasi menjadi 2 (dua) kawasan pengembangan kawasan untuk kegiatan subsektor perikanan dan kelautan, yaitu : kawasan I (satu) adalah Kecamatan Matan Hilir Utara; dan kawasan II (dua) adalah Kecamatan Matan Hilir Selatan dan Kecamatan Kendawangan.Pada setiap kawasan, terdapat arahan peruntukan ruang bagi rencana Pemanfaatan Umum, Konservasi, Penggunaan Khusus dan Peruntukan Koridor.&nbsp;</p>
+<ol>
+	<li style="text-align: justify;" value="11.1">
+		<strong>Arahan Pengembangan Pulau dari Hasil Analisis (Metode SWOT) </strong></li>
+</ol>
+<p style="margin-left: 28.35pt; text-align: justify;">
+	Arahan pengembangan pulau, berdasarkan dari hasil analisis lingkungan eksternal pulau Cempedak Kecamatan Kendawangan Kabupaten Ketapang yang dilakukan untuk mengidentifikasi peluang yang tersedia dan ancaman yang mungkin muncul dalam mewujudkan visi, misi, tujuan, dan sasaran Pengelolaan Wilayah Pesisir Kabupaten Ketapang dalam lima tahun mendatang (2011-2015).</p>
+<ol style="list-style-type:lower-alpha;">
+	<li style="text-align: justify;">
+		<strong>Analis</strong><strong>is</strong><strong> Peluang </strong><strong>Pengembangan Pulau</strong></li>
+</ol>
+<ol>
+	<li style="text-align: justify;">
+		Tersedianya dana-dana tugas pembantuan, desentralisasi serta dana dekonsentrasi dalam bentuk program-program pengembangan pulau yang dipadukan dengan pendapatan asli daerah dapat menjadi modal dalam mempercepat Pengelolaan Wilayah Pesisir Kabupaten Ketapang.</li>
+	<li style="text-align: justify;">
+		Besarnya minat investor dalam dan luar negeri dengan menyediakan dana, ketrampilan, dan teknologi yang dimiliki untuk mengolah sumberdaya alam dan pengembangan pulau.</li>
+	<li style="text-align: justify;">
+		Perluasan pasar regional dan internasional untuk meningkatkan kegiatan investasi, produksi, dan perdagangan&nbsp; terutama komoditi unggulan di sekitar pulau.</li>
+	<li style="text-align: justify;">
+		Perluasan jaringan dan kerjasama antar wilayah di berbagai bidang pengembangan pulau&nbsp; berbasis teknologi informasi akan dapat menciptakan peluang bagi perluasan lapangan kerja dan pengembangan ekonomi lokal wilayah kepulauan.</li>
+	<li style="text-align: justify;">
+		Adanya Undang-Undang dan Peraturan Pemerintah yang mengatur pembangunan pulau di suatu wilayah.</li>
+</ol>
+<ol style="list-style-type:lower-alpha;">
+	<li style="text-align: justify;" value="2">
+		<strong>Analis</strong><strong>is</strong><strong> Ancaman </strong><strong>Pengembangan Pulau</strong></li>
+</ol>
+<ol>
+	<li style="text-align: justify;">
+		Pengaruh cuaca dan kondisi lingkungan yang ekstrim akibat gelombang pasang dan angin kencang</li>
+	<li style="text-align: justify;">
+		Lemahnya pengawasan terhadap aktivitas yang berlangsung di pulau.</li>
+	<li style="text-align: justify;">
+		Para investor yang kurang memberdayakan masyarakat lokal dan tidak sesuai dengan rencana investasi menyebabkan terjadinya konflik dengan masyarakat dan kerusakan lingkungan pulau.</li>
+</ol>
+<p style="margin-left: 49.65pt; text-align: justify;">
+	Selanjutnya arahan pengembangan pulau, berdasarkan dari hasil analisis lingkungan internal pulau Cempedak Kecamatan Kendawangan Kabupaten Ketapang untuk mengidentifikasi berbagai kekuatan yang tersedia seperti posisi geografis, sumber daya alam, sumber daya manusia, prasarana dan sarana, serta berbagai kelemahan yang dapat menghambat upaya mewujudkanmewujudkan visi, misi, tujuan, dan sasaran Pengelolaan Wilayah Pesisir Kabupaten Ketapang dalam lima tahun mendatang (2011-2015).</p>
+<ol style="list-style-type:lower-alpha;">
+	<li style="text-align: justify;" value="3">
+		<strong>Analisa Kekuatan </strong><strong>Pengembangan Pulau</strong></li>
+</ol>
+<ol>
+	<li style="text-align: justify;">
+		Potensi pengembangan pulau sangat besar yang berbasis kepada sumber daya alam.</li>
+	<li style="text-align: justify;">
+		Posisi kepulauan Kabupaten Ketapang strategis karena berbatasan dengan wilayah laut Jawa dan terdapat jalur laut perdagangan internasional melalui Laut Cina Selatan.</li>
+	<li style="text-align: justify;">
+		Penduduk yang memiliki karakteristik dan dapat menerima perubahan dan mudah berinteraksi dengan pihak luar.</li>
+	<li style="text-align: justify;">
+		Kondisi kehidupan politik dan keamanan yang stabil sebagai jaminan keberlangsungan demokratisasi di bidang politik, sosial, dan ekonomi, serta desentralisasi dalam pemerintahan dan pembangunan pengembangan pulau.</li>
+	<li style="text-align: justify;">
+		Kelembagaan daerah yang sudah memadai</li>
+	<li style="text-align: justify;">
+		Sebagai tempat perkembangbiakan ikan-ikan laut disekitar pulau</li>
+	<li style="text-align: justify;">
+		Sebagai tempat olahraga bahari (memancing) di wilayah Pulau</li>
+	<li style="text-align: justify;">
+		Beberapa&nbsp; pulau sudah dikelola oleh masyarakat sekitar, dalam kegiatan pertanian dan perkebunan. Sehingga sudah dipastikan akan mendapatkan hasil yang sangat bermanfaat</li>
+	<li style="text-align: justify;">
+		Sudah dipastikan akan dijadikan tempat pariwisata bahari oleh pemerintah Kabupaten Ketapang</li>
+</ol>
+<ol style="list-style-type:lower-alpha;">
+	<li style="text-align: justify;" value="4">
+		<strong>Analis</strong><strong>is</strong><strong> Kelemahan </strong><strong>Pengembangan Pulau</strong></li>
+</ol>
+<ol>
+	<li style="text-align: justify;">
+		Pengelolaan sumber daya alam belum memberikan dampak yang signifikan baik bagi kemajuan daerah maupun tingkat kesejahteraan penduduk pesisir sekitar pulau.</li>
+	<li style="text-align: justify;">
+		Pembangunan yang dilakukan secara kurang bijak terutama pembangunan yang mengeksploitasi sumberdaya alam tanpa memperhatikan fungsi daya dukung dan daya tampung&nbsp; lingkungan telah mengakibatkan kerusakan lingkungan hidup yang cukup serius pada beberapa kawasan pesisir, contohnya rusaknya terumbu karang di wilayah Pulau Cempedak akibat penggunaan bom dimasa lalu untuk penangkapan ikan.</li>
+	<li style="text-align: justify;">
+		Kondisi masyarakat sekitar pulau yang kurang memiliki keterampilan dalam mengembangkan usaha dan kurang memiliki semangat wirausaha serta rendahnya partisipasi dalam ekonomi pasar sehingga kalah dalam bersaing.</li>
+	<li style="text-align: justify;">
+		Terbatasnya kemampuan keuangan daerah dalam pengembangan pulau karena belum optimalnya penggalian sumber-sumber PAD.</li>
+</ol>
+<ol>
+	<li style="text-align: justify;" value="11.2">
+		<strong>Arahan Pengembangan Pulau oleh Masyarakat</strong></li>
+</ol>
+<p style="margin-left: 28.35pt; text-align: justify;">
+	Berdasarkan hasil survey di lokasi kajian dan hasil wawancara, secara nyata terlihat bahwa arahan pengembangan pulau oleh masyarakat dilakukan melalui kegiatan diantaranya :</p>
+<ol>
+	<li style="text-align: justify;">
+		Telah berlangsungnya kegiatan perkebunan dan pertanian oleh berapa kelompok masyarakat di pulau Cempedak.</li>
+</ol>
+<p style="margin-left: 49.65pt; text-align: justify;">
+	Kegiatan ini dilakukan untuk memanfaatkan potensi lahan &ldquo;tidur&rdquo; yang nantinya tentu akan mendapatkan hasil yang signifikan bagi peningkatan kesejahteraan masyarakat pesisir sekitar pulau Cempedak</p>
+<ol>
+	<li style="text-align: justify;" value="2">
+		Pulau Cempedak dapat dijadikan sebagai tempat wisata bahari</li>
+</ol>
+<p style="margin-left: 49.65pt; text-align: justify;">
+	Keinginan masyarakat pesisir pulau Cempedak untuk menjadikan pulau Cempedak sebagai tempat wisata bahari secara resmi, ini sangat didukung dengan kondisi wilayah yang hinterland (dekat dengan Kota Kecamatan Kendawangan) dan sangat dekat dengan lokasi memancing.. Jarak tempuh dari Kota Kecamatan untuk menuju pulau Cempedak dan lokasi memancing hanya 1 jam perjalanan.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="kp">Kendala Pengembangan</a></h2>
+<p><div class="readmore"><p style="text-align: justify;">
+	<strong>Kendala Pengembangan</strong></p>
+<p style="text-align: justify;">
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Disamping memiliki potensi yang besar, pulau-pulau kecil memiliki kendala dan permasalahan yang cukup kompleks yaitu :</p>
+<ol>
+	<li style="text-align: justify;">
+		<strong>Belum Jelasnya Definisi Operasional Pulau-pulau Kecil</strong></li>
+</ol>
+<p style="margin-left: 28.35pt; text-align: justify;">
+	Definisi pulau-pulau kecil di Indonesia saat ini masih mengacu pada definisi internasional yang pendekatannya pada negara benua, sehingga apabila diterapkan di Indonesia yang notabene merupakan negara kepulauan menjadi tidak operasional karena pulau-pulau di Indonesia luasannya sangat kecil bila dibandingkan dengan pulau-pulau yang berada di negara benua. Hal ini menjadi permasalahan tersendiri bagi pembangunan pulau-pulau kecil di Indonesia. Apabila mengikuti definisi yang ada, maka pilihan kegiatan-kegiatan yang boleh dilakukan di kawasan pulau-pulau kecil sangat terbatas, yang tentu saja akan mengakibatkan pengelolaan pulau-pulau kecil di Indonesia menjadi lambat.</p>
+<ol>
+	<li style="text-align: justify;" value="2">
+		<strong>Kurangnya Data dan Informasi tentang Pulau-pulau Kecil </strong></li>
+</ol>
+<p style="margin-left: 28.35pt; text-align: justify;">
+	Data dan Informasi tentang pulau-pulau kecil di Indonesia masih sangat terbatas. Sebagai contoh, pulau-pulau kecil di Indonesia masih banyak yang belum bernama, hal ini menjadi masalah tersendiri dalam kegiatan identifikasi dan inventarisasi pulau-pulau kecil.&nbsp; Lebih jauh lagi akan menghambat pada proses perencanaan dan pembangunan pulau-pulau kecil di Indonesia. Permasalahan lain dalam pembangunan kelautan dan perikanan di&nbsp; Indonesia adalah belum jelasnya jumlah pulau dan panjang garis pantai, yang sangat berpengaruh dalam perencanaan dan pelaksanaan program pembangunan sektor kelautan dan perikanan.</p>
+<ol>
+	<li style="text-align: justify;" value="3">
+		<strong>Kurangnya Keberpihakan Pemerintah terhadap Pengelolaan Pulau-pulau Kecil</strong></li>
+</ol>
+<p style="margin-left: 28.35pt; text-align: justify;">
+	Orientasi pembangunan pada masa lalu lebih difokuskan pada wilayah daratan (<em>mainland</em>) dan belum diarahkan ke wilayah laut dan pulau-pulau kecil. Masih rendahnya kesadaran, komitmen dan <em>political will</em> dari Pemerintah dalam mengelola pulau-pulau kecil inilah yang menjadi hambatan utama dalam pengelolaan potensi pulau-pulau kecil.</p>
+<ol>
+	<li style="text-align: justify;" value="4">
+		<strong>Pertahanan dan Keamanan </strong></li>
+</ol>
+<p style="margin-left: 28.35pt; text-align: justify;">
+	Pulau-kecil di perbatasan masih menyisakan permasalahan di bidang pertahanan dan keamanan. Hal ini disebabkan antara lain oleh belum terselesaikannya permasalahan penetapan sebagian perbatasan maritim dengan negara tetangga, banyaknya pulau-pulau perbatasan yang tidak berpenghuni, sangat terbatasnya sarana dan prasarana fisik serta rendahnya kesejahteraan masyarakat lokal. Kondisi tersebut menimbulkan kekhawatiran adanya okupasi negara lain dan memicu berkembangnya permasalahan yang sangat kompleks, tidak saja berkaitan dengan bagaimana upaya memeratakan hasil pembangunan, tetapi juga aspek pertahanan keamanan dan ancaman terhadap keutuhan NKRI.&nbsp;</p>
+<ol>
+	<li style="text-align: justify;" value="5">
+		<strong>Disparitas Perkembangan Sosial Ekonomi</strong></li>
+</ol>
+<p style="margin-left: 28.35pt; text-align: justify;">
+	Letak dan posisi geografis pulau-pulau kecil yang sedemikian rupa menyebabkan timbulnya disparitas perkembangan sosial ekonomi dan persebaran penduduk antara pulau-pulau besar yang menjadi pusat pertumbuhan wilayah dengan pulau-pulau kecil di sekitarnya.</p>
+<ol>
+	<li style="text-align: justify;" value="6">
+		<strong>Terbatasnya Sarana dan Prasarana Dasar</strong></li>
+</ol>
+<p style="margin-left: 28.35pt; text-align: justify;">
+	Pulau-pulau kecil sulit dijangkau oleh akses perhubungan karena letaknya yang terisolir dan jauh dari pulau induk. Terbatasnya sarana dan prasarana seperti jalan, pelabuhan, sekolah, rumah sakit, pasar, listrik, media informasi dan komunikasi menyebabkan tingkat pendidikan (kualitas SDM), tingkat kesehatan, tingkat kesejahteraan dan pendapatan masyarakat pulau-pulau kecil rendah.</p>
+<ol>
+	<li style="text-align: justify;" value="7">
+		<strong>Konflik Kepentingan </strong></li>
+</ol>
+<p style="margin-left: 28.35pt; text-align: justify;">
+	Pengelolaan pulau-pulau kecil akan berdampak pada lingkungan, baik positif maupun negatif sehingga harus diupayakan agar dampak negatif dapat diminimalkan dengan mengikuti&nbsp; pedoman-pedoman dan&nbsp; peraturan-peraturan yang dibuat. Di samping itu, pengelolaan pulau-pulau kecil dapat menimbulkan konflik budaya melalui industri wisata yang cenderung bertentangan dengan kebudayaan lokal; dan menyebabkan terbatasnya atau tidak adanya akses masyarakat terutama pulau-pulau kecil yang telah dikelola oleh investor.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<ol>
+	<li style="text-align: justify;" value="8">
+		<strong>Degradasi Lingkungan Hidup</strong></li>
+</ol>
+<p style="margin-left: 28.35pt; text-align: justify;">
+	&nbsp;Pemanfaatan sumberdaya yang berlebih dan tidak ramah lingkungan yang disebabkan oleh lemahnya penegakan hukum, belum adanya kebijakan yang terintegrasi lintas sektor di pusat dan daerah serta rendahnya kesejahteraan masyarakat telah berdampak pada meningkatnya kerusakan lingkungan hidup.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="rf">Referensi</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<br />
+	<i> 
+		<p style="font-size:12px;">
+			Karena keterbatasan SDM dalam penginputan dan pengolahan data, kami mohon maaf atas ketidak lengkapan beberapa data pulau yang kami tampilkan, harap dimaklumi.
+			Berikan keritik dan saran pada kolom komentar agar kita dapat bersama menyajikan sebuah data yang cukup sempurna untuk halayak ramai yang berguna
+			demi kesejahterahan, kelestarian dan keindahan pulau-pulau kecil yang dimiliki Indonesia.<br />
+			*Jika sekiranya anda memiliki data yang cukup banyak, silakan mengirimkan file melalui email kami di <b><a>identifikasippk@gmail.com</a></b>
+			
+		</p>
+	</i>
+<br />
+
+<div id="fb_comn" class="fb-comments" data-href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_info/5654" data-width="800" data-numposts="5" data-colorscheme="light"></div>
+
+
+</div>
+</div>
+</div>
+<div id="wrapper">
+
+<div class="footer"><p>
+<!--<marquee onmouseover="this.stop()" onmouseout="this.start()" scrollamount="5" direction="right" width="798" height="14"  behavior="scroll">-->
+<a href="http://www.ppk-kp3k.kkp.go.id/" target="_blank">Direktorat Pendayagunaan Pulau-Pulau Kecil &nbsp; | &nbsp;</a>
+<a href="http://www.kp3k.kkp.go.id/" target="_blank">Ditjen Kelautan, Pesisir dan Pulau-Pulau Kecil &nbsp; | &nbsp;</a>
+<a href="http://www.kkp.go.id/" target="_blank">Kementerian Kelautan dan Perikanan</a>
+<!--</marquee>--> <br />
+Jl. Medan Merdeka Timur No. 16 Gedung Mina Bahari 3 Lantai 10, Jakarta, Indonesia <br />
+Email : identifikasippk@gmail.com <br />
+Telp &amp; Fax: (021) 3522058 <br />
+&copy; Copyright Direktorat Pendayagunaan Pulau-Pulau Kecil 2012&nbsp; <br /></p>
+</div>
+</div>
+</body>
+</html>

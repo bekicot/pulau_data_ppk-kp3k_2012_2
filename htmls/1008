@@ -1,0 +1,432 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Pulau Balai</title>
+
+<meta charset="utf-8"/>
+
+<meta property="fb:app_id" content="559408774147878" />
+
+
+<meta property="og:title" content="Pulau Balai" />
+<meta property="og:url" content="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_info/1008" />
+
+
+    <script type="text/javascript" src="http://ajax.microsoft.com/ajax/jquery/jquery-1.4.4.min.js">
+    </script>
+    
+    <script type="text/javascript" src="http://plugins.learningjquery.com/expander/jquery.expander.js">
+    </script>
+    
+    <script type="text/javascript">
+        $(function () {
+            $('div.readmore').expander({
+                slicePoint:200,
+                expandText: '(Baca selengkapnya)',
+                userCollapseText: '(Sembunyikan selengkapnya)'
+            });
+        });
+    </script>
+        
+	<script src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/galleria/galleria-1.2.8.min.js"></script>
+
+        <SCRIPT TYPE="text/javascript">
+            <!--
+            //Disable right click script
+            //visit http://www.rainbow.arch.scriptmania.com/scripts/
+            var message="Sorry, right-click has been disabled";
+            ///////////////////////////////////
+            function clickIE() {if (document.all) {(message);return false;}}
+            function clickNS(e) {if
+            (document.layers||(document.getElementById&&!document.all)) {
+            if (e.which==2||e.which==3) {(message);return false;}}}
+            if (document.layers)
+            {document.captureEvents(Event.MOUSEDOWN);document.onmousedown=clickNS;}
+            else{document.onmouseup=clickNS;document.oncontextmenu=clickIE;}
+            document.oncontextmenu=new Function("return false")
+            // -->
+            </SCRIPT>
+            
+            <SCRIPT TYPE="text/javascript">
+            <!--
+            //Disable select-text script (IE4+, NS6+)
+            //visit http://www.rainbow.arch.scriptmania.com/scripts/
+            ///////////////////////////////////
+            function disableselect(e){
+            return false
+            }
+            function reEnable(){
+            return true
+            }
+            //if IE4+
+            document.onselectstart=new Function ("return false")
+            //if NS6
+            if (window.sidebar){
+            document.onmousedown=disableselect
+            document.onclick=reEnable
+            }
+            // -->
+            </SCRIPT>  
+              
+<link rel="stylesheet" type="text/css" href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/css/main.css" media="screen"/>
+<style type='text/css'>
+#info_wrap{
+	width:820px;
+	margin:0 auto;
+	text-shadow:0px 1px 1px #09F;
+}
+table{
+	color:#000000;
+}
+h1{
+	color:#000000;
+}
+.tengahin{
+	width: 105px;
+	height: 30px;
+	margin: 0 auto auto auto;
+}
+#box_view{
+	background-image:-webkit-gradient(linear, 0 0%, 0 100%, from(#FFFFFF), to(#E0F0F5));
+	background:#FFF;
+	color:#F60;
+	border: 1px solid #fff;
+	border-radius: 4px 4px 4px 4px;
+	box-shadow: 0 8px 6px -6px black;
+	position:fixed;
+	right:0;
+	top:150px;;
+	width:80px;
+	z-index:10;
+	padding-left:12px;
+	font-size:10px;
+	}
+#box_view li{
+	color:#F60;
+	margin-left:-30px;
+	}
+	#wrapper a b {
+	color: #FFF;
+	font-size:14px;
+}
+.batas{
+	float:left;
+	border-right-style:inset;
+	border-right-width:thin;
+	}
+.text_h_wrap{
+	
+	padding-left:450px;
+	padding-top:39px;
+	text-shadow:0px 1px 1px #09F;
+	}
+#wrapper .footer p{
+	font-size:12px;
+	color: #FFF;
+	text-align:center;
+	text-shadow:0px 1px 1px #09F;
+}
+td,th {
+	font-size: 12px;
+}
+
+marquee a{
+	color:#FFF
+	}
+#wrapper .footer a{
+	color: #FFFFFF;
+}
+</style>
+            
+<script>
+function goBack()
+  {
+  window.history.back()
+  }
+</script>
+<script type="text/javascript">
+function Popup( url, height, width )
+{
+    var windowProperties = "toolbar = 0, scrollbars = 1, location = 0, statusbar = 0, menubar = 0, resizable = 1, width = " + width + ", height = " + height + ", left = 50, top = 50";
+ 
+    return window.open( url, "", windowProperties );
+}
+</script>
+
+
+
+</head>
+<body oncontextmenu='return false;' onkeydown='return false;' onmousedown='return false;'>
+
+<a id="top_view"></a>
+<div id="wrapper">
+<div class="header_wrap">
+<div class="text_h_wrap">
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/home_page'><b>&nbsp;Home&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/menu_info/1'><b>&nbsp;About Us&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_data'><b>&nbsp;Direktori Pulau&nbsp;&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/program_ip'><b>&nbsp;IKU&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/data_ppkt'><b>&nbsp;PPKT&nbsp;</b></a>
+</div>
+<!--<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/maintenance'><b>&nbsp;Login&nbsp;</b></a>-->
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/dir_log_cont'><b>&nbsp;Login&nbsp;</b></a>
+
+</div>
+</div>
+</div>
+
+<div id="fb-root"></div>
+<script>
+  window.fbAsyncInit = function() {
+    // init the FB JS SDK
+    FB.init({
+      appId      : '559408774147878',                        // App ID from the app dashboard
+      status     : true,                                 // Check Facebook Login status
+      xfbml      : true                                  // Look for social plugins on the page
+    });
+
+    // Additional initialization code such as adding Event Listeners goes here
+  };
+
+  // Load the SDK asynchronously
+  (function(){
+     // If we've already installed the SDK, we're done
+     if (document.getElementById('facebook-jssdk')) {return;}
+
+     // Get the first script element, which we'll use to find the parent node
+     var firstScriptElement = document.getElementsByTagName('script')[0];
+
+     // Create a new script element and set its id
+     var facebookJS = document.createElement('script'); 
+     facebookJS.id = 'facebook-jssdk';
+
+     // Set the new script's source to the source of the Facebook JS SDK
+     facebookJS.src = '//connect.facebook.net/en_US/all.js';
+
+     // Insert the Facebook JS SDK into the DOM
+     firstScriptElement.parentNode.insertBefore(facebookJS, firstScriptElement);
+   }());
+</script>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=559408774147878";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="box_view">
+    <a href="#top_view">MENU</a>
+    <h3><p>Lihat Informasi:</p></h3>
+    <ul>
+	<a href="#sf"><li>Slide Foto</li></a>
+    <a href="#gu"><li>Gambaran Umum</li></a>
+    <a href="#ksbk"><li>Kependudukan, Sosial Budaya dan Kelembagaan</li></a>
+    <a href="#eshp"><li>Ekosistem dan Sumberdaya Hayati</li></a>
+    <a href="#snh"><li>Sumberdaya Non Hayati</li></a>
+    <a href="#aps"><li>Aktivitas Pengelolaan Sumberdaya</li></a>
+    <a href="#ling"><li>Lingkungan</li></a>
+    <a href="#sp"><li>Sarana dan Prasarana</li></a>
+    <a href="#pi"><li>Peluang Investasi</li></a>
+    <a href="#pap"><li>Potensi Arahan Pengembangan</li></a>
+    <a href="#kp"><li>Kendala Pengembangan</li></a>
+	<a href="#rf"><li>Referensi</li></a>
+    </ul>
+    <a href="#fb_comn">KOMENTAR</a>
+</div>
+
+<br>
+			<a id="sf"></a></h2>
+			<div id="galleria">
+            <!--<div class='tengahin'><input type="button" value="Kembali Ke List" onclick="goBack()"></div>-->
+                            </div>
+            
+            <script>
+            Galleria.loadTheme('http://www.ppk-kp3k.kkp.go.id/direktori-pulau/galleria/themes/classic/galleria.classic.min.js');
+            Galleria.run('#galleria');
+            </script>
+</div>
+
+<div id="text_warp">
+
+
+<p><h1>Balai</h1></p>
+<table>
+<tr>
+	<td>Nama Lain</td> <td>:</td> <td></td>
+</tr>
+<tr>
+	<td>Propinsi</td> <td>:</td> <td>ACEH</td>
+</tr>
+<tr>
+	<td>Kabupaten</td> <td>:</td> <td>KABUPATEN ACEH SINGKIL</td>
+</tr>
+<tr>
+	<td>Kecamatan</td> <td>:</td> <td>Pulau Banyak</td>
+</tr>
+<tr>
+	<td>Koordinat</td> <td>:</td> <td><a href="http://www.ppk-kp3k.kkp.go.id/giskkp/index.html?extent=10841217.8400 255534.9426,10845804.0617 257400.4838"target="_blank"><p>
+	2&deg; 18&#39; 13.000&rdquo; LU 97&deg; 24&#39; 27.000&rdquo; BT</p>
+</a></td>
+</tr>
+</table>
+<hr>
+
+<h2><a id="gu">Gambaran Umum</a></h2>
+<p><div class="readmore"><p>
+	Secara administratif Pulau Balai terletak di Mukim Salapan, Kecamatan Pulau Banyak,Kabupaten Aceh Singkil. Pulau Balai adalah salah satu pulau dari puluhan pulau yang menjadi bagian dari gugusan Kepulauan Banyak yang terletak di Kabupaten Aceh Singkil, Provinsi Aceh. Pulau Balai berada pada koordinat 97&deg; 24&#39; 26,71&quot; BT dan 2&deg; 18&#39; 14,51&quot; LU, dengan luas sekitar &plusmn; 94,81 ha dan berada di antara 7 pulau lainnya yaitu P. Ujung Batu, P. Tapus-tapus, P. Baguk, P. Panjang, P. Rangit Besar, P. Rangit Kecil dan P. Malelo sehingga disebut juga sebagai Pulau &ndash; Pulau Delapan/Selapan. Pulau Balai yang berada di perairan Samudera Hindia ini memiliki batas wilayah yang berbatasan langsung dengan beberapa pulau di sekitarnya. Adapun batas-batas dari pulau ini antara lain sebelah barat berbatasan dengan Pulau Baguk, sebelah timur dengan Pulau Ujung Batu dan Pulau Tapus-Tapus, sebelah selatan dengan Pulau Panjang dan sebelah utara dengan Pulau Ujung Batu<br />
+	Di pulau ini terdapat dua buah desa yaitu desa P. Balai dan desa P.Baguk,berdasarkan data hasil pengolahan citra satelit World View 2 tanggal 23 September 2011, Pulau Balai memiliki luas daratan sebesar 0,95 km2 atau 94,81 hektar, yang terbagi menjadi 68,45 ha untuk luas dari Desa Pulau Balai dan Desa Pulau baguk dengan luas 26,36 ha.<br />
+	<br />
+	Tingkat aksesibilitas Pulau Balai termasuk cukup sulit dikarenakan lokasinya yang cukup jauh dari daratan utama serta jauh dari pusat ibukota provinsi. Kabupaten Aceh Singkil dapat dicapai dengan menggunakan pesawat udara atau kendaraan umum berupa mobil jenis L300 dari Kota Banda Aceh. Dengan menggunakan pesawat, perjalanan dapat ditempuh dalam 45 menit, sementara bila menggunakan jalur darat perjalanan dapat mencapai 15 hingga 16 jam. Jarak Pulau Balai sendiri dengan daratan&nbsp; Aceh Singkil &plusmn; 68 km. Sementara jarak dengan tempat wisata terdekat yakni Pulau Palambak berjarak&nbsp; 15 km. Akses menuju Pulau Balai dapat ditempuh dengan menggunakan kapal motor, ferry dan speed boat dari Aceh Singkil melalui Pelabuhan Pulo Sarok. Jika menggunakan kapal boat nelayan yang berangkat ke Pulau Balai hampir setiap hari (kecuali cuaca buruk)&nbsp; maka lama perjalanan sekitar 3 &ndash; 4 jam<br />
+	<br />
+	Kondisi iklim di Kabupaten Aceh Singkil, khususnya di Pulau Balai termasuk iklim tropis dengan dua musim, yakni musim hujan yang berlangsung dari bulan September s/d Januari dan musim kemarau yang berlangsung dari bulan Februari s/d Agustus tiap tahunnya. Jika dilihat dari tabel diatas curah hujan tertinggi dalam kurun waktu empat tahun dicapai pada bulan Agustus tahun 2008 dengan curah hujan mencapai 397 mm/bulan, sementara curah hujan terendah terjadi pada bulan Oktober 2011 sebesar 71 mm/bulan. Rata-rata curah hujan tertinggi dari tahun 2008 hingga 2011 adalah di bulan September yang merupakan musim penghujan, dan terendah pada bulan Maret.<br />
+	<br />
+	Morfologi&nbsp; Pulau Balai sendiri adalah mendatar dengan beberapa bagian yang berbukit, kemiringan lereng sekitar 3 %- 8% dengan bagian utara pulau yang makin melandai ke laut, dengan ketinggian rata-rata daratan pulau tidak lebih besar dari 45 mdpl. Hampir seluruh daratan di Pulau Balai termasuk dalam kelas kemiringan ini, hal ini disebabkan karena tipe pulaunya yang berupa dataran pasang surut dan tidak memiliki area perbukitan atau gunung.&nbsp; Daratan dengan topografi bergelombang dengan beberapa bukit kecil di Pulau Balai dapat dijumpai di bagian utara pulau. Pada daerah ini, masih banyak dijumpai dataran dengan ketinggian di atas 15 mdpl. Sementara itu, di bagian selatan pulau relatif lebih landai dengan ketinggian di bawah 15 mdpl<br />
+	&nbsp;</p>
+</div></p>
+
+<hr>
+
+<h2><a id="ksbk">Kependudukan, Sosial Budaya dan Kelembagaan</a></h2>
+<p><div class="readmore"><p>
+	pada tahun 2010 jumlah penduduk di Pulau Balai meningkat menjadi&nbsp; 3.231 jiwa atau meningkat sebesar 3, 96 %.<br />
+	<br />
+	Sebagaimana pada umumnya penduduk yang mendiami daerah kepulauan, penduduk Pulau Balai pada umumnya bermatapencaharian sebagai nelayan, karena dikelilingi oleh lautan. Dari segi ekonomi, nelayan atau pengusaha di pulau ini cenderung berhubungan dengan nelayan atau pengusaha dari wilayah Sumatera Utara (Sibolga dan Nias), meskipun ada juga yang berhubungan dengan nelayan dari wilayah pantai barat Aceh lainnya. Bisa dikatakan bahwa sebagian besar penduduk Pulau Balai menggantungkan perekonomiannya dari laut. Jika kondisi laut tidak memungkinkan untuk melakukan penangkapan ikan, praktis nelayan tidak mendapatkan penghasilan dan hanya mengandalkan hutang atau simpanan yang ada. Selain itu karena metode penangkapan yang digunakan masih tergolong sederhana, dengan menggunakan alat tangkap pancing dan jaring, dan perahu kecil (robin) hasil tangkapan yang mereka dapatkan tidak seberapa.<br />
+	<br />
+	Sebagian penduduk juga memiliki profesi lain seperti pedagang kecil-kecilan dengan membuka warung atau toko dirumah mereka,untuk menambah penghasilan keluarga. Selain itu sebagian dari mereka juga membuka usaha keramba atau menyewakan perahu mereka untuk mengangkut berbagai kebutuhan masyarakat.<br />
+	<br />
+	Etnis penduduk Pulau Balai terdiri dari berbagai etnis, antara lain Aneuk Jamee ,Aceh, Batak, Nias, Minangkabau, Haloban dan sebagainya. Kondisi ini juga mempengaruhi&nbsp; budaya&nbsp; masyarakat di Pulau Balai<br />
+	<br />
+	Pemerintahan masing-masing desa dipimpin oleh kepala desa dan kepala dusun. Untuk mempermudah urusan administrasi pemerintahan desa, maka kepala desa akan dibantu oleh sekretaris desa, kepala urusan (Kaur) dan wakil kepala urusan. Selain lembaga pemerintahan seperti Camat dan Kepala Desa, terdapat pula lembaga adat Aceh yang disebut Tuha Peut di masing-masing desa.<br />
+	&nbsp;</p>
+</div></p>
+
+<hr>
+
+<h2><a id="eshp">Ekosistem dan Sumberdaya Hayati</a></h2>
+<p><div class="readmore"><p>
+	Di Pulau Balai Terumbu karang lebih banyak ditemukan pada perairan dangkal hingga kedalaman sekitar 15 meter.&nbsp; Visibility (jarak pandang) pada saat observasi sedang dilakukan hanya berjarak sekitar 3 &ndash; 5 meter.&nbsp; Substrat dasar perairan yang ditemukan di lokasi penyelaman merupakan campuran antara pasir dan lumpur.&nbsp; Pengambilan data dilakukan di empat lokasi yang mewakili kondisi ekosistem terumbu karang.<br />
+	<br />
+	Tercatat ada 107 spesies ikan di Pulau Balai selama empat hari survei.&nbsp; Pencatatan ikan dilakukan dengan metode visual sensus yang dilakukan di dua kedalam dengan belt transek sepanjang 50 m.&nbsp; Tidak ada jenis ikan endemik yang ditemukan di Pulau Balai.&nbsp; Ikan di dominasi oleh ikan dari kategori ikan mayor atau jenis ikan yang belum diketahui fungsinya dalam rantai makanan. &nbsp;<br />
+	<br />
+	Luasan mangrove di Pulau Balai terdapat di Desa P. Balai dan Desa P. Baguk dengan luasan total 1,01 ha. Di daerah ini bisa ditemukan 8 jenis mangrove yaitu Sonneratia caseolaris, Rhizophora stylosa, Rhizophora mucronata, Rhizophora apicullata Bruguiera gymnorhiza, Lumnitzera littoria, Scyphiphora hydrophyllacea dan Acrostichum aureum. Mangrove di pulau ini umumnya tumbuh di lumpur berpasir. Sebagian mangrove terletak di daerah pasir berlumpur dengan pengaruh pasang surut.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="snh">Sumberdaya Non Hayati</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<h2><a id="aps">Aktivitas Pengelolaan Sumberdaya</a></h2>
+<p><div class="readmore"><p>
+	Perikanan<br />
+	Nelayan di Pulau Balai umumnya menggunakan alat tangkap yang masih sederhana. Biasanya mereka menggunakan alat tangkap jaring dan pancing dan berperahu motor berukuran kecil yang disebut perahu robin. Namun ada juga yang menggunakan perahu yang lebih besar meskipun tidak sebanyak perahu robin. Dari hasil wawancara dengan nelayan didapat bahwa biasanya daerah penangkapan (fishing ground) rata-rata berjarak 0 &ndash; 6 mil dari Pulau Balai. Mereka berangkat melaut pada pagi hari dan sore hari mereka kembali ke pulau.<br />
+	<br />
+	ada lebih dari 10 unit KJA yang terdapat di sekitar Pulau Balai. Selain ikan kerapu, lobster juga banyak dibudidayakan mengingat harganya yang mahal.<br />
+	<br />
+	Usaha pengolahan hasil perikanan di Pulau Balai baru sebatas pembuatan ikan asin, karena metode pengolahannya yang sederhana, tidak membutuhkan modal yang besar, daya tahan lama dan harga yang lumayan baik.<br />
+	<br />
+	Pertanian dan Perkebunan<br />
+	<br />
+	Pada umumnya di kecamatan Pulau Banyak di sub sektor pertanian tanaman pangan jenis komoditi yang dibudidayakan adalah tanaman padi sawah, padi ladang, ubi kayu dan kacang panjang. Sementara di sektor perkebunan antara lain kelapa, cengkeh, durian, mangga, pisang,pepaya,kuini, dan lain-lain<br />
+	<br />
+	Peternakan<br />
+	<br />
+	Berdasarkan survey didapat bahwa jenis ternak yang terdapat di Pulau Balai antara lain ayam,itik, kambing dan&nbsp; beberapa ekor kerbau. Beternak bukanlah mata pencaharian utama bagi penduduk pulau ini, namun hanya sebagai usaha sampingan, yang dapat digunakan untuk memenuhi konsumsi protein keluarga dan terkadang sebagian lagi dijual untuk menambah penghasilan.<br />
+	<br />
+	Industri<br />
+	Ada beberapa jenis industri yang dijumpai antara lain, usaha galangan kapal kayu yang terdapat di Desa P.Baguk dan usaha pengolahan ikan asin teri skala rumahan dan terasi. Industri galangan kapal kayu merupakan milik warga setempat.<br />
+	<br />
+	Pariwisata<br />
+	<br />
+	Sebagai sebuah bagian dari wilayah kepulauan, Pulau Balai memiliki beberapa objek wisata bahari yang sesuai dengan topografi dan kondisi pulau tersebut. Di perairan Pulau Balai banyak terdapat terumbu karang, serta berjenis-jenis ikan serta biota laut lainnya seperti lobster, sehingga kegiatan wisata memancing dapat dikembangkan di pulau ini. Selain itu ombak sekitar pulau yang relatif lebih tenang dibandingkan dengan pulau lainnya, sangat sesuai untuk wisata menyelam, snorkeling dan kayaking. Wisata kuliner terutama makanan seafood juga memiliki potensi untuk dikembangkan, mengingat pulau ini kaya akan hasil laut.<br />
+	<br />
+	&nbsp;</p>
+</div></p>
+
+<hr>
+
+<h2><a id="ling">Lingkungan</a></h2>
+<p><div class="readmore"><p>
+	Permasalahan Lingkungan<br />
+	Menurut penuturan penduduk setempat, nelayan yang berasal dari luar pulau ini sering menangkap ikan dengan cara pemberian potas dan sianida, penyentruman bahkan pengeboman, meski ada juga nelayan setempat yang melakukan. Penangkapan ikan dengan cara diracun awalnya mulai dilakukan oleh nelayan sekitar tahun 1980 dan semakin meningkat pada tahun 1990 an, ketika negara Hong Kong melalui sebuah perusahaan perikanan&nbsp; mulai mengimpor ikan-ikan hidup dari perairan Kepulauan Banyak, termasuk di Pulau Balai.<br />
+	<br />
+	kelestarian terumbu karang di Pulau Balai saat ini sangat terancam sehubungan dengan pembangunan di pulau tersebut. Awalnya penggunaan karang sebagai bahan bangunan merupakan hal biasa di pulau tersebut. Karang banyak digunakan untuk bahan pondasi rumah dan jalan, meski pada&nbsp; dasarnya rumah penduduk di pulau ini terbuat dari bahan kayu dengan dasar pondasi tanah, namun ada juga rumah dan bangunan yang terbuat dari batu dan semen.<br />
+	polusi yang berasal dari sampah rumah tangga yang dibuang ke laut turut mempengaruhi kehidupan terumbu karang.<br />
+	<br />
+	Pengambilan karang-karang massive sebagai pelindung alami pulau dari abrasi turut memperparah kondisi tersebut. Pulau Balai saat ini menunjukan gejala abrasi&nbsp; yang parah, banyak bangunan yang terletak di tepi pantai kini terendam air, selain itu akibat hempasan ombak Samudera Hindia yang kuat juga telah merusak dinding pantai (revertment) yang telah ada.<br />
+	&nbsp;</p>
+</div></p>
+
+<hr>
+
+<h2><a id="sp">Sarana dan Prasarana</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<h2><a id="pi">Peluang Investasi</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<h2><a id="pap">Potensi dan Arahan Pengembangan</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<h2><a id="kp">Kendala Pengembangan</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<h2><a id="rf">Referensi</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<br />
+	<i> 
+		<p style="font-size:12px;">
+			Karena keterbatasan SDM dalam penginputan dan pengolahan data, kami mohon maaf atas ketidak lengkapan beberapa data pulau yang kami tampilkan, harap dimaklumi.
+			Berikan keritik dan saran pada kolom komentar agar kita dapat bersama menyajikan sebuah data yang cukup sempurna untuk halayak ramai yang berguna
+			demi kesejahterahan, kelestarian dan keindahan pulau-pulau kecil yang dimiliki Indonesia.<br />
+			*Jika sekiranya anda memiliki data yang cukup banyak, silakan mengirimkan file melalui email kami di <b><a>identifikasippk@gmail.com</a></b>
+			
+		</p>
+	</i>
+<br />
+
+<div id="fb_comn" class="fb-comments" data-href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_info/1008" data-width="800" data-numposts="5" data-colorscheme="light"></div>
+
+
+</div>
+</div>
+</div>
+<div id="wrapper">
+
+<div class="footer"><p>
+<!--<marquee onmouseover="this.stop()" onmouseout="this.start()" scrollamount="5" direction="right" width="798" height="14"  behavior="scroll">-->
+<a href="http://www.ppk-kp3k.kkp.go.id/" target="_blank">Direktorat Pendayagunaan Pulau-Pulau Kecil &nbsp; | &nbsp;</a>
+<a href="http://www.kp3k.kkp.go.id/" target="_blank">Ditjen Kelautan, Pesisir dan Pulau-Pulau Kecil &nbsp; | &nbsp;</a>
+<a href="http://www.kkp.go.id/" target="_blank">Kementerian Kelautan dan Perikanan</a>
+<!--</marquee>--> <br />
+Jl. Medan Merdeka Timur No. 16 Gedung Mina Bahari 3 Lantai 10, Jakarta, Indonesia <br />
+Email : identifikasippk@gmail.com <br />
+Telp &amp; Fax: (021) 3522058 <br />
+&copy; Copyright Direktorat Pendayagunaan Pulau-Pulau Kecil 2012&nbsp; <br /></p>
+</div>
+</div>
+</body>
+</html>

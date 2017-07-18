@@ -1,0 +1,464 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Pulau KOLEPON</title>
+
+<meta charset="utf-8"/>
+
+<meta property="fb:app_id" content="559408774147878" />
+
+
+<meta property="og:title" content="Pulau KOLEPON" />
+<meta property="og:url" content="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_info/341" />
+
+
+    <script type="text/javascript" src="http://ajax.microsoft.com/ajax/jquery/jquery-1.4.4.min.js">
+    </script>
+    
+    <script type="text/javascript" src="http://plugins.learningjquery.com/expander/jquery.expander.js">
+    </script>
+    
+    <script type="text/javascript">
+        $(function () {
+            $('div.readmore').expander({
+                slicePoint:200,
+                expandText: '(Baca selengkapnya)',
+                userCollapseText: '(Sembunyikan selengkapnya)'
+            });
+        });
+    </script>
+        
+	<script src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/galleria/galleria-1.2.8.min.js"></script>
+
+        <SCRIPT TYPE="text/javascript">
+            <!--
+            //Disable right click script
+            //visit http://www.rainbow.arch.scriptmania.com/scripts/
+            var message="Sorry, right-click has been disabled";
+            ///////////////////////////////////
+            function clickIE() {if (document.all) {(message);return false;}}
+            function clickNS(e) {if
+            (document.layers||(document.getElementById&&!document.all)) {
+            if (e.which==2||e.which==3) {(message);return false;}}}
+            if (document.layers)
+            {document.captureEvents(Event.MOUSEDOWN);document.onmousedown=clickNS;}
+            else{document.onmouseup=clickNS;document.oncontextmenu=clickIE;}
+            document.oncontextmenu=new Function("return false")
+            // -->
+            </SCRIPT>
+            
+            <SCRIPT TYPE="text/javascript">
+            <!--
+            //Disable select-text script (IE4+, NS6+)
+            //visit http://www.rainbow.arch.scriptmania.com/scripts/
+            ///////////////////////////////////
+            function disableselect(e){
+            return false
+            }
+            function reEnable(){
+            return true
+            }
+            //if IE4+
+            document.onselectstart=new Function ("return false")
+            //if NS6
+            if (window.sidebar){
+            document.onmousedown=disableselect
+            document.onclick=reEnable
+            }
+            // -->
+            </SCRIPT>  
+              
+<link rel="stylesheet" type="text/css" href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/css/main.css" media="screen"/>
+<style type='text/css'>
+#info_wrap{
+	width:820px;
+	margin:0 auto;
+	text-shadow:0px 1px 1px #09F;
+}
+table{
+	color:#000000;
+}
+h1{
+	color:#000000;
+}
+.tengahin{
+	width: 105px;
+	height: 30px;
+	margin: 0 auto auto auto;
+}
+#box_view{
+	background-image:-webkit-gradient(linear, 0 0%, 0 100%, from(#FFFFFF), to(#E0F0F5));
+	background:#FFF;
+	color:#F60;
+	border: 1px solid #fff;
+	border-radius: 4px 4px 4px 4px;
+	box-shadow: 0 8px 6px -6px black;
+	position:fixed;
+	right:0;
+	top:150px;;
+	width:80px;
+	z-index:10;
+	padding-left:12px;
+	font-size:10px;
+	}
+#box_view li{
+	color:#F60;
+	margin-left:-30px;
+	}
+	#wrapper a b {
+	color: #FFF;
+	font-size:14px;
+}
+.batas{
+	float:left;
+	border-right-style:inset;
+	border-right-width:thin;
+	}
+.text_h_wrap{
+	
+	padding-left:450px;
+	padding-top:39px;
+	text-shadow:0px 1px 1px #09F;
+	}
+#wrapper .footer p{
+	font-size:12px;
+	color: #FFF;
+	text-align:center;
+	text-shadow:0px 1px 1px #09F;
+}
+td,th {
+	font-size: 12px;
+}
+
+marquee a{
+	color:#FFF
+	}
+#wrapper .footer a{
+	color: #FFFFFF;
+}
+</style>
+            
+<script>
+function goBack()
+  {
+  window.history.back()
+  }
+</script>
+<script type="text/javascript">
+function Popup( url, height, width )
+{
+    var windowProperties = "toolbar = 0, scrollbars = 1, location = 0, statusbar = 0, menubar = 0, resizable = 1, width = " + width + ", height = " + height + ", left = 50, top = 50";
+ 
+    return window.open( url, "", windowProperties );
+}
+</script>
+
+
+
+</head>
+<body oncontextmenu='return false;' onkeydown='return false;' onmousedown='return false;'>
+
+<a id="top_view"></a>
+<div id="wrapper">
+<div class="header_wrap">
+<div class="text_h_wrap">
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/home_page'><b>&nbsp;Home&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/menu_info/1'><b>&nbsp;About Us&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_data'><b>&nbsp;Direktori Pulau&nbsp;&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/program_ip'><b>&nbsp;IKU&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/data_ppkt'><b>&nbsp;PPKT&nbsp;</b></a>
+</div>
+<!--<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/maintenance'><b>&nbsp;Login&nbsp;</b></a>-->
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/dir_log_cont'><b>&nbsp;Login&nbsp;</b></a>
+
+</div>
+</div>
+</div>
+
+<div id="fb-root"></div>
+<script>
+  window.fbAsyncInit = function() {
+    // init the FB JS SDK
+    FB.init({
+      appId      : '559408774147878',                        // App ID from the app dashboard
+      status     : true,                                 // Check Facebook Login status
+      xfbml      : true                                  // Look for social plugins on the page
+    });
+
+    // Additional initialization code such as adding Event Listeners goes here
+  };
+
+  // Load the SDK asynchronously
+  (function(){
+     // If we've already installed the SDK, we're done
+     if (document.getElementById('facebook-jssdk')) {return;}
+
+     // Get the first script element, which we'll use to find the parent node
+     var firstScriptElement = document.getElementsByTagName('script')[0];
+
+     // Create a new script element and set its id
+     var facebookJS = document.createElement('script'); 
+     facebookJS.id = 'facebook-jssdk';
+
+     // Set the new script's source to the source of the Facebook JS SDK
+     facebookJS.src = '//connect.facebook.net/en_US/all.js';
+
+     // Insert the Facebook JS SDK into the DOM
+     firstScriptElement.parentNode.insertBefore(facebookJS, firstScriptElement);
+   }());
+</script>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=559408774147878";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="box_view">
+    <a href="#top_view">MENU</a>
+    <h3><p>Lihat Informasi:</p></h3>
+    <ul>
+	<a href="#sf"><li>Slide Foto</li></a>
+    <a href="#gu"><li>Gambaran Umum</li></a>
+    <a href="#ksbk"><li>Kependudukan, Sosial Budaya dan Kelembagaan</li></a>
+    <a href="#eshp"><li>Ekosistem dan Sumberdaya Hayati</li></a>
+    <a href="#snh"><li>Sumberdaya Non Hayati</li></a>
+    <a href="#aps"><li>Aktivitas Pengelolaan Sumberdaya</li></a>
+    <a href="#ling"><li>Lingkungan</li></a>
+    <a href="#sp"><li>Sarana dan Prasarana</li></a>
+    <a href="#pi"><li>Peluang Investasi</li></a>
+    <a href="#pap"><li>Potensi Arahan Pengembangan</li></a>
+    <a href="#kp"><li>Kendala Pengembangan</li></a>
+	<a href="#rf"><li>Referensi</li></a>
+    </ul>
+    <a href="#fb_comn">KOMENTAR</a>
+</div>
+
+<br>
+			<a id="sf"></a></h2>
+			<div id="galleria">
+            <!--<div class='tengahin'><input type="button" value="Kembali Ke List" onclick="goBack()"></div>-->
+                            </div>
+            
+            <script>
+            Galleria.loadTheme('http://www.ppk-kp3k.kkp.go.id/direktori-pulau/galleria/themes/classic/galleria.classic.min.js');
+            Galleria.run('#galleria');
+            </script>
+</div>
+
+<div id="text_warp">
+
+
+<p><h1>KOLEPON</h1></p>
+<table>
+<tr>
+	<td>Nama Lain</td> <td>:</td> <td></td>
+</tr>
+<tr>
+	<td>Propinsi</td> <td>:</td> <td>PAPUA</td>
+</tr>
+<tr>
+	<td>Kabupaten</td> <td>:</td> <td>KABUPATEN MERAUKE</td>
+</tr>
+<tr>
+	<td>Kecamatan</td> <td>:</td> <td>KIMAAM</td>
+</tr>
+<tr>
+	<td>Koordinat</td> <td>:</td> <td><a href="http://www.ppk-kp3k.kkp.go.id/giskkp/index.html?extent=15162913.5002 -987184.8657,15652110.4812 -802207.2572"target="_blank"><p>
+	7&deg; 53&#39; 45,000&quot; LS - 138&deg; 21&#39; 51,000&quot; BT</p>
+</a></td>
+</tr>
+</table>
+<hr>
+
+<h2><a id="gu">Gambaran Umum</a></h2>
+<p><div class="readmore"><p>
+	&nbsp;</p>
+<p>
+	Pulau Kolepom merupakan salah satu dari 6 pulau terluar yang dimiliki oleh Provinsi Papua. Pulau ini terletak dibagian selatan timur Provinsi Papua. Pulau ini merupakan pulau yang berpenghuni dan memiliki luas yang cukub besar, yaitu sekitar 11.620 km<sup>2 </sup>(Dishidros, 2003). Pulau Kolepom berbatasan dengan laut Arafura di bagian Barat. Pulau ini memiliki Titik Dasar (TD) 088E dan Titik Referensi (TR) 088.</p>
+<p>
+	Pulau ini memiliki beberapa nama yang dikenal atau digunakan oleh masyarakat. Pada awalnya masyarakat menyebut pulau dengan ini nama Kimaam. Pada waktu masa penjajahan Hindia Belanda, Pemerintah Hindia Belanda menamakan pulau ini dengan nama Pulau Fredick van Hendrik. Setelah Indonesia merdeka dari masa Pemerintahan Hindia Belanda, semua nama pulau-pulau yang berbau Belanda diganti namanya dengan nama Indonesia, termasuk Pulau Fredick van Hendrik diubah menjadi Pulau Kolepom. Selanjutnya, setelah terjadinya tragedi gugurnya pahlawan nasional Yos Sudarso di perairan Arafura, pulau ini sempat diganti namanya menjadi Pulau Yos Sudarso. Selain nama-nama yang telah disebutkan diatas, masyarakat juga sering menyebut dengan nama Pulau Dolok, yang artinya lumbung penghasil pertanian, hal ini disebabkan kondisi masyarakat yang berkembang baik dan stabil dari hasil pertanian di pulau ini. Namun, saat ini secara resmi Pemerintah menggunakan nama Kolepom untuk sebutan pulau ini.</p>
+<p>
+	<strong>ADMINISTRATIF</strong></p>
+<p>
+	Pulau Kolepom merupakan pulau terluar di wilayah Kabupaten Merauke, Provinsi Papua. Secara administrasi pulau ini masuk dalam Distrik Kimaam, Kabupaten Merauke, Provinsi Papua. Pulau dengan luas kurang lebih 11.620 km<sup>2</sup> ini berbatasan dengan Pulau Komolon dan laut Arafura di sebelah Selatan, dengan Laut Arafura di sebelah Barat, dengan Distrik Okaba disebelah Timur dan dengan Desa Wanam dan Kecamatan Nambroman Bopai di sebelah Utaranya.</p>
+<p>
+	<strong>KONDISI GEOGRAFIS</strong></p>
+<p>
+	Secara goegrafis Pulau Kolepom terletak pada 08<sup>o</sup>12&rsquo;49&rdquo; LS dan 137<sup>o</sup>41&rsquo;24&rdquo; BT.</p>
+<p>
+	<strong>AKSESIBILITAS</strong></p>
+<p>
+	Untuk menuju Pulau Kolepom dapat menggunakan angkutan udara dan laut. Jika menggunakan angkutan udara, dapat menggunakan penerbangan perintis Pemda Merauke yang bekerjasama dengan maskapai penerbangan Merpati. Penerbangan ini melayani satu kali penerbangan tiap minggunya dan lama perjalanan adalah 45 menit. Jika menggunakan angkutan laut, dapat ditempuh dengan menggunakan kapal perintis&nbsp; PT. Pelni Moeka Ehe, Patrio Sompe, KM Lady, KM Pusaka Tambangan dan KM Bimas Raya, lamanya perjalanan sekitar 15 jam.&nbsp;</p>
+</div></p>
+
+<hr>
+
+<h2><a id="ksbk">Kependudukan, Sosial Budaya dan Kelembagaan</a></h2>
+<p><div class="readmore"><p>
+	&nbsp;</p>
+<p>
+	<strong>SOSIAL BUDAYA</strong></p>
+<p>
+	Pada awalnya, Pulau Kolepom didiami oleh Suku Marin Bop, yang dalam basaha Indonesia diartikan sebagai Suku Marin Pulau. Pada masa ini, masyarakat masih menggunakan sebutan pulau ini dengan nama Pulau Kimaam. Terbentuknya perkampungan di pulau ini berawal dari ajakan dari misionaris katolik kepada masyarakt primitif yang mendiami daerah rawa. Para misionaris tersebut mengajak masyarakat tersebut untuk pindah ke daratan yang tanahnya keras dan disitulah didirikan Kampung Kimaam. Kimaam sendiri berasal darikata Khima-khima yang berarti tempat persinggahan.</p>
+<p>
+	Penyebaran dan kepadatan penduduk pada dasarnya dipengaruhi oleh faktor potensi wikayah tersebut, kemudahan hubungan antar lokasi dan pusat administrasi. Jumlah penduduk Pulau Kolepom berdasarkan hasil data sekunder Distrik Kimaam (2006) terdapat 13.332 jiwa yang terdiri dari 6.771 pria dan 6.561 wanita dan jumlah KK 2.776.</p>
+<p>
+	Tingkat pendidikan masyarakat Pulau Kolepom masih tergolong rendah. Hal ini disebabkan oleh dorongan orang tua yang rendah serta kondisi perekonomian yang rendah. Di Pulau Kolempom terdapat 1 SD dan 1 SMP. Sistem belajar yang tidak baik menyebabkan banyak lulusan SD yang tidak bisa membaca dan menulis. Banyak anak-anak usia sekolah yang putus di tengah jalan dengan alasan untuk membantu keluarga mencari penghidupan. Jumlah minat lulusan SD untuk melanjutkan SMP juga rendah.</p>
+<p>
+	Kondisi lingkungan juga menjadi hal yang penting di pulau ini. Ketersediaan air besih sangat terbatas di pulau ini. Banyak sumur yang tidak layak konsumsi karena berasa dan berwarna. Selain itu juga, pola hidup yang tidak menjaga kebersihan perlu mendapat perhatian yang serius.&nbsp;</p>
+</div></p>
+
+<hr>
+
+<h2><a id="eshp">Ekosistem dan Sumberdaya Hayati</a></h2>
+<p><div class="readmore"><p>
+	&nbsp;</p>
+<p>
+	<strong>POTENSI SDA</strong></p>
+<p>
+	Vegetasi yang terdapat di Pulau Kolepom terdiri dari beberapa jenis, diantranya vegerasi hutan campuran, rawa dan bakau dan budidaya. Vegetasi hutan campuran diantaranya rotan, perdu, dan paku-pakuan serta savana. Vegetasi rawa dan bakau diantaranya berbagai jenis mangrove sedangkan untuk vegetasi tanaman budidaya gterdapat kelapa, pisang, mangga,umbi-umbian, ketela, jambu mete, durian dan rambutan. Terdapat juga tumbuhan kayu seperti ketapang, merbau, matoa, kayu manis, pandan, nyatoh, bintanggur, pinus, akasia dan melinjo.</p>
+<p>
+	Jenis-jenis mangrove yang ditemukan pada Pulau Kolepom antara lain dari jenis <em>Soneratia alba, Avicenia sp, Rhizopara sp, Bruguera sp dan Xylocarpus sp. </em>Sebaran hutan mangrove dapat ditemukan mulai dari pesisir barat sampai selatan Pulau Kolepom.</p>
+<p>
+	Selain mangrove, di pulau ini juga terdapat vegetasi nipah (<em>nypa fructicans</em>). Penyebaran vegetasi nipah sepanjang pantai pulau ini tidak merata dan umumnya tumbuh berkelompok. Sebaran nipah terbanyak terdapat disepanjang pantai sebelah timur Pulau Kolepom.</p>
+<p>
+	Kondisi pulau yang berbentuk cekung menyebabkan rawa menjadi lebih dominan jika dibandingkan dengan daratan kering. Dua pertiga dari daratan Pulau Kolepom merupakan daerah rawa dan sagu. Daratan kering hanya terdapat di daerah pinggiran pulau.</p>
+<p>
+	Kondisi perairan yang keruh akibat dari proses sedimentasi yang tinggi menyebabkan tidak ditemukannya ekosistem padang lamun dan terumbu karang.</p>
+<p>
+	Perairan disekitar Pulau Kolepom merupakan perairan yang kaya akan sumberdaya ikan dan udang. Hal ini dikarenakan Pulau Kimam dikelilingi pantai yang ditumbuhi hutan bakau, yang berfungsi sebagai tempat memijah, membesarkan dan mencari makan bagi sebagian besar ikan dan udang.</p>
+<p>
+	Dikawasan perairan Pulau Kolepom terdapat perusahaan perikanan PT. Tingsen Sejahtera an PT. Dwi Karya Reksa Abadi yang berpusat di Distrik Wanam dan merupakan salah satu anak perusahaan Jayanthi Grup. Kedua perusahaan ini mempunyai armada penangkapan sebanyak 150 buah kapal yang berukuran 30 GT dan 20 kapal berukuran 100 GT yang senantiasa beroperasi di sekitar perairan Kolepom dan Laut Arafura.</p>
+<p>
+	Salah satu jenis komoditas ikan yang potensial adalah ikan air tawar yaitu ikan Arwana. Ikan ini banyak ditemukan didaerah Rawa Woner dan Kiworo. Ikan ini akan sangat melimpah pada saat 2 minggu setelah musim penghujan datang.</p>
+<p>
+	Kepiting juga merupakan produk tangkapan nelayan lokal yang umumnya di jumpai di kawasan mangrove. Jenis yang serign ditangkap adalah kepiting bakau dan rajungan. Kepiting bakau umumnya ditangkap dengan alat pengait dari bahan logam dan kadang tertangkap jaring insan nelayan. Sedangkan rajungan sering tertangkap dengan trawl dan jaring insan.&nbsp;</p>
+</div></p>
+
+<hr>
+
+<h2><a id="snh">Sumberdaya Non Hayati</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<h2><a id="aps">Aktivitas Pengelolaan Sumberdaya</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<h2><a id="ling">Lingkungan</a></h2>
+<p><div class="readmore"><p>
+	&nbsp;</p>
+<p>
+	<strong>FISIOGRAFI DAN TOPOGRAFI</strong></p>
+<p>
+	Pulau Kolepom memiliki ciri topografi wilayah daratannya yang luas, landai dan berawa. Banyaknya aliran sungai yang bermuara di pesisir barat daratan Papua membentuk suatu zona sedimentasi yang membentuk hutan mangrove dalam ukuran yang masif. Sedangkan kondisi topografi yang landai dan berawa menyimpan potensi sumberdaya alam yang potensial untuk dikembangkan.</p>
+<p>
+	Kondisi musim di pulau ini tergolong C2 yaitu jumlah bulan basah sekitar 5-6 bulan dan bulankering 2-3 bulan dengan curah hujan sekitar 3.000-4.000 mm. Dengan kondisi cuaca seperti ini, dimungkinkan dapat dikembangkan sawah irigasi dengan memanfaatkan curah hujan atau air pasang dengan membangun waduk-waduk. Saat ini, pola tanam padi di distrik ini masih mengandalkan curah hujan, sehingga memasuki musim panas lahan persawahan tidak bisa dimanfaatkan. Potensi lahan untuk dikembangkan sebagai lahan persawahan sangat tinggi.</p>
+<p>
+	Bahan penyusun tanah Pulau Kolepom merupakan bahan induk endapan, baik endapan dari laut maupun endapan dari sungai. Bahan endapan dari laut merupakan lempung sedangkan endapan sungai terdiri dari pasir, lempung dan debu.</p>
+<p>
+	Pulau Kolepom mengalami proses geomorfologi yang dominan yaitu abrasi dan sedimentasi. Proses abrasi terjadi disepanjang patai timur karena pengaruh dari arus sungai besar, sedangkan proses sedimentasi terjadi di pesisir barat.</p>
+<p>
+	Kondisi perairan pesisir Pulau Kolepom merupakan perairan yang sangat dangkaldengan gradasi kedalaman yang relatif kecil dari garis panjtai kearah laut dalam. Kedalaman laut 1 meter ditemui sejauh 1 km dari garis pantai hampir diseluruh pesisir selatan dan barat.</p>
+<p>
+	<strong>OSEANOGRAFI</strong></p>
+<p>
+	Sifat pasang surut yang berkembang pada perairan Pulau Kolepom adalah pasang surut mirip harian ganda. Tunggang air tertinggi dalam setahun dapat mencapai 9 meter atau lebih.</p>
+<p>
+	Perairan Pulau Kolepom didominasi oleh arus pasang surut. Dominasi ini disebabkan karena sifat pasang surut yang berkembang adalah pasang surut mirip harian ganda dengan amplitudo yang cukup besar, yaitu 9.4 m.</p>
+<p>
+	Wilayah selatan dari perairan pulau ini memiliki kualitas air yang lebih baik jika dibandingkan dengan daerah pesisir utara. Hal ini disebabkan karena pengaruh aliran Sungai Digul di utara.</p>
+<p>
+	Ombak yang berkembang pada perairan Pulau Kolepom sangt tergantung dari angin yang berkembang tiap musimnya. Pola angin yang berkembang ini menyebabkan terjadinya abrasi pada pantai pulau ini.&nbsp;</p>
+</div></p>
+
+<hr>
+
+<h2><a id="sp">Sarana dan Prasarana</a></h2>
+<p><div class="readmore"><p>
+	&nbsp;</p>
+<p>
+	<strong>SARANA PRASARANA</strong></p>
+<p>
+	Pulau Kolepom sudah memiliki sarana dan prasarana yang cukup baik. Selain jalan yang sudah bagus, di pulau ini juga sudah tersedia dermaga beton, lapangan udara pesawat perintis, sekolah hingga SMP, Puskesmas dan listrik desa.</p>
+<p>
+	Namun, semua hal tersebut perlu ditingkatkan lagi dalam upaya meningkatan kesejahteraan masyarakat dan upaya mempercepat proses pembangunan. Bebagai parameter seperti perhubungan, telekomunikasi, pendidikan, perumahan rakyat, kesehatan dan air bersih merupakan kebutuhan yang mestinya mendapat perhatian yang serius dari Perintah Pusat terutama Pemerintah Daerah.&nbsp;</p>
+</div></p>
+
+<hr>
+
+<h2><a id="pi">Peluang Investasi</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<h2><a id="pap">Potensi dan Arahan Pengembangan</a></h2>
+<p><div class="readmore"><p>
+	&nbsp;</p>
+<p>
+	<strong>UPAYA PENGEMBANGAN</strong></p>
+<p>
+	Pengembangan ekonomi di berbagai bidang pengambangan seperti&nbsp; sektor perikanan (kepiting bakau, ikan arwana dan perikanan tawar lainnya) mempunyai peluang sangat tinggi. Sektor pertanian seperti pengembangan lahan sawah tadah hujan, tanaman pangan seperti umbi-umbian, berpeluang untuk dikembangkan cukup tinggi. Selain itu juga, sektor peternakan bisa dikembangkan di daerah ini, terutama peternaka rusa dan penangkaran buaya, mengingat permintaan pasar yang tinggi untuk komoditas ini terutama dari Kabupaten Merauke.</p>
+<p>
+	Skala pengembangan industri diberbagai sektor dari hasil laut, pertanian, perkebunan, hasil hutan dan pariwisata yang sedang berkembang baru oleh PT. Dwikarsa Reksa Abadi. Perusahaan ini melakukan ekspor ke China secara priodik.&nbsp;</p>
+</div></p>
+
+<hr>
+
+<h2><a id="kp">Kendala Pengembangan</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<h2><a id="rf">Referensi</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<br />
+	<i> 
+		<p style="font-size:12px;">
+			Karena keterbatasan SDM dalam penginputan dan pengolahan data, kami mohon maaf atas ketidak lengkapan beberapa data pulau yang kami tampilkan, harap dimaklumi.
+			Berikan keritik dan saran pada kolom komentar agar kita dapat bersama menyajikan sebuah data yang cukup sempurna untuk halayak ramai yang berguna
+			demi kesejahterahan, kelestarian dan keindahan pulau-pulau kecil yang dimiliki Indonesia.<br />
+			*Jika sekiranya anda memiliki data yang cukup banyak, silakan mengirimkan file melalui email kami di <b><a>identifikasippk@gmail.com</a></b>
+			
+		</p>
+	</i>
+<br />
+
+<div id="fb_comn" class="fb-comments" data-href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_info/341" data-width="800" data-numposts="5" data-colorscheme="light"></div>
+
+
+</div>
+</div>
+</div>
+<div id="wrapper">
+
+<div class="footer"><p>
+<!--<marquee onmouseover="this.stop()" onmouseout="this.start()" scrollamount="5" direction="right" width="798" height="14"  behavior="scroll">-->
+<a href="http://www.ppk-kp3k.kkp.go.id/" target="_blank">Direktorat Pendayagunaan Pulau-Pulau Kecil &nbsp; | &nbsp;</a>
+<a href="http://www.kp3k.kkp.go.id/" target="_blank">Ditjen Kelautan, Pesisir dan Pulau-Pulau Kecil &nbsp; | &nbsp;</a>
+<a href="http://www.kkp.go.id/" target="_blank">Kementerian Kelautan dan Perikanan</a>
+<!--</marquee>--> <br />
+Jl. Medan Merdeka Timur No. 16 Gedung Mina Bahari 3 Lantai 10, Jakarta, Indonesia <br />
+Email : identifikasippk@gmail.com <br />
+Telp &amp; Fax: (021) 3522058 <br />
+&copy; Copyright Direktorat Pendayagunaan Pulau-Pulau Kecil 2012&nbsp; <br /></p>
+</div>
+</div>
+</body>
+</html>

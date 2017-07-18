@@ -1,0 +1,452 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Pulau SALANDO</title>
+
+<meta charset="utf-8"/>
+
+<meta property="fb:app_id" content="559408774147878" />
+
+
+<meta property="og:title" content="Pulau SALANDO" />
+<meta property="og:url" content="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_info/412" />
+
+
+    <script type="text/javascript" src="http://ajax.microsoft.com/ajax/jquery/jquery-1.4.4.min.js">
+    </script>
+    
+    <script type="text/javascript" src="http://plugins.learningjquery.com/expander/jquery.expander.js">
+    </script>
+    
+    <script type="text/javascript">
+        $(function () {
+            $('div.readmore').expander({
+                slicePoint:200,
+                expandText: '(Baca selengkapnya)',
+                userCollapseText: '(Sembunyikan selengkapnya)'
+            });
+        });
+    </script>
+        
+	<script src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/galleria/galleria-1.2.8.min.js"></script>
+
+        <SCRIPT TYPE="text/javascript">
+            <!--
+            //Disable right click script
+            //visit http://www.rainbow.arch.scriptmania.com/scripts/
+            var message="Sorry, right-click has been disabled";
+            ///////////////////////////////////
+            function clickIE() {if (document.all) {(message);return false;}}
+            function clickNS(e) {if
+            (document.layers||(document.getElementById&&!document.all)) {
+            if (e.which==2||e.which==3) {(message);return false;}}}
+            if (document.layers)
+            {document.captureEvents(Event.MOUSEDOWN);document.onmousedown=clickNS;}
+            else{document.onmouseup=clickNS;document.oncontextmenu=clickIE;}
+            document.oncontextmenu=new Function("return false")
+            // -->
+            </SCRIPT>
+            
+            <SCRIPT TYPE="text/javascript">
+            <!--
+            //Disable select-text script (IE4+, NS6+)
+            //visit http://www.rainbow.arch.scriptmania.com/scripts/
+            ///////////////////////////////////
+            function disableselect(e){
+            return false
+            }
+            function reEnable(){
+            return true
+            }
+            //if IE4+
+            document.onselectstart=new Function ("return false")
+            //if NS6
+            if (window.sidebar){
+            document.onmousedown=disableselect
+            document.onclick=reEnable
+            }
+            // -->
+            </SCRIPT>  
+              
+<link rel="stylesheet" type="text/css" href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/css/main.css" media="screen"/>
+<style type='text/css'>
+#info_wrap{
+	width:820px;
+	margin:0 auto;
+	text-shadow:0px 1px 1px #09F;
+}
+table{
+	color:#000000;
+}
+h1{
+	color:#000000;
+}
+.tengahin{
+	width: 105px;
+	height: 30px;
+	margin: 0 auto auto auto;
+}
+#box_view{
+	background-image:-webkit-gradient(linear, 0 0%, 0 100%, from(#FFFFFF), to(#E0F0F5));
+	background:#FFF;
+	color:#F60;
+	border: 1px solid #fff;
+	border-radius: 4px 4px 4px 4px;
+	box-shadow: 0 8px 6px -6px black;
+	position:fixed;
+	right:0;
+	top:150px;;
+	width:80px;
+	z-index:10;
+	padding-left:12px;
+	font-size:10px;
+	}
+#box_view li{
+	color:#F60;
+	margin-left:-30px;
+	}
+	#wrapper a b {
+	color: #FFF;
+	font-size:14px;
+}
+.batas{
+	float:left;
+	border-right-style:inset;
+	border-right-width:thin;
+	}
+.text_h_wrap{
+	
+	padding-left:450px;
+	padding-top:39px;
+	text-shadow:0px 1px 1px #09F;
+	}
+#wrapper .footer p{
+	font-size:12px;
+	color: #FFF;
+	text-align:center;
+	text-shadow:0px 1px 1px #09F;
+}
+td,th {
+	font-size: 12px;
+}
+
+marquee a{
+	color:#FFF
+	}
+#wrapper .footer a{
+	color: #FFFFFF;
+}
+</style>
+            
+<script>
+function goBack()
+  {
+  window.history.back()
+  }
+</script>
+<script type="text/javascript">
+function Popup( url, height, width )
+{
+    var windowProperties = "toolbar = 0, scrollbars = 1, location = 0, statusbar = 0, menubar = 0, resizable = 1, width = " + width + ", height = " + height + ", left = 50, top = 50";
+ 
+    return window.open( url, "", windowProperties );
+}
+</script>
+
+
+
+</head>
+<body oncontextmenu='return false;' onkeydown='return false;' onmousedown='return false;'>
+
+<a id="top_view"></a>
+<div id="wrapper">
+<div class="header_wrap">
+<div class="text_h_wrap">
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/home_page'><b>&nbsp;Home&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/menu_info/1'><b>&nbsp;About Us&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_data'><b>&nbsp;Direktori Pulau&nbsp;&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/program_ip'><b>&nbsp;IKU&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/data_ppkt'><b>&nbsp;PPKT&nbsp;</b></a>
+</div>
+<!--<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/maintenance'><b>&nbsp;Login&nbsp;</b></a>-->
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/dir_log_cont'><b>&nbsp;Login&nbsp;</b></a>
+
+</div>
+</div>
+</div>
+
+<div id="fb-root"></div>
+<script>
+  window.fbAsyncInit = function() {
+    // init the FB JS SDK
+    FB.init({
+      appId      : '559408774147878',                        // App ID from the app dashboard
+      status     : true,                                 // Check Facebook Login status
+      xfbml      : true                                  // Look for social plugins on the page
+    });
+
+    // Additional initialization code such as adding Event Listeners goes here
+  };
+
+  // Load the SDK asynchronously
+  (function(){
+     // If we've already installed the SDK, we're done
+     if (document.getElementById('facebook-jssdk')) {return;}
+
+     // Get the first script element, which we'll use to find the parent node
+     var firstScriptElement = document.getElementsByTagName('script')[0];
+
+     // Create a new script element and set its id
+     var facebookJS = document.createElement('script'); 
+     facebookJS.id = 'facebook-jssdk';
+
+     // Set the new script's source to the source of the Facebook JS SDK
+     facebookJS.src = '//connect.facebook.net/en_US/all.js';
+
+     // Insert the Facebook JS SDK into the DOM
+     firstScriptElement.parentNode.insertBefore(facebookJS, firstScriptElement);
+   }());
+</script>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=559408774147878";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="box_view">
+    <a href="#top_view">MENU</a>
+    <h3><p>Lihat Informasi:</p></h3>
+    <ul>
+	<a href="#sf"><li>Slide Foto</li></a>
+    <a href="#gu"><li>Gambaran Umum</li></a>
+    <a href="#ksbk"><li>Kependudukan, Sosial Budaya dan Kelembagaan</li></a>
+    <a href="#eshp"><li>Ekosistem dan Sumberdaya Hayati</li></a>
+    <a href="#snh"><li>Sumberdaya Non Hayati</li></a>
+    <a href="#aps"><li>Aktivitas Pengelolaan Sumberdaya</li></a>
+    <a href="#ling"><li>Lingkungan</li></a>
+    <a href="#sp"><li>Sarana dan Prasarana</li></a>
+    <a href="#pi"><li>Peluang Investasi</li></a>
+    <a href="#pap"><li>Potensi Arahan Pengembangan</li></a>
+    <a href="#kp"><li>Kendala Pengembangan</li></a>
+	<a href="#rf"><li>Referensi</li></a>
+    </ul>
+    <a href="#fb_comn">KOMENTAR</a>
+</div>
+
+<br>
+			<a id="sf"></a></h2>
+			<div id="galleria">
+            <!--<div class='tengahin'><input type="button" value="Kembali Ke List" onclick="goBack()"></div>-->
+                            </div>
+            
+            <script>
+            Galleria.loadTheme('http://www.ppk-kp3k.kkp.go.id/direktori-pulau/galleria/themes/classic/galleria.classic.min.js');
+            Galleria.run('#galleria');
+            </script>
+</div>
+
+<div id="text_warp">
+
+
+<p><h1>SALANDO</h1></p>
+<table>
+<tr>
+	<td>Nama Lain</td> <td>:</td> <td></td>
+</tr>
+<tr>
+	<td>Propinsi</td> <td>:</td> <td>SULAWESI TENGAH</td>
+</tr>
+<tr>
+	<td>Kabupaten</td> <td>:</td> <td>KABUPATEN TOLI-TOLI</td>
+</tr>
+<tr>
+	<td>Kecamatan</td> <td>:</td> <td>DAKO PAMEAN</td>
+</tr>
+<tr>
+	<td>Koordinat</td> <td>:</td> <td><a href="http://www.ppk-kp3k.kkp.go.id/giskkp/index.html?extent=13442375.3446 146964.3515,13451547.7880 150533.0053"target="_blank"><p>
+	1&deg; 20&#39; 10,000&quot; LU - 120&deg; 47&#39; 46,000&quot; BT</p>
+</a></td>
+</tr>
+</table>
+<hr>
+
+<h2><a id="gu">Gambaran Umum</a></h2>
+<p><div class="readmore"><p>
+	&nbsp;</p>
+<p>
+	Pulau Salando adalah salah satu pulau kecil terluar yang terletak di Sulawesi Tengah. Pulau ini berbentuk bukit batu yang terjal dengan luas sekitar 0.3 Km<sup>2</sup>. Di pulau ini terdapat Titik Dasar TD.044 dan Titik Referensi TR.044. Pulau ini didiami oleh 3 (tiga) orang pegawai penjaga lampu mercusuar dan 4 (empat) orang anggota keluarga mereka.</p>
+<p>
+	Secara administratif, Pulau Salando termasuk ke dalam wilayah administrasi Desa Kapas, Kecamatan Dako Pamean, Kabupaten Tolitoli, Provinsi Sulawesi Tengah. Pulau Salando oleh masyarakat setempat dinamakan dengan Pulau Lampu. Pulau ini terletak di laut Sulawesi, tepatnya pada titik koordinat 01<sup>o </sup>20&#39; 16&quot; LU dan 120<sup>o </sup>47&#39; 31&quot; BT.</p>
+<p>
+	Pulau Salando terletak di sebelah Utara daratan utama Sulawesi dan berada di perairan Laut Sulawesi dengan batas wilayah sebelah Utara&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; berbatasan dengan Laut Sulawesi (Batas Wilayah Negara Malaysia), sebelah Timur dengan Pulau Dolangan, Desa Santigi, Kecamatan Tolitoli Utara, sebelah Selatan berbatasan dengan daratan utama Sulawesi (Desa Kapas, Kecamatan Dako Pemean), dan sebelah Barat dengan Laut Sulawesi.</p>
+<p>
+	Untuk mencapai pulau Salando, awal perjalanan dapat dimulai dari Kota Palu. Jalur darat atau udara dapat ditempuh melalui rute kota Palu Tolitoli. Jarak tempuh melalui jalur darat sekitar 430 km dengan waktu tempuh 12 - 13 jam menggunakan travel atau mobil sewaan. Jalur udara dapat digunakan dengan waktu tempuh selama 50 menit dengan menggunakan pesawat perintis dengan jadwal penerbangan setiap hari Selasa dan hari Kamis.</p>
+<p>
+	Melalui perjalanan darat ditempuh dari Desa Kapas yang merupakan Desa terdekat untuk menjangkau pulau ini. Desa Kapas, Kecamatan Dako Pamean berjarak 60 km dari Kota Tolitoli dan dapat ditempuh melalui jalur Darat selama kurang lebih 90 menit. Selanjutnya dari Desa Kapas, jalur Laut merupakan pilihan dengan waktu tempuh 30 menit menggunakan perahu nelayan pemancing ikan dengan kapasitas mesin 5,5 PK.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="ksbk">Kependudukan, Sosial Budaya dan Kelembagaan</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<h2><a id="eshp">Ekosistem dan Sumberdaya Hayati</a></h2>
+<p><div class="readmore"><p>
+	&nbsp;</p>
+<p>
+	Perkembangan terumbu karang di Pulau Salando dapat dilihat dari pengaruh oseanografi yang lebih kuat dimana terumbu karang terkonsentrasi di sepanjang sisi Utara dan Timur pulau.&nbsp; Pada sisi Barat dan Selatan didominasi oleh hamparan pasir dan pada lamun. Rataan terumbu panjangnya terhampar dengan lebar sekitar&nbsp; 300 meter dari garis pantai hingga tubir terumbu.&nbsp;</p>
+<p>
+	Terumbu karang memiliki tipe terumbu tepi atau terumbu pantai, dimana karang tumbuh pada kedalaman 1,5 &ndash; 15 meter, selanjutnya merupakan hamparan teras pasir halus yang dihuni oleh organisme penggali pasir (infauna)&nbsp; dan lamun (Sea Grass).&nbsp; Pada keadaan surut terendah karang-karang di rataan terumbu dan di daerah tubir terekspose di udara dan terikan matahari langsung sehingga menyebabkan sebagian karang mengalami kematian, walaupun masih banyak yang bisa beradaptasi.&nbsp;</p>
+<p>
+	Pulau Salando memiliki tingkat penutupan karang rata-rata 45 % ini menunjukkan kondisi rata-rata terumbu karang di Pulau Salando adalah sedang.&nbsp;&nbsp; Pada rataan terumbu karang (<em>reef flate</em>) tingkat penutupan karang hidup (<em>Hard coral dan Soft Coral</em>) mencapai 45 %, ini menunjukkan kondisi terumbu karang pada zona <em>reef flate</em> di pulau ini dalam kondisi sedang.&nbsp; Sedangkan terumbu karang pada zona <em>reef edge / reef slope</em>, kondisi tutupan karng mencapai 50 % dan didominasi oleh jenis karang arcopora dengan bentuk pertumbuhan (live form) dominan branching dan submasif. Ini menunjukkan bahwa kondisi karang di zona <em>reef edge/reef slope</em> di Pulau Salando berada pada kondisi baik.</p>
+<p>
+	Eksistensi terumbu karang di perairan Pulau Salando telah berasosiasi dengan banyak organisme penting dan bernilai ekonomis tinggi.&nbsp; Berbagai jenis organisme karang yang bernilai ekonomis baik untuk dikonsumsi seperti berbagai jenis kima (<em>Tridacna spp</em>), kerang Kepala Kambing (C<em>assis cornuta</em>), Kerang japing&nbsp; dan teripang (<em>Holothurian</em>) masih dijumpai walaupun jumlah dan kelimpahannya relatif kecil.&nbsp; <em>Tridacna spp</em> sebagai biota laut dilindungi memang sudah langka terutama jenis-jenis yang berukuran besar seperi kima raksasa (<em>Tridacna gigas</em>), kima air (<em>T. derasa</em>), kima pasir (<em>Hippopus porcellanus</em>), dan kima sisik (<em>T. Scuamosa</em>).&nbsp;&nbsp; Jenis-jenis karang ekonomis untuk biota hiasan aquarium yang banyak diekspor masih cukup melimpah antara lain <em>Lobophyllia spp, Goniopora spp, Pectinia spp, Euphyllia spp, Plerogyra spp</em>, dan<em> Physogyra spp</em>.&nbsp;</p>
+<p>
+	<strong>Lamun</strong></p>
+<p>
+	Di perairan pulau Salando terdapat beberapa jenis lamun yang tersebar pada sisi Barat dan Salatan pulau ini.&nbsp; Terdapat 4 (empat) jenis lamun, yaitu : <em>Thallasia hemprichii</em>, <em>Enhalus acoroides</em>, <em>Halophila ovalis </em>dan <em>Cymodocea rotundata.&nbsp; </em>Dari keempat jenis lamun yang terdapat di sekitar perairan Pulau Salando, jenis lamun Cymodocea rodundata merupakan jenis lamun yang dominan.</p>
+<p>
+	<strong>Perikanan</strong></p>
+<p>
+	Jenis-jenis ikan karang hias yang banyak dijumpai di Pulau Salando <em>Amphiprion accoelaris. A, clarki, Abudefduf bengalensis, A. lorentzi, A. septemfasciatus, A, sexatilis </em>dan <em>A, sexfasciatus), </em>ikan betok (<em>Chromis</em>, <em>Cinerascens, C, viridis, C, weberi), </em>ikan kakaktua <em>(Scarus ghobban), </em>ikan okpis <em>(Bodianus mesothorax), </em>ikan tringger <em>(Rhinechantus </em>verrucosus), ikan pakol <em>(Arothron immaculatus), </em>ikan einjel <em>(Pomacanthus anularis), </em>ikan kepe-kepe <em>(Chaetodon, Adiergatos, C, baronessa, C. octofasciatus, Cheilmon rostrarus), </em>ikan layaran <em>(Heniochus acuminatus).</em></p>
+<p>
+	&nbsp;</p>
+<p>
+	Beberapa ikan karang konsumsi yang banyak dijumpai adalah dari jenis ikan kerapu ( Chomileptes altivelis, <em>Ephinephelus fuscoguttatus), </em>ikan kakap (<em>baroci</em>) <em>(Luiyanus decussatus), </em>ikan baronang <em>(Siganus coralinus, S. dolainus), </em>ikan ekor kuning <em>(Caesio kuning), </em>ikan tanda-tanda <em>(Luiyanus Fulvilamma), </em>ikan pari bintik biru <em>(Halichoeris centriquadrus), </em>ikan gitaran <em>(Rhynchobatus djiddesis), </em>ikan pari <em>(Rhinotera javanica) </em>dan beberapa jenis ikan konsumsi lainnya.</p>
+<p>
+	<strong>Fauna Laut</strong></p>
+<p>
+	Golongan biota laut lainnya yang terdapat di Pulau Salando adalah seperti moluska, <em>echinodermata</em>, krustasea dan <em>polychaeta</em>.&nbsp; Dari golongan moluska yang terpenting adalah kambing kambing (<em>Cassis cornuta</em>) dan kima (<em>Tridacna spp).&nbsp; T</em>erdapat 4 (empat) jenis kima yaitu di perairan sekitar pulau ini, yaitu : kima besar (<em>Tridacna maxima</em>)<em>, </em>kima sisik (<em>Tridacna </em>squamosa), kima lubang (<em>Tridacna crocea</em>) dan kima pasir (<em>Hippopus hippopus</em>).&nbsp; Dari keempat jenis koma ini, yang paling mudah didapatkan diperairan Pulau Salando adalah kim pasir ((<em>Hippopus hippopus</em>)</p>
+<p>
+	Dari golongan <em>echinodermata</em> jenis-jenis yang dijumpai adalah jenis bulu babi (<em>Diadema setosom </em>dan <em>Echinuthrix calamaris</em>), jenis teripang (<em>Holothuria scabra, H, arta </em>dan <em>Bohadschia argus</em>), jenis binatang laut (<em>Linckia laevigata, Culcita novaguineae </em>dan <em>Ophiotrichides nereidina</em>), jenis bintang ular (<em>Ophitrichoides nereidina</em>) dan jenis bintang biru (<em>Linekia laevigata</em>).</p>
+<p>
+	Selanjutnya jenis krustasea yaitu jenis lobster/udang karang (<em>Panulirius spp</em>)<em>, </em>kepiting batu (<em>Graphus temichristatus </em>dan <em>Dardamus guitatus, Ocyphode marcphitalmus</em>), dan kepiting cina (<em>Scylia serrata</em>)<em>. &nbsp;</em></p>
+</div></p>
+
+<hr>
+
+<h2><a id="snh">Sumberdaya Non Hayati</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<h2><a id="aps">Aktivitas Pengelolaan Sumberdaya</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<h2><a id="ling">Lingkungan</a></h2>
+<p><div class="readmore"><p>
+	&nbsp;</p>
+<p>
+	Pulau Salando memiliki satuan morfologi berupa perbukitan curam dengan tingkat kemiringan di atas 30<sup>o</sup>.&nbsp; Pulau ini sepintas merupakan onggokan gunung batu besar dengan ketinggian hingga mencapai <u>+</u> 50 meter dari permukaan laut. &nbsp;Tipe pantai di sekeliling Pulau Salando adalah tipe pantai berbatu / <em>rock coast</em> yang merupakan pantai belum terubah yang terbentuk dari&nbsp; batuan yang memiliki resistensi tinggi yaitu berupa batuan granit.&nbsp; Pantai ini&nbsp; dicirikan oleh garis pantai yang dibatasi oleh batuan yang curam dan sangat curam.&nbsp;</p>
+<p>
+	Batuan penyusun berupa batuan granit memiliki warna segar abu-abu kehijauan, warna lapuk kecoklatan, keras hingga sangat keras, telah mengalami pengkekaran yang terisi oleh mineral kalsit dan kuarsa.&nbsp; Pada sisi Selatan pulau, hasil pelapukan batuan ini menghasilkan pantai berpasir kasar yang berasal dari mineral kuarsa yang dikandungnya.</p>
+<p>
+	Iklim di wilayah ini tergolong tropis, dengan temperatur udara rata-rata 29 &deg;C. Suhu terendah tercatat 25 &deg;C, dan biasanya terjadi pada bulan Januari &ndash; Maret, yang tergolong bulan-bulan basah.&nbsp; Suhu tertinggi terjadi pada bulan September &ndash; Desember, dimana suhu bisa mencapai 30 &deg;C. &nbsp;Tingkat curah hujan tahunan di wilayah ini sekitar 2302 mm/tahun.&nbsp; Distribusi suhu udara maksimum harian 32,0 &deg;C terjadi pada bulan Agustus, kisaran udara tahunan antara 21 &ndash; 33,8 &deg;C dengan nilai rataan 26,4 &deg;C.&nbsp; Suhu minimum terendah terjadi pada bulan Juli.</p>
+<p>
+	Pasang surut di perairan Pulau Salando adalah tipe pasang surut campuran harian ganda (<em>mixed prevailing semi diurnal</em>).&nbsp; Dalam satu hari terjadi 2 kali air pasang dan 2 kali air surut.&nbsp; Tunggang pasang surut (<em>tidal range</em>)di perairan Pulau Salando adalah mencapai maksimum 2,5 m.&nbsp; Pasang surut dengan type sedemikian memiliki periode gelombang pasut sekitar 12 jam.</p>
+<p>
+	Kecepatan arus maksimum di perairan pesisir Pulau Salando terjadi pada sisi Timur &ndash; Selatan pulau yang berbatasan langsung dengan daratan utama Sulawesi.&nbsp; Besarnya kecepatan arus di sisi pulau ini disebabkan oleh karena massa air yang bergerak melalui celah / selat Kapas antara Pulau Salando dengan daratan utama Sulawesi.&nbsp;</p>
+</div></p>
+
+<hr>
+
+<h2><a id="sp">Sarana dan Prasarana</a></h2>
+<p><div class="readmore"><p>
+	&nbsp;</p>
+<p>
+	Pulau Salando merupakan pulau sangat kecil yang tidak memiliki penduduk yang bermukim tetap sepanjang tahun.&nbsp; Akan tetapi di pulau ini tinggal 3 (tiga) orang penjaga lampu mencusuar (Pegawai Departemen Perhubungan), dan 4 orang keluarga pegawai.&nbsp;</p>
+<p>
+	Peruntukan Pulau Salando untuk penempatan Menara Lampu Mercusuar oleh Departemen Perhubungan menjadikan pulau ini terdapat beberapa sarana penunjang operasional lampu mercusuar.&nbsp; Terdapat 5 bangunan utama di pulau ini, yaitu : (1) Menara lampu mercusuar, (2) Gudang logistik, (3) Kamar Mesin, (4) Mess pegawai, dan (5) Bak penampungan air hujan.&nbsp; Sarana operasional ini di bangun di sisi Selatan Pulau Salando yang memiliki kemiringan <u>+</u> 30<sup>o</sup> dan lokasi ini relatif terlindung dari terpaan angin laut,&nbsp; Sedangkan menara lamu mercusuar dibangun&nbsp; di puncak pulau pada ketinggian 27 meter dpl.&nbsp; Untuk menghubungkan bangunan sarana operasional dengan menara mercusuar, terdapat titian tangga yang terbuar dari bahan beton dengan tingkat kemiringan &gt; 45<sup>o</sup> sepanjang <u>+</u> 75 meter.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="pi">Peluang Investasi</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<h2><a id="pap">Potensi dan Arahan Pengembangan</a></h2>
+<p><div class="readmore"><p>
+	&nbsp;</p>
+<p>
+	Upaya pengembangan Pulau Salando kedepan sudah semestinya dilihat sebagai satu kesatuan wilayah yang utuh dengan wilayah disekitarnya.&nbsp; Pulau Salando yang berada dalam kawasan ini telah ditetapkan sebagai suaka marga satwa dan Desa Sentigi dan Desa Kapas merupakan lokasi wisata bahari lokal di Kabupaten Tolitoli, hal ini sudah semetinya menjadi pertimbangan pengembangan Pulau Salando kedepan.&nbsp; &nbsp;</p>
+<p>
+	Keberadaan petugas penjaga mercusuar dan berikut sarana dan alat komunikasinya berupa radio, adalah salah satu potensi dan peluang untuk melakukan penjagaan dan pengawasan intensif terhadap sumberdaya alam yang ada di Pulau Salando dan sekitarnya.&nbsp; Peluang untuk pengawasan intensif sumberdaya yang ada di pulau ini adalah merupakan potensi untuk pengembangan kawasan di sekitar Pulau Salando dimana seringkali terjadi pelanggaran-pelanggaran terhadap penegakan hukum, seperti eksploitasi biota laut yang dilindungi.&nbsp; Hal ini perlu dilakukan untuk menjaga tapal batas dan kedaulatan NKRI mengingat Pulau Salando adalah pulau yang berbatasan dengan negara tetangga.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="kp">Kendala Pengembangan</a></h2>
+<p><div class="readmore"><p>
+	&nbsp;</p>
+<p>
+	<strong>Ketersedian Air Bersih</strong></p>
+<p>
+	Pemenuhan kebutuhan air tawar bersih untuk keperluan minum dan hidup sehari-hari merupakan masalah pokok bagi pengembangan Pulau Salando kedepan.&nbsp; Pulau Salando yang merupakan pulau sangat kecil dan tersusun dari batuan granit tidak memiliki ketersediaan air tawar.&nbsp; Untuk memenuhi kebutuhan air tawar bagi petugas penjaga mercusuar, digunakan bak penampungan air hujan dan&nbsp; pengambilan air tawar dari daratan utama di desa Kapas.</p>
+<p>
+	<strong>Pengambilan Fauna yang Dilindungi</strong></p>
+<p>
+	Di perairan sekitar Pulau Salando terdapat beberapa jenis iota laut yag dilindungi (endangered species IUCN; Apendiks I dan II CITES; UU No. 5 Tahun 1990), utamanya adalah Kima (<em>Tridacna</em> spp), kerang kambing-kambing (<em>Cassis cornuta</em>), penyu sisik (<em>Eretmochelys imbricata</em>) dan penyu hijau (<em>Chelonia mydas</em>).&nbsp; Eksploitasi biota laut yang dilindungi ini kerap kali terjadi dalam frekuensi yang cukup meresahkan.&nbsp; Dalam sebulan terjadi 3-5 kali aktifitas pengambilan biota ini oleh masyarakat sekitar.</p>
+<p>
+	<strong>Minimnya Sarana Dan Prasarana</strong></p>
+<p>
+	Pulau Salando yang ditempati oleh penjaga mercusuar tidak memiliki sarana dan prasarana yang memadai.&nbsp; Untuk kebutuhan transportasi, tidak tersedia sarana transportasi seperti perahu atau kapal yang memadai dengan tingkat keamanan yang baik dan dermaga untuk mendukung aktivitas transportasi ini. &nbsp;Minimnya ketersediaan sarana dan prasarana ini berkorelasi dengan tingkat pemanfaatan pulau ini yang hanya diperuntukkan untuk lokasi lampu mercusuar dan perairan sekitarnya untuk lokasi penangkapan ikan oleh nelayan tradisional di sekitar lokasi.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="rf">Referensi</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<br />
+	<i> 
+		<p style="font-size:12px;">
+			Karena keterbatasan SDM dalam penginputan dan pengolahan data, kami mohon maaf atas ketidak lengkapan beberapa data pulau yang kami tampilkan, harap dimaklumi.
+			Berikan keritik dan saran pada kolom komentar agar kita dapat bersama menyajikan sebuah data yang cukup sempurna untuk halayak ramai yang berguna
+			demi kesejahterahan, kelestarian dan keindahan pulau-pulau kecil yang dimiliki Indonesia.<br />
+			*Jika sekiranya anda memiliki data yang cukup banyak, silakan mengirimkan file melalui email kami di <b><a>identifikasippk@gmail.com</a></b>
+			
+		</p>
+	</i>
+<br />
+
+<div id="fb_comn" class="fb-comments" data-href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_info/412" data-width="800" data-numposts="5" data-colorscheme="light"></div>
+
+
+</div>
+</div>
+</div>
+<div id="wrapper">
+
+<div class="footer"><p>
+<!--<marquee onmouseover="this.stop()" onmouseout="this.start()" scrollamount="5" direction="right" width="798" height="14"  behavior="scroll">-->
+<a href="http://www.ppk-kp3k.kkp.go.id/" target="_blank">Direktorat Pendayagunaan Pulau-Pulau Kecil &nbsp; | &nbsp;</a>
+<a href="http://www.kp3k.kkp.go.id/" target="_blank">Ditjen Kelautan, Pesisir dan Pulau-Pulau Kecil &nbsp; | &nbsp;</a>
+<a href="http://www.kkp.go.id/" target="_blank">Kementerian Kelautan dan Perikanan</a>
+<!--</marquee>--> <br />
+Jl. Medan Merdeka Timur No. 16 Gedung Mina Bahari 3 Lantai 10, Jakarta, Indonesia <br />
+Email : identifikasippk@gmail.com <br />
+Telp &amp; Fax: (021) 3522058 <br />
+&copy; Copyright Direktorat Pendayagunaan Pulau-Pulau Kecil 2012&nbsp; <br /></p>
+</div>
+</div>
+</body>
+</html>

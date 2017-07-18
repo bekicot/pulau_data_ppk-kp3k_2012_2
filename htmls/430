@@ -1,0 +1,440 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Pulau ASUTUBUN</title>
+
+<meta charset="utf-8"/>
+
+<meta property="fb:app_id" content="559408774147878" />
+
+
+<meta property="og:title" content="Pulau ASUTUBUN" />
+<meta property="og:url" content="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_info/430" />
+
+
+    <script type="text/javascript" src="http://ajax.microsoft.com/ajax/jquery/jquery-1.4.4.min.js">
+    </script>
+    
+    <script type="text/javascript" src="http://plugins.learningjquery.com/expander/jquery.expander.js">
+    </script>
+    
+    <script type="text/javascript">
+        $(function () {
+            $('div.readmore').expander({
+                slicePoint:200,
+                expandText: '(Baca selengkapnya)',
+                userCollapseText: '(Sembunyikan selengkapnya)'
+            });
+        });
+    </script>
+        
+	<script src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/galleria/galleria-1.2.8.min.js"></script>
+
+        <SCRIPT TYPE="text/javascript">
+            <!--
+            //Disable right click script
+            //visit http://www.rainbow.arch.scriptmania.com/scripts/
+            var message="Sorry, right-click has been disabled";
+            ///////////////////////////////////
+            function clickIE() {if (document.all) {(message);return false;}}
+            function clickNS(e) {if
+            (document.layers||(document.getElementById&&!document.all)) {
+            if (e.which==2||e.which==3) {(message);return false;}}}
+            if (document.layers)
+            {document.captureEvents(Event.MOUSEDOWN);document.onmousedown=clickNS;}
+            else{document.onmouseup=clickNS;document.oncontextmenu=clickIE;}
+            document.oncontextmenu=new Function("return false")
+            // -->
+            </SCRIPT>
+            
+            <SCRIPT TYPE="text/javascript">
+            <!--
+            //Disable select-text script (IE4+, NS6+)
+            //visit http://www.rainbow.arch.scriptmania.com/scripts/
+            ///////////////////////////////////
+            function disableselect(e){
+            return false
+            }
+            function reEnable(){
+            return true
+            }
+            //if IE4+
+            document.onselectstart=new Function ("return false")
+            //if NS6
+            if (window.sidebar){
+            document.onmousedown=disableselect
+            document.onclick=reEnable
+            }
+            // -->
+            </SCRIPT>  
+              
+<link rel="stylesheet" type="text/css" href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/css/main.css" media="screen"/>
+<style type='text/css'>
+#info_wrap{
+	width:820px;
+	margin:0 auto;
+	text-shadow:0px 1px 1px #09F;
+}
+table{
+	color:#000000;
+}
+h1{
+	color:#000000;
+}
+.tengahin{
+	width: 105px;
+	height: 30px;
+	margin: 0 auto auto auto;
+}
+#box_view{
+	background-image:-webkit-gradient(linear, 0 0%, 0 100%, from(#FFFFFF), to(#E0F0F5));
+	background:#FFF;
+	color:#F60;
+	border: 1px solid #fff;
+	border-radius: 4px 4px 4px 4px;
+	box-shadow: 0 8px 6px -6px black;
+	position:fixed;
+	right:0;
+	top:150px;;
+	width:80px;
+	z-index:10;
+	padding-left:12px;
+	font-size:10px;
+	}
+#box_view li{
+	color:#F60;
+	margin-left:-30px;
+	}
+	#wrapper a b {
+	color: #FFF;
+	font-size:14px;
+}
+.batas{
+	float:left;
+	border-right-style:inset;
+	border-right-width:thin;
+	}
+.text_h_wrap{
+	
+	padding-left:450px;
+	padding-top:39px;
+	text-shadow:0px 1px 1px #09F;
+	}
+#wrapper .footer p{
+	font-size:12px;
+	color: #FFF;
+	text-align:center;
+	text-shadow:0px 1px 1px #09F;
+}
+td,th {
+	font-size: 12px;
+}
+
+marquee a{
+	color:#FFF
+	}
+#wrapper .footer a{
+	color: #FFFFFF;
+}
+</style>
+            
+<script>
+function goBack()
+  {
+  window.history.back()
+  }
+</script>
+<script type="text/javascript">
+function Popup( url, height, width )
+{
+    var windowProperties = "toolbar = 0, scrollbars = 1, location = 0, statusbar = 0, menubar = 0, resizable = 1, width = " + width + ", height = " + height + ", left = 50, top = 50";
+ 
+    return window.open( url, "", windowProperties );
+}
+</script>
+
+
+
+</head>
+<body oncontextmenu='return false;' onkeydown='return false;' onmousedown='return false;'>
+
+<a id="top_view"></a>
+<div id="wrapper">
+<div class="header_wrap">
+<div class="text_h_wrap">
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/home_page'><b>&nbsp;Home&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/menu_info/1'><b>&nbsp;About Us&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_data'><b>&nbsp;Direktori Pulau&nbsp;&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/program_ip'><b>&nbsp;IKU&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/data_ppkt'><b>&nbsp;PPKT&nbsp;</b></a>
+</div>
+<!--<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/maintenance'><b>&nbsp;Login&nbsp;</b></a>-->
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/dir_log_cont'><b>&nbsp;Login&nbsp;</b></a>
+
+</div>
+</div>
+</div>
+
+<div id="fb-root"></div>
+<script>
+  window.fbAsyncInit = function() {
+    // init the FB JS SDK
+    FB.init({
+      appId      : '559408774147878',                        // App ID from the app dashboard
+      status     : true,                                 // Check Facebook Login status
+      xfbml      : true                                  // Look for social plugins on the page
+    });
+
+    // Additional initialization code such as adding Event Listeners goes here
+  };
+
+  // Load the SDK asynchronously
+  (function(){
+     // If we've already installed the SDK, we're done
+     if (document.getElementById('facebook-jssdk')) {return;}
+
+     // Get the first script element, which we'll use to find the parent node
+     var firstScriptElement = document.getElementsByTagName('script')[0];
+
+     // Create a new script element and set its id
+     var facebookJS = document.createElement('script'); 
+     facebookJS.id = 'facebook-jssdk';
+
+     // Set the new script's source to the source of the Facebook JS SDK
+     facebookJS.src = '//connect.facebook.net/en_US/all.js';
+
+     // Insert the Facebook JS SDK into the DOM
+     firstScriptElement.parentNode.insertBefore(facebookJS, firstScriptElement);
+   }());
+</script>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=559408774147878";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="box_view">
+    <a href="#top_view">MENU</a>
+    <h3><p>Lihat Informasi:</p></h3>
+    <ul>
+	<a href="#sf"><li>Slide Foto</li></a>
+    <a href="#gu"><li>Gambaran Umum</li></a>
+    <a href="#ksbk"><li>Kependudukan, Sosial Budaya dan Kelembagaan</li></a>
+    <a href="#eshp"><li>Ekosistem dan Sumberdaya Hayati</li></a>
+    <a href="#snh"><li>Sumberdaya Non Hayati</li></a>
+    <a href="#aps"><li>Aktivitas Pengelolaan Sumberdaya</li></a>
+    <a href="#ling"><li>Lingkungan</li></a>
+    <a href="#sp"><li>Sarana dan Prasarana</li></a>
+    <a href="#pi"><li>Peluang Investasi</li></a>
+    <a href="#pap"><li>Potensi Arahan Pengembangan</li></a>
+    <a href="#kp"><li>Kendala Pengembangan</li></a>
+	<a href="#rf"><li>Referensi</li></a>
+    </ul>
+    <a href="#fb_comn">KOMENTAR</a>
+</div>
+
+<br>
+			<a id="sf"></a></h2>
+			<div id="galleria">
+            <!--<div class='tengahin'><input type="button" value="Kembali Ke List" onclick="goBack()"></div>-->
+                            </div>
+            
+            <script>
+            Galleria.loadTheme('http://www.ppk-kp3k.kkp.go.id/direktori-pulau/galleria/themes/classic/galleria.classic.min.js');
+            Galleria.run('#galleria');
+            </script>
+</div>
+
+<div id="text_warp">
+
+
+<p><h1>ASUTUBUN</h1></p>
+<table>
+<tr>
+	<td>Nama Lain</td> <td>:</td> <td></td>
+</tr>
+<tr>
+	<td>Propinsi</td> <td>:</td> <td>MALUKU</td>
+</tr>
+<tr>
+	<td>Kabupaten</td> <td>:</td> <td>KABUPATEN MALUKU TENGGARA BARAT</td>
+</tr>
+<tr>
+	<td>Kecamatan</td> <td>:</td> <td>TANIMBAR SELATAN</td>
+</tr>
+<tr>
+	<td>Koordinat</td> <td>:</td> <td><a href="http://www.ppk-kp3k.kkp.go.id/giskkp/index.html?extent=14609475.0684 -901038.6246,14618647.5118 -897307.5422"target="_blank"><p>
+	<span style="font-size: 9pt; font-family: Arial, sans-serif;">08<sup>o<span class="apple-converted-space">&nbsp;</span></sup>03&rsquo; 07&rsquo;&rsquo; LS - 131<sup>o<span class="apple-converted-space">&nbsp;</span></sup>18&rsquo; 02&rsquo;&rsquo; BT</span></p>
+</a></td>
+</tr>
+</table>
+<hr>
+
+<h2><a id="gu">Gambaran Umum</a></h2>
+<p><div class="readmore"><p>
+	&nbsp;</p>
+<p style="text-align: justify; background-position: initial initial; background-repeat: initial initial;">
+	<span style="font-size: 9pt; font-family: Arial, sans-serif;">Pulau Asutubun merupakan salah satu pulau terluar yang terdapat di Kabupaten Maluku Tenggara Barat. Di pulau ini terdapat titik dasar no TD.105C dan titik referensi no TR.105 sebagai acuan penarikan batas dengan Negara Australia.<o:p></o:p></span></p>
+<p style="text-align: justify;">
+	<span style="font-size: 9pt; font-family: Arial, sans-serif;">Secara administratif, Pulau Asutubun termasuk dalam wilayah Kecamatan Tanimbar Selatan, Kabupaten Maluku Tenggara Barat, Provinsi Maluku. Sedangkan secara geografis pulau ini terletak antara 08<sup>o<span class="apple-converted-space">&nbsp;</span></sup>03&rsquo; 07&rsquo;&rsquo; LS dan 131<sup>o<span class="apple-converted-space">&nbsp;</span></sup>18&rsquo; 02&rsquo;&rsquo; BT. Sebelah Selatan, Timur dan Barat pulau ini, berbatasan dengan perairan Laut Aru, sedangkan sebelah Utara berbatasan dengan wilayah daratan Kecamatan&nbsp; Wertamrian dan&nbsp; Wermaktian.<o:p></o:p></span></p>
+<p style="text-align: justify;">
+	<span style="font-size: 9pt; font-family: Arial, sans-serif;">Akses untuk menuju Pulau Asutubun cukup sulit, karena tidak ada transportasi umum atau reguler yang menuju ke pulau ini. Untuk menuju ke pulau ini dapat ditempuh dengan menggunakan speed boat yang dapat disewa dari Kota Saumlaki.<o:p></o:p></span></p>
+</div></p>
+
+<hr>
+
+<h2><a id="ksbk">Kependudukan, Sosial Budaya dan Kelembagaan</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<h2><a id="eshp">Ekosistem dan Sumberdaya Hayati</a></h2>
+<p><div class="readmore"><p>
+	&nbsp;</p>
+<p style="text-align: justify;">
+	Penutup lahan daratan pesisir sampai batas 1 km dari pantai di Kecamatan Tanimbar Selatan meliputi hutan primer, hutan sekunder, semak dan alang-alang, belukar, ladang/tegalan, kebun campuran, tanah kosong, dan pemukiman.&nbsp; Luas areal pemukiman di kecamatan Tanimbar Selatan 8,10 km2, Semak belukar 36,35 km2, tanah kosong 4,49 km2, hutan mangrove 13,09 km2.&nbsp;</p>
+<p style="text-align: justify;">
+	Pantai bergisik merupakan lahan kosong yang ditumbuhi vegetasi semak dan formasi Pescaprea, dengan material gisik berukuran kerikil hingga lempung.&nbsp; Lahan ini belum dimanfaatkan secara optimal.&nbsp; Pantai berbatu mencakup pantai tebing terjal, platform pantai, dan bongkahan batu karang.&nbsp; Lahan ini juga merupakan lahan kosong yang belum dimanfaatkan. Stack merupakan satuan morfologi dari berbagai jenis batuan yang terisolasi, terpisah dari batuan induk di daratan setelah mengalami proses erosi permukaan oleh gelombang dan arus, serta proses pelarutan (khusus batuan gamping).&nbsp;</p>
+<p style="text-align: justify;">
+	Pada rataan pasut berpasir terdistribusi vegetasi lamun, alge dan berbagai biota yang berasosiasi dengannya, dengan penutupan lamun dan alge yang bervariasi.&nbsp; Agihan terumbu karang cukup luas di wilayah ini yakni 47,28 km2, Lamun 1,79 km2, Saaru 0.32 km2, Laguna 10,4040 km2 dan Hutan mangrove 13,10 km2.&nbsp; Penutupan padang lamun dan alge 1,79 km2.&nbsp; Di luar zone pasang surut, yang merupakan perairan oseanis dimanfaatkan untuk penangkapan ikan dan budidaya perairan.&nbsp; Jenis penangkapan ikan meliputi penangkapan ikan pelagis, demersal dan karang, sedangkan jenis kegiatan budidaya mencakup budidaya ikan, rumput laut dan teripang.&nbsp;</p>
+<p style="text-align: justify;">
+	<strong>Padang Lamun</strong></p>
+<p style="text-align: justify;">
+	Ekosistem lamun di P. Asutubun tidak diketemukan, hal ini dikarenakan kondisi substrat pantai yang sangat berbatu sehingga menjadi faktor pembatas bagi tumbuh dan berkembangnya ekosistem ini.&nbsp; Ada beberapa pohon lamun yang ditemukan di danau Asutubun (ditengah pulau) yang dilakukan melalui penanaman sehingga tidak memberikan peluang untuk tumbuh dengan baik.&nbsp; Teridentifikasi hanya dua jenis lamun yakni Cimoducea rotundata dan Thallassia hemprivhii.</p>
+<p style="text-align: justify;">
+	<strong>Terumbu Karang</strong></p>
+<p style="text-align: justify;">
+	Karang batu yang tumbuh dan tersebar pada areal terumbu perairan pesisir P. Astubun, sebanyak 58 spesies, termasuk dalam 34 genera dan 12 famili.&nbsp; Kekayaan taksa karang tersebut menunjukan variasi spesies karang pada lokasi ini kurang variatif atau rendah kekayaan spesiesnya dibandingkan dengan areal-areal terumbu karang lainnya.</p>
+<p style="text-align: justify;">
+	Dari 29 kategori bentuk pertumbuhan bentik, di perairan P. ini dijumpai sebanyak 16 kate-gori bentuk tumbuh yang terdiri dari 14 bentuk tumbuh komponen biotik dan 2 kategori kompo-nen abiotik yakni patahan karang mati (Rubble) dan pasir.&nbsp; Kategori bentuk tumbuh komponen biotik terdiri dari bentuk tumbuh karang keras (Hard Corals) sebanyak 12 kategori (4 kategori ben-tuk tumbuh karang Acropora dan 8 kategori bentuk tumbuh karang Non Acropora), Algae dan fauna bentik lainnya (Other Faunas) masing-masing 1 bentuk tumbuh.&nbsp;</p>
+<p style="text-align: justify;">
+	Komponen biotik yang menutupi dasar perairan di kecamatan ini memiliki persen penutupan yang lebih rendah bila dibandingkan dengan komponen abiotik.&nbsp; Kondisi terumbu karangnya berada pada kategori kurang baik (Fair) dengan persen penutupan sebesar 36,46%.&nbsp; Kondisi terumbu karang dengan kategori kurang baik ini dipengaruhi oleh persen tutupan komponen abiotik yang cukup tinggi terutama berasal dari pasir yakni sebesar 32,96% dan komponen biotik lainnya yaitu karang lunak (Soft Corals) sebesar 26,36%.&nbsp; Sumbangan terbesar untuk penutupan karang batu pada titik pengamatan ini berasal dari karang Non Acropora.</p>
+<p style="text-align: justify;">
+	<strong>Alga</strong></p>
+<p style="text-align: justify;">
+	Jumlah keragaman jenis makro algae yang ditemukan pada Asutubun adalah sebanyak 7 spesies yang dapat dikelompokan ke dalam 6 genus, 5 famili, 4 ordo, dan 3 devisi.&nbsp; Pengelompokannya dalam 3 devisi utama yaitu alga hijau (Chlorophyta) terdiri dari 3 spe-sies, alga coklat (Phaeophyta) yang terdiri dari 3 spesies dan alga merah (Rhodophyta) terdiri dari 1 spesies.&nbsp; Substrat perairan didominasi oleh pasir berlumpur.&nbsp; Penyebaran makro algae di perairan ini pun sangat kurang bahkan agak jarang ditemukan.&nbsp; Dari jenis-jenis yang ditemukan tersebut, ada yang bernilai ekonomi yaitu dari genus Caulerpa dan Gracilaria.&nbsp;</p>
+<p style="text-align: justify;">
+	<strong>Fauna Benthos</strong></p>
+<p style="text-align: justify;">
+	Pulau Asutubun memiliki 8 spesies bentos, dimana dari keseluruhan spesies tersebut ternyata setengahnya atau 3 spesies diantaranya memiliki nilai ekonomis penting.&nbsp; Speses-speseis tersebut antara lain Gafrarium tumidum, Saccostrea echinata dan Holothuria scabra.</p>
+<p style="text-align: justify;">
+	<strong>Ikan (Ikan Demersal, Ikan Karang dan Ikan Hias)</strong></p>
+<p style="text-align: justify;">
+	Pulau Astubun memiliki 93 spesies ikan karang yang tergolong dalam 58 genera dan 21 famili.&nbsp; Berdasarkan kriteria pemanfataannya, maka ke-93 spesies ikan karang tersebut dapat dikelompokkan menjadi ikan konsumsi sebanyak 39 spesies dan ikan hias sebanyak 54 spesies.&nbsp; Lima famili ikan yang memiliki jumlah spesies tertinggi masing-masing sebagai berikut: Pomacentridae (19 spesies), Labridae (18 spesies), Chaetodontidae (8 spesies) serta Acanthuridae dan Scaridae masing-masing sebesar 7 spesies.&nbsp; Sedangkan genera-genera yang memiliki jumlah spesies tertinggi adalah: Chaetodon (7 spesies), Scarus (4 spesies) sedangkan Acanthurus, Pomacentrus, Parupeneus, Dascyllus dan Halichoeres masing-masing memiliki 3 spesies.</p>
+<p style="text-align: justify;">
+	Kepadatan ikan karang di perairan Pulau ini sebesar 3,89 individu/m2.&nbsp; Sedangkan bila dilihat berdasarkan kriteria pemanfaatannya maka kepadatan ikan konsumsi (2,44 individu/m2) lebih tinggi dari kepadatan ikan hias (1,45 individu/m2).&nbsp; Jumlah individu ikan karang di perairan ini mencapai 38.880 individu/Ha, dimana berat ikan konsumsi mencapai 6,09 ton/Ha.</p>
+<p style="text-align: justify;">
+	Jenis ikan yang ditangka di P. Matakus dan P. Asatubun antara lain ikan make, puri, parang-parang, ikan merah, ikan bendera, ikan biji nangka, ikan samandar, ikan raja bau, ikan gutana, ikan gurara, ikan mata bulan, ikan kerong-kerong, ikan momar, ikan komu, ikan bubara, ikan cakalan, ikan tuna, ikan piskada, ikan tengiri, sontong dan lain-lain. &nbsp;</p>
+</div></p>
+
+<hr>
+
+<h2><a id="snh">Sumberdaya Non Hayati</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<h2><a id="aps">Aktivitas Pengelolaan Sumberdaya</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<h2><a id="ling">Lingkungan</a></h2>
+<p><div class="readmore"><p>
+	&nbsp;</p>
+<p style="text-align: justify;">
+	Topografi wilayah Pulau Asutubun dibagi atas 2 kelas, yaitu daerah rendah dengan ketinggian antara 0 - 100 meter dan daerah tengah dengan ketinggian antara 100-500 meter. Selain itu terbagi atas 5 kelas kemiringan lereng yaitu datar (0-3), landai atau berombak (3-8), bergelombang (8-15), agak curam (15-30), dan sangat curam (&gt;30). Daerah daratan sangat luas dan tersebar di kawasan pesisir Teluk Saumlaki, sedangkan lereng yang curam memiliki area sempit yang berada di bagian timur Pantai Wowonda.</p>
+<p style="text-align: justify;">
+	Terdapat tiga golongan material bebatuan penyusun Pulau Asutubun yaitu material gamping kapak, gamping pasiran dan material klastik yang terususun dalam 4 formasi batuan yakni formasi Saumlaki, Batufamudi, Kompleks Molu, dan Batu Lembuti. Formasi Saumlaki merupakan perselingan lempung coklat kemerahan dan kelabu dengan tufa kaca putih kotor. Ke bagian atas terdapat sisipan batu gamping coklat &nbsp;kemerahan sempai kelabu, pasir gampingan dan batu pasir kuarsa. Komplek Molu terdiri dari bermacam-macam batuan yakni batuan beku, malihan dan batuan sedimen yang umumnya berbeda-beda. Bantuan ini diduga terbentuk oleh adanya aktivitas tektonik pada awal neogen yang merupakan batuan melange.</p>
+<p style="text-align: justify;">
+	Berdasatkan klesifikasi agroklimate menurut Oldeman, Irsal dan Muladi (1981), Maluku Tenggara Barat terbagi dalam dua zone agroklimat dimana Kecamatan Tanimbar Selatan termasuk juga didalamnya Pulau Asutubun dikategorikan dalam zona C3 dengan bulan basah sebanyak 5-6 bulan dan bulan kering sebanyak 4-5 bulan.</p>
+<p style="text-align: justify;">
+	Keadaan iklim di pulau ini sangat dipengaruhi oleh Laut Banda, Laut Arafura, dan Samudera Indonesia juga dibayangi oleh pulau Irian bagian timur dan Benua Australia bagian selatan sehingga sewaktu-waktu dapat mengalami perubahan sesuai pergantian musim. Curah hujan antara 1000 - 2000 mm pertahun dengan suhu rata-rata 27,6&deg;C dimana suhu minimum absolute rata-rata 21,8&nbsp;&deg;C dan suhu maksimum 33,0&deg;C. Sedangkan rata-rata kelembaban udara relatif 80,2%, penyinaran matahari rata-rata 71,0% dan tekanan udara rata-rata 1.011,8 milibar.</p>
+<p style="text-align: justify;">
+	Pasang surut di perairan Pulau Asutubun memiliki tipe yang sama dngan daerah lainnya di Maluku, yaitu tergolong dalam pasang campuran mirip harian ganda (predominantly semi diurnal tide). Ciri utama tipe pasang dan dua kali surut dimana pasang pertama dan dua kali surut dimana pasang pertama selalu lebih besar dari pasang yang kedua.</p>
+<p style="text-align: justify;">
+	Tunggang air (tidar range) maksimum perairan ini umumnya berkisar antara 2-2,5 meter dan dapat menyebabkan bagian perairan yang lebih dangkal akan muncul ke permukaan seperti di Olilit, Wowonda, Pulau Matakusu, Pulau Anggarmasa dan Latdalam. Kejadian meti kei selama bulan Oktober memberikan dampak sehingga dapat berakibat fatal bagi organisme termasuk juga terumbu karang.</p>
+<p style="text-align: justify;">
+	Arus atau perpindahan massa air di perairan kecamatan ini merupakan kombinasi arus angin dan arus pasang surut. Arus angin mendominasi perairan ini, kecuali di teluk dan selat sempit yang didominasi oleh arus pasut. Kecepatan arus angin pada bulan Oktober di perairan ini dapat mencapai 1 m.s-1 &nbsp;yang dominan bergerak dari arah timur menuju perairan bagian barat melalui Selat Egeron.</p>
+<p style="text-align: justify;">
+	Kecepatan arus pasang surut yang terekam bervariasi antara 0,06 &ndash; 0,26 m.s-1&nbsp;dengan nilai kecepatan rerata 0,17 m.s-1. Kecepatan arus minimum terekam pada perairan pesisir P. Asutubun kemudian meningkat pada perairan pantai Olilit Lama sebesar 0,20 m.s-1&nbsp;</p>
+<p style="text-align: justify;">
+	Gelombang yang datang di perairan Kecamatan Tanimbar Selatan cenderung dan dominan menggempur perairan pantai bagian timur kecamatan.&nbsp; Energi gelombang yang tinggi dapat terjadi di perairan pesisir pantai Olilit karena memiliki daerah dataran terumbu yang luas mengarah ke arah Laut Arafura.&nbsp; Tinggi gelombang yang ekstrim dapat terjadi pada Selat Egeron sementara bagian perairan Teluk Soumlaki dan pantai bagian barat kecamatan lebih terlindung dan cenderung lebih tenang. &nbsp;</p>
+<p style="text-align: justify;">
+	Suhu permukan laut di Kecamatan Tanimbar Selatan relatif rendah bervariasi antara 25,80 &ndash; 26,20 &deg;C dengan nilai rerata 26 &deg;C.&nbsp;Kadar salinitas permukaan perairan relatif tinggi yaitu sebesar 35 ppt&nbsp;Berdasarkan acuan ini maka tingkat kecerahan perairan di Keca-matan Tanimbar Selatan dikategorikan atas tingkat kecerahan sedang sampai tinggi.&nbsp; Kecerahan perairan bervariasi antara 6-15 meter dengan nilai rerata 7,5 meter. &nbsp;</p>
+<p style="text-align: justify;">
+	Kandungan padatan tersuspensi (TSS) di perairan berkisar antara 0,61 &ndash; 0,79mg/l dengan nilai rerata sebesar 0,68 mg/l. &nbsp;Tingkat kesadahan air laut atau pH untuk perairan laut Kecamatan Tanimbar Selatan relatif tinggi berkisar antara 8,09 &ndash; 8,44 dengan nilai rerata 8,32. &nbsp;Konsentrasi oksigen terlarut di permukaan perairan Kecamatan Tanimbar Selatan bekisar antara 13,51 &ndash; 14,01 mg/l dengan nilai rerata 13,84 mg/l.Konsentrasi fosfat pada lapisan permukaan perairan cukup tinggi dimana nilai berkisar antara 0,83 &ndash; 0,87 mg/l dengan nilai rerata 0,84 mg/l.&nbsp;sementara kandunganklorofil-a di perairan P. Asutubun sedikit menurun dengan nilai berkisar antara 0,35 &ndash; 0,4 mg/m3.&nbsp; Konsentrasi klorofil-a fitoplankton rendah menyebar sepanjang pesisir pantai timur kecamatan dengan nilai berkisar antara 0,15 &ndash; 0,25 mg/m3.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="sp">Sarana dan Prasarana</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<h2><a id="pi">Peluang Investasi</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<h2><a id="pap">Potensi dan Arahan Pengembangan</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<h2><a id="kp">Kendala Pengembangan</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<h2><a id="rf">Referensi</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<br />
+	<i> 
+		<p style="font-size:12px;">
+			Karena keterbatasan SDM dalam penginputan dan pengolahan data, kami mohon maaf atas ketidak lengkapan beberapa data pulau yang kami tampilkan, harap dimaklumi.
+			Berikan keritik dan saran pada kolom komentar agar kita dapat bersama menyajikan sebuah data yang cukup sempurna untuk halayak ramai yang berguna
+			demi kesejahterahan, kelestarian dan keindahan pulau-pulau kecil yang dimiliki Indonesia.<br />
+			*Jika sekiranya anda memiliki data yang cukup banyak, silakan mengirimkan file melalui email kami di <b><a>identifikasippk@gmail.com</a></b>
+			
+		</p>
+	</i>
+<br />
+
+<div id="fb_comn" class="fb-comments" data-href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_info/430" data-width="800" data-numposts="5" data-colorscheme="light"></div>
+
+
+</div>
+</div>
+</div>
+<div id="wrapper">
+
+<div class="footer"><p>
+<!--<marquee onmouseover="this.stop()" onmouseout="this.start()" scrollamount="5" direction="right" width="798" height="14"  behavior="scroll">-->
+<a href="http://www.ppk-kp3k.kkp.go.id/" target="_blank">Direktorat Pendayagunaan Pulau-Pulau Kecil &nbsp; | &nbsp;</a>
+<a href="http://www.kp3k.kkp.go.id/" target="_blank">Ditjen Kelautan, Pesisir dan Pulau-Pulau Kecil &nbsp; | &nbsp;</a>
+<a href="http://www.kkp.go.id/" target="_blank">Kementerian Kelautan dan Perikanan</a>
+<!--</marquee>--> <br />
+Jl. Medan Merdeka Timur No. 16 Gedung Mina Bahari 3 Lantai 10, Jakarta, Indonesia <br />
+Email : identifikasippk@gmail.com <br />
+Telp &amp; Fax: (021) 3522058 <br />
+&copy; Copyright Direktorat Pendayagunaan Pulau-Pulau Kecil 2012&nbsp; <br /></p>
+</div>
+</div>
+</body>
+</html>

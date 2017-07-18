@@ -1,0 +1,550 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Pulau Gilinanggu</title>
+
+<meta charset="utf-8"/>
+
+<meta property="fb:app_id" content="559408774147878" />
+
+
+<meta property="og:title" content="Pulau Gilinanggu" />
+<meta property="og:url" content="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_info/378" />
+
+
+    <script type="text/javascript" src="http://ajax.microsoft.com/ajax/jquery/jquery-1.4.4.min.js">
+    </script>
+    
+    <script type="text/javascript" src="http://plugins.learningjquery.com/expander/jquery.expander.js">
+    </script>
+    
+    <script type="text/javascript">
+        $(function () {
+            $('div.readmore').expander({
+                slicePoint:200,
+                expandText: '(Baca selengkapnya)',
+                userCollapseText: '(Sembunyikan selengkapnya)'
+            });
+        });
+    </script>
+        
+	<script src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/galleria/galleria-1.2.8.min.js"></script>
+
+        <SCRIPT TYPE="text/javascript">
+            <!--
+            //Disable right click script
+            //visit http://www.rainbow.arch.scriptmania.com/scripts/
+            var message="Sorry, right-click has been disabled";
+            ///////////////////////////////////
+            function clickIE() {if (document.all) {(message);return false;}}
+            function clickNS(e) {if
+            (document.layers||(document.getElementById&&!document.all)) {
+            if (e.which==2||e.which==3) {(message);return false;}}}
+            if (document.layers)
+            {document.captureEvents(Event.MOUSEDOWN);document.onmousedown=clickNS;}
+            else{document.onmouseup=clickNS;document.oncontextmenu=clickIE;}
+            document.oncontextmenu=new Function("return false")
+            // -->
+            </SCRIPT>
+            
+            <SCRIPT TYPE="text/javascript">
+            <!--
+            //Disable select-text script (IE4+, NS6+)
+            //visit http://www.rainbow.arch.scriptmania.com/scripts/
+            ///////////////////////////////////
+            function disableselect(e){
+            return false
+            }
+            function reEnable(){
+            return true
+            }
+            //if IE4+
+            document.onselectstart=new Function ("return false")
+            //if NS6
+            if (window.sidebar){
+            document.onmousedown=disableselect
+            document.onclick=reEnable
+            }
+            // -->
+            </SCRIPT>  
+              
+<link rel="stylesheet" type="text/css" href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/css/main.css" media="screen"/>
+<style type='text/css'>
+#info_wrap{
+	width:820px;
+	margin:0 auto;
+	text-shadow:0px 1px 1px #09F;
+}
+table{
+	color:#000000;
+}
+h1{
+	color:#000000;
+}
+.tengahin{
+	width: 105px;
+	height: 30px;
+	margin: 0 auto auto auto;
+}
+#box_view{
+	background-image:-webkit-gradient(linear, 0 0%, 0 100%, from(#FFFFFF), to(#E0F0F5));
+	background:#FFF;
+	color:#F60;
+	border: 1px solid #fff;
+	border-radius: 4px 4px 4px 4px;
+	box-shadow: 0 8px 6px -6px black;
+	position:fixed;
+	right:0;
+	top:150px;;
+	width:80px;
+	z-index:10;
+	padding-left:12px;
+	font-size:10px;
+	}
+#box_view li{
+	color:#F60;
+	margin-left:-30px;
+	}
+	#wrapper a b {
+	color: #FFF;
+	font-size:14px;
+}
+.batas{
+	float:left;
+	border-right-style:inset;
+	border-right-width:thin;
+	}
+.text_h_wrap{
+	
+	padding-left:450px;
+	padding-top:39px;
+	text-shadow:0px 1px 1px #09F;
+	}
+#wrapper .footer p{
+	font-size:12px;
+	color: #FFF;
+	text-align:center;
+	text-shadow:0px 1px 1px #09F;
+}
+td,th {
+	font-size: 12px;
+}
+
+marquee a{
+	color:#FFF
+	}
+#wrapper .footer a{
+	color: #FFFFFF;
+}
+</style>
+            
+<script>
+function goBack()
+  {
+  window.history.back()
+  }
+</script>
+<script type="text/javascript">
+function Popup( url, height, width )
+{
+    var windowProperties = "toolbar = 0, scrollbars = 1, location = 0, statusbar = 0, menubar = 0, resizable = 1, width = " + width + ", height = " + height + ", left = 50, top = 50";
+ 
+    return window.open( url, "", windowProperties );
+}
+</script>
+
+
+
+</head>
+<body oncontextmenu='return false;' onkeydown='return false;' onmousedown='return false;'>
+
+<a id="top_view"></a>
+<div id="wrapper">
+<div class="header_wrap">
+<div class="text_h_wrap">
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/home_page'><b>&nbsp;Home&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/menu_info/1'><b>&nbsp;About Us&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_data'><b>&nbsp;Direktori Pulau&nbsp;&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/program_ip'><b>&nbsp;IKU&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/data_ppkt'><b>&nbsp;PPKT&nbsp;</b></a>
+</div>
+<!--<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/maintenance'><b>&nbsp;Login&nbsp;</b></a>-->
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/dir_log_cont'><b>&nbsp;Login&nbsp;</b></a>
+
+</div>
+</div>
+</div>
+
+<div id="fb-root"></div>
+<script>
+  window.fbAsyncInit = function() {
+    // init the FB JS SDK
+    FB.init({
+      appId      : '559408774147878',                        // App ID from the app dashboard
+      status     : true,                                 // Check Facebook Login status
+      xfbml      : true                                  // Look for social plugins on the page
+    });
+
+    // Additional initialization code such as adding Event Listeners goes here
+  };
+
+  // Load the SDK asynchronously
+  (function(){
+     // If we've already installed the SDK, we're done
+     if (document.getElementById('facebook-jssdk')) {return;}
+
+     // Get the first script element, which we'll use to find the parent node
+     var firstScriptElement = document.getElementsByTagName('script')[0];
+
+     // Create a new script element and set its id
+     var facebookJS = document.createElement('script'); 
+     facebookJS.id = 'facebook-jssdk';
+
+     // Set the new script's source to the source of the Facebook JS SDK
+     facebookJS.src = '//connect.facebook.net/en_US/all.js';
+
+     // Insert the Facebook JS SDK into the DOM
+     firstScriptElement.parentNode.insertBefore(facebookJS, firstScriptElement);
+   }());
+</script>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=559408774147878";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="box_view">
+    <a href="#top_view">MENU</a>
+    <h3><p>Lihat Informasi:</p></h3>
+    <ul>
+	<a href="#sf"><li>Slide Foto</li></a>
+    <a href="#gu"><li>Gambaran Umum</li></a>
+    <a href="#ksbk"><li>Kependudukan, Sosial Budaya dan Kelembagaan</li></a>
+    <a href="#eshp"><li>Ekosistem dan Sumberdaya Hayati</li></a>
+    <a href="#snh"><li>Sumberdaya Non Hayati</li></a>
+    <a href="#aps"><li>Aktivitas Pengelolaan Sumberdaya</li></a>
+    <a href="#ling"><li>Lingkungan</li></a>
+    <a href="#sp"><li>Sarana dan Prasarana</li></a>
+    <a href="#pi"><li>Peluang Investasi</li></a>
+    <a href="#pap"><li>Potensi Arahan Pengembangan</li></a>
+    <a href="#kp"><li>Kendala Pengembangan</li></a>
+	<a href="#rf"><li>Referensi</li></a>
+    </ul>
+    <a href="#fb_comn">KOMENTAR</a>
+</div>
+
+<br>
+			<a id="sf"></a></h2>
+			<div id="galleria">
+            <!--<div class='tengahin'><input type="button" value="Kembali Ke List" onclick="goBack()"></div>-->
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/fbfb-img_0512.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__fbfb-img_0512.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/8655-img_0523.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__8655-img_0523.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/c7bd-img_0526.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__c7bd-img_0526.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/0d66-img_0535.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__0d66-img_0535.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/124e-img_0563.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__124e-img_0563.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/6d06-img_0582.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__6d06-img_0582.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/3490-img_0584.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__3490-img_0584.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/38cc-img_0599.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__38cc-img_0599.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/e258-img_6109.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__e258-img_6109.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/e25f-img_6238.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__e25f-img_6238.jpg" data-description=""></a></p>
+                            </div>
+            
+            <script>
+            Galleria.loadTheme('http://www.ppk-kp3k.kkp.go.id/direktori-pulau/galleria/themes/classic/galleria.classic.min.js');
+            Galleria.run('#galleria');
+            </script>
+</div>
+
+<div id="text_warp">
+
+
+<p><h1>Gilinanggu</h1></p>
+<table>
+<tr>
+	<td>Nama Lain</td> <td>:</td> <td></td>
+</tr>
+<tr>
+	<td>Propinsi</td> <td>:</td> <td>NUSA TENGGARA BARAT</td>
+</tr>
+<tr>
+	<td>Kabupaten</td> <td>:</td> <td>KABUPATEN LOMBOK BARAT</td>
+</tr>
+<tr>
+	<td>Kecamatan</td> <td>:</td> <td>Sekotong</td>
+</tr>
+<tr>
+	<td>Koordinat</td> <td>:</td> <td><a href="http://www.ppk-kp3k.kkp.go.id/giskkp/index.html?extent="target="_blank"><p>
+	08<sup>0</sup> 43&#39; 05.00&quot; LS dan 116<sup>0</sup> 00&#39; 31.00&quot; BT</p>
+</a></td>
+</tr>
+</table>
+<hr>
+
+<h2><a id="gu">Gambaran Umum</a></h2>
+<p><div class="readmore"><p>
+	Pulau Gilinanggu sering disebut gili-gili bisa dikatakan sebagai satu gugusan kepulauan masuk kedalam wilayah administrasi pemerintahan, yaitu Dusun Tawun, Desa Sekotong Barat, Kabupaten Lombok Barat, Provinsi Nusa Tenggara Barat. Latar belakang arti nama dan sejarah pada setiap pulau berbeda dan unik. Pulau Gili Nanggu, berasal dari kata &ldquo;Tanggu&rdquo;dalam Bahasa Sasak yang berarti &ldquo;ujung&rdquo;, karena dilihat dari posisinya berada paling ujung deretan gili-gili.</p>
+<p>
+	Pulau Gili Nanggu sejak tahun 2011 telah ditetapkan sebagai Kawasan Konservasi Laut Daerah (KKLD) Kabupaten Lombok Barat berdasarkan Peraturan Bupati Lombok Barat No. 56 Th. 2011 tentang Pencadangan Kawasan Konservasi Laut Daerah Kabupaten Lombok Barat. Adapun status kawasan untuk perairan pulau-pulau tersebut adalah perairan Pulau Gili Nanggu masuk dalam zona inti.</p>
+<p>
+	Topografi Pulau Gilinanggu termasuk landai dengan tingkat kemiringan rata-rata kurang dari 30% dan berada pada ketinggian dibawah 500 m sehingga masuk dalam kategori dataran rendah.</p>
+<p>
+	Aksesibilitas menuju Pulau Gilinanggu tergolong mudah, karena jaraknya cukup dekat dengan daratan utama dan perairannya cukup terlindung. Untuk menuju pulau tersebut bisa melalui Pelabuhan Lembar dengan waktu tempuh &plusmn;1,5 jam dan Pelabuhan Tawun dengan waktu tempuh &plusmn;1 jam menggunakan perahu ojek.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="ksbk">Kependudukan, Sosial Budaya dan Kelembagaan</a></h2>
+<p><div class="readmore"><p>
+	Pulau Gili Nanggu sebenarnya secara definitif bisa dikatakan tidak berpenduduk, hal ini karena masyarakat yang tinggal di pulau hanya sebagai pekerja dan menjaga lahan yang dimiliki oleh orang lain, artinya tempat tinggal tetapnya berada di daerah lain atau di pusat Desa Sekotong Barat. Selain itu memang alamat di Kartu Tanda Penduduk (KTP) mereka bukan di pulau-pulau tersebut.</p>
+<p>
+	Pulau Gilinanggu sebenarnya secara definitif bisa dikatakan tidak berpenduduk, hal ini karena masyarakat yang tinggal di pulau hanya sebagai pekerja dan menjaga lahan yang dimiliki oleh orang lain, artinya tempat tinggal tetapnya berada di daerah lain atau di pusat Desa Sekotong Barat. Selain itu memang alamat di Kartu Tanda Penduduk (KTP) mereka bukan di pulau-pulau tersebut. Masyarakat yang tinggal di pulau ini sebanyak 25 orang, semuanya pegawai dari PT. Istana Cempaka Raya yang mengusahakan pariwisata di pulau tersebut.</p>
+<p>
+	Penduduk yang tinggal di Pulau Gili Nanggu umumnya berasal dari Desa Sekotong Barat yang ada di daratan utama. Jadi penduduk yang tinggal bersuku Sasak, khusus di P. Gili Nanggu dijumpai penduduk yang bersuku Bali dan Madura. Tidak ada aktivitas budaya secara khusus dilakukan di pulau-pulau tersebut, karena semua aktivitas budaya dilakukan di daratan utama.</p>
+<p>
+	Kehidupan ekonominya warga yang tinggal di Pulau Gilinanggu bergantung pada pariwisata sebagai pegawai perusahaan wisata PT. Istana Cempaka Raya. Mereka digaji secara rutin berdasarkan status pekerjaan yang ditanggungnya.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="eshp">Ekosistem dan Sumberdaya Hayati</a></h2>
+<p><div class="readmore"><p>
+	<strong>Terumbu Karang</strong></p>
+<p>
+	Kondisi penutupan karang hidup secara umum di lokasi pengamatan Pulau Gilinanggu berkisar antara 5,76% - 21,72%. Persentase penutupan karang hidup ini termasuk dalam kriteria karang buruk. Penutupan karang hidup yang paling rendah pada bagian timur pulau di kedalaman 3 meter dan penutupan yang paling tinggi pada bagian barat pulau di kedalaman 3 meter. Sementara persentase penutupan yang terlihat mendominasi adalah penutupan substrat abiotik hampir di seluruh lokasi pengamatan. Penutupan substrat abiotik yang paling rendah pada bagian utara pulau di kedalaman 3 meter sebesar 27,08% dan yang paling tinggi pada bagian barat pulau di kedalaman 10 meter sebesar 88,4%.</p>
+<p>
+	Lokasi pengamatan di Pulau Gilinanggu pada bagian Utara dan Timur pulau. Bagian Utara diambil pada kedalaman 3 dan 10 meter sedangkan bagian Timur diambil pada kedalaman 3 meter, dikarenakan profil terumbu karang yang ditemukan pada bagian Timur hanya berkisar dari 1 &ndash; 4 meter di bawah permukaan air. Kondisi penutupan substrat dasar di Pulau Gilinanggu dapat dilihat pada gambar di bawah ini.</p>
+<p>
+	Penutupan karang hidup pada lokasi pengamatan Timur Pulau Gilinanggu di kedalaman 3 meter sebesar 5,76%; pada bagian Utara di kedalaman 3 meter sebesar 15,22% dan kedalaman 10 meter sebesar 19,86%. Penutupan abiotik berkisar antara 27,08% - 81%. Sementara penutupan karang mati pada bagian Utara di kedalaman 3 meter sebear 54,2% dan kedalaman 10 meter sebesar 16,2%.</p>
+<p>
+	Kondisi penutupan substrat dasar di perlihatkan pada gambar atas kiri, pada bagian Kondisi penutupan substrat dasar di perlihatkan pada gambar atas kiri, pada bagian Utara Pulau Gilinanggu. Secara umum berntuk pertumbuhan yang mendominasi di kedalaman 3 meter adalah bentuk pertumbuhan karang masif dan submasif. Sementara gambar sebelah atas kanan memperlihatkan telur <em>Nudibranch</em> yang diletakkan pada substrat karang mati. Pada kedalaman 10 meter hamparan patahan karang terlihat di bagian transek garis pengamatan dan banyak yang sudah tertutup oleh alga. Diduga kondisi tersebut akibat perusakan karang oleh aktifitas penangkapan yang tidak ramah lingkungan (bawah kiri). Pada bagian tertentu terlihat beberapa jenis karang salah satu yang ditemukan adalah karang <em>Pachyseris</em> yang unik dengan bentuk alur yang tidak beraturan (bawah kanan).</p>
+<p>
+	<strong>Ikan Karang</strong></p>
+<p>
+	Secara keseluruhan untuk sebelah utara pulau pada kedalaman tiga meter, kisaran nilai indeks H&rsquo; berada pada nilai 2.2919 sedangkan nilai yang diapat komunitas ikan terumbu pada kedalaman 10 meter sebesar 2.5135. Kisaran nilai tersebut menunjukan komunitas ikan terumbu di utara Pulau Gilinanggu memiliki penyebaran jenis sedang sampai tinggi dengan kestabilan komunitas sedang sampai tinggi. Pada sisi selatan pulau untuk kedalaman 3 meter nilai indek keanekaragaman sebesar 2.6193 dan pada kedalaman 10 meter tidak di jumpai adanya ikan terumbu karena substrat dasar pada kedalaman 10 meter hanya berupa pasir berlumpur.</p>
+<p>
+	Nilai indeks E&rsquo; untuk kedalaman tiga meter di sisi utara dan selatan pulau Gilinanggu menunjukan nilai terendah di sisi utara pada kedalaman 10 meter dengan nilai 0.7543 dan nilai tertinggi berada di sisi selatan pada kedalaman 3 meter dengan nilai 0,9245. Nilai indeks E&rsquo; untuk kedalaman 3 meter di sisi Utara pulau memiliki nilai 0,8685. Kisaran nilai indeks C&rsquo; untuk kedalaman tiga meter terendah berada di sisi selatan dengan nilai 0,0892 dan nilai indeks C&rsquo; di sisi utara 0,1247. Pada Kedalaman 10 meter, nilai indeks C&rsquo; sebesar 0,1500.</p>
+<p>
+	Kelimpahan ikan terumbu di Pulau Gilinanggu, Nusa Tenggara Barat paling banyak berasal dari famili Pomacentridae, Plotosidae, Serranidae dan Scaridae. Kelimpahan Pomacentridae sering kali merupakan jenis yang mendominasi di suatu perairan karena ikan jenis ini cenderung sering bergerombol dan memiliki daerah ruaya yang sempit. Jenis ikan yang mendominansinya adalah <em>Chromis viridis </em>dan<em> Pomacentrus moluccensis</em> Kelimpahan ikan lain yang banyak ditemukan adalah famili Serranidae. Sebagian besar ikan terumbu yang berasal dari famili ini tergolong dalam kelompok ikan target atau ikan yang memiliki nilai ekonomis. Jenis ikan yang di temukan di perairan pulau Gilinanggu adalah <em>Pseudanthias huchtii</em>. Kelimpahan ikan terumbu terbesar ketiga di Pulau Gilinanggu adalah famili Scaridae atau ikan kakak tua.</p>
+<p>
+	<strong>Lamun dan Mangrove</strong></p>
+<p>
+	Lamun dan mangrove tidak ditemukan di pulau ini</p>
+</div></p>
+
+<hr>
+
+<h2><a id="snh">Sumberdaya Non Hayati</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<h2><a id="aps">Aktivitas Pengelolaan Sumberdaya</a></h2>
+<p><div class="readmore"><p>
+	Pulau Gilinanggu cukup terkenal di kalangan wisatawan asing, terutama mereka yang sering ke Bali. Pulau ini sering dijadikan tempat persinggahan sebelum melanjutkan perjalanan ke Lombok atau Labuan Bajo. Wisatawan lokal juga sering berkunjung terutama di saat hari libur.</p>
+<p>
+	Perairan di sekitarnya dimanfaatkan nelayan skala kecil untuk menangkap ikan.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="ling">Lingkungan</a></h2>
+<p><div class="readmore"><p style="margin-left:21.3pt;">
+	<strong>Kualitas Perairan</strong></p>
+<table align="center" border="0" cellpadding="0" cellspacing="0" style="width:537px;" width="537">
+	<tbody>
+		<tr>
+			<td rowspan="3" style="width:59px;height:31px;">
+				<p style="margin-left:21.25pt;">
+					NO.</p>
+			</td>
+			<td nowrap="nowrap" rowspan="3" style="width:116px;height:31px;">
+				<p style="margin-left:21.25pt;">
+					Kode Lab</p>
+			</td>
+			<td nowrap="nowrap" rowspan="3" style="width:135px;height:31px;">
+				<p style="margin-left:21.25pt;">
+					Kode Sampel</p>
+			</td>
+			<td colspan="2" nowrap="nowrap" style="width:227px;height:31px;">
+				<p style="margin-left:21.25pt;">
+					Parameter</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="width:111px;height:31px;">
+				<p style="margin-left:21.25pt;">
+					Nitrat (NO<sub>3</sub>-N)</p>
+			</td>
+			<td nowrap="nowrap" style="width:116px;height:31px;">
+				<p align="center">
+					OrtoFosfat (PO<sub>4</sub>-P)</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" nowrap="nowrap" style="width:227px;height:31px;">
+				<p style="margin-left:21.25pt;">
+					mg/L</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="width:59px;height:31px;">
+				<p style="margin-left:21.25pt;">
+					1</p>
+			</td>
+			<td nowrap="nowrap" style="width:116px;height:31px;">
+				<p style="margin-left:21.25pt;">
+					P. 4758 &ndash; 1</p>
+			</td>
+			<td nowrap="nowrap" style="width:135px;height:31px;">
+				<p style="margin-left:21.25pt;">
+					Utara Nanggu I</p>
+			</td>
+			<td nowrap="nowrap" style="width:111px;height:31px;">
+				<p style="margin-left:21.25pt;">
+					0.019</p>
+			</td>
+			<td nowrap="nowrap" style="width:116px;height:31px;">
+				<p style="margin-left:21.25pt;">
+					0.007</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="width:59px;height:31px;">
+				<p style="margin-left:21.25pt;">
+					2</p>
+			</td>
+			<td nowrap="nowrap" style="width:116px;height:31px;">
+				<p style="margin-left:21.25pt;">
+					P. 4758 &ndash; 2</p>
+			</td>
+			<td nowrap="nowrap" style="width:135px;height:31px;">
+				<p style="margin-left:21.25pt;">
+					Utara Nanggu II</p>
+			</td>
+			<td nowrap="nowrap" style="width:111px;height:31px;">
+				<p style="margin-left:21.25pt;">
+					0.054</p>
+			</td>
+			<td nowrap="nowrap" style="width:116px;height:31px;">
+				<p style="margin-left:21.25pt;">
+					0.013</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="width:59px;height:31px;">
+				<p style="margin-left:21.25pt;">
+					3</p>
+			</td>
+			<td nowrap="nowrap" style="width:116px;height:31px;">
+				<p style="margin-left:21.25pt;">
+					P. 4758 &ndash; 3</p>
+			</td>
+			<td nowrap="nowrap" style="width:135px;height:31px;">
+				<p style="margin-left:21.25pt;">
+					Selatan Nanggu</p>
+			</td>
+			<td nowrap="nowrap" style="width:111px;height:31px;">
+				<p style="margin-left:21.25pt;">
+					0.115</p>
+			</td>
+			<td nowrap="nowrap" style="width:116px;height:31px;">
+				<p style="margin-left:21.25pt;">
+					0.010</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<div style="clear:both;">
+	&nbsp;</div>
+</div></p>
+
+<hr>
+
+<h2><a id="sp">Sarana dan Prasarana</a></h2>
+<p><div class="readmore"><p>
+	Terdapat bangunan cottage sebanyak 10 rumah yang dilengkapi dengan kamar mandi, AC/kipas angin, kamar tidur, ruang tamu, dll. Jetty terbuat dari kayu yang cukup sederhana namun kokoh. Di sekeliling pulau telah dilengkapi dengan jalan setapak melingkar dari beton yang dilengkapi lampu taman dan beberapa pondok wisata. Toilet juga disediakan khusus untuk pengunjung umum yang tidak menginap di pulau. Terdapat pula bangunan kantor pengelola cottage, dapur, mess karyawan, mushola, restoran, tempat berjemur, balai-balai, gudang, ruang penyimpanan genset, vihara, penangkaran penyu, dll. Listrik diperoleh dari genset, air bersih diperoleh dari air hujan dan air tawar dari daratan Lombok hasil pipanisasi.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="pi">Peluang Investasi</a></h2>
+<p><div class="readmore"><p>
+	Pulau ini sangat cocok dikembangkan wisata bahari karena pantainya yang indah, vegetasi pulau yang asri, serta pemandangan laut dan sekitarnya yang mempesona. Selain itu lokasinya sangat strategis karena merupakan jalur pelayaran bagi para wisatawan dari Bali yang ingin berlibur ke Lombok.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="pap">Potensi dan Arahan Pengembangan</a></h2>
+<p><div class="readmore"><p>
+	Pengembangan lebih banyak ke pengembangan wisata, karena wisata sudah menjadi topongan masyarakat sekitar. Upaya-upaya pengembangan dilakukan untuk mendukung aktivitas pariwisata yang ada baik yang dijalankan oleh sektor swasta dalam investasi yang besar maupun oleh masyarakat lokal dengan skala kecil.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="kp">Kendala Pengembangan</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<h2><a id="rf">Referensi</a></h2>
+<p><div class="readmore"><p>
+	Hasil Survey Identifikasi dan Pemetaan Potensi PPK</p>
+</div></p>
+
+<hr>
+
+<br />
+	<i> 
+		<p style="font-size:12px;">
+			Karena keterbatasan SDM dalam penginputan dan pengolahan data, kami mohon maaf atas ketidak lengkapan beberapa data pulau yang kami tampilkan, harap dimaklumi.
+			Berikan keritik dan saran pada kolom komentar agar kita dapat bersama menyajikan sebuah data yang cukup sempurna untuk halayak ramai yang berguna
+			demi kesejahterahan, kelestarian dan keindahan pulau-pulau kecil yang dimiliki Indonesia.<br />
+			*Jika sekiranya anda memiliki data yang cukup banyak, silakan mengirimkan file melalui email kami di <b><a>identifikasippk@gmail.com</a></b>
+			
+		</p>
+	</i>
+<br />
+
+<div id="fb_comn" class="fb-comments" data-href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_info/378" data-width="800" data-numposts="5" data-colorscheme="light"></div>
+
+
+</div>
+</div>
+</div>
+<div id="wrapper">
+
+<div class="footer"><p>
+<!--<marquee onmouseover="this.stop()" onmouseout="this.start()" scrollamount="5" direction="right" width="798" height="14"  behavior="scroll">-->
+<a href="http://www.ppk-kp3k.kkp.go.id/" target="_blank">Direktorat Pendayagunaan Pulau-Pulau Kecil &nbsp; | &nbsp;</a>
+<a href="http://www.kp3k.kkp.go.id/" target="_blank">Ditjen Kelautan, Pesisir dan Pulau-Pulau Kecil &nbsp; | &nbsp;</a>
+<a href="http://www.kkp.go.id/" target="_blank">Kementerian Kelautan dan Perikanan</a>
+<!--</marquee>--> <br />
+Jl. Medan Merdeka Timur No. 16 Gedung Mina Bahari 3 Lantai 10, Jakarta, Indonesia <br />
+Email : identifikasippk@gmail.com <br />
+Telp &amp; Fax: (021) 3522058 <br />
+&copy; Copyright Direktorat Pendayagunaan Pulau-Pulau Kecil 2012&nbsp; <br /></p>
+</div>
+</div>
+</body>
+</html>

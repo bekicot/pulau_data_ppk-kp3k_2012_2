@@ -1,0 +1,2328 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Pulau Tangnga</title>
+
+<meta charset="utf-8"/>
+
+<meta property="fb:app_id" content="559408774147878" />
+
+
+<meta property="og:title" content="Pulau Tangnga" />
+<meta property="og:url" content="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_info/8914" />
+
+
+    <script type="text/javascript" src="http://ajax.microsoft.com/ajax/jquery/jquery-1.4.4.min.js">
+    </script>
+    
+    <script type="text/javascript" src="http://plugins.learningjquery.com/expander/jquery.expander.js">
+    </script>
+    
+    <script type="text/javascript">
+        $(function () {
+            $('div.readmore').expander({
+                slicePoint:200,
+                expandText: '(Baca selengkapnya)',
+                userCollapseText: '(Sembunyikan selengkapnya)'
+            });
+        });
+    </script>
+        
+	<script src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/galleria/galleria-1.2.8.min.js"></script>
+
+        <SCRIPT TYPE="text/javascript">
+            <!--
+            //Disable right click script
+            //visit http://www.rainbow.arch.scriptmania.com/scripts/
+            var message="Sorry, right-click has been disabled";
+            ///////////////////////////////////
+            function clickIE() {if (document.all) {(message);return false;}}
+            function clickNS(e) {if
+            (document.layers||(document.getElementById&&!document.all)) {
+            if (e.which==2||e.which==3) {(message);return false;}}}
+            if (document.layers)
+            {document.captureEvents(Event.MOUSEDOWN);document.onmousedown=clickNS;}
+            else{document.onmouseup=clickNS;document.oncontextmenu=clickIE;}
+            document.oncontextmenu=new Function("return false")
+            // -->
+            </SCRIPT>
+            
+            <SCRIPT TYPE="text/javascript">
+            <!--
+            //Disable select-text script (IE4+, NS6+)
+            //visit http://www.rainbow.arch.scriptmania.com/scripts/
+            ///////////////////////////////////
+            function disableselect(e){
+            return false
+            }
+            function reEnable(){
+            return true
+            }
+            //if IE4+
+            document.onselectstart=new Function ("return false")
+            //if NS6
+            if (window.sidebar){
+            document.onmousedown=disableselect
+            document.onclick=reEnable
+            }
+            // -->
+            </SCRIPT>  
+              
+<link rel="stylesheet" type="text/css" href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/css/main.css" media="screen"/>
+<style type='text/css'>
+#info_wrap{
+	width:820px;
+	margin:0 auto;
+	text-shadow:0px 1px 1px #09F;
+}
+table{
+	color:#000000;
+}
+h1{
+	color:#000000;
+}
+.tengahin{
+	width: 105px;
+	height: 30px;
+	margin: 0 auto auto auto;
+}
+#box_view{
+	background-image:-webkit-gradient(linear, 0 0%, 0 100%, from(#FFFFFF), to(#E0F0F5));
+	background:#FFF;
+	color:#F60;
+	border: 1px solid #fff;
+	border-radius: 4px 4px 4px 4px;
+	box-shadow: 0 8px 6px -6px black;
+	position:fixed;
+	right:0;
+	top:150px;;
+	width:80px;
+	z-index:10;
+	padding-left:12px;
+	font-size:10px;
+	}
+#box_view li{
+	color:#F60;
+	margin-left:-30px;
+	}
+	#wrapper a b {
+	color: #FFF;
+	font-size:14px;
+}
+.batas{
+	float:left;
+	border-right-style:inset;
+	border-right-width:thin;
+	}
+.text_h_wrap{
+	
+	padding-left:450px;
+	padding-top:39px;
+	text-shadow:0px 1px 1px #09F;
+	}
+#wrapper .footer p{
+	font-size:12px;
+	color: #FFF;
+	text-align:center;
+	text-shadow:0px 1px 1px #09F;
+}
+td,th {
+	font-size: 12px;
+}
+
+marquee a{
+	color:#FFF
+	}
+#wrapper .footer a{
+	color: #FFFFFF;
+}
+</style>
+            
+<script>
+function goBack()
+  {
+  window.history.back()
+  }
+</script>
+<script type="text/javascript">
+function Popup( url, height, width )
+{
+    var windowProperties = "toolbar = 0, scrollbars = 1, location = 0, statusbar = 0, menubar = 0, resizable = 1, width = " + width + ", height = " + height + ", left = 50, top = 50";
+ 
+    return window.open( url, "", windowProperties );
+}
+</script>
+
+
+
+</head>
+<body oncontextmenu='return false;' onkeydown='return false;' onmousedown='return false;'>
+
+<a id="top_view"></a>
+<div id="wrapper">
+<div class="header_wrap">
+<div class="text_h_wrap">
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/home_page'><b>&nbsp;Home&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/menu_info/1'><b>&nbsp;About Us&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_data'><b>&nbsp;Direktori Pulau&nbsp;&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/program_ip'><b>&nbsp;IKU&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/data_ppkt'><b>&nbsp;PPKT&nbsp;</b></a>
+</div>
+<!--<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/maintenance'><b>&nbsp;Login&nbsp;</b></a>-->
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/dir_log_cont'><b>&nbsp;Login&nbsp;</b></a>
+
+</div>
+</div>
+</div>
+
+<div id="fb-root"></div>
+<script>
+  window.fbAsyncInit = function() {
+    // init the FB JS SDK
+    FB.init({
+      appId      : '559408774147878',                        // App ID from the app dashboard
+      status     : true,                                 // Check Facebook Login status
+      xfbml      : true                                  // Look for social plugins on the page
+    });
+
+    // Additional initialization code such as adding Event Listeners goes here
+  };
+
+  // Load the SDK asynchronously
+  (function(){
+     // If we've already installed the SDK, we're done
+     if (document.getElementById('facebook-jssdk')) {return;}
+
+     // Get the first script element, which we'll use to find the parent node
+     var firstScriptElement = document.getElementsByTagName('script')[0];
+
+     // Create a new script element and set its id
+     var facebookJS = document.createElement('script'); 
+     facebookJS.id = 'facebook-jssdk';
+
+     // Set the new script's source to the source of the Facebook JS SDK
+     facebookJS.src = '//connect.facebook.net/en_US/all.js';
+
+     // Insert the Facebook JS SDK into the DOM
+     firstScriptElement.parentNode.insertBefore(facebookJS, firstScriptElement);
+   }());
+</script>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=559408774147878";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="box_view">
+    <a href="#top_view">MENU</a>
+    <h3><p>Lihat Informasi:</p></h3>
+    <ul>
+	<a href="#sf"><li>Slide Foto</li></a>
+    <a href="#gu"><li>Gambaran Umum</li></a>
+    <a href="#ksbk"><li>Kependudukan, Sosial Budaya dan Kelembagaan</li></a>
+    <a href="#eshp"><li>Ekosistem dan Sumberdaya Hayati</li></a>
+    <a href="#snh"><li>Sumberdaya Non Hayati</li></a>
+    <a href="#aps"><li>Aktivitas Pengelolaan Sumberdaya</li></a>
+    <a href="#ling"><li>Lingkungan</li></a>
+    <a href="#sp"><li>Sarana dan Prasarana</li></a>
+    <a href="#pi"><li>Peluang Investasi</li></a>
+    <a href="#pap"><li>Potensi Arahan Pengembangan</li></a>
+    <a href="#kp"><li>Kendala Pengembangan</li></a>
+	<a href="#rf"><li>Referensi</li></a>
+    </ul>
+    <a href="#fb_comn">KOMENTAR</a>
+</div>
+
+<br>
+			<a id="sf"></a></h2>
+			<div id="galleria">
+            <!--<div class='tengahin'><input type="button" value="Kembali Ke List" onclick="goBack()"></div>-->
+                            </div>
+            
+            <script>
+            Galleria.loadTheme('http://www.ppk-kp3k.kkp.go.id/direktori-pulau/galleria/themes/classic/galleria.classic.min.js');
+            Galleria.run('#galleria');
+            </script>
+</div>
+
+<div id="text_warp">
+
+
+<p><h1>Tangnga</h1></p>
+<table>
+<tr>
+	<td>Nama Lain</td> <td>:</td> <td></td>
+</tr>
+<tr>
+	<td>Propinsi</td> <td>:</td> <td>SULAWESI BARAT</td>
+</tr>
+<tr>
+	<td>Kabupaten</td> <td>:</td> <td>KABUPATEN POLEWALI MANDAR</td>
+</tr>
+<tr>
+	<td>Kecamatan</td> <td>:</td> <td></td>
+</tr>
+<tr>
+	<td>Koordinat</td> <td>:</td> <td><a href="http://www.ppk-kp3k.kkp.go.id/giskkp/index.html?extent="target="_blank">3° 28' 15.000</a></td>
+</tr>
+</table>
+<hr>
+
+<h2><a id="gu">Gambaran Umum</a></h2>
+<p><div class="readmore"><p style="text-align: justify;">
+	<span style="color:#ff0000;"><strong>GAMBARAN UMUM</strong></span></p>
+<p style="text-align: justify; margin-left: 40px;">
+	Pulau Tangnga dalam bahasa mandar yang artinya pulau tengah termasuk dalam wilayah administrasi Kelurahan Amassangan Kecamatan Binuang Kabupaten Polewali mandar, dengan luas 54,85 Ha atau 0,55 km2 secara geografis berada pada posisi 03&ordm;28&#39;15,000&quot; LS dan 119&ordm;23&#39;33,000&quot; BT.</p>
+<p style="text-align: justify; margin-left: 40px;">
+	Pulau Tangnga juga merupakan tempat ziarah karena dipulau ini terdapat makam keramat Syeh Abdulrahim Kamaluddin yang wafat sekitar tahun 1917, beliau dikenal sebagai penyebar agama islam di mandar, mamuju dan polewali. Makam keramat ini di merupakan cagar budaya dan dilindungi oleh pemerintah Dinas Pariwisata dan Budaya Propinsi Sulawesi Selatan.</p>
+<p style="text-align: justify; margin-left: 40px;">
+	Topografi pulau yang berbentuk datar dan perbukitan dengan tipe pantai beberapa tempat berpasir dan sebagian besar berlumpur, vegetasi mangrove terdapat dibagian utara dan barat. Penggunaan lahan di Pulau Tangnga digunakan untuk kepentingan perumahan, pekarangan, tambak, dan perkebunan warga. Penutupan lahannya didominasi oleh semak belukar, tumbuhan bambu, kelapa, dan tumbuhan palawija.</p>
+<p style="text-align: justify;">
+	<span style="color:#ff0000;"><strong>AKSESIBILITAS</strong></span></p>
+<p style="text-align: justify; margin-left: 40px;">
+	Akses untuk mencapai Pulau Tangnga dapat ditempuh melalui dermaga Tonyaman Kabupaten Polewali Mandar, Sulawesi Barat. Aksesibilitas menuju Pulau Karemasang.</p>
+<p style="text-align: center;">
+	Aksesibilitas menuju Pulau Karemasang</p>
+<table align="center" border="1" cellpadding="0" cellspacing="0">
+	<tbody>
+		<tr>
+			<td colspan="4" style="width:589px;height:24px;">
+				<p align="center">
+					<strong>Rute</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:139px;">
+				<p align="center">
+					<strong>Dari</strong></p>
+			</td>
+			<td style="width:173px;">
+				<p align="center">
+					<strong>Ke</strong></p>
+			</td>
+			<td style="width:161px;">
+				<p align="center">
+					<strong>Armada</strong></p>
+			</td>
+			<td style="width:117px;">
+				<p align="center">
+					<strong>Waktu Tempuh</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:139px;">
+				<p>
+					Bandara Soekarno-Hatta</p>
+			</td>
+			<td style="width:173px;">
+				<p>
+					Bandara Hasanuddin Makassar</p>
+			</td>
+			<td style="width:161px;">
+				<p>
+					Pesawat terbang</p>
+			</td>
+			<td style="width:117px;">
+				<p>
+					2,35 jam</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:139px;">
+				<p>
+					Bandara Hasanuddin</p>
+			</td>
+			<td style="width:173px;">
+				<p>
+					Kota Polewali Mandar</p>
+			</td>
+			<td style="width:161px;">
+				<p>
+					Mobil Carteran / Bis</p>
+			</td>
+			<td style="width:117px;">
+				<p>
+					7&nbsp; jam</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:139px;">
+				<p>
+					Kota Polewali Mandar</p>
+			</td>
+			<td style="width:173px;">
+				<p>
+					Pelabuhan</p>
+			</td>
+			<td style="width:161px;">
+				<p>
+					Angkutan umum / charter</p>
+			</td>
+			<td style="width:117px;">
+				<p>
+					20 menit</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:139px;">
+				<p>
+					Pelabuhan</p>
+			</td>
+			<td style="width:173px;">
+				<p>
+					Pulau Tangnga</p>
+			</td>
+			<td style="width:161px;">
+				<p>
+					Kapal Nelayan</p>
+			</td>
+			<td style="width:117px;">
+				<p>
+					20 menit</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<p>
+	&nbsp;</p>
+<p style="margin-left: 40px; text-align: justify;">
+	Kapal yang bisa kita tumpangi menuju Pulau Tangnga dapat menggunakan kapal kayu dengan ongkos sebesar Rp. 10.000,- / orang sekali jalan atau PP Rp. 20.000,- / orang atau dapat juga dengan menggunakan kapal kayu nelayan yang bisa disewa di sekitar pelabuhan.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="ksbk">Kependudukan, Sosial Budaya dan Kelembagaan</a></h2>
+<p><div class="readmore"><p style="text-align: justify;">
+	<span style="color:#ff0000;"><strong>KEPENDUDUKAN</strong></span></p>
+<p style="text-align: justify; margin-left: 40px;">
+	Pulau Tangnga terdiri dari 1 lingkungan atau Dusun dengan jumlah penduduk berjumlah 355 orang serta jumlah kepala keluarga sebanyak 96 KK. Penduduk yang mendiami pulau ini berasal dari suku&nbsp; Bugis, Bajo dan Mandar, dan semuanya beragama islam sehingga kehidupan sosial-budayanya banyak dipengaruhi oleh unsur-unsur agama Islam. Bahasa keseharian yang digunakan adalah bahasa bugis, bahasa bajo, bahasa mandar dan bahasa Indonesia. Sedangkan mata pencaharian utama masyarakat di Pulau Tangnga adalah sebagai nelayan tangkap, dan sebagian kecil nelayan budidaya.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="eshp">Ekosistem dan Sumberdaya Hayati</a></h2>
+<p><div class="readmore"><p style="text-align: justify;">
+	<span style="color:#800080;"><strong>TERUMBU KARANG</strong></span></p>
+<p style="text-align: justify; margin-left: 40px;">
+	Terumbu karang merupakan potensi pesisir dan pulau pulau kecil yang menjadi salah satu komoditas andalan. Perairan di Pulau Tangngamasih sangat mendukung pertumbuhan terumbu karang. Asosiasi bhentik lainnya yang berada di ekosistem terumbu karang yakni jenis ikan terumbu, molusca dan bhentik lainnya memiliki kepentingan sebagai habitatnya.</p>
+<p style="text-align: justify; margin-left: 40px;">
+	Pengamatan substrat dasar dilakukan pada tiga titik pengamatan, yakni bagian timur Pulau Tangnga, barat Pulau Tangnga dan selatan Pulau Kremasang. Pada saat pengamatan dilakukan, kondisi perairan di Pulau Tangnga dan Pulau Kremasang dipengaruhi oleh sungai dari daratan Pulau Sulawesi, arus diperairan tidak kuat (sedang), suhu perairan normal, visibilitas rendah (keruh), gelombang rendah. Terumbu karang pada masing - masing titik pengamatan dari Pulau Tangnga dan Pulau Kremasang berkisar antara 12,28% - 28,32% dalam kategori buruk hingga. Bagian timur Pulau Tangnga memiliki kondisi persen tutupan paling rendah, selanjutnya bagian selatan Pulau Kremasang pada kondisi persen tutupan cukup tinggi.</p>
+<ol style="margin-left: 40px;">
+	<li style="text-align: justify;">
+		<strong>Bagian Timur Pulau Tangnga</strong></li>
+</ol>
+<p style="text-align: justify; margin-left: 80px;">
+	Kondisi perairan bagian timur Pulau Tangnga cukup keruh dengan jarak pandang di dalam kolom perairan sekitar 5 meter. Substrat dasar yang mendominasi merupakan karang mati beralga (<em>Dead Coral with Algae/DCA</em>). Bagian timur memiliki kontur dasar perairan dengan kemiringan yang cukup tajam hingga terjal. Kondisi arus tidak begitu kuat pada saat pengamatan dan mulai kencang pada saat menjelang arus pasang. Pengambilan data dilakukan pada kedalaman 7 meter. Persentase penutupan substrat karang mati merupakan yang paling tinggi pada seluruh titik pengamatan yakni sebesar 70,24%. Penutupan KKH (karang keras hidup) sangat rendah pada seluruh titik pengamatan sebesar 12,28% yang termasuk dalam kategori rendah. Persentase penutupan biotik yang ditemukan sebesar 10,96%. Penutupan abiotik sebesar 6,32% dan penutupan alga sebesar 0,2%</p>
+<p style="text-align: justify; margin-left: 80px;">
+	Kondisi kekeruhan di perairan bagian timur Pulau Tangnga diakibatkan oleh lokasi pulau yang dekat dengan muara sungai dari daratan Sulawesi sehingga kondisi penutupan substrat dasar yang terlihat cukup tinggi oleh karang mati. Pengendapan sedimen menutup permukaan hewan karang dan menyebabkan invasi alga semakin cepat dan mampu menutupi karang. Pada kondisi ini hanya beberapa jenis karang yang terlihat mampu beradaptasi dengan kondisi lingkungan perairan yang demikian.</p>
+<ol start="2" style="margin-left: 40px;">
+	<li style="text-align: justify;">
+		<strong>Bagian Barat Pulau Tangnga</strong></li>
+</ol>
+<p style="text-align: justify; margin-left: 80px;">
+	Substrat dasar bagian barat Pulau Tangnga di dominasi oleh DCA dan patahan karang (<em>rubble</em>) serta alga. Terlihat banyak karang yang mati dan mengalami pemutihan. Kondisi perairan cukup keruh dan jarak pandang yang rendah. Kontur dasar perairan bagian barat Pulau Tangnga berupa <em>slope</em>. Pengambilan data dilakukan pada kedalaman 6 meter.</p>
+<p style="text-align: justify; margin-left: 80px;">
+	Persentase penutupan substrat yang paling tinggi di bagian barat Pulau Tangnga adalah karang mati sebesar 52,28%. Penutupan substrat abiotik sebesar 20,98%. Persentase penutupan KKH sangat kecil sebesar 14,3% yang termasuk dalam kategori buruk. Penutupan substrat alga sebesar 7,5% dan penutupan substrat biotik sebesar 4,94%.</p>
+<p style="text-align: justify; margin-left: 80px;">
+	Kondisi penutupan substrat dasar bagian barat Pulau Tangnga tidak jauh berbeda dengan bagian timur. Bagian barat masih dipengaruhi oleh kekeruhan dari sungai daratan Pulau Sulawesi. Pertumbuhan karang keras hidup yang terlihat dominan adalah karang bercabang.</p>
+<p style="text-align: justify;">
+	<span style="color:#800080;"><strong>IKAN KARANG</strong></span></p>
+<p style="text-align: justify; margin-left: 40px;">
+	Pengamatan ikan terumbu di Pulau Tangnga dibagi menjadi dua titik pengamatan, yaitu sisi barat dan timur pulau. Komposisi ikan terumbu yang ditemukan di perairan Pulau Tangnga di dominansi oleh Famili Pomacentridae dengan kepadatan 13640 ind/ha kemudian disusul dengan kepadatan famili Caesionidae dengan kepadatan 3160 ind/ha. Selain kedua famili tersebut pada sisi Timur pulau Tangnga ditemukan sebanyak 10 famili yang terbagi menjadi 31 jenis ikan terumbu, sedangkan kelimpahan jenis ikan terumbu sisi Barat pulau Tangnga sebanyak 26 jenis ikan terumbu yang termasuk ke dalam 7 famili.&nbsp; Hasil pengamatan tersebut kemudian diolah dengan menggunakan indeks Shannon-Wiener (1948) dalam buku Odum (2003) guna melihat keanekaragaman ikan terumbu dalam suatu komunitas.</p>
+<p style="text-align: center;">
+	Tabulasi nilai indeks Shannon-Wiener di dua lokasi pengamatan ikan terumbu</p>
+<table align="center" border="0" cellpadding="0" cellspacing="0" style="width: 551px;" width="551">
+	<tbody>
+		<tr>
+			<td nowrap="nowrap" style="width: 88px; height: 26px; text-align: justify;">
+				<p>
+					&nbsp;</p>
+			</td>
+			<td nowrap="nowrap" style="width:188px;height:26px;">
+				<p style="text-align: justify;">
+					Keanekaragaman (H)</p>
+			</td>
+			<td nowrap="nowrap" style="width:152px;height:26px;">
+				<p style="text-align: justify;">
+					Keseragaman (E)</p>
+			</td>
+			<td nowrap="nowrap" style="width:123px;height:26px;">
+				<p style="text-align: justify;">
+					Dominansi (C)</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="width:88px;height:26px;">
+				<p style="text-align: justify;">
+					Barat</p>
+			</td>
+			<td nowrap="nowrap" style="width:188px;height:26px;">
+				<p style="text-align: justify;">
+					2.9133</p>
+			</td>
+			<td nowrap="nowrap" style="width:152px;height:26px;">
+				<p style="text-align: justify;">
+					0.8942</p>
+			</td>
+			<td nowrap="nowrap" style="width:123px;height:26px;">
+				<p style="text-align: justify;">
+					0.0684</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="width:88px;height:26px;">
+				<p style="text-align: justify;">
+					Timur</p>
+			</td>
+			<td nowrap="nowrap" style="width:188px;height:26px;">
+				<p style="text-align: justify;">
+					2.9152</p>
+			</td>
+			<td nowrap="nowrap" style="width:152px;height:26px;">
+				<p style="text-align: justify;">
+					0.8489</p>
+			</td>
+			<td nowrap="nowrap" style="width:123px;height:26px;">
+				<p style="text-align: justify;">
+					0.0745</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<p style="text-align: justify; margin-left: 40px;">
+	Keanekaragaman jenis ikan terumbu di kedua sisi pulau Tangnga tergolong memiliki tingkat keanekaragaman biota yang sedang. Hal tersebut dapat dilihat dari nilai indeks keanekaragaman (H) memiliki nilai pada kisaran 2,5 &ndash; 3. Sehingga dapat dikatakan bahwa sisi barat pulau Tangnga memiliki interaksi antar setiap jenis ikan terumbu yang tidak terlalu kompleks. Indeks lainnya adalah indeks yang menggambarkan dominansi suatu jenis ikan terumbu dalam satu populasi ikan terumbu. Pada sisi Barat maupun Timur memiliki nilai yang menunjukan tidak terjadinya dominansi suatu spesies dalam suatu komunitas.</p>
+<ol>
+	<li style="text-align: justify; margin-left: 40px;">
+		Bagian Timur P. Tangnga</li>
+</ol>
+<p style="text-align: justify; margin-left: 80px;">
+	Famili Pomacentridae merupakan jenis ikan terumbu yang banyak dijumpai. Jenis ikan yang sering kali ditemukan adalah <em>Chromis amboinensis</em> dan <em>Pomacentrus alexanderae</em>. Kedua jenis ikan tersebut memiliki kisaran ukuran 5 - 9 cm. serta memiliki tingkah laku territorial dan jarang berenang jauh dari habitat aslinya. Beberapa jenis ikan terumbu yang termasuk jenis famili Pomacentridae adalah <em>Amblyglyphidodon aureus</em> (920 ind/ha) dan <em>Chrysiptera hemicyanea</em> (880 ind/ha). Kepadatan ikan terumbu terbesar kedua berasal dari famili Caesionidae dan Siganidae. Kedua jenis ikan ini merupakan jenis ikan target para nelayan di pulau Tangnga. Jenis ikan Caesionidae mudah dikenali karena warna pada sirip caudalnya yang berwarna kuning, oleh karena itu ikan jenis ini lebih dikenal dengan nama ikan ekor kuning. Harga jual untuk satu ekor ikan ekor kuning ini berkisar antara Rp 10.000 &ndash; 15.000,- per kilogramnya.</p>
+<p style="text-align: justify; margin-left: 80px;">
+	Pada pengamatan ikan terumbu di sisi Timur pulau Tangnga sebanyak delapan jenis ikan terumbu yang termasuk dalam kelompok ikan target. Jenis ikan <em>Siganus virgatus</em> memiliki biomassa terbesar yaitu 419,75 kg/ha kemudian disusul dengan jenis ikan <em>Chlorurus sordidus</em> dengan biomassa 214,27 kg/ha. Kisaran panjang ikan yang teramati untuk jenis ikan <em>Siganus virgatus</em> 20 &ndash; 25 cm.</p>
+<ol>
+	<li style="text-align: justify; margin-left: 40px;">
+		Bagian Barat P. Tangnga</li>
+</ol>
+<p style="text-align: justify; margin-left: 80px;">
+	Sisi Barat pulau Tangnga memiliki kondisi pantai berupa pasir putih dengan substrat dasar pada kedalaman 3 meter berupa patahan karang dan karang keras berbentuk massive. Komposisi ikan terumbu didominansi oleh Famili Pomacentridae dengan jenis ikan yang paling sering ditemukan adalah <em>Amblyglyphidodon aureus</em> dan <em>Chromis ternatensis</em>. Kedua jenis ikan tersebut merupakan jenis ikan yang termasuk kelompok ikan mayor dan sering membentuk kelompok dalam mencari makan. Sebagian besar, ikan famili Pomacentridae hidup diantara celah terumbu karang dan tidak memiliki daerah ruaya yang terlalu luas. Oleh karena itu famili Pomacentridae sering memiliki kepadatan terbesar pada suatu komunitas ikan terumbu.</p>
+<p style="text-align: justify; margin-left: 80px;">
+	Famili terbesar kedua berasal dari famili Labridae dengan jenis yang sering ditemukan adalah <em>Cheilinus fasciatus</em>. Ikan doctor atau <em>Labroides dimidiatus</em> juga banyak dijumpai pada sisi Barat pulau Tangnga yaitu sebanyak 200 ind/ha. Menurut Kuiter (1992) Famili Labridae merupakan ikan terumbu yang dominan ditemukan di ekosistem terumbu karang dengan ukuran yang bervariasi, selain Famili Pomacentridae.&nbsp; Labridae pada umumnya merupakan omnivora, pemakan udang, bintang laut, gastropoda, zooplankton, ikan-ikan kecil dan alga.&nbsp; Mayoritas ikan terumbu ini cenderung menetap pada suatu lokasi atau mengelompok di suatu bentuk terumbu tertentu.</p>
+<p style="text-align: justify; margin-left: 80px;">
+	Biomassa dari setiap ikan target yang ditemukan pada sisi Barat pulau Tangnga. Grafik tersebut menjelaskan keadaan stok ikan terumbu untuk kelompok ikan target. Biomassa terbesar dimiliki oleh jenis <em>Cheilinus fasciatus</em> dengan panjang estimasi yang ditemukan adalah 25 &ndash; 30 cm. Kemudian disusul dengan ikan <em>Choerodon anchorago</em> dengan panjang estimasi 26 &ndash; 28 cm.</p>
+<table align="center" border="0" cellpadding="0" cellspacing="0" style="width: 546px;" width="546">
+	<tbody>
+		<tr>
+			<td nowrap="nowrap" style="width:119px;height:18px;">
+				<p style="text-align: center;">
+					<strong>Famili</strong></p>
+			</td>
+			<td nowrap="nowrap" style="width:223px;height:18px;">
+				<p style="text-align: center;">
+					<strong>Jenis</strong></p>
+			</td>
+			<td nowrap="nowrap" style="width:61px;height:18px;">
+				<p style="text-align: center;">
+					<strong>Barat</strong></p>
+			</td>
+			<td nowrap="nowrap" style="width:61px;height:18px;">
+				<p style="text-align: center;">
+					<strong>Timur</strong></p>
+			</td>
+			<td nowrap="nowrap" style="width:82px;height:18px;">
+				<p style="text-align: center;">
+					<strong>Kelompok</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="width:119px;height:18px;">
+				<p style="text-align: center;">
+					Acanthuridae</p>
+			</td>
+			<td nowrap="nowrap" style="width:223px;height:18px;">
+				<p style="text-align: center;">
+					<em>Naso elegans</em></p>
+			</td>
+			<td nowrap="nowrap" style="width:61px;height:18px;">
+				<p style="text-align: center;">
+					v</p>
+			</td>
+			<td nowrap="nowrap" style="width:61px;height:18px;">
+				<p style="text-align: center;">
+					&nbsp;</p>
+			</td>
+			<td nowrap="nowrap" style="width:82px;height:18px;">
+				<p style="text-align: center;">
+					Target</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="width:119px;height:18px;">
+				<p style="text-align: center;">
+					Balistidae</p>
+			</td>
+			<td nowrap="nowrap" style="width:223px;height:18px;">
+				<p style="text-align: center;">
+					<em>Balistapus undulatus</em></p>
+			</td>
+			<td nowrap="nowrap" style="width:61px;height:18px;">
+				<p style="text-align: center;">
+					v</p>
+			</td>
+			<td nowrap="nowrap" style="width:61px;height:18px;">
+				<p style="text-align: center;">
+					&nbsp;</p>
+			</td>
+			<td nowrap="nowrap" style="width:82px;height:18px;">
+				<p style="text-align: center;">
+					Mayor</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="width:119px;height:18px;">
+				<p style="text-align: center;">
+					Caesionidae</p>
+			</td>
+			<td nowrap="nowrap" style="width:223px;height:18px;">
+				<p style="text-align: center;">
+					<em>Caesio teres</em></p>
+			</td>
+			<td nowrap="nowrap" style="width:61px;height:18px;">
+				<p style="text-align: center;">
+					&nbsp;</p>
+			</td>
+			<td nowrap="nowrap" style="width:61px;height:18px;">
+				<p style="text-align: center;">
+					v</p>
+			</td>
+			<td nowrap="nowrap" style="width:82px;height:18px;">
+				<p style="text-align: center;">
+					Target</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="width:119px;height:18px;">
+				<p style="text-align: center;">
+					Caesionidae</p>
+			</td>
+			<td nowrap="nowrap" style="width:223px;height:18px;">
+				<p style="text-align: center;">
+					<em>Pterocaesio diagrama</em></p>
+			</td>
+			<td nowrap="nowrap" style="width:61px;height:18px;">
+				<p style="text-align: center;">
+					&nbsp;</p>
+			</td>
+			<td nowrap="nowrap" style="width:61px;height:18px;">
+				<p style="text-align: center;">
+					v</p>
+			</td>
+			<td nowrap="nowrap" style="width:82px;height:18px;">
+				<p style="text-align: center;">
+					Target</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="width:119px;height:18px;">
+				<p style="text-align: center;">
+					Chaetodontidae</p>
+			</td>
+			<td nowrap="nowrap" style="width:223px;height:18px;">
+				<p style="text-align: center;">
+					<em>Chaetodon auriga</em></p>
+			</td>
+			<td nowrap="nowrap" style="width:61px;height:18px;">
+				<p style="text-align: center;">
+					v</p>
+			</td>
+			<td nowrap="nowrap" style="width:61px;height:18px;">
+				<p style="text-align: center;">
+					v</p>
+			</td>
+			<td nowrap="nowrap" style="width:82px;height:18px;">
+				<p style="text-align: center;">
+					Indikator</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="width:119px;height:18px;">
+				<p style="text-align: center;">
+					Chaetodontidae</p>
+			</td>
+			<td nowrap="nowrap" style="width:223px;height:18px;">
+				<p style="text-align: center;">
+					<em>Chaetodon baronessa</em></p>
+			</td>
+			<td nowrap="nowrap" style="width:61px;height:18px;">
+				<p style="text-align: center;">
+					&nbsp;</p>
+			</td>
+			<td nowrap="nowrap" style="width:61px;height:18px;">
+				<p style="text-align: center;">
+					v</p>
+			</td>
+			<td nowrap="nowrap" style="width:82px;height:18px;">
+				<p style="text-align: center;">
+					Indikator</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="width:119px;height:18px;">
+				<p style="text-align: center;">
+					Chaetodontidae</p>
+			</td>
+			<td nowrap="nowrap" style="width:223px;height:18px;">
+				<p style="text-align: center;">
+					<em>Chaetodon lunulatus</em></p>
+			</td>
+			<td nowrap="nowrap" style="width:61px;height:18px;">
+				<p style="text-align: center;">
+					&nbsp;</p>
+			</td>
+			<td nowrap="nowrap" style="width:61px;height:18px;">
+				<p style="text-align: center;">
+					v</p>
+			</td>
+			<td nowrap="nowrap" style="width:82px;height:18px;">
+				<p style="text-align: center;">
+					Indikator</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="width:119px;height:18px;">
+				<p style="text-align: center;">
+					Chaetodontidae</p>
+			</td>
+			<td nowrap="nowrap" style="width:223px;height:18px;">
+				<p style="text-align: center;">
+					<em>Chaetodon octofasciatus</em></p>
+			</td>
+			<td nowrap="nowrap" style="width:61px;height:18px;">
+				<p style="text-align: center;">
+					v</p>
+			</td>
+			<td nowrap="nowrap" style="width:61px;height:18px;">
+				<p style="text-align: center;">
+					v</p>
+			</td>
+			<td nowrap="nowrap" style="width:82px;height:18px;">
+				<p style="text-align: center;">
+					Indikator</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="width:119px;height:18px;">
+				<p style="text-align: center;">
+					Chaetodontidae</p>
+			</td>
+			<td nowrap="nowrap" style="width:223px;height:18px;">
+				<p style="text-align: center;">
+					<em>Chelmon rostratus</em></p>
+			</td>
+			<td nowrap="nowrap" style="width:61px;height:18px;">
+				<p style="text-align: center;">
+					&nbsp;</p>
+			</td>
+			<td nowrap="nowrap" style="width:61px;height:18px;">
+				<p style="text-align: center;">
+					v</p>
+			</td>
+			<td nowrap="nowrap" style="width:82px;height:18px;">
+				<p style="text-align: center;">
+					Indikator</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="width:119px;height:18px;">
+				<p style="text-align: center;">
+					Chaetodontidae</p>
+			</td>
+			<td nowrap="nowrap" style="width:223px;height:18px;">
+				<p style="text-align: center;">
+					<em>Heniochus pleurotaenia</em></p>
+			</td>
+			<td nowrap="nowrap" style="width:61px;height:18px;">
+				<p style="text-align: center;">
+					v</p>
+			</td>
+			<td nowrap="nowrap" style="width:61px;height:18px;">
+				<p style="text-align: center;">
+					&nbsp;</p>
+			</td>
+			<td nowrap="nowrap" style="width:82px;height:18px;">
+				<p style="text-align: center;">
+					Indikator</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="width:119px;height:18px;">
+				<p style="text-align: center;">
+					Chaetodontidae</p>
+			</td>
+			<td nowrap="nowrap" style="width:223px;height:18px;">
+				<p style="text-align: center;">
+					<em>Heniochus varius</em></p>
+			</td>
+			<td nowrap="nowrap" style="width:61px;height:18px;">
+				<p style="text-align: center;">
+					v</p>
+			</td>
+			<td nowrap="nowrap" style="width:61px;height:18px;">
+				<p style="text-align: center;">
+					v</p>
+			</td>
+			<td nowrap="nowrap" style="width:82px;height:18px;">
+				<p style="text-align: center;">
+					Indikator</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="width:119px;height:18px;">
+				<p style="text-align: center;">
+					Labridae</p>
+			</td>
+			<td nowrap="nowrap" style="width:223px;height:18px;">
+				<p style="text-align: center;">
+					<em>Cheilinus fasciatus</em></p>
+			</td>
+			<td nowrap="nowrap" style="width:61px;height:18px;">
+				<p style="text-align: center;">
+					v</p>
+			</td>
+			<td nowrap="nowrap" style="width:61px;height:18px;">
+				<p style="text-align: center;">
+					v</p>
+			</td>
+			<td nowrap="nowrap" style="width:82px;height:18px;">
+				<p style="text-align: center;">
+					Target</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="width:119px;height:18px;">
+				<p style="text-align: center;">
+					Labridae</p>
+			</td>
+			<td nowrap="nowrap" style="width:223px;height:18px;">
+				<p style="text-align: center;">
+					<em>Choerodon anchorago</em></p>
+			</td>
+			<td nowrap="nowrap" style="width:61px;height:18px;">
+				<p style="text-align: center;">
+					v</p>
+			</td>
+			<td nowrap="nowrap" style="width:61px;height:18px;">
+				<p style="text-align: center;">
+					v</p>
+			</td>
+			<td nowrap="nowrap" style="width:82px;height:18px;">
+				<p style="text-align: center;">
+					Target</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="width:119px;height:18px;">
+				<p style="text-align: center;">
+					Labridae</p>
+			</td>
+			<td nowrap="nowrap" style="width:223px;height:18px;">
+				<p style="text-align: center;">
+					<em>Halichoeres leucurus</em></p>
+			</td>
+			<td nowrap="nowrap" style="width:61px;height:18px;">
+				<p style="text-align: center;">
+					v</p>
+			</td>
+			<td nowrap="nowrap" style="width:61px;height:18px;">
+				<p style="text-align: center;">
+					v</p>
+			</td>
+			<td nowrap="nowrap" style="width:82px;height:18px;">
+				<p style="text-align: center;">
+					Mayor</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="width:119px;height:18px;">
+				<p style="text-align: center;">
+					Labridae</p>
+			</td>
+			<td nowrap="nowrap" style="width:223px;height:18px;">
+				<p style="text-align: center;">
+					<em>Labroides dimidiatus</em></p>
+			</td>
+			<td nowrap="nowrap" style="width:61px;height:18px;">
+				<p style="text-align: center;">
+					v</p>
+			</td>
+			<td nowrap="nowrap" style="width:61px;height:18px;">
+				<p style="text-align: center;">
+					v</p>
+			</td>
+			<td nowrap="nowrap" style="width:82px;height:18px;">
+				<p style="text-align: center;">
+					Mayor</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="width:119px;height:18px;">
+				<p style="text-align: center;">
+					Lutjanidae</p>
+			</td>
+			<td nowrap="nowrap" style="width:223px;height:18px;">
+				<p style="text-align: center;">
+					<em>Lutjanus carponotatus</em></p>
+			</td>
+			<td nowrap="nowrap" style="width:61px;height:18px;">
+				<p style="text-align: center;">
+					&nbsp;</p>
+			</td>
+			<td nowrap="nowrap" style="width:61px;height:18px;">
+				<p style="text-align: center;">
+					v</p>
+			</td>
+			<td nowrap="nowrap" style="width:82px;height:18px;">
+				<p style="text-align: center;">
+					Target</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="width:119px;height:18px;">
+				<p style="text-align: center;">
+					Nemipteridae</p>
+			</td>
+			<td nowrap="nowrap" style="width:223px;height:18px;">
+				<p style="text-align: center;">
+					<em>Scolopsis bilineatus</em></p>
+			</td>
+			<td nowrap="nowrap" style="width:61px;height:18px;">
+				<p style="text-align: center;">
+					&nbsp;</p>
+			</td>
+			<td nowrap="nowrap" style="width:61px;height:18px;">
+				<p style="text-align: center;">
+					v</p>
+			</td>
+			<td nowrap="nowrap" style="width:82px;height:18px;">
+				<p style="text-align: center;">
+					Target</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="width:119px;height:18px;">
+				<p style="text-align: center;">
+					Pomacanthidae</p>
+			</td>
+			<td nowrap="nowrap" style="width:223px;height:18px;">
+				<p style="text-align: center;">
+					<em>Chaetodontoplus mesoleucus</em></p>
+			</td>
+			<td nowrap="nowrap" style="width:61px;height:18px;">
+				<p style="text-align: center;">
+					v</p>
+			</td>
+			<td nowrap="nowrap" style="width:61px;height:18px;">
+				<p style="text-align: center;">
+					v</p>
+			</td>
+			<td nowrap="nowrap" style="width:82px;height:18px;">
+				<p style="text-align: center;">
+					Mayor</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="width:119px;height:18px;">
+				<p style="text-align: center;">
+					Pomacanthidae</p>
+			</td>
+			<td nowrap="nowrap" style="width:223px;height:18px;">
+				<p style="text-align: center;">
+					<em>Pygoplites diacanthus</em></p>
+			</td>
+			<td nowrap="nowrap" style="width:61px;height:18px;">
+				<p style="text-align: center;">
+					&nbsp;</p>
+			</td>
+			<td nowrap="nowrap" style="width:61px;height:18px;">
+				<p style="text-align: center;">
+					v</p>
+			</td>
+			<td nowrap="nowrap" style="width:82px;height:18px;">
+				<p style="text-align: center;">
+					Mayor</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="width:119px;height:18px;">
+				<p style="text-align: center;">
+					Pomacentridae</p>
+			</td>
+			<td nowrap="nowrap" style="width:223px;height:18px;">
+				<p style="text-align: center;">
+					<em>Amblyglyphidodon aureus</em></p>
+			</td>
+			<td nowrap="nowrap" style="width:61px;height:18px;">
+				<p style="text-align: center;">
+					v</p>
+			</td>
+			<td nowrap="nowrap" style="width:61px;height:18px;">
+				<p style="text-align: center;">
+					v</p>
+			</td>
+			<td nowrap="nowrap" style="width:82px;height:18px;">
+				<p style="text-align: center;">
+					Mayor</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="width:119px;height:18px;">
+				<p style="text-align: center;">
+					Pomacentridae</p>
+			</td>
+			<td nowrap="nowrap" style="width:223px;height:18px;">
+				<p style="text-align: center;">
+					<em>Amblyglyphidodon curacao</em></p>
+			</td>
+			<td nowrap="nowrap" style="width:61px;height:18px;">
+				<p style="text-align: center;">
+					v</p>
+			</td>
+			<td nowrap="nowrap" style="width:61px;height:18px;">
+				<p style="text-align: center;">
+					&nbsp;</p>
+			</td>
+			<td nowrap="nowrap" style="width:82px;height:18px;">
+				<p style="text-align: center;">
+					Mayor</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="width:119px;height:18px;">
+				<p style="text-align: center;">
+					Pomacentridae</p>
+			</td>
+			<td nowrap="nowrap" style="width:223px;height:18px;">
+				<p style="text-align: center;">
+					<em>Amblyglyphidodon leucogaster</em></p>
+			</td>
+			<td nowrap="nowrap" style="width:61px;height:18px;">
+				<p style="text-align: center;">
+					&nbsp;</p>
+			</td>
+			<td nowrap="nowrap" style="width:61px;height:18px;">
+				<p style="text-align: center;">
+					v</p>
+			</td>
+			<td nowrap="nowrap" style="width:82px;height:18px;">
+				<p style="text-align: center;">
+					Mayor</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="width:119px;height:18px;">
+				<p style="text-align: center;">
+					Pomacentridae</p>
+			</td>
+			<td nowrap="nowrap" style="width:223px;height:18px;">
+				<p style="text-align: center;">
+					<em>Amphiprion ocellaris</em></p>
+			</td>
+			<td nowrap="nowrap" style="width:61px;height:18px;">
+				<p style="text-align: center;">
+					v</p>
+			</td>
+			<td nowrap="nowrap" style="width:61px;height:18px;">
+				<p style="text-align: center;">
+					&nbsp;</p>
+			</td>
+			<td nowrap="nowrap" style="width:82px;height:18px;">
+				<p style="text-align: center;">
+					Mayor</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="width:119px;height:18px;">
+				<p style="text-align: center;">
+					Pomacentridae</p>
+			</td>
+			<td nowrap="nowrap" style="width:223px;height:18px;">
+				<p style="text-align: center;">
+					<em>Chromis amboinensis</em></p>
+			</td>
+			<td nowrap="nowrap" style="width:61px;height:18px;">
+				<p style="text-align: center;">
+					v</p>
+			</td>
+			<td nowrap="nowrap" style="width:61px;height:18px;">
+				<p style="text-align: center;">
+					v</p>
+			</td>
+			<td nowrap="nowrap" style="width:82px;height:18px;">
+				<p style="text-align: center;">
+					Mayor</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="width:119px;height:18px;">
+				<p style="text-align: center;">
+					Pomacentridae</p>
+			</td>
+			<td nowrap="nowrap" style="width:223px;height:18px;">
+				<p style="text-align: center;">
+					<em>Chromis retrofasciata</em></p>
+			</td>
+			<td nowrap="nowrap" style="width:61px;height:18px;">
+				<p style="text-align: center;">
+					&nbsp;</p>
+			</td>
+			<td nowrap="nowrap" style="width:61px;height:18px;">
+				<p style="text-align: center;">
+					v</p>
+			</td>
+			<td nowrap="nowrap" style="width:82px;height:18px;">
+				<p style="text-align: center;">
+					Mayor</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="width:119px;height:18px;">
+				<p style="text-align: center;">
+					Pomacentridae</p>
+			</td>
+			<td nowrap="nowrap" style="width:223px;height:18px;">
+				<p style="text-align: center;">
+					<em>Chromis ternatensis</em></p>
+			</td>
+			<td nowrap="nowrap" style="width:61px;height:18px;">
+				<p style="text-align: center;">
+					v</p>
+			</td>
+			<td nowrap="nowrap" style="width:61px;height:18px;">
+				<p style="text-align: center;">
+					&nbsp;</p>
+			</td>
+			<td nowrap="nowrap" style="width:82px;height:18px;">
+				<p style="text-align: center;">
+					Mayor</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="width:119px;height:18px;">
+				<p style="text-align: center;">
+					Pomacentridae</p>
+			</td>
+			<td nowrap="nowrap" style="width:223px;height:18px;">
+				<p style="text-align: center;">
+					<em>Chrysiptera hemicyanea</em></p>
+			</td>
+			<td nowrap="nowrap" style="width:61px;height:18px;">
+				<p style="text-align: center;">
+					v</p>
+			</td>
+			<td nowrap="nowrap" style="width:61px;height:18px;">
+				<p style="text-align: center;">
+					v</p>
+			</td>
+			<td nowrap="nowrap" style="width:82px;height:18px;">
+				<p style="text-align: center;">
+					Mayor</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="width:119px;height:18px;">
+				<p style="text-align: center;">
+					Pomacentridae</p>
+			</td>
+			<td nowrap="nowrap" style="width:223px;height:18px;">
+				<p style="text-align: center;">
+					<em>Chrysiptera rollandi</em></p>
+			</td>
+			<td nowrap="nowrap" style="width:61px;height:18px;">
+				<p style="text-align: center;">
+					v</p>
+			</td>
+			<td nowrap="nowrap" style="width:61px;height:18px;">
+				<p style="text-align: center;">
+					v</p>
+			</td>
+			<td nowrap="nowrap" style="width:82px;height:18px;">
+				<p style="text-align: center;">
+					Mayor</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="width:119px;height:18px;">
+				<p style="text-align: center;">
+					Pomacentridae</p>
+			</td>
+			<td nowrap="nowrap" style="width:223px;height:18px;">
+				<p style="text-align: center;">
+					<em>Dischistodus perspicilatus</em></p>
+			</td>
+			<td nowrap="nowrap" style="width:61px;height:18px;">
+				<p style="text-align: center;">
+					v</p>
+			</td>
+			<td nowrap="nowrap" style="width:61px;height:18px;">
+				<p style="text-align: center;">
+					&nbsp;</p>
+			</td>
+			<td nowrap="nowrap" style="width:82px;height:18px;">
+				<p style="text-align: center;">
+					Mayor</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="width:119px;height:18px;">
+				<p style="text-align: center;">
+					Pomacentridae</p>
+			</td>
+			<td nowrap="nowrap" style="width:223px;height:18px;">
+				<p style="text-align: center;">
+					<em>Dischistodus prosopotaenia</em></p>
+			</td>
+			<td nowrap="nowrap" style="width:61px;height:18px;">
+				<p style="text-align: center;">
+					v</p>
+			</td>
+			<td nowrap="nowrap" style="width:61px;height:18px;">
+				<p style="text-align: center;">
+					&nbsp;</p>
+			</td>
+			<td nowrap="nowrap" style="width:82px;height:18px;">
+				<p style="text-align: center;">
+					Mayor</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="width:119px;height:18px;">
+				<p style="text-align: center;">
+					Pomacentridae</p>
+			</td>
+			<td nowrap="nowrap" style="width:223px;height:18px;">
+				<p style="text-align: center;">
+					<em>Neoglyphidodon melas</em></p>
+			</td>
+			<td nowrap="nowrap" style="width:61px;height:18px;">
+				<p style="text-align: center;">
+					v</p>
+			</td>
+			<td nowrap="nowrap" style="width:61px;height:18px;">
+				<p style="text-align: center;">
+					v</p>
+			</td>
+			<td nowrap="nowrap" style="width:82px;height:18px;">
+				<p style="text-align: center;">
+					Mayor</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="width:119px;height:18px;">
+				<p style="text-align: center;">
+					Pomacentridae</p>
+			</td>
+			<td nowrap="nowrap" style="width:223px;height:18px;">
+				<p style="text-align: center;">
+					<em>Pomacentrus alexanderae</em></p>
+			</td>
+			<td nowrap="nowrap" style="width:61px;height:18px;">
+				<p style="text-align: center;">
+					v</p>
+			</td>
+			<td nowrap="nowrap" style="width:61px;height:18px;">
+				<p style="text-align: center;">
+					v</p>
+			</td>
+			<td nowrap="nowrap" style="width:82px;height:18px;">
+				<p style="text-align: center;">
+					Mayor</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="width:119px;height:18px;">
+				<p style="text-align: center;">
+					Pomacentridae</p>
+			</td>
+			<td nowrap="nowrap" style="width:223px;height:18px;">
+				<p style="text-align: center;">
+					<em>Pomacentrus burroughi</em></p>
+			</td>
+			<td nowrap="nowrap" style="width:61px;height:18px;">
+				<p style="text-align: center;">
+					v</p>
+			</td>
+			<td nowrap="nowrap" style="width:61px;height:18px;">
+				<p style="text-align: center;">
+					&nbsp;</p>
+			</td>
+			<td nowrap="nowrap" style="width:82px;height:18px;">
+				<p style="text-align: center;">
+					Mayor</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="width:119px;height:18px;">
+				<p style="text-align: center;">
+					Pomacentridae</p>
+			</td>
+			<td nowrap="nowrap" style="width:223px;height:18px;">
+				<p style="text-align: center;">
+					<em>Pomacentrus chrysurus</em></p>
+			</td>
+			<td nowrap="nowrap" style="width:61px;height:18px;">
+				<p style="text-align: center;">
+					v</p>
+			</td>
+			<td nowrap="nowrap" style="width:61px;height:18px;">
+				<p style="text-align: center;">
+					v</p>
+			</td>
+			<td nowrap="nowrap" style="width:82px;height:18px;">
+				<p style="text-align: center;">
+					Mayor</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="width:119px;height:18px;">
+				<p style="text-align: center;">
+					Pomacentridae</p>
+			</td>
+			<td nowrap="nowrap" style="width:223px;height:18px;">
+				<p style="text-align: center;">
+					<em>Pomacentrus moluccensis</em></p>
+			</td>
+			<td nowrap="nowrap" style="width:61px;height:18px;">
+				<p style="text-align: center;">
+					v</p>
+			</td>
+			<td nowrap="nowrap" style="width:61px;height:18px;">
+				<p style="text-align: center;">
+					v</p>
+			</td>
+			<td nowrap="nowrap" style="width:82px;height:18px;">
+				<p style="text-align: center;">
+					Mayor</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="width:119px;height:18px;">
+				<p style="text-align: center;">
+					Scaridae</p>
+			</td>
+			<td nowrap="nowrap" style="width:223px;height:18px;">
+				<p style="text-align: center;">
+					<em>Chlorurus sordidus</em></p>
+			</td>
+			<td nowrap="nowrap" style="width:61px;height:18px;">
+				<p style="text-align: center;">
+					&nbsp;</p>
+			</td>
+			<td nowrap="nowrap" style="width:61px;height:18px;">
+				<p style="text-align: center;">
+					v</p>
+			</td>
+			<td nowrap="nowrap" style="width:82px;height:18px;">
+				<p style="text-align: center;">
+					Target</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="width:119px;height:18px;">
+				<p style="text-align: center;">
+					Scaridae</p>
+			</td>
+			<td nowrap="nowrap" style="width:223px;height:18px;">
+				<p style="text-align: center;">
+					<em>Scarus niger</em></p>
+			</td>
+			<td nowrap="nowrap" style="width:61px;height:18px;">
+				<p style="text-align: center;">
+					&nbsp;</p>
+			</td>
+			<td nowrap="nowrap" style="width:61px;height:18px;">
+				<p style="text-align: center;">
+					v</p>
+			</td>
+			<td nowrap="nowrap" style="width:82px;height:18px;">
+				<p style="text-align: center;">
+					Target</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="width:119px;height:18px;">
+				<p style="text-align: center;">
+					Siganidae</p>
+			</td>
+			<td nowrap="nowrap" style="width:223px;height:18px;">
+				<p style="text-align: center;">
+					<em>Siganus virgatus</em></p>
+			</td>
+			<td nowrap="nowrap" style="width:61px;height:18px;">
+				<p style="text-align: center;">
+					v</p>
+			</td>
+			<td nowrap="nowrap" style="width:61px;height:18px;">
+				<p style="text-align: center;">
+					v</p>
+			</td>
+			<td nowrap="nowrap" style="width:82px;height:18px;">
+				<p style="text-align: center;">
+					Target</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="width:119px;height:18px;">
+				<p style="text-align: center;">
+					Siganidae</p>
+			</td>
+			<td nowrap="nowrap" style="width:223px;height:18px;">
+				<p style="text-align: center;">
+					<em>Siganus vulpinus</em></p>
+			</td>
+			<td nowrap="nowrap" style="width:61px;height:18px;">
+				<p style="text-align: center;">
+					&nbsp;</p>
+			</td>
+			<td nowrap="nowrap" style="width:61px;height:18px;">
+				<p style="text-align: center;">
+					v</p>
+			</td>
+			<td nowrap="nowrap" style="width:82px;height:18px;">
+				<p style="text-align: center;">
+					Target</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="width:119px;height:18px;">
+				<p style="text-align: center;">
+					Zanclidae</p>
+			</td>
+			<td nowrap="nowrap" style="width:223px;height:18px;">
+				<p style="text-align: center;">
+					<em>Zanclus cornotus</em></p>
+			</td>
+			<td nowrap="nowrap" style="width:61px;height:18px;">
+				<p style="text-align: center;">
+					&nbsp;</p>
+			</td>
+			<td nowrap="nowrap" style="width:61px;height:18px;">
+				<p style="text-align: center;">
+					v</p>
+			</td>
+			<td nowrap="nowrap" style="width:82px;height:18px;">
+				<p style="text-align: center;">
+					Mayor</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<p style="text-align: justify;">
+	&nbsp;</p>
+<p style="text-align: justify;">
+	<span style="color:#800080;"><strong>MANGROVE</strong></span></p>
+<p style="text-align: justify; margin-left: 40px;">
+	Hutan mangrove di Pulau Tangnga tumbuh lebat hampir di sekeliling Pulau Tangnga. Pengamatan mangrove di Pulau Tangnga mengambil empat titik stasiun pengamatan yang tersebar di empat sisi pulau, yaitu: bagian utara, barat, selatan, dan timur. Pada titik pengamatan utara dan barat dekat dengan pemukiman penduduk, sedangkan titik pengamatan di bagian selatan dan timur merupakan daerah belantara.</p>
+<p style="text-align: center;">
+	Distribusi jenis mangrove di Pulau Tangnga</p>
+<table align="center" border="1" cellpadding="0" cellspacing="0" height="330" width="432">
+	<tbody>
+		<tr>
+			<td rowspan="2" style="width:180px;">
+				<p style="text-align: center;">
+					Jenis Mangrove</p>
+			</td>
+			<td colspan="4" style="width:325px;">
+				<p style="text-align: center;">
+					Stasiun Pengamatan</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:76px;">
+				<p style="text-align: center;">
+					Utara</p>
+			</td>
+			<td style="width:80px;">
+				<p style="text-align: center;">
+					Barat</p>
+			</td>
+			<td style="width:85px;">
+				<p style="text-align: center;">
+					Selatan</p>
+			</td>
+			<td style="width:85px;">
+				<p style="text-align: center;">
+					Timur</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:180px;">
+				<p style="text-align: center;">
+					<em>Rhizopora apiculata</em></p>
+			</td>
+			<td style="width:76px;">
+				<p style="text-align: center;">
+					*</p>
+			</td>
+			<td style="width:80px;">
+				<p style="text-align: center;">
+					*</p>
+			</td>
+			<td style="width:85px;">
+				<p style="text-align: center;">
+					*</p>
+			</td>
+			<td style="width:85px;">
+				<p style="text-align: center;">
+					*</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:180px;">
+				<p style="text-align: center;">
+					<em>Rhizopora stylosa</em></p>
+			</td>
+			<td style="width:76px;">
+				<p style="text-align: center;">
+					-</p>
+			</td>
+			<td style="width:80px;">
+				<p style="text-align: center;">
+					-</p>
+			</td>
+			<td style="width:85px;">
+				<p style="text-align: center;">
+					*</p>
+			</td>
+			<td style="width:85px;">
+				<p style="text-align: center;">
+					-</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:180px;">
+				<p style="text-align: center;">
+					<em>Rhizopora mucronata</em></p>
+			</td>
+			<td style="width:76px;">
+				<p style="text-align: center;">
+					*</p>
+			</td>
+			<td style="width:80px;">
+				<p style="text-align: center;">
+					*</p>
+			</td>
+			<td style="width:85px;">
+				<p style="text-align: center;">
+					*</p>
+			</td>
+			<td style="width:85px;">
+				<p style="text-align: center;">
+					*</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:180px;">
+				<p style="text-align: center;">
+					<em>Avicennia marina</em></p>
+			</td>
+			<td style="width:76px;">
+				<p style="text-align: center;">
+					*</p>
+			</td>
+			<td style="width:80px;">
+				<p style="text-align: center;">
+					*</p>
+			</td>
+			<td style="width:85px;">
+				<p style="text-align: center;">
+					*</p>
+			</td>
+			<td style="width:85px;">
+				<p style="text-align: center;">
+					-</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:180px;">
+				<p style="text-align: center;">
+					<em>Sonerratia alba</em></p>
+			</td>
+			<td style="width:76px;">
+				<p style="text-align: center;">
+					*</p>
+			</td>
+			<td style="width:80px;">
+				<p style="text-align: center;">
+					-</p>
+			</td>
+			<td style="width:85px;">
+				<p style="text-align: center;">
+					-</p>
+			</td>
+			<td style="width:85px;">
+				<p style="text-align: center;">
+					*</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:180px;">
+				<p style="text-align: center;">
+					<em>Bruguiera gymnorhiza</em></p>
+			</td>
+			<td style="width:76px;">
+				<p style="text-align: center;">
+					-</p>
+			</td>
+			<td style="width:80px;">
+				<p style="text-align: center;">
+					-</p>
+			</td>
+			<td style="width:85px;">
+				<p style="text-align: center;">
+					-</p>
+			</td>
+			<td style="width:85px;">
+				<p style="text-align: center;">
+					*</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<p style="text-align: center;">
+	Ket: (*) = ada, (-) = tidak ada</p>
+<p style="text-align: justify; margin-left: 40px;">
+	Pulau Tangnga memiliki total enam jenis mangrove yang tumbuh di daerah pesisirnya, yaitu: <em>Rhizopora apiculata</em>, <em>Rhizopora stylosa</em>, <em>Rhizopora mucronata</em>, <em>Avicennia marina</em>, <em>Sonerratia alba</em>, dan <em>Bruguiera gymnorhiza</em>. Titik stasiun pengamatan mangrove yang pertama berada di sisi utara Pulau Tangnga dengan substratnya berupa lumpur. Adanya masukan sedimen lumpur di wilayah ini diduga berasal dari <em>run off </em>sungai Binuang yang tepat berhadapan dengan utara Pulau Tangnga.&nbsp; Pada titik pengamatan ini ditemukan empat jenis mangrove, yaitu: <em>Rhizopora apiculata</em>, <em>Rhizopora mucronata</em>, <em>Avicennia marina</em>, dan <em>Sonerratia alba</em>.</p>
+<p style="text-align: justify; margin-left: 40px;">
+	Titik stasiun pengamatan mangrove berikutnya adalah di bagian barat Pulau Tangnga yang memiliki substrat berupa lumpur. Pada titik stasiun pengamatan ini ditemukan tiga jenis mangrove, yaitu: <em>Rhizopora apiculata</em>, <em>Rhizopora mucronata</em>, dan <em>Avicennia marina</em>.</p>
+<p style="text-align: justify; margin-left: 40px;">
+	Titik stasiun pengamatan yang ketiga terletak di bagian selatan Pulau Tangnga dengan substratnya berupa pasir berlumpur. Pada titik stasiun pengamatan ini ditemukan empat jenis mangrove, yaitu: <em>Rhizopora apiculata</em>, <em>Rhizopora mucronata</em>, <em>Rhizopora stylosa</em>, dan <em>Avicennia marina</em>.</p>
+<p style="text-align: justify; margin-left: 40px;">
+	Titik stasiun pengamatan mangrove yang terakhir terletak di bagian timur Pulau Tangnga dengan substrat berupa lumpur. Pada titik pengamatan ini ditemukan empat jenis mangrove, yaitu: <em>Rhizopora apiculata</em>, <em>Rhizopora mucronata</em>, <em>Sonerratia alba</em>, dan <em>Bruguiera gymnorhiza</em>.</p>
+<p style="text-align: justify; margin-left: 40px;">
+	Pada grafik di atas terlihat bahwa mangrove jenis <em>Rhizopora mucronata</em> yang terdapat di bagian selatan Pulau Tangnga memiliki INP yang paling tinggi untuk kategori pohon yaitu sebesar 152,3. Sedangkan, mangrove jenis <em>Rhizopora stylosa </em>yang masih terdapat di bagian selatan Pulau Tangnga menjadi yang terendah dengan INP sebesar 51,9. Jenis mangrove yang memiliki INP tinggi (&gt;101,5) untuk kategori pohon di setiap stasiun pengamatan di Pulau Tangnga hanya meliputi <em>Rhizopora mucronata </em>(barat) dan <em>Rhizopora mucronata </em>(selatan). Sedangkan, sisanya masuk ke dalam kategori INP sedang (50,8-101,5). Dengan demikian, di Pulau Tangnga tidak terdapat jenis mangrove untuk kategori pohon dengan INP rendah (&lt;50,8).&nbsp;</p>
+<p style="margin-left: 40px; text-align: justify;">
+	Mangrove jenis <em>Rhizopora apiculata</em> yang terdapat di bagian timur Pulau Tangnga memiliki INP yang paling tinggi untuk kategori anakan dengan INP sebesar 300,0. Sedangkan, jenis mangrove dengan INP terendah adalah <em>Avicennia marina</em> yang berada di bagian utara Pulau Tangnga. Tingginya nilai INP <em>Rhizopora apiculata</em> yang terdapat di bagian timur Pulau Tangnga, yaitu sebesar 300,0 disebabkan karena pada titik pengamatan tersebut hanya diketemukan satu jenis mangrove saja.</p>
+<p style="text-align: justify; margin-left: 40px;">
+	Jenis mangrove yang memiliki INP tinggi untuk kategori anakan (&gt;200,0) di setiap stasiun, yaitu hanya <em>Rhizopora apiculata </em>yang terdapat di bagian timur Pulau Tangnga. Kategori INP sedang (100,0-200,0) terdiri dari: <em>Rhizopora mucronata</em> (barat) serta <em>Rhizopora mucronata</em> dan&nbsp; <em>Rhizopora apiculata</em> (selatan). Terakhir kategori INP rendah (&lt;100,0) terdiri dari: <em>Rhizopora mucronata</em>, <em>Rhizopora apiculata</em>, <em>Avicennia marina</em>, dan <em>Sonerratia alba </em>(utara) serta <em>apiculata</em> dan <em>Avicennia marina </em>(barat). Berdasarkan hasil pengamatan ini terlihat bahwa untuk mangrove kategori anakan di bagian utara Pulau Tangnga bersifat merata tidak ada satu pun jenis mangrove yang mendominasi, hal ini terlihat dari nilai INP-nya yang semua jenisnya masuk kedalam INP kategori rendah.</p>
+<p style="text-align: justify; margin-left: 40px;">
+	Mangrove jenis <em>Rhizopora mucronata</em> yang berada di bagian barat dan selatan Pulau Tangnga memiliki nilai INP yang paling tinggi yaitu sebesar 200,0 untuk kategori semai. Sedangkan,&nbsp; mangrove jenis <em>Rhizopora mucronata</em> yang terdapat di bagian timur Pulau Tangnga memiliki nilai INP terendah yaitu sebesar 59,1. Nilai INP sebesar 200,0 yang terdapat di bagian barat dan selatan Pulau Tangnga menunjukkan bahwa hanya terdapat satu jenis mangrove yang tumbuh di daerah tersebut. Pada bagian utara Pulau Tangga mangrove jenis <em>Rhizopora mucronata</em> dan <em>Rhizopora apiculata</em> memiliki nilai INP yang sama besar yaitu 100,0. Hal ini menunujukkan tidak terdapat dominasi anatar mangrove jenis yang satu dengan yang lainnya pada daerah tersebut.</p>
+<p style="text-align: justify; margin-left: 40px;">
+	Indeks keragaman mangrove untuk kategori pohon yang paling tinggi terdapat pada bagian utara Pulau Tangnga yaitu sebesar 1,33, sedangkan yang paling rendah indeks keragamannya adalah di bagian timur Pulau Tangnga yaitu sebesar 0,44. Indeks keragaman untuk kategori anakan yang paling tinggi terdapat di bagian utara Pulau Tangnga yaitu sebesar 1,41, sedangkan yang paling rendah terdapat di bagian timur Pulau Tangnga yaitu sebesar 0. Sedangkan, indeks keragaman untuk mangrove kategori semai yang paling tinggi terdapat di bagian utara Pulau Tangnga yaitu sebesar 0,69, sedangkan yang paling rendah terdapat di bagian barat dan timur Pulau Tangnga yaitu sama-sama bernilai nol. Nilai nol untuk indeks keragaman jenis mangrove menunjukkan di daerah tersebut hanya tumbuh satu jenis mangrove saja. Secara umum, nilai indeks keragaman mangrove di Pulau Tangnga untuk semua kategori pada setiap titik pengamatan semuanya bernilai &lt;2. Dengan demikian, keanekaragaman jenis mangrove di Pulau Tangnga dapat dikatakan tergolong rendah atau bersifat seragam.</p>
+<p style="text-align: justify; margin-left: 40px;">
+	Komunitas mangrove di Pulau Tangnga mempunyai peranan penting bagi biota yang hidup berasosiasi dengannya, antara lain sebagai tempat hidup bagi beberapa biota sehingga membentuk suatu sistem ekosistem mangrove. Biota tersebut diantaranya ikan, gastropoda, dan krustasea. Substrat lumpur yang lembut dan kaya nutrien serta mineral menjadikan tempat berlindung serta sumber makanan bagi biota-biota tersebut.&nbsp; Beberapa biota tersebut membuat sarang di substrat atau di sekitar akar mangrove yang kuat.</p>
+<p style="text-align: justify; margin-left: 40px;">
+	Ekosistem mangrove memainkan peranan yang sangat vital bagi keberlangsungan stok ikan yang ada di laut, khususnya yang ada di perairan tersebut selain sebagai <em>barrier </em>alami untuk menahan abrasi air laut. Ekosistem mangrove mempunyai fungsi sebagai tempat mencari makan dan memijah bagi biota laut sehingga tanpa adanya ekosistem mangrove siklus hidup biota laut tersebut akan terganggu dan dapat menimbulkan kepunahan bagi biota laut tersebut.&nbsp;&nbsp;&nbsp;</p>
+<p style="text-align: justify; margin-left: 40px;">
+	Ancaman yang dapat mengganggu keseimbangan ekosistem mangrove di Pulau Tangnga diantaranya adalah pencemaran limbah rumah tangga terutama yang berasal dari daratan melalui <em>run off </em>sungai Binuang maupun yang berasal dari Pulau Tangnga sendiri. Oleh karena itu, masyarakat yang berada Pulau Tangnga perlu dihimbau untuk tidak membuang sampah ke laut demi terciptanya keseimbangan ekosistem mangrove di Pulau Tangnga.</p>
+<p style="text-align: justify;">
+	<span style="color:#ff0000;"><strong>PADANG LAMUN</strong></span></p>
+<p style="text-align: justify; margin-left: 40px;">
+	Komunitas lamun di Pulau Tangnga tumbuh di sekeliling pesisir pantai dengan substrat dasar perairannya yang didominasi oleh lumpur. Keberadaaan substrat lumpur ini disebakan oleh dekatnya Pulau Tangnga dengan sungai Binuang yang terletak di sisi utara Pulau Tangnga. Pengamatan lamun dilakukan di empat titik stasiun pengamatan yang tersebar di sisi utara, barat, selatan, dan timur Pulau Tangnga. Berdasarkan hasil pengamatan, Pulau Tangnga hanya memiliki tiga dari tiga belas jenis lamun yang ada di Perairan Indonesia.</p>
+<p style="text-align: center;">
+	Perbandingan Jenis Lamun di Indonesia dan Pulau Tangnga</p>
+<table align="center" border="1" cellpadding="0" cellspacing="0" height="576" width="384">
+	<tbody>
+		<tr>
+			<td style="width:215px;">
+				<p style="text-align: center;">
+					Jenis Lamun</p>
+			</td>
+			<td style="width:147px;">
+				<p style="text-align: center;">
+					Perairan Indonesia</p>
+			</td>
+			<td style="width:136px;">
+				<p style="text-align: center;">
+					Pulau Tangnga</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:215px;">
+				<p style="text-align: center;">
+					<em>Cymodocea rotundata</em></p>
+			</td>
+			<td style="width:147px;">
+				<p style="text-align: center;">
+					*</p>
+			</td>
+			<td style="width:136px;">
+				<p style="text-align: center;">
+					*</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:215px;">
+				<p style="text-align: center;">
+					<em>Cymodocea serrulata</em></p>
+			</td>
+			<td style="width:147px;">
+				<p style="text-align: center;">
+					*</p>
+			</td>
+			<td style="width:136px;">
+				<p style="text-align: center;">
+					*</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:215px;">
+				<p style="text-align: center;">
+					<em>Enhalus acoroides</em></p>
+			</td>
+			<td style="width:147px;">
+				<p style="text-align: center;">
+					*</p>
+			</td>
+			<td style="width:136px;">
+				<p style="text-align: center;">
+					*</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:215px;">
+				<p style="text-align: center;">
+					<em>Halodule pinifolia</em></p>
+			</td>
+			<td style="width:147px;">
+				<p style="text-align: center;">
+					*</p>
+			</td>
+			<td style="width:136px;">
+				<p style="text-align: center;">
+					-</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:215px;">
+				<p style="text-align: center;">
+					<em>Halodule uninervis</em></p>
+			</td>
+			<td style="width:147px;">
+				<p style="text-align: center;">
+					*</p>
+			</td>
+			<td style="width:136px;">
+				<p style="text-align: center;">
+					-</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:215px;">
+				<p style="text-align: center;">
+					<em>Halophila decipiens</em></p>
+			</td>
+			<td style="width:147px;">
+				<p style="text-align: center;">
+					*</p>
+			</td>
+			<td style="width:136px;">
+				<p style="text-align: center;">
+					-</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:215px;">
+				<p style="text-align: center;">
+					<em>Halophila minor</em></p>
+			</td>
+			<td style="width:147px;">
+				<p style="text-align: center;">
+					*</p>
+			</td>
+			<td style="width:136px;">
+				<p style="text-align: center;">
+					-</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:215px;">
+				<p style="text-align: center;">
+					<em>Halophila ovalis</em></p>
+			</td>
+			<td style="width:147px;">
+				<p style="text-align: center;">
+					*</p>
+			</td>
+			<td style="width:136px;">
+				<p style="text-align: center;">
+					-</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:215px;">
+				<p style="text-align: center;">
+					<em>Halophila spinulosa</em></p>
+			</td>
+			<td style="width:147px;">
+				<p style="text-align: center;">
+					*</p>
+			</td>
+			<td style="width:136px;">
+				<p style="text-align: center;">
+					-</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:215px;">
+				<p style="text-align: center;">
+					<em>Halophila sulawesii</em></p>
+			</td>
+			<td style="width:147px;">
+				<p style="text-align: center;">
+					*</p>
+			</td>
+			<td style="width:136px;">
+				<p style="text-align: center;">
+					-</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:215px;">
+				<p style="text-align: center;">
+					<em>Syringodium isoetifolium</em></p>
+			</td>
+			<td style="width:147px;">
+				<p style="text-align: center;">
+					*</p>
+			</td>
+			<td style="width:136px;">
+				<p style="text-align: center;">
+					-</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:215px;">
+				<p style="text-align: center;">
+					<em>Thalassia hemprichii</em></p>
+			</td>
+			<td style="width:147px;">
+				<p style="text-align: center;">
+					*</p>
+			</td>
+			<td style="width:136px;">
+				<p style="text-align: center;">
+					-</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:215px;">
+				<p style="text-align: center;">
+					<em>Thalassodendron ciliatum</em></p>
+			</td>
+			<td style="width:147px;">
+				<p style="text-align: center;">
+					*</p>
+			</td>
+			<td style="width:136px;">
+				<p style="text-align: center;">
+					-</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<p style="text-align: center;">
+	Ket: (*) = ada, (-) = tidak ada, Sumber : Kuriandewa et al. (2003) dan Kuo (2007)</p>
+<p style="text-align: justify;">
+	&nbsp;</p>
+<p style="text-align: justify; margin-left: 40px;">
+	Pulau Tangnga hanya memiliki tiga jenis lamun yang tumbuh di perairan pesisirnya yaitu <em>Cymodocea rotundata</em>, <em>Cymodocea serrulata</em>, dan <em>Enhalus acoroides</em>.</p>
+<p style="text-align: center;">
+	Distribusi jenis lamun di Pulau Tangnga</p>
+<table align="center" border="1" cellpadding="0" cellspacing="0" height="207" width="413">
+	<tbody>
+		<tr>
+			<td rowspan="2" style="width:180px;">
+				<p style="text-align: center;">
+					Jenis Lamun</p>
+			</td>
+			<td colspan="4" style="width:312px;">
+				<p style="text-align: center;">
+					Stasiun Pengamatan</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:76px;">
+				<p style="text-align: center;">
+					Utara</p>
+			</td>
+			<td style="width:76px;">
+				<p style="text-align: center;">
+					Barat</p>
+			</td>
+			<td style="width:76px;">
+				<p style="text-align: center;">
+					Selatan</p>
+			</td>
+			<td style="width:85px;">
+				<p style="text-align: center;">
+					Timur</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:180px;">
+				<p style="text-align: center;">
+					<em>Cymodocea rotundata</em></p>
+			</td>
+			<td style="width:76px;">
+				<p style="text-align: center;">
+					-</p>
+			</td>
+			<td style="width:76px;">
+				<p style="text-align: center;">
+					*</p>
+			</td>
+			<td style="width:76px;">
+				<p style="text-align: center;">
+					*</p>
+			</td>
+			<td style="width:85px;">
+				<p style="text-align: center;">
+					*</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:180px;">
+				<p style="text-align: center;">
+					<em>Cymodocea serrulata</em></p>
+			</td>
+			<td style="width:76px;">
+				<p style="text-align: center;">
+					-</p>
+			</td>
+			<td style="width:76px;">
+				<p style="text-align: center;">
+					*</p>
+			</td>
+			<td style="width:76px;">
+				<p style="text-align: center;">
+					*</p>
+			</td>
+			<td style="width:85px;">
+				<p style="text-align: center;">
+					-</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:180px;">
+				<p style="text-align: center;">
+					<em>Enhalus acoroides</em></p>
+			</td>
+			<td style="width:76px;">
+				<p style="text-align: center;">
+					*</p>
+			</td>
+			<td style="width:76px;">
+				<p style="text-align: center;">
+					*</p>
+			</td>
+			<td style="width:76px;">
+				<p style="text-align: center;">
+					*</p>
+			</td>
+			<td style="width:85px;">
+				<p style="text-align: center;">
+					*</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<p style="text-align: center;">
+	Ket: (*) = ada, (-) = tidak ada</p>
+<p style="text-align: justify; margin-left: 40px;">
+	Titik stasiun pengamatan lamun yang pertama berada di sisi utara Pulau Tangnga dengan substrat dasar perairan berupa lumpur. Pada titik pengamatan ini hanya ditemukan satu jenis lamun saja yaitu <em>Enhalus acoroides</em>.</p>
+<p style="text-align: justify; margin-left: 40px;">
+	Titik pengamatan lamun berikutnya terdapat di bagian barat Pulau Tangnga dengan substrat dasar perairan berupa lumpur. Pada titik pengamatan ini ditemukan tiga jenis lamun, yaitu: <em>Cymodocea rotundata</em>, <em>Cymodocea serrulata</em>&cedil; dan <em>Enhalus acoroides</em>.</p>
+<p style="text-align: justify; margin-left: 40px;">
+	Titik stasiun pengamatan lamun berikutnya terletak di bagian selatan Pulau Tangnga dengan substrat dasar periaran berupa lumpur. Pada titik pengamatan ini ditemukan tiga jenis lamun, yaitu: <em>Cymodocea rotundata</em>, <em>Cymodocea serrulata</em>&cedil; dan <em>Enhalus acoroides</em>.</p>
+<p style="text-align: justify; margin-left: 40px;">
+	Titik pengamatan lamun yang terakhir terletak di bagian timur Pulau Tangnga dengan substrat dasar perairannya berupa pasir berlumpur. Pada titik pengamatan di timur Pulau Tangnga ini ditemukan dua jenis lamun, yaitu <em>Cymodocea rotundata</em>, dan <em>Enhalus acoroides </em>saja.</p>
+<p style="text-align: justify; margin-left: 40px;">
+	Kerapatan jenis lamun yang paling tinggi adalah lamun jenis <em>Cymodocea rotundata</em> yang berada di bagian barat Pulau Tangnga sebesar 160 individu/m&sup2;, sedangkan kerapatan jenis lamun yang paling rendah adalah lamun jenis <em>Enhalus acoroides </em>yang berada di bagian selatan Pulau Tangnga sebesar 3 individu/m&sup2;.</p>
+<p style="text-align: justify; margin-left: 40px;">
+	Penutupan jenis lamun tertinggi berada di sisi utara Pulau Tangnga, yaitu lamun jenis <em>Enhalus acoroides </em>dengan penutupan sebesar 75%. Tingginya penutupan lamun di daerah ini walaupun kerapatannya bukan yang tertinggi disebabkan dari ukuran lamun jenis <em>Enhalus acoroides </em>yang tumbuh berukuran besar dengan panjang daun mencapai satu meter.&nbsp; Sedangkan, penutupan jenis lamun yang paling rendah berada di sisi selatan Pulau Tangnga.&nbsp; Nilai penutupan lamun terendah tersebut masih dimiliki oleh lamun jenis <em>Enhalus acoroides </em>dengan nilai penutupan sebesar 5%. Hal ini sesuai dengan nilai kerapatannya yang juga paling rendah di Pulau Tangnga yaitu hanya sebesar 3 individu/m&sup2;.</p>
+<p style="text-align: justify; margin-left: 40px;">
+	Ekosistem lamun mempunyai peran yang sangat penting baik dari sisi ekologi maupun ekonomi. Dari sisi ekologi adanya ekosisitem lamun menjadi tempat hidup bagi biota laut lainnya. Ekosistem lamun memberikan perlindungan, sekaligus sebagi sumber oksigen dan tempat mencari makan bagi biota laut tersebut. Ekosistem lamun juga berfungsi sebagai <em>barier </em>alami dari serangan abrasi sehingga kerentanan pantai untuk terabrasi menjadi berkurang. Ekosistem lamun juga memberikan manfaat dari segi ekonomi yaitu dengan hidupnya biota asosiasi lamun yang mempunyai nilai ekonomi penting seperti ikan, kepiting, gastropoda, dan moluska.</p>
+<p style="text-align: justify; margin-left: 40px;">
+	Ancaman yang dapat mengganggu keseimbangan ekosistem lamun di Pulau Tangnga diantaranya adalah pencemaran limbah rumah tangga baik yang berasal dari Pulau Tangnga maupun yang berasal dari daratan melalui <em>run off </em>sungai Binuang. Oleh karena itu, masyarakat yang berada di Pulau Tangnga maupun yang berada di daratan perlu dihimbau untuk tidak membuang sampah ke laut demi terciptanya keseimbangan ekosistem lamun di Pulau Tangnga.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="snh">Sumberdaya Non Hayati</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<h2><a id="aps">Aktivitas Pengelolaan Sumberdaya</a></h2>
+<p><div class="readmore"><p>
+	<span style="color:#800080;"><strong>Perikanan</strong></span></p>
+<p style="text-align: justify; margin-left: 40px;">
+	Kegiatan pengelolaan wilayah perairan di Pulau Tangnga yang ada hingga saat ini adalah budidaya tambak di bagian selatan dan kegiatan budidaya Keramba Jaring Apung (KJA) di bagian utara Pulau, jenis-jenis ikan yang di budidayakan adalah udang putih, bandeng dan Kerapu.</p>
+<p style="margin-left: 40px; text-align: justify;">
+	Perikanan tangkap merupakan mata pencaharian yang dominan bagi penduduk pulau. Alat tangkap yang digunakan berupa jaring, pancing dan bubu yang masih bersifat tradisional dengan daerah penangkapan perairan disekitar Pulau Tangnga, Pulau Karemasang dan Pulau Pasir Putih. Hasil tangkapan dijual dalam pulau sendiri atau kepada pengepul yang sudah menunggu disekitar pulau. Jenis hasil tangkapan ikan di Pulau Tangnga diantaranya yaitu cumi, kakap, baronang, dan kembung.</p>
+<p>
+	<span style="color:#800080;"><strong>Perkebunan</strong></span></p>
+<p style="margin-left: 40px; text-align: justify;">
+	Kegiatan perkebunan di Pulau Tangnga meliputi tanaman ubi kayu, kelapa, pisang, Jambu air, dan sukun. Hasil dari tanaman-tanaman tersebut hingga saat ini masih untuk konsumsi dalam pulau saja karena jumlah produksinya yang tidak banyak.</p>
+<p>
+	<span style="color:#800080;"><strong>Peternakan</strong></span></p>
+<p style="text-align: justify; margin-left: 40px;">
+	Kegiatan peternakan di Pulau Tangnga meliputi ayam dan bebek. Usaha ternak ini hanya sampingan saja yang biasanya dilakukan oleh ibu-ibu guna menambah pendapatan bukan merupakan usaha pokok. Hasil dari ternak tersebut dijual untuk memenuhi kebutuhan dalam pulau saja.</p>
+<p>
+	<span style="color:#800080;"><strong>Pariwisata</strong></span></p>
+<p style="text-align: justify; margin-left: 40px;">
+	Kegiatan pariwisata yang ada di Pulai Tangnga yaitu wisata ziarah ke makam keramat Syeh Abdulrahim Kamaluddin yang wafat sekitar tahun 1917, beliau dikenal sebagai penyebar agama islam di mandar, mamuju dan polewali. Makam keramat ini di merupakan cagar budaya dan dilindungi oleh pemerintah Dinas Pariwisata dan Budaya Propinsi Sulawesi Selatan. Setiap akhir minggu banyak orang yang datang untuk berziarah. Peziarah yang datang ke makam tersebut biasanya datang untuk berdoa dengan membawa sesaji berupa beras ketan, beras, pisang, kelapa, dan telur yang ditaruh diatas nampan.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="ling">Lingkungan</a></h2>
+<p><div class="readmore"><p style="text-align: justify; margin-left: 40px;">
+	Hasil analisis kualitas air&nbsp; Pulau Tangnga masih dalam kondisi <strong>baik</strong> berdasar pada baku mutu KepMen-LH 51 Tahun 2004 untuk Biota Laut. Meskipun terdapat beberapa parameter yang melebihi baku mutu, yaitu nitrat dan fosfat. Namun nilainya tidak jauh berbeda dengan baku mutu.</p>
+<p style="text-align: center;">
+	Hasil analisis kualitas air di Pulau Tangnga</p>
+<table align="center" border="1" cellpadding="0" cellspacing="0" height="441" width="376">
+	<tbody>
+		<tr>
+			<td nowrap="nowrap" style="width:7.66%;height:20px;">
+				<p style="text-align: center;">
+					<strong>No.</strong></p>
+			</td>
+			<td nowrap="nowrap" style="width:39.32%;height:20px;">
+				<p style="text-align: center;">
+					<strong>Parameter</strong></p>
+			</td>
+			<td nowrap="nowrap" style="width:18.46%;height:20px;">
+				<p style="text-align: justify;">
+					<strong>Satuan</strong></p>
+			</td>
+			<td nowrap="nowrap" style="width:19.54%;height:20px;">
+				<p style="text-align: justify;">
+					<strong>Nilai</strong></p>
+			</td>
+			<td nowrap="nowrap" style="width:15.0%;height:20px;">
+				<p style="text-align: justify;">
+					<strong>BM*</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="width:7.66%;height:20px;">
+				<p style="text-align: center;">
+					1</p>
+			</td>
+			<td nowrap="nowrap" style="width:39.32%;height:20px;">
+				<p style="text-align: center;">
+					Suhu</p>
+			</td>
+			<td nowrap="nowrap" style="width:18.46%;height:20px;">
+				<p style="text-align: justify;">
+					<sup>0</sup>C</p>
+			</td>
+			<td nowrap="nowrap" style="width:19.54%;height:20px;">
+				<p style="text-align: justify;">
+					30,3 - 32,89</p>
+			</td>
+			<td nowrap="nowrap" style="width:15.0%;height:20px;">
+				<p style="text-align: justify;">
+					-</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="width:7.66%;height:20px;">
+				<p style="text-align: center;">
+					2</p>
+			</td>
+			<td nowrap="nowrap" style="width:39.32%;height:20px;">
+				<p style="text-align: center;">
+					DO</p>
+			</td>
+			<td nowrap="nowrap" style="width:18.46%;height:20px;">
+				<p style="text-align: justify;">
+					&nbsp;mg/L</p>
+			</td>
+			<td nowrap="nowrap" style="width:19.54%;height:20px;">
+				<p style="text-align: justify;">
+					6,38 - 8,4</p>
+			</td>
+			<td nowrap="nowrap" style="width:15.0%;height:20px;">
+				<p style="text-align: justify;">
+					-</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="width:7.66%;height:20px;">
+				<p style="text-align: center;">
+					3</p>
+			</td>
+			<td nowrap="nowrap" style="width:39.32%;height:20px;">
+				<p style="text-align: center;">
+					pH</p>
+			</td>
+			<td nowrap="nowrap" style="width: 18.46%; height: 20px; text-align: justify;">
+				<p>
+					&nbsp;</p>
+			</td>
+			<td nowrap="nowrap" style="width:19.54%;height:20px;">
+				<p style="text-align: justify;">
+					6,98 - 7,35</p>
+			</td>
+			<td nowrap="nowrap" style="width:15.0%;height:20px;">
+				<p style="text-align: justify;">
+					-</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="width:7.66%;height:20px;">
+				<p style="text-align: center;">
+					4</p>
+			</td>
+			<td nowrap="nowrap" style="width:39.32%;height:20px;">
+				<p style="text-align: center;">
+					Salinitas</p>
+			</td>
+			<td nowrap="nowrap" style="width:18.46%;height:20px;">
+				<p style="text-align: justify;">
+					ppt</p>
+			</td>
+			<td nowrap="nowrap" style="width:19.54%;height:20px;">
+				<p style="text-align: justify;">
+					30,3 - 32,89</p>
+			</td>
+			<td nowrap="nowrap" style="width:15.0%;height:20px;">
+				<p style="text-align: justify;">
+					-</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="width:7.66%;height:20px;">
+				<p style="text-align: center;">
+					5</p>
+			</td>
+			<td nowrap="nowrap" style="width:39.32%;height:20px;">
+				<p style="text-align: center;">
+					Amonia (NH<sub>3</sub>-N)</p>
+			</td>
+			<td nowrap="nowrap" style="width:18.46%;height:20px;">
+				<p style="text-align: justify;">
+					&nbsp;mg/L</p>
+			</td>
+			<td nowrap="nowrap" style="width:19.54%;height:20px;">
+				<p style="text-align: justify;">
+					0,062</p>
+			</td>
+			<td nowrap="nowrap" style="width:15.0%;height:20px;">
+				<p style="text-align: justify;">
+					0,3</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="width:7.66%;height:22px;">
+				<p style="text-align: center;">
+					6</p>
+			</td>
+			<td nowrap="nowrap" style="width:39.32%;height:22px;">
+				<p style="text-align: center;">
+					Nitrat (NO<sub>3</sub>-N)</p>
+			</td>
+			<td nowrap="nowrap" style="width:18.46%;height:22px;">
+				<p style="text-align: justify;">
+					&nbsp;mg/L</p>
+			</td>
+			<td nowrap="nowrap" style="width:19.54%;height:22px;">
+				<p style="text-align: justify;">
+					0,065</p>
+			</td>
+			<td nowrap="nowrap" style="width:15.0%;height:22px;">
+				<p style="text-align: justify;">
+					0,008</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="width:7.66%;height:22px;">
+				<p style="text-align: center;">
+					7</p>
+			</td>
+			<td nowrap="nowrap" style="width:39.32%;height:22px;">
+				<p style="text-align: center;">
+					Fosfat (PO<sub>4</sub>-P)</p>
+			</td>
+			<td nowrap="nowrap" style="width:18.46%;height:22px;">
+				<p style="text-align: justify;">
+					&nbsp;mg/L</p>
+			</td>
+			<td nowrap="nowrap" style="width:19.54%;height:22px;">
+				<p style="text-align: justify;">
+					0,030</p>
+			</td>
+			<td nowrap="nowrap" style="width:15.0%;height:22px;">
+				<p style="text-align: justify;">
+					0,015</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="width:7.66%;height:22px;">
+				<p style="text-align: center;">
+					8</p>
+			</td>
+			<td nowrap="nowrap" style="width:39.32%;height:22px;">
+				<p style="text-align: center;">
+					Silikat (SiO<sub>2</sub>)</p>
+			</td>
+			<td nowrap="nowrap" style="width:18.46%;height:22px;">
+				<p style="text-align: justify;">
+					&nbsp;mg/L</p>
+			</td>
+			<td nowrap="nowrap" style="width:19.54%;height:22px;">
+				<p style="text-align: justify;">
+					0,041</p>
+			</td>
+			<td nowrap="nowrap" style="width:15.0%;height:22px;">
+				<p style="text-align: justify;">
+					-</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="width:7.66%;height:22px;">
+				<p style="text-align: center;">
+					*)</p>
+			</td>
+			<td colspan="4" nowrap="nowrap" style="width:92.34%;height:22px;">
+				<p style="text-align: center;">
+					: Baku Mutu Berdasarkan Kepmen-LH 51 Tahun 2004 (untuk Biota Laut )</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<p style="text-align: justify;">
+	&nbsp;</p>
+<p style="text-align: justify; margin-left: 40px;">
+	Analisis kualitas air yang dilakukan pada parameter nutrien menunjukkan bahwa kadar amonia di Pulau Tangga terdeteksi sangat rendah. Kandungan nitrat sebesar 0,065 mg/l ini berada diatas batas baku mutu yakni 0,008 yang artinya perairan cukup subur. Kandungan fosfat sebesar 0,030 mg/l dengan batasa baku mutu 0,015 tidak terlalu jauh dari ambang baku mutu, sumber fosfat seperti batuan kapur karang tidak begitu melimpah artinya perairan mayoritas lumpur dan pasir berlumpur di bagian pesisir pulau Tangnga. Kandungan silikat 0,14 mg/l merupakan masih dalam kategori baik bagi perkembangan biota. Hal ini menunjukkan bahwa Pulau Tangga masih tergolong perairan alami. Penduduk di Pulau Tangga juga tidak terlalu padat, sehingga sumbangsih limbah organik ke perairan sedikit.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="sp">Sarana dan Prasarana</a></h2>
+<p><div class="readmore"><p style="text-align: justify;">
+	<strong>Sarana Perumahan/ tempat tinggal</strong></p>
+<p style="text-align: justify; margin-left: 40px;">
+	Pemukiman penduduk&nbsp; menyebar di pesisir pulau Tangnga dengan jumlah rumah yang terdapat sekitar&nbsp; 70 unit,&nbsp; bentuk rumah&nbsp; didominasi oleh&nbsp; rumah panggung, dan&nbsp; sebagian kecil berbentuk permanen.</p>
+<p style="text-align: justify;">
+	<strong>Sarana Penerangan</strong></p>
+<p style="text-align: justify; margin-left: 40px;">
+	Sarana penerangan yang ada di Pulau Tangnga menggunakan PLTS (pembangkit listrik tenaga surya) dan Genset dengan bahan bakar bensin. Pengadaan PLTS yang berasal dari dana DAK dan DAU sudah dilakukan sejak dari tahun 2009 hingga tahun 2012. Ditahun 2012 dianggarkan PLTS untuk 20 unit rumah dengan anggaran sebesar Rp. 220 juta <strong>(<em>sumber Dinas Kelautan dan Perikanan Kab. Polewali mandar</em>)</strong>, sehingga sampai akhir 2012 sudah semua rumah memiliki Pembangkit Listrik Tenaga Surya. Listrik Tenaga surya mampu menyala selama lebih kurang 3 &ndash; 4 jam yaitu dari jam 6 sampai jam 10 malam, sedangkan genset biasanya dinyalakan sesuai dengan kemampuan ekonomi penduduk, dimana pada saat ekonomi membaik genset bisa menyala dari sore sampai pagi hari, tapi pada saat musim paceklik masyarakat hanya menyalakan genset selama 2 jam saja.</p>
+<p style="text-align: justify;">
+	<strong>Sarana Transportasi</strong></p>
+<p style="text-align: justify; margin-left: 40px;">
+	Sarana transportasi yang ada di Pulau Tangnga yaitu transportasi laut berupa kapal kayu, yang dimiliki hampir seluruh kepala keluarga yang digunakan oleh penduduk pulau untuk&nbsp; transportasi disekitar pulau dan menuju kota Polewali Mandar. Selain itu juga ada kapal dari bantuan pemerintah yang difungsikan untuk transportasi anak sekolah dari Pulau ke Kota Polewali mandar atau sebaliknya, dengan biaya operasional dibebankan dari dana BOS (Bantuan Operasional Sekolah). Sedangkan sarana jalan yang ada di Pulau Tangnga yaitu jalan setapak dengan kondisi masih jalan tanah dan direncanakan pada tahun 2013&nbsp; dengan anggaran DAK akan dibangun jalan setapak dengan lebar 1 meter dan bahan cor semen.</p>
+<p style="text-align: justify; margin-left: 40px;">
+	Untuk memperlancar&nbsp; perekonomian, pulau ini telah dilengkapi dengan Dermaga atau jetty sebagai sarana tambatan kapal sehingga mempermudah masyarakat dalam melakukan aktifitas. Pulau ini memiliki&nbsp; dermaga, yang berasal dari bahan kayu dengan kondisi cukup baik .</p>
+<p style="text-align: justify;">
+	<span style="color:#800080;"><strong>Sarana Air Bersih</strong></span></p>
+<p style="text-align: justify; margin-left: 40px;">
+	Sarana air bersih yang ada di Pulau Tangnga bisa didapatkan dari sumur dengan kedalaman 2 m. Air tersebut oleh penduduk hanya digunakan untuk keperluan MCK saja dikarenakan airnya yang agak berasa payau. Sedangkan untuk air minum penduduk&nbsp; memanfaatkan beberapa sumur yang airnya&nbsp; rasanya tidak asin walaupun berwarna putih, selain itu dipulau ini juga ada air air hasil penyulingan atau Desalinasi yang merupakan bantuan dari Dirjen KP3K pada tahun 2011 yang pengelolaannya diserahkan kepada penduduk Pulau Tangnga.</p>
+<p style="text-align: justify;">
+	<span style="color:#800080;"><strong>Sarana Kesehatan</strong></span></p>
+<p style="text-align: justify; margin-left: 40px;">
+	Sarana Kesehatan yang ada di Pulau Tangnga yaitu Puskesman Pembantu dengan petugas 1 orang bidan, dengan peralatan yang masih terbatas. Kendala yang dihadapi oleh petugas kesehatan di pulau ini yaitu terbatasnya arus listrik menyebabkan beberapa peralatan medis tidak bisa dipergunakan seperti incubator.</p>
+<p style="text-align: justify;">
+	<span style="color:#800080;"><strong>Sarana Pendidikan</strong></span></p>
+<p style="text-align: justify; margin-left: 40px;">
+	Sarana pendidikan yang ada di Pulau&nbsp; Tangnga yaitu 1 buah bangunan PAUD dan&nbsp; 1 buah Madrasah Ibtidaiyah Swasta Darudda&rsquo;wah Wal Irsyad dengan tenaga pendidik yang masih terbatas. Untuk pendidikan anak usia dini tenaga pendidik berjumlah 2 orang yang berasal dari penduduk pulau sendiri, dan untuk Madrasah Ibtidaiyah terdiri dari 8 orang, dengan status 2 orang PNS dan 6 orang lagi Honorer yang berasal dari luar pulau Tangnga.&nbsp;</p>
+<p style="text-align: justify;">
+	<span style="color:#800080;"><strong>Sarana ibadah / Agama</strong></span></p>
+<p style="text-align: justify; margin-left: 40px;">
+	Untuk sarana ibadah, pulau Tangnga terdapat 1 (satu) buah mesjid Ash-Shalah dengan ukuran cukup memadai yang terletak di tengah pulau. Mesjid ini telah dilengkapi dengan sarana sound system dan sarana penerangan menggunakan genset dengan bahan bakar bensin. Penduduk di pulau ini, 100% menganut agama islam</p>
+<p style="text-align: justify;">
+	<span style="color:#800080;"><strong>Sarana Sanitasi Lingkungan dan MCK</strong></span></p>
+<p style="text-align: justify; margin-left: 40px;">
+	Sarana sanitasi lingkungan di Pulau Tangnga belum cukup memadai dimana pembuangan air limbah rumah tangga dibuang langsung dipekarangan rumah, meskipun ada saluran drainase, kondisinya tidak memadai, sehingga air limbah rumah tangga banyak menggenang disekitar rumah. Untuk pembuangan sampah, penduduk Pulau Tangnga&nbsp; membuang sampah langsung kelaut karena belum tersedianya Tempat Pembuangan Sementara atau Akhir (TPS/TPA). Untuk sarana MCK tidak setiap rumah di pulau Tangnga memiliki fasilitas kamar mandi dan WC. Untuk mandi dan cuci mereka memanfaatkan sumur yang ada dipekarangan rumah dan satu sumur biasanya dimanfaatkan oleh beberapa kepala keluarga (KK) sedangkan untuk buang air besar penduduk mempunyai kebiasaan untuk buang air besar ke laut. Di Pulau Tangnga&nbsp; terdapat 1 unit WC umum yang yang dibangun oleh swadaya masyarakat dan mahasiswa KKN pada tahun 2011, dengan kondisi masih terawat namun tidak dimanfaatkan oleh masyarakat karena kebiasaan masyarakat yang buang air besar dilaut.</p>
+<p style="text-align: justify;">
+	<span style="color:#800080;"><strong>Sarana informasi, komunikasi dan Toko</strong></span></p>
+<p style="text-align: justify; margin-left: 40px;">
+	Sarana informasi yang digunakan masyakarat adalah dengan menggunakan TV kabel melalui parabola dan masyarakat dapat menggunakan televisi siang hari dengan genset dan malam dengan LTS. Selain itu, terdapat juga warung kelontong sebanyak 9 unit yang menyediakan berbagai kebutuhan sandang dan pangan bagi masyarakat pulau.&nbsp; Sedangkan untuk komunikasi dapat menggunakan telepon selular.</p>
+<p style="text-align: justify;">
+	<span style="color:#800080;"><strong>Sarana Umum</strong></span></p>
+<p style="text-align: justify; margin-left: 40px;">
+	Sarana umum yang terdapat di Pulau Tangnga adalah&nbsp; tempat pemakaman untuk warga di Pulau Tangnga.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="pi">Peluang Investasi</a></h2>
+<p><div class="readmore"><p style="text-align: justify; margin-left: 40px;">
+	Kegiatan investasi yang saat ini sudah berjalan di Pulau Tangnga adalah budidaya KJA untuk ikan kerapu dan budidaya rumput laut, meskipun saat ini jumlahnya masih sedikit.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="pap">Potensi dan Arahan Pengembangan</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<h2><a id="kp">Kendala Pengembangan</a></h2>
+<p><div class="readmore"><p style="text-align: justify;">
+	Kendala yang dapat menghambat kegiatan investasi di Pulau Tangnga, diantaranya adalah :</p>
+<ol>
+	<li style="text-align: justify;">
+		Kualitas Perairan, Kondisi perairan yang tercemar &nbsp;karena adanya sedimentasi disebelah utara menyebabkan budidaya rumput laut hanya bisa dilakukan disebelah selatan.</li>
+	<li style="text-align: justify;">
+		Terbatasnya modal dan pengetahuan penduduk Pulau Tangnga sehingga budidaya KJA yang ada saat ini merupakan milik dari penduduk diluar Pulau Tangnga.</li>
+	<li style="text-align: justify;">
+		Adanya wisata ziarah ke makam Syeh Abdulrahim Kamaluddin tidak ditunjang oleh fasilitas-fasilitas pendukung seperti WC umum, tempat istirahat bagi peziarah ataupun rumah makan/restoran.</li>
+	<li style="text-align: justify;">
+		Lahan pertanian yang sempit tidak bisa diharapkan untuk menanam tumbuh-tumbuhan dengan skala besar untuk dijual ke luar pulau, begitu pula untuk usaha peternakan. Hal ini menjadikan penduduk Pulau Tangnga tidak mempunyai banyak alternatif mata pencaharian yang bisa diandalkan sebagai mata pencaharian utama</li>
+</ol>
+</div></p>
+
+<hr>
+
+<h2><a id="rf">Referensi</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<br />
+	<i> 
+		<p style="font-size:12px;">
+			Karena keterbatasan SDM dalam penginputan dan pengolahan data, kami mohon maaf atas ketidak lengkapan beberapa data pulau yang kami tampilkan, harap dimaklumi.
+			Berikan keritik dan saran pada kolom komentar agar kita dapat bersama menyajikan sebuah data yang cukup sempurna untuk halayak ramai yang berguna
+			demi kesejahterahan, kelestarian dan keindahan pulau-pulau kecil yang dimiliki Indonesia.<br />
+			*Jika sekiranya anda memiliki data yang cukup banyak, silakan mengirimkan file melalui email kami di <b><a>identifikasippk@gmail.com</a></b>
+			
+		</p>
+	</i>
+<br />
+
+<div id="fb_comn" class="fb-comments" data-href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_info/8914" data-width="800" data-numposts="5" data-colorscheme="light"></div>
+
+
+</div>
+</div>
+</div>
+<div id="wrapper">
+
+<div class="footer"><p>
+<!--<marquee onmouseover="this.stop()" onmouseout="this.start()" scrollamount="5" direction="right" width="798" height="14"  behavior="scroll">-->
+<a href="http://www.ppk-kp3k.kkp.go.id/" target="_blank">Direktorat Pendayagunaan Pulau-Pulau Kecil &nbsp; | &nbsp;</a>
+<a href="http://www.kp3k.kkp.go.id/" target="_blank">Ditjen Kelautan, Pesisir dan Pulau-Pulau Kecil &nbsp; | &nbsp;</a>
+<a href="http://www.kkp.go.id/" target="_blank">Kementerian Kelautan dan Perikanan</a>
+<!--</marquee>--> <br />
+Jl. Medan Merdeka Timur No. 16 Gedung Mina Bahari 3 Lantai 10, Jakarta, Indonesia <br />
+Email : identifikasippk@gmail.com <br />
+Telp &amp; Fax: (021) 3522058 <br />
+&copy; Copyright Direktorat Pendayagunaan Pulau-Pulau Kecil 2012&nbsp; <br /></p>
+</div>
+</div>
+</body>
+</html>

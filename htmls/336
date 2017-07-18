@@ -1,0 +1,550 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Pulau LARAT</title>
+
+<meta charset="utf-8"/>
+
+<meta property="fb:app_id" content="559408774147878" />
+
+
+<meta property="og:title" content="Pulau LARAT" />
+<meta property="og:url" content="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_info/336" />
+
+
+    <script type="text/javascript" src="http://ajax.microsoft.com/ajax/jquery/jquery-1.4.4.min.js">
+    </script>
+    
+    <script type="text/javascript" src="http://plugins.learningjquery.com/expander/jquery.expander.js">
+    </script>
+    
+    <script type="text/javascript">
+        $(function () {
+            $('div.readmore').expander({
+                slicePoint:200,
+                expandText: '(Baca selengkapnya)',
+                userCollapseText: '(Sembunyikan selengkapnya)'
+            });
+        });
+    </script>
+        
+	<script src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/galleria/galleria-1.2.8.min.js"></script>
+
+        <SCRIPT TYPE="text/javascript">
+            <!--
+            //Disable right click script
+            //visit http://www.rainbow.arch.scriptmania.com/scripts/
+            var message="Sorry, right-click has been disabled";
+            ///////////////////////////////////
+            function clickIE() {if (document.all) {(message);return false;}}
+            function clickNS(e) {if
+            (document.layers||(document.getElementById&&!document.all)) {
+            if (e.which==2||e.which==3) {(message);return false;}}}
+            if (document.layers)
+            {document.captureEvents(Event.MOUSEDOWN);document.onmousedown=clickNS;}
+            else{document.onmouseup=clickNS;document.oncontextmenu=clickIE;}
+            document.oncontextmenu=new Function("return false")
+            // -->
+            </SCRIPT>
+            
+            <SCRIPT TYPE="text/javascript">
+            <!--
+            //Disable select-text script (IE4+, NS6+)
+            //visit http://www.rainbow.arch.scriptmania.com/scripts/
+            ///////////////////////////////////
+            function disableselect(e){
+            return false
+            }
+            function reEnable(){
+            return true
+            }
+            //if IE4+
+            document.onselectstart=new Function ("return false")
+            //if NS6
+            if (window.sidebar){
+            document.onmousedown=disableselect
+            document.onclick=reEnable
+            }
+            // -->
+            </SCRIPT>  
+              
+<link rel="stylesheet" type="text/css" href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/css/main.css" media="screen"/>
+<style type='text/css'>
+#info_wrap{
+	width:820px;
+	margin:0 auto;
+	text-shadow:0px 1px 1px #09F;
+}
+table{
+	color:#000000;
+}
+h1{
+	color:#000000;
+}
+.tengahin{
+	width: 105px;
+	height: 30px;
+	margin: 0 auto auto auto;
+}
+#box_view{
+	background-image:-webkit-gradient(linear, 0 0%, 0 100%, from(#FFFFFF), to(#E0F0F5));
+	background:#FFF;
+	color:#F60;
+	border: 1px solid #fff;
+	border-radius: 4px 4px 4px 4px;
+	box-shadow: 0 8px 6px -6px black;
+	position:fixed;
+	right:0;
+	top:150px;;
+	width:80px;
+	z-index:10;
+	padding-left:12px;
+	font-size:10px;
+	}
+#box_view li{
+	color:#F60;
+	margin-left:-30px;
+	}
+	#wrapper a b {
+	color: #FFF;
+	font-size:14px;
+}
+.batas{
+	float:left;
+	border-right-style:inset;
+	border-right-width:thin;
+	}
+.text_h_wrap{
+	
+	padding-left:450px;
+	padding-top:39px;
+	text-shadow:0px 1px 1px #09F;
+	}
+#wrapper .footer p{
+	font-size:12px;
+	color: #FFF;
+	text-align:center;
+	text-shadow:0px 1px 1px #09F;
+}
+td,th {
+	font-size: 12px;
+}
+
+marquee a{
+	color:#FFF
+	}
+#wrapper .footer a{
+	color: #FFFFFF;
+}
+</style>
+            
+<script>
+function goBack()
+  {
+  window.history.back()
+  }
+</script>
+<script type="text/javascript">
+function Popup( url, height, width )
+{
+    var windowProperties = "toolbar = 0, scrollbars = 1, location = 0, statusbar = 0, menubar = 0, resizable = 1, width = " + width + ", height = " + height + ", left = 50, top = 50";
+ 
+    return window.open( url, "", windowProperties );
+}
+</script>
+
+
+
+</head>
+<body oncontextmenu='return false;' onkeydown='return false;' onmousedown='return false;'>
+
+<a id="top_view"></a>
+<div id="wrapper">
+<div class="header_wrap">
+<div class="text_h_wrap">
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/home_page'><b>&nbsp;Home&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/menu_info/1'><b>&nbsp;About Us&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_data'><b>&nbsp;Direktori Pulau&nbsp;&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/program_ip'><b>&nbsp;IKU&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/data_ppkt'><b>&nbsp;PPKT&nbsp;</b></a>
+</div>
+<!--<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/maintenance'><b>&nbsp;Login&nbsp;</b></a>-->
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/dir_log_cont'><b>&nbsp;Login&nbsp;</b></a>
+
+</div>
+</div>
+</div>
+
+<div id="fb-root"></div>
+<script>
+  window.fbAsyncInit = function() {
+    // init the FB JS SDK
+    FB.init({
+      appId      : '559408774147878',                        // App ID from the app dashboard
+      status     : true,                                 // Check Facebook Login status
+      xfbml      : true                                  // Look for social plugins on the page
+    });
+
+    // Additional initialization code such as adding Event Listeners goes here
+  };
+
+  // Load the SDK asynchronously
+  (function(){
+     // If we've already installed the SDK, we're done
+     if (document.getElementById('facebook-jssdk')) {return;}
+
+     // Get the first script element, which we'll use to find the parent node
+     var firstScriptElement = document.getElementsByTagName('script')[0];
+
+     // Create a new script element and set its id
+     var facebookJS = document.createElement('script'); 
+     facebookJS.id = 'facebook-jssdk';
+
+     // Set the new script's source to the source of the Facebook JS SDK
+     facebookJS.src = '//connect.facebook.net/en_US/all.js';
+
+     // Insert the Facebook JS SDK into the DOM
+     firstScriptElement.parentNode.insertBefore(facebookJS, firstScriptElement);
+   }());
+</script>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=559408774147878";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="box_view">
+    <a href="#top_view">MENU</a>
+    <h3><p>Lihat Informasi:</p></h3>
+    <ul>
+	<a href="#sf"><li>Slide Foto</li></a>
+    <a href="#gu"><li>Gambaran Umum</li></a>
+    <a href="#ksbk"><li>Kependudukan, Sosial Budaya dan Kelembagaan</li></a>
+    <a href="#eshp"><li>Ekosistem dan Sumberdaya Hayati</li></a>
+    <a href="#snh"><li>Sumberdaya Non Hayati</li></a>
+    <a href="#aps"><li>Aktivitas Pengelolaan Sumberdaya</li></a>
+    <a href="#ling"><li>Lingkungan</li></a>
+    <a href="#sp"><li>Sarana dan Prasarana</li></a>
+    <a href="#pi"><li>Peluang Investasi</li></a>
+    <a href="#pap"><li>Potensi Arahan Pengembangan</li></a>
+    <a href="#kp"><li>Kendala Pengembangan</li></a>
+	<a href="#rf"><li>Referensi</li></a>
+    </ul>
+    <a href="#fb_comn">KOMENTAR</a>
+</div>
+
+<br>
+			<a id="sf"></a></h2>
+			<div id="galleria">
+            <!--<div class='tengahin'><input type="button" value="Kembali Ke List" onclick="goBack()"></div>-->
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/b377-100_0261.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__b377-100_0261.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/99f3-img_9719.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__99f3-img_9719.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/74ef-100_0286.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__74ef-100_0286.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/c6b1-100_0296.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__c6b1-100_0296.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/5f34-100_0295.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__5f34-100_0295.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/edfa-100_0300.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__edfa-100_0300.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/c2a2-100_0314.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__c2a2-100_0314.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/ad06-100_0304.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__ad06-100_0304.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/c7d6-100_0315.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__c7d6-100_0315.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/b589-100_0346.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__b589-100_0346.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/ae8a-100_0369.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__ae8a-100_0369.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/4ddc-img_9495.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__4ddc-img_9495.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/3d62-img_9503.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__3d62-img_9503.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/4c01-img_9522.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__4c01-img_9522.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/77f4-img_9631.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__77f4-img_9631.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/b679-100_0357.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__b679-100_0357.jpg" data-description=""></a></p>
+                            </div>
+            
+            <script>
+            Galleria.loadTheme('http://www.ppk-kp3k.kkp.go.id/direktori-pulau/galleria/themes/classic/galleria.classic.min.js');
+            Galleria.run('#galleria');
+            </script>
+</div>
+
+<div id="text_warp">
+
+
+<p><h1>LARAT</h1></p>
+<table>
+<tr>
+	<td>Nama Lain</td> <td>:</td> <td></td>
+</tr>
+<tr>
+	<td>Propinsi</td> <td>:</td> <td>MALUKU</td>
+</tr>
+<tr>
+	<td>Kabupaten</td> <td>:</td> <td>KABUPATEN MALUKU TENGGARA BARAT</td>
+</tr>
+<tr>
+	<td>Kecamatan</td> <td>:</td> <td>TANIMBAR UTARA</td>
+</tr>
+<tr>
+	<td>Koordinat</td> <td>:</td> <td><a href="http://www.ppk-kp3k.kkp.go.id/giskkp/index.html?extent=14647819.7338 -811066.3656,14708969.3564 -787944.1645"target="_blank">	7° 8' 16,000" LS - 131° 51' 3,000" BT</a></td>
+</tr>
+</table>
+<hr>
+
+<h2><a id="gu">Gambaran Umum</a></h2>
+<p><div class="readmore"><p>
+	<strong>ADMINISTRATIF</strong></p>
+<p>
+	Pulau Larat merupakan salah satu pulau terluar yang terdapat di Kecamatan Tanimbar Utara Kabupaten Maluku Tenggara Barat dab berisikan tujuh desa: Ridol, Ritabel, Watidal, Kelaan, Lamdesar Barat dan Lamdesar Timur. Setiap desa memiliki struktur pemerintahan sendiri mulai dari kepala desa, badan perwakilan desa, kepala-kepala urusan hingga RT dan RW.</p>
+<p>
+	Tujuh desa di pulai ini terletak di pesisir pantai. Ridol dan Ritabel merupakan dua desa dengan luas wilayah terbesar. Letak dua desa itu berdekatan sehingga membentuk pusat kota Larat sebagai Ibukota kecamatan Tanimbar Utara. Dari tujuh desa yang ada, hanya Ridol, Ritabel, dan Watidal yang berkembang maju, sedangkan empat lainnya masih tertinggal.</p>
+<p>
+	<strong>GEOGRAFIS</strong></p>
+<p>
+	Secara geografis, pulau ini terletak antara 07<sup>o</sup>14&rsquo;26&rsquo;&rsquo; LS dan 131<sup>o</sup>58&rsquo;49&rsquo;&rsquo; BT. Di Pulau ini terdapat titik dasar (TD) no.104 dan titik referensi (TR) no. 104. Kecamatan Tanimbar Utara, sebelah Timur dan Barat berbatasan dengan laut, sedangkan sebelah Selatan dengan Kec. Wuarlabobar dan sebelah Utara dengan kec. Yaru. Luas total wilayah Di Kec. Tanimbar Utara adalah 3,613.58 Km<sup>2</sup> meliputi luas daratan sebesar 483.69&nbsp; km<sup>2</sup> dan luas laut untuk wilayah kelola Kabupaten (0-4 mil) sebesar 1.075.87 Km<sup>2</sup> dan luas wilayah kelola Provinsi (4-12 mil) sebesar&nbsp; 2.054.02&nbsp; Km<sup>2</sup>.&nbsp;</p>
+<p>
+	<strong>AKSESIBILITAS</strong></p>
+<p>
+	Transportasi menuju pulau Larat cukup lancar. Dari Kota Saumlaki menuju Larat dapat ditempuh dengan kapal feri, speed boat, kapal PELNI maupun berkendara melalui jalan lintas Trans-Yamdena.</p>
+<p>
+	Jadwal pelayaran feri berlangsung setiap minggu melayani rute kecamatan-kecamatan terdekat hingga sampai ke Kota Larat. Jalur pelayaran feri dari dan barat pulau Yamdena yang tergantung kondisi cuaca.</p>
+<p>
+	Dapat juga berkendara lewat jalan Trans-Yamdena menuju Dusun Siwahan, kemudian menyeberang dengan ketinting menuju Pulau Larat. namun kondisi jalan Trans-Yamdena masih berlapis pasir dan batu. Ada rencana untuk membangun jembatan yang menghubungkan Pulau Yamdena dngan Pulau Larat, sehingga dapat ditempuh lewat jalur darat.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="ksbk">Kependudukan, Sosial Budaya dan Kelembagaan</a></h2>
+<p><div class="readmore"><p>
+	Berdasarkan hasil pendataan adminstrasi wilayah Provinsi Maluku Tahun 2005 di Kec. Tanimbar Utara terdapat 8 desa dengan total jumlah penduduk sebanyak 19.765 jiwa yang terdiri dari laki-laki 6.654 jiwa dan perempuan sebanyak 13.111 Jiwa.&nbsp;</p>
+</div></p>
+
+<hr>
+
+<h2><a id="eshp">Ekosistem dan Sumberdaya Hayati</a></h2>
+<p><div class="readmore"><p>
+	<strong>Potensi Sumberdaya Teresterial</strong></p>
+<p>
+	<strong>Kondisi Air Tanah</strong></p>
+<p>
+	Banyak dijumpai sumber air tanah di daerah penelitian, bahkan banyak dijumpai air tanah dangkal. Hal ini didukung oleh sifat fisik dari litologinya sehingga sistem akifer di daerah ini umumnya memiliki sistem akifer melalui ruang antar butiran dan rekahan. Hasil analisa menunjukan bahwa kondisi fisik-kimia air tanah masih berada pada kisaran yang dapat dikonsumsi oleh manusia (Baku Mutu Fisik-Kimia Air Minum).</p>
+<p>
+	Air yang terdapat di daerah permukaan umumnya berupa air sungai, baik air sungai yang besar maupun dari air sungai kecil. Pada sekitar daerah penelitian tidak dijumpai satupun sungai, bahkan yang kecil sekalipun. Sama halnya dengan air tanah, air permukaan juga demikian masih berada pada kisaran yang dapat dikonsumsi manusia (Baku Mutu Fisik-Kimia Air Minum).</p>
+<p>
+	<strong>Potensi Sumberdaya Pesisir dan Laut</strong></p>
+<p>
+	<strong>Mangrove</strong></p>
+<p>
+	Komunitas mangrove yang ada pada Desa ini kenampakan secara visual di lapangan adalah Mangrove dengan substrat Lumpur, lumpur berpasir, Vegetasi pantai lainnya dan perkebunan kelapa yang berdekatan dengan perkampungan penduduk. Mangrove dari Famili Rhizophoraceae umumnya menempati zona awal dan merupakan famili yang mempunyai jumlah jenis yang lebih. Kondisi mangrove terutama yang berdekatan dengan pemukiman mengalami kerusakan akibat pemanfaatan, presentase tutupan Anakan (90,53 %), Sapihan (7,87 %) Pohon (1,51 %) jenis yang dijumpai pada desa ini adalah <em>Sonneratia alba, Avicenia marina, Rhizophora apiculata, R. stylosa, Bruguiera gymnorrhiza, Xylocarpus granatum, Exocaria agaloca dan Acanthus ilicifolius</em></p>
+<p>
+	<strong>Padang Lamun</strong></p>
+<p>
+	Ditemukan sebanyak 6 jenis lamun pada stasiun pengamatan di P. Larat yang meliputi <em>Cymodecea rotundata</em><em>, Cymodecea serulata, Thalasia hemprichii, Halodule uninervis, Halophila ovalis </em>dan <em>Enhalus acoroides. </em>Dari ke 6 jenis lamun yang ada, spesies <em>Halophila ovalis</em> memiliki frekwensi kehadiran tertingi sedangkan terendah kehadirannya adalah <em>Halodule uninervis </em></p>
+<p>
+	Kerapatan lamun di di P. Larat berdasarkan hasil pengamatan ditemukan sebesar 133.30 tegakan/m<sup>2, </sup>dimana kerapatan tertinggi ditemukan pada jenis <em>Halophila ovalis</em> sebesar 36.20 tegakan/m<sup>2</sup>; dan paling terendah ditemukan pada jenis <em>Halodule uninervis</em> sebesar 11.50 tegakan/m<sup>2</sup>. Untuk nilai persen tutupan lamun, jenis<em> Cymodecea rotundata</em> memiliki nilai tutupan yang sangat besar yakni 60 % dan terendah persen tutupannya adalah <em>Enhalus acoroides </em>dengan nilai sebesar 15%.</p>
+<p>
+	<strong>Terumbu Karang</strong></p>
+<p>
+	Pada di P. Larat pengambilan data ekosistem terumbu karang dilakukan pada tiga titik pengamatan yakni di perairan Pantai Ritabel, Ridol dan Lelengluang. Karang batu yang tumbuh dan tersebar pada areal terumbu perairan pesisir di P. Larat sebanyak 76 spesies, seluruhnya termasuk dalam 39 genera dan 15 famili. Kekayaan spesies karang pada perairan Pantai Ritabel lebih tinggi dari areal terumbu karang yang lainnya yakni sebanyak 49 spesies kemudian diikuti Ridol dengan 45 spesies dan terendah di Lelengluang (35 spesies). Karang batu famili Acroporidae, Faviidae dan Fungiidae memiliki jumlah spesies lebih tinggi dibanding 12 famili karang yang lain.</p>
+<p>
+	Data yang disajikan pada Tabel 7 di atas, memperlihatkan bahwa komponen biotik yang menutupi dasar perairan di kecamatan ini secara umum, maupun berdasarkan titik pengamatan tergolong tinggi dengan persen penutupan substrat sebesar 83,87% jauh lebih tinggi bila dibandingkan dengan komponen abiotik. Secara umum kondisi terumbu karang di kecamatan ini berada pada kategori baik (Good) dengan persen penutupan sebesar 58,99%, tetapi bila dilihat berdasarkan titik pengamatan maka kondisi terumbu karang di Ritabel tergolong kategori baik (Good) dengan persen penutupan sebesar 52,52%, sedangkan di Ridol berada pada kondisi kurang baik (Fair) dengan persen penutupan masing-masing sebesar 46,58% tetapi di Lelengluang berada pada kondisi sangat baik (Exellent) dengan persen penutupan sebesar 77,86%. Kondisi terumbu karang dengan kategori kurang baik di Ridol dipengaruhi oleh persen tutupan komponen biotik lainnya yakni alge sebesar 28,32% (terutama berasal dari makro alge) serta komponen abiotik sebesar 18,72%. Sumbangan terbesar untuk penutupan karang batu di kecamatan ini secara keseluruhan maupun berdasarkan titik pengamatan berasal dari karang Non Acropora.</p>
+<p>
+	<strong>Alga</strong></p>
+<p>
+	Hasil pengamatan terhadap keragaman jenis makro algae di perairan di P. Larat ditemukan jenis-jenis makro algae yang sangat beragam yaitu sebanyak 7 spesies, yang dapat diklasifikasikan ke dalam 7 genus, 7 famili, 5 ordo, dan 3 devisi. Secara keseluruhan spesies yang ditemukan tersebut dapat dikelompokan kedalam 3 devisi utama yaitu alga hijau (Chlorophyta) terdiri dari 3 spesies, alga coklat (Phaeophyta) terdiri dari 2 spesies, dan alga merah (Rhodophyta) yang terdiri dari 2 spesies.</p>
+<p>
+	Dari semua jenis yang ditemukan, ada beberapa jenis yang memiliki nilai ekonomis penting yaitu berasal dari genus Caulerpa dan Galaxaura. Penyebaran makro algae di perairan ini pun tidak merata dan agak jarang.</p>
+<p>
+	<strong>Fauna Bentos</strong></p>
+<p>
+	Pengumpulan data organisme makrofauna bentos di di P. Larat dilakukan pada tiga titik pengamatan, yaitu di desa Ridol, Ritabel, dan Lenluang. Jumlah spesies makrofauna bentos tertinggi dijumpai di desa Ritabel yaitu sebanyak 31 spesies. Dari keseluruhan spesies yang ditemukan di kecamatan ini ternyata hanya 3 spesies yang memiliki nilai ekonomis tinggi dan dapat dikembangkan yaitu <em>Gafrarium tumidum, Lambis scorpius</em>, dan <em>Saccostrea echinata</em>.</p>
+<p>
+	<strong>Ikan (Ikan Demersal, Ikan Karang dan Ikan Hias)</strong></p>
+<p>
+	Pengambilan data ikan karang pada perairan pantai di di P. Larat dilakukan pada tiga titik pengamatan yakni Pantai Ridol, Ritabel dan Lelengluang. Secara keseluruhan pada kecamatan ini dijumpai sebanyak 81 spesies ikan yang tergolong ke dalam 47 genera dan 23 famili. Kelimpahan spesies tertinggi dijumpai pada titik pengamatan di Ridol yakni sebanyak 56 spesies dan terendah dijumpai pada titik pengamatan di Ritabel yakni sebanyak 50 spesies. Pada tingkat genera kelimpahan taksa pada titik pengamatan di Ridol yang tertinggi sedangkan terendah pada titik pengamatan di Ritabel dan Lelengluang, sedangkan pada tingkat famili kelimpahan taksa tertinggi di Ritabel dan terendah di Ridol dan Lelengluang.</p>
+<p>
+	Data yang didapat memperlihatkan bahwa secara keseluruhan jumlah spesies ikan hias lebih tinggi dari jumlah spesies ikan konsumsi. Namun berdasarkan titik pengamatan jumlah spesies ikan hias dan ikan konsumsi di Ridol seimbang, di Ritabel ikan hias lebih tinggi dari ikan konsumsi sedankan di Lelengluang ikan konsumsi lebih tinggi dari ikan hias.</p>
+<p>
+	Pada tabel di atas juga terlihat bahwa kepadatan ikan karang rata-rata di perairan kecamatan ini sebesar 4,68 individu/m<sup>2</sup> dimana kepadatan ikan karang tertinggi dijumpai pada perairan Ridol yakni sebesar 5,95 individu/m<sup>2</sup> dan kepadatan terendah dijumpai pada perairan Ritabel yakni sebesar 3,43 individu/m<sup>2</sup>. Sedangkan bila dilihat berdasarkan kriteria pemanfaatannya maka secara keseluruhan kepadatan ikan konsumsi (2,88 individu/m<sup>2</sup>) lebih tinggi dari ikan hias (1,80 individu/m<sup>2</sup>). Pada titik pengamatan di Ritabel dan Lelengluang kepadatan ikan konsumsi lebih tinggi dari ikan hias, sedangkan di Ridol sebaliknya. Kepadatan ikan konsumsi tertinggi dijumpai di Lelengluang dan kepadatan ikan hias tertinggi di Ridol, sedangkan kepadatan ikan konsumsi dan ikan hias terendah dijumpai di Pantai Ritabel.</p>
+<p>
+	<strong>Perikanan Tangkap</strong></p>
+<p>
+	Di Kecamatan di P. Larat, alat tangkap yang secara rutin diopeasikan oleh nelayan adalah jenis alat tangkap jaring insang lingkar (<em>surrounding gill net</em>) dan pancing tonda (<em>troll line</em>). Nelayan Lelingluan dan Nelayan Ritabel yang termasuk wilayah administratif di P. Larat, juga secara rutin mengoperasikan jaring insang lingkar (<em>surrounding gill net</em>), pancing tonda (<em>troll line</em>) dan pancing tangan (<em>hand line</em>).</p>
+<p>
+	Jaring insang lingkar (<em>surrounding gill net</em>) dioperasikan untuk menangkap ikan lalosi (<em>Caesio </em>sp; <em>Paracaesio </em>sp), dan beberapa jenis ikan demersal/karang yang juga turut tertangkap. Ikan-ikan pelagis besar, terutama beberapa jenis ikan tuna (<em>Thunnus </em>spp), madidihang (<em>Thunnus albacares</em>), cakalang (<em>Katsuwonus pelamis</em>), tenggiri (<em>Scomberomorus </em>sp) dan tongkol (<em>Euthynnus affinis</em>), tertangkap dengan pancing tonda.&nbsp;</p>
+</div></p>
+
+<hr>
+
+<h2><a id="snh">Sumberdaya Non Hayati</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<h2><a id="aps">Aktivitas Pengelolaan Sumberdaya</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<h2><a id="ling">Lingkungan</a></h2>
+<p><div class="readmore"><p>
+	<strong>FISIOGRAFI</strong></p>
+<p>
+	Pada daerah pasang surut memiliki spesies tanah rendzina dengan bentuk wilayah datar sampai berombak. Sedangkan pada daerah daratan pesisir memiliki tanah yang kompleks (complex of soil) dengan topografi berbukit sampai bergunung (Anonimous, 1991). Dilihat dari batuan penyusun pulau, maka ditemukan ada dua macam batuan penyusun pulaupulau di daerah Maluku Tenggara Barat yang umumnya merupakan batuan dari berbagai periode geologis, yakni batuan kapur dan <em>globeriro </em>(Anonimous, 2000).</p>
+<p>
+	Gambaran topografi dasar perairan Larat disajikan pada Gambar 1 dan 2. Sebaran titik kedalaman ditentukan menggunakan sistem sonar dan dipadukan dengan data peta batimetri Larat yang dikeluarkan Jahidros TNI AL tahun 2000 dan peta topografi dan batimetri Larat yang dikeluarkan oleh Departemen Perhubungan tahun 1997. Pada tampilan morfologi dasar laut, terlihat bahwa dasar laut pada lokasi studi berbentuk lembah menyerupai &ldquo;V). Pada zone intertidal terdapat beberapa lokasi yang kedalamannya antara 0.2 &ndash; 0.3 m. Kemiringan lereng zone intertidal pada lokasi studi tergolong datar yakni 0.78 %, kemudian melandai hingga mencapai jarak 100 meter ke arah tenggara yakni 7.23 %. Kelerengan bawah laut sepanjang transek ini tergolong miring (berkisar dari 8 %-11.9 %) pada kedalaman 0 &ndash; 2.5 meter dan 0 &ndash; 7.5 m. Kemiringan lereng mengecil ketika mendekati kedalaman maksimum 17.0 m yakni 8.9 % (miring) dan kemudian datar sepanjang 100 meter dari batas kedalaman 17 m kearah barat. Sepanjang lintasan transek tersebut ditemukan biota antara lain lamun, algae, fauna makrobentos, karang dan nekton.</p>
+<p>
+	Kedalaman laut maksimum terukur pada bagian selatan tenggara desa Lelingluan yakni sebesar 26.2 m (disurutkan dari rata-rata air rendah terendah 13 dm dibawah duduk tengah), dengan dasar berbentuk lembah &ldquo;U&rdquo;. Berdasarkan hasil interpretasi peta topografi, terdeteksi kemiringan lereng maksimum pada zone pantai kering di kawasan desa Ridol 15.83 (sangat miring) (diukur dari batas surut terendah). Zone intertidal pada sisi selatan ke arah desa Ritabel lebih luas dengan kemiringan lereng datar (0.62%).</p>
+<p>
+	<strong>IKLIM</strong></p>
+<p>
+	Berdasarkan data rata-rata curah hujan selama lima tahun mulai 2001 sampai 2005, yang diperoleh dari <em>Stasiun Meteorologi Saumlaki </em>Maluku Tenggara Barat<em>, </em>dapat diketahui bahwa tipe iklim daerah Larat sama dengan daerah lain di Kabupaten MTB yakni tipe B (nilai Q = 0.250) dengan 8 bulan basah, 2 bulan kering dan 2 bulan lembab (Tabel 1). Curah hujan di daerah ini memiliki pola spesies Monsun (musiman) dengan ciri distribusi curah hujan bulanan berbentuk &ldquo;V&rdquo;. Musim Barat berlangsung pada bulan Desember hingga Pebruari, musim Timur pada Juni hingga Agustus, Peralihan1 pada bulan Maret hingga Mei dan Peralihan2 pada bulan September hingga Nopember.</p>
+<p>
+	Pengurangan jumlah curah hujan terjadi saat pertengahan musim timur (Juli) hingga tengah musim Peralihan2 (Oktober), tetapi melimpah pada saat musim Barat hingga akhir Peralihan1. Nilai rata-rata curah hujan terendah dicapai pada akhir musim timur (Agustus) yakni 19.7 mm dan awal Peralihan 2 (September) yakni 4.2 mm. Dua bulan ini tergolong bulan sangat kering dengan jumlah hari hujan 2 hingga 5 hari.</p>
+<p>
+	Secara umum terlihat bahwa saat musim Barat dan Peralihan1, curah hujan melimpah dengan rata-rata antara 160 &ndash; 430 mm dan hari hujan rata-rata 16 &ndash; 22 hari. Sebaliknya pada tengah musim Timur dan Peralihan curah hujan sangat rendah yakni &lt; 60 mm dengan hari hujan 2 &ndash; 15 hari.</p>
+<p>
+	Kecepatan angin terbesar berkisar dari 8.7 hingga 14.9 m/detik (rata-rata 5 tahun 11 m/detik) dengan arah masing-masing 112 dan 260<sup>0</sup> (rata-rata 5 tahun 179<sup>0</sup>, selatan). Pada musim Barat angin bertiup dari 260 &ndash; 302<sup>0</sup> (Barat baratdaya &ndash; barat laut); musim peralihan 1 dari 102 &ndash; 284 (Timur Tenggara &ndash; Barat Barat Laut), musim Timur dari 104 &ndash; 120<sup>0</sup> (Timur Tenggara) dan peralihan 2 dari 112 &ndash; 164<sup>0</sup> (Timur Tenggara &ndash; Selatan Tenggara). Berdasarkan informasi itu diketahui bahwa dalam semua musim arah angin lebih stabil kecuali pada musim peralihan 1, dan kecepatan angin terbesar terjadi pada bulan Desember dan Pebruari (musim Barat).</p>
+<p>
+	Informasi suhu udara siang hari berdasarkan data stasiun Meteorologi Larat disajikan pada Tabel 4. Suhu rata-rata terendah dalam tahun 2001-2005 ditemukan dalam bulan Agustus dan Juli (25.80 &ndash; 25.88 <sup>0</sup>C). Suhu tertinggi dicapai dalam bulan Nopember yakni 28.30 <sup>0</sup>C, dan pada bulan lainya berkisar dari 26.44 &ndash; 27.94 <sup>0</sup>C. Kelembaban udara nisbi rata-rata kerkisar dari 76.8 % (Agustus) hingga 85.8 % (Pebruari). Kelembaban udara cenderung rendah sejak Juli hingga Oktober.</p>
+<p>
+	<strong>OCEANOGRAFI</strong></p>
+<p>
+	<strong>Pasang Surut dan Arus</strong></p>
+<p>
+	Pasang surut di perairan Larat berdasarkan hasil pengamatan, memiliki tipe ganda campuran, artinya dalam satu hari terjadi dua kali pasang dan dua kali surut. Hal ini sesuai de-</p>
+<p>
+	dengan laporan Pariwono (1985). Jangkauan pasut pada perairan ini dapat mencapai 2.5 m dalam bulan Nopember dan Desember, dengan nilai muka surutan (chart datum) adalah 13 dm dibawah duduk tengah (<em>mean sea level</em>) (Jahidros, 2002).</p>
+<p>
+	Kecepatan arus permukaan di seluruh lokasi selama pengamatan berkisar dari 4.4 &ndash; 61 cm/detik (rata-rata 15.4 cm/detik) (Tabel 4 ). Kecepatan arus dekat dasar berkisar dari 2.0 &ndash; 13.0 cm/detik (rata-rata 12.6 cm/detik). Nilai kecepatan arus permukaan terbesar terukur pada stasiun 2. Terlihat bahwa rata-rata kecepatan arus di sisi utara dermaga Larat lebih tinggi dari lokasi di sisi selatan. Hal ini disebabkan daerah pada sisi selatan dermaga lebih terlindung dari tiupan angin. Faktor peredam angin yang utama adalah hutan mangrove dan perbukitan bervegetasi hutan di bagian selatan &ndash; timur.</p>
+<p>
+	Pola arus permukaan maupun dekat dasar tidak persis sama dan selalu berubah-ubah menurut pola pasut dan angin. Pada stasiun 1 untuk permukaan dan dekat dasar, arah arus berkisar dari 215 &ndash; 350 derajat dan 255 &ndash; 295 derajat. Pada stasiun 2 berkisar dari 20 &ndash; 350 dan 125 &ndash; 330 derajat. Arah pergerakan floating material selama pengamatan pada stasiun 1 &ndash; 7 berdasarkan pendekatan metode Lagrangian adalah 225 &ndash; 340 derajat (Barat daya &ndash; Utara barat laut). Pola arus pada stasiun 7 yang letaknya di sisi selatan desa Lelingluan tampak bergerak melingkar (eddys) pada waktu air bergerak surut.</p>
+<p>
+	Pola gerak arus seperti ini diduga akan mempengaruhi kecerahan perairan dan transport material dasar ke permukaan laut. Nilai kecerahan perairan di stasiun 7 jauh lebih kecil dari stasiun lainnya, dengan warna laut hijau keabuan. Hal ini menunjukkan bahwa gerakan sel melingkar tersebut menyebabkan pengangkatan material dasar perairan yang didominasi oleh lumpur. Lumpur tersebut berasal dari vegetasi hutan mangrove di sekitarnya.</p>
+<p>
+	Hal lain yang dapat diamati adalah bahwa pada lokasi 7 dan sekitarnya akibat pola arus melingkar tersebut menyebabkan kelimpahan plankton (fitoplankton maupun zooplankton) lebih kecil dari lokasi lainnya yang berasosiasi dengan komunitas karang.</p>
+<p>
+	<strong>Gelombang</strong></p>
+<p>
+	Berdasarkan informasi kecepatan angin atas permukaan laut dapat diprediksi tinggi dan periode gelombang signifikan di perairan Larat, yakni sepertiga dari gelombang tertinggi yang dapat terjadi. Penentuan tinggi dan periode gelombang signifikan rata-rata dan harga terbesarnya dilakukan mengikuti prosedur yang direkomendasikan Newman dan Pierson (1966) yang telah direview oleh Bowden (1984). Dengan asumsi bahwa kondisi meteorologi Saumlaki adalah identik dengan Larat maka dapat diprediksi tinggi dan periode gelombang siginifikan. Hasil analisis tinggi (Hs) dan periode gelombang signifikan (Ts) dicantumkan pada Tabel 10 dan Tabel 11.</p>
+<p>
+	Sedangkan rata-rata tinggi dan periode gelombang terbesar akibat kecepatan angin terbesar yang dapat terjadi berkisar dari 1.5 hingga 3.7 m, dengan periode 4.4 hingga 6.8 detik. Tinggi gelombang terbesar ditemukan dalam bulan Desember dan Pebruari, dan terkecil pada bulan Oktober dan Nopember (1.3 m).</p>
+<p>
+	Informasi kecepatan angin dan gelombang di lokasi pengamatan dapat juga diestimasi menggunakan pendekatan non-instrumental berdasarkan skala Beaufort (Meteorological Office, 1977). Hasil estimasi menemukan tinggi gelombang di perairan Larat selama pengamatan berkisar dari Force 1 &ndash; Force 3 (Tinggi gelombang terbanyak 0.1 m &ndash; 0.6 m dan tinggi maksimum 1.0 m), dengan rata-rata kecepatan angin permukaan pada ketinggian 10 m adalah 2 &ndash; 9 knot ( 1 &ndash; 4.63 m/detik).</p>
+<p>
+	<strong>Kualitas Air</strong></p>
+<p>
+	Suhu permukaan laut di perairan Larat berkisar dari 25.4 &ndash; 27.0 <sup>0</sup>C dengan rata-rata 25.5 &ndash; 26.8 <sup>0</sup>C. Nilai suhu minimum terendah ditemukan pada stasiun 1 dan suhu tertinggi pada stasiun 6. Kisaran suhu yang ditemukan pada perairan ini cukup rendah, dan diduga merupakan massa air yang terintrusi masuk dari laut Arafura selama musim Timur (Juli &ndash; Agustus) melalui selat antara Larat dan Pulau Tanimbar &ndash; Lutur. Kekuatan pengaruh massa air dingin tersebut masih bertahan sampai bulan September. Hal ini didukung dengan data suhu udara pada stasiun meteorologi saumlaki yang rata-rata berkisar dari 25 &ndash; 26 <sup>0</sup>C. Sebaran suhu permukaan laut di perairan Larat identik dengan di perairan Teluk Saumlaki. Kecerahan perairan selama pengamatan berkisar dari 8.5 &ndash; 17.5 m. Kecerahan terendah terukur pada stasiun 7 dan tertinggi pada stasiun 3, 4 dan 5. Rendahnya kecerahan pada stasiun 7 diduga karena penyerapan sinar oleh materi sedimen tersuspensi dan plankton. Warna air pada stasiun 7 didominasi oleh warna hijau &ndash; hijau kecoklatan, sedangkan pada stasiun 3, 4 dan 5 ada variasi warna hijau kecoklatan saat surut hingga kebiruan saat pasang tinggi. Kedalaman air pada stasiun 7 relatif lebih dangkal dibandingkan stasiun lainnya, dan letaknya berdekatan dengan kawasan hutan mangrove dengan substrat dasar perairan didominasi oleh lumpur.</p>
+<p>
+	Nilai salinitas permukaan laut berkisar dari 34.0 &ndash; 35 ppt dengan kisaran rata-rata 34.4 &ndash; 35.0 ppt saat air surut hingga pasang. Tingginya harga salinitas tersebut disebabkan tidak adanya pasokan air tawar ke perairan, dan diduga merupakan massa air aseanik dari Laut Arafura.</p>
+<p>
+	Kandungan oksigen berkisar dari 6.45 &ndash; 6.72 mg/l. Nilai terendah ditemukan di stasiun 1 dan tertinggi di stasiun 2 dan 5. Nilai-nilai tersebut cukup tinggi sebagai suatu indikasi berlangsungnya proses difusi O<sub>2</sub> dari udara dan fotosistensis. Hal itu didukung juga oleh rendahnya suhu permukaan laut.</p>
+<p>
+	Nilai derajat keasaman air laut berkisar dari 7.4 &ndash; 7.9. Nilai terendah ditemukan pada stasiun 2, dan nilai tertinggi ditemukan pada stasiun 3 &ndash; 7. Kisaran nilai pH demikian berada dalam kisaran normal pH air laut yakni 7.8 &ndash; 8.3 (Skirrow, 1975). Hal ini berarti tidak ada pembiasan nilai pH di perairan sekitarnya selama pe-ngamatan, kecuali pada stasiun 1 dan 2. Pembiasan tersebut diduga ada kaitannya de-ngan radiasi matahari (Skirrow, 1975), defisiensi oksigen dekat dasar (Orr, 1947), dan konsentrasi susbstansi dalam kolom air akibat industri lokal (Hood, 1963). Kuatnya radiasi matahari menyebabkan aktivitas fotosintesis dan pemanfaatan CO<sub>2</sub> meningkat.</p>
+<p>
+	Konsentrasi materi tersuspensi di permukaan berkisar dari 4.04 mg/l &ndash; 8.89 mg/l. Konsentrasi tertinggi terukur pada stasiun 5 dan terendah pada stasiun 3. Stasiun 5 letaknya berdekatan dengan tanjung Lelingluan (sisi utara). Pada lokasi ini proses pergolakan air lebih intensif karena berhadapan langsung dengan arah tiupan angin timur &ndash; tenggara. Selain itu karena lokasi tersebut merupakan zone konvergensi gelombang atau pusat konsentrasi energi gelombang (Pethick, 1984). Selama pengamatan, angin bertiup dari arah 118 &ndash; 180 derajat tetapi lebih intensif dari arah 140 &ndash; 160 derajat (tenggara).</p>
+<p>
+	BOD pada ke-4 stasiun penelitian relatif tinggi masing-masing berkisar antara 177-193 (mg/l). Nilai BOD yang tinggi ini menunjukkan bahwa terdapat bahan organik yang cukup banyak pada perairan lokasi penelitian, sehingga aktivitas mikroba juga cukup tinggi. Sumber bahan organik pada perairan ini sebagian besar berasal dari limbah rumah tangga.</p>
+<p>
+	Nilai nitrit untuk semua stasiun tidak terdeteksi, sedangkan nilai nitrat untuk semua stasiun relatif normal berkisar antara 0,00012 &ndash; 0,00033 mg/. Sedangkan Kadar fosfat untuk keempat stasiun penelitian relatif normal berkisar antara 0,01130 -0,0258 mg/l.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="sp">Sarana dan Prasarana</a></h2>
+<p><div class="readmore"><p>
+	<strong>Sarana Umum Pemerintahan dan Instansi Vertikal</strong></p>
+<p>
+	Kantor Camat (di dalamnya ada UPT dinas terkait, seperti: Kelautan dan Perikanan, Pendidikan, Pengelolaan Keuangan Daerah, Kehutanan, dan Perkebunan Tanaman Pangan), Kantor Polsek Tanimbal Utara, Kantor Koramil Larat, BRI unit Larat, PLN Unit Pelayanan Larat, PDAM Cabang Larat, PT POS Larat, PT Telkom Tbk</p>
+<p>
+	<strong>Pendidikan</strong></p>
+<p>
+	Di Pulau Larat, perkembangan pendidikan tingkat dasar hingga menengah cukup tersedia namun tenaga pendidik dan sarana prasarana masih sangat terbatas. Jumlah sarana pendidikan yang tersebar pada setiap desa adalah 15 SD, 7 SMP, 3 SMA, dan 1 SMK.</p>
+<p>
+	<strong>Kesehatan</strong></p>
+<p>
+	Sarana Kesahatan belum tersebar merata di setiap desa. Jumlahnya adalah sebagai berikut; 1 unit RS, 1 Unit Puskesmas Rawat Inap, 1 Unit Puskesmas, 3 Unit Puskesmas Pembantu, 3 Unit Poskesdes.</p>
+<p>
+	<strong>Sarana Perhubungan</strong></p>
+<p>
+	Sarana Prasarana yang mendukung perhubungan di pulau ini terdiri dari dermaga perhubungan laut, ruang tunggu di dermaga, dermaga penyeberangan feri, bandar udara perintis dan ruang tunggu bandara.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="pi">Peluang Investasi</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<h2><a id="pap">Potensi dan Arahan Pengembangan</a></h2>
+<p><div class="readmore"><p>
+	Di Pulau Larat tersedia lahan yang potensial untuk bertani dan berkebun. Begitu pula perairan pesisir sampai dengan batas zona kelola kabupaten (4 mil) yang dapat dimanfaatkan untuk perikanan dan kegiatan lainnya.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="kp">Kendala Pengembangan</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<h2><a id="rf">Referensi</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<br />
+	<i> 
+		<p style="font-size:12px;">
+			Karena keterbatasan SDM dalam penginputan dan pengolahan data, kami mohon maaf atas ketidak lengkapan beberapa data pulau yang kami tampilkan, harap dimaklumi.
+			Berikan keritik dan saran pada kolom komentar agar kita dapat bersama menyajikan sebuah data yang cukup sempurna untuk halayak ramai yang berguna
+			demi kesejahterahan, kelestarian dan keindahan pulau-pulau kecil yang dimiliki Indonesia.<br />
+			*Jika sekiranya anda memiliki data yang cukup banyak, silakan mengirimkan file melalui email kami di <b><a>identifikasippk@gmail.com</a></b>
+			
+		</p>
+	</i>
+<br />
+
+<div id="fb_comn" class="fb-comments" data-href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_info/336" data-width="800" data-numposts="5" data-colorscheme="light"></div>
+
+
+</div>
+</div>
+</div>
+<div id="wrapper">
+
+<div class="footer"><p>
+<!--<marquee onmouseover="this.stop()" onmouseout="this.start()" scrollamount="5" direction="right" width="798" height="14"  behavior="scroll">-->
+<a href="http://www.ppk-kp3k.kkp.go.id/" target="_blank">Direktorat Pendayagunaan Pulau-Pulau Kecil &nbsp; | &nbsp;</a>
+<a href="http://www.kp3k.kkp.go.id/" target="_blank">Ditjen Kelautan, Pesisir dan Pulau-Pulau Kecil &nbsp; | &nbsp;</a>
+<a href="http://www.kkp.go.id/" target="_blank">Kementerian Kelautan dan Perikanan</a>
+<!--</marquee>--> <br />
+Jl. Medan Merdeka Timur No. 16 Gedung Mina Bahari 3 Lantai 10, Jakarta, Indonesia <br />
+Email : identifikasippk@gmail.com <br />
+Telp &amp; Fax: (021) 3522058 <br />
+&copy; Copyright Direktorat Pendayagunaan Pulau-Pulau Kecil 2012&nbsp; <br /></p>
+</div>
+</div>
+</body>
+</html>

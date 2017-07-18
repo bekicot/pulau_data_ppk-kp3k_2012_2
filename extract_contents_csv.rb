@@ -3,9 +3,33 @@ require 'json'
 require 'fileutils'
 require 'byebug'
 require 'csv'
+require 'optparse'
+require 'net/http'
+require 'logger'
+
+# Parsing Commandline Arguments
+options = {}
+OptionParser.new do |opts|
+  opts.banner = "Usage: example.rb [options]"
+
+  opts.on("-r", "--rebuild-cache", "Run verbosely") do |v|
+    options[:rebuild_cache] = v
+  end
+
+  opts.on("-t", "--travis", "Run as travis") do |v|
+    options[:logger] = STDOUT
+    options[:rebuild_cache] = v
+  end
+end.parse!
 
 ISLAND_INFO_URL     = 'http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_info/'
+
+ISLAND_INDEX_URL    = 'http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_data'
+
 PROVINCE_NAME_INDEX = 3
+
+LOGGER = Logger.new(options[:logger] || 'logs')
+
 def parse_coordinate(coordinate_text)
   results = { coordinates_degree: coordinate_text, coordinates_decimal: [] }
   if coordinate_text.split('LS').length > 1
@@ -56,6 +80,25 @@ def clean_coordinate(coordinate="dan 980 30' 48\" BT\r\n")
   coordinate.gsub(/\s/, '').gsub(' dan ', '').gsub('’', "'").gsub('o', '°')
 end
 
+def rebuild_cache
+  index_page = Nokogiri::HTML(Net::HTTP.get(URI(ISLAND_INDEX_URL)))
+  LOGGER.info('Fetching started')
+  index_page.css('td a').each do |link|
+    tries = 3
+    begin
+      url = URI(link.attr('href'))
+      File.write("htmls/#{url.to_s.split('/').last}", Net::HTTP.get(url))
+    rescue
+      retry unless (tries -1 ).zero?
+      LOGGER.error(e.message + " #{url.to_s}")
+    end
+  end
+end
+
+if options[:rebuild_cache]
+  rebuild_cache
+end
+
 ppk_htmls       = Dir.entries('htmls')[2..-1].each_slice(1000)
 unresolved_html = []
 results = {}
@@ -64,8 +107,8 @@ mutex = Mutex.new
 threads = []
 ppk_htmls.each_with_index do |chunk, index|
   threads << Thread.new do
-    `echo 'Thread #{index} started' >> logs`
-    chunk.each do |html|    
+    LOGGER.info "Thread #{index} started"
+    chunk.each do |html|
       ppk_array = []
       nokogiri = ''
       f = File.open "htmls/#{html}"
@@ -74,7 +117,7 @@ ppk_htmls.each_with_index do |chunk, index|
       table_contents = nokogiri.css('#text_warp>table>tr')
       if !table_contents.first
         unresolved_html << html
-        `echo "bad data on htmls/#{html}" >> error_logs`
+        LOGGER.error("bad data on htmls/#{html}")
         next
       end
       ppk_array[0] = html
@@ -112,18 +155,17 @@ ppk_htmls.each_with_index do |chunk, index|
           end
         end
       end
-      
+
       # Split into province
       mutex.synchronize do
         results[ppk_array[PROVINCE_NAME_INDEX]] ||= []
         results[ppk_array[PROVINCE_NAME_INDEX]] << ppk_array
       end
     end
-    `echo 'Thread #{index} ended' >> logs`
+    LOGGER.info("Thread #{index} ended")
   end
 end
-
-`echo 'started writing into files' >> logs`
+LOGGER.info("started writing into files")
 
 threads.each(&:join)
 results.each do |province_name, province|
@@ -140,7 +182,7 @@ results.each do |province_name, province|
         "Coordinate Decimal"
       ]) do |csv|
     province.each do |island|
-      csv << island        
+      csv << island
     end
   end
   File.open("results/#{province_name}.csv", 'w') do |f|

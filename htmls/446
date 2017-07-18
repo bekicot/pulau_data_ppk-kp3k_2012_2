@@ -1,0 +1,424 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Pulau WUNGA</title>
+
+<meta charset="utf-8"/>
+
+<meta property="fb:app_id" content="559408774147878" />
+
+
+<meta property="og:title" content="Pulau WUNGA" />
+<meta property="og:url" content="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_info/446" />
+
+
+    <script type="text/javascript" src="http://ajax.microsoft.com/ajax/jquery/jquery-1.4.4.min.js">
+    </script>
+    
+    <script type="text/javascript" src="http://plugins.learningjquery.com/expander/jquery.expander.js">
+    </script>
+    
+    <script type="text/javascript">
+        $(function () {
+            $('div.readmore').expander({
+                slicePoint:200,
+                expandText: '(Baca selengkapnya)',
+                userCollapseText: '(Sembunyikan selengkapnya)'
+            });
+        });
+    </script>
+        
+	<script src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/galleria/galleria-1.2.8.min.js"></script>
+
+        <SCRIPT TYPE="text/javascript">
+            <!--
+            //Disable right click script
+            //visit http://www.rainbow.arch.scriptmania.com/scripts/
+            var message="Sorry, right-click has been disabled";
+            ///////////////////////////////////
+            function clickIE() {if (document.all) {(message);return false;}}
+            function clickNS(e) {if
+            (document.layers||(document.getElementById&&!document.all)) {
+            if (e.which==2||e.which==3) {(message);return false;}}}
+            if (document.layers)
+            {document.captureEvents(Event.MOUSEDOWN);document.onmousedown=clickNS;}
+            else{document.onmouseup=clickNS;document.oncontextmenu=clickIE;}
+            document.oncontextmenu=new Function("return false")
+            // -->
+            </SCRIPT>
+            
+            <SCRIPT TYPE="text/javascript">
+            <!--
+            //Disable select-text script (IE4+, NS6+)
+            //visit http://www.rainbow.arch.scriptmania.com/scripts/
+            ///////////////////////////////////
+            function disableselect(e){
+            return false
+            }
+            function reEnable(){
+            return true
+            }
+            //if IE4+
+            document.onselectstart=new Function ("return false")
+            //if NS6
+            if (window.sidebar){
+            document.onmousedown=disableselect
+            document.onclick=reEnable
+            }
+            // -->
+            </SCRIPT>  
+              
+<link rel="stylesheet" type="text/css" href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/css/main.css" media="screen"/>
+<style type='text/css'>
+#info_wrap{
+	width:820px;
+	margin:0 auto;
+	text-shadow:0px 1px 1px #09F;
+}
+table{
+	color:#000000;
+}
+h1{
+	color:#000000;
+}
+.tengahin{
+	width: 105px;
+	height: 30px;
+	margin: 0 auto auto auto;
+}
+#box_view{
+	background-image:-webkit-gradient(linear, 0 0%, 0 100%, from(#FFFFFF), to(#E0F0F5));
+	background:#FFF;
+	color:#F60;
+	border: 1px solid #fff;
+	border-radius: 4px 4px 4px 4px;
+	box-shadow: 0 8px 6px -6px black;
+	position:fixed;
+	right:0;
+	top:150px;;
+	width:80px;
+	z-index:10;
+	padding-left:12px;
+	font-size:10px;
+	}
+#box_view li{
+	color:#F60;
+	margin-left:-30px;
+	}
+	#wrapper a b {
+	color: #FFF;
+	font-size:14px;
+}
+.batas{
+	float:left;
+	border-right-style:inset;
+	border-right-width:thin;
+	}
+.text_h_wrap{
+	
+	padding-left:450px;
+	padding-top:39px;
+	text-shadow:0px 1px 1px #09F;
+	}
+#wrapper .footer p{
+	font-size:12px;
+	color: #FFF;
+	text-align:center;
+	text-shadow:0px 1px 1px #09F;
+}
+td,th {
+	font-size: 12px;
+}
+
+marquee a{
+	color:#FFF
+	}
+#wrapper .footer a{
+	color: #FFFFFF;
+}
+</style>
+            
+<script>
+function goBack()
+  {
+  window.history.back()
+  }
+</script>
+<script type="text/javascript">
+function Popup( url, height, width )
+{
+    var windowProperties = "toolbar = 0, scrollbars = 1, location = 0, statusbar = 0, menubar = 0, resizable = 1, width = " + width + ", height = " + height + ", left = 50, top = 50";
+ 
+    return window.open( url, "", windowProperties );
+}
+</script>
+
+
+
+</head>
+<body oncontextmenu='return false;' onkeydown='return false;' onmousedown='return false;'>
+
+<a id="top_view"></a>
+<div id="wrapper">
+<div class="header_wrap">
+<div class="text_h_wrap">
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/home_page'><b>&nbsp;Home&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/menu_info/1'><b>&nbsp;About Us&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_data'><b>&nbsp;Direktori Pulau&nbsp;&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/program_ip'><b>&nbsp;IKU&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/data_ppkt'><b>&nbsp;PPKT&nbsp;</b></a>
+</div>
+<!--<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/maintenance'><b>&nbsp;Login&nbsp;</b></a>-->
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/dir_log_cont'><b>&nbsp;Login&nbsp;</b></a>
+
+</div>
+</div>
+</div>
+
+<div id="fb-root"></div>
+<script>
+  window.fbAsyncInit = function() {
+    // init the FB JS SDK
+    FB.init({
+      appId      : '559408774147878',                        // App ID from the app dashboard
+      status     : true,                                 // Check Facebook Login status
+      xfbml      : true                                  // Look for social plugins on the page
+    });
+
+    // Additional initialization code such as adding Event Listeners goes here
+  };
+
+  // Load the SDK asynchronously
+  (function(){
+     // If we've already installed the SDK, we're done
+     if (document.getElementById('facebook-jssdk')) {return;}
+
+     // Get the first script element, which we'll use to find the parent node
+     var firstScriptElement = document.getElementsByTagName('script')[0];
+
+     // Create a new script element and set its id
+     var facebookJS = document.createElement('script'); 
+     facebookJS.id = 'facebook-jssdk';
+
+     // Set the new script's source to the source of the Facebook JS SDK
+     facebookJS.src = '//connect.facebook.net/en_US/all.js';
+
+     // Insert the Facebook JS SDK into the DOM
+     firstScriptElement.parentNode.insertBefore(facebookJS, firstScriptElement);
+   }());
+</script>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=559408774147878";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="box_view">
+    <a href="#top_view">MENU</a>
+    <h3><p>Lihat Informasi:</p></h3>
+    <ul>
+	<a href="#sf"><li>Slide Foto</li></a>
+    <a href="#gu"><li>Gambaran Umum</li></a>
+    <a href="#ksbk"><li>Kependudukan, Sosial Budaya dan Kelembagaan</li></a>
+    <a href="#eshp"><li>Ekosistem dan Sumberdaya Hayati</li></a>
+    <a href="#snh"><li>Sumberdaya Non Hayati</li></a>
+    <a href="#aps"><li>Aktivitas Pengelolaan Sumberdaya</li></a>
+    <a href="#ling"><li>Lingkungan</li></a>
+    <a href="#sp"><li>Sarana dan Prasarana</li></a>
+    <a href="#pi"><li>Peluang Investasi</li></a>
+    <a href="#pap"><li>Potensi Arahan Pengembangan</li></a>
+    <a href="#kp"><li>Kendala Pengembangan</li></a>
+	<a href="#rf"><li>Referensi</li></a>
+    </ul>
+    <a href="#fb_comn">KOMENTAR</a>
+</div>
+
+<br>
+			<a id="sf"></a></h2>
+			<div id="galleria">
+            <!--<div class='tengahin'><input type="button" value="Kembali Ke List" onclick="goBack()"></div>-->
+                            </div>
+            
+            <script>
+            Galleria.loadTheme('http://www.ppk-kp3k.kkp.go.id/direktori-pulau/galleria/themes/classic/galleria.classic.min.js');
+            Galleria.run('#galleria');
+            </script>
+</div>
+
+<div id="text_warp">
+
+
+<p><h1>WUNGA</h1></p>
+<table>
+<tr>
+	<td>Nama Lain</td> <td>:</td> <td></td>
+</tr>
+<tr>
+	<td>Propinsi</td> <td>:</td> <td>SUMATERA UTARA</td>
+</tr>
+<tr>
+	<td>Kabupaten</td> <td>:</td> <td>KABUPATEN NIAS UTARA</td>
+</tr>
+<tr>
+	<td>Kecamatan</td> <td>:</td> <td>AFULU</td>
+</tr>
+<tr>
+	<td>Koordinat</td> <td>:</td> <td><a href="http://www.ppk-kp3k.kkp.go.id/giskkp/index.html?extent=10803035.4967 134321.4111,10812207.9401 137890.0648"target="_blank"><p>
+	1&deg; 13&#39; 39,000&quot; LU - 97&deg; 5&#39; 11,000&quot; BT</p>
+</a></td>
+</tr>
+</table>
+<hr>
+
+<h2><a id="gu">Gambaran Umum</a></h2>
+<p><div class="readmore"><p>
+	&nbsp;</p>
+<p style="text-align: justify;">
+	Pulau Wunga terletak di sebelah Barat perairan Nias dan dikelilingi oleh hamparan terumbu karang. Pulau ini berpenghuni satu desa yang bermatapencaharian berkebun kelapa dan nelayan. &nbsp;Pulau Wunga memiliki luas 9 km<sup>2</sup>. Terdapat titik dasar/<em>Base point</em> (TD) no. 167 dan titik referensi (TR) no. 167.</p>
+<p style="text-align: justify;">
+	Secara administratif pulau ini termasuk ke dalam wilayah Desa Afulu, Kecamatan Afulu, Kabupaten Nias, Provinsi Sumatera Utara. Terletak di Samudera Hindia dan berbatasan dengan negara tetangga yaitu India. Secara geografis pulau ini memiliki koordinat pada 01&ordm;12&rsquo;47&rdquo; U dan 97&ordm;04&rsquo;48&rdquo; T.</p>
+<p style="text-align: justify;">
+	Untuk menuju Pulau Wunga, perjalanan dimulai dari Medan menuju Gunungsitoli ibukota Kabupaten Nias dengan menggunakan pesawat perintis milik perusahaan penerbangan SMAC selama kurang lebih 2 jam. Sesampai di Gunungsitoli dilanjutkan dengan kendaraan roda empat menuju Desa Afulu memakan waktu selama 5 jam. Dari Desa Afulu kemudian menyewa kapal motor bermesin 40 PK selama 2 jam untuk mencapai pulau tersebut.</p>
+<p>
+	&nbsp;</p>
+</div></p>
+
+<hr>
+
+<h2><a id="ksbk">Kependudukan, Sosial Budaya dan Kelembagaan</a></h2>
+<p><div class="readmore"><p>
+	&nbsp;</p>
+<p style="text-align: justify;">
+	Pulau ini dinamakan Wunga oelh masyarakat sekitar karena banyak terdapat bunga karang yang indah. Pulau Wunga dihuni secara periodik oleh masyarakat Desa Afulu dengan keperluan untuk memelihara dan memanen kopra. Terdapat sekitar 23 unit bangunan rumah di pulau ini. Penduduk Desa Afulu yang menghuni secara periodik, kebanyakan adalah orang-orang yang berasal dari keturunan Aceh, kemudian terjadi akulturasi sehingga masyarakat memiliki adat dan marga seperti halnya kebanyakan warga di Pulau Nias lainnya. Agama yang dipeluk oleh masyarakat Desa Afulu adalah cukup beragam yaitu Islam, Kristen, dan Katolik.</p>
+<p style="text-align: justify;">
+	Penghasilan utama masyarakat Desa Afulu berasal dari berkebun dan menangkap ikan di laut.&nbsp; Seluruh aktivitas pemenuhan kebutuhan masyarakat utamanya seperti sandang-pangan, pendidikan, dan kesehatan dipenuhi dari Desa Afulu di Pulau Nias. Selain kopra, komoditas lain yang mulai dikembangkan oleh masyarakat Desa Afulu di Pulau Wunga adalah budidaya kakao. Hasil bumi dari Pulau Wunga berupa kopra dan kakao dijual kepada pedagang pengumpul di Lahewa yang kemudian akan diproses lebih lanjut ke tempat pengolahan produk akhir.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="eshp">Ekosistem dan Sumberdaya Hayati</a></h2>
+<p><div class="readmore"><p>
+	&nbsp;</p>
+<p style="text-align: justify;">
+	<strong>Terumbu Karang, Mangrove, dan Vegetasi Lain</strong></p>
+<p style="text-align: justify;">
+	Vegetasi yang dapat dijumpai di Pulau Wunga antara lain beberapa jenis pohon berukuran besar, tumbuhan perdu, beberapa jenis tanaman rawa, mangrove, dan pohon kelapa yang mendominasi penutupan vegetasi hingga 70%. Potensi sumberdaya alam Pulau Wunga selain perikanan yang menjadi andalan masyarakat adalah kebun kelapa. Kopra merupakan hasil utama perkebunan masyarakat yang berada di Pulau Wunga. Spesies binatang yang ditemukan di daratan pulau antara lain beberapa jenis reptil kecil, umang hutan, burung gagak, dan binatang-binatang semak seperti nyamuk dan mrutu.</p>
+<p style="text-align: justify;">
+	<strong>Fauna</strong></p>
+<p style="text-align: justify;">
+	Spesies binatang yang dapat ditemui di pulau Wunga antara lain beberapa jenis reptil kecil, umang hutan, burung gagak, dan binatang-binatang semak seperti nyamuk dan mrutu.</p>
+<p style="text-align: justify;">
+	<strong>Perikanan</strong></p>
+<p style="text-align: justify;">
+	Perairan sekitar Pulau Wunga kaya dengan berbagai jenis ikan permukaan dan dasar, terutama ikan-ikan pelagis perenang cepat dan lobster. Kegiatan penangkapan masih sangat tradisional dengan armada penangkapan ikan yang sangat sederhana yaitu perahu bermesin 15 PK. Keterbatasan jenis armada penangkapan ikan tersebut menyebabkan daerah penangkapan hanya terbatas di sekeliling pulau.&nbsp; Selain ikan dan lobster, di pesisir pantai Pulau Wunga juga merupakan tempat bertelurnya penyu-penyu laut secara musiman.</p>
+<p>
+	&nbsp;</p>
+</div></p>
+
+<hr>
+
+<h2><a id="snh">Sumberdaya Non Hayati</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<h2><a id="aps">Aktivitas Pengelolaan Sumberdaya</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<h2><a id="ling">Lingkungan</a></h2>
+<p><div class="readmore"><p>
+	&nbsp;</p>
+<p style="text-align: justify;">
+	Pulau Wunga memiliki topografi datar dengan ketinggian relatif rendah. Sebelum terjadi gempa dasyat pada tahun 2004 yang berkekuatan 8,3 skala richter, ketinggian daratan kurang dari 3 meter di atas permukaan laut (dpl), namun setelah gempa terjadi kenaikan massa daratan sehingga ketinggian pulau sekarang mencapai 5 meter dpl. ampai dengan sekitar 3 dpl.</p>
+<p style="text-align: justify;">
+	Di bagian tengah pulau terdapat cekungan yang mampu menampung air sehingga bentuk pulau dari atas menyerupai bentuk huruf &ldquo;C&rdquo;. Pantainya berpasir putih dan sebagian berbatu terhampar mengelilingi pulau.</p>
+<p style="text-align: justify;">
+	Kondisi perairan laut di sekitar Pulau Wunga sangat dipengaruhi oleh karakteristik laut lepas Samudera Hindia sehingga memiliki ombak dan gelombang laut yang besar terutama pada saat musim barat.&nbsp; Arus di perairan pulau ini berasal dari Samudera Hindia yang&nbsp; bergerak menuju Timur dengan kecepatan arus sekitar 0,35 m/detik, dengan tinggi gelombang rata-rata mencapai 2,5 meter dengan periode 4,38 detik, sedangkan dalam kondisi cuaca buruk tinggi gelombang maksimum mencapai 12 meter.&nbsp; Temperatur/suhu air berkisar antara 26,8 &ndash; 30,2 <sup>o</sup>C, pH 7,0,&nbsp; turbidity 0,35 &ndash; 0,55 NTU, dan TSS&nbsp; 3 &ndash; 9 mg/l.&nbsp; Kedalaman pantainya berada pada kisaran 10-47 meter.</p>
+<p>
+	&nbsp;</p>
+</div></p>
+
+<hr>
+
+<h2><a id="sp">Sarana dan Prasarana</a></h2>
+<p><div class="readmore"><p>
+	&nbsp;</p>
+<p style="text-align: justify;">
+	Infrastruktur umum yang terdapat di Pulau Wunga antara lain jalan setapak antar kebun dan sedang dibangunnya Menara Navigasi milik Departemen Perhubungan, sedangkan infrastruktur lainnya seperti dermaga pendaratan, jalan keliling pulau, pos jaga TNI-AL belum terdapat di pulau tersebut, sehingga kebutuhan lainnya sangat mengandalkan sarana dan prasarana yang ada di Desa Afulu di Pulau Nias.</p>
+<p style="text-align: justify;">
+	Kondisi infrastruktur di Desa Afulu sendiri tergolong paling tertinggal dibandingkan dengan pembangunan infrastruktur di kecamatan lainnya di Kabupaten Nias. Keterbatasan infrastruktur transportasi dan komunikasi baik menuju Desa Afulu maupun menuju Pulau Wunga merupakan permasalahan yang sering dikeluhkan oleh masyarakat. Untuk mencapai Desa Afulu lewat darat hanya dapat ditembus oleh kendaraan gardan ganda melalui jalan yang sangat terjal dan berbatu, apabila melalui jalur yang landai belum dapat ditembus oleh kendaraan roda empat atau lebih.&nbsp; Sedangkan untuk mencapai Pulau Wunga hanya tersedia angkutan kapal motor sampai 5 PK yang dimiliki oleh masyarakat Desa Afulu sebagai sarana trasportasi mengangkut kopra. Di Desa Afulu belum terdapat jaringan telepon kabel, sehingga pemenuhan kebutuhan komunikasi dua arah dilakukan dengan menggunakan telepon seluler. Sudah terdapat menara telepon seluler (Telkomsel) di Desa Afulu, namun jaringan sinyalnya untuk dapat ditangkap hingga Pulau Wunga sangat tergantung dari cuaca, pasokan bahan bakar minyak sebagai pembangkit energi menara juga menjadi faktor penting dalam penyediaan prasarana komunikasi masyarakat.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="pi">Peluang Investasi</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<h2><a id="pap">Potensi dan Arahan Pengembangan</a></h2>
+<p><div class="readmore"><p>
+	&nbsp;</p>
+<p>
+	Beberapa upaya yang perlu dilakukan di Pulau Wunga antara lain: (a) rekonstruksi dan pemeliharaan titik dasar dan titik referensi, (b) peningkatan pengawasan oleh aparat pemerintah terutama TNI dengan menempatkan aparat keamanan untuk menjaga kedaulatan pulau ini, (c) perlu dibangun pelindung pantai dari ancaman abrasi seperti penanaman mangrove atau membuat bangunan pemecah ombak.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="kp">Kendala Pengembangan</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<h2><a id="rf">Referensi</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<br />
+	<i> 
+		<p style="font-size:12px;">
+			Karena keterbatasan SDM dalam penginputan dan pengolahan data, kami mohon maaf atas ketidak lengkapan beberapa data pulau yang kami tampilkan, harap dimaklumi.
+			Berikan keritik dan saran pada kolom komentar agar kita dapat bersama menyajikan sebuah data yang cukup sempurna untuk halayak ramai yang berguna
+			demi kesejahterahan, kelestarian dan keindahan pulau-pulau kecil yang dimiliki Indonesia.<br />
+			*Jika sekiranya anda memiliki data yang cukup banyak, silakan mengirimkan file melalui email kami di <b><a>identifikasippk@gmail.com</a></b>
+			
+		</p>
+	</i>
+<br />
+
+<div id="fb_comn" class="fb-comments" data-href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_info/446" data-width="800" data-numposts="5" data-colorscheme="light"></div>
+
+
+</div>
+</div>
+</div>
+<div id="wrapper">
+
+<div class="footer"><p>
+<!--<marquee onmouseover="this.stop()" onmouseout="this.start()" scrollamount="5" direction="right" width="798" height="14"  behavior="scroll">-->
+<a href="http://www.ppk-kp3k.kkp.go.id/" target="_blank">Direktorat Pendayagunaan Pulau-Pulau Kecil &nbsp; | &nbsp;</a>
+<a href="http://www.kp3k.kkp.go.id/" target="_blank">Ditjen Kelautan, Pesisir dan Pulau-Pulau Kecil &nbsp; | &nbsp;</a>
+<a href="http://www.kkp.go.id/" target="_blank">Kementerian Kelautan dan Perikanan</a>
+<!--</marquee>--> <br />
+Jl. Medan Merdeka Timur No. 16 Gedung Mina Bahari 3 Lantai 10, Jakarta, Indonesia <br />
+Email : identifikasippk@gmail.com <br />
+Telp &amp; Fax: (021) 3522058 <br />
+&copy; Copyright Direktorat Pendayagunaan Pulau-Pulau Kecil 2012&nbsp; <br /></p>
+</div>
+</div>
+</body>
+</html>

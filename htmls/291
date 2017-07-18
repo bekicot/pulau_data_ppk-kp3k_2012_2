@@ -1,0 +1,883 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Pulau Bengkalis</title>
+
+<meta charset="utf-8"/>
+
+<meta property="fb:app_id" content="559408774147878" />
+
+
+<meta property="og:title" content="Pulau Bengkalis" />
+<meta property="og:url" content="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_info/291" />
+
+
+    <script type="text/javascript" src="http://ajax.microsoft.com/ajax/jquery/jquery-1.4.4.min.js">
+    </script>
+    
+    <script type="text/javascript" src="http://plugins.learningjquery.com/expander/jquery.expander.js">
+    </script>
+    
+    <script type="text/javascript">
+        $(function () {
+            $('div.readmore').expander({
+                slicePoint:200,
+                expandText: '(Baca selengkapnya)',
+                userCollapseText: '(Sembunyikan selengkapnya)'
+            });
+        });
+    </script>
+        
+	<script src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/galleria/galleria-1.2.8.min.js"></script>
+
+        <SCRIPT TYPE="text/javascript">
+            <!--
+            //Disable right click script
+            //visit http://www.rainbow.arch.scriptmania.com/scripts/
+            var message="Sorry, right-click has been disabled";
+            ///////////////////////////////////
+            function clickIE() {if (document.all) {(message);return false;}}
+            function clickNS(e) {if
+            (document.layers||(document.getElementById&&!document.all)) {
+            if (e.which==2||e.which==3) {(message);return false;}}}
+            if (document.layers)
+            {document.captureEvents(Event.MOUSEDOWN);document.onmousedown=clickNS;}
+            else{document.onmouseup=clickNS;document.oncontextmenu=clickIE;}
+            document.oncontextmenu=new Function("return false")
+            // -->
+            </SCRIPT>
+            
+            <SCRIPT TYPE="text/javascript">
+            <!--
+            //Disable select-text script (IE4+, NS6+)
+            //visit http://www.rainbow.arch.scriptmania.com/scripts/
+            ///////////////////////////////////
+            function disableselect(e){
+            return false
+            }
+            function reEnable(){
+            return true
+            }
+            //if IE4+
+            document.onselectstart=new Function ("return false")
+            //if NS6
+            if (window.sidebar){
+            document.onmousedown=disableselect
+            document.onclick=reEnable
+            }
+            // -->
+            </SCRIPT>  
+              
+<link rel="stylesheet" type="text/css" href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/css/main.css" media="screen"/>
+<style type='text/css'>
+#info_wrap{
+	width:820px;
+	margin:0 auto;
+	text-shadow:0px 1px 1px #09F;
+}
+table{
+	color:#000000;
+}
+h1{
+	color:#000000;
+}
+.tengahin{
+	width: 105px;
+	height: 30px;
+	margin: 0 auto auto auto;
+}
+#box_view{
+	background-image:-webkit-gradient(linear, 0 0%, 0 100%, from(#FFFFFF), to(#E0F0F5));
+	background:#FFF;
+	color:#F60;
+	border: 1px solid #fff;
+	border-radius: 4px 4px 4px 4px;
+	box-shadow: 0 8px 6px -6px black;
+	position:fixed;
+	right:0;
+	top:150px;;
+	width:80px;
+	z-index:10;
+	padding-left:12px;
+	font-size:10px;
+	}
+#box_view li{
+	color:#F60;
+	margin-left:-30px;
+	}
+	#wrapper a b {
+	color: #FFF;
+	font-size:14px;
+}
+.batas{
+	float:left;
+	border-right-style:inset;
+	border-right-width:thin;
+	}
+.text_h_wrap{
+	
+	padding-left:450px;
+	padding-top:39px;
+	text-shadow:0px 1px 1px #09F;
+	}
+#wrapper .footer p{
+	font-size:12px;
+	color: #FFF;
+	text-align:center;
+	text-shadow:0px 1px 1px #09F;
+}
+td,th {
+	font-size: 12px;
+}
+
+marquee a{
+	color:#FFF
+	}
+#wrapper .footer a{
+	color: #FFFFFF;
+}
+</style>
+            
+<script>
+function goBack()
+  {
+  window.history.back()
+  }
+</script>
+<script type="text/javascript">
+function Popup( url, height, width )
+{
+    var windowProperties = "toolbar = 0, scrollbars = 1, location = 0, statusbar = 0, menubar = 0, resizable = 1, width = " + width + ", height = " + height + ", left = 50, top = 50";
+ 
+    return window.open( url, "", windowProperties );
+}
+</script>
+
+
+
+</head>
+<body oncontextmenu='return false;' onkeydown='return false;' onmousedown='return false;'>
+
+<a id="top_view"></a>
+<div id="wrapper">
+<div class="header_wrap">
+<div class="text_h_wrap">
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/home_page'><b>&nbsp;Home&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/menu_info/1'><b>&nbsp;About Us&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_data'><b>&nbsp;Direktori Pulau&nbsp;&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/program_ip'><b>&nbsp;IKU&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/data_ppkt'><b>&nbsp;PPKT&nbsp;</b></a>
+</div>
+<!--<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/maintenance'><b>&nbsp;Login&nbsp;</b></a>-->
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/dir_log_cont'><b>&nbsp;Login&nbsp;</b></a>
+
+</div>
+</div>
+</div>
+
+<div id="fb-root"></div>
+<script>
+  window.fbAsyncInit = function() {
+    // init the FB JS SDK
+    FB.init({
+      appId      : '559408774147878',                        // App ID from the app dashboard
+      status     : true,                                 // Check Facebook Login status
+      xfbml      : true                                  // Look for social plugins on the page
+    });
+
+    // Additional initialization code such as adding Event Listeners goes here
+  };
+
+  // Load the SDK asynchronously
+  (function(){
+     // If we've already installed the SDK, we're done
+     if (document.getElementById('facebook-jssdk')) {return;}
+
+     // Get the first script element, which we'll use to find the parent node
+     var firstScriptElement = document.getElementsByTagName('script')[0];
+
+     // Create a new script element and set its id
+     var facebookJS = document.createElement('script'); 
+     facebookJS.id = 'facebook-jssdk';
+
+     // Set the new script's source to the source of the Facebook JS SDK
+     facebookJS.src = '//connect.facebook.net/en_US/all.js';
+
+     // Insert the Facebook JS SDK into the DOM
+     firstScriptElement.parentNode.insertBefore(facebookJS, firstScriptElement);
+   }());
+</script>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=559408774147878";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="box_view">
+    <a href="#top_view">MENU</a>
+    <h3><p>Lihat Informasi:</p></h3>
+    <ul>
+	<a href="#sf"><li>Slide Foto</li></a>
+    <a href="#gu"><li>Gambaran Umum</li></a>
+    <a href="#ksbk"><li>Kependudukan, Sosial Budaya dan Kelembagaan</li></a>
+    <a href="#eshp"><li>Ekosistem dan Sumberdaya Hayati</li></a>
+    <a href="#snh"><li>Sumberdaya Non Hayati</li></a>
+    <a href="#aps"><li>Aktivitas Pengelolaan Sumberdaya</li></a>
+    <a href="#ling"><li>Lingkungan</li></a>
+    <a href="#sp"><li>Sarana dan Prasarana</li></a>
+    <a href="#pi"><li>Peluang Investasi</li></a>
+    <a href="#pap"><li>Potensi Arahan Pengembangan</li></a>
+    <a href="#kp"><li>Kendala Pengembangan</li></a>
+	<a href="#rf"><li>Referensi</li></a>
+    </ul>
+    <a href="#fb_comn">KOMENTAR</a>
+</div>
+
+<br>
+			<a id="sf"></a></h2>
+			<div id="galleria">
+            <!--<div class='tengahin'><input type="button" value="Kembali Ke List" onclick="goBack()"></div>-->
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/ea6d-100_2055.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__ea6d-100_2055.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/d4d5-img_1724.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__d4d5-img_1724.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/93f7-img_1643.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__93f7-img_1643.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/8fc7-img_2086.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__8fc7-img_2086.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/1188-img_1747.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__1188-img_1747.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/cc7a-img_1785.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__cc7a-img_1785.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/526b-img_2077.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__526b-img_2077.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/092b-img_1809.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__092b-img_1809.jpg" data-description=""></a></p>
+                            </div>
+            
+            <script>
+            Galleria.loadTheme('http://www.ppk-kp3k.kkp.go.id/direktori-pulau/galleria/themes/classic/galleria.classic.min.js');
+            Galleria.run('#galleria');
+            </script>
+</div>
+
+<div id="text_warp">
+
+
+<p><h1>Bengkalis</h1></p>
+<table>
+<tr>
+	<td>Nama Lain</td> <td>:</td> <td></td>
+</tr>
+<tr>
+	<td>Propinsi</td> <td>:</td> <td>RIAU</td>
+</tr>
+<tr>
+	<td>Kabupaten</td> <td>:</td> <td>KABUPATEN BENGKALIS</td>
+</tr>
+<tr>
+	<td>Kecamatan</td> <td>:</td> <td>-</td>
+</tr>
+<tr>
+	<td>Koordinat</td> <td>:</td> <td><a href="http://www.ppk-kp3k.kkp.go.id/giskkp/index.html?extent="target="_blank"><p>
+	1<sup>0</sup> 28&#39; 29.17&quot; LU dan 1<sup>0</sup>20 17&#39; 40.71&quot; BT</p>
+</a></td>
+</tr>
+</table>
+<hr>
+
+<h2><a id="gu">Gambaran Umum</a></h2>
+<p><div class="readmore"><p style="margin-left: 40px;">
+	Kabupaten Bengkalis adalah salah satu kabupaten di Provinsi Riau&nbsp; dengan ibukota Bengkalis yang berada di Pulau Bengkalis, terpisah dari&nbsp; Pulau Sumatera. Uas wilayah Kabupaten Bengkalis 11.481,77 Km&sup2;, terdiri dari pulau-pulau dan lautan. Tercatat sebanyak 26 pulau utama&nbsp; disamping pulau-pulau kecil lainnya yang berada di wilayah Kabupaten Bengkalis.</p>
+<p style="margin-left: 40px;">
+	Kabupaten Bengkalis terletak pada bagian pesisir Timur Pulau Sumatera antara 2&ordm; 30&rsquo; Lintang Utara &ndash; 0&ordm; 17&rsquo; Lintang Utara dan 100&ordm; 52&rsquo; Bujur Timur &ndash; 102&ordm; 10&rsquo; Bujur Timur. Kabupaten Bengkalis memiliki batas-batas :</p>
+<p style="margin-left: 80px;">
+	Sebelah Utara&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : berbatasan dengan Selat Malaka.</p>
+<p style="margin-left: 80px;">
+	Sebelah Selatan&nbsp;&nbsp;&nbsp; : berbatasan dengan Kabupaten Siak.</p>
+<p style="margin-left: 80px;">
+	Sebelah Barat&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : berbatasan dengan Kabupaten Rokan Hilir.</p>
+<p style="margin-left: 80px;">
+	Sebelah Timur&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : berbatasan dengan Kabupaten Pelalawan dan Kabupaten Karimun&nbsp; (Prov Kep Riau).</p>
+<p style="margin-left: 40px;">
+	<img alt="" src="data:image/png;base64,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</div></p>
+
+<hr>
+
+<h2><a id="ksbk">Kependudukan, Sosial Budaya dan Kelembagaan</a></h2>
+<p><div class="readmore"><p style="margin-left: 40px;">
+	<strong>Demograf</strong></p>
+<p style="margin-left: 40px;">
+	Jumlah penduduk penduduk Pulau Bengkalis dari 2 (dua) kecamatan pada tahun 2010 adalah 129.638 jiwa dengan jumlah KK 34658.</p>
+<table align="center" border="1" cellpadding="0" cellspacing="0">
+	<tbody>
+		<tr>
+			<td style="width:126px;">
+				<p align="center">
+					<strong>Kecamatan</strong></p>
+			</td>
+			<td style="width:126px;">
+				<p align="center">
+					<strong>Laki-Laki</strong></p>
+				<p align="center">
+					<strong>(Jiwa)</strong></p>
+			</td>
+			<td style="width:120px;">
+				<p align="center">
+					<strong>Perempuan</strong></p>
+				<p align="center">
+					<strong>(Jiwa)</strong></p>
+			</td>
+			<td style="width:112px;">
+				<p align="center">
+					<strong>Jumlah</strong></p>
+				<p align="center">
+					<strong>(Jiwa)</strong></p>
+			</td>
+			<td style="width:118px;">
+				<p align="center">
+					<strong>Sex Rasio</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:126px;">
+				<p>
+					Bengkalis</p>
+			</td>
+			<td style="width:126px;">
+				<p align="center">
+					48.242</p>
+			</td>
+			<td style="width:120px;">
+				<p align="center">
+					45.379</p>
+			</td>
+			<td style="width:112px;">
+				<p align="center">
+					93.599</p>
+			</td>
+			<td style="width:118px;">
+				<p align="center">
+					106</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:126px;">
+				<p>
+					Bantan</p>
+			</td>
+			<td style="width:126px;">
+				<p align="center">
+					18.382</p>
+			</td>
+			<td style="width:120px;">
+				<p align="center">
+					17.657</p>
+			</td>
+			<td style="width:112px;">
+				<p align="center">
+					36.039</p>
+			</td>
+			<td style="width:118px;">
+				<p align="center">
+					104</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:126px;">
+				<p align="right">
+					<strong>Jumlah</strong></p>
+			</td>
+			<td style="width:126px;">
+				<p align="center">
+					<strong>66.24</strong></p>
+			</td>
+			<td style="width:120px;">
+				<p align="center">
+					<strong>63036</strong></p>
+			</td>
+			<td style="width:112px;">
+				<p align="center">
+					<strong>129.638</strong></p>
+			</td>
+			<td style="width:118px;">
+				<p align="center">
+					-</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<div style="clear:both;">
+	&nbsp;</div>
+<div style="clear:both;">
+	<p style="margin-left: 200px;">
+		Sumber:&nbsp;&nbsp; 1. Kecamatan Bengkalis dalam Angka 2011</p>
+	<p style="margin-left: 200px;">
+		Kecamatan Bantan dalam Angka 2011</p>
+	<p style="margin-left:22.5pt;">
+		&nbsp;</p>
+	<p style="margin-left:.25in;">
+		Penduduk Pulau Bengkalis memiliki mata pencaharian baik sebagai PNS, TNI, POLRI, nelayan, pembudidaya tambak, petani perkebunan, jasa, pedagang, maupun pertukangan. Komposisi penduduk Pulau Bengkalis berdasarkan&nbsp; usia seperti pada berikut bawah ini :</p>
+	<table align="center" border="0" cellpadding="0" cellspacing="0" style="width:473px;" width="473">
+		<tbody>
+			<tr>
+				<td nowrap="nowrap" style="width:104px;height:20px;">
+					<p style="text-align: center;">
+						Umur (tahun)</p>
+				</td>
+				<td nowrap="nowrap" style="width:104px;height:20px;">
+					<p style="text-align: center;">
+						Jumlah (jiwa)</p>
+				</td>
+				<td nowrap="nowrap" style="width:142px;height:20px;">
+					<p style="text-align: center;">
+						Persentase (%)</p>
+				</td>
+				<td nowrap="nowrap" style="width:123px;height:20px;">
+					<p style="text-align: center;">
+						Keterangan</p>
+				</td>
+			</tr>
+			<tr>
+				<td nowrap="nowrap" style="width:104px;height:20px;">
+					<p style="text-align: center;">
+						0-4</p>
+				</td>
+				<td nowrap="nowrap" style="width:104px;height:20px;">
+					<p style="text-align: center;">
+						11.047</p>
+				</td>
+				<td nowrap="nowrap" style="width:142px;height:20px;">
+					<p style="text-align: center;">
+						10.20414</p>
+				</td>
+				<td nowrap="nowrap" style="width:123px;height:20px;">
+					<p style="text-align: center;">
+						&nbsp;</p>
+				</td>
+			</tr>
+			<tr>
+				<td nowrap="nowrap" style="width:104px;height:20px;">
+					<p style="text-align: center;">
+						5-9</p>
+				</td>
+				<td nowrap="nowrap" style="width:104px;height:20px;">
+					<p style="text-align: center;">
+						11.289</p>
+				</td>
+				<td nowrap="nowrap" style="width:142px;height:20px;">
+					<p style="text-align: center;">
+						10.42767</p>
+				</td>
+				<td nowrap="nowrap" style="width: 123px; height: 20px; text-align: center;">
+					&nbsp;</td>
+			</tr>
+			<tr>
+				<td nowrap="nowrap" style="width:104px;height:20px;">
+					<p style="text-align: center;">
+						10-14</p>
+				</td>
+				<td nowrap="nowrap" style="width:104px;height:20px;">
+					<p style="text-align: center;">
+						10.643</p>
+				</td>
+				<td nowrap="nowrap" style="width:142px;height:20px;">
+					<p style="text-align: center;">
+						9.830962</p>
+				</td>
+				<td nowrap="nowrap" style="width: 123px; height: 20px; text-align: center;">
+					&nbsp;</td>
+			</tr>
+			<tr>
+				<td nowrap="nowrap" style="width:104px;height:20px;">
+					<p style="text-align: center;">
+						15-24</p>
+				</td>
+				<td nowrap="nowrap" style="width:104px;height:20px;">
+					<p style="text-align: center;">
+						19.413</p>
+				</td>
+				<td nowrap="nowrap" style="width:142px;height:20px;">
+					<p style="text-align: center;">
+						17.93183</p>
+				</td>
+				<td nowrap="nowrap" style="width: 123px; height: 20px; text-align: center;">
+					&nbsp;</td>
+			</tr>
+			<tr>
+				<td nowrap="nowrap" style="width:104px;height:20px;">
+					<p style="text-align: center;">
+						25-29</p>
+				</td>
+				<td nowrap="nowrap" style="width:104px;height:20px;">
+					<p style="text-align: center;">
+						9.978</p>
+				</td>
+				<td nowrap="nowrap" style="width:142px;height:20px;">
+					<p style="text-align: center;">
+						9.216701</p>
+				</td>
+				<td nowrap="nowrap" style="width: 123px; height: 20px; text-align: center;">
+					&nbsp;</td>
+			</tr>
+			<tr>
+				<td nowrap="nowrap" style="width:104px;height:20px;">
+					<p style="text-align: center;">
+						30-59</p>
+				</td>
+				<td nowrap="nowrap" style="width:104px;height:20px;">
+					<p style="text-align: center;">
+						38.732</p>
+				</td>
+				<td nowrap="nowrap" style="width:142px;height:20px;">
+					<p style="text-align: center;">
+						35.77683</p>
+				</td>
+				<td nowrap="nowrap" style="width: 123px; height: 20px; text-align: center;">
+					&nbsp;</td>
+			</tr>
+			<tr>
+				<td nowrap="nowrap" style="width:104px;height:20px;">
+					<p style="text-align: center;">
+						&gt;60</p>
+				</td>
+				<td nowrap="nowrap" style="width:104px;height:20px;">
+					<p style="text-align: center;">
+						7.158</p>
+				</td>
+				<td nowrap="nowrap" style="width:142px;height:20px;">
+					<p style="text-align: center;">
+						6.61186</p>
+				</td>
+				<td nowrap="nowrap" style="width:123px;height:20px;">
+					<p style="text-align: center;">
+						&nbsp;</p>
+				</td>
+			</tr>
+			<tr>
+				<td nowrap="nowrap" style="width:104px;height:20px;">
+					<p style="text-align: center;">
+						&nbsp;</p>
+				</td>
+				<td nowrap="nowrap" style="width:104px;height:20px;">
+					<p style="text-align: center;">
+						108.260</p>
+				</td>
+				<td nowrap="nowrap" style="width:142px;height:20px;">
+					<p style="text-align: center;">
+						100</p>
+				</td>
+				<td nowrap="nowrap" style="width:123px;height:20px;">
+					<p style="text-align: center;">
+						&nbsp;</p>
+				</td>
+			</tr>
+		</tbody>
+	</table>
+	<div style="clear:both;">
+		&nbsp;</div>
+</div>
+<p style="margin-left:.25in;">
+	<strong>Sosial-budaya, ekonomi dan kelembagaan</strong></p>
+<p style="margin-left:.25in;">
+	Pulau Bengkalis yang sebagian penduduknya berupa petani dan nelayan memiliki beberapa kelompok petani kelapa/kelapa sawit dan kelompok nelayan.&nbsp; Selain itu, terdapat lembaga keuangan mikro yaitu koperasi yang berjumlah 258 unit.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="eshp">Ekosistem dan Sumberdaya Hayati</a></h2>
+<p><div class="readmore"><p style="margin-left:.25in;">
+	<strong>Terumbu Karang dan Ikan Karang</strong></p>
+<p style="margin-left:.25in;">
+	Pulau Bengkalis merupakan sebuah pulau di Provinsi Riau, juga merupakan pulau utama dari Kabupaten Bengkalis. Bengkalis mempunyai iklim tropis yang sangat dipengaruhi oleh iklim laut dengan suhu 26&deg;C &ndash; 32&deg;C. Survei Pulau Bengkalis dilakukan dengan metode <em>ground check</em> untuk melihat kondisi pulau secara keseluruhan.</p>
+<p style="margin-left:.25in;">
+	Secara umum perairan sekitar Pulau Bengkalis berwarna coklat dan memiliki <em>zero visibility</em> atau jarak pandang yang sangat rendah. Kekeruhan ini sangat di pengaruhi oleh asupan Sungai Siak dari daratan Provinsi Riau. Lokasi Pulau Bengkalis tepat di depan muara Sungai Siak, sehingga banyak pendapat yang mengatakan bahwa Pulau Bengkalis merupakan delta dari Sungai Siak.</p>
+<p style="margin-left:.25in;">
+	Kondisi substrat perairan Pulau Bengkalis terdiri dari pasir lumpur. Pasir lumpur ini sangat halus dan berwarna kecoklatan. Sebagian sebagai partikel terlarut di dalam air. Topografi pantai yang landai dan surut terendah cukup jauh dari garis pinggir pantai. Bentuk pantai yang landai di perkirakan karena endapan-endapan pasir lumpur yang terbawa oleh aliran air Sungai Siak.</p>
+<p style="margin-left:.25in;">
+	Dari pengamatan di lapangan dan data-data laporan pemda Bengkalis tidak ditemukan adanya terumbu karang di sekitar perairan Pulau Bengkalis. Faktor kekeruhan dan kondisi substrat dasar ini sangat menentukan kehadiran terumbu karang di sekitar Pulau Bengkalis.</p>
+<p style="margin-left:.25in;">
+	<strong>Mangrove</strong></p>
+<p style="margin-left:.25in;">
+	Pulau Bengkalis yang merupakan bagian dari Kabupaten Bengkalis, Riau, memiliki luas wilayah 11.481,77 Km<sup>2 </sup>(Bappeda Bengkalis, 2007). Terdapat dua kecamatan di pulau ini, yaitu Kecamatan Bengkalis dan Kecamatan Bantan.&nbsp; Kecamatan Bengkalis berada di sisi barat hingga selatan serta sebagian sisi timur sedangkan Kecamatan Bantan berada disisi sebelah utara dan sebagian sisi timur. Berbeda dengan pulau kecil di Indonesia pada umumnya, pembangunan sarana dan prasarana di Pulau Bengkalis telah berkembang pesat. Tidak hanya Rumah Sakit dan PLN, perhotelan dan pusat perbelanjaan dapat ditemukan di pulau ini. Namun, berkembangnya pembangunan di Pulau Bengkalis ini masih menyisakan dampak negatif, diantaranya kerusakan lingkungan.</p>
+<p style="margin-left:.25in;">
+	Pulau Bengkalis ini sangat luas sehingga untuk menjelajahi setiap sudut dari pulau ini akan dibutuhkan waktu lebih dari satu hari dengan menggunakan alat transportasi yang ada. Pulau Bengkalis hanya memiliki satu dari tiga ekosistem laut tropis yaitu mangrove. Hal ini dapat disebabkan oleh keruhnya perairan serta arus laut yang kencang karena berbatasan dengan Selat Malaka, sehingga Terumbu Karang dan Lamun tidak dapat tumbuh di pesisir Pulau Bengkalis. Peran mangrove sangat besar terhadap kestabilan pesisir karena dengan adanya mangrove maka abrasi dan kerusakan pesisir dapat dihindarkan.</p>
+<p style="margin-left:.25in;">
+	Berdasarkan hasil ground check, banyak lahan mangrove yang telah dialihfungsikan menjadi tambak, pemukiman, sarang walet, serta jembatan dan bangunan lainnya. Data survey tahun 2007, terdapat 11 jenis mangrove yang ada di Pulau Bengkalis, yaitu <em>Avicenia alba</em>, <em>Bruguiera parviflora</em>, <em>Excocaria agallocha</em>, <em>Lumnitzera litorea</em>, <em>Lumnitzera racemosa</em>, <em>Nypa frutican</em>, <em>Rhizophora apiculata</em>, <em>Rhizopora mucronata</em>, <em>Sonneratia alba</em>, <em>Thespia pulpurea</em>, <em>Xylocarpus granatum </em>seperti yang tertera pada Tabel 1 dan 2. Mangrove di Kecamatan Bengkalis maupun di Kecamatan Bantan didominasi oleh jenis <em>Rhizophora apiculata </em>dan <em>Avicenia alba. </em>Namun, mangrove di dua kecamatan ini lebih beragam pada tingkat semai dan pancang (tegakan). Hal ini disebabkan oleh pohon mangrove banyak dimanfaatkan warga untuk menbuat perahu, rumah atau arang mangrove.</p>
+<p style="margin-left:.25in;">
+	Keanekaragaman mangrove di Pulau Bengkalis masih tergolong sedang walaupun kini keberadaannya makin terancam. Kerusakan mangrove terlihat di beberapa tempat baik itu untuk tujuan tertentu atau tidak (Lampiran 3). Disekitar tambak udang yang tadinya adalah lahan mangrove masih dapat dijumpai pohon-pohon mangrove yang tumbang sia-sia. Bahkan di sebelah Pelabuhan Internasional di Selat Malaka terdapat mangrove jenis Nypa frutican di batas vegetasi pantai pertama dari arah laut. Mangrove jenis ini secara alami terdapat di urutan paling belakang dari arah laut dibanding semua jenis mangrove yang ada.&nbsp; Hal ini membuktikan bahwa beberapa jenis mangrove yang seharusnya ada sebelum Nypa frutican telah rusak atau hilang.</p>
+<p style="margin-left:.25in;">
+	Berdasarkan hasil survey tahun 2007, fauna yang ada di ekosistem mangrove ada 15 jenis, yaitu Bangau, Berang-berang, Camar, Burung Mata Putih, Gagak Hitam, Kowak Hitam, Kowak Putih, Elang, Lutung Bengat, Monyet Ekor Panjang, Musang, Panai Endu, Tupai Bakau, Ular Bakau, serta Ular Cincin Emas.&nbsp; Namun, ketika <em>ground check</em>, hanya sedikit fauna yang ditemukan, antara lain Monyet Ekor Panjang, Gagak Hitam, dan Camar. Mengingat keadaan mangrove di Pulau Bengkalis yang sudah mulai rusak, Bappeda Bengkalis menggalakkan penanaman mangrove serta mencanangkan zona konservasi mangrove di beberapa daerah (Bappeda Bengkalis, 2008).</p>
+</div></p>
+
+<hr>
+
+<h2><a id="snh">Sumberdaya Non Hayati</a></h2>
+<p><div class="readmore"><p style="margin-left:.25in;">
+	Sumber daya non hayati pesisir seperti Mineral (Nikel, Bauksit, Timah, Batubara, Minyak Bumi dan Emas) di Pulau Bengkalis tidak ditemukan.&nbsp; Demikian pula dengan energi kelautan seperti energi gelombang, energi angin, panas bumi dan OTEC belum ditemukan di pulau ini.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="aps">Aktivitas Pengelolaan Sumberdaya</a></h2>
+<p><div class="readmore"><p>
+	-</p>
+</div></p>
+
+<hr>
+
+<h2><a id="ling">Lingkungan</a></h2>
+<p><div class="readmore"><p style="margin-left: 40px;">
+	<strong>Permasalahan Lingkungan</strong></p>
+<p style="margin-left: 40px;">
+	Pencemaran perairan yang ada di Pulau Bengkalis ini antara lain pencemaran limbah industri, rumah tangga, pelabuhan, tambak serta masukan dari sungai siak sehingga perlu diadakannya penelitian lebih mendalam mengenai bahan pencemar untuk menentukan tingkat pencemarannya. Abrasi pantai akibat arus dan gelombang serta berkurangnya penutupan mangrove. Sanitasi juga menjadi salah satu permasalahan lingkungan di pulau ini karena di beberapa bagian pulau air tanahnya berwarna merah sehingga warga menggunakan air hujan untuk keperluan air sehari-hari seperti mandi dan minum. Kerusakan ekosistem mangrove juga tidak dapat dipandang sebelah mata di Pulau Bengkalis.&nbsp; Hal ini disebabkan terutama oleh alih fungsi wilayah mangrove menjadi pendukung perekonomian masyarakat.</p>
+<p style="margin-left: 40px;">
+	Upaya penanggulan abrasi pantai dan kerusakan ekosistem mangrove dapat dilakukan dengan penanaman dan pemeliharaan mangrove serta pembuatan breakwater.&nbsp; Sedangkan untuk permasalahan sanitasi dapat ditanggulangi dengan pengadaan fasilitas desalinasi atau pembuatan air tawar siap minum dari KKP.</p>
+<p style="margin-left: 40px;">
+	<strong>Kerentanan Bencana dan Upaya Mitigasi</strong></p>
+<p style="margin-left: 40px;">
+	Potensi bencana di Pulau Bengkalis adalah abrasi pantai.&nbsp; Upaya mitigasi yang dapat dilakukan adalah sosialisasi terhadap masyarakat akan pentingnya hutan mangrove (penahan abrasi, perikanan dan kelestarian lingkungan) serta penanaman mangrove.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="sp">Sarana dan Prasarana</a></h2>
+<p><div class="readmore"><p style="margin-left:.25in;">
+	<strong>Transportasi</strong></p>
+<p style="margin-left:.25in;">
+	Sarana transportasi berupa jalan di Pulau Bengkalis sudah memadai dan dalam kondisi baik, walaupun ada beberapa jalan raya di kecamatan Bantan yang dalam kondisi rusak.&nbsp; Fasilitas jalan raya di pulau Bengkalis telah menggunakan aspal <em>hotmix </em>namun masih belum mencapai daerah pelosok<em>.&nbsp; </em>Berdasarkan data dari Dinas Kimpraswil Kecamatan Bengkalis, terdapat 272,75 km aspal, 20,63 km kerikil, 366,89 km tanah dan 471,93 km beton.&nbsp; Berdasarkan data dari Dinas Kimpraswil Kecamatan Bantan, dilihat dari kondisi jenis permukaannyaterdapat 64 km jalan beton, 13,60 km jalan tanah dan 3,40 km jalan kerikil dalam kondisi baik. Terdapat 30 km jalan beton dalam kondisi rusak berat.</p>
+<p style="margin-left:.25in;">
+	Alat transportasi yang digunakan baik dalam wilayah desa/kelurahan maupun antar desa/kelurahan di Kecamatan Bengkalis dan Bantan sama-sama menggunakan alat transportasi darat.&nbsp; Alat transportasi darat yang terdapat pada Pulau Bengkalis seperti bus, mobil, truck, kendaraan bermotor, bemo, becak motor, becak sepeda dan sepeda.&nbsp; Sarana transportasi laut yang digunakan penduduk untuk keluar-masuk pulau yaitu kapal, baik kapal kargo, kapal ferry penyeberangan, kapal penumpang cepat, kapal RO-RO dan perahu motor penumpang.</p>
+<p style="margin-left:.25in;">
+	<strong>Sarana Penerangan</strong></p>
+<p style="margin-left:.25in;">
+	Untuk penerangan di Pulau Bengkalis telah menggunakan sumber tenaga listrik.&nbsp; Untuk memenuhi kebutuhan listrik disuplai dari PT PLN, khusus untuk kecamatan Bengkalis sebesar 3870 kw.&nbsp;&nbsp;</p>
+<p style="margin-left:.25in;">
+	<strong>Sarana Air Bersih</strong></p>
+<p style="margin-left:.25in;">
+	Sumber air bersih untuk kecamatan Bengkalis disuplai oleh PDAM. Khusus di Kecamatan Bantan, di beberapa desa yang memiliki air tanah yang kurang bagus (berwarna agak kemerahan) masyarakat memperoleh air bersih dari instalasi air bersih bantuan dari Kementrian Kelautan dan Perikanan (KKP) maupun menampung air hujan menggunakan kendi-kendi besar.</p>
+<p style="margin-left:.25in;">
+	<strong>Sarana Kesehatan</strong></p>
+<p style="margin-left:.25in;">
+	Untuk sarana kesehatan, berdasarkan data dari Dinas Kesehatan Kecamatan Bengkalis, terdapat 1 Rumah Sakit, 1 Puskesmas dan 9 puskesmas pembantu (pustu).&nbsp; Sedangkan Kecamatan Bantan memiliki satu puskesmas dan 7 pustu dengan jumlah tenaga kesehatannya sebanyak 19 orang terdiri dari 2 orang dokter umum, 1 orang dokter gigi dan 16 orang bidan. Juga terdapat beberapa dokter praktek, apotek dan sebuah laboratorium medis.</p>
+<p style="margin-left:.25in;">
+	<strong>Sarana Pendidikan</strong></p>
+<p style="margin-left:.25in;">
+	Pada tahun 2010, Kecamatan Bengkalis mempunyai 15 TK, 60 SD, 13 SLTP, 5 SMU dan 3 SMK.&nbsp; Selain itu memiliki 8 madrasah tsanawiyah, 5 madrasah aliyah, 1 SLB, 1 Ponpes dan 52 MDA.&nbsp; Sedangkan Kecamatan Bantan memiliki 13 TK, 32 SD, 8 SMP dan 3 SMA.&nbsp; Kecamatan Bantan juga memiliki 4 MI, 7 MTs, 5 MA, 34 MDA dan 2 Ponpes.&nbsp; Untuk tingkat perguruan tinggi, Pulau Bengkalis memiliki 2 perguruan tinggi yaitu STIE dan Sekolah Tinggi Agama Islam.</p>
+<p style="margin-left:.25in;">
+	<strong>Sarana Peribadatan</strong></p>
+<p style="margin-left:.25in;">
+	Dari data tahun 2010, sarana ibadah di Kecamatan Bengkalis yaitu 70 masjid, 110 langgar/mushola, 5 gereja Protestan/Katholik dan 10 wihara/klenteng.&nbsp; Sedangkan di Kecamatan Bantan yaitu 65 masjid, 72 langgar/mushola, 2 gereja Protestan/Katholik dan 5 wihara/klenteng.</p>
+<p style="margin-left:.25in;">
+	<strong>Sarana Pendudukung Pemerintahan</strong></p>
+<p style="margin-left:.25in;">
+	Kecamatan Bengkalis terdiri dari 20 desa/kelurahan definitif dimana Rimba Sekampang, Bengkalis Kota dan Damon kerupakan kelurahan di Kecamatan Bengkalis dan 17 lainnya masih merupakan desa dari status pemerintahannya (Gambar 1).&nbsp; Sampai akhir tahun 2010, Kecamatan Bengkalis memiliki 107 RW dan 293 RT.</p>
+<p style="margin-left:.25in;">
+	Kecamatan Bantan terdiri dari 9 (sembilan) desa yang sudah definitif yaitu desa Teluk Lancar, Kembung Luar, Teluk Pambang, Muntai, Bantan Air, Bantan Tengah, Selat Baru, Bantan Tua dan Jangkang (Gambar 2).&nbsp; Ibukota kecamatan berada di Selat Baru.&nbsp; Sampai akhir tahun 2010, terdapat 94 RW dan 310 RT di kecamatan Bantan.</p>
+<p style="margin-left:.25in;">
+	<strong>Sarana Pendukung Wisata Bahari</strong></p>
+<p style="margin-left:.25in;">
+	Sarana pendukung wisata bahari di Pulau Bengkalis seperti Hotel cukup lumayan banyak tersedia terutama di Kecamatan Bengkalis, bahkan terdapat hotel sekelas bintang 3 di pulau ini.&nbsp; Akan tetapi di pulau ini tidak tersedia penyewaan alat selam, hal ini diduga terkait dengan ekosistem terumbu karang yang tidak ditemukan di pesisir pulau.</p>
+<p style="margin-left:.25in;">
+	Wisata bahari yang diandalkan oleh pulaun ini adalah pantai dengan pasir yang cukup bagus dan pemandangan indah seperti Pantai Pasir di Kecamatan Bengkalis dan Pantai Selat Baru.&nbsp; Sarana pendukung untuk wisata pantai ini adalah taman rekreasi, warung-warung penyedia berbagai jenis makanan dan minuman maupun even-even seperti pesta pantai di Pantai Selat Baru yang diadakan tiap setahun sekali.</p>
+<p style="margin-left:.25in;">
+	<strong>Sarana Sanitasi Lingkungan</strong></p>
+<p style="margin-left:.25in;">
+	Sarana sanitasi untuk MCK sudah menggunakan kamar mandi dan toilet.&nbsp; Sistem saluran air di pulau juga sudah baik dimana terdapat gorong-gorong&nbsp; di tepi jalan di daerah kota maupun jalan antar kecamatan yang menuju ke sungai-sungai.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="pi">Peluang Investasi</a></h2>
+<p><div class="readmore"><p>
+	Jenis Kegiatan Investasi yang sudah berkembang di Pulau Bengkalis yaitu dalam Bidang Kelautan dan Perikanan (Budidaya udang, Pengolahan Ikan Asin, Ikan Terubuk dan Kerapu), Bidang Pariwisata (Penginapan, Surfing, Bidang Pertanian, Kelapa sawit, Pohon pinang, Kelapa, Buah Naga, Sarang burung wallet). Kegiatan promosi yang telah dilakukan adalah melalui situs web di internet baik milik pemda, media informasi online, blog-blog pribadi.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="pap">Potensi dan Arahan Pengembangan</a></h2>
+<p><div class="readmore"><p style="margin-left:.25in;">
+	Pulau Bengkalis berpotensi untuk dikembangkan pada bidang:</p>
+<table border="0" cellpadding="0" cellspacing="0">
+	<tbody>
+		<tr>
+			<td style="width:139px;">
+				<p>
+					Perikanan</p>
+			</td>
+			<td style="width:42px;">
+				<p>
+					:</p>
+			</td>
+			<td style="width:411px;">
+				<p>
+					Perikanan Tangkap (Terubuk, Kakap, dll) dan Budidaya&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (Udang dan Patin)</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:139px;">
+				<p>
+					Perkebunan</p>
+			</td>
+			<td style="width:42px;">
+				<p>
+					:</p>
+			</td>
+			<td style="width:411px;">
+				<p>
+					Kelapa sawit, Kelapa, Karet, Pinang, Sagu, dan Kopi.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:139px;">
+				<p>
+					Pertanian</p>
+			</td>
+			<td style="width:42px;">
+				<p>
+					:</p>
+			</td>
+			<td style="width:411px;">
+				<p>
+					Padi, Sayur (kacang panjang, Ketimun, Sawi, Jagung dan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ketela)</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:139px;">
+				<p>
+					Peternakan</p>
+			</td>
+			<td style="width:42px;">
+				<p>
+					:</p>
+			</td>
+			<td style="width:411px;">
+				<p>
+					Walet</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:139px;">
+				<p>
+					Perdagangan dan Perindustrian</p>
+			</td>
+			<td style="width:42px;">
+				<p>
+					:</p>
+			</td>
+			<td style="width:411px;">
+				<p>
+					Pertokoan, Inudstri, Restoran.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:139px;">
+				<p>
+					Pariwisata</p>
+			</td>
+			<td style="width:42px;">
+				<p>
+					:</p>
+			</td>
+			<td style="width:411px;">
+				<p>
+					Pantai Selat Baru, Taman Rekreasi Pantai Pasir Putih di</p>
+				<p>
+					Kec. Bengkalis, Monumen&nbsp; Laksamana Raja Di Laut</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:139px;">
+				<p>
+					Konservasi</p>
+			</td>
+			<td style="width:42px;">
+				<p>
+					:</p>
+			</td>
+			<td style="width:411px;">
+				<p>
+					Konservasi Kawasan Lindung Mangrove, Konservasi&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Kawasan Lindung Gambut, Konservasi Kawasan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sempadan Pantai</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:139px;">
+				<p>
+					Pendidikan dan Penelitian</p>
+			</td>
+			<td style="width:42px;">
+				<p>
+					:</p>
+			</td>
+			<td style="width:411px;">
+				<p>
+					Sekolah Usia Dini hingga Sekolah Tinggi Keilmuan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<p>
+	&nbsp;</p>
+</div></p>
+
+<hr>
+
+<h2><a id="kp">Kendala Pengembangan</a></h2>
+<p><div class="readmore"><p style="margin-left:.25in;">
+	Kendala yang ditemukan untuk pengembangan Pulau Bengkalis antara lain Abrasi pantai yang disebabkan oleh Arus dan Gelombang dari Selat Malaka, gelombang yang ditimbulkan oleh pergerakan kapal, berkurangnya tanaman mangrove akibat alih fungsi lahan di wilayah pesisir. Abrasi pantai dapat ditanggulangi dengan mengurangi amplitude dan energy gelombang yang sampai ke pantai dengan cara membangun barrier kearah laut (tanaman pohon atau rekayasa bangunan pantai) atau pembuatan seawall dan breakwater . Berkurangnya tanaman mangrove dapat dikurangi dengan sosialisasi terhadap masyarakat akan pentingnya hutan mangrove (penahan abrasi, perikanan dan kelestarian lingkungan) serta penanaman mangrove.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="rf">Referensi</a></h2>
+<p><div class="readmore"><p>
+	Hasil Identifikasi dan Pemetaan Potensi</p>
+</div></p>
+
+<hr>
+
+<br />
+	<i> 
+		<p style="font-size:12px;">
+			Karena keterbatasan SDM dalam penginputan dan pengolahan data, kami mohon maaf atas ketidak lengkapan beberapa data pulau yang kami tampilkan, harap dimaklumi.
+			Berikan keritik dan saran pada kolom komentar agar kita dapat bersama menyajikan sebuah data yang cukup sempurna untuk halayak ramai yang berguna
+			demi kesejahterahan, kelestarian dan keindahan pulau-pulau kecil yang dimiliki Indonesia.<br />
+			*Jika sekiranya anda memiliki data yang cukup banyak, silakan mengirimkan file melalui email kami di <b><a>identifikasippk@gmail.com</a></b>
+			
+		</p>
+	</i>
+<br />
+
+<div id="fb_comn" class="fb-comments" data-href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_info/291" data-width="800" data-numposts="5" data-colorscheme="light"></div>
+
+
+</div>
+</div>
+</div>
+<div id="wrapper">
+
+<div class="footer"><p>
+<!--<marquee onmouseover="this.stop()" onmouseout="this.start()" scrollamount="5" direction="right" width="798" height="14"  behavior="scroll">-->
+<a href="http://www.ppk-kp3k.kkp.go.id/" target="_blank">Direktorat Pendayagunaan Pulau-Pulau Kecil &nbsp; | &nbsp;</a>
+<a href="http://www.kp3k.kkp.go.id/" target="_blank">Ditjen Kelautan, Pesisir dan Pulau-Pulau Kecil &nbsp; | &nbsp;</a>
+<a href="http://www.kkp.go.id/" target="_blank">Kementerian Kelautan dan Perikanan</a>
+<!--</marquee>--> <br />
+Jl. Medan Merdeka Timur No. 16 Gedung Mina Bahari 3 Lantai 10, Jakarta, Indonesia <br />
+Email : identifikasippk@gmail.com <br />
+Telp &amp; Fax: (021) 3522058 <br />
+&copy; Copyright Direktorat Pendayagunaan Pulau-Pulau Kecil 2012&nbsp; <br /></p>
+</div>
+</div>
+</body>
+</html>

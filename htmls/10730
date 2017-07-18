@@ -1,0 +1,698 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Pulau Mare</title>
+
+<meta charset="utf-8"/>
+
+<meta property="fb:app_id" content="559408774147878" />
+
+
+<meta property="og:title" content="Pulau Mare" />
+<meta property="og:url" content="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_info/10730" />
+
+
+    <script type="text/javascript" src="http://ajax.microsoft.com/ajax/jquery/jquery-1.4.4.min.js">
+    </script>
+    
+    <script type="text/javascript" src="http://plugins.learningjquery.com/expander/jquery.expander.js">
+    </script>
+    
+    <script type="text/javascript">
+        $(function () {
+            $('div.readmore').expander({
+                slicePoint:200,
+                expandText: '(Baca selengkapnya)',
+                userCollapseText: '(Sembunyikan selengkapnya)'
+            });
+        });
+    </script>
+        
+	<script src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/galleria/galleria-1.2.8.min.js"></script>
+
+        <SCRIPT TYPE="text/javascript">
+            <!--
+            //Disable right click script
+            //visit http://www.rainbow.arch.scriptmania.com/scripts/
+            var message="Sorry, right-click has been disabled";
+            ///////////////////////////////////
+            function clickIE() {if (document.all) {(message);return false;}}
+            function clickNS(e) {if
+            (document.layers||(document.getElementById&&!document.all)) {
+            if (e.which==2||e.which==3) {(message);return false;}}}
+            if (document.layers)
+            {document.captureEvents(Event.MOUSEDOWN);document.onmousedown=clickNS;}
+            else{document.onmouseup=clickNS;document.oncontextmenu=clickIE;}
+            document.oncontextmenu=new Function("return false")
+            // -->
+            </SCRIPT>
+            
+            <SCRIPT TYPE="text/javascript">
+            <!--
+            //Disable select-text script (IE4+, NS6+)
+            //visit http://www.rainbow.arch.scriptmania.com/scripts/
+            ///////////////////////////////////
+            function disableselect(e){
+            return false
+            }
+            function reEnable(){
+            return true
+            }
+            //if IE4+
+            document.onselectstart=new Function ("return false")
+            //if NS6
+            if (window.sidebar){
+            document.onmousedown=disableselect
+            document.onclick=reEnable
+            }
+            // -->
+            </SCRIPT>  
+              
+<link rel="stylesheet" type="text/css" href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/css/main.css" media="screen"/>
+<style type='text/css'>
+#info_wrap{
+	width:820px;
+	margin:0 auto;
+	text-shadow:0px 1px 1px #09F;
+}
+table{
+	color:#000000;
+}
+h1{
+	color:#000000;
+}
+.tengahin{
+	width: 105px;
+	height: 30px;
+	margin: 0 auto auto auto;
+}
+#box_view{
+	background-image:-webkit-gradient(linear, 0 0%, 0 100%, from(#FFFFFF), to(#E0F0F5));
+	background:#FFF;
+	color:#F60;
+	border: 1px solid #fff;
+	border-radius: 4px 4px 4px 4px;
+	box-shadow: 0 8px 6px -6px black;
+	position:fixed;
+	right:0;
+	top:150px;;
+	width:80px;
+	z-index:10;
+	padding-left:12px;
+	font-size:10px;
+	}
+#box_view li{
+	color:#F60;
+	margin-left:-30px;
+	}
+	#wrapper a b {
+	color: #FFF;
+	font-size:14px;
+}
+.batas{
+	float:left;
+	border-right-style:inset;
+	border-right-width:thin;
+	}
+.text_h_wrap{
+	
+	padding-left:450px;
+	padding-top:39px;
+	text-shadow:0px 1px 1px #09F;
+	}
+#wrapper .footer p{
+	font-size:12px;
+	color: #FFF;
+	text-align:center;
+	text-shadow:0px 1px 1px #09F;
+}
+td,th {
+	font-size: 12px;
+}
+
+marquee a{
+	color:#FFF
+	}
+#wrapper .footer a{
+	color: #FFFFFF;
+}
+</style>
+            
+<script>
+function goBack()
+  {
+  window.history.back()
+  }
+</script>
+<script type="text/javascript">
+function Popup( url, height, width )
+{
+    var windowProperties = "toolbar = 0, scrollbars = 1, location = 0, statusbar = 0, menubar = 0, resizable = 1, width = " + width + ", height = " + height + ", left = 50, top = 50";
+ 
+    return window.open( url, "", windowProperties );
+}
+</script>
+
+
+
+</head>
+<body oncontextmenu='return false;' onkeydown='return false;' onmousedown='return false;'>
+
+<a id="top_view"></a>
+<div id="wrapper">
+<div class="header_wrap">
+<div class="text_h_wrap">
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/home_page'><b>&nbsp;Home&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/menu_info/1'><b>&nbsp;About Us&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_data'><b>&nbsp;Direktori Pulau&nbsp;&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/program_ip'><b>&nbsp;IKU&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/data_ppkt'><b>&nbsp;PPKT&nbsp;</b></a>
+</div>
+<!--<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/maintenance'><b>&nbsp;Login&nbsp;</b></a>-->
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/dir_log_cont'><b>&nbsp;Login&nbsp;</b></a>
+
+</div>
+</div>
+</div>
+
+<div id="fb-root"></div>
+<script>
+  window.fbAsyncInit = function() {
+    // init the FB JS SDK
+    FB.init({
+      appId      : '559408774147878',                        // App ID from the app dashboard
+      status     : true,                                 // Check Facebook Login status
+      xfbml      : true                                  // Look for social plugins on the page
+    });
+
+    // Additional initialization code such as adding Event Listeners goes here
+  };
+
+  // Load the SDK asynchronously
+  (function(){
+     // If we've already installed the SDK, we're done
+     if (document.getElementById('facebook-jssdk')) {return;}
+
+     // Get the first script element, which we'll use to find the parent node
+     var firstScriptElement = document.getElementsByTagName('script')[0];
+
+     // Create a new script element and set its id
+     var facebookJS = document.createElement('script'); 
+     facebookJS.id = 'facebook-jssdk';
+
+     // Set the new script's source to the source of the Facebook JS SDK
+     facebookJS.src = '//connect.facebook.net/en_US/all.js';
+
+     // Insert the Facebook JS SDK into the DOM
+     firstScriptElement.parentNode.insertBefore(facebookJS, firstScriptElement);
+   }());
+</script>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=559408774147878";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="box_view">
+    <a href="#top_view">MENU</a>
+    <h3><p>Lihat Informasi:</p></h3>
+    <ul>
+	<a href="#sf"><li>Slide Foto</li></a>
+    <a href="#gu"><li>Gambaran Umum</li></a>
+    <a href="#ksbk"><li>Kependudukan, Sosial Budaya dan Kelembagaan</li></a>
+    <a href="#eshp"><li>Ekosistem dan Sumberdaya Hayati</li></a>
+    <a href="#snh"><li>Sumberdaya Non Hayati</li></a>
+    <a href="#aps"><li>Aktivitas Pengelolaan Sumberdaya</li></a>
+    <a href="#ling"><li>Lingkungan</li></a>
+    <a href="#sp"><li>Sarana dan Prasarana</li></a>
+    <a href="#pi"><li>Peluang Investasi</li></a>
+    <a href="#pap"><li>Potensi Arahan Pengembangan</li></a>
+    <a href="#kp"><li>Kendala Pengembangan</li></a>
+	<a href="#rf"><li>Referensi</li></a>
+    </ul>
+    <a href="#fb_comn">KOMENTAR</a>
+</div>
+
+<br>
+			<a id="sf"></a></h2>
+			<div id="galleria">
+            <!--<div class='tengahin'><input type="button" value="Kembali Ke List" onclick="goBack()"></div>-->
+                            </div>
+            
+            <script>
+            Galleria.loadTheme('http://www.ppk-kp3k.kkp.go.id/direktori-pulau/galleria/themes/classic/galleria.classic.min.js');
+            Galleria.run('#galleria');
+            </script>
+</div>
+
+<div id="text_warp">
+
+
+<p><h1>Mare</h1></p>
+<table>
+<tr>
+	<td>Nama Lain</td> <td>:</td> <td></td>
+</tr>
+<tr>
+	<td>Propinsi</td> <td>:</td> <td>MALUKU UTARA</td>
+</tr>
+<tr>
+	<td>Kabupaten</td> <td>:</td> <td>KOTA TIDORE KEPULAUAN</td>
+</tr>
+<tr>
+	<td>Kecamatan</td> <td>:</td> <td></td>
+</tr>
+<tr>
+	<td>Koordinat</td> <td>:</td> <td><a href="http://www.ppk-kp3k.kkp.go.id/giskkp/index.html?extent="target="_blank">0° 34' 26.603</a></td>
+</tr>
+</table>
+<hr>
+
+<h2><a id="gu">Gambaran Umum</a></h2>
+<p><div class="readmore"><p>
+	<strong>Gambaran Umum</strong></p>
+<p style="margin-left: 21.3pt; text-align: justify;">
+	Pulau Mare merupakan pulau kecil berpenghuni, secara administrasi masuk ke dalan wilayah pemerintahan&nbsp; Kecamatan Tidore Selatan&nbsp; Kota Tidore Kepulauan. Di pulau ini terdapat dua desa, yakni Desa Marekofo dan Desa Maregam, untuk berhubungan antara Desa Marekofo dan Desa Maregam dilalui melalui transportasi laut, hal ini akibat kondisi topografi pulau yang berbukit dan terjal pada bibir pantainya. Penghuni Pulau Mare berasal dari Suku Tidore. Jarak geografis Pulau Tidore terletak sekitar 4 km&nbsp; di sebelah selatan Pulau Tidore dan&nbsp; status kepemilikan Pulau Mare adalah milik masyarakat. Pulau Mare merupakan pulau berbukit, hanya sebagian kecil saja yang dijumpai dataran rendah berlandai yang dimanfaatkan sebagai daerah pemukiman. Profil pantainya juga merupakan pantai bertebing bersubstrat batu, hanya sebagian kecil yang bersubstrat pasir. Pada salah satu ceruk di bagian timur pulau Mare, disebut masyarakat sebagai Kahia Masolo yang kurang lebih berarti teluk lumba- lumba. Disebut demikian karena, pada tempat tersebut merupakan tempat mamalia laut, lumba-lumba (dalam bahasa lokal disebut kahia) sering &ldquo;bermain&rdquo; dan mengeluarkan bunyi- bunyian.</p>
+<p style="margin-left: 21.3pt; text-align: justify;">
+	<strong>Aksesbilitas&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </strong></p>
+<p style="text-align: justify;">
+	Pulau Mare&nbsp; pada dasarnya relatif mudah di jangkau karena akses menuju Kota Tidore sebagai kota Tidore Kepulauan sudah cukup lancar. Untuk menjangkau kota Tidore dari Kota Ternate, dapat ditempuh dari pelabuhan Bastiong Ternate menuju Pulau Tidore dengan kapal regular dengan harga tiket perorang Rp. 10.000,- atau dapat juga disewa dengan harga Rp. 100.000,- perkapal/trip. Dari Tidore, lewat pelabuhan penyebarangan rakyat di Kelurahan Tomalou, dengan jalur penyebarangan regular dengan biaya Rp. 35.000 per orang, selain itu dapat juga dengan jalan menyewa perahu motor nelayan.</p>
+<p style="text-align: justify;">
+	<strong>Klimatologi</strong></p>
+<p style="margin-left: 21.3pt; text-align: justify;">
+	Iklim yang terdapat di Pulau Mare ini seperti umumnya daerah kepulauan beriklim tropis, dimana iklimnya sangat dipengaruhi oleh angin laut, curah hujan rata-rata kurang dari 2000 mm. Musim kemarau terjadi pada bulan Desember sampai Maret, sedangkan musim hujan pada bulan Mei sampai dengan Oktober yang disebabkan oleh angin musim tenggara. Musim pancaroba terjadi pada bulan April dan Desember.</p>
+<p style="margin-left: 21.3pt; text-align: justify;">
+	Suhu udara rata-rata bulanan berkisar antara 25<sup>o</sup>C sampai 26,6<sup>o</sup>C. Suhu udara rata-rata tertinggi terjadi pada bulan Desember dan terendah pada bulan Maret dan Juni. Kelembaban relatif udara rata-rata bulanan berkisar antara 80% hingga 90%. Kelembaban rata-rata tertinggi terjadi pada bulan Juni dan terendah pada bulan Juli Lama penyinaran matahari rata-rata bulanan berkisar antara 20% sampai 79%, dengan lama penyinaran tertinggi terjadi pada bulan Agustus dan terendah pada bulan September. Kecepatan angin rata-rata berkisar antara 11 km/jam dan 25 km/jam. Kecapatan angin tertinggi terjadi pada bulan Februari, dan terendah terjadi pada bulan November.</p>
+<p style="text-align: justify;">
+	Rata-rata curah hujan adalah 24.55 mm/tahun. Bulan Basah terjadi rata-rata 6-7 bulan per-tahun dan Bulan Lembab terjadi hanya 3-4 bulan. Rata-rata jumlah hari hujan pada stasiun penakar curah hujan di Kota Tidore Kepulauan adalah 7 &nbsp;hari.</p>
+<p style="text-align: justify;">
+	<strong>Oseanografi</strong></p>
+<ul>
+	<li style="text-align: justify;">
+		Gelombang</li>
+</ul>
+<p style="margin-left: 21.3pt; text-align: justify;">
+	Pada bulan-bulan Desember sampai Maret yakni pada musim Barat tinggi ombak mencapai 1,8 - 2 m dengan periode gelombang 1,8 sampai 4 detik. Akibat hembusan angin musiman yang berganti setiap 6 bulan, maka pantai baru menerima hempasan ombak yang berubah-ubah sesuai dengan arah hembusan angin. Arah datang ombak umumnya pada musim timur berasal dari arah barat daya sedangkan pada musim Barat arah datang ombak umumnya dari arah Barat, dimana ombak banyak terpengaruh dorongan masa air laut Maluku. &nbsp;Tinggi gelombang yang dibangkitkan oleh angin berkisar 0.7 &ndash; 3.6 m. Tinggi gelombang tersebut rata-rata pecah pada kedalaman laut antara 1 - 3 meter.</p>
+<ul>
+	<li style="text-align: justify;">
+		Pasang Surut</li>
+</ul>
+<p style="margin-left: 21.3pt; text-align: justify;">
+	Pola pasut perairan yang berkembang di sekitar Pulau umumnya berpola semidiurnal condong keharian ganda (mixed tide prevailing semidiurnal). Nilai tunggang air pasang surut pasang purnama (spring tide), pada air tinggi rata-rata pasang (MHHWS) sebesar 180,5 cm atau sebesar 81 cm di atas MSL dan air rendah pada rata-rata surut (MLLWS) adalah 18,5 cm atau &ndash;81 cm di bawah MSL. Untuk nilai tunggang air pasang surut pada saat pasang perbani (neap tide), air tinggi rata-rata pasang (MHHWN) sebesar 100,5 cm atau sebesar 1 cm di atas MSL sedang untuk air rendah pada rata-rata surut (MLLWN) sebesar 98,5 cm atau &ndash;1 cm di bawah MSL. Untuk nilai Air tinggi tertinggi pada pasang besar (HAT) adalah 140 cm atau 41 di atas MSL dan nilai air rendah terendah pada surut besar (LAT) adalah -52,5 cm atau &ndash;152 di bawah MSL.</p>
+<ul>
+	<li style="text-align: justify;">
+		Arus</li>
+</ul>
+<p style="margin-left: 21.3pt; text-align: justify;">
+	Kecepatan arus di sekitar Pulau Mare menunjukkan kecepatan sesaat sebesar 0.16 m/dtk.</p>
+<p style="text-align: justify;">
+	<strong>Hidrologi</strong></p>
+<p style="text-align: justify;">
+	Air permukaan tidak ditemukan&nbsp; di Pulau Mare. Sedangkan sumber mata air yang ada di pulau ini memiliki sumur bersifat payau atau berasa asin sebagai sumber mata air yang digunakan oleh warga untuk kebutuhan sehari-hari seperti mandi dan cuci, sedangkan sebagai sumber air minum, penduduk pulau memanfaatkan Air hujan dan Sumur Bor yang dialirkan ke rumah-rumah penduduk atau PAM SIMAS.</p>
+<p style="text-align: justify;">
+	<strong>Keadaan Fisik Pulau</strong></p>
+<p style="margin-left: 21.3pt; text-align: justify;">
+	<strong>Topografi dan Geomorfologi</strong></p>
+<p style="text-align: justify;">
+	Dilihat dari topografi maka pulau Mare memiliki topografi yang tajam yaitu berkisar antara 15 &ndash; 40 % dan bahkan sebagian &gt; 40 %. Kondisi datar sampai landai sudah dimanfaatkan untuk permukiman. Sementara kawasan kawasan dengan kemiringan lereng antara 25-40% diperuntukkan untuk lahan perkebunan dan pertanian (kebun, tegalan, ladang).</p>
+</div></p>
+
+<hr>
+
+<h2><a id="ksbk">Kependudukan, Sosial Budaya dan Kelembagaan</a></h2>
+<p><div class="readmore"><p style="text-align: justify;">
+	<strong>Kependudukan</strong></p>
+<p style="margin-left: 21.3pt; text-align: justify;">
+	Di pulau ini terdapat dua desa, yakni Desa Marekofo terdiri dari 2 RW dan 4 RT dan Desa Maregam yang terdiri dari 2 RW dan 2 RT, mata pencarian utama masyarakat penduduk adalah sebagai nelayan, petani dan pengrajin gerabah. Khususnya masyarakat Desa Maregam , kerajinan gerabahnya sangat dikenal. Walaupun berada di satu pulau yang sama, untuk berhubungan antara Desa Marekofo dan Desa Maregam dilalui melalui transportasi laut, hal ini akibat kondisi topografi pulau yang berbukit dan terjal pada bibir pantainya, dari 520 jiwa penduduk Desa Marekofo, sebanyak 80 orang bekerja sebagai nelayan, 111 orang sebagai petani yang umumnya adalah petani perkebunan. Sementara Desa Maregam, dari 502 jiwa penduduk, yang bekerja sebagai nelayan sebanyak 52 orang dan sebagai petani sebanyak 158 orang. Kerajinan gerabah merupakan &nbsp;pekerjaan sampingan yang umumnya ketrampilan tersebut dimiliki oleh seluruh masyarakat di Desa Maregam.</p>
+<p>
+	<strong>Sosial-Budaya, Ekonomi, dan Kelembagaan</strong></p>
+<p style="margin-left: 21.3pt; text-align: justify;">
+	Penduduk Pulau Mare umumnya berasal dari suku Tidore dan sebagian kecilnya dari etnis Makian, Ambon dan Bugis. Komposisi ini kemudian berpengaruh dalam pola interaksi penduduk keseharian yang pada umumnya menggunakan bahasa Tidore sebagai sarana komunikasi.&nbsp; Mata pencaharian penduduk pulau ini sebagian besar adalah nelayan penangkap ikan. nelayannya sudah mengenal teknologi dalam kegiatannya menangkap ikan.</p>
+<p style="text-align: justify;">
+	Tanahnya yang subur digunakan sebagai lahan menanam cengkeh dan rempah-rempah oleh penduduk pulau. Sambil menunggu masa panen tiba. Hasil panen&nbsp; di pulau ini biasanya di panggul dengan menggunakan soloi&nbsp; yang berupa anyaman bilah-bilah bambu. seperti juga mayoritas warga Maluku lain, warga Mare mengenal papeda sebagai makanan pokok mereka. Kuliner lokal ini berupa singkong atau sari pati ketela yang disiram dengan air bersuhu panas hingga mengental, mirip lem. Sajian ini lebih nikmat bila disantap dengan ikan. Meski sebagian besar warga Mare menganut agama Islam, ajaran animisme dan dinamisme masih mengakar. Warganya masih meyakini kekuatan dan keberadaan makhluk alam&nbsp; lain, yaitu jin. Jin-jin ini juga berperan dalam kehidupan mereka. Kekuatan para jin ini kerap bisa disaksikan dalam gelaran Badabus atau juga Tarekat.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="eshp">Ekosistem dan Sumberdaya Hayati</a></h2>
+<p><div class="readmore"><p style="text-align: justify;">
+	<strong>Ekosistem dan Sumberdaya Hayati Pesisir</strong></p>
+<h1 style="text-align: justify;">
+	a.Terumbu Karang</h1>
+<h1 style="text-align: justify;">
+	Keakaragaman Hayati Terumbu Karang</h1>
+<p style="text-align: justify;">
+	Terumbu karang di Pulau Mare memiliki potensi yang sangat besar untuk dikembangkan dalam sektor pariwisata terutamanya. Banyak spot atau lokasi yang sudah dikembangkan sebagai lokasi spot selam. Kondisi umum tutupan karang keras hidup (KKH) di Pulau Mare berkisar sedang hingga baik. Kondisi lingkungan perairan yakni visibiliti yang baik lebih dari 15 meter, dengan arus yang cukup tenang sangat membantu dalam pengambilan data, dan baik untuk penyelaman. Pengamatan kondisi substrat dasar dilakukan pada bagian utaradan selatan pulau.</p>
+<p style="margin-left: 21.3pt; text-align: justify;">
+	<strong>Selatan Pulau Mare</strong></p>
+<p style="text-align: justify;">
+	Pada bagian selatan Pulau Mare terdapat gosong yang timbul ke permukaan. Sebaran terumbu karang pada bagian gosong ditemukan pada kedalaman 12-15 meternamun menyusun spot-spot. Kondisi kontur perairan landai sampai kedalaman 6 meter dan terlihat patahan karang yang banyak. Pada kedalaman 6-10 meter merupakan tebing sedangkan pada kedalaman selebihnya terlihat landai, seperti membentuk tingkatan. Pengamatan substrat dasar dilakukan pada kedalaman 12 meter. Kondisi perairan cukup keruh namun ikan-ikan yang terlihat cukup banyak</p>
+<p style="margin-left: 21.3pt; text-align: justify;">
+	Persentase penutupan karang keras hidup (KKH) pada lokasi pengamatan ini cukup tinggi mencapai 64,90% namun masih termasuk dalam kriteria baik. Komposisi bentuk pertumbuhan karang yang cukup banyak ditemukan merupakan karang bercabang acropora (ACB). Penutupan substrat biotik yang ditemukan sangat sedikit sebesar 3,6%. Penutupan substrat karang mati dan abiotik cukup tinggi mencapai 19,6% dan 11,9% (Gambar 8).</p>
+<p style="text-align: justify;">
+	Bentuk kontur pada lokasi pengamatan ini cukup unik seperti bertingkat. Penutupan substrat dasar secara umum berbeda-beda pada tiap tingkatannya. Spot-spot karang pada transek pengamatan didominasi oleh karang bercabang dengan masif-masif kecil dan sedikit karang lembaran</p>
+<p style="margin-left: 21.3pt; text-align: justify;">
+	<strong>Timur Pulau Mare</strong></p>
+<p style="text-align: justify;">
+	Pulau Mare bagian timur memiliki perairan yang cukup keruh. Suspensi (material) terlarut cukup tinggi terlihat dengan kasat mata. Pesisir pantainya memiliki cukup banyak pohon mangrove. Perairan yang keruh membuktikan secara tidak langsung kandungan nutrien yang cukup tinggi kadarnya. Kandungan nutrien yang cukup tinggi dapat memicu pertumbuhan alga yang dapat menutupi permukaan karang dan berakibat hewan karang mati tertutup alga. Kondisi arus tidak begitu kuat namun jarak pandang di dalam kolom perairan tidak begitu baik. Patahan karang dan pasir menjadi substrat dominan yang terlihat. Pengamatan substrat dasar di bagian Timur Pulau Mare memperlihatkan penutupan substrat abiotik yang tinggi sebesar 57,38%. Hal ini sesuai dengan kenyataan saat pengamatan patahan karang yang cukup banyak serta pasir lumpur. Karang yang ditemukan berupa spot-spot, dengan penutupan karang keras hidup (KKH) hanya sebesar 5,48% dan termasuk dalam kriteria buruk. Penutupan biotik cukup tinggi sebesar 27,94% yang terdiri dari penutupan karang lunak dan sponge yang cukup banyak. Kompetisi ruang antara biotik dan KKH menjadi hal penurunan penutupan KKH di bagian timur pulau. Sedangkan penutupan karang mati yang ditemukan sebesar 9,2% Kandungan nutrien selain dapat memicu pertumbuhan alga, juga dapat memicu pertumbuhan karang lunak dan sponge sebagai kompetitor ruang bagi karang. Laju pertumbuhan karang lunak relatif lebih cepat daripada karang sehingga kemungkinan karang lunak dengan penutupan tinggi dapat terjadi. Begitupun dengan sponge yang dapat hidup dipermukaan karang dan menyebabkan kematian hewan karang dapat menjadi salah satu penyebab rendahnya penutupan karang keras hidup (KKH)</p>
+<p style="margin-left: 14.2pt; text-align: justify;">
+	<strong>Utara Pulau Mare</strong></p>
+<p style="text-align: justify;">
+	Substrat dasar perairan dibagian utara Pulau Mare memiliki penutupan karang lunak yang cukup luas pada kedalaman 3-7 meter. Pengambilan data dilakukan pada kedalaman 8 meter. Kondisi perairan cukup jernih dan arus yang tidak begitu kencang. Kontur dasar perairan berupa landai dengan pasir dan patahan karang yang terlihat menyebar pada lokasi pengamatan ini. Sebaran karang dapat ditemukan setelah kedalaman 8 meter lebih. Persentase penutupan substrat dasar di lokasi pengamatan ini tidak jauh berbeda dengan bagian timur pulau. Penutupan substrat biotik mencapai 41,1% dan merupakan yang paling tinggi di lokasi ini. Penutupan biotik oleh karang lunak sangat tinggi proporsinya mencapai 35% dari penutupan biotik. Pada penutupan substrat abiotik mencapai 32,5% dengan patahan karang yang sangat banyak. Karang mati sebesar 8,4% dan penutupan alga hanya 0,8%. Sedangkan penutupan KKH cukup rendah sebesar 17,2% dan termasuk dalam kriteria buruk walau tidak serendah pada bagian timur. Mayoritas bentuk pertumbuhan karang yang ditemukan adalah karang bercabang Acropora (ACB) dan karang-karang masif yang berukuran kecil Kandungan nutrien dalam perairan cukup berpengaruh dalam laju pertumbuhan karang lunak sebagai competitor ruang hidup bagi karang. Diduga nutrient pada bagian utara Pulau Mare membantu dalam peningkatan kelimpahan karang lunak. Kegiatan penangkapan yang merusak juga dapat menjadi pemicu rendahnya penutupan KKH</p>
+<h1 style="text-align: justify;">
+	Tingkat Kerusakan dan Penyebab Utama</h1>
+<p style="text-align: justify;">
+	Pulau Mare memiliki penduduk yang tinggal pada bagian utara,barat,dan timur. Aktivitas pesisir seperti aktivitas kapal lokal, pasar lokal, rumah tepi pantai cukup tinggi pada Pulau Mare. Keterkaitan antara masyarakat pesisir Pulau Mare dan kerusakan ekosistem terumbu karang merupakan hubungan yang erat.</p>
+<h1 style="text-align: justify;">
+	Status Kawasan</h1>
+<p style="margin-left: 21.3pt; text-align: justify;">
+	Pulau Mare telah diusulkan oleh pemerintah daerah yakni SK Bupati No. 72.2 Tahun 2012, sebagai kawasan konservasi perairan kepada Kementerian Kelautan Dan Perikanan, yang sebelumnya telah dikaji pada tahun 2011. selain terumbu karang yang bagus, keunikan lainnya yakni Pulau Mare merupakan tempat ruaya lumba lumba pada bagian Utara dan Selatan.</p>
+<h1 style="text-align: justify;">
+	Program yang berkaitan dengan kelestarian kawasan</h1>
+<p style="margin-left: 21.3pt; text-align: justify;">
+	Penyuluhan dan pendampingan terhadap masyarakat Pulau Mare oleh pemerintah daerah setempat sering dilakukan dalam upaya menjaga kelestarian terumbu karang. Program rehabilitasi terumbu karang telah dilakukan di beberapa spot di Pulau Mare.</p>
+<h1 style="text-align: justify;">
+	B. Ikan Karang</h1>
+<p style="margin-left: 21.3pt; text-align: justify;">
+	Hasil observasi di daerah Tenggara Pulau Mare didapatkan 56 jenis ikan yang termasuk ke dalam 15 famili, di daerah Timur 54 jenis ikan yang termasuk ke dalam 17 jenis ikan. Pada daerah di Utara jumlah jenis ikan yang didapat sebanyak 55 jenis yang termasuk ke dalam 17 famili.</p>
+<p style="text-align: justify;">
+	Selama pelaksanaan observasi di daerah Pulau Mare maka secara umum kondisi komunitas ikan karang dapat dikategorikan dalam kondisi yang sangat baik. Pendekatan kondisi ekologis ikan karang diketahui atau digambarkan dengan beberapa nilai indeks penduga seperti indeks keanekaragaman (H&rsquo;), keseragaman (E) dan dominansi (C).Indeks keanekaragaman jenis ikan karang dapat menggambarkan kekayaan dan sebaran kelimpahan jenis dalam komunitas ikan karang di daerah Pulau Mare.</p>
+<p style="margin-left: 21.3pt; text-align: justify;">
+	Nilai indeks keanekaragaman ikan karang di ekosistem terumbu karang di daerah Pulau Mare yang dianalisis dari ketiga daerah observasi yaitu Selatan, Timur dan Utara memiliki nilai yang tidak terlalu berbeda jauh. Nilai indeks keanekaragaman di Pulau Mare ini memiliki nilai 3,76 (Selatan), 3,73 (Timur) dan 3,79 (Utara). Nilai indeks ini memberikan informasi bahwa keanekaragaman ikan karang termasuk ke dalam kategori tinggi dan memiliki penyebaran yang tinggi pula serta kestabilan komunitas yang tinggi di pulau ini. Indeks keseragaman yang bernilai 0,93 di Selatan dan Timur serta 0,94 di daerah Utara menunjukkan bahwa komunitas di Pulau Mare ini dalam kondisi stabil. Sedangkan nilai indeks dominansi yaitu sebesar 0,03 di seluruh daerah Pulau Mare ini menunjukkan bahwa tingkat dominansi yang sangat rendah yang berarti tidak ada satu jenis ikan yang mendominasi perairan Pulau Mare.</p>
+<h1 style="text-align: justify;">
+	Selatan Pulau Mare</h1>
+<p style="text-align: justify;">
+	Jumlah famili ikan karang yang ditemukan selama pengamatan di daerah Selatan ada 15 famili.Famili-famili ikan tersebut terdiri 57 spesies. Labridae merupakan famili yang memiliki jenis ikan terbanyak yaitu 11 jeniskemudian secara berturut-turut famili Pomacentridae (9 jenis), Chaetodontidae (8 jenis), Acanthuridae(6 jenis), Scaridae (5 jenis), Caesionidae (3 jenis), Pomacanthidae (3 jenis) lalu masing-masing 2 jenis pada kelompok ikan Balistidae, Haemulidae, Lutjanidae, Mullidae, dan masing-masing 1 jenis dari kelompok ikan Fistulariidae, Nemipteridae, Siganidae dan Zanclidae. Komposisi jumlah dari banyaknya jumlah ikan yang ada di daerah Selatan Pulau Mare</p>
+<p style="margin-left: 21.3pt; text-align: justify;">
+	Kelimpahan total ikan karang yang ditemukan di Selatan Pulau Mare sebanyak 33560 ind/ha. Pomacentridae sebanyak 8520 ind/ha merupakan kelompok ikan yang mendominasi perairan ini, kemudian diikuti oleh kelompok ikan Caesionidae (Gambar 17) yang beberapa jenisnya merupakan kelompok ikan target sebanyak 6400 ind/ha dan kelompok ikan Acanthuridae (Gambar 18) sebanyak 3920 ind/ha. Ketiga kelompok ikan ini merupakan kelompok yang paling banyak ditemukan berada di perairan bagian Selatan Pulau Mare. Sedangkan yang paling sedikit jumlahnya ditemukan pada kelompok ikan Fistulariidae sebanyak 80 ind/ha.</p>
+<p style="margin-left: 21.3pt; text-align: justify;">
+	Jenis-jenis ikan target yang ditemukan di bagian Selatanperairandapat dilihat pada grafik dibawah ini. Dari gambar tersebut, bisa kita lihat hasil analisa biomassa di perairan Selatan Pulau Mare. Famili Caesionidae memiliki biomassa rata-rata tertinggi di daerah ini yaitu spesies <em>Pterocaesio tile</em>yang tercatat sebesar 671,19kg/ha, <em>Caesio </em><em>teres</em>548,47kg/ha dan <em>Caesio lunaris</em>457,06 kh/ha. Biomassa terkecil untuk ikan target teranalisa pada famili Lutjanidae yaitu <em>Lutjanus semicinctus </em>61,10 kg/ha.</p>
+<p style="margin-left: 21.3pt; text-align: justify;">
+	Pada daerah di perairan ini, jenis ikan yang dianalisis biomassanya adalah ikan target yang terdiri dari beberapa spesies dari kelompok famili Caesionidae, Haemulidae, Lutjanidae, Scaridae dan Serranidae. Jenis-jenis ikan target ini yang merupakan target nelayan untuk ditangkap memiliki harga jual yang variatif antara Rp.20.000-25.000 per kg tergantung dari jenis ikan tersebut dan jumlah keberadaan ikan target tersebut.</p>
+<h1 style="text-align: justify;">
+	Timur Pulau Mare</h1>
+<p style="text-align: justify;">
+	Jumlah famili ikan karang yang ditemukan selama pengamatan di daerah Timur ada 17 famili.Famili-famili ikan tersebut terdiri 55 spesies. Labridae dan Chaetodontidae (Gambar 20) merupakan famili yang memiliki jenis ikan terbanyak yaitu 10 jeniskemudian secara berturut-turut famili Pomacentridae (8 jenis),Acanthuridae (6 jenis), Caesionidae, Pomacanthidae dan Serranidae sebanyak 3 jenis lalu masing-masing 2 jenis pada kelompok ikan Balistidae dan Scaridae, dan masing-masing 1 jenis dari kelompok ikan Carcharhinidae, Fistulariidae, Lutjanidae, Mullidae, Nemipteridae, Ostraciidae, Siganidae dan Zanclidae. Komposisi jumlah dari banyaknya jumlah ikan yang ada di daerah Timur Pulau Mare. Kelimpahan total ikan karang yang ditemukan di Timur Pulau Mare sebanyak 29600 ind/ha. Pomacentridae sebanyak 7520 ind/ha merupakan kelompok ikan yang mendominasi perairan ini, kemudian diikuti oleh kelompok ikan Caesionidae yang beberapa jenisnya merupakan kelompok ikan target sebanyak 5440 ind/ha. Sedangkan yang paling sedikit jumlahnya ditemukan pada kelompok ikan Carcharhinidae (Gambar 22) sebanyak 40 ind/ha, kelompok ikan ini yang dikenal dalam Bahasa Indonesia adalah ikan hiu merupakan ikan yang dilindungi</p>
+<p style="margin-left: 21.3pt; text-align: justify;">
+	Jenis-jenis ikan target yang ditemukan di bagian Timurperairandapat dilihat pada grafikdibawah ini. Dari gambar tersebut, bisa dilihat hasil analisa biomassa di perairan Timur Pulau Mare.Famili Caesionidae memiliki biomassa rata-rata tertinggi di daerah ini yaitu spesies <em>Caesio teres </em>sebesar 594,17 kg/ha, <em>Pterocaesio tile</em>yang tercatat sebesar 548,47kg/ha dan<em>Caesio </em><em>cunning</em>411,35kg/ha. Biomassa terkecil untuk ikan target teranalisa pada famili Serranidae yaitu <em>Cephalopholis spiloparaea </em>23,03 kg/ha.</p>
+<h1 style="text-align: justify;">
+	Utara Pulau Mare</h1>
+<p style="text-align: justify;">
+	Jumlah famili ikan karang yang ditemukan selama pengamatan di daerah Utara ada 17 famili.Famili-famili ikan tersebut terdiri 56 spesies. Chaetodontidae merupakan famili yang memiliki jenis ikan terbanyak yaitu 11 jeniskemudian secara berturut-turut famili Labridae (8 jenis), Pomacentridae (7 jenis),Acanthuridae(5 jenis), Balistidae (Gambar 24) dan Lutjanidae sebanyak 4 jenis, Pomacanthidae dan Scaridae masing-masing sebanyak 3 jenis kemudian Caesionidae dan Serranidae sebanyak 2 jenis, lalu masing-masing 1 jenis dari kelompok ikan Carangidae, Carcharhinidae, Haemulidae, Mullidae, Nemipteridae, Priacanthidae dan Zanclidae. Kelimpahan total ikan karang yang ditemukan di Utara Pulau Mare sebanyak 29880 ind/ha. Pomacentridae sebanyak 6440 ind/ha merupakan kelompok ikan yang mendominasi perairan ini, kemudian diikuti oleh kelompok ikan Acanthuridae sebanyak 4320 ind/ha. Dari ketiga daerah pengamatan hanya di daerah pengamatan Utara Pulau Mare kelompok ikan target memiliki kepadatan yang lebih sedikit dibandingkan kedua daerah pengamatan lainnya. Sedangkan yang paling sedikit jumlahnya ditemukan pada kelompok ikan Carcharhinidae (Gambar 26) sebanyak 80 ind/ha, kelompok ikan ini yang dikenal dalam Bahasa Indonesia adalah ikan hiu merupakan ikan yang dilindungi. Jenis hiu yang ditemukan adalah <em>Carcharhinus melanopterus</em>, jenis tersebut sama dengan yang ditemukan pada daerah pengamatan Timur Pulau Mare.</p>
+<p style="margin-left: 21.3pt; text-align: justify;">
+	Jenis-jenis ikan target yang ditemukan di bagian Utaraperairandapat dilihat pada grafikdi atas. Dari gambar tersebut, bisa kita lihat hasil analisa biomassa di perairan Utara Pulau Mare.Famili Carangidae yang hanya terdiri atas 1 jenis ikan saja memiliki biomassa rata-rata tertinggi di daerah ini yaitu spesies <em>Carangoides orthogrammus </em>sebesar 811,28 kg/ha kemudian dari kelomok ikan Caesionidae yaitu jenis <em>Pterocaesio tile</em>yang tercatat sebesar 548,47kg/ha dandari famili Scaride yaitu <em>Scarus flavipectoralis</em>460,95kg/ha. Biomassa terkecil untuk ikan target teranalisa pada famili Serranidae yaitu <em>Epinephelus cyanopodus </em>40,98 kg/ha.</p>
+<h1 style="text-align: justify;">
+	C. Ekosistem Lamun</h1>
+<p style="text-align: justify;">
+	Pengamatan dilakukan pada 2 stasiun yakni desa Mare Kofo (Stasiun I) dan Mare Gam (Stasiun II) serta masing-masing stasiun terdiri atas 7 substasiun. Untuk mengetahui keragaman jenis, komposisi, kerapatan dan zonasi lamun dilakukan pengambilan sampel dengan metode transek garis berdasarkan petunjuk English et al (1994), sedangkan nilai penutupan lamun dilakukan berdasarkan petunjuk McKenzi (2003). Transek garis ditarik pada setiap stasiun dengan posisi tegak lurus dari garis pantai menuju ke pantai sepanjang 100 m dan setiap transek memiliki jarak 25 meter. Penempatan jumlah transek dilakukan didasarkan oleh pertimbangan kondisi dan distribusi lamun dilapangan, sehingga terdapat modifikasi jumlah transek yang diletakkan.Selama pengamatan yang dilakukan di stasiun I tercatat empat jenis spesies lamun di wilayah perairan Mare Kofo dan diantara empat jenis spesies yang ditemukan dua diantaranya merupakan suku Potamogetonaceae, yaitu <em>Cymodocea rotundata</em> dan <em>Holodule pinifolia</em>, sedangkan satu jenis lagi berasal dari suku Hydrocharitaceae, yaitu <em>Thalassia hemprichii</em> dan <em>Enhalus acoroides</em>. Komposisi jenis lamun di Pulau Mare ditampilkan pada Tabel 8. Hal ini sesuai dengan pernyataan Nienhuis (1989) yang mengatakan bahwa di seluruh Kepulauan Indonesia padang lamun campuran terdiri tujuh jenis relatif umum terjadi. Perbedaan jumlah jenis untuk setiap substasiun kemungkinan disebabkan oleh adanya perbedaan karakteristik habitat.Selain itu stasiun ini memiliki kedalaman yang rendah dan hal ini sangat mendukung keberadaan dari lamun karena sangat terkait dengan penetrasi cahaya yang dibutuhkan oleh lamun dalam proses fotosintesis.Hasil analisis menunjukkan bahwa kepadatan jenis lamun tertinggi yang tedapat pada Stasiun I diperoleh jenis lamun <em>Enhalus acoroides </em>dengan kisaran kepadatan794 ind/m<sup>2</sup>, kemudian <em>Thalassia hemprichii</em> yang mencapai 399,2ind/m<sup>2</sup>, <em>Holodule pinifolia</em> dengan nilai kepadatan 301,6 ind/m<sup>2 </sup>,disusul oleh dan nilai kepadatan terendah pada Stasiun I mencapai 179,6 ind/m2 oleh jenis lamun <em>Cymodocea rotundata </em>(Tabel 15). Secara umum nilai kerapatan jenis lamun pada Stasiun I ditampilkan pada Gambar 29. Pola distribusi dan kehadiran jenis <em>Cymodocea rotundata</em> pada Stasiun I yang jarang menjadi penyebab rendahnya nilai kerapatan total di wilayah ini. <em>Tingginya</em> kerapatan <em>Enhalus acoroides </em>di Stasiun I sangat terkait dengan karakteristik habitat seperti kedalaman dan jenis substrat yang sangat mendukung untuk pertumbuhan dan keberadaan lamun.Hasil dari pengamatan menunjukkan Stasiun I memiliki karakter habitat substrat dengan kandungan pasir halus. Jenis lamun <em>Thalassia hemprichii</em> dan <em>Holodule pinifolia</em> juga tumbuh dengan baik dan membentuk komunitas campuran yang berasosiasi dengan beberapa jenis alga, seperti alga hijau dan alga coklat.Menurut Tomascik et al (1997) sedimen yang haluspersentase bahan organik lebih tinggi dari pada sedimen kasar. Tingginya kandungan bahan organik dalam substrat sangat menunjang proses pertumbuhan dari lamun.Persen penutupan lamun menggambarkan luas daerah yang tertutupi oleh lamun. Hasil persentase penutupan lamun di Stasiun I ditampilkan pada Gambar 30. Persen penutupan lamun tertinggi sebesar 47% dan terendah sebesar 11%. Tingginya persen penutupan lamun di Stasiun I dipengaruhi oleh tingginya kerapatan jenis lamun pada stasiun ini. Tingginya kerapatan jenis lamun <em>Enhalus acoroides </em>menjadi alasan mengapa persen penutupan lamun ini di Stasiun I menjadi lebih tinggi dibandingkan dengan jenis lamun lainnya. Perhitungan untuk mendapatkan nilai persentase penutupan total lamun untuk suatu stasiun dilakukan dengan menjumlahkan nilai-nilai persentase penutupan jenis untuk masing-masing lamun pada setiap stasiun. Hal ini dilakukan sebagai bentuk pendekatan untuk menduga seberapa besar penutupan untuk seluruh jenis pada stasiun tertentu.Tingginya persen penutupan tidak selamanya linear dengan tingginya jumlah jenis maupun tingginya kerapatan jenis karena pada penutupan yang dilihat adalah lebar helaian daun sedangkan pada kerapatan jenis yang dilihat adalah jumlah tegakan lamun. Lebar helain daun sangat berpengaruh pada penutupan substrat, makin lebar helaian daun dari jenis lamun tertentu maka kemampuan untuk menutupi substrat semakin besar</p>
+<p style="margin-left: 21.3pt; text-align: justify;">
+	bahwa ada dua jenis lamun yang ditemukan secara meluas di Stasiun II yaitu <em>T. hemprichii, E. acoroides</em>dan <em>C. rotundata </em>yang tumbuh pada substrat pasir dan patahan karang mati<strong>, </strong>terbuka saat surut, jauh dari pantai dan selalu digenangi air. Jenis ini ditemukan hampir di seluruh perairan Indonesia, seringkali mendominasi vegetasi campuran dengan sebaran vertikal dapat mencapai 25 m serta dapat tumbuh pada berbagai jenis substrat mulai dari pasir lumpur, pasir berukuran sedang dan kasar sampai pecahan-pecahan karang.menunjukkan kepadatan lamun untuk masing-masing jenis, berkisar antara 47-678,8Ind/m<sup>2</sup>. Kepadatan tertinggi adalah jenis <em>Thalassia hemprichii</em> (678,8 Ind/m<sup>2</sup>), kemudian <em>Enhalus acoroides</em> (677,6 Ind/m<sup>2</sup>) dan terendah<em>Cymodocea rotundata</em>(47,6 Ind/m<sup>2</sup>). Tingginya kerapatan di Stasiun II (Mare Gam)dikarenakan kurangnya gangguan dan Secara keseluruhan tutupan lamun berkisar antara 4-48 % yang didominasi oleh jenis <em>T. hemprichii </em>dan <em>E. acoroides, </em>kecuali hanya jenis lamun <em>Cymodocea rotundata</em> dengan persen tutupan yang kecil berkisar <em>yakni</em> 4% (Gambar 32). Jenis <em>Thalassia hemprichii </em>dan <em>Enhalus acoroides </em>yang ditemukan hampir merata pada semua lokasi, karena di Stasiun II tersebut merupakan daerah subtidal yang dangkal dan jenis ini memiliki toleransi tertinggi untuk berkembang. Rendahnya persentase tutupan <em>Cymodocea rotundata </em>diakibatkan keadaan substrak yang tidak mendukung frekuensi kemunculan ataupun kehadirannya pada lokasi ini.</p>
+<p style="margin-left: 21.25pt; text-align: justify;">
+	Berdasarkan hasil yang ditemukan pada stasiun I dan II di atas, dapat dikatakan bahwa sumberdaya lamun di perairan Pulau Mare cukup baik. Walaupun demikian, dengan melihat kurangnya informasi, pemahaman terhadap manfaat dan peran penting ekosistem lamun dikawatirkan akan terjadi tekanan tehadap ekosistem lamun seperti kerusakan dan pembangunan talut dsb.</p>
+<p style="margin-left: 21.25pt; text-align: justify;">
+	Ekosistem padang lamun memberikan habitat bagi berbagai organisme baik makorganisme dan mikroorganisme laut. Kelimpahan dan keanekaragaman organisme yang hidup di padang lamun umumnya tinggi dibanding dengan dengan habitat lain. Salah satu faktor ketertarikan organisme untuk menetap di lingkungan tersebut adalah padang lamun tergolong habitat yang produktif, sehingga mampu menyediakan makanan untuk kelangsungan hidup organisme yang berasosiasi.Selain itu padang lamun merupakan ekosistem yang tinggi produktivitas organik, dengan biota laut yang sangat beragam, seperti crustacea, mollusca, echinodermata dan cacing (polychaeta). Hasil pengamatan memperlihatkan bahwa terjadi asosiasi antara lamun dengan beberapa jenis organisme pantai seperti alga hijau, alga coklat, ikan, bulu babi, gastropoda dan teripang.</p>
+<p style="margin-left: 21.3pt; text-align: justify;">
+	Gastropoda di padang lamun hidup pada substrat dengan cara menggali, terkadang juga berada dipermukaan substrat, ataupun menempel pada rhizoma, akar dan daun lamun, seperti pada species <em>Euchelus </em>sp<em>. </em>dan <em>Columbella versicolor </em>umumnya ditemukan hidup menempel pada daun lamun <em>Enhalusacoroides, Thalassia hemprichii, </em>dan <em>Cymodocea rotundata</em><em>. </em>Kelimpahan organisme laut sangat ditentukan oleh faktor-faktor lingkungan. Dalam hidupnya organisme membutuhkan suatu lingkungan pendukung yang sesuai dengan sifat biologinya. Kepadatan padang lamun akan meningkatkan kelimpahan organisme yang hidup di dalamnya karena semakin bertambahnya seperti sarana fisik sebagai tempat hidup, sedimen yang stabil, sumber bahan makanan dan sarana berlindung dari pemangsa.</p>
+<h1 style="text-align: justify;">
+	D. Ekosistem Mangrove</h1>
+<p style="margin-left: 21.3pt; text-align: justify;">
+	Salah satu ekosistem utama di wilayah pesisir dan lautan adalah ekosistem hutan mangrove. Hutan mangrove merupakan ekosistem utama pendukung kehidupan yang penting di wilayah pesisir pantai dan lautan. Selain itu mempunyai fungsi ekologis sebagai penyediaan nutrien bagi biota perairan, tempat pemijahan dan asuhan bagi bermacam-macam biota penahan abrasi, amukan angin topan, tsunami, penyerapan limbah, intrusi air laut dan lain-lain. Hutan mangrove di Pulau Mare masih memiliki tingkat ketebalan yang tinggi terutama di bagian selatan Pulau Mare. Secara umum ekosistem mangrove tumbuh dan berkembang di pesisir Pulau Mare yang didukung oleh substrat pasir berlumpur.</p>
+<p style="margin-left: 21.3pt; text-align: justify;">
+	Pengamatan ekosistem mangrove sendiri terbagi atas dua stasiun yakni Stasiun I pada Pulau Mare Selatan tepatnya di Desa Mare Kofo dan Stasiun II pada bagian Utara Pulau Mare yakni Desa Mare Gam.Teknik pengambilan data dengan menggunakan metode &ldquo;<em>line transect</em>&rdquo; dengan teknik transek ditarik tegak lurus dari garis pantai sepanjang 50 m sebanyak 3 transek, dengan jarak antara transek 20 m (Bengen, 2000). Untuk pengamatan vegetasi digunakan kuadranpada setiap transek dengan ukuran 10x10 meter yang penempatannya secara acak. Analisa data yang digunakan untuk menentukan kondisi hutan mangrove dengan menggunakan analisa kerapatan jenis, frekuensi jenis, luas areal penutupan, dan nilai penting jenis (Bengen, 2001).</p>
+<p style="text-align: justify;">
+	Hasil pengamatan dan analisis data diperoleh komposisi jenis mangrove berhasil diindentifikasi berdasarkan ciri morfologi seperti bentuk akar, daun, bunga dan kulit batang sebanyak 2 famili yaitu <em>Rhizophoraceae</em> dan <em>Sonneratiaceae </em>(Tabel 18). Jenis substrat pada kedua stasiun bervariasi yaitu substrat berlumpur dan pasir berlumpur dengan topografi perairan yang landai.Hasil pengukuran parameter lingkungan yang meliputi suhu, salinitas, pH air, pH tanah dan substrat di kedua lintasan menunjukkan kondisi yang masih ideal bagi vegetasi mangrove dalam menjaga peranan sebagai salah satu fungsi ekologis. Stasiun I diperoleh 3 jenis yaitu <em>Rhizophora apiculata, Rhizophora mucronata</em>dan <em>Sonneratia alba</em>, sedangkan untuk Stasiun II diperoleh 3 jenis/spesies tumbuhan mangrove yaitu <em>Rhizophora mucronata</em><em>, Rhizophora apiculata</em>dan <em>Sonneratia alba</em>. Data yang telah diperoleh dari setiap lintasan dan petak contoh/plot setiap stasiun dihitung berdasarkan kategori tingkatan pohon, anakan dan semaian (Tabel 20 dan 21). Berdasarkan pengamatan pada Stasiun I, terlihat bahwa jumlah total individu mangrove sebanyak 293 yang terbagi dalam kategori pohon sebanyak 65 individu, anakan sebanyak 115 individu dan semaian sebanyak 98 individu. Hasil pengamatan pada Stasiun II diperoleh jumlah total individu 200 yang terbagi dalam 35 kategori pohon, 67 anakan dan 98individu semaian. Pengukuran kategori pohon dengan diameter batang &gt; 4 cm, anakan berdiameter &lt; 4 cm dan tinggi &gt; 1 m, sedangkan semaian tinggi &lt; 1 m. Data yang telah diperoleh pada tiap-tiap plot contoh pada masing-masing lintasan baik pada Stasiun I maupun II, kemudian dianalisis untuk mengetahui kerapatan jenis, kerapatan relatif jenis, frekuensi jenis, frekuensi relatif jenis, penutupan jenis, penutupan relatif jenis dan nilai penting</p>
+<p style="margin-left: 21.3pt; text-align: justify;">
+	Hasil analisis data struktur vegetasi yang terdapat di Stasiun I diperoleh nilai kerapatan jenis relatif tertinggi untuk kategori pohon adalah jenis <em>Rhizopora apicullata</em> dengan nilai 0,16 ind/m<sup>2 </sup>diikuti oleh <em>Rhizopora mucronata </em>dengan nilai 0,12 ind/m<sup>2</sup>dan <em>Soneratia alba </em>dengan nilai 0,05 ind/m<sup>2</sup> (Tabel 22). Nilai frekuensi jenis tertinggi di Stasiun I diperoleh <em>Rhizophora apiculata </em>0,89 ind/m<sup>2</sup>dengan frekuensi relatif 38,10 %, <em>Soneratia alba </em>0,78 ind/m<sup>2</sup>dengan frekuensi relatif 33,33% dan diikuti oleh <em>Rhizopora mucronata </em>0,67 ind/m<sup>2</sup> dan frekuensi relatif 28,57 %. Nilai penutupan tertinggi di Stasiun I diperoleh <em>Soneratia alba, </em>sebesar 25,60 dengan nilai penutupan relatif sebesar 74,25%, setelah itu diikuti oleh <em>Rhizopora apicullata</em>dengan penutupan 6,33 dan tutupan relatif 18,36% dan yang terakhir adalah <em>Rhizopora mucronata </em>dengan penutupan 2,55 dan tutupan relatif 7,40%. Hasil analisis nilai penting menunjukan bahwa<em>Soneratia alba</em> memiliki pengaruh dan peran yang besar dalam komunitas vegetasi mangrove dengan nilai 123,96% kemudian diikuti oleh <em>Rhizopora apiculata</em>104,24% dan <em>Rhizopora macronata</em>71,80%.</p>
+<p style="margin-left: 21.25pt; text-align: justify;">
+	Hasil analisis data struktur vegetasi yang terdapat di Stasiun II diperoleh nilai kerapatan jenis relatif tertinggi untuk kategori pohon adalah jenis <em>Rhizopora apicullata</em> dengan nilai 0,14 ind/m<sup>2 </sup>diikuti oleh <em>Rhizopora mucronata </em>dengan nilai 0,11 ind/m<sup>2</sup>dan <em>Soneratia alba </em>dengan nilai 0,04 ind/m<sup>2</sup> (Tabel 23). Nilai frekuensi jenis tertinggi di Stasiun II diperoleh <em>Rhizophora apiculata </em>0,78 ind/m<sup>2</sup>dengan frekuensi relatif 38,89 %, <em>Soneratia alba </em>0,67 ind/m<sup>2</sup>dengan frekuensi relatif 33,33% dan diikuti oleh <em>Rhizopora mucronata </em>0,56 ind/m<sup>2</sup> dan frekuensi relatif 27,78%. Nilai penutupan tertinggi di Stasiun II diperoleh <em>Soneratia alba, </em>sebesar 22,6 dengan nilai penutupan relatif sebesar 76,22%, setelah itu diikuti oleh <em>Rhizopora apicullata</em>dengan penutupan 5,26 dan tutupan relatif 17,74% dan yang terakhir adalah <em>Rhizopora mucronata </em>dengan penutupan 1,79% dan tutupan relatif 6,04%. Hasil analisis nilai penting menunjukkan bahwa<em>Soneratia alba</em> memiliki pengaruh dan peran yang besar dalam komunitas vegetasi mangrove dengan nilai 122,91% kemudian diikuti oleh <em>Rhizopora apiculata</em>104,72% dan <em>Rhizopora macronata</em>72,36%.</p>
+<p style="margin-left: 21.3pt; text-align: justify;">
+	Pola zonasi mangrove berkaitan erat dengan faktor lingkungan seperti tipe tanah, keterbukaan terhadap hempasan gelombang, salinitas serta pengaruh pasang surut Zonasi di hutan mangrove tergantung pada keadaan tempat tumbuh spesifik yang berbeda dari satu tempat ke tempat lain. Zonasi juga menggambarkan tahapan suksesi yang terjadi sejalan dengan perubahan tempat tumbuh. Tempat tumbuh hutan mangrove memang selalu berubah akibat laju pengendapan (sedimentasi) dan pengikisan (abrasi). Sesuai dengan hasil pengamatan bahwa tipe zonasi hutan mangrove pada Stasiun I merupakan tipe zonasiberbeda-beda. Zonasi yang terbentuk pada Stasiun I, secara umum pada jarak 50 meter pertama menuju kearah daratan yang mendominasi adalah jenis <em>Rhizopora mucronata</em><em>,</em> kemudian jenis yang berasosiasi yaitu <em>Rhizophora apiculata</em> dan <em>Sonneratia alba. </em>Pada jarak 50 meter kedua didominasi oleh <em>Rhizophora apiculata</em>, sedangkan jenis yang berasosiasi adalah <em>Sonneratia alba </em>dan <em>Rhizopora mucronata</em>. Sedangkan pada jarak 50 meter yang ketiga yang mendominasi adalah <em>Sonneratia alba.</em></p>
+<p style="margin-left: 21.3pt; text-align: justify;">
+	Zonasi yang terbentuk pada Stasiun II, secara umum terlihat dari arah laut ke darat dimulai dari 50 meter pertama yang mendominasi adalah <em>Rhizophora apiculata</em>, dengan jenis yang berasosiasi yaitu <em>Sonneratia alba.</em> Pada jarak 50 meter kedua didominasi oleh<em>Sonneratia alba</em> dengan jenis yang berasosiasi yaitu <em>Rhizophora apiculata, Sonneratia alba, </em>dan <em>Avicennia alba</em>. Sedangkan pada jarak 50 meter ketiga menuju kearah daratan didominasi oleh <em>Avicennia alba </em>dan <em>Sonneratia alba,</em> dengan jenis yang berasosiasi adalah <em>Rhizophora apiculata</em>. Hasil pengamatan yang dilakukan untuk melihat asosiasi antara hutan mangrove dengan organisme, baik akuatik maupun teristerial serta hewan melatan diperoleh komposisi jenis organisme terdiri dari Moluska (kelas bivalvia, gastropoda), Echinodermata (kelas <em>Echinoidea, Asteroidea</em>), makrolaga (<em>Rhodophyta, Chlorophyta, Phaeophyta</em>). Menurut Kartawinata et al(1979) bahwa salah satu gastropoda yang mendominasi ekosistem hutan mangrove adalah dari famili Potamididae. Potamididae merupakan penghuni asli hutan mangrove dan mendominasi komunitas hutan mangrove. Kondisi lingkungan mendukung adanya kehadiran biota untuk asosiasi dengan hutan mangrove, selain itu substrat lumpur berpasir diketahui adalah sumber nutrien dan mineral sehingga biota-biota ini menjadikan tempat berlindung serta sumber makanan.</p>
+<h1 style="text-align: justify;">
+	E. Vegetasi Pantai</h1>
+<p style="margin-left: 21.3pt; text-align: justify;">
+	Kondisi vegetasi pantaidi Pulau Mare beraneka ragam yaitu pohon pantai, pohon mangrove dan pohon kelapa, sedangkan kondisi umum pantai Pulau Mare adalah mulai dari datar, landai, curam dan sangan curam dengan bentuk wilayah mulai bentuk pantai, teras berbukit dan pegunungan. Selain itu ditemukan pohon-pohon liar disepanjang pesisir Pulau Mare dan juga lahan perkebunan masyarakat.</p>
+<p style="margin-left:21.3pt;">
+	&nbsp;</p>
+</div></p>
+
+<hr>
+
+<h2><a id="snh">Sumberdaya Non Hayati</a></h2>
+<p><div class="readmore"><h1 style="text-align: justify;">
+	Sumber Daya Non-Hayati Pesisir</h1>
+<p style="margin-left: 21.3pt; text-align: justify;">
+	Dari hasil survey dan wawancara dengan masyarakat, dipulau ini tidak terdapat sumberdaya non hayati pesisir.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="aps">Aktivitas Pengelolaan Sumberdaya</a></h2>
+<p><div class="readmore"><p style="text-align: justify;">
+	<strong>Perikanan Tangkap</strong></p>
+<p style="margin-left: 21.25pt; text-align: justify;">
+	Aktivitas penangkapan ikan oleh penduduk Pulau Mare dilakukan di perairan sekitar Pulau Mare, yang&nbsp; umumnya&nbsp; masih dilakukan secara tradisonal dengan armada penangkapan berupa mesin tempel (katinting) atau kapal kayu (tidak bemesin) dengan alat tangkap berupa pancing, jaring dan rumpon.&nbsp; Selain itu ada salah satu teknik penangkapan ikan yang digunakan oleh nelayan Marekofo yang disebut dengan istilah <em>kalase</em> yaitu teknik penangkapannya dengan jalan melingkari jaring pada tempat penangkapan. Jaring yang telah dilingkari lalu ditarik oleh beberapa orang menuju perahu pengumpul. Di sekitar jaring juga dipasang daun kelapa yang digunakan untuk menepuk air agar ikan menjadi takut/terusik dan masuk ke dalam jaring. Untuk mengetahui jumlah dan posisi ikan biasanya ada nelayan yang melakukan penyelaman dengan bantuan kompresor. Jaring yang digunakan memiliki panjang 60 m dan lebar/kedalaman 11 m dengan mata jaring ukuran &frac12; inchi. Jenis ikan yang menjadi sasaran tangkap adalah ikan pelagis kecil. Nelayan yang menggunakan alat tangkap ini terdiri dari 4 unit kapal motor dengan jumlah anggota 35 orang per kapal. Hasil Tangkapan nelayan disekita pulau Mare yaitu Cakalang, tuna, dan ekor kuning yang dijual ke Tidore.</p>
+<p style="text-align: justify;">
+	<strong>Perikanan Budidaya</strong></p>
+<p style="margin-left: 21.3pt; text-align: justify;">
+	Aktivitas yang terkait denganperikanan &nbsp;budidaya di Pulau Mare hingga saat ini dilakukan oleh 1 orang di Desa Marekofo berupa budidaya tambak Bandeng berdampingan dengan ekosistem mangrove (silvikultur). Bibit bandeng didapatkan dari alam, Bandeng yang sudah besar dijual ke rumah makan yang terdapat di Tidore dengan harga Rp. 35.000,-per ekor.</p>
+<p style="text-align: justify;">
+	<strong>Pariwisata</strong></p>
+<p style="margin-left: 14.2pt; text-align: justify;">
+	Jenis wisata yang telah dikembangkan di Pulau Mare adalah wisata &nbsp;berbasis potensi yang dimiliki pulau ini yaitu wisata bahari yang meliputi wisata pantai (menikmati keindahan panorama alam), hamparan batu karang dimana pada bagian barat pulau terdapat bentangan batu yang merupai kelamin perempuan yang dinamai oleh penduduk setempat dengan nama <em>&ldquo;vagina stone&rdquo;</em> dan wisata renang.&nbsp; Wisata bahari lainnya yang telah dilakukan adalah wisata selam (diving) karena keindahan terumbu karangnya, dan berdasarkan informasi dari&nbsp; Dinas Kelautan dan Perikanan Kab. Tidore pada musim-musim tertentu juga dijumpai jenis paus yang melakukan migrasi juga ditemukan lumba-lumba.</p>
+<p style="text-align: justify;">
+	<strong>Aktivitas Pengelolaan Sumberdaya</strong></p>
+<p style="margin-left: 21.25pt; text-align: justify;">
+	<strong>Pertanian, Perkebunan dan Peternakan</strong></p>
+<p style="margin-left: 14.2pt; text-align: justify;">
+	Kondisi pertanian dan perkebunan di Pulau Mare berdasarkan hasil survey dilapangan yang dominan berupa kelapa, pala dan jambu mete. Buah kelapa dimanfaatkan oleh penduduk setempat untuk dijadikan kopra dengan harga jual dipasaran Tidore berkisar Rp. 6.500,- / kg, sedangkan untuk pala harga jual Rp. 85.000,-/kg. Selain itu juga ada kebun penduduk yang memanfaatkan pekarangan atau tegalan disekitar pemukiman, berupa ubi kayu, jagung,kacang-kacangan dan nangka untuk dikonsumsi sendiri oleh penduduk pulau, adapun aktivitas peternakan yang dilakukan oleh masyarakat di Pulau Mare umumnya dilakukan pada tingkat rumah tangga dengan skala kecil untuk dikonsumsi sendiri oleh penduduk pulau, yaitu ternak ayam, itik dan kambing.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="ling">Lingkungan</a></h2>
+<p><div class="readmore"><div>
+	<h1 style="text-align: justify;">
+		Kualitas Perairan</h1>
+	<p style="margin-left: 21.3pt; text-align: justify;">
+		Kondisi perairan Pulau Mare dapat di lihat pada parameter fisika dan kimia kualitas air (Tabel 1). Pada suhu di pulau Mare berkisar antara 28,5-29,5 <sup>0</sup>C. Derajat keasaman (pH) pada pulau ini memiliki nilai keasaman 7,0-7,4. Salinitasnya berkisar antara 28-29 &permil;. Kandungan oksigen terlarut (DO) memiliki kisaran 6,1-6,5 mg/l. sedangkan kandungan nutrien (nitrat, ortofosfat, amonia, dan silikat) memiliki nilai rata-rata yaitu 0,015 mg/l, 0,011mg/l, 0,221 mg/l, dan 0,308 mg/l.</p>
+	<p style="margin-left: 21.3pt; text-align: justify;">
+		Secara umum perairan Ternate dan sekitarnya menujukkan karakteristik masa air oseanik, yang terlihat dari tingginya nilai salinitas, pH, dan DO serta rendahnya suhu dan kandungan nutrient. Gordon (2005) menyampaikan bahwa sebaran konsentrasi oksigen terlarut (DO) di perairan Ternate dan sekitarnya menunjukkan bahwa pengaruh daratan terhadap perairan relatif kecil. Rendahnya konsumsi oksigen oleh proses dekomposisi material organik yang biasanya banyak berasal dari darat membuat konsentrasi oksigen terlarut yang ditemukan di perairan Ternate tinggi (&gt; 5 mg/l).</p>
+	<p style="margin-left: 21.3pt; text-align: justify;">
+		Kandungan nutrient (nitrat, ortofosfat, ammonia dan silikat) di Pulau Mare memiliki nilai yang rendah atau dibawah baku mutu yang ditetapkan. Menurut Afdal (2012) perairan Ternate dan sekitarnya dipengaruhi daratan yang sangat kecil sehingga perairan pesisir didominasi oleh massa air samudera yang mempunyai konsentrasi nutrien yang lebih rendah.</p>
+</div>
+<h2 style="text-align: justify;">
+	Kerentanan Bencana dan Upaya Mitigasi</h2>
+<p style="margin-left: 21.3pt; text-align: justify;">
+	Hasil identifikasi potensi bencana yang berpeluang terjadi terhadap Pulau Mare adalah sebagai berikut&nbsp; :</p>
+<ul>
+	<li style="text-align: justify;">
+		Tsunami dan Gempa</li>
+</ul>
+<p style="margin-left: 42.55pt; text-align: justify;">
+	Di Maluku Utara, tsunami sebagian besar disebabkan oleh gempa tektonik di sepanjang daerah subduksi dan daerah seismik aktif lainnya. Pada hakekatnya terjadinya tsunami di suatu wilayah merupakan ancaman terhadap wilayah pesisir dan PPK karena dapat mencakup wilayah yang luas.</p>
+<ul>
+	<li style="text-align: justify;">
+		Kenaikan paras air laut (kenaikan MSL)</li>
+</ul>
+<p style="margin-left: 42.55pt; text-align: justify;">
+	Kenaikan paras air laut merupakan dampak dari pencairan bongkahan es di daerah kutub akibat global warming.&nbsp; Tinggi rata-rata topografi Pulau berkisar antara 0-3 meter diatas permukaan laut.&nbsp; Hal ini berarti bahwa adanya kenaikan air laut yang belaku secara global ikut menjadi ancaman nyata terhadap Pulau Mare</p>
+<ul>
+	<li style="text-align: justify;">
+		Global warming atau kenaikan suhu merupakan bencana yang mengancam kehidupan laut khusunya terhadap kerusakan ekosistem terumbu karang karena ekosistem ini sangat rentan terhadap perubahan suhu.</li>
+	<li style="text-align: justify;">
+		Abrasi pantai merupakan ancaman terhadap pantai di Pulau Pantai karena substratnya umumnya di dominasi oleh substrat pasir.&nbsp;</li>
+	<li style="text-align: justify;">
+		Gelombang tinggi;</li>
+</ul>
+<p style="margin-left: 42.55pt; text-align: justify;">
+	Gelombang tinggi merupakan fenomena yang dapat terjadi jika terjadi kecepatan angin yang besar dan <em>fetch</em> yang besar pada suatu daerah/pulau.&nbsp; Pulau Mare berpeluang mendapatkan gelombang yang cukup tinggi karena posisi geografis pulau ini terletak di Laut Maluku dan mendapat pengaruh langsung dari Samudera Pasifik.</p>
+<h2 style="text-align: justify;">
+	Permasalahan Lingkungan</h2>
+<p style="margin-left: 21.25pt; text-align: justify;">
+	Berdasarkan Buku Putih Sanitasi Kota Tidore Kepulauan Tahun 2013, Pulau Mare tergolong dalam kategori 3 (kuning) area beresiko sanitasi. Kategori ini didasarkan pada prioritas penanganan sanitasi. Penyebab utama resiko ini alah sampah, limbah domestik, perilaku hidup bersih dan sehat serta air bersih.</p>
+<p style="margin-left: 21.25pt; text-align: justify;">
+	Secara garis besar permasalahan lingkungan diwilayah pesisir dan PPK dapat disebabkan oleh dua faktor yaitu faktor alami yang muncul karena fenomena alam dan faktor manusia yang muncul karena aktivitas manusia yang merusak lingkungannya baik yang berdampak secara langsung maupun tidak langsung.</p>
+<p style="text-align: justify;">
+	Beberapa ancaman permasalahan lingkungan yang dapat terjadi di Pulau Mare adalah pengaruh dari aktivitas di daratan Pulau Tidore karena jaraknya cukup dekat (4 km).&nbsp; Hal ini dapat berdampak secara langsung misalkan ditemukannya sebaran sampah disekitar pantai pulau ini yang terbawah arus dari pesisir daratan utama tersebut.&nbsp; Selain itu, potensi sebaran kekeruhan perairan akibat aktivitas sedimentasi di wilayah daratan Pulau Tidore yang pada akhirnya akan terbawah oleh aliran sungai yang mengarah ke wilayah pesisir.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="sp">Sarana dan Prasarana</a></h2>
+<p><div class="readmore"><p style="text-align: justify;">
+	<strong>Sarana-Prasarana</strong></p>
+<p style="text-align: justify;">
+	<strong>a. Sarana Kesehatan</strong></p>
+<p style="margin-left: 21.3pt; text-align: justify;">
+	Di Pulau Mare terdapat 2 (dua) unit puskesmas pembantu yaitu 1 di Desa Marekofo dan 1 di Desa Maregam dan 2 (dua) orang bidan masing-masing 1 disetiap Desa. Dengan demikian maka dapat dikatakan bahwa fasilitas kesehatan di pulau ini sudah mengalami peningkatan jika dibandingkan dengan pulau-pulau kecil lainnya.</p>
+<p style="text-align: justify;">
+	<strong>b. Sarana Pendidikan</strong></p>
+<p style="margin-left: 21.3pt; text-align: justify;">
+	Penduduk di pulau ini masih dominan tamat SD. Tingkat pendidikan yang masih relative rendah tersebut perlu membutuhkan perhatian yang serius. Adapun sarana pendidikan di Pulau Mare yaitu Desa Marekofo terdiri dari 1 (satu) PAUD, 1 (satu) unit SD dan 1 (satu) unit SMP. Sedangkan di Desa Maregam terdiri dari 1 (satu) unit&nbsp; SD dan 1 (satu) unit SMP.</p>
+<p style="text-align: justify;">
+	<strong>c. Sarana Ibadah</strong></p>
+<p style="text-align: justify;">
+	Agama yang dianut oleh penduduk di Pulau Mare adalah Islam. Di pulau ini telah terdapat 2 (dua) unit mesjid dan 2 (unit) musholla yang terdapat masing-masing satu di tiap Desa.</p>
+<p style="text-align: justify;">
+	<strong>d. Sarana Transportasi</strong></p>
+<p style="text-align: justify;">
+	Kondisi jalan di Pulau Mare merupakan jalan beton. Jalan beton yang ada di pulau ini merupakan bantuan dari pemerintah. Kondisi jalan tersebut saat ini tergolong baik dengan panjang jalan di Desa Marekofo sepanjang 450 m yang dibangun bantuan program PPIP tahun 2013 dan Desa Maregam sepanjang 500 m melalui program PNPM Mandiri tahun 2013</p>
+<p style="text-align: justify;">
+	Pulau Mare juga telah dilengkapi dengan 2 dermaga yang terdapat di masing-masing desa, yaitu Desa Marekofo di bangun pada tahun 2013 dan di Desa Maregam pada tahun pada tahun 2013 juga. Sedangkan jenis transportasi yang digunakan untuk menjangkau di Pulau ini adalah menggunakan jenis transportasi laut berupa speed boat atau kapal katinting milik warga yang terdapat disekitar pelabuhan Tomalou</p>
+<p style="text-align: justify;">
+	<strong>e. Sanitasi Lingkungan</strong></p>
+<p style="margin-left: 21.3pt; text-align: justify;">
+	Kondisi sanitasi lingkungan disekitar Pulau Mare masih perlu ditingkatkan lagi seperti menjaga kebersihan pantai. Hal ini penting dilakukan untuk mewujudkan pulau ini sebagai pulau sebagai tujuan wisata karena posisinya cukup dekat dengan Tidore. Air bersih yang berasal dari sumur sampai saat ini masih dapat memenuhi standar kelayakan kebutuhan masyarakat di pulau ini. Kondisi drainase dipulau sudah cukup bagus dan merupakan bantuan dari PNPM Mandiri &ndash; BLM Perkotaan Tahun 2012.</p>
+<p style="text-align: justify;">
+	<strong>f. Sarana Air Bersih</strong></p>
+<p style="text-align: justify;">
+	Kebutuhan air bersih untuk MCK di Pulau Mare diperoleh melalui sumur yang kualitas airnya jernih dan terasa payau dan sumur bor dengan kualitas jernih dan airnya tidak terasa payau yang dimanfaatkan oleh penduduk pulau untuk kebutuhan air minum.&nbsp; Selain sumur bor, untuk memenuhi kebutuhan air minum, ini juga terdapat air desalinasi merupakan bantuan dari Kementerian Kelautan dan Perikanan Tahun 2013, namun belum beroperasi karena belum ada serah terima barang dan belum selesainya pembangunan fisik pendukung..</p>
+<p style="text-align: justify;">
+	<strong>g. Sarana Penerangan</strong></p>
+<p style="text-align: justify;">
+	Sarana penerangan di Pulau Mare baik di Desa Marekofo ataupun Maregam adalah listrik yang berasal dari Pembangkit Listrik Tenaga Diesel yang beroperasi sekitar lima jam pada malam hari yaitu pada jam 18.00 sampai dengan jam 23.00, dengan iuran sebesar di Desa Marekofo sebesar Rp. 50.000 per rumah yang menghabiskan bahan bakar setiap malamnya sebanyak 25 liter dengan harga Rp. 7.000,-/ liter dan Desa Maregam sebesar Rp. 70.000,- per rumah.</p>
+<p style="text-align: justify;">
+	<strong>h. Sarana Pendukung Kepemerintahan </strong></p>
+<p style="margin-left: 21.3pt; text-align: justify;">
+	Sarana Pendukung Kepemerintahan di Pulau Mare untuk mewadahi kepentingan-kepentingan yang ada di masyarakat khususnya yang berhubungan dengan bangunan kepemerintahan berupa 2 kantor desa yaitu 1 di Desa Marekofo dan 1 di Desa Mare</p>
+<p style="text-align: justify;">
+	<strong>i. Alat Komunikasi dan Pendukung Lainnya</strong></p>
+<p style="margin-left: 21.3pt; text-align: justify;">
+	Alat komunikasi yang dapat digunakan di Pulau Mare adalah jaringan telepon seluler. Sarana jenis komunikasi ini sudah cukup efektif dalam melakukan komunikasi secara umum. Sedangkan untuk menangkap siaran televise penduduk pulau menggunakan antenna parabola atau TV kabel untuk menangkap chanel televisi. Sedangkan untuk memenuhi kebutuhan sehari-hari selain mendapatkan dari Pulau Tidore, di pulau ini juga terdapat warung-warung yang menyediakan kebutuhan pokok.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="pi">Peluang Investasi</a></h2>
+<p><div class="readmore"><p>
+	<strong>Peluang Investasi</strong></p>
+<p style="margin-left: 21.3pt; text-align: justify;">
+	Peluang investasi yang bisa dikembangkan di pulau ini antara lain perikanan budidaya melalui pengembangan sistem perikanan Silvikultur (ikan bandeng), mengingat sistem ini cocok dikembangkan karena luas lahan di pulau yang masih ada dan tidak merusak ekosistem mangrove. Peluang investasi lainnya yang bisa dikembangkan adalah industri rumah tangga berupa kerajinan gerabah yang dilakukan secara tradisional oleh penduduk secara turun temurun, namun demikian untuk mengembangkan industri ini perlu dukungan infrastruktur seperti listrik dan transportasi untuk memudahkan penjualan hasil gerabah ini.</p>
+<p style="text-align: justify;">
+	Selain itu,potensi lainnya yang bisa dikembangkan dari pulau ini adalah wisata bahari, dengan keindahaan alam pulau, didukung adanya pantai pasir putih, pengunjung juga bisa melihat keindahalan pulau-pulau sekitarnya seperti Pulau Giri, pulau Tidore dan lain-lainnya. selain itu dimusim-musim tertentu terdapat migrasi ikan paus dan lumba-lumba perairan sekitar Pulau Mare juga memberikan daya tarik tersendiri.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="pap">Potensi dan Arahan Pengembangan</a></h2>
+<p><div class="readmore"><p style="text-align: justify;">
+	<strong>Potensi Pengembangan Pulau</strong></p>
+<p style="margin-left: 21.3pt; text-align: justify;">
+	Pulau Mare merupakan suatu pulau yang sangat potensial jika pengembangannya dikelolah dengan baik.&nbsp; Beberapa potensi yang dimiliki yaitu :</p>
+<ol style="list-style-type:lower-alpha;">
+	<li style="text-align: justify;">
+		<strong>Potensi Wisata</strong></li>
+</ol>
+<p style="margin-left: 21.3pt; text-align: justify;">
+	Keunikan pulau dan Keindahan panorama alam di Pulau Mare merupakan modal utama yang dimiliki oleh pulau ini untuk dikembangnkan menjadi salah satu tujuan objek wisata di Maluku Utara khususnya di Kota Tidore Kepulauan.&nbsp;</p>
+<p style="margin-left: 21.3pt; text-align: justify;">
+	Bebeberapa&nbsp; potensi wisata yang dimiliki oleh Pulau Tagalaya antara lain :</p>
+<ul>
+	<li style="text-align: justify;">
+		<strong>Potensi Wisata Pantai dan Wisata Mangrove</strong></li>
+</ul>
+<p style="margin-left: 42.55pt; text-align: justify;">
+	Pulau Mare sangat potensial untuk pengembangan wisata pantai (rekreasi). Adapun daya tarik wisata pantai yant terdapat dipulau ini yaitu panorama alam/keindahan pantai, tempat berenang yang relatif terlindung dengan kualitas air yang baik, dan substrat pantai berpasir putih.&nbsp; Selain itu, Pulau Mare sangat potensial untuk dikembangkan&nbsp; sebagai kawasan wisata mangrove. Hal ini didukung oleh kondisi mangrove yang luas &nbsp;masih alami dengan jenis yang cukup tinggi serta aneka jenis burung dan biota lainnya (Gambar. 4.48).</p>
+<ul>
+	<li style="text-align: justify;">
+		<strong>Potensi Wisata Bahari (Snorkling dan Diving)</strong></li>
+</ul>
+<p style="margin-left: 42.55pt; text-align: justify;">
+	Potensi wisata bahari di Pulau Mare antara lain adalah wisata snorkeling dan wisata selam <em>(diving)</em>.&nbsp; Wisata snrokling di Pulau ini juga sangat potensial, hal ini disebabkan karena rataan perairan dangkal <em>(flat)</em> dengan tipe perairan yang cukup terlindung. Pulau ini memiliki pantai yang landai hingga agak landai tetapi setelah mencapai zona tepi tubir ada yang langsung drop off. Baik pada perairan dengan pantai yang landai maupun terjal, pengembangan kegiatan pariwisata bawah air (diving). Para Scuba Divers dengan jiwa petualang akan menggemari bagian pantai yang terjal seperti ini, karena dapat menuruni tebing curam sambil melihat keindahan panorama bawah laut dengan aneka macam ikan hias dan biota-biota laut lainnya yang ada.</p>
+<ol style="list-style-type:lower-alpha;">
+	<li style="text-align: justify;" value="2">
+		<strong>Potensi Perikanan Tangkap</strong></li>
+</ol>
+<p style="margin-left: 21.3pt; text-align: justify;">
+	Pengembangan perikanan tangkap di Pulau Mare sangat potensial dilakukan namun harus dilakukan dengan memperhitungkan keberlanjutan sumberdaya ikan melalui upaya-upaya penegkapan ikan yang ramah lingkungan.&nbsp; Pulau Mare yang secara geografis terletak pada posisi yang strategis merupakan wilayah area perikanan tangkap khususnya terhadap jenis ikan-ikan pelagis maupun ikan-ikan demersal.&nbsp;</p>
+<ol style="list-style-type:lower-alpha;">
+	<li style="text-align: justify;" value="3">
+		<strong>Potensi Budidaya Perikanan (Budidaya KJA)</strong></li>
+</ol>
+<p style="margin-left: 21.3pt; text-align: justify;">
+	Kondisi topografi dan geomorfologi Pulau Mare merupakan penunjang utama yang menyebabkan sehingga pulau ini menyimpan potensi untuk pengembangan budidaya perikanan.&nbsp; Perairan Pulau ini&nbsp; khusunya pada sisi bagian timur pulau ini potensial untuk dilakukan pengembangan budidaya perikanan dengan budidaya tambak bandeng dan metode KJA.</p>
+<ol style="list-style-type:lower-alpha;">
+	<li style="text-align: justify;" value="4">
+		<strong>Potensi Daerah Koservasi</strong></li>
+</ol>
+<p style="margin-left: 21.3pt; text-align: justify;">
+	Ekosistem di Pulau Mare dapat dikatakan cukup komplit karena memiliki tiga ekosistem utama wilayah pesisir dan pulau-pulau kecil yaitu ekosistem mangrove, ekosistem lamun dan ekosistem terumbu karang.&nbsp; Agar sumberdaya di pulau ini dapat berkelanjutan maka model pengelolaan yang ditetapkan harus mengutamatakan kelestarian lingkungan dan sumber daya yang terdapat didalamnya dimanfaatkan secara optimal untuk menunjang kesejahteraan dan kemakmuran masyarakat.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="kp">Kendala Pengembangan</a></h2>
+<p><div class="readmore"><p>
+	<strong>Kendala Pengembangan Pulau</strong></p>
+<p style="margin-left: 21.3pt; text-align: justify;">
+	Pulau Mare memiliki potensi yang sangat besar untuk sebuah kawasan wisata namun jika akan dilakukan pengembangan, hal ini tentu perlu dilakukan pengkajian sebagai upaya menjaga kelestarian sumberdaya yang ada. Kendala pengembangan pulau ini antara lain adalah :</p>
+<ol>
+	<li style="text-align: justify;">
+		Permasalahan sumberdaya listrik yang belum bisa menyala selama 24 jam, masyarakat meminta adanya bantuan tenaga listrik yang bisa menyala 24 jam. Sebab listrik merupakan kebutuhan utama masyarakat khususnya untuk perkantoran, sekolah dan home industri.</li>
+	<li style="text-align: justify;">
+		Sarana transportasi antar pulau yang masih sangat terbatas yaitu hanya ada kapal regular yang berangkat sekali dalam sehari saja menuju Kota Tidore.</li>
+	<li style="text-align: justify;">
+		Aksesibilitas dan jaringan jalan di pulau, sehingga 2 (dua) desa yang ada di Pulau Mare belum bisa terhubung melalui darat.</li>
+	<li style="text-align: justify;">
+		Masih sulitnya jaringan telekomunikasi yang ada di Pulau Mare.</li>
+	<li style="text-align: justify;">
+		Kesulitan mengenai dana juga menjadi kendala terpenting untuk melakukan budidaya atau keramba ikan&nbsp; dan untuk bercocok tanam atau bertani</li>
+	<li style="text-align: justify;">
+		Kendala lainnya seperti sarana air bersih dan kontur daerah yang berbukit dan berbatu. Sebagaimana telah diulas pada subbab sebelumnya yang menyebutkan bahwa Pulau Mare tidak terdapat sumber air tawar karena telah terjadi interusi air laut.</li>
+</ol>
+</div></p>
+
+<hr>
+
+<h2><a id="rf">Referensi</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<br />
+	<i> 
+		<p style="font-size:12px;">
+			Karena keterbatasan SDM dalam penginputan dan pengolahan data, kami mohon maaf atas ketidak lengkapan beberapa data pulau yang kami tampilkan, harap dimaklumi.
+			Berikan keritik dan saran pada kolom komentar agar kita dapat bersama menyajikan sebuah data yang cukup sempurna untuk halayak ramai yang berguna
+			demi kesejahterahan, kelestarian dan keindahan pulau-pulau kecil yang dimiliki Indonesia.<br />
+			*Jika sekiranya anda memiliki data yang cukup banyak, silakan mengirimkan file melalui email kami di <b><a>identifikasippk@gmail.com</a></b>
+			
+		</p>
+	</i>
+<br />
+
+<div id="fb_comn" class="fb-comments" data-href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_info/10730" data-width="800" data-numposts="5" data-colorscheme="light"></div>
+
+
+</div>
+</div>
+</div>
+<div id="wrapper">
+
+<div class="footer"><p>
+<!--<marquee onmouseover="this.stop()" onmouseout="this.start()" scrollamount="5" direction="right" width="798" height="14"  behavior="scroll">-->
+<a href="http://www.ppk-kp3k.kkp.go.id/" target="_blank">Direktorat Pendayagunaan Pulau-Pulau Kecil &nbsp; | &nbsp;</a>
+<a href="http://www.kp3k.kkp.go.id/" target="_blank">Ditjen Kelautan, Pesisir dan Pulau-Pulau Kecil &nbsp; | &nbsp;</a>
+<a href="http://www.kkp.go.id/" target="_blank">Kementerian Kelautan dan Perikanan</a>
+<!--</marquee>--> <br />
+Jl. Medan Merdeka Timur No. 16 Gedung Mina Bahari 3 Lantai 10, Jakarta, Indonesia <br />
+Email : identifikasippk@gmail.com <br />
+Telp &amp; Fax: (021) 3522058 <br />
+&copy; Copyright Direktorat Pendayagunaan Pulau-Pulau Kecil 2012&nbsp; <br /></p>
+</div>
+</div>
+</body>
+</html>
