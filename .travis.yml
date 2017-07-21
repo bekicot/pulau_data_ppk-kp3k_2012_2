@@ -1,5 +1,5 @@
 language: ruby
-
+dist: trusty
 rvm:
 - 2.4.1
 
@@ -8,7 +8,7 @@ install:
   - bundle install
 
 script:
-  - bundle exec ruby extract_contents_csv.rb -t -r
+  - ruby extract_contents_csv.rb -t -r
   - tar -czf result.tar.gz results
 
 deploy:

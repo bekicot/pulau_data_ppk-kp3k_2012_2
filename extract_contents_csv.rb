@@ -87,7 +87,6 @@ def rebuild_cache
   i = 0
   t_number = 0
   threads = []
-  mut = Mutex.new
   index_page.css('td a').each_slice(1000) do |links|
     threads << Thread.new do
       links.each do |link|
@@ -95,7 +94,7 @@ def rebuild_cache
         LOGGER.info("fetching #{i}..#{i + 100}") if (i+=1) % 100 == 0
         begin
           url = URI(link.attr('href'))
-          File.write("htmls/#{url.to_s.split('/').last}", Net::HTTP.get(url))
+          system "curl -so #{"htmls/#{url.to_s.split('/').last}"} #{url}"
         rescue Exception => e
           retry unless (tries -= 1 ).zero?
           LOGGER.error(e.message + " #{url.to_s}")
