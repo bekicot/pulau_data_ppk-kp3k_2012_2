@@ -28,7 +28,6 @@ ISLAND_INDEX_URL    = 'http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/p
 
 PROVINCE_NAME_INDEX = 3
 
-puts 'Initilizing logger'
 LOGGER = Logger.new(options[:logger] || 'logs')
 
 def parse_coordinate(coordinate_text)
@@ -86,18 +85,26 @@ def rebuild_cache
   index_page = Nokogiri::HTML(Net::HTTP.get(URI(ISLAND_INDEX_URL)))
   LOGGER.info('Fetching started')
   i = 0
-  index_page.css('td a').each do |link|
-    tries = 3
-    LOGGER.info("fetching #{i}..#{i + 100}") if i % 100 == 0
-    begin
-      url = URI(link.attr('href'))
-      File.write("htmls/#{url.to_s.split('/').last}", Net::HTTP.get(url))
-    rescue
-      retry unless (tries -1 ).zero?
-      LOGGER.error(e.message + " #{url.to_s}")
+  t_number = 0
+  threads = []
+  mut = Mutex.new
+  index_page.css('td a').each_slice(1000) do |links|
+    threads << Thread.new do
+      links.each do |link|
+        tries = 3
+        LOGGER.info("fetching #{i}..#{i + 100}") if (i+=1) % 100 == 0
+        begin
+          url = URI(link.attr('href'))
+          File.write("htmls/#{url.to_s.split('/').last}", Net::HTTP.get(url))
+        rescue Exception => e
+          retry unless (tries -= 1 ).zero?
+          LOGGER.error(e.message + " #{url.to_s}")
+        end
+      end
     end
-    i += 1
+    LOGGER.info "Thread #{t_number += 1} started"
   end
+  threads.each &:join
 end
 
 if options[:rebuild_cache]

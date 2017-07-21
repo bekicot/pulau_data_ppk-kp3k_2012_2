@@ -8,7 +8,7 @@ install:
   - bundle install
 
 script:
-  - bundle exec ruby extract_contents_csv.rb -t
+  - bundle exec ruby extract_contents_csv.rb -t -r
   - tar -czf result.tar.gz results
 
 deploy:
