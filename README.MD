@@ -1,12 +1,24 @@
-Before using this tool, make sure you have download all of the ppk page on http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_data with the id of the page (last path of url) as the name into htmls directory
+List of island in Indonesia as published by ppk-kp3k
 
-Usage
+## Usage
 ```
-ruby extract_contents_csv.rb
+ruby extract_contents_csv.rb -r
+```
+Without the `-r` arguments, it will reuse the html that has been cached in the system
+
+
+## Options
+```
+$ ruby extract_contents_csv.rb -h
+Parsing Arguments
+Usage: example.rb [options]
+    -r, --rebuild-cache              Rebuild html cache
+    -t, --travis                     Run as travis
+
 ```
 
-Output
+## Output Directory
 
 ```
-island_with_administrative_area.csv
+results
 ```

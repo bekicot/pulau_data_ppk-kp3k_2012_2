@@ -13,7 +13,7 @@ options = {}
 OptionParser.new do |opts|
   opts.banner = "Usage: example.rb [options]"
 
-  opts.on("-r", "--rebuild-cache", "Run verbosely") do |v|
+  opts.on("-r", "--rebuild-cache", "Rebuild html cache") do |v|
     options[:rebuild_cache] = v
   end
 
