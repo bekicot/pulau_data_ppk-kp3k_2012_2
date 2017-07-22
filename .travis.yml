@@ -11,6 +11,9 @@ script:
   - ruby extract_contents_csv.rb -t -r
   - tar -czf result.tar.gz results
 
+before_deploy:
+  - rm .travis.yml .gitignore Gemfile Gemfile.lock extract_contents_csv.rb island_with_administrative_area.csv
+
 deploy:
   - provider: releases
     api_key: $GITHUB_TOKEN
