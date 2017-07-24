@@ -1,4 +1,7 @@
-List of island in Indonesia as published by ppk-kp3k
+# Indonesian Island
+[![Build Status](https://travis-ci.org/bekicot/pulau_data_ppk-kp3k_2012_2.svg?branch=master)](https://travis-ci.org/bekicot/pulau_data_ppk-kp3k_2012_2)
+
+> List of island in Indonesia as published by ppk-kp3k
 
 ## Usage
 ```
