@@ -3,6 +3,9 @@
 
 > List of island in Indonesia as published by ppk-kp3k
 
+## Pre processed Dataset
+To retrieve the pre-processed Island, visit [With Data - Branch](https://github.com/bekicot/pulau_data_ppk-kp3k_2012_2/tree/with-data/results) or the [Release Page](https://github.com/bekicot/pulau_data_ppk-kp3k_2012_2/releases) to download the zipped data.
+
 ## Usage
 ```
 ruby extract_contents_csv.rb -r
