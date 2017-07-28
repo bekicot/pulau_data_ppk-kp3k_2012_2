@@ -13,6 +13,7 @@ script:
 
 before_deploy:
   - rm -f .travis.yml .gitignore Gemfile Gemfile.lock extract_contents_csv.rb island_with_administrative_area.csv
+  - sed '1d' results/* >> results/all.csv
 
 deploy:
   - provider: releases

@@ -63,6 +63,7 @@ def parse_coordinate(coordinate_text)
       -degree_to_decimal(coordinates_dirty[0])
     ]
   end
+  results[:coordinates_decimal][0] = results[:coordinates_decimal][0].abs
   results
 end
 
@@ -77,7 +78,9 @@ def degree_to_decimal(coordinate)
 end
 
 def clean_coordinate(coordinate="dan 980 30' 48\" BT\r\n")
-  coordinate.gsub(/\s/, '').gsub(' dan ', '').gsub('’', "'").gsub('o', '°')
+  coordinate.gsub('dan', '').strip.gsub(/\s/, '').gsub(' dan ', '').
+    gsub('’', "'").gsub('o', '°').delete(160.chr.force_encoding('iso-8859-1').
+    encode('utf-8')).delete(';').delete('&')
 end
 
 def rebuild_cache
@@ -162,13 +165,19 @@ ppk_htmls.each_with_index do |chunk, index|
           ppk_array[7] = ''
           begin
             decimal_coordinate = parse_coordinate(raw_coordinate)[:coordinates_decimal]
-            if decimal_coordinate[1] > 6 or decimal_coordinate[1] < -11.133333 \
+            if decimal_coordinate[1] > 7 or decimal_coordinate[1] < -11.133333 \
               or decimal_coordinate[0] < 85 or decimal_coordinate[0] > 141.75
-              LOGGER.error("#{html} di luar batas administrasi Indonesia")
+              LOGGER.error("#{ppk_array[8]} di luar batas administrasi Indonesia #{decimal_coordinate.reverse.join(',')}")
+              raise 'Diluar batas administrasi indonesia'
             end
             ppk_array[7] = decimal_coordinate.reverse.join(',')
-          rescue
+          rescue Exception => e
             ppk_array[6] = raw_coordinate
+            if e.message == 'Diluar batas administrasi indonesia'
+              LOGGER.error("cant parse coordinate on #{ppk_array[8]} (Out of Indonesia's border)")
+            else
+              LOGGER.error("cant parse coordinate on #{ppk_array[8]}")
+            end
           end
         end
       end
