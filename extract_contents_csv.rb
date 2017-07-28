@@ -132,6 +132,7 @@ ppk_htmls.each_with_index do |chunk, index|
         next
       end
       ppk_array[0] = html
+      ppk_array[8] = ISLAND_INFO_URL + html
       ppk_array[1] = nokogiri.css('h1').first.text
       table_contents.each do |content|
         properties = content.css('td')
@@ -160,7 +161,12 @@ ppk_htmls.each_with_index do |chunk, index|
           ppk_array[6] = ''
           ppk_array[7] = ''
           begin
-            ppk_array[7] = parse_coordinate(raw_coordinate)[:coordinates_decimal].reverse.join(',')
+            decimal_coordinate = parse_coordinate(raw_coordinate)[:coordinates_decimal]
+            if decimal_coordinate[1] > 6 or decimal_coordinate[1] < -11.133333 \
+              or decimal_coordinate[0] < 85 or decimal_coordinate[0] > 141.75
+              LOGGER.error("#{html} di luar batas administrasi Indonesia")
+            end
+            ppk_array[7] = decimal_coordinate.reverse.join(',')
           rescue
             ppk_array[6] = raw_coordinate
           end
@@ -190,7 +196,8 @@ results.each do |province_name, province|
         "Kabupaten",
         "Kecamatan",
         "Coordinate Degree",
-        "Coordinate Decimal"
+        "Coordinate Decimal",
+        "PPK URL"
       ]) do |csv|
     province.each do |island|
       csv << island
