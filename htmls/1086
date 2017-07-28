@@ -1,0 +1,564 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Pulau Ujungbatu</title>
+
+<meta charset="utf-8"/>
+
+<meta property="fb:app_id" content="559408774147878" />
+
+
+<meta property="og:title" content="Pulau Ujungbatu" />
+<meta property="og:url" content="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_info/1086" />
+
+
+    <script type="text/javascript" src="http://ajax.microsoft.com/ajax/jquery/jquery-1.4.4.min.js">
+    </script>
+    
+    <script type="text/javascript" src="http://plugins.learningjquery.com/expander/jquery.expander.js">
+    </script>
+    
+    <script type="text/javascript">
+        $(function () {
+            $('div.readmore').expander({
+                slicePoint:200,
+                expandText: '(Baca selengkapnya)',
+                userCollapseText: '(Sembunyikan selengkapnya)'
+            });
+        });
+    </script>
+        
+	<script src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/galleria/galleria-1.2.8.min.js"></script>
+
+        <SCRIPT TYPE="text/javascript">
+            <!--
+            //Disable right click script
+            //visit http://www.rainbow.arch.scriptmania.com/scripts/
+            var message="Sorry, right-click has been disabled";
+            ///////////////////////////////////
+            function clickIE() {if (document.all) {(message);return false;}}
+            function clickNS(e) {if
+            (document.layers||(document.getElementById&&!document.all)) {
+            if (e.which==2||e.which==3) {(message);return false;}}}
+            if (document.layers)
+            {document.captureEvents(Event.MOUSEDOWN);document.onmousedown=clickNS;}
+            else{document.onmouseup=clickNS;document.oncontextmenu=clickIE;}
+            document.oncontextmenu=new Function("return false")
+            // -->
+            </SCRIPT>
+            
+            <SCRIPT TYPE="text/javascript">
+            <!--
+            //Disable select-text script (IE4+, NS6+)
+            //visit http://www.rainbow.arch.scriptmania.com/scripts/
+            ///////////////////////////////////
+            function disableselect(e){
+            return false
+            }
+            function reEnable(){
+            return true
+            }
+            //if IE4+
+            document.onselectstart=new Function ("return false")
+            //if NS6
+            if (window.sidebar){
+            document.onmousedown=disableselect
+            document.onclick=reEnable
+            }
+            // -->
+            </SCRIPT>  
+              
+<link rel="stylesheet" type="text/css" href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/css/main.css" media="screen"/>
+<style type='text/css'>
+#info_wrap{
+	width:820px;
+	margin:0 auto;
+	text-shadow:0px 1px 1px #09F;
+}
+table{
+	color:#000000;
+}
+h1{
+	color:#000000;
+}
+.tengahin{
+	width: 105px;
+	height: 30px;
+	margin: 0 auto auto auto;
+}
+#box_view{
+	background-image:-webkit-gradient(linear, 0 0%, 0 100%, from(#FFFFFF), to(#E0F0F5));
+	background:#FFF;
+	color:#F60;
+	border: 1px solid #fff;
+	border-radius: 4px 4px 4px 4px;
+	box-shadow: 0 8px 6px -6px black;
+	position:fixed;
+	right:0;
+	top:150px;;
+	width:80px;
+	z-index:10;
+	padding-left:12px;
+	font-size:10px;
+	}
+#box_view li{
+	color:#F60;
+	margin-left:-30px;
+	}
+	#wrapper a b {
+	color: #FFF;
+	font-size:14px;
+}
+.batas{
+	float:left;
+	border-right-style:inset;
+	border-right-width:thin;
+	}
+.text_h_wrap{
+	
+	padding-left:450px;
+	padding-top:39px;
+	text-shadow:0px 1px 1px #09F;
+	}
+#wrapper .footer p{
+	font-size:12px;
+	color: #FFF;
+	text-align:center;
+	text-shadow:0px 1px 1px #09F;
+}
+td,th {
+	font-size: 12px;
+}
+
+marquee a{
+	color:#FFF
+	}
+#wrapper .footer a{
+	color: #FFFFFF;
+}
+</style>
+            
+<script>
+function goBack()
+  {
+  window.history.back()
+  }
+</script>
+<script type="text/javascript">
+function Popup( url, height, width )
+{
+    var windowProperties = "toolbar = 0, scrollbars = 1, location = 0, statusbar = 0, menubar = 0, resizable = 1, width = " + width + ", height = " + height + ", left = 50, top = 50";
+ 
+    return window.open( url, "", windowProperties );
+}
+</script>
+
+
+
+</head>
+<body oncontextmenu='return false;' onkeydown='return false;' onmousedown='return false;'>
+
+<a id="top_view"></a>
+<div id="wrapper">
+<div class="header_wrap">
+<div class="text_h_wrap">
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/home_page'><b>&nbsp;Home&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/menu_info/1'><b>&nbsp;About Us&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_data'><b>&nbsp;Direktori Pulau&nbsp;&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/program_ip'><b>&nbsp;IKU&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/data_ppkt'><b>&nbsp;PPKT&nbsp;</b></a>
+</div>
+<!--<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/maintenance'><b>&nbsp;Login&nbsp;</b></a>-->
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/dir_log_cont'><b>&nbsp;Login&nbsp;</b></a>
+
+</div>
+</div>
+</div>
+
+<div id="fb-root"></div>
+<script>
+  window.fbAsyncInit = function() {
+    // init the FB JS SDK
+    FB.init({
+      appId      : '559408774147878',                        // App ID from the app dashboard
+      status     : true,                                 // Check Facebook Login status
+      xfbml      : true                                  // Look for social plugins on the page
+    });
+
+    // Additional initialization code such as adding Event Listeners goes here
+  };
+
+  // Load the SDK asynchronously
+  (function(){
+     // If we've already installed the SDK, we're done
+     if (document.getElementById('facebook-jssdk')) {return;}
+
+     // Get the first script element, which we'll use to find the parent node
+     var firstScriptElement = document.getElementsByTagName('script')[0];
+
+     // Create a new script element and set its id
+     var facebookJS = document.createElement('script'); 
+     facebookJS.id = 'facebook-jssdk';
+
+     // Set the new script's source to the source of the Facebook JS SDK
+     facebookJS.src = '//connect.facebook.net/en_US/all.js';
+
+     // Insert the Facebook JS SDK into the DOM
+     firstScriptElement.parentNode.insertBefore(facebookJS, firstScriptElement);
+   }());
+</script>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=559408774147878";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="box_view">
+    <a href="#top_view">MENU</a>
+    <h3><p>Lihat Informasi:</p></h3>
+    <ul>
+	<a href="#sf"><li>Slide Foto</li></a>
+    <a href="#gu"><li>Gambaran Umum</li></a>
+    <a href="#ksbk"><li>Kependudukan, Sosial Budaya dan Kelembagaan</li></a>
+    <a href="#eshp"><li>Ekosistem dan Sumberdaya Hayati</li></a>
+    <a href="#snh"><li>Sumberdaya Non Hayati</li></a>
+    <a href="#aps"><li>Aktivitas Pengelolaan Sumberdaya</li></a>
+    <a href="#ling"><li>Lingkungan</li></a>
+    <a href="#sp"><li>Sarana dan Prasarana</li></a>
+    <a href="#pi"><li>Peluang Investasi</li></a>
+    <a href="#pap"><li>Potensi Arahan Pengembangan</li></a>
+    <a href="#kp"><li>Kendala Pengembangan</li></a>
+	<a href="#rf"><li>Referensi</li></a>
+    </ul>
+    <a href="#fb_comn">KOMENTAR</a>
+</div>
+
+<br>
+			<a id="sf"></a></h2>
+			<div id="galleria">
+            <!--<div class='tengahin'><input type="button" value="Kembali Ke List" onclick="goBack()"></div>-->
+                            </div>
+            
+            <script>
+            Galleria.loadTheme('http://www.ppk-kp3k.kkp.go.id/direktori-pulau/galleria/themes/classic/galleria.classic.min.js');
+            Galleria.run('#galleria');
+            </script>
+</div>
+
+<div id="text_warp">
+
+
+<p><h1>Ujungbatu</h1></p>
+<table>
+<tr>
+	<td>Nama Lain</td> <td>:</td> <td></td>
+</tr>
+<tr>
+	<td>Propinsi</td> <td>:</td> <td>ACEH</td>
+</tr>
+<tr>
+	<td>Kabupaten</td> <td>:</td> <td>KABUPATEN ACEH SINGKIL</td>
+</tr>
+<tr>
+	<td>Kecamatan</td> <td>:</td> <td></td>
+</tr>
+<tr>
+	<td>Koordinat</td> <td>:</td> <td><a href="http://www.ppk-kp3k.kkp.go.id/giskkp/index.html?extent="target="_blank">2° 20' 33.000” LU 97° 23' 58.000” BT</a></td>
+</tr>
+</table>
+<hr>
+
+<h2><a id="gu">Gambaran Umum</a></h2>
+<p><div class="readmore"><p style="text-align: justify;">
+	<span style="color:#ff0000;"><strong>GAMBARAN UMUM</strong></span></p>
+<p style="text-align: justify; margin-left: 40px;">
+	Kabupaten Aceh Singkil secara geografis terletak pada 02&deg;02&rsquo;- 03&deg;00&rsquo; LU dan 97&deg;04&rsquo;-98&deg;12&rsquo; BT dengan luas wilayah sekitar &plusmn; 7.964,64 km<sup>2</sup>, yang terdiri dari luas daratan 3.578,21 km <sup>2 </sup>dan luas perairan laut sebesar 3.367 km <sup>2. </sup>&nbsp;Wilayah Kabupaten Aceh Singkil terdiri dari daratan utama dan kepulauan. Di kepulauan inilah terdapat Kecamatan Pulau Banyak, yang terbagi menjadi dua yaitu Kecamatan Pulau Banyak yang beribukota di Pulau Balai (terdiri dari desa P. Balai, desa P. Baguk dan desa Teluk Nibung)&nbsp; dan Kecamatan Pulau Banyak Barat yang terbentuk pada 17 Agustus 2010, beribukota di Haloban (terdiri dari desa Haloban, Ujung Sialit, Asantola dan Suka Makmur).</p>
+<p style="text-align: justify; margin-left: 40px;">
+	Pulau terbesar di Kepulauan Banyak, Kecamatan Pulau Banyak ialah P. Tuangku, P. Bangkaru, dan P. Balai serta pulau-pulau kecil lain seperti P.&nbsp; Baguk, P. Tapus-Tapus, P. Panjang, P. Palambak Kecil dan sebagainya, termasuk di antaranya P. Ujungbatu. Menurut sejarah pulau ini diberi nama Pulau Ujungbatu karena pada sebelah barat pulau ini dijumpai banyak batu dan menjadi tempat istirahat para nelayan sehingga lama kelamaan diberi nama P. Ujungbatu.</p>
+<p style="margin-left: 40px; text-align: justify;">
+	Pulau Ujungbatu merupakan salah satu pulau di gugusan Kepulauan Banyak. Sebagai pulau non vulkanik pulau-pulau di gugusan Kepulauan Banyak dihasikan oleh pergerakan lempeng India dan Australia yang mengakibatkan kedua lempeng tersebut bertabrakan dan menghasilkan penunjaman yang membentuk rangkaian busur pulau depan (<em>forearch islands</em>) yang non-vulkanik (seperti: P. Simeulue, P. Banyak, P. Nias, P. Batu, P. Siberut hingga P. Enggano), rangkaian pegunungan Bukit Barisan dengan jalur vulkanik di tengahnya.</p>
+<p style="text-align: justify; margin-left: 40px;">
+	Secara administratif Pulau Ujungbatu terletak di Kecamatan Pulau Banyak, Kabupaten Aceh Singkil. Pulau Ujungbatu adalah salah satu pulau dari puluhan pulau yang menjadi bagian dari gugusan Kepulauan Banyak yang terletak di Kabupaten Aceh Singkil, Provinsi Aceh. Pulau Ujungbatu berada pada koordinat 97&deg; 22&#39; 32,01&quot;BT dan 2&deg; 19&#39; 31,01&quot;LU, dengan luas sekitar &plusmn; 206,5 Ha. Di pulau ini terdapat satu buah desa yaitu desa Teluk Nibung. Pulau Ujungbatu dengan kondisi desa yang dikelilingi lautan berada di perairan Samudera Hindia ini cukup strategis untuk nelayan dan memiliki batas wilayah yang berbatasan langsung dengan beberapa pulau di sekitarnya. Adapun batas-batas dari pulau ini antara lain:</p>
+<ul style="margin-left: 40px;">
+	<li style="text-align: justify;">
+		Sebelah Utara&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : berbatasan dengan Aceh Singkil dan Aceh Selatan</li>
+	<li style="text-align: justify;">
+		Sebelah Selatan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : berbatasan dengan Pulau Balai</li>
+	<li style="text-align: justify;">
+		Sebelah Barat&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : berbatasan dengan Pulau Simeuleu</li>
+	<li style="text-align: justify;">
+		Sebelah Timur&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : berbatasan dengan Pulau Tapus-Tapus</li>
+</ul>
+<p style="margin-left: 40px; text-align: justify;">
+	Sebagai bagian dari Kepulauan Banyak berdasarkan Surat Keputusan Menteri&nbsp; Kehutanan Nomor 596/kpts-II/1996, maka Pulau Ujungbatu serta pulau-pulau lainnya telah ditetapkan sebagai taman wisata alam laut karena keanekaragaman biota laut yang dimilikinya, dengan luas 227.500 ha (15.000 ha daratan). Kawasan TWAL ini mencakup hampir semua gugusan Kepulauan Banyak yang membentang dari Pulau Jawi-jawi di sebelah timur dan Pulau Bangkaru di sebelah barat. Selain itu, beberapa desa di Kepulauan Banyak juga telah memiliki kawasan yang dikelola secara mandiri oleh masyarakat. Salah satunya adalah Kawasan Konservasi Perairan (KKP) Desa Pulau Balai yang terletak di tiga lokasi terpisah di wilayah desa Pulau Balai, yaitu di sekitar Pulau Balai dan Pulau Ujung Batu, di Pulau Biawak dan di Pulau Jawi-jawi. Kawasan Konservasi Perairan (KKP) terbagi menjadi dua zona yaitu zona inti yang terletak di Pulau Biawak dan zona pemanfaatan perikanan yang terletak di Pulau Balai, Pulau Ujung Batu dan Pulau Jawi-Jawi. Status kepemilikan pulau ini adalah dibawah otoritas pemerintah Kabupaten Aceh Singkil.</p>
+<p style="text-align: justify;">
+	<span style="color:#ff0000;"><strong>AKSESIBILITAS</strong></span></p>
+<p style="margin-left: 40px; text-align: justify;">
+	Akses paling mudah menuju Pulau Ujungbatu adalah dari Kota Singkil ibukota Aceh Singkil. Kota terdekat menuju Singkil adalah Medan. Dari Medan menuju Singkil perjalanan darat menggunakan angkutan umum dengan tarif Rp 110.000,- ditempuh dalam waktu &plusmn; 6 Jam. Perjalanan dari Medan menuju Singkil ditempuh di malam hari dan tiba di Singkil pagi hari sehingga bisa menghemat biaya penginapan. Transportasi udara menggunakan Pesawat NBA (Nusantara Buana Air) dan Susi Air dengan jadwal penerbangan dari Medan dan Banda Aceh ke Aceh Singkil.</p>
+<p style="margin-left: 40px; text-align: justify;">
+	Dari Singkil menuju Pulau Ujung Batu tersedia beberapa pilihan sarana transportasi laut, menyewa/rental kapal motor atau naik kapal tradisional/boat reguler di Pelabuhan Jembatan Tinggi dengan jadwal keberangkatan setiap hari pukul 10.00 WIB dengan biaya Rp 25.000,- maupun Kapal Ferri rute Singkil &ndash; Pulau Banyak dengan jadwal keberangkatan setiap hari Senin pada jam 09.00 WIB dengan harga tiket Rp 16.000,-. Dan singgah di Pelabuhan Ferri Pulau Balai, ibu kota kecamatan Pulau Banyak, dengan waktu tempuh sekitar &plusmn; 4 jam perjalanan laut. Selain itu akses ke Pulau Balai dengan kapal motor/ kapal ferry juga dapat melalui Sibolga (9 - 12 jam), Nias (6 &ndash; 8 jam), Teluk Jamin / Aceh Selatan (6-8 jam).</p>
+<p style="margin-left: 40px; text-align: justify;">
+	Sarana transportasi umum di Pulau Ujungbatu hampir bisa dikatakan tidak ada, kecuali beberapa becak barang dan motor kepunyaan penduduk, hal ini mengingat wilayah yang tidak terlalu luas, sehingga mudah diakses dengan berjalan kaki. Pulau Banyak dapat dicapai dari:</p>
+<ul style="margin-left: 40px;">
+	<li style="text-align: justify;">
+		Singkil dengan waktu &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : 3 &ndash; 4 jam</li>
+	<li style="text-align: justify;">
+		Sibolga&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; dengan waktu&nbsp;&nbsp;&nbsp;&nbsp; : 9 &ndash; 12 jam</li>
+	<li style="text-align: justify;">
+		Nias dengan waktu&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : 6 &ndash; 8 jam</li>
+	<li style="text-align: justify;">
+		Teluk Jamin dengan waktu&nbsp; : 6 &ndash; 8 jam</li>
+</ul>
+<p style="text-align: justify;">
+	<span style="color:#ff0000;"><strong>TOPOGRAFI</strong></span></p>
+<p style="text-align: justify; margin-left: 40px;">
+	Daerah pesisir Pulau Ujungbatu secara umum mempunyai bentuk morfologi datar sampai berbukit dengan ketinggian rata-rata berkisar antara 0 - 350 meter diatas permukaan laut. Daratan dengan topografi bergelombang dengan beberapa bukit kecil di Pulau Ujungbatu dapat dijumpai di bagian barat dan utara pulau. Pada daerah ini, masih banyak dijumpai dataran dengan ketinggian di atas 20 mdpl. Sementara itu, di bagian selatan pulau relatif lebih landai dengan ketinggian di sekitar 10 meter di atas permukaan laut.</p>
+<p style="text-align: justify; margin-left: 40px;">
+	Material penyusun daratan Kepulauan Banyak, termasuk didalamnya Pulau Ujungbatu merupakan hasil dari proses erosi dari bukit-bukit dan pegunungan, karena banyak ditemukan material yang sama antara daerah pantai dengan daerah perbukitan, dengan jenis yang bervariasi antara kerang-kerangan kecil dan berpasir. Material pasir pantai berwarna putih berukuran halus hingga sedang.</p>
+<p style="text-align: justify; margin-left: 40px;">
+	Jenis batuan penyusun Pulau Ujungbatu adalah batu karang dan alluvium (endapan laut yang muda). Sementara itu, jenis tanah di Pulau Ujungbatu termasuk dalam kelompok aluvial yaitu <em>sulfaquents</em> (aluvial kelabu) dan <em>hydraquents</em> (aluvial hidromorf). Umumnya, tanah jenis ini berupa tanah lempung berpasir dan bercampur dengan pecahan karang terumbu dan batu kapur.</p>
+<p style="text-align: justify; margin-left: 40px;">
+	Di daerah belakang pantai berupa pasir yang telah berakumulasi dengan tanah trapopsamment hitam dan coklat tua yang penyebarannya pada bentuk lahan dataran pantai yang ditumbuhi mangrove, sedangkan daerah depan pantai umumnya berpasir dan berkarang lunak. Tanah trapopsamment adalah tanah yang pada umumnya mempunyai sifat fisik kurang baik, kersai (berbutir-butir) dan peka erosi. Jenis tanah ini bertekstur kasar dan hanya dapat menahan air sedikit. Strukturnya kersai atau remah, keadaan ini merupakan suatu pembatas pertumbuhan tanaman. Tropopsamment termasuk tanah yang sangat muda, miskin unsur hara, bahan organik rendah dan mempunyai kapasitas pertukaran kation kecil.</p>
+<p style="text-align: justify; margin-left: 40px;">
+	Pantai yang terdapat di Pulau Ujungbatu pada umumnya berupa pantai berpasir dengan pasir putih serta vegetasi pantai dengan formasi <em>pes caprae</em>. Akan tetapi di beberapa lokasi yang berdekatan dengan daerah genangan air, dapat dijumpai pula pantai yang berlumpur.</p>
+<p style="text-align: justify;">
+	<span style="color:#ff0000;"><strong>HIDROLOGI</strong></span></p>
+<p style="text-align: justify; margin-left: 40px;">
+	Pulau Ujungbatu tidak memiliki sistem air permukaan yang alami seperti sungai, danau, rawa atau pun mata air. Air permukaan atau tubuh air yang terdapat di Pulau Ujungbatu antara lain saluran air atau parit serta genangan air. Saluran air yang mengelilingi Pulau Ujungbatu adalah saluran yang dibangun pasca bencana gempa dan tsunami tahun 2004 dengan cara mengeruk tanah dan digunakan sebagai jalur air di sekitar pulau. Sementara itu, genangan air yang berupa rawa dalam ukuran kecil banyak dijumpai di sekitar tepi pantai Pulau Ujungbatu. Genangan air ini tercipta setelah peristiwa air pasang yang naik ke daratan dan kemudian tidak kembali lagi ke laut karena ketinggian daratan di tepi pantai yang tidak lebih tinggi dari laut.</p>
+<p style="text-align: justify; margin-left: 40px;">
+	Masyarakat yang tinggal di Pulau Ujungbatu tepatnya di desa Teluk Nibung pada umumnya menggunakan air hujan dan air kemasan sebagai air minum. Hal ini disebabkan karena, kondisi air tanah di Pulau Ujungbatu tidak layak untuk dikonsumsi sebagai air minum. Pada umumnya, air tanah di Pulau Ujungbatu memiliki kualitas yang cukup baik, akan tetapi pada kondisi tertentu kualitas tersebut mengalami perubahan. Perubahan disebabkan oleh tiga faktor yaitu perubahan musim, jarak dari laut dan pasang-surut air laut. Pada musim kemarau, kondisi air tanah banyak terpengaruh dikarenakan kurangnya masukan air tawar dari hujan. Selain itu, jarak yang sangat dekat dari laut juga turut mempengaruhi kualitas air tanah, ditambah lagi pada kondisi pasang sehingga masukan dari air laut cukup tinggi. Ketiga faktor tersebut mempengaruhi kualitas air dari segi rasa, bau dan warna.</p>
+<p style="text-align: justify; margin-left: 40px;">
+	&nbsp;</p>
+</div></p>
+
+<hr>
+
+<h2><a id="ksbk">Kependudukan, Sosial Budaya dan Kelembagaan</a></h2>
+<p><div class="readmore"><p>
+	<span style="color:#ff0000;"><strong>KEPENDUDUKAN</strong></span></p>
+<p style="text-align: justify; margin-left: 40px;">
+	Jumlah penduduk di Pulau Ujungbatu pada tahun 2009 menurut data statistik Kab. Aceh Singkil 2010 berjumlah 308 jiwa, yang terdiri dari 1.674&nbsp; jiwa penduduk desa Teluk Nibung dan 126 &nbsp;jiwa penduduk dusun Mata Air.</p>
+<p style="text-align: justify; margin-left: 40px;">
+	Dari komposisi usia pada tahun 2010 penduduk Pulau Ujungbatu didominasi oleh penduduk yang berusia&nbsp; 15 &ndash; 56 tahun yaitu sebanyak 1.665 jiwa, atau sekitar 51,53% dari total penduduk.</p>
+<p style="text-align: justify; margin-left: 40px;">
+	Komposisi umur penduduk suatu wilayah dapat dihubungkan dengan <em>Dependency Ratio</em> (DR) atau Angka Ketergantungan. <em>Dependency Ratio</em> secara umum dapat menggambarkan beban tanggungan ekonomi&nbsp; kelompok usia produkstif (15 - 56 tahun) terhadap kelompok usia muda (&lt; 15 tahun ) dan kelompok usia lanjut (&gt; 56 tahun). Dari tabel diatas dapat diketahui bahwa <em>Dependency Ratio</em> penduduk pulau Balai pada tahun 2009 adalah 94, 05 artinya tiap 100 orang berusia produktif harus menanggung 94 orang berusia non produktif (anak-anak dan usia lanjut).</p>
+<p style="text-align: justify; margin-left: 40px;">
+	Penduduk Pulau Ujungbatu mayoritas beragama Islam walaupun ada yang beragama Kristen tetapi dalam&nbsp; jumlah yang kecil. Penduduk yang beragama Islam biasanya dari etnis Aneuk Jamee, Aceh, Minangkabau, sebagian etnis Nias dan Haloban, sementara pemeluk Kristen berasal dari etnis Nias dan Batak.</p>
+<p style="text-align: justify;">
+	<span style="color:#ff0000;"><strong>KELEMBAGAAN</strong></span></p>
+<p style="margin-left: 40px; text-align: justify;">
+	Sebagaimana pada umumnya penduduk yang mendiami daerah kepulauan, penduduk Pulau Ujungbatu pada umumnya bermatapencaharian sebagai nelayan, karena dikelilingi oleh lautan. Dari segi ekonomi, nelayan atau pengusaha di pulau ini cenderung berhubungan dengan nelayan atau pengusaha dari wilayah Sumatera Utara (Sibolga dan Nias), meskipun ada juga yang berhubungan dengan nelayan dari wilayah pantai barat Aceh lainnya. Bisa dikatakan bahwa sebagian besar penduduk Pulau Ujungbatu menggantungkan perekonomiannya dari laut. Jika kondisi laut tidak memungkinkan untuk melakukan penangkapan ikan, praktis nelayan tidak mendapatkan penghasilan dan hanya mengandalkan hutang atau simpanan yang ada. Selain itu karena metode penangkapan yang digunakan masih tergolong sederhana, dengan menggunakan alat tangkap pancing dan jaring, dan perahu kecil (robin) hasil tangkapan yang mereka dapatkan tidak seberapa. Hal ini sangat mereka rasakan terutama saat musim&nbsp; angin barat tiba, dimana ikan kian sulit didapatkan. Dari wawancara dengan nelayan setempat, ikan di sekitar perairan Pulau Ujungbatu mulai berkurang bahkan di musim penangkapan,sehingga pendapatan mereka juga sangat berkurang. Jika dahulu mereka dapat meraup pendapatan ratusan ribu hingga jutaan kini rata-rata perhari mereka hanya mendapat Rp.50.000 &ndash; Rp.100.000. Belum lagi harga bahan bakar solar yang mencapai Rp.9.000/liter membuat para nelayan tidak dapat melaut lebih jauh untuk menekan biaya operasional. Hal ini membuat sebagian besar nelayan di Pulau Ujungbatu hidup dalam kondisi ekonomi menengah ke bawah. Hasil tangkapan ikan yang mereka dapat biasanya dijual pada masyarakat, atau pada pengumpul yang akan dijual kembali ke daerah sekitarnya misalnya ke Singkil dan Medan. Selain menjual ikan basah, hasil olahan ikan berupa ikan teri kering juga turut dijual dengan harga Rp.25.000/kg, sementara hasil olahan lainya tidak ada. Mengingat terbatasnya lahan pekerjaan di Pulau Balai, untuk mengatasi himpitan ekonomi terkadang penduduk juga bekerja sebagai penambang batu karang&nbsp; untuk menambah penghasilan, yang nantinya akan dijual kepada masyarakat sebagai bahan bangunan. Selain itu penduduk di Pulau Ujungbatu ada yang mendapatkan penghasilan dari usaha sampingan seperti kebun kelapa, tanaman pangan (ubi singkong, mangga, durian), serta memelihara ternak seperti kambing, kerbau dan unggas.</p>
+<p style="margin-left: 40px; text-align: justify;">
+	Sebagian penduduk juga memiliki profesi lain seperti pedagang kecil-kecilan dengan membuka warung atau toko dirumah mereka,untuk menambah penghasilan keluarga. Selain itu sebagian dari mereka juga menyewakan perahu mereka untuk mengangkut berbagai kebutuhan masyarakat.</p>
+<p style="margin-left: 40px; text-align: justify;">
+	Etnis penduduk Pulau Ujungbatu terdiri dari berbagai etnis, antara lain Aneuk Jamee , Aceh, Batak, Nias, Minangkabau, Haloban dan sebagainya. Kondisi ini juga mempengaruhi budaya&nbsp; masyarakat di Pulau Ujungbatu . Dapat dilihat dari Budaya Nias, Budaya Aceh, dan Budaya Padang. Contohnya Tari Mahena&nbsp;merupakan tarian yang berasal dari Nias, kemudian adat Aceh yang digunakan pada pesta pernikahan dan bahasa Jamee&nbsp; yang mirip dengan bahasa suku Minang, dan kesenian yang sebagian berasal dari padang (Sumatera Barat). Dalam komunikasi sehari-hari penduduk Pulau Ujungbatu menggunakan bahasa suku masing-masing, namun secara umum mereka menggunakan bahasa Jamee dan bahasa Indonesia. Bahasa Jamee merupakan hasil asimilasi antara bahasa masyarakat Minang yang datang ke wilayah pantai barat Aceh, dengan bahasa masyarakat setempat yakni bahasa Aceh. Selain itu karena luas Pulau Ujungbatu yang relatif kecil membuat kehidupan sosial masyarakat Pulau Ujungbatu tumbuh dengan kekompakan dan semangat gotong royong. Hal ini dapat terlihat dari kegiatan gotong royong warga setiap pagi&nbsp; jum&rsquo;at, sekaligus diadakannya ronda malam secara bergiliran.</p>
+<p style="margin-left: 40px; text-align: justify;">
+	Selain itu seperti pada umumnya nelayan di Provinsi Aceh, pada hari Jumat nelayan Pulau Ujungbatu tidak melaut sampai selesainya solat Jumat. Mereka biasanya menghabiskan waktu memperbaiki perahu maupun peralatan penangkap ikan. Jika ada yang melanggar ketentuan ini maka mereka akan dikenai sanksi sesuai adat yang berlaku.</p>
+<p style="margin-left: 40px; text-align: justify;">
+	Sebagaimana kehidupan masyarakat pada umumnya, penduduk Pulau Ujungbatu juga memiliki organisasi dan lembaga yang mengatur dan mengayomi kehidupan masyarakat di pulau tersebut. .Pemerintahan desa dipimpin oleh kepala desa dan kepala dusun. Untuk mempermudah urusan administrasi pemerintahan desa, maka kepala desa akan dibantu oleh sekretaris desa, kepala urusan (Kaur) dan wakil kepala urusan. Selain lembaga pemerintahan seperti Kepala Desa, terdapat pula lembaga adat Aceh yang disebut <em>Tuha Peut</em>. <em>Tuha Peut</em> adalah sebuah dewan yang terdiri dari empat orang, baik masing-masing maupun secara bersama-sama mengambil tanggung jawab dalam pemerintahan umum dan sebagai pendamping <em>Ulee Balang (</em>pemimpin). <em>Tuha Peut</em> sangat berperan dalam musyawarah terutama dalam hal hukum adat. Biasanya orang yang duduk di <em>Tuha Peut</em> terdiri dari orang-orang yang berilmu, berwibawa, berpengalaman, beradat dan penuh sopan santun sehingga dijadikan panutan oleh masyarakat. Selain itu terdapat pula organisasi sosial seperti tim PKK, remaja mesjid, kelompok majelis taqlim, kelompok pemuda desa, koperasi dan kelompok nelayan. Kelompok PKK yang merupakan penggerak kaum ibu di pulau tersebut. Pada awalnya mereka sering mendapat kunjungan dan pelatihan dari pihak-pihak luar, khususnya setelah bencana tsunami.&nbsp; Namun sayangnya setelah mereka mampu membuat produk <em>home industry</em> seperti kerajinan, mereka tidak dibantu dengan fasilitas pemasaran. Sehingga akhirnya kegiatan PKK tidak berjalan dengan semestinya.&nbsp; Hal ini tentunya patut disayangkan mengingat potensi yang dimiliki Pulau Ujungbatu itu sendiri.</p>
+<p style="margin-left: 40px; text-align: justify;">
+	Selain itu di Pulau Ujungbatu belum terdapat lembaga keuangan yang memadai, misalnya bank. Sehingga apabila penduduk memiliki simpanan uang mereka tidak dapat menyimpan uangnya di bank, padahal tidak jarang jumlah uang yang mereka punya cukup besar. Biasanya mereka menyimpan uang di rumah mereka sendiri. Hal ini tentu menyulitkan transaksi keuangan di pulau tersebut, sebagai contoh bila ada wisatawan yang datang mereka harus membawa uang tunai yang cukup karena tidak ada mesin ATM atau bank. Bagi penduduk sendiri bila mereka hendak mengirimkan uang, harus menitipkan pada orang lain yang akan singgah ke bank di daratan Aceh Singkil. Hal ini juga dikeluhkan oleh anak-anak penduduk Pulau Ujungbatu yang bersekolah di daerah lain, mereka sering terlambat menerima kiriman uang dari orangtua mereka.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="eshp">Ekosistem dan Sumberdaya Hayati</a></h2>
+<p><div class="readmore"><p>
+	<span style="color:#ff0000;"><strong>TERUMBU KARANG</strong></span></p>
+<p style="text-align: justify; margin-left: 40px;">
+	Penutupan karang keras hidup (KKH) secara umum di lokasi ini sebesar 20,18% yang termasuk dalam kriteria buruk. Komposisi penyusun arang keras yang ditemukan terdiri dari bentuk pertumbuhan bercabang, mengerak, lembaran, masif dan karang jamur. Penutupan yang paling tinggi adalah kategori abiotik sebesar 54,78 % dengan penutupan patahan karang (R) mencapai 48,18 %. Penutupan karang mati (DC) yang ditemukan cukup rendah yaitu sebesar 19,10 %. Sedangkan penutupan biotik lainnya mencapai 5,94 % (OT, SC, dan SP).</p>
+<p style="text-align: justify;">
+	<span style="color:#ff0000;"><strong>MANGROVE</strong></span></p>
+<p style="margin-left: 40px; text-align: justify;">
+	Mangrove yang tumbuh di Pulau Ujungbatu ditemukan di daratan yang tergenang oleh air laut atau di sekitar pesisir pulau. Mangrove ini tumbuh di substrat pasir berlumpur atau di substrat berbatu. Terdapat 5 jenis mangrove yang ditemukan di Pulau Ujungbatu yaitu <em>Sonneratia alba, Rhizopora mucronata , Bruguiera gymnorrhiza, Lumnitzera littorea </em>dan <em>Nypa fruticans. Sonnerati alba </em>atau yang biasa disebut pedada/pidada, merupakan jenis mangrove yang sangat mudah dikenali dari bentuk buahnya yang seperti bola yang bagian dasarnya terbungkus kelopak bunga dan bunganya yang terlihat indah saat mekar. Bunganya terdiri dari benang sari yang banyak dengan ujung berwarna putih dan pangkalnya berwarna kuning. Benang sari ini sangat mudah rontok. Daunnya berbentuk bulat telur terbalik dengan ujung yang membundar. Bentuk akar dari pedada ini sangat unik menyerupai pensil, sehingga disebut akar pensil. Jenis <em>S. alba </em>adalah jenis pionir, tidak toleran terhadap air tawar dalam periode yang lama. Tumbuh di tanah yang bercampur lumpur dan pasir, kadang-kadang pada batuan dan karang.</p>
+<p style="text-align: justify;">
+	<span style="color:#ff0000;"><strong>VEGETASI PANTAI</strong></span></p>
+<p style="text-align: justify; margin-left: 40px;">
+	Selain tumbuhan mangrove sejati yang merupakan tumbuhan yang terdapat di daerah pasang surut, terdapat juga mangrove ikutan atau mangrove asosiasi. Mangrove asosiasi dalah kelompok mangrove yang tidak pernah tumbuh dalam komunitas mangrove sejati dan biasanya hidup bersama tumbuhan darat. Adapun mangrove asosiasi tersebut adalah <em>Hibiscus tiliaceus, Ipomea pes-caprae </em>dan <em>Scaevola taccada</em>. Mangrove asosiasi ini banyak ditemukan di daerah pantai berpasir.</p>
+<p style="text-align: justify; margin-left: 40px;">
+	&nbsp;</p>
+</div></p>
+
+<hr>
+
+<h2><a id="snh">Sumberdaya Non Hayati</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<h2><a id="aps">Aktivitas Pengelolaan Sumberdaya</a></h2>
+<p><div class="readmore"><p>
+	<span style="color:#ff0000;"><strong>PERIKANAN TANGKAP</strong></span></p>
+<p style="text-align: justify; margin-left: 40px;">
+	Kecamatan Pulau Banyak merupakan daerah yang memiliki potensi yang cukup besar pada bidang kelautan dan perikanan, demikian juga halnya di Pulau Ujungbatu. Meskipun potensi perikanan khususnya perikanan laut cukup besar, namun pemanfaatanya masih cenderung ke arah penangkapan. Nelayan di Pulau Ujungbatu umumnya menggunakan alat tangkap yang masih sederhana. Biasanya mereka menggunakan alat tangkap jaring dan pancing dan berperahu motor berukuran kecil yang disebut perahu robin. Namun ada juga yang menggunakan perahu yang lebih besar meskipun tidak sebanyak perahu robin. Dari hasil wawancara dengan nelayan didapat bahwa biasanya daerah penangkapan (<em>fishing ground</em>) rata-rata berjarak 0 &ndash; 6 mil dari Pulau Ujungbatu. Mereka berangkat melaut pada pagi hari dan sore hari mereka kembali ke pulau.&nbsp; Dalam sekali penangkapan rata-rata dibutuhkan 10 liter bensin seharga Rp.8000/liter.</p>
+<p style="text-align: justify;">
+	<span style="color:#ff0000;"><strong>PERIKANAN BUDIDAYA</strong></span></p>
+<p style="text-align: justify; margin-left: 40px;">
+	Selain penangkapan ikan di Pulau Ujungbatu juga terdapat usaha budidaya laut dalam bentuk keramba jaring apung (KJA). Salah satu jenis ikan yang banyak dibudidayakan ialah ikan kerapu. Ikan kerapu yang banyak ditemui di perairan Pulau Banyak adalah kerapu macan (<em>Epinephelus fuscogutatus</em>), kerapu sunu (<em>Plectropomus sp.</em>), serta kerapu lumpur (<em>Epinephelus coioides).</em>Ikan kerapu merupakan salah satu komoditas ekspor non migas yang cukup berpotensi untuk dikembangkan, khususnya di Pulau Ujungbatu mengingat laut di sekitar pulau ini masih jernih dan relatif tenang. Harga ikan kerapu hidup dihargai minimal Rp.45.000/kg, sedangkan ikan yang mati hanya berkisar Rp.20.000/kg. Hongkong dan Singapura merupakan negara tujuan ekspor ikan kerapu terbesar. Kegiatan budidaya yang berkelompok ini umumnya merupakan bantuan dari Dinas dan Instansi terkait, BRR, dan lain-lain yang memiliki kepedulian terhadap pembangunan masyarakat di Pulau Banyak.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="ling">Lingkungan</a></h2>
+<p><div class="readmore"><p>
+	<span style="color:#ff0000;"><strong>PERMASALAHAN LINGKUNGAN</strong></span></p>
+<p style="text-align: justify; margin-left: 40px;">
+	Akibat dari rusaknya terumbu karang di perairan Pulau Ujungbatu mulai dirasakan oleh penduduk setempat. Khususnya bagi nelayan sekarang mereka kesulitan mendapatkan ikan tangkapan, jika dulu mereka bisa menangkap ikan di sekitar perairan pulau kini mereka terpaksa beroperaasi jauh dari pantai. Selain itu dampak terbesar yang mengancam pulau ini adalah bahaya abrasi. Pengambilan karang-karang massive sebagai pelindung alami pulau dari abrasi turut memperparah kondisi tersebut. Pulau Ujungbatu saat ini menunjukan gejala abrasi&nbsp; yang parah, banyak bangunan yang terletak di tepi pantai kini terendam air, selain itu akibat hempasan ombak Samudera Hindia yang kuat juga telah merusak dinding pantai (<em>revertment</em>) yang telah ada. Beberapa rumah penduduk yang terletak di sebelah utara pulau ini juga banyak yang ditinggalkan oleh pemiliknya karena telah rata dengan permukaan laut, dan sebagian lainnya memilih meninggikan pondasi rumah dengan menggunakan karang.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="sp">Sarana dan Prasarana</a></h2>
+<p><div class="readmore"><p>
+	<span style="color:#ff0000;">Sarana Kesehatan</span><br />
+	Di&nbsp; Pulau Ujungbatu terdapat sebuah puskesmas pembantu yang dilengkapi dengan unit gawat darurat (UGD). Puskesmas pembantu ini dibangun dan direnovasi kembali pada tahun 2007-2008 pasca tsunami. Berdasarkan wawancara dengan perawat puskesmas tersebut didapat bahwa ada satu orang dokter umum, 1 bidan merangkap perawat (1 orang non PNS) yang bertugas di puskesmas.<br />
+	&nbsp;</p>
+<p>
+	<span style="color:#ff0000;">Sarana Ibadah</span><br />
+	Di Pulau Balai terdapat beberapa buah mesjid dan mushalla yang dalam kondisi baik, meski ada beberapa diantaranya yang terbengkalai. Ada 2 buah mesjid/mushalla yang terdapat di desa Teluk Nibung, termasuk satu mushalla kecil di pemukiman penduduk yang tidak berfungsi lagi. Berikut gambar sarana ibadah yang ada di Pulau Ujungbatu.</p>
+<p>
+	<span style="color:#ff0000;">Sarana Air Bersih dan Sanitasi</span><br />
+	Penduduk di Pulau Ujungbatu umumnya menggunakan air sumur (sumur gali, rata-rata berkedalaman dua meter) dan air hujan sebagai sumber air bersih. Di Pulau ini tidak terdapat sumber mata air. Selain itu di pulau ini tidak ada sungai yang dapat dimanfaatkan airnya. Air hujan dan sumur&nbsp; biasanya ditampung dalam drum atau bak penampungan fiber kemudian dialirkan ke rumah dengan menggunakan pipa paralon. Saat ini penduduk yang tinggal di tepi pantai kesulitan air bersih, karena sumur-sumur mereka menjadi asin semenjak terjadinya tsunami terutama pada saat air laut pasang.<br />
+	&nbsp;</p>
+<p>
+	<span style="color:#ff0000;">Sarana Transportasi</span><br />
+	Di Pulau Ujungbatu terdapat satu buah dermaga kecil yang berfungsi sebagai dermaga kapal yang digunakan oleh nelayan setempat untuk merapatkan perahunya yang disebut tangkahan. Dermaga ini juga sering digunakan untuk berlabuhnya kapal penumpang, kapal boat dan speedboat yang menghubungkan Pulau Ujungbatu dengan pulau lainnya disekitar Kepulauan Banyak. Kondisi dermaga yang kurang memadai karena bukan bangunan permanen melainkan hanya timbunan batu karang dan batang kelapa yang ditata seadanya guna tambat sauh dan jetty yang belum tersedia, hal ini patut disayangkan karena bangunan ini merupakan pintu gerbang memasuki Pulau Ujungbatu. Jalan desa di Pulau Ujungbatu sebagian besar dalam kondisi rusak, aspal yang menutupi jalan sebagian besar sudah berlubang, dan akan tergenang oleh air terutama saat hujan dan pasang air laut.</p>
+<p>
+	<span style="color:#ff0000;">Sarana Pendidikan</span><br />
+	Di Pulau Ujungbatu terdapat sarana pendidikan mulai dari tingkat PAUD, TK, SD/MIN&nbsp; SMA serta Taman Pendidikan Al Quran (TPA). Kondisi bangunan PAUD dalam kondisi baik, dengan ukuran bangunan sekitar 6 x 6 m<sup>2 </sup>, hanya saja sarana permainan untuk anak-anak masih kurang dan kondisi cat bangunan yang sudah memudar.<br />
+	Kondisi TK di Pulau Ujungbatu juga memprihatinkan meskipun kondisi fisik bangunan masih baik, namun TK tersebut terlihat suram karena cat bangunan yang sudah mengelupas serta kurangnya sarana permainan yang sseharusnya ada di TK pada umumnya. Di Pulau Balai terdapat satu unit bangunan sekolah dasar negeri dan satu unit sekolah menengah atas. Untuk sekolah lanjutan menengah, di Pulau Balai terdapat satu unit SMP dan SMA yakni SMP/SMA Satu Atap dan dilengkapi dengan perumahan guru. Namun letak sekolah ini agak jauh dari pemukiman penduduk, selain itu akses jalan menuju sekolah ini sangat buruk.</p>
+<p>
+	<span style="color:#ff0000;">Sarana Penerangan</span><br />
+	Penduduk Pulau Ujungbatu mendapatkan suplai listrik dari PLTD yang berdiri sejak tahun 2007. Jaringan listrik di Pulau Ujungbatu terhubung dengan PLTD yang terletak di Pulau Balai melalui rentangan kabel yang cukup panjang menuju desa Teluk Nibung (&plusmn; 9 km). Dikarenakan kapasitas produksi serta letak pulau&nbsp; berpenduduk lainnya yang jauh, PLTD ini hanya mampu melayani kebutuhan listrik di tiga desa, yakni desa P. Balai dan P. Baguk (Pulau Balai) dan desa Teluk Nibung (Pulau Ujung Batu). Jumlah diesel yang dibutuhkan untuk operasional PLTD mencapai 50 ton/bulan, dimana pengangkutan diesel dilakukan oleh CV. Rika Putra Utama bekerjasama dengan PT.ASDP. Ada lima buah mesin pembangkit tenaga listrik yang masing-masing berkekuatan 75 KW (3 buah), 200 KW (1 buah) dan 500 KW (1 buah). Adapun kendala yang sering dihadapi adalah apabila mesin mengalami kerusakan yang tidak bisa ditangani petugas setempat , maka listrik terpaksa dipadamkan sampai teknisi tiba dari Aceh Singkil. Jika kondisi laut buruk maka pemadaman bisa berjam-jam karena jalur transportasi yang terhambat.</p>
+<p>
+	<span style="color:#ff0000;">Sarana Perikanan dan Kelautan</span><br />
+	Meskipun sebagian besar penduduk Pulau Ujungbatu bekerja sebagai nelayan namun sarana dan prasarana pendukung perikanan masih sangat kurang. Di pulau ini tidak terdapat tempat pelelangan ikan (TPI), sehingga pada umumnya nelayan langsung menjual ikan hasil tangkapannya pada pembeli yang sudah menunggu di tempat mereka merapatkan kapalnya. Bagi penduduk yang membutuhkan benih ikan untuk dibesarkan di keramba biasanya mereka mendapatkannya dari alam atau membelinya dari luar Pulau Ujungbatu, karena tidak ada sarana balai benih ikan di pulau ini. Di Pulau Balai juga tidak terdapat SPDN (Solar Packed Dealer Nelayan), sehingga untuk memenuhi kebutuhan bahan bakar baik bagi nelayan atau pun kebutuhan lainnya, maka harus mendatangkan bahan bakar dari Singkil, Nias atau Sibolga. Hal ini dikeluhkan oleh masyarakat sekitarnya karena mereka harus pergi sendiri ke dermaga-dermaga nelayan atau ke pasar yang jaraknya lumayan jauh untuk membeli ikan&nbsp; sehingga harus menambah biaya transport untuk mengangkut ikan ke pasar ikan. Untuk memenuhi kebutuhan es bagi nelayan di Pulau Ujungbatu dan Pulau Balai terdapat satu unit pabrik es di Pulau Ujungbatu. Namun karena bencana tsunami bangunan pabrik es rusak dan tidak dioperasikan.</p>
+<p>
+	<span style="color:#ff0000;">Sarana Komunikasi</span><br />
+	Sarana dan prasarana telekomunikasi merupakan hal yang sangat penting bagi masyarakat di Pulau Ujungbatu mengingat posisi mereka yang terletak di daerah terpencil. Untuk berkomunikasi dengan masyarakat lainnya, rata-rata penduduk di Pulau Ujungbatu menggunakan telepon selular, karena di pulau tersebut terdapat satu unit tower provider telepon selular (Indosat) terletak di wilayah desa Teluk Nibung. Tower ini didirikan sekitar tahun 2011 dan belum difungsikan. Selain itu untuk mendapatkan informasi penduduk di Pulau Ujungbatu menggunakan radio dan televisi yang dilengkapi parabola untuk menangkap siaran. Sedangkan untuk mengirim surat, paket, TASPEN&nbsp; dan sebagainya di lakukan di pulau terdekat yakni Pulau Balai terdapat 1 unit kantor pos dengan 2 orang pegawai. Kantor pos ini terletak di desa P. Baguk.</p>
+<p>
+	&nbsp;</p>
+<p>
+	&nbsp;</p>
+</div></p>
+
+<hr>
+
+<h2><a id="pi">Peluang Investasi</a></h2>
+<p><div class="readmore"><p>
+	<span style="color:#ff0000;"><strong>Peluang Investasi</strong></span></p>
+<p>
+	Dimasa mendatang Pulau Ujungbatu memiliki potensi untuk dikembangkan. Berdasarkan hasil survei dan juga wawancara dengan penduduk setempat,sektor kelautan dan perikanan&nbsp; serta wisata bahari memiliki potensi yang paling memungkinkan untuk dikembangkan.Berikut peluang yang dapat dikembangkan di Pulau Ujungbatu.</p>
+<ol>
+	<li>
+		Potensi Kelautan dan Perikanan</li>
+</ol>
+<ul>
+	<li>
+		Budidaya keramba apung (untuk budidaya ikan bernilai ekonomis tinggi seperti kerapu,kakap, beronang, lobster, dan sebagainya)</li>
+	<li>
+		Budidaya rumput laut</li>
+	<li>
+		Produk olahan perikanan tangkap (terasi, ikan asin, abon dan sebagainya).</li>
+</ul>
+<ol>
+	<li value="2">
+		Potensi Wisata</li>
+</ol>
+<ul>
+	<li>
+		Wisata laut (menyelam, snorkeling, memancing, dan kayaking)</li>
+	<li>
+		Wisata kuliner (makanan seafood, makanan tradisional)</li>
+</ul>
+</div></p>
+
+<hr>
+
+<h2><a id="pap">Potensi dan Arahan Pengembangan</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<h2><a id="kp">Kendala Pengembangan</a></h2>
+<p><div class="readmore"><p>
+	a. Kendala Transportasi<br />
+	Letak Pulau Ujungbatu&nbsp; yang jauh dari daratan Sumatera menjadi kendala utama, terutama masalah transportasi. Satu-satunya sarana transportasi yang dapat mengangkut tidak hanya penumpang, barang dan kendaraan hanyalah kapal ferry. Namun sarana tranportasi ini tidak beroperasi setiap hari (hanya seminggu sekali). Selain itu cuaca di laut yang kerap berubah turut mempengaruhi kelancaran transportasi dari dan menuju ke pulau ini, serta menuju pulau-pulau lain.</p>
+<p>
+	b. Kendala Telekomunikasi<br />
+	Meskipun di pulau ini telah didirikan menara telpon seluler, namun terkadang sinyal yang dapat masih belum optimal sehingga menyulitkan ketika akan melakukan komunikasi.</p>
+<p>
+	c. Sarana dan Prasarana Perhubungan<br />
+	Masih banyak&nbsp; jalan dan jembatan yang rusak maupun belum dibangun. Selain itu kondisi jalan yang sering tergenang air akibat pasang ataupun hujan dan&nbsp; ditunjang sistem drainase yang belum memadai.</p>
+<p>
+	d. Badan Keuangan<br />
+	Di Pulau Ujungbatu belum ada bank atau badan keuangan lainnya yang dapat menangani transaksi perbankan, sehingga ini akan menyulitkan investor yang akan menanamkan modalnya di pulau ini.</p>
+<p>
+	e. Material Bangunan<br />
+	Keterbatasan material yang dapat dijadikan bahan bangunan, yang dapat menghambat proses pembangunan sarana dan prasarana pendukung untuk investasi</p>
+<p>
+	f. Belum adanya promosi wisata yang memadai , pendanaan serta badan wisata di Pulau Ujungbatu untuk mendatangkan para investor serta wisatawan.</p>
+<p>
+	g. Masih kurangnya skill para penduduk dalam teknologi dan manajemen budidaya perikanan laut.</p>
+<p>
+	h. Masih kurangnya pendanaan dan perhatian dari pemerintah untuk memperbaiki sarana dan prasarana yang ada di Pulau Ujungbatu, termasuk penanggulangan efek abrasi yang mengancam keberadaan pulau ini.</p>
+<p>
+	i. Belum optimalnya sarana dan prasarana kelistrikan di Pulau Ujungbatu .</p>
+<p>
+	j. Perusakan karang dan penangkapan ikan dan binatang laut lain dengan menggunakan potas dan kompresor sehingga jumlah ikan menurun karena ikan yang masih kecilpun ikut ditangkap selain itu terumbu karang sebagai habitat ikan-ikan tersebut turut mati.</p>
+<p>
+	k. Belum adanya usaha maupun program yang memadai dari pemerintah untuk merehabilitasi ekosistem mangrove dan terumbu karang yang ada di sekitar Pulau Ujungbatu, padahal kedua ekosistem ini sangatlah penting bagi kehidupan biota dan juga masyarakat setempat.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="rf">Referensi</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<br />
+	<i> 
+		<p style="font-size:12px;">
+			Karena keterbatasan SDM dalam penginputan dan pengolahan data, kami mohon maaf atas ketidak lengkapan beberapa data pulau yang kami tampilkan, harap dimaklumi.
+			Berikan keritik dan saran pada kolom komentar agar kita dapat bersama menyajikan sebuah data yang cukup sempurna untuk halayak ramai yang berguna
+			demi kesejahterahan, kelestarian dan keindahan pulau-pulau kecil yang dimiliki Indonesia.<br />
+			*Jika sekiranya anda memiliki data yang cukup banyak, silakan mengirimkan file melalui email kami di <b><a>identifikasippk@gmail.com</a></b>
+			
+		</p>
+	</i>
+<br />
+
+<div id="fb_comn" class="fb-comments" data-href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_info/1086" data-width="800" data-numposts="5" data-colorscheme="light"></div>
+
+
+</div>
+</div>
+</div>
+<div id="wrapper">
+
+<div class="footer"><p>
+<!--<marquee onmouseover="this.stop()" onmouseout="this.start()" scrollamount="5" direction="right" width="798" height="14"  behavior="scroll">-->
+<a href="http://www.ppk-kp3k.kkp.go.id/" target="_blank">Direktorat Pendayagunaan Pulau-Pulau Kecil &nbsp; | &nbsp;</a>
+<a href="http://www.kp3k.kkp.go.id/" target="_blank">Ditjen Kelautan, Pesisir dan Pulau-Pulau Kecil &nbsp; | &nbsp;</a>
+<a href="http://www.kkp.go.id/" target="_blank">Kementerian Kelautan dan Perikanan</a>
+<!--</marquee>--> <br />
+Jl. Medan Merdeka Timur No. 16 Gedung Mina Bahari 3 Lantai 10, Jakarta, Indonesia <br />
+Email : identifikasippk@gmail.com <br />
+Telp &amp; Fax: (021) 3522058 <br />
+&copy; Copyright Direktorat Pendayagunaan Pulau-Pulau Kecil 2012&nbsp; <br /></p>
+</div>
+</div>
+</body>
+</html>

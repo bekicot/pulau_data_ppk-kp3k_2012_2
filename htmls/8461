@@ -1,0 +1,810 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Pulau Talaga Kidino</title>
+
+<meta charset="utf-8"/>
+
+<meta property="fb:app_id" content="559408774147878" />
+
+
+<meta property="og:title" content="Pulau Talaga Kidino" />
+<meta property="og:url" content="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_info/8461" />
+
+
+    <script type="text/javascript" src="http://ajax.microsoft.com/ajax/jquery/jquery-1.4.4.min.js">
+    </script>
+    
+    <script type="text/javascript" src="http://plugins.learningjquery.com/expander/jquery.expander.js">
+    </script>
+    
+    <script type="text/javascript">
+        $(function () {
+            $('div.readmore').expander({
+                slicePoint:200,
+                expandText: '(Baca selengkapnya)',
+                userCollapseText: '(Sembunyikan selengkapnya)'
+            });
+        });
+    </script>
+        
+	<script src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/galleria/galleria-1.2.8.min.js"></script>
+
+        <SCRIPT TYPE="text/javascript">
+            <!--
+            //Disable right click script
+            //visit http://www.rainbow.arch.scriptmania.com/scripts/
+            var message="Sorry, right-click has been disabled";
+            ///////////////////////////////////
+            function clickIE() {if (document.all) {(message);return false;}}
+            function clickNS(e) {if
+            (document.layers||(document.getElementById&&!document.all)) {
+            if (e.which==2||e.which==3) {(message);return false;}}}
+            if (document.layers)
+            {document.captureEvents(Event.MOUSEDOWN);document.onmousedown=clickNS;}
+            else{document.onmouseup=clickNS;document.oncontextmenu=clickIE;}
+            document.oncontextmenu=new Function("return false")
+            // -->
+            </SCRIPT>
+            
+            <SCRIPT TYPE="text/javascript">
+            <!--
+            //Disable select-text script (IE4+, NS6+)
+            //visit http://www.rainbow.arch.scriptmania.com/scripts/
+            ///////////////////////////////////
+            function disableselect(e){
+            return false
+            }
+            function reEnable(){
+            return true
+            }
+            //if IE4+
+            document.onselectstart=new Function ("return false")
+            //if NS6
+            if (window.sidebar){
+            document.onmousedown=disableselect
+            document.onclick=reEnable
+            }
+            // -->
+            </SCRIPT>  
+              
+<link rel="stylesheet" type="text/css" href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/css/main.css" media="screen"/>
+<style type='text/css'>
+#info_wrap{
+	width:820px;
+	margin:0 auto;
+	text-shadow:0px 1px 1px #09F;
+}
+table{
+	color:#000000;
+}
+h1{
+	color:#000000;
+}
+.tengahin{
+	width: 105px;
+	height: 30px;
+	margin: 0 auto auto auto;
+}
+#box_view{
+	background-image:-webkit-gradient(linear, 0 0%, 0 100%, from(#FFFFFF), to(#E0F0F5));
+	background:#FFF;
+	color:#F60;
+	border: 1px solid #fff;
+	border-radius: 4px 4px 4px 4px;
+	box-shadow: 0 8px 6px -6px black;
+	position:fixed;
+	right:0;
+	top:150px;;
+	width:80px;
+	z-index:10;
+	padding-left:12px;
+	font-size:10px;
+	}
+#box_view li{
+	color:#F60;
+	margin-left:-30px;
+	}
+	#wrapper a b {
+	color: #FFF;
+	font-size:14px;
+}
+.batas{
+	float:left;
+	border-right-style:inset;
+	border-right-width:thin;
+	}
+.text_h_wrap{
+	
+	padding-left:450px;
+	padding-top:39px;
+	text-shadow:0px 1px 1px #09F;
+	}
+#wrapper .footer p{
+	font-size:12px;
+	color: #FFF;
+	text-align:center;
+	text-shadow:0px 1px 1px #09F;
+}
+td,th {
+	font-size: 12px;
+}
+
+marquee a{
+	color:#FFF
+	}
+#wrapper .footer a{
+	color: #FFFFFF;
+}
+</style>
+            
+<script>
+function goBack()
+  {
+  window.history.back()
+  }
+</script>
+<script type="text/javascript">
+function Popup( url, height, width )
+{
+    var windowProperties = "toolbar = 0, scrollbars = 1, location = 0, statusbar = 0, menubar = 0, resizable = 1, width = " + width + ", height = " + height + ", left = 50, top = 50";
+ 
+    return window.open( url, "", windowProperties );
+}
+</script>
+
+
+
+</head>
+<body oncontextmenu='return false;' onkeydown='return false;' onmousedown='return false;'>
+
+<a id="top_view"></a>
+<div id="wrapper">
+<div class="header_wrap">
+<div class="text_h_wrap">
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/home_page'><b>&nbsp;Home&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/menu_info/1'><b>&nbsp;About Us&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_data'><b>&nbsp;Direktori Pulau&nbsp;&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/program_ip'><b>&nbsp;IKU&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/data_ppkt'><b>&nbsp;PPKT&nbsp;</b></a>
+</div>
+<!--<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/maintenance'><b>&nbsp;Login&nbsp;</b></a>-->
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/dir_log_cont'><b>&nbsp;Login&nbsp;</b></a>
+
+</div>
+</div>
+</div>
+
+<div id="fb-root"></div>
+<script>
+  window.fbAsyncInit = function() {
+    // init the FB JS SDK
+    FB.init({
+      appId      : '559408774147878',                        // App ID from the app dashboard
+      status     : true,                                 // Check Facebook Login status
+      xfbml      : true                                  // Look for social plugins on the page
+    });
+
+    // Additional initialization code such as adding Event Listeners goes here
+  };
+
+  // Load the SDK asynchronously
+  (function(){
+     // If we've already installed the SDK, we're done
+     if (document.getElementById('facebook-jssdk')) {return;}
+
+     // Get the first script element, which we'll use to find the parent node
+     var firstScriptElement = document.getElementsByTagName('script')[0];
+
+     // Create a new script element and set its id
+     var facebookJS = document.createElement('script'); 
+     facebookJS.id = 'facebook-jssdk';
+
+     // Set the new script's source to the source of the Facebook JS SDK
+     facebookJS.src = '//connect.facebook.net/en_US/all.js';
+
+     // Insert the Facebook JS SDK into the DOM
+     firstScriptElement.parentNode.insertBefore(facebookJS, firstScriptElement);
+   }());
+</script>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=559408774147878";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="box_view">
+    <a href="#top_view">MENU</a>
+    <h3><p>Lihat Informasi:</p></h3>
+    <ul>
+	<a href="#sf"><li>Slide Foto</li></a>
+    <a href="#gu"><li>Gambaran Umum</li></a>
+    <a href="#ksbk"><li>Kependudukan, Sosial Budaya dan Kelembagaan</li></a>
+    <a href="#eshp"><li>Ekosistem dan Sumberdaya Hayati</li></a>
+    <a href="#snh"><li>Sumberdaya Non Hayati</li></a>
+    <a href="#aps"><li>Aktivitas Pengelolaan Sumberdaya</li></a>
+    <a href="#ling"><li>Lingkungan</li></a>
+    <a href="#sp"><li>Sarana dan Prasarana</li></a>
+    <a href="#pi"><li>Peluang Investasi</li></a>
+    <a href="#pap"><li>Potensi Arahan Pengembangan</li></a>
+    <a href="#kp"><li>Kendala Pengembangan</li></a>
+	<a href="#rf"><li>Referensi</li></a>
+    </ul>
+    <a href="#fb_comn">KOMENTAR</a>
+</div>
+
+<br>
+			<a id="sf"></a></h2>
+			<div id="galleria">
+            <!--<div class='tengahin'><input type="button" value="Kembali Ke List" onclick="goBack()"></div>-->
+                            </div>
+            
+            <script>
+            Galleria.loadTheme('http://www.ppk-kp3k.kkp.go.id/direktori-pulau/galleria/themes/classic/galleria.classic.min.js');
+            Galleria.run('#galleria');
+            </script>
+</div>
+
+<div id="text_warp">
+
+
+<p><h1>Talaga Kidino</h1></p>
+<table>
+<tr>
+	<td>Nama Lain</td> <td>:</td> <td>Talaga Kecil</td>
+</tr>
+<tr>
+	<td>Propinsi</td> <td>:</td> <td>SULAWESI TENGGARA</td>
+</tr>
+<tr>
+	<td>Kabupaten</td> <td>:</td> <td>KABUPATEN BUTON</td>
+</tr>
+<tr>
+	<td>Kecamatan</td> <td>:</td> <td></td>
+</tr>
+<tr>
+	<td>Koordinat</td> <td>:</td> <td><a href="http://www.ppk-kp3k.kkp.go.id/giskkp/index.html?extent="target="_blank">5° 28' 56.000</a></td>
+</tr>
+</table>
+<hr>
+
+<h2><a id="gu">Gambaran Umum</a></h2>
+<p><div class="readmore"><p style="margin-left: 18pt; text-align: justify;">
+	Secara geografis Pulau Talaga Kecil berada antara 5o28?20&rdquo; - 5o29?40&rdquo; Lintang selatan dan 122o4?0&rdquo; &ndash; 122o5?40&rdquo; Bujur timur.</p>
+<p style="margin-left: 18pt; text-align: justify;">
+	<strong>S</strong><strong>ej</strong><strong>arah nama pulau</strong></p>
+<p style="margin-left: 18pt; text-align: justify;">
+	Nama &nbsp;Pulau Talaga &nbsp;berasal dari &nbsp;kata &nbsp;&ldquo;talaga?&nbsp; yang berarti &nbsp;telaga &nbsp;atau kolam alami. Adapun nama &ldquo;Talaga Kecil&rdquo; diberikan karena di sisi sebelah baratnya terdapat pulau yang lebih besar yang diberi nama Pulau Talaga Besar. Berdasarkan &nbsp;riwayat &nbsp;yang&nbsp; dikemukakan&nbsp; oleh &nbsp;para &nbsp;sesepuh &nbsp;yang&nbsp; ada &nbsp;saat &nbsp;ini bahwa di masa lalu pada saat belum ada penduduk yang menempatinya, di Pulau Talaga Kecil ini&nbsp;&nbsp; terdapat kolam alam berair asin yang sering kali dihuni oleh penyu yang datang bertelur di pulau ini. &nbsp;Sayangnya saat ini bekas telaga tersebut sudah berada &nbsp;di tengah&nbsp; pemukiman&nbsp; penduduk,&nbsp; tidak&nbsp; berair&nbsp; dan&nbsp; tidak&nbsp; terawat sehingga tidak berwujud telga lagi.&nbsp;&nbsp; Namun demikian sampai saat ini sebagian besar masyarakat masih mengetahui letak talaga tersebut.&nbsp;&nbsp;</p>
+<p style="margin-left: 18pt; text-align: justify;">
+	&nbsp;</p>
+<p style="margin-left: 18pt; text-align: justify;">
+	Saat ini Pulau Talaga kecil, Pulau Talaga Besar dan beberapa desa di ujung selatan Pulau Kabaena secara administratif adalah wilayah Kecamatan Talaga Raya Kabupaten Buton Tengah. Ibu Kota Kecamatan Talaga Raya terletak di Pulau Talaga Kecil ini. Di pulau ini proporsi jumlah penduduk terbanyak yang terdapat pada 1 kelurahan dan 3 desa yaitu Kelurahan Talaga I, Desa Talaga II, Desa Pangilia dan Desa Liwulompona. Menurut informasi masyarakat setempat, di masa lalu masyarakat tidak tinggal di daratan besar (P. Kabaena) karena menghindari penyakit malaria sehingga mereka lebih memilih menempati Pulau Talaga &nbsp;Kecil &nbsp;Ini &nbsp;meskipun &nbsp;sumberdaya &nbsp;pendukung&nbsp; seperti &nbsp;air &nbsp;tawar &nbsp;sangat terbatas.</p>
+<p style="margin-left: 18pt; text-align: justify;">
+	<strong>Let</strong><strong>ak administratif</strong></p>
+<p style="margin-left: 18pt; text-align: justify;">
+	Letak administrasi Pulau Talaga Kecil merupakan bagian dari Kecamatan Talaga raya, Kabupaten Buton, Propinsi Sulawesi Tenggara. Di pulau ini terdapat 4 desa dan pulau ini merupakan ibu kota kecamatan.</p>
+<p style="margin-left: 18pt; text-align: justify;">
+	&nbsp;</p>
+<p style="margin-left: 18pt; text-align: justify;">
+	<strong>L</strong><strong>u</strong><strong>as pulau</strong></p>
+<p style="margin-left: 18pt; text-align: justify;">
+	Pulau Talaga kecil memiliki luas 330 Ha. dimana luas daerah pemukiman seluas 34,75 Ha atau sekitar 10,5 % dari luas daratan. Sedangkan seluas 291,29 Ha ( 88,27%) digunakan sebagai kebun.</p>
+<p style="margin-left: 18pt; text-align: justify;">
+	&nbsp;</p>
+<p style="margin-left: 18pt; text-align: justify;">
+	<strong>Batas wilayah pulau</strong></p>
+<p style="margin-left: 18pt; text-align: justify;">
+	Pulau Talaga Kecil ini memiliki batas wilayah sebagai berikut :</p>
+<p style="margin-left: 18pt; text-align: justify;">
+	Sebelah Utara&nbsp; &nbsp;:&nbsp; &nbsp;Kabaena T.</p>
+<p style="margin-left: 18pt; text-align: justify;">
+	Sebelah&nbsp; Timur :&nbsp; &nbsp;Slt. Spelman</p>
+<p style="margin-left: 18pt; text-align: justify;">
+	Sebelah Selatan :&nbsp; &nbsp;L. Flores</p>
+<p style="margin-left: 18pt; text-align: justify;">
+	Sebelah Barat&nbsp; &nbsp;:&nbsp; &nbsp;Kabaena T./Talaga Besar</p>
+<p style="margin-left: 18pt; text-align: justify;">
+	&nbsp;</p>
+<p style="margin-left: 18pt; text-align: justify;">
+	<strong>Aksesibilitas</strong></p>
+<p style="margin-left: 18pt; text-align: justify;">
+	Pulau ini berada di sebelah barat dari ibukota kabupaten buton, untuk menuju pulau ini dapat dilakukan dengan menggunakan transportasi laut. Ada beberapa jenis kapal yang dapat digunakan menuju pulau ini. Jenis kapal yang pertama adalah jenis kapal cepat dengan kapasitas penumpang sebanyak 300 orang. Kapal cepat ini dapat diakses melalui pelabuhan Baubau dan pelabuhan Kasipute di Kabupaten Bombana. Jadwal kapal ini berangkat dari pelabuhan Baubau setiap dua hari sekali. Demikian pula dengan pelabuhan kasipute dengan jadwal yang bergantian dengan pelabuhan Baubau. Jika kapal cepat ini tidak beroperasi maka masyarakat menggunakan kapal kayu berkapasitas 20-30 GT. Kapal ini biasanya digunakan untuk memuat penumpang, barang dagangan dan hasil perkebunan. Kapal ini melayani rute Baubau &ndash; Talaga dengan jadwal yang bergantian dengan kapal cepat dan kadang bergantung jumlah penumpang dan barang yang mau ingin berangkat.</p>
+<p style="margin-left: 18pt; text-align: justify;">
+	<strong>S</strong><strong>t</strong><strong>atus kawasan</strong></p>
+<p style="margin-left: 18pt; text-align: justify;">
+	Pulau ini termasuk dalam Kawasan Konservasi Laut Daerah (KKLD) kabupaten buton yang di inisiasi oleh program COREMAP II Kab. Buton. tetapi karena pemekaran wilayah maka lokasi ini akan keluar dari KKLD buton tersebut. Di Pulau Talaga ini terdapat daerah perlindungan laut yang juga di inisiasi oleh COREMAP II Kab. Buton. lokasi DPL ini terletak di sebelah barat pulau ini. hingga saat ini lokasi ini masih disepakati oleh masyarakat untuk dijadikan DPL tetapi pada wilayah pantainya dijadikan tempat wisata&nbsp; bagi masyarakat pulau Talaga. didaerah ini telah dibangun gasebo untuk tempat istirahat.</p>
+<p style="margin-left: 18pt; text-align: justify;">
+	&nbsp;</p>
+<p style="margin-left: 18pt; text-align: justify;">
+	<strong><em>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </em></strong><strong><em>Os</em></strong><strong><em>e</em></strong><strong><em>anografi</em></strong></p>
+<p style="margin-left: 18pt; text-align: justify;">
+	<strong>a.&nbsp; Pola arus</strong></p>
+<p style="margin-left: 18pt; text-align: justify;">
+	Arah arus dan kecepatan arus sangat penting untuk mengetahui proses perpindahan dan pengadukan dalam perairan seperti mikronutrien dan material tersuspensi. Ditinjau dari kondisi geografisnya yang berdekatan dengan daratan, arus di &nbsp;perairan&nbsp; pengukuran&nbsp; arus dipengaruhi &nbsp;terutama oleh pasut &nbsp;dan&nbsp; angin. Kondisi angin yang berbalik arah dua kali dalam setahun berperan memperkuat (memperlemah) arus yang searah (berlawanan arah) dengan arah angin.</p>
+<p style="margin-left: 18pt; text-align: justify;">
+	Pola arus yang ditemukan di Pulau Talaga Kecil di pengaruhi oleh pasang surut (<em>tidal current</em>) yang penyebarannya dipengaruhi oleh angin dan gelombang.</p>
+<p style="margin-left: 18pt; text-align: justify;">
+	&nbsp;</p>
+<p style="margin-left: 18pt; text-align: justify;">
+	<strong>b</strong><strong>. Pola gelombang</strong></p>
+<p style="margin-left: 18pt; text-align: justify;">
+	Fenomena transformasi gelombang dapat dilihat pada Pantai perairan Pulau Talaga Kecil. Perairan pulau Talaga Kecil dipengaruhi oleh Laut Flores, Laut &nbsp;Jawa, &nbsp;Laut &nbsp;Banda &nbsp;dan &nbsp;Teluk &nbsp;Bone &nbsp;yang&nbsp; umumnya &nbsp;gelombang &nbsp;yang merambat berasal dari arah barat (yaitu dari arah Laut Jawa / Laut Flores) yang disebut dengan musim barat dengan gelombang yang tinggi namun &nbsp;pulau Talaga Kecil terlindungi oleh pulau Talaga Besar sehingga dampak musim barat relatif kecil. Sedangkan dari arah Timur gelombang merambat dari arah timur ( Laut Banda/Laut&nbsp; Flores dengan frekuensi dan ketinggia hingga 2- 4 meter dimana sebagian besar pulau ini dari arah timur sangat rentan terhadap gelmbang karena tidak terhalangi. Pada musim peralihan gelombang hanya merambat dari arah selatan yang dipengaruhi Laut Flores sedangkan dari arah utara pulau ini cukup terlingi oleh pulau Kabaena.</p>
+<p style="margin-left: 18pt; text-align: justify;">
+	Karakteristik &nbsp;dan &nbsp;kekuatan &nbsp;perambatan&nbsp; gelombang&nbsp; di &nbsp;perairan &nbsp;pulau Talaga Kecil sangat tergantung arah rambatan gelmbang tersebut. Apabila perambatan gelombang menuju pantai dengan sudut tegak lurus terhadap garis pantai, maka gelombang tersebut tidak mengalami refraksi gelombang. Sedangkan gelombang yang merambat menuju pantai dengan membentuk sudut, maka gelombang tersebut mengalami refraksi gelombang. Perambatan gelombang sebagian cenderung menuju secara langsung mengenai pantai pulau Talaga Kecil baik gelombang yang disebabkan angin timur maupun oleh angin barat dan sebagian kecil saja gelombang yang dibelokan khususnya bila arah gelombang dari utara dan arah barat serta sebagian kecil dari arah timur karena pengaruh daratan yang menghalangi pulau ini. Gelombang yang merambat mendekati pantai akan berusaha tegak lurus terhadap garis dasar laut dekat pantai, tetapi belum tentu gelombang datang akan tegak lurus terhadap garis pantai. Ini disebabkan karena &nbsp;garis &nbsp;batimetri &nbsp;tidak &nbsp;selalu &nbsp;sejajar &nbsp;dengan &nbsp;garis &nbsp;pantai. &nbsp;Apabila &nbsp;garis batimetri sejajar dengan garis pantai, maka gelombang datang akan tegak lurus terhadap pantai. Sedangkan garis batimetri tidak sejajar dengan garis pantai, maka gelombang datang akan membentuk sudut terhadap garis pantai.</p>
+<p style="margin-left: 18pt; text-align: justify;">
+	<strong>c</strong><strong>. &nbsp;Pasang surut</strong></p>
+<p style="margin-left: 18pt; text-align: justify;">
+	Perairan Pulau Talaga merupakan daerah yang cukup kompleks, karena wilayah ini sangat dipengaruhi oleh beberapa tipe perairan yakni dari arah selatan Laut Banda dan Laut Flores dan dari arah barat dipengaruhi massa air dari Teluk Bone. Pasang surut merupakan salah satu faktor hidrodinamika pantai yang memiliki peran sangat penting dalam pemanfaatan ruang di wilayah pesisir terutama wilayah pantai untuk berbagai kegiatan manusia seperti pembangunan pelabuhan, kegiatan perikanan budidaya dan &nbsp;reklamasi pantai. Elevasi muka air tertinggi &nbsp;(pasang) &nbsp;dan &nbsp;terendah &nbsp;(surut) &nbsp;sangat &nbsp;penting &nbsp;dalam &nbsp;merencanakan kegiatan tersebut.</p>
+<p style="margin-left: 18pt; text-align: justify;">
+	Meskipun&nbsp; &nbsp;wilayah&nbsp; &nbsp;perairan&nbsp; &nbsp;Pulau&nbsp;&nbsp; Talaga&nbsp; &nbsp;secara&nbsp; &nbsp;tidak&nbsp; &nbsp;langsung dipengaruhi oleh gaya tarik dari benda-benda angkasa, akan tetapi wilayah ini sangat dipengaruhi oleh karakteristik dan rambatan pasang surut &nbsp;dari perairan yang cukup luas di sekitarnya seperti Laut Flores, Laut Banda sampai Samudera Pasifik yang melalui perairan Laut Banda.</p>
+<p style="margin-left: 18pt; text-align: justify;">
+	Tipe &nbsp;pasut &nbsp;perairan&nbsp; Pulau&nbsp; Talaga &nbsp;Kecil &nbsp;termasuk&nbsp; dalam &nbsp;tipe &nbsp;pasut campuran condong harian ke ganda (<em>mixed tide </em>prevailing <em>semi diurnal</em>). Hal ini dapat &nbsp;dilihat &nbsp;pada &nbsp;gambar&nbsp; di &nbsp;atas,&nbsp; menunjukkan&nbsp; dalam &nbsp;satu&nbsp; hari &nbsp;pengamatan terjadi dua kali air pasang dan dua kali air surut, tetapi tinggi dan periodenya berbeda. Hasil yang diperoleh ini sesuai dengan yang digambarkan oleh Wyrtki (1961); &nbsp;Pariwono &nbsp;(1989b) &nbsp;tentang&nbsp; tipe &nbsp;pasut &nbsp;pada &nbsp;perairan &nbsp;Indonesia &nbsp;bagian timur. Pasang surut di perairan Pulau Talaga dan sekitarnya merupakan rambatan pasang surut dari Samudera Pasifik merambat melalui Laut Banda.</p>
+<p style="text-align: justify;">
+	&nbsp;</p>
+<p style="margin-left: 18pt; text-align: justify;">
+	<strong>d</strong><strong>. Bathimetri</strong></p>
+<p style="margin-left: 18pt; text-align: justify;">
+	Pengukuran batimetri di perairan pulau Talaga Kecil dilakukan dengan menggunakan perangkat echounder dimana berdasarkan hasil pengukuran menunjuan bahwa kedalaman perairan terbagi menjadi beberapa kelompok, yaitu; (1) pada daerah dataran intertidal memiliki kedalaman 0- 5 m, (2) pada daerah tubir atau slope yang berjenjang dengan kedalaman berkisar 5 &ndash; 20 m, (3) pada dasar perairan datar dengan kedalaman 20 &ndash; 50 m dan (4) daerah slope dalam dengan &nbsp;kedalaman &nbsp;diatas &nbsp;50 &nbsp;meter. &nbsp;Kedalaman &nbsp;perairan &nbsp;hasil &nbsp;pengukuran &nbsp;di sekitar perairan pulau Talaga Kecil mulaidari daerah intertidal hingga 100 meter kearah laut berkisar 0,2 &ndash; 181,70 meter. Kondisiini menggambarkan bahwa topografi dasar perairan pulau Talaga Kecil tergolong terjal. Kondisi batimetri di pulau Talaga Kecil dapat dilhat pada gambar diatas.</p>
+<p style="text-align: justify;">
+	&nbsp;</p>
+<p style="margin-left: 36pt; text-align: justify;">
+	<strong><em>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </em></strong><strong><em>Hi</em></strong><strong><em>drologi</em></strong></p>
+<p style="margin-left: 25.45pt; text-align: justify;">
+	<strong>a.&nbsp;&nbsp; &nbsp;Air Tanah dan Air permukaan / Tubuh air</strong></p>
+<p style="margin-left: 29.45pt; text-align: justify;">
+	Sumber air bersih utama untuk keperluan penduduk di pulau Talaga Kecil yakni berasal dari pulau Kabaena dimana masyarakat mengambil dan menampung air kemudian dijual untuk melayani kebutuhan air bersih masyarakat pulau Talaga Kecil &nbsp;khususnya &nbsp;untuk&nbsp; keperluan&nbsp; minum &nbsp;dan&nbsp; memasak&nbsp; sedangkan&nbsp; untuk keperluan MCK masyarakat memanfaatkan air dari sumur dangkal yang hampir dimilki oleh setiap rumah tangga namun kualitas dan kuantitas sangat terbatas. Selain itu pada musim hujan masyarakat memanfaatkan penampungan air hujan untuk &nbsp;keprluan &nbsp;sehari-hari &nbsp;khususnya &nbsp;untuk &nbsp;MCK &nbsp;sehingga &nbsp;setiap &nbsp;rumah penduduk dilengkapi dengan bak penampung namun bagi warga yang memiliki tingkat ekonomi diatas rata-rata maka mereka membeli air untuk kebutuhannya.</p>
+<p style="margin-left: 31.5pt; text-align: justify;">
+	&nbsp;</p>
+<p style="margin-left: 36pt; text-align: justify;">
+	<strong><em>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </em></strong><strong><em>T</em></strong><strong><em>opografi</em></strong></p>
+<p style="margin-left: 29.45pt; text-align: justify;">
+	Kondisi topografi Pulau Talaga Kecil sangat bervariasi dengan rentang ketinggian antara 0 &ndash; 110 meter di atas permukaan laut. Di kawasan pemukiman, yakni di sebelah utara Pulaua Talaga Kecil, kontur topografi berkisar antara 0 &ndash; 10 meter di atas permukaan laut. Kontur ketinggian ini semakin tinggi mengarah pada bagian tenggara &ndash; selatan Pulau Talaga Kecil. Kontur Ketinggian 20 meter terhampar di sebelah timur pulau ini yang umumnya ditumbuhi oleh semak belukar, kebun dan tanah kosong.</p>
+<p style="margin-left: 29.45pt; text-align: justify;">
+	Di bagian tengah pulau terdapat sebuah bukit dengan kisaran tinggi sekitar 60 &ndash; 110 meter di atas permukaan laut. Bukit dengan ketinggi mencapai 110 meter ini merupakan salah satu ciri khas Pulau Talaga Kecil dimana dengan luas kurang lebih 310 ha nampak sangat dominan dengan adanya bukit berbatu jika dibandingkan dengan umumnya pulau-pulau kecil lain di Indonesia.</p>
+<p style="text-align: justify;">
+	<strong><em>T</em></strong><strong><em>u</em></strong><strong><em>t</em></strong><strong><em>u</em></strong><strong><em>pan lahan</em></strong></p>
+<p style="margin-left: 29.45pt; text-align: justify;">
+	Berdasarkan peta tutupan lahan, daratan Pulau Talaga Kecil didominasi oleh hutan, kebun campuran &nbsp;dan semak belukar. Hutan terkonsentrasi di bagian tengah pulau yakni di sekitar bukit dan di sebelah selatan &ndash; tenggara. Penggunaan lahan &nbsp;oleh &nbsp;masyarakat &nbsp;yang&nbsp; bermukim &nbsp;di &nbsp;pulau&nbsp; ini &nbsp;umumnya &nbsp;memanfaatkan lahan sebagai kebun campuran baik itu kebun sayuran, singkong, dan kelapa. Lahan kosong umumnya adalah tutupan lahan berbatu karena struktur pulau didominasi oleh batuan.</p>
+<p style="margin-left: 29.45pt; text-align: justify;">
+	Pantai berpasir berada di sebelah timur pulau dan di bagian barat laut. Pulau &nbsp;Talaga &nbsp;Kecil &nbsp;merupakan&nbsp; ibukota &nbsp;kecamatan &nbsp;sehingga &nbsp;memungkinkan adanya perluasan area pemukiman masyarakat. Perluasan area pemukiman cenderung berkembang ke bagian timur pulau yang dominan ditutupi oleh semak belukar dan lahan kosong. Pusat pemakaman umum berada di pinggir pantai di bagian barat daya yang dikelilingi oleh kebun campuran. Di puncak bukit, tutupan lahan berupa semak belukar, kebun singkong dan kebun campuran yang dimanfaatkan oleh masyarakat.</p>
+<p style="margin-left: 29.45pt; text-align: justify;">
+	Potensi tanah berbatu yang jadi penyusun pulau terlihat dominan hampir di semua wilayah pulau kecuali di bagian utara yang menjadi pusat pemukiman warga. Batu ini oleh sebagian warga dimanfaatkan sebagai bahan bangunan atau konstruksi &nbsp;fisik &nbsp;lainnya. &nbsp;Pemukiman&nbsp; masyarakat&nbsp;&nbsp; &nbsp;dicirikan &nbsp;dengan &nbsp;susunan rumah-rumah warga yang sangat padat yang hanya diantarai oleh jalan dengan lebar 1 &ndash; 2 meter.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="ksbk">Kependudukan, Sosial Budaya dan Kelembagaan</a></h2>
+<p><div class="readmore"><p style="margin-left: 29.45pt; text-align: justify;">
+	<strong>K</strong><strong>e</strong><strong>p</strong><strong>e</strong><strong>n</strong><strong>d</strong><strong>u</strong><strong>d</strong><strong>u</strong><strong>k</strong><strong>an, Sosial-budaya, ekonomi dan kelembagaan</strong> <strong><em>Kependudukan</em></strong></p>
+<p style="margin-left: 29.45pt; text-align: justify;">
+	Kecamatan Talaga Raya terdiri dari enam (6) desa dan satu (1) kelurahan yang tersebar pada 3 (tiga) pulau yakni Pulau &nbsp;Talaga Besar, Pulau Talaga Kecil</p>
+<p style="margin-left: 29.45pt; text-align: justify;">
+	dan Ujung Selatan Pulau Kabaena. &nbsp;Dari ketiga pulau tersebut, pusat pemukiman berada di Pulau Talaga Kecil yakni terdapat satu (1) kelurahan yaitu Kelurahan Talaga &nbsp;I&nbsp; dan &nbsp;tiga &nbsp;desa &nbsp;yaitu &nbsp;Desa &nbsp;Talaga &nbsp;II, &nbsp;Desa &nbsp;Liwulompona &nbsp;dan &nbsp;Desa Pangilia. Jumlah penduduk Kecamatan Talaga Raya tahun 2014 adalah 11.507 jiwa.&nbsp;&nbsp; Dari jumlah tersebut terdapat 8.236 jiwa atau 71,57 % mendiami Pulau Talaga Kecil. &nbsp;Jumlah penduduk terbanyak terdapat di Kelurahan Talaga I yaitu</p>
+<p style="margin-left: 29.45pt; text-align: justify;">
+	4.082 jiwa, &nbsp;sementara Jumlah penduduk terkecil terdapat di Desa Wulu yaitu 478 jiwa.</p>
+<p style="margin-left: 29.45pt; text-align: justify;">
+	Konsentrasi &nbsp;pemukiman&nbsp; penduduk&nbsp; Kecamatan&nbsp; Talaga &nbsp;Raya &nbsp;di &nbsp;Pulau Talaga Kecil &nbsp;disebabkan karena sejak lama masyarakat setempat telah membagi wilayah&nbsp; Pulau Talaga &nbsp;Kecil untuk tempat bermukim dan Pulau Talaga Besar untuk kegiatan pertanian dan peternakan.</p>
+<p style="margin-left: 29.45pt; text-align: justify;">
+	Penduduk Pulau Talaga Kecil mayoritas berasal dari suku Buton dengan latar belakang agama Islam.&nbsp;&nbsp; Berdasarkan data statistik kecamatan Talaga Raya diketahui bahwa sebanyak 99,9 % penduduk Pulau Talaga Kecil merupakan pemeluk agama Islam. &nbsp;Terdapat satu keluarga yang berasal dari Bali sejumlah 3 orang yang beragama hindu.</p>
+<p style="margin-left: 29.45pt; text-align: justify;">
+	&nbsp;</p>
+<p style="margin-left: 29.45pt; text-align: justify;">
+	<strong><em>S</em></strong><strong><em>osial-budaya</em></strong></p>
+<p style="margin-left: 29.45pt; text-align: justify;">
+	Masyarakat Pulau Talaga Kecil adalah bagian dari masyarakat etnis Buton yang mendiami Pulau Buton dan Pulau-pulau kecil di sekitarnya yang di masa lalu merupakan&nbsp; bagian &nbsp;dari &nbsp;Wilayah &nbsp;Kesultanan &nbsp;Buton. &nbsp;Seluruh &nbsp;penduduk &nbsp;Pulau Talaga beragama Islam. Bahasa daerah yang digunakan terdiri dari dua kelompok besar, yakni pengguna Bahasa Wolio yaitu mereka yang merupakan garis keturunan yang berasal dari Baubau, dan pengguna rumpun Bahasa Wuna yaitu mereka yang&nbsp; &nbsp;merupakan garis keturunan yang berasal dari Pulau Siompu dan Pulau Kadatua. Sebagaimana karakteristik masyarakat yang tinggal di wilayah pesisir di pulau-pulau kecil, masyarakat Pulau Talaga Kecil memiliki keuletan dan ketangguhan &nbsp;untuk &nbsp;bertahan &nbsp;hidup &nbsp;dalam &nbsp;keterbatasan&nbsp; lahan&nbsp; dan &nbsp;sumberdaya alam darat serta menghadapi lingkungan pesisir pulau kecil dan laut yang ekstrim.</p>
+<p style="margin-left: 29.45pt; text-align: justify;">
+	Salah satu strategi hidup di bidang ekonomi yang sangat nyata yang dilakukan masyarakat Pulau Talaga Kecil adalah tradisi &ldquo;merantau&rdquo; atau mencari nafkah di negeri orang yang dilakoni oleh kelompok generasi muda usia produktif khususnya mereka yang tidak melanjutkan pendidikan ke perguruan tinggi.. Daerah tujuan utama perantauan mereka adalah&nbsp; ke &nbsp;Malaysia &nbsp;untuk&nbsp; bekerja &nbsp;sebagai &nbsp;pekerja &nbsp;bangunan&nbsp; dan&nbsp; ke &nbsp;Propinsi Papua (khususnya daerah Wasior) untuk bekerja sebagai pedagang.</p>
+<p style="text-align: justify;">
+	&nbsp;</p>
+<p style="margin-left: 29.45pt; text-align: justify;">
+	Tradisi dan tata cara adat bahkan ritual keagamaan yang dipraktekkan menggunakan tradisi adat Buton dan ritual keagaamaan yang dikenal masyarakat Buton. Tata cara adat yang dimaksud meliputi tata cara perkawinan (mulai tahap pelamaran hingga akad nikah), penyelenggaraan jenazah, ruwatan, ritual &ldquo;haroa&rdquo; yaitu ritual memanjatkan doa bersama disertai penyajian berbagai jenis kue/masakan tradisional, yang biasanya dilakukan pada hari raya, maulid Nabi Muhammad &nbsp;SAW, &nbsp;menyambut &nbsp;Bulan &nbsp;Rajab, &nbsp;Sa?ban, dan&nbsp; Ramadhan, &nbsp;Nuzul Qur?an, Lailatul Qadar, Akikah, Sunatan dan sebagainya</p>
+<p style="margin-left: 29.45pt; text-align: justify;">
+	<strong><em>Ekonomi</em></strong></p>
+<p style="margin-left: 29.45pt; text-align: justify;">
+	Strategi hidup &ldquo;merantau&rdquo; ini telah memberi dampak positif bagi peningkatan kesejahteraan masing-masing keluarga yang menjalaninya. Pendapatan di perantauan yang jauh lebih tinggi dibanding berusaha di daerah sendiri, menjadi daya tarik&nbsp; &nbsp;yang membuat sekitar 70% dari rumah tangga masyarakat Pulau Talaga Kecil memiliki anggota keluarga yang merantau.</p>
+<p style="margin-left: 29.45pt; text-align: justify;">
+	<strong><em>Kelembagaan</em></strong></p>
+<p style="margin-left: 29.45pt; text-align: justify;">
+	Lembaga yang ada dalam masyarakat Pulau Talaga Kecil sesungguhnya cukup banyak, mulai dari lembaga adat, lembaga sosial dan lembaga ekonomi, baik lembaga yang bersifat formal maupun informal. Beberapa lembaga yang ada saat ini dapat di uraikan sebagai berikut:</p>
+<p style="margin-left: 29.45pt; text-align: justify;">
+	Lembaga Adat/Keagamaan.&nbsp;&nbsp; Lembaga adat/keagamaan yang ada disebut dengan &ldquo;hukum sara&rdquo; sekaligus merupakan perangkat masjid. Komposisi hukum sara terdiri dari : Imam (1 orang), BP4 (4 orang), Khatib (4 orang), Mokimu Pria (4 orang), Mokimu Wanita (4 orang).</p>
+<p style="margin-left: 29.45pt; text-align: justify;">
+	Lembaga ini selain berperan dalam penyelenggaraan masjid, juga dalam penyelenggaraan prosesi adat seperti pernikahan, kematian atau penyelenggaraan jenazah, khitanan, akikah dan sebagainya. Secara sosial eksistensi lembaga ini mendapat &nbsp;pengakuan&nbsp; dan&nbsp; penghargaan &nbsp;dari &nbsp;masyarakat. &nbsp;Hal &nbsp;ini &nbsp;terlihat &nbsp;pada setiap kali penyelenggaraan pesta pernikahan, pertemuan resmi, anggota hukum sara ini selalu mendapat tempat di baris depan bersama para pejabat pemerintahan seperti camat, lurah dan kepala desa.</p>
+<p style="margin-left: 90.05pt; text-align: justify;">
+	1.&nbsp;&nbsp; Koperasi Unit Desa (KUD). Satu-satunya KUD di pulau ini adalah KUD Mina Bahari ini didirikan pada sekitar tahun delapan puluhan oleh seorang tokoh masyarakat pelopor yang sekaligus memimpin KUD ini hingga mencapai prestasi sebagai KUD terbaik se-Indonesia Bagian Timur atau peringkat VI secara nasional. `KUD ini adalah KUD multi usaha antara lain simpan pinjam, mini market, kapal angkutan penumpang, hingga jasa penginapan.</p>
+<p style="margin-left: 90.05pt; text-align: justify;">
+	2.&nbsp;&nbsp; Karang Taruna. Disetiap Desa/Kelurahan terdapat kelompok pemuda Karang Taruna yang menjadi media bagi generasi muda untuk ikut berpartisipasi dalam pembangunan desa. Seluruh karang taruna yang ada di Pulau Talaga Kecil masih sangat minim kegiatan.</p>
+<p style="margin-left: 90.05pt; text-align: justify;">
+	3.&nbsp;&nbsp; Majelis Ta?lim. Lembaga informal ini tampaknya cukup aktif dalam menjalankan kegiatannya. Majelis Ta?lim menjadi wadah bagi ibu- ibu untuk meningkatkan pemahaman mereka tentang ilmu agama dan menjadi forum silaturrahim untuk mempererat tali kekeluargaan.&nbsp;</p>
+</div></p>
+
+<hr>
+
+<h2><a id="eshp">Ekosistem dan Sumberdaya Hayati</a></h2>
+<p><div class="readmore"><div>
+	<p style="text-align: justify;">
+		<strong><em>Jenis ikan endemik/langka</em></strong></p>
+	<p style="margin-left: 29.45pt; text-align: justify;">
+		Berdasarkan hasil pengamatan pada semua stasiun tidak ditemukan jenis ikan &nbsp;endemik/langka, &nbsp;jenis &nbsp;ikan &nbsp;yang&nbsp; ditemukan &nbsp;merupakan&nbsp; jenis &nbsp;ikan &nbsp;yang sering ditemukan di perairan terumbu karang. Ikan napoleon yang merupakan target tangkapan nelayan sudah sulit ditemukan, jenis ikan target yang masih ditemukan adalah dari jenis <em>Anyperodon leucogrammicu, Cephalopholis argus, Cephalopholis urodeta, Epinephelus merra, Variola louti, Variola sp. </em>Ikan lain yang ditemukan pada saat survey adalah ikan hiu jenis black tip yang merupakan ikan hiu khas terumbu karang.</p>
+	<p style="margin-left: 29.45pt; text-align: justify;">
+		<strong><em>&nbsp;Padang Lamun</em></strong></p>
+	<p style="margin-left: 29.45pt; text-align: justify;">
+		<strong><em>Kepadatan dan persen penutupan</em></strong></p>
+	<p style="margin-left: 29.45pt; text-align: justify;">
+		Aspek-aspek yang dilihat pada ekosistem padang lamun<em>(Sea grass) </em>masih terbataspada&nbsp; &nbsp;penyebaran&nbsp; &nbsp;dan&nbsp; &nbsp;komposisi&nbsp; &nbsp;jenis&nbsp;&nbsp; lamun.&nbsp; &nbsp;Pengamatan&nbsp; &nbsp;lamun dilakukan secara bebas menyisir pantai bersamaan dengan pelaksanaan penelitian terumbu karang.&nbsp;&nbsp; Hasil pengamatan lamun yang dilakukan pada daerah rataan terumbu karang <em>(Reef plat) </em>menggunakan transek kuadran ukuran 50 x 50 cm, dimana sebelumnya menarik meteran sepanjang 50 meter tegak lurus dengan garis pantai kemudian dilakukan pengukuran kepadatan lamun menggunakan transek kuadran dengan interval 10 meter. Dari hasil penyisiran mengelilingi pulau didapatkan sebaran lamun&nbsp;&nbsp; pada&nbsp; &nbsp;perairan&nbsp;&nbsp; Pulau&nbsp;&nbsp; Talaga Kecil &nbsp;adalah&nbsp; pada &nbsp;sisi &nbsp;Utara, &nbsp;Selatan dan Barat pulau dengan sebaran yang paling luas ditemukan pada sisi Barat yang&nbsp; &nbsp;memiliki&nbsp; &nbsp;pantai&nbsp; &nbsp;yang&nbsp; &nbsp;landai.</p>
+	<p style="margin-left: 29.45pt; text-align: justify;">
+		Secara umum perairan Pulau Talaga Kecil memiliki 5 dari 13 jenis lamun yang ditemukan di Indonesia yaitu <em>Halophila ovalis, Halodhule spp, Sirryngodium isotifelum, &nbsp;Enhalus &nbsp;acoroides&nbsp;&nbsp; </em>dan &nbsp;<em>Cymodocea &nbsp;serrulata.Enhalus &nbsp;acoroides</em></p>
+	<p style="margin-left: 29.45pt; text-align: justify;">
+		merupakan&nbsp; jenis &nbsp;lamun &nbsp;yang&nbsp; memiliki &nbsp;sebaran &nbsp;paling&nbsp; tinggi &nbsp;dari &nbsp;enam &nbsp;jenis lamun yang ditemukan.</p>
+	<p style="margin-left: 29.45pt; text-align: justify;">
+		stasiun 1 terletak pada sisi Selatan Pulau, dimana stasiun ini termasuk dalam &nbsp;wilayah&nbsp; daerah&nbsp; perlindungan&nbsp; laut &nbsp;(DPL). &nbsp;Sustrat &nbsp;dasar&nbsp; perairan&nbsp; pada stasiun ini adalah pasir bercampur patahan karang. Adapun jenis lamun yang ditemukan pada stasiun 1 adalah <em>Sirryngodium isotifelum, Halophila ovalis </em>dan <em>Halodhule&nbsp; &nbsp;spp</em>.&nbsp; &nbsp;Stasiun&nbsp; &nbsp;1&nbsp; &nbsp;merupakan&nbsp; &nbsp;satu-satunya&nbsp; &nbsp;stasiun&nbsp; &nbsp;yang&nbsp;&nbsp; tidak ditemukannya lamun jenis <em>Enhalus acoroides</em>.Hasil pengamatan pada 6 kuadran didapatkan rata-rata tutupan lamun pada stasiun 1 adalah 38,58 %.</p>
+	<p style="margin-left: 29.45pt; text-align: justify;">
+		Pengamatan kedua (stasiun 2) terletak pada sisi Barat Daya pulau. Saat pengamatan kondisi arus sangat deras karena kondisi air laut sedang surut, dimana stasiun ini terletak anatara Pulau Talaga Kecil dan Pulau Talaga Besar. Kondisi substrat berpasir halus menjadikan jenis lamun Enhalus acoroides sangat mendominasi, dimana jenis lamun ini sangat menyukai substrat yang berpasir halus. Tingginya kepadatan tutupan <em>Enhalus acorides </em>menjadikan persentase tutupan rata-rata lamun pada sisi Barat daya pulau sebesar 90 %. Hal ini disebabkan karena jenis lamun <em>Enhalus acoroides </em>memiliki daun yang panjang dan lebar. Beberapa jenis lamun lainnya yang ditemukan pada sisi Barat daya pulau yaitu <em>Cymodocea serrulata </em>dan <em>Sirryngodium isotifelum</em>.</p>
+	<p style="margin-left: 29.45pt; text-align: justify;">
+		Stasiun 3 terletak pada sisi Barat pulau berjarak sekitar 250 meter dari stasiun sebelumnya. Kondisi substrat masih berpasir halus sehingga spesies lamun yang dominan adalah <em>Enhalus acoroides</em>, namun pertumbuhan lamun pada stasiun ini tidak sepadat stasiun sebelumnya, dimana persentase rata-rata tutupan lamun yang ditemukan sebesar 51,7 %. Pertumbuhan <em>Enhalus acoroides </em>diselingi <em>Cymodocea serrulata </em>dan <em>Sirryngodium isotifelum </em>sedangkan pada stasiun 4 kondisi tutupan lamun berkisar 56,7 %, dimana tutupan sudah tidak terlalu didominasi oleh <em>Enhalus acoroides </em>karena substrat dasar merupakan campuran antara pasir dan patahan karang yang kurang disukai lamun jenis <em>Enhalus acoroides</em>. Adapun jenis lamun yang ditemukan pada stasiun 4 selain <em>Enhalus acoroides </em>yaitu <em>Cymodocea serrulata </em>dan alga <em>(Sea weeds)</em>.</p>
+	<p style="margin-left: 29.45pt; text-align: justify;">
+		Stasiun pengamatan lamun terakhir (stasiun 5) terletak disisi Utara pulau. Sebaran lamun pada stasiun ini tidak terlalu luas karena rataan terumbu karang pada sisi Utara hanya sekitar 100 meter. Kondisi substrat berpasir kasar yang diselingi karang dan sponge. Tutupan lamun diselingi dengan alga, dimana persentase rata-rata tutupan lamun sekitar 3,67 %. Spesies lamun yang ditemukan adalah <em>Enhalus acoroides, Cymodocea serrulata</em>.</p>
+	<p style="margin-left: 29.45pt; text-align: justify;">
+		&nbsp;</p>
+	<p style="margin-left: 29.45pt; text-align: justify;">
+		Secara umum kondisi lamun pada perairan Pulau Talaga Kecil sangat potensial sebagai habitat berbagai biota yang berasosiasi dengan padang lamun. Beberapa biota yang ditemukan hidup pada daerah padang lamun Pulau Talaga Kecil &nbsp;seperti &nbsp;karang, &nbsp;bulu &nbsp;babi&nbsp;&nbsp; <em>(Diadema &nbsp;sitosum), &nbsp;sponge</em>, &nbsp;makro &nbsp;alga, <em>Crustacea </em>dan beberapa ikan dari family Labridae.</p>
+	<p style="margin-left: 29.45pt; text-align: justify;">
+		<strong><em>V</em></strong><strong><em>e</em></strong><strong><em>getasi Pantai</em></strong></p>
+	<p style="margin-left: 29.45pt; text-align: justify;">
+		Vegetasi pantai yang ditemukan di pulau ini didominasi oleh jenis semak belukar dan pohon. Vegetasi di daerah pemukiman di dominasi oleh jenis pohon ketapang, kelor dan pohon kelapa. Vegetasi di sebelah timur yang merupakan daerah perkebunan didominasi jenis pohon ubi kayu, pisang, jagung, kelapa dan semak &nbsp;belukar. &nbsp;demikian &nbsp;pula &nbsp;dibagian &nbsp;selatan &nbsp;pulau, &nbsp;daerah &nbsp;ini &nbsp;merupakan daerah perkebunan tetapi karena kondisi lahan yang terjal dan berbatu sehingga dibagian ini lebih didominasi oleh semak belukar.</p>
+</div>
+<p>
+	&nbsp;</p>
+</div></p>
+
+<hr>
+
+<h2><a id="snh">Sumberdaya Non Hayati</a></h2>
+<p><div class="readmore"><p>
+	-</p>
+</div></p>
+
+<hr>
+
+<h2><a id="aps">Aktivitas Pengelolaan Sumberdaya</a></h2>
+<p><div class="readmore"><p style="margin-left: 29.45pt; text-align: justify;">
+	<strong><em>Pe</em></strong><strong><em>r</em></strong><strong><em>i</em></strong><strong><em>kanan</em></strong></p>
+<p style="margin-left: 29.45pt; text-align: justify;">
+	<strong><em>Pe</em></strong><strong><em>r</em></strong><strong><em>i</em></strong><strong><em>kanan Tangkap</em></strong></p>
+<p style="margin-left: 64.05pt; text-align: justify;">
+	<strong>a.&nbsp;&nbsp; &nbsp;Produksi perikanan tangkap</strong></p>
+<p style="margin-left: 40px; text-align: justify;">
+	Penduduk &nbsp;Pulau &nbsp;Talaga &nbsp;Kecil&nbsp; memanfaatkan &nbsp;sumberdaya &nbsp;laut &nbsp;sebagai mata pencaharian utama maupun sebagai sumber pendapatan sampingan bahkan sekedar memenuhi kebutuhan ikan bagi keluarga sehari-hari. Setiap keluarga memiliki alat penangkap ikan. Kegiatan penangkapan dan pemasaran ikan merupakan aktivitas ekonomi yang utama. Hal ini didukung oleh wilayah laut di sekitarnya yang luas dan memiliki potensi perikanan yang besar. Wilayah laut yang&nbsp; dimanfaatkan &nbsp;masyarakat &nbsp;hanya &nbsp;dibatasi &nbsp;oleh &nbsp;kemampuan&nbsp; jangkauan armada yang dimiliki nelayan yang didominasi oleh kapal/perahu berkapasitas &lt; 5GT. Wilayah perairan yang umum dimanfaatkan adalah Selat Speelman, Selat Talaga, dan Perairan Sebelah Barat Pulau Buton menjadi daerah penangkapan ikan-ikan pelagis kecil. Keberadaan ekosistem terumbu karang disekitarnya baik di sekeliling Pulau Talaga Kecil, sekeliling Pulau talaga Besar, Tanjung Wamorapa, &nbsp;Tanjung &nbsp;Polojia, &nbsp;Tanjung &nbsp;Marambe, &nbsp;Tanjung &nbsp;Kalimbungu, &nbsp;serta beberapa area terumbu karang lainnya yang dikenal masyarakat seperti Pasi Gantara, Pasi Fulu, Bobontu, Onesatando dan lain-lain merupakan daerah penangkapan &nbsp;ikan-ikan &nbsp;karang.&nbsp;&nbsp; &nbsp;</p>
+<p style="margin-left: 29.45pt; text-align: justify;">
+	Umumnya jarak fishing ground nelayan Pulau Talaga Kecil kurang dari 5 (lima) mil laut. Nelayan dengan produksi tangkapan lebih dari 20 ton/tahun sudah menggunakan peralatan yang modern dengan perahu atau kapal yang lebih besar. Nelayan tersebut sudah melakukan penangkapan ikan pada wilayah <em>fising ground </em>yang lebih jauh sampai di perairan Laut Flores.&nbsp;&nbsp; Beberapa lokasi yang sering menjadi &nbsp;fishing &nbsp;ground &nbsp;nelayan &nbsp;dari &nbsp;Pulau &nbsp;Talaga &nbsp;Kecil &nbsp;meliputi:&nbsp; Tanjung Polojia, tanjung Wamorapa, Tanjung Marambe, Pulau Kawi-Kawia, Pasi Gantara, Pasi Gatal, Tanjung Tebal, Pasi Fulu, Onesatandano, Bontu-Bontu, Tanjung Kalibungu, Watandegara, Selat Speelman, Pasi Kokoe, One Makata, dan Pulau Terupa Flores.</p>
+<p style="margin-left: 29.45pt; text-align: justify;">
+	<strong><em>Pe</em></strong><strong><em>r</em></strong><strong><em>t</em></strong><strong><em>anian</em></strong></p>
+<p style="margin-left: 29.45pt; text-align: justify;">
+	Seperti &nbsp;telah &nbsp;dijelaskan &nbsp;terlebih &nbsp;dahulu&nbsp; bahwa &nbsp;sebagai &nbsp;daerah &nbsp;pesisir, maka mata pencaharian utama masyarakat Pulau Talaga Kecil adalah sebagai petani dan nelayan. Namun demikian kegiatan pertanian lebih banyak dilakukan di Pulau Talaga besar. &nbsp;Kegiatan pertanian di Pulau Talaga Kecil hanya terbatas pada lahan yang dapat ditumbuhi oleh tanaman mengingat pada umumnya merupakan lahan batu karang.</p>
+<p style="margin-left: 29.45pt; text-align: justify;">
+	Berdasarkan jenis tanaman yang diusahakan, maka kegiatan pertanian di Pulau Talaga Kecil dapat dibagi menjadi 3 (tiga) kelompok yaitu (1) tanaman jangka pendek meliputi &nbsp;ubi kayu, jagung dan pisang, (2) tanaman jangka panjang meliputi; kelapa, jambu mete, mangga dan rambutan; (3) tanaman industri yaitu jati.</p>
+<p style="margin-left: 29.45pt; text-align: justify;">
+	<strong><em>Pete</em></strong><strong><em>rn</em></strong><strong><em>akan</em></strong></p>
+<p style="margin-left: 29.45pt; text-align: justify;">
+	Terdapat sejumlah masyarakat yang memperoleh pendapatan dari bidang peternakan. &nbsp;Kegiatan peternakan di Pulau Talaga Kecil meliputi ternak kambing dan unggas (ayam dan itik).&nbsp;&nbsp;&nbsp; &nbsp;Kegiatan usaha ternak besar seperti sapi dilakukan masyarakat di Pulau Talaga Besar. Data statistik Kecamatan Talaga Raya menunjukkan peningkatan jumlah ternak dari waktu kewaktu.</p>
+<p style="margin-left: 29.45pt; text-align: justify;">
+	<strong><em>Pe</em></strong><strong><em>r</em></strong><strong><em>t</em></strong><strong><em>a</em></strong><strong><em>m</em></strong><strong><em>bangan non-ektraktif</em></strong></p>
+<p style="margin-left: 29.45pt; text-align: justify;">
+	Kegiatan penambangan yang dilakukan masyarakat Pulau Talaga Kecil adalah penggalian batu (karang) didaratan. &nbsp;Kegiatan ini dilakukan terbatas oleh beberapa &nbsp;orang&nbsp; saja &nbsp;yang &nbsp;secara &nbsp;khusus &nbsp;mengeluti &nbsp;pekerjaan &nbsp;ini &nbsp;sejak &nbsp;lama, Tujuan utama dari kegiatan ini adalah untuk memeuhi kebutuhan bahan bangunan oleh masyaratak setempat.</p>
+<p style="margin-left: 29.45pt; text-align: justify;">
+	<strong><em>In</em></strong><strong><em>dustri</em></strong></p>
+<p style="margin-left: 29.45pt; text-align: justify;">
+	Kegiatan industri di Pulau Talaga Kecil adalah industri rumah tangga yang bergerak pada bidang makanan seperti pembautan roti dan berbagai jenis kue basah.&nbsp;&nbsp; Hasil observasi lapangan bahwa indurti ini memiliki prospek yang baik mengingat padatnya penduduk di Pulau tersebut.</p>
+<p style="margin-left: 29.45pt; text-align: justify;">
+	<strong><em>P</em></strong><strong><em>ariwisata</em></strong></p>
+<p style="margin-left: 29.45pt; text-align: justify;">
+	Sebagai wilayah pesisir pulau kecil yang memiliki potensi alam yang baik, tentunya&nbsp; &nbsp;merupakan&nbsp; &nbsp;peluang&nbsp;&nbsp; untuk&nbsp; &nbsp;pengembangan&nbsp; &nbsp;kegiatan&nbsp; &nbsp;pariwisata. Kehadiran hamparan pasir putih, ekosistem terubu karang, kejernihan air menambah keindahan panorama Pulau Talaga Kecil.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="ling">Lingkungan</a></h2>
+<p><div class="readmore"><p style="margin-left:29.45pt;">
+	<strong><em>Kualitas Perairan</em></strong></p>
+<p>
+	<strong><em>a.&nbsp;&nbsp; &nbsp;Oksigen Terlarut (DO)</em></strong></p>
+<p>
+	Berdasarkan hasil pengukuran lapangan nilai Do atau oksigen terlarut pada Perairan Pulau Talaga berkisar antara 5,7-7,9 mg/l dengan rata-rata 6,87 mg/l. Nilai&nbsp; &nbsp;kandungan&nbsp;&nbsp; tersebut&nbsp; &nbsp;berada&nbsp; &nbsp;dalam&nbsp; &nbsp;kisaran&nbsp;&nbsp; normal&nbsp; &nbsp;yang &nbsp;mendukung kehidupan organisme didalam air, menurut&nbsp; &nbsp;Standar Baku mutu air laut untuk biota perairan &gt; 5 mg/l.</p>
+<p>
+	<strong><em>b.&nbsp;&nbsp; &nbsp;Temperatur</em></strong></p>
+<p>
+	Temperatur&nbsp;&nbsp; merupakan parameter penting dalam suatu perairan, karena temperatur atau suhu merupakan salah satu factor pembatas bagi kehidupan biota perairan. Berdasarkan hasil pengukuran lapangan nilai temperatur Perairan Pulau Talaga berkisar antara 26,5-29 oC dengan rata-rata 27,41oC. Nilai temperature tertinggi di temukan pada stasiun 6 yaitu 29 oC&nbsp; &nbsp;sedangkan nilai temperature terendah di temukan pada stasiun 17 yaitu 26,5 oC. Tingginya temperature &nbsp;pada stasiun 6 disebabkan oleh intensitas matahari sangat tinggi pada saat pengukuran, sehingga menyebabkan kolom air menajadi lebih hangat. Secara keseluruhan nilai kisaran dan rata-rata temperature atau suhu perairan yang diperoleh masih berada dalam kisaran suhu yang baik untuk proses metabolisme dan pertumbuhan organisme di dalamnya. Menurut Nontji (1987), bahwa suhu yang dibutuhkan biota perairan dalam adalah berkisar antara 25-30oC.</p>
+<p>
+	<strong><em>c.&nbsp;&nbsp; &nbsp;pH</em></strong></p>
+<p>
+	pH merupakan suatu ukuran besarnya konsentrasi ion hidrogen yang menunjukkan apakah air bersifat asam atau basah. Berdasarkan pengukuran di lapangan, pH seluruh stasiun pengamatan termasuk kedalam kategori asam dan basa. Mc. Connaughey (1983), menyatakan bahwa pH air laut umumnya tidak berubah-ubah dan relatif konstan yakni berkisar antara 7,2 &ndash; 8,3. &nbsp;Suatu Perairan yang kandungan pH-nya kurang dari 7 adalah asam dan air yang pH-nya diatas 7</p>
+<p>
+	bersifat basa. Berikut gambar histogram hasil pengukuran pH</p>
+<p style="margin-left:64.85pt;">
+	<strong><em>d.&nbsp;&nbsp; &nbsp;Salinitas</em></strong></p>
+<p style="margin-left:7.1pt;">
+	Salinitas mempengaruhi kehidupan organisme dalam pertumbuhan dan distribusi organisme di perairan karena adanya tekanan osmosis pada jaringan hidup.&nbsp; &nbsp;Berdasarkan hasil pengukuran lapangan nilai salinitas Perairan Pulau Talaga berkisar antara 33&permil;-40&permil; dengan rata-rata 37,22&permil;.&nbsp;&nbsp; Kisaran tersebut secara &nbsp;keseluruhan &nbsp;masih &nbsp;tergolong &nbsp;baik &nbsp;dalam &nbsp;mendukung &nbsp;kehidupan &nbsp;biota perairan. (Praseno dan Kastoro, 1980 <em>dalam </em>Lisu, 1996), menyatakan di perairan samudera, salinitas biasanya berkisar antara 34 &ndash; 35 o/oo&nbsp; sedang kisaran salinitas normal &nbsp;bagi &nbsp;perairan &nbsp;pantai &nbsp;untuk &nbsp;daerah &nbsp;tropis&nbsp; adalah &nbsp;antara &nbsp;28 &nbsp;&ndash; &nbsp;32 &nbsp;o/oo. Salinitas yang baik untuk pertumbuhan fitoplankton adalah berkisar 10 &ndash; 40o/oo (Raymont, 1980 <em>dalam </em>Pasengo, 1995).</p>
+<p style="margin-left:29.45pt;">
+	Faktor&ndash;faktor yang mempengaruhi kandungan nilai salinitas pada suatu perairan adalah adanya evaporasi pada permukaan perairan, banyaknya air tawar yang&nbsp; masuk &nbsp;ke &nbsp;perairan &nbsp;serta &nbsp;musim.&nbsp; Berdasarkan &nbsp;pengamatan &nbsp;rendahnya salinitas pada stasiun 14 dan 15 disebabkan karena tidak adanya pemasukan air tawar dari darat serta evaporasi.</p>
+<p>
+	<strong><em>e</em></strong><strong><em>.&nbsp;&nbsp; &nbsp;Nitrat</em></strong></p>
+<p style="margin-left:7.1pt;">
+	Berdasarkan hasil survey lapangan dan hasil analisis laboratorium, nilai nitrit pada perairan Pulau Talaga berkisar antara 0,001-0,009 dengan rata-rata 0,004. Sumber nitrit dapat berupa limbah industri dan limbah domestik. Kadar nitrit pada perairan relatif karena segera dioksidasi menjadi nitrat. Perairan alami mengandung nitrit &nbsp;sekitar&nbsp; 0,001&nbsp; mg/liter.&nbsp; Di &nbsp;perairan,&nbsp; nitrit &nbsp;ditemukan&nbsp; dalam jumlah yang sangat sedikit, lebih sedikit dari pada nitrat, karena bersifat tidak stabil &nbsp;dengan &nbsp;keberadaan &nbsp;oksigen. &nbsp;Nitrit &nbsp;merupakan &nbsp;bentuk &nbsp;peralihan &nbsp;antara amonia dan nitrat (nitrifikasi) dan antara nitrat dan gas nitrogen (denitrifikasi) yang terbentuk dalam kondisi anaerob.</p>
+<p>
+	&nbsp;</p>
+<p style="margin-left:7.1pt;">
+	<strong><em>f.&nbsp;&nbsp; &nbsp;Nitrit</em></strong></p>
+<p style="margin-left:7.1pt;">
+	Berdasarkan hasil survey dan analisis, kandungan Nitrat terendah ditemukan pada stasiun 16 yaitu 0,001 dan tertinggi &nbsp;0,118 mg/l pada stasiun 11, dengan rata-rata 0,05 mg/l.&nbsp; Kadar nitrat tersebut masih berada dalam kisaran normal untuk menunjang kehidupan organisme perairan. Effendi (2003) menyatakan kadar nitrat perairan lebih dari 0,2 mg/L dapat mengakibatkan terjadinya eutrofikasi yang dapat merangsang pertumbuhan fitoplankton dengan cepat (<em>blooming</em>). Ditambahkan oleh Susana (2005) menetapkan kadar nitrat yang baik untuk kehidupan biota laut adalah 0&ndash;5,908 &mu;gA/L atau 0&ndash;0,422 mg/L. Nilai ambang batas (NAB) nitrat untuk peruntukan biota laut adalah 0,112 &mu;gA/L atau 0,008mg/L (KMNLH, 2004)</p>
+<p>
+	<strong><em>g.&nbsp;&nbsp; &nbsp;Amoniak</em></strong></p>
+<p style="margin-left:7.1pt;">
+	Amonia (NH4) dan garam-garamnya bersifat mudah larut dalam air. Sumber ammonia di perairan adalah pemecahan nitrogen organik (protein dan urea) dan nitrogen anorganik yang terdapat di dalam tanah dan air, yang berasal dari dekomposisi bahan organic oleh mikroba dan jamur (amonifikasi). Sumber amonia adalah reduksi gasnitrogen yang berasal dari proses difusi udara atmosfer, limbah industri dan domestik.Amonia &nbsp;yang terdapat &nbsp;dalam mineral &nbsp;masuk&nbsp; ke badan&nbsp; &nbsp;air&nbsp; &nbsp;melalui&nbsp; &nbsp;erosi&nbsp; &nbsp;tanah.&nbsp; &nbsp;Selainterdapat&nbsp; &nbsp;dalam&nbsp; &nbsp;bentuk&nbsp;&nbsp; gas,&nbsp; &nbsp;ammonia membentuk senyawa kompleks dengan beberapa ion.&nbsp;</p>
+<p style="margin-left:7.1pt;">
+	Berdasarkan hasil survey dan analisis laboratorium, nilai amoniak di perairan Pulau Talaga berkisar antara 0,725-0,995 dengan rata-rata 0,818. Amonia dapat terserap kedalam bahan-bahan tersuspensi dan koloid sehingga mengendap di dasar perairan. Amonia di perairan dapat menghilang melalui proses volatilisasi karena tekanan parsial amonia dalam larutan meningkat dengan semakin meningkatnya pH. Ikan tidak bisa bertoleransi terhadap kadar amonia bebas yang terlalu tinggi karena dapat mengganggu proses pengikatan oksigen oleh darah dan pada akhirnya &nbsp;dapat &nbsp;meningkatkan sifokasi.&nbsp; Pada &nbsp;budidaya &nbsp;intensif,&nbsp; yang padat penebaran tinggi dan pemberian pakan sangat intensif, penimbunan limbah kotoran terjadi sangat cepat.</p>
+<p style="margin-left:64.85pt;">
+	<strong><em>h</em></strong><strong><em>.&nbsp; &nbsp;BOD</em></strong></p>
+<p style="margin-left:29.45pt;">
+	BOD adalah suatu analisa empiris yang mencoba mendekati secara global proses mikrobiologis yang benar -benar terjadi dalam air. Pemeriksaan BOD diperlukan untuk menentukan beban pencemaran akibat air buangan dan untuk mendesain sistem pengolahan secara biologis (Agnes Anita, 2005). BOD sebagai ukuran jumlah oksigen terlarut yang digunakan oleh mikroorganisme untuk mengurai &nbsp;bahan &nbsp;organik &nbsp;yang&nbsp; terkandung&nbsp; dalam &nbsp;perairan. &nbsp;Berdasarkan &nbsp;hasil survey lapangan&nbsp; dan &nbsp;hasil &nbsp;analisis laboratorium &nbsp;nilai &nbsp;BOD di &nbsp;perairan&nbsp; Pulau</p>
+<p style="margin-left:29.45pt;">
+	Talaga berkisar antara 0,91-1,50 dengan rata-rata 1,17.</p>
+<p style="margin-left:29.45pt;">
+	BOD dan COD mempunyai peranan penting dalam perairan, yaitu sebagai parameter penentuan kualitas suatu perairan, apakah perairan tersebut tercemar atau tidak.&nbsp; Selain itu, kandungan&nbsp; BOD &nbsp;dan&nbsp; COD dalam &nbsp;air&nbsp; dapat membantu mikroorganisme dalam mengurai bahan-bahan organik di perairan. Selain itu, Oksigen terlarut berperan dalam proses oksidasi dan reduksi bahan organik dan anorganik (Salmin, 2005</p>
+</div></p>
+
+<hr>
+
+<h2><a id="sp">Sarana dan Prasarana</a></h2>
+<p><div class="readmore"><p style="margin-left:29.45pt;">
+	<strong><em>S</em></strong><strong><em>arana Transportasi, Komunikasi dan Informasi</em></strong></p>
+<p style="margin-left:29.45pt;">
+	Sarana-transportasi yang tersedia di Pulau Talaga Kecil terdiri dari sarana transportasi laut yang memberi akses bagi warga pulau ini ke wilayah-wilayah sekitarnya termasuk untuk kegiatan penangkapan ikan, dan sarana transportasi darat yang digunakan warga di jalan-jalan desa yang ada. Sarana transportasi laut berupa:</p>
+<p style="margin-left:93.25pt;">
+	1.&nbsp;&nbsp; Kapal cepat berbahan fibre glass berkapasitas 300 penumpang yang dioperasikan oleh operator pelayaran lokal yang melayani rute Baubau - Talaga Kecil &ndash; Kabaena - Kasipute pulang-pergi. Saat ini jumlah penumpang yang naik/turun di Pelabuhan Talaga sekitar 40 orang per hari.</p>
+<p style="margin-left:93.25pt;">
+	2.&nbsp;&nbsp; Kapal kayu &nbsp;berkapasitas 20-30 GT milik warga Pulau Talaga Kecil yang melayani pengangkutan penumpang dan barang dengan rute Talaga &ndash; Baubau pulang pergi.</p>
+<p style="margin-left:93.25pt;">
+	3.&nbsp;&nbsp; Kapal-kapal kayu berkapasitas &lt;5 GT yang digunakan secara pribadi oleh pemiliknya untuk mengangkut barang-barang dagangan, hasil berkebunan&nbsp; maupun&nbsp; air&nbsp; tawar&nbsp; ke/dari wilayah-wilayah &nbsp;sekitarnya seperti Pulau Talaga Besar, Pulau Kabaena dan Mawasangka. Termasuk di dalamnya kapal-kapal nelayan berkapasitas &lt;1 GT yang menggunakan mesin ketinting 5,5 PK &ndash; 13 PK.</p>
+<p style="margin-left:29.45pt;">
+	Infrastruktur transportasi laut yang telah terbangun adalah pelabuhan laut berkapasitas besar dengan panjang dermaga 100 meter yang dapat didarati oleh kapal berkapasitas 10.000 ton.</p>
+<p style="margin-left:29.45pt;">
+	Sarana transportasi darat berupa sepeda motor yang berjumlah ratusan unit dan beberapa unit kendaraan roda empat yang digunakan untuk menjual air tawar dari rumah ke rumah.</p>
+<p style="margin-left:29.45pt;">
+	Sarana komunikasi masyarakat sangat lancar dengan dibangunnya jaringan telepon seluler. Sarana ini sangat membantu dalam komunikasi antar masyarakat di lingkungan Pulau Talaga Kecil sendiri dan terutama bagi masyarakat Talaga dengan sanak saudara dan kerabat yang merantau di daerah/negara lain. Keberadaan sarana komunikasi ini sangat membantu menurunkan dampak negatif dari masyarakat yang merantau berbulan-bulan bahkan bertahun-tahun meninggalkan keluarga.</p>
+<p style="margin-left:29.45pt;">
+	Adapun sarana informasi yang diakses masyarakat siaran radio dan TV. Siaran TV dapat diakses dengan tersedianya jaringan TV Kabel &nbsp;yang menjadikan lebih &nbsp;meratanya &nbsp;akses&nbsp; siaran &nbsp;TV &nbsp;dibandingkan &nbsp;masa-masa &nbsp;sebelumnya &nbsp;yang hanya dijangkau oleh masyarakat yang memiliki antena parabola.</p>
+<p>
+	&nbsp;</p>
+<p style="margin-left:29.45pt;">
+	<strong><em>S</em></strong><strong><em>arana Penerangan</em></strong></p>
+<p style="margin-left:29.45pt;">
+	Sarana &nbsp;penerangan &nbsp;yang&nbsp; tersedia &nbsp;di &nbsp;Pulau &nbsp;Talaga &nbsp;Kecil &nbsp;adalah&nbsp; lampu listrik. Aliran listrik bersumber dari mesin diesel dengan bahan-bakar solar yang disediakan oleh PT. PLN. Meskipun kapasitas mesin disel yang ada mampu memenuhi seluruh kebutuhan pemukiman warga seperti perumahan dan tempat ibadah dan berbagai fasilitas pemerintah di pulau ini seperti pelabuhan, kantor pemerintahan dan sekolah, tetapi suplai aliran listrik hanya tersedia malam hari mulai pukul 18.00-06.00.</p>
+<p style="margin-left:29.45pt;">
+	Keterbatasan pasokan listrik antara lain karena pertimbangan efisiensi ekonomis, dimana penggunaan aliran listrik pada siang hari masih sangat sedikit, karena masih minimnya kegiatan produksi atau industri rumah tangga yang menggunakan listrik pada siang hari.</p>
+<p>
+	&nbsp;</p>
+<p style="margin-left:29.45pt;">
+	<strong><em>S</em></strong><strong><em>arana Air Bersih</em></strong></p>
+<p style="margin-left:29.45pt;">
+	Air bersih merupakan masalah utama yang dihadapi masyarakat Pulau Talaga Kecil. Di seluruh pulau ini tidak terdapat sumber air tawar. Banyak sumur galian yang dibuat masyarakat tetapi airnya berasa payau. Kebutuhan air bersih di Pulau Talaga Kecil hingga saat ini pasok oleh beberapa unit usaha perdagangan air bersih yang mengambil air dari beberapa mata air dan sumur di pesisir Pulau Kabaeena (masih dalam wilayah Kecamatan Talaga Raya). Penyediaan air bersih dilayani oleh tujuh unit usaha penjualan air bersih yang masing-masing memiliki 1 unit kapal pengangkut air.&nbsp;&nbsp; Rata-rata jumlah kapal yang beroperasi per hari adalah lima unit. Setiap unit kapal pengangkut air mampu mengangkut 1-2 kali sehari dengan kapasitas angkut 5000-6000 liter per kapal. Kebutuhan air tawar masyarakat Pulau Talaga Kecil adalah 25.000-30.000 liter per hari. Harga eceran air tawar adalah Rp. 5.000 per 60-100 liter bergantung bada jarak dari pantai. Dalam mengefisienkan penggunaan air tawar warga hanya menggunakan air tawar untuk keperluan air minum dan mencuci dengan menggunakan mesin cuci, sedangkan untuk keperluan lain menggunakan air sumur.</p>
+<p style="margin-left:29.45pt;">
+	Di pulau ini terdapat pula tiga unit usaha instalasi penyediaan air minum kemasan (air galon). Produksi air minum kemasan rata-rata 1.200 liter per unit usaha per hari.</p>
+<p>
+	&nbsp;</p>
+<p style="margin-left:29.45pt;">
+	<strong><em>S</em></strong><strong><em>arana Kesehatan-</em></strong></p>
+<p style="margin-left:29.45pt;">
+	Kesehatan masyarakat adalah syarat utama pembangunan. Dalam tubuh yang sehat terdapat jiwa yang sehat.&nbsp; &nbsp;Selain perilaku hidup sehat, fasilitas kesehatan dan tenaga medis merupakan faktor penentu kesehatan masyarakat di satu wilayah. &nbsp;Keberadaan fasilitas kesehatan dan tenaga medis di Pulau Talaga Kecil sidajikan pada tabel berikut.</p>
+<p>
+	<strong><em>S</em></strong><strong><em>arana Pendidikan</em></strong></p>
+<p style="margin-left:29.45pt;">
+	Pendidikan merupakan modal dasar bagi kemajuan suatu wilayah. Karena ituinfrastruktur di bidang pendidikan &nbsp;merupakan investasi yang sangat berharga bagi pembangunan masyarakat. Pada awalnya sarana pendidikan berupa sekolah- sekolah yang ada di Pulau Talaga Kecil dibangun atas inisiatif dan dorongan masyarakat kepada pemerintah daerah. Kini seiring perkembangan bidang pendidikan sampai tahun 2014 di Pulau Talaga Kecil telah terdapat beberapa fasilitas pendidikan yaitu&nbsp;&nbsp; 2 Taman Kanak-kanak, 6&nbsp;&nbsp; Sekolah Dasar, 1 Sekolah Lanjutan Tingkat Pertama dan 1 Sekolah Lanjutan Tingkat Atas.</p>
+<p style="margin-left:29.45pt;">
+	&nbsp;</p>
+<p style="margin-left:29.45pt;">
+	<strong><em>S</em></strong><strong><em>arana Peribadatan</em></strong></p>
+<p style="margin-left:29.45pt;">
+	Penduduk Pulau Talaga Kecil secara mayoritas berasal dari suku Buton dengan latar belakang agama Islam. &nbsp;Berdasarkan data statistik kecamatan Talaga Raya diketahui bahwa sebanyak 99,9 % penduduk Pulau Talaga Kecil merupakan pemeluk agama Islam. &nbsp;Terdapat satu keluarga yang berasal dari Bali sejumlah 3 orang yang beragama hindu. &nbsp;Fasilitas peribadatan di Pulau Talaga Kecil terdapat</p>
+<p style="margin-left:29.45pt;">
+	4 &nbsp;buah &nbsp;mesjid. &nbsp;Sarana &nbsp;peribadatan &nbsp;yang&nbsp; ada &nbsp;sepenuhnya &nbsp;dibangun &nbsp;atas &nbsp;dana swadaya masyarakat setempat dan dikerjakan secara gotong royong.</p>
+<p style="margin-left:29.45pt;">
+	<strong><em>S</em></strong><strong><em>arana Pendukung Kepemerintahan</em></strong></p>
+<p style="margin-left:29.45pt;">
+	Untuk melaksanakan tugas pemerintahan di Pulau Talaga Kecil perdapat fasilitas gedung pemerintahan. &nbsp;Sebagai ibukota Kecamatan Talaga Raya terdapat fasilitas &nbsp;kantor &nbsp;kecamatan &nbsp;dan &nbsp;satu &nbsp;kantor &nbsp;kelurahan &nbsp;lengkap &nbsp;dengan &nbsp;ruang pertemuannya. &nbsp;Demikian halnya dengan masing-masing pemerintah desa terdapat balai desa sekaligus tempat pertemuan warga desa masing-masing.</p>
+<p>
+	&nbsp;</p>
+<p style="margin-left:29.45pt;">
+	<strong><em>S</em></strong><strong><em>arana Pendukung Wisata</em></strong></p>
+<p style="margin-left:29.45pt;">
+	Wilayah &nbsp;pesisir Pulau Talaga Kecil memiliki panorama yang indah yang dapat &nbsp;dijadikan lokasi &nbsp;pariwisata.&nbsp;&nbsp;&nbsp; Namun&nbsp; sampai &nbsp;saat &nbsp;ini &nbsp;sarana &nbsp;pendukung wisata belum memadai.&nbsp;&nbsp; Sebenarnya dengan adanya pelabuhan yang dibangun pemerintah telah memudahkan aksesibilitas ke Pulau Talaga Kecil. &nbsp;Saat ini baru tersebia 1 home stay untuk liburan. &nbsp;Masih perlu dibangun beberapa fasilitas lagi untuk menunjang kegiatan pariwisata di Pulau Talaga Kecil.</p>
+<p style="margin-left:29.45pt;">
+	<strong><em>S</em></strong><strong><em>arana Pemukiman</em></strong></p>
+<p style="margin-left:29.45pt;">
+	Sebagai daerah kepulauan, Pemukiman penduduk di Pulau Talaga Kecil cukup padat.&nbsp;&nbsp; Namun demikian jika dilihat dari kondisi bangunan rumah sudah cukup memadai yaitu 84,58 % merupakan rumah permanen dan 15,42% rumah bukan permanen.</p>
+<p style="margin-left:29.45pt;">
+	<strong><em>S</em></strong><strong><em>arana Sanitasi Lingkungan</em></strong></p>
+<p style="margin-left:29.45pt;">
+	Sarana sanitasi lingkungan sangat penting terkait dengan kesehatan masyarakat dan estetika lingkungan.&nbsp;&nbsp; Sarana sanitasi lingkungan seperti jamban dan tempat sampah berkaitan dengan kondisi pemukiman. Sebagian besar rumah penduduk sudah menggunakan jamban / kloset.&nbsp;&nbsp; Sementara untuk pembuangan sampah, masyarakat biasanya mengumpul samapah tumah tangga untuk dibakar.</p>
+<p>
+	&nbsp;</p>
+<p style="margin-left:29.45pt;">
+	<strong><em>S</em></strong><strong><em>arana Perikanan dan Kelautan</em></strong></p>
+<p style="margin-left:29.45pt;">
+	Sarana perikanan dan kelautan yang ada di Pulau Talaga Kecil ini adalah adanya pelabuhan dan pasar. Sayangnya kedua fasilitas tersebut belum dimanfaatkan secara optimal.&nbsp;&nbsp; Kegiata perikanan dan kelautan di Pulai Talaga Kecil masih bersifat subsisten.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="pi">Peluang Investasi</a></h2>
+<p><div class="readmore"><p style="margin-left: 29.45pt; text-align: justify;">
+	<strong><em>Jenis Kegiatan Investasi yang sudah berkembang</em></strong></p>
+<p style="margin-left: 29.45pt; text-align: justify;">
+	Walaupun Pulau Talaga Kecil sangat jauh dari pusat perekonomian tetapi tetapi kegiatan investasi tetap dilakukan.&nbsp; &nbsp;Berdasarkan sumbernya, kegiatan investasi di Pulau Talaga terbagi tiga seperti disajikan pada tabel berikut.</p>
+<p style="margin-left: 29.45pt; text-align: justify;">
+	Dari semua investasi yang ada, belum semuanya berjalan lancar kecuali BTS yang dibangun oleh Telkomsel.&nbsp;&nbsp; Pelabuhan laut dengan skala kabupaten sampai saat ini baru disinggahi oleh satu unit kapal cepat dengan jumlah penunpang antara 20 &ndash; 30 orang setiap trip</p>
+<p style="margin-left: 29.45pt; text-align: justify;">
+	<strong><em>Kegiatan Promosi yang sudah dilakukan</em></strong></p>
+<p style="margin-left: 29.45pt; text-align: justify;">
+	Sampai saat penyusunan laporan ini kami belum mendapatkan informasi tentang berbagai kegiatan promosi yang menyangkut pengembangan Pulau Talaga Kecil.&nbsp; &nbsp;Kegiatan ini diharapkan merupakan promosi perdana tentang potensi pengambangan Pulau Talaga Kecil.</p>
+<p style="margin-left: 29.45pt; text-align: justify;">
+	<strong><em>Pe</em></strong><strong><em>r</em></strong><strong><em>aturan tentang Investasi</em></strong></p>
+<p style="margin-left: 29.45pt; text-align: justify;">
+	Sehubungan&nbsp; dengan&nbsp; karakteristik&nbsp; investor &nbsp;yang&nbsp; saat &nbsp;ini &nbsp;ada &nbsp;di &nbsp;Pulau Talaga Kecil, maka belum ada aturan formal yang diberlakukan baik oleh pemerintah&nbsp; &nbsp;maupun&nbsp; &nbsp;oleh&nbsp; &nbsp;masyarakat&nbsp; &nbsp;setempat.&nbsp; &nbsp;Adapun&nbsp; &nbsp;peraturan&nbsp; &nbsp;yang diberlakukan terhadap investasi pemerintah masih tetap mengacu pada peraturan dari sektor terkait, misalnya berkaitan dengan peraturan kepelabuhanan mengacu pada peraturan yang berkaitan dengan sektor perhubungan.</p>
+<p style="text-align: justify;">
+	&nbsp;</p>
+<p style="margin-left: 29.45pt; text-align: justify;">
+	<strong><em>P</em></strong><strong><em>r</em></strong><strong><em>ofil investor yang sudah menanamkan modalnya di lokasi pulau</em></strong></p>
+<p style="margin-left: 29.45pt; text-align: justify;">
+	Seperti telah dikemukakan terdahulu bahwa investor yang ada di Pulau Talaga Kecil terdiri dari Pemerintah, swasta dan masyarakat lokal.&nbsp; &nbsp;Untuk itu yang perlu mendapat penekanan pada bagian ini adalah infestor dari masyarakat lokal.</p>
+<p style="margin-left: 29.45pt; text-align: justify;">
+	Umumnya masyarakat lokal yang berivestasi di Pulau Talaga Kecil masih sarat dengan keterbatasan baik menyangkut modal maupun manajemen usaha. Seperti halnya usaha Koperasi Unit Desa yang pernah berjaya pada sekitar tahun 1980an&nbsp; hanya &nbsp;meninggalkan&nbsp; bekas-bekas kejaaan&nbsp; seperti adanya &nbsp;Penginapam, Toko Serba Ada (Toserba) dan Gudang disebabkan&nbsp; masalah managerial.</p>
+<p style="margin-left: 29.45pt; text-align: justify;">
+	Demikian halnya dengan usaha lembaga keuangan mikro masih terbatas pada &nbsp;peminjaman &nbsp;modal &nbsp;dalam &nbsp;jumlah &nbsp;masih &nbsp;terbatas.&nbsp;&nbsp;&nbsp;&nbsp; Nasabah &nbsp;lembaga keuangan ini adalah calon tenaga kerja yang akan berangkat merantau. Umumnya alasan peminjauan uang untuk pemenuhan kebutuhan merantau atau kebutuhan keluarga yang ditinggalkan.</p>
+<p style="margin-left: 29.45pt; text-align: justify;">
+	Investasi pada usaha penampunhan ikan hidup belum dilakukan secara intensif. &nbsp;Kegiatan yang ada baru sebatas menampung ikan jenis tertentu seperti kerapu. &nbsp;Kapasitas produksi usaha ini belum jelas. &nbsp;Hasil tangkapan nelayan yang kebetulan menangkap ikan kerapu&nbsp; dijual kepada pedagang pengumpul ini.</p>
+<p style="text-align: justify;">
+	&nbsp;</p>
+<p style="margin-left: 29.45pt; text-align: justify;">
+	<strong><em>Kendala umum yang dihadapi dalam mewujudkan kegiatan investasi</em></strong></p>
+<p style="margin-left: 29.45pt; text-align: justify;">
+	Prospek investasi di Pulau Talaga Kecil cukup menjanjikan.&nbsp; &nbsp;Namun demikian sampai saat ini iklim investasi di daerah ini belum kondusif.&nbsp;&nbsp; Hal ini disebabkan karena adanya beberapa kendala meliputi; a) Fasilitas infrastruktur yang belum memadai, b) Tingkat pendidikan masyarakat masih relatif rendah.dan c). Belum ada dukungan lembaga permodalan secara formal seperti perbankan.</p>
+<p style="text-align: justify;">
+	&nbsp;</p>
+<p style="margin-left: 29.45pt; text-align: justify;">
+	<strong><em>L</em></strong><strong><em>angkah-langkah yang telah diambil dalam menghadapi permasalahan</em></strong></p>
+<p style="margin-left: 29.45pt; text-align: justify;">
+	Dari &nbsp;berbagai &nbsp;permasalahan yang dihadapi &nbsp;pemerintah&nbsp; dan&nbsp; masyarakat Pulau Talage Kecil telah melakukan berbagai langkah&nbsp; yaitu mengajukan usul kepada pemerintah baik di daerah maupun pusat untuk membantu mengatasi permasalahan yang ada seperti pemenuhan kebutuhan air bersih.&nbsp; &nbsp;Sayangnya usulan tersebut belum terealisasi sampai saat ini.</p>
+<p>
+	&nbsp;</p>
+</div></p>
+
+<hr>
+
+<h2><a id="pap">Potensi dan Arahan Pengembangan</a></h2>
+<p><div class="readmore"><div>
+	<p style="margin-left:29.45pt;">
+		<strong><em>P</em></strong><strong><em>otensi Pengembangan Pulau</em></strong></p>
+	<p style="margin-left:29.45pt;">
+		Dilihat &nbsp;dari &nbsp;kondisi &nbsp;alam &nbsp;sekitar&nbsp; Pulau Talaga &nbsp;Kecil &nbsp;memiliki &nbsp;potensi pengambangan untuk beberapa kegiatan sebagai berikut:</p>
+	<p style="margin-left:29.45pt;">
+		<strong><em>Budidaya laut</em></strong></p>
+	<p style="margin-left:29.45pt;">
+		Memiliki perairan yang cukup luas untuk pengembangan budidaya laut seperti rumput laut dan karamba jaring apung multi spesies.</p>
+	<p style="margin-left:29.45pt;">
+		<strong><em>Pe</em></strong><strong><em>r</em></strong><strong><em>i</em></strong><strong><em>kanan tangkap</em></strong></p>
+	<p style="margin-left:29.45pt;">
+		Memiliki potensi terumbu karang yang merupakan habitat berbagai jenis ikan ekonomis penting dan memiliki potensi sumberdaya manusia yang terampil dalam kegiatan penangkapan ikan.</p>
+	<p style="margin-left:29.45pt;">
+		<strong><em>Pe</em></strong><strong><em>r</em></strong><strong><em>dagangan</em></strong></p>
+	<p style="margin-left:29.45pt;">
+		Memiliki &nbsp;jumlah &nbsp;penduduk &nbsp;yang &nbsp;relatif&nbsp; banyak &nbsp;sebagai &nbsp;potensi &nbsp;pasar untuk barang-barang kebutuhan sehari-hari.&nbsp; &nbsp;Disamping itu juga memiliki pelabuhan yang besar sebagai outlet untuk perdagangan komoditi perikanan dan pertanian.</p>
+	<p style="margin-left:29.45pt;">
+		<strong><em>L</em></strong><strong><em>e</em></strong><strong><em>m</em></strong><strong><em>baga keuangan</em></strong></p>
+	<p style="margin-left:29.45pt;">
+		Perputaran dan aliran uang yang cukup besar terutama yang berasal dari kiriman para tenaga kerja asal Pulau Talaga Kecil yang merantau keluar daerah.</p>
+	<p style="margin-left:29.45pt;">
+		Selama ini aktifitas keluar masuknya uang dari dan ke Pulau Talaga Kecil ini masih lewat perantara di Kota Bau Bau. &nbsp;Disamping itu lembaga keuangan seperti bank ditutuhkan untuk membantu permodalapada berbagai usaha yang ada.</p>
+	<p style="margin-left:29.45pt;">
+		<strong><em>P</em></strong><strong><em>ariwisata pantai dan laut</em></strong></p>
+	<p style="margin-left:29.45pt;">
+		Pulau Talaga Kecil memiliki panorama pantai yang indah dengan pasir putih dan terumbu karang merupakan potensi pariwisata pantai dan laut. Keberadaan pelabuhan dan jaringan telekomunikasi yang memadai merupakan faktor penunjang kegiatan tersbut.</p>
+	<p style="margin-left:29.45pt;">
+		<strong><em>Arahan Pengembangan Pulau oleh Masyarakat</em></strong></p>
+	<p style="margin-left:29.45pt;">
+		Hasil wawancara dengan masyarakat Pulau Talaga Kecil, muncul berbagai gagasan tentang keinginan dan kebutuhan masyarakat seperti :</p>
+	<p>
+		-&nbsp;&nbsp; &nbsp;<strong>Membangun talud pemecah ombak</strong></p>
+	<p>
+		Pemecah ombak dibutuhkan untuk melindungi pantai dari gempuran ombak ketika musim barat. &nbsp;Telah terjadi gejala abrasi pantai akibat &nbsp;digerus ombak.</p>
+	<p>
+		-&nbsp;&nbsp; <strong>&nbsp;Mengembangkan tempat wisata</strong></p>
+	<p>
+		Potensi wisata di Pulau Talaga Kecil dengan panorama pantai dan &nbsp;laut &nbsp;yang &nbsp;indah &nbsp;perlu &nbsp;dikembangkan.&nbsp;&nbsp;&nbsp;&nbsp; Saat &nbsp;ini &nbsp;sudah &nbsp;ada masyarakat &nbsp;yang&nbsp; mencoba &nbsp;untuk &nbsp;membangun &nbsp;fasilitas &nbsp;home &nbsp;stay namun jumlahnya masih sangat terbatas. Untuk itu masyarakat sangat mengharapkan keterlibatan pemerintah ataupun pihak swasta dalam rangka mengenbangkan potensi tersebut.</p>
+	<p>
+		-&nbsp;&nbsp; &nbsp;<strong>Mengendalikan penangkapan ikan di sekitar`Pelabuhan</strong></p>
+	<p>
+		Penangkapan &nbsp;ikan &nbsp;disekitar &nbsp;pelabuhan&nbsp; dengan &nbsp;menggunakan alat pancing sudah dilakukan sejak selesainya pembangunan pelabuhan tersebut. &nbsp;Namun sejak adanya bantuan jaring insang dari pemerintah, operasioanl alat tersebut dilakukan di sekitar pelabuhan sehingga sebagian masyarakat yang menggunakan pelabuhan tersebut untuk memancing merasa tergaggu dan berkurang hasil tangkapan mereka. Untuk mencegah terjadinya konflik, maka perlu ada upaya pemerintah kecamatan untuk melakukan pengaturan keiatan&nbsp;&nbsp; penagkapan ikan di sekitar area pelabuhan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+	<p>
+		<strong>-&nbsp;&nbsp; &nbsp;Mengembangkan perkebunan dan peternakan di daratan Pulau Kabaena </strong></p>
+	<p>
+		Masyarakat petani dan peternak yang berada di Pulau Talaga Kecil&nbsp; &nbsp;kebanyakan&nbsp; &nbsp;melakukan&nbsp; &nbsp;aktifitas&nbsp; &nbsp;mereka&nbsp; &nbsp;di&nbsp; &nbsp;daratan&nbsp; &nbsp;Pulau Kabaena.&nbsp; &nbsp;Kelompok masuyarakat ini sangat mengharapkan bantuan dari berbagai pihak untuk mengembangkan usaha mereka.</p>
+</div>
+<p>
+	&nbsp;</p>
+<p>
+	<strong>-&nbsp;&nbsp; &nbsp;Menetapkan kawasan perlindungan laut</strong></p>
+<p>
+	Kawasan perlindungan laut di Pulau Talaga Kecil perlu dilakukan untuk mengendalikan&nbsp; dan melestarikan&nbsp; potensi &nbsp;perikanan. Untuk itu perlu penetapan yang disepakati bersama oleh pemerintah dan masyarakat setempat.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="kp">Kendala Pengembangan</a></h2>
+<p><div class="readmore"><p style="margin-left:65.45pt;">
+	Kendala Pengembangan Pulau Talaga Kecil antara lain adalah :</p>
+<p style="margin-left:83.45pt;">
+	-&nbsp;&nbsp; &nbsp;Tidak adanya Air bersih (sumber air tawar)</p>
+<p style="margin-left:83.45pt;">
+	-&nbsp;&nbsp; &nbsp;Kurangnya daya Listrik</p>
+<p style="margin-left:83.45pt;">
+	-&nbsp;&nbsp; &nbsp;Kurangnya modal usaha</p>
+<p style="margin-left:83.45pt;">
+	-&nbsp;&nbsp; &nbsp;Belum ada kegiatan promosi tentang potensi pengambangan</p>
+<p style="margin-left:83.45pt;">
+	-&nbsp;&nbsp; &nbsp;Kurangnya pembinaan bagi kelompok usaha yang sudah ada.</p>
+<p>
+	&nbsp;</p>
+</div></p>
+
+<hr>
+
+<h2><a id="rf">Referensi</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<br />
+	<i> 
+		<p style="font-size:12px;">
+			Karena keterbatasan SDM dalam penginputan dan pengolahan data, kami mohon maaf atas ketidak lengkapan beberapa data pulau yang kami tampilkan, harap dimaklumi.
+			Berikan keritik dan saran pada kolom komentar agar kita dapat bersama menyajikan sebuah data yang cukup sempurna untuk halayak ramai yang berguna
+			demi kesejahterahan, kelestarian dan keindahan pulau-pulau kecil yang dimiliki Indonesia.<br />
+			*Jika sekiranya anda memiliki data yang cukup banyak, silakan mengirimkan file melalui email kami di <b><a>identifikasippk@gmail.com</a></b>
+			
+		</p>
+	</i>
+<br />
+
+<div id="fb_comn" class="fb-comments" data-href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_info/8461" data-width="800" data-numposts="5" data-colorscheme="light"></div>
+
+
+</div>
+</div>
+</div>
+<div id="wrapper">
+
+<div class="footer"><p>
+<!--<marquee onmouseover="this.stop()" onmouseout="this.start()" scrollamount="5" direction="right" width="798" height="14"  behavior="scroll">-->
+<a href="http://www.ppk-kp3k.kkp.go.id/" target="_blank">Direktorat Pendayagunaan Pulau-Pulau Kecil &nbsp; | &nbsp;</a>
+<a href="http://www.kp3k.kkp.go.id/" target="_blank">Ditjen Kelautan, Pesisir dan Pulau-Pulau Kecil &nbsp; | &nbsp;</a>
+<a href="http://www.kkp.go.id/" target="_blank">Kementerian Kelautan dan Perikanan</a>
+<!--</marquee>--> <br />
+Jl. Medan Merdeka Timur No. 16 Gedung Mina Bahari 3 Lantai 10, Jakarta, Indonesia <br />
+Email : identifikasippk@gmail.com <br />
+Telp &amp; Fax: (021) 3522058 <br />
+&copy; Copyright Direktorat Pendayagunaan Pulau-Pulau Kecil 2012&nbsp; <br /></p>
+</div>
+</div>
+</body>
+</html>

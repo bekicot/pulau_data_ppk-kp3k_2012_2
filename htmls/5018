@@ -1,0 +1,1242 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Pulau Medang</title>
+
+<meta charset="utf-8"/>
+
+<meta property="fb:app_id" content="559408774147878" />
+
+
+<meta property="og:title" content="Pulau Medang" />
+<meta property="og:url" content="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_info/5018" />
+
+
+    <script type="text/javascript" src="http://ajax.microsoft.com/ajax/jquery/jquery-1.4.4.min.js">
+    </script>
+    
+    <script type="text/javascript" src="http://plugins.learningjquery.com/expander/jquery.expander.js">
+    </script>
+    
+    <script type="text/javascript">
+        $(function () {
+            $('div.readmore').expander({
+                slicePoint:200,
+                expandText: '(Baca selengkapnya)',
+                userCollapseText: '(Sembunyikan selengkapnya)'
+            });
+        });
+    </script>
+        
+	<script src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/galleria/galleria-1.2.8.min.js"></script>
+
+        <SCRIPT TYPE="text/javascript">
+            <!--
+            //Disable right click script
+            //visit http://www.rainbow.arch.scriptmania.com/scripts/
+            var message="Sorry, right-click has been disabled";
+            ///////////////////////////////////
+            function clickIE() {if (document.all) {(message);return false;}}
+            function clickNS(e) {if
+            (document.layers||(document.getElementById&&!document.all)) {
+            if (e.which==2||e.which==3) {(message);return false;}}}
+            if (document.layers)
+            {document.captureEvents(Event.MOUSEDOWN);document.onmousedown=clickNS;}
+            else{document.onmouseup=clickNS;document.oncontextmenu=clickIE;}
+            document.oncontextmenu=new Function("return false")
+            // -->
+            </SCRIPT>
+            
+            <SCRIPT TYPE="text/javascript">
+            <!--
+            //Disable select-text script (IE4+, NS6+)
+            //visit http://www.rainbow.arch.scriptmania.com/scripts/
+            ///////////////////////////////////
+            function disableselect(e){
+            return false
+            }
+            function reEnable(){
+            return true
+            }
+            //if IE4+
+            document.onselectstart=new Function ("return false")
+            //if NS6
+            if (window.sidebar){
+            document.onmousedown=disableselect
+            document.onclick=reEnable
+            }
+            // -->
+            </SCRIPT>  
+              
+<link rel="stylesheet" type="text/css" href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/css/main.css" media="screen"/>
+<style type='text/css'>
+#info_wrap{
+	width:820px;
+	margin:0 auto;
+	text-shadow:0px 1px 1px #09F;
+}
+table{
+	color:#000000;
+}
+h1{
+	color:#000000;
+}
+.tengahin{
+	width: 105px;
+	height: 30px;
+	margin: 0 auto auto auto;
+}
+#box_view{
+	background-image:-webkit-gradient(linear, 0 0%, 0 100%, from(#FFFFFF), to(#E0F0F5));
+	background:#FFF;
+	color:#F60;
+	border: 1px solid #fff;
+	border-radius: 4px 4px 4px 4px;
+	box-shadow: 0 8px 6px -6px black;
+	position:fixed;
+	right:0;
+	top:150px;;
+	width:80px;
+	z-index:10;
+	padding-left:12px;
+	font-size:10px;
+	}
+#box_view li{
+	color:#F60;
+	margin-left:-30px;
+	}
+	#wrapper a b {
+	color: #FFF;
+	font-size:14px;
+}
+.batas{
+	float:left;
+	border-right-style:inset;
+	border-right-width:thin;
+	}
+.text_h_wrap{
+	
+	padding-left:450px;
+	padding-top:39px;
+	text-shadow:0px 1px 1px #09F;
+	}
+#wrapper .footer p{
+	font-size:12px;
+	color: #FFF;
+	text-align:center;
+	text-shadow:0px 1px 1px #09F;
+}
+td,th {
+	font-size: 12px;
+}
+
+marquee a{
+	color:#FFF
+	}
+#wrapper .footer a{
+	color: #FFFFFF;
+}
+</style>
+            
+<script>
+function goBack()
+  {
+  window.history.back()
+  }
+</script>
+<script type="text/javascript">
+function Popup( url, height, width )
+{
+    var windowProperties = "toolbar = 0, scrollbars = 1, location = 0, statusbar = 0, menubar = 0, resizable = 1, width = " + width + ", height = " + height + ", left = 50, top = 50";
+ 
+    return window.open( url, "", windowProperties );
+}
+</script>
+
+
+
+</head>
+<body oncontextmenu='return false;' onkeydown='return false;' onmousedown='return false;'>
+
+<a id="top_view"></a>
+<div id="wrapper">
+<div class="header_wrap">
+<div class="text_h_wrap">
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/home_page'><b>&nbsp;Home&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/menu_info/1'><b>&nbsp;About Us&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_data'><b>&nbsp;Direktori Pulau&nbsp;&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/program_ip'><b>&nbsp;IKU&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/data_ppkt'><b>&nbsp;PPKT&nbsp;</b></a>
+</div>
+<!--<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/maintenance'><b>&nbsp;Login&nbsp;</b></a>-->
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/dir_log_cont'><b>&nbsp;Login&nbsp;</b></a>
+
+</div>
+</div>
+</div>
+
+<div id="fb-root"></div>
+<script>
+  window.fbAsyncInit = function() {
+    // init the FB JS SDK
+    FB.init({
+      appId      : '559408774147878',                        // App ID from the app dashboard
+      status     : true,                                 // Check Facebook Login status
+      xfbml      : true                                  // Look for social plugins on the page
+    });
+
+    // Additional initialization code such as adding Event Listeners goes here
+  };
+
+  // Load the SDK asynchronously
+  (function(){
+     // If we've already installed the SDK, we're done
+     if (document.getElementById('facebook-jssdk')) {return;}
+
+     // Get the first script element, which we'll use to find the parent node
+     var firstScriptElement = document.getElementsByTagName('script')[0];
+
+     // Create a new script element and set its id
+     var facebookJS = document.createElement('script'); 
+     facebookJS.id = 'facebook-jssdk';
+
+     // Set the new script's source to the source of the Facebook JS SDK
+     facebookJS.src = '//connect.facebook.net/en_US/all.js';
+
+     // Insert the Facebook JS SDK into the DOM
+     firstScriptElement.parentNode.insertBefore(facebookJS, firstScriptElement);
+   }());
+</script>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=559408774147878";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="box_view">
+    <a href="#top_view">MENU</a>
+    <h3><p>Lihat Informasi:</p></h3>
+    <ul>
+	<a href="#sf"><li>Slide Foto</li></a>
+    <a href="#gu"><li>Gambaran Umum</li></a>
+    <a href="#ksbk"><li>Kependudukan, Sosial Budaya dan Kelembagaan</li></a>
+    <a href="#eshp"><li>Ekosistem dan Sumberdaya Hayati</li></a>
+    <a href="#snh"><li>Sumberdaya Non Hayati</li></a>
+    <a href="#aps"><li>Aktivitas Pengelolaan Sumberdaya</li></a>
+    <a href="#ling"><li>Lingkungan</li></a>
+    <a href="#sp"><li>Sarana dan Prasarana</li></a>
+    <a href="#pi"><li>Peluang Investasi</li></a>
+    <a href="#pap"><li>Potensi Arahan Pengembangan</li></a>
+    <a href="#kp"><li>Kendala Pengembangan</li></a>
+	<a href="#rf"><li>Referensi</li></a>
+    </ul>
+    <a href="#fb_comn">KOMENTAR</a>
+</div>
+
+<br>
+			<a id="sf"></a></h2>
+			<div id="galleria">
+            <!--<div class='tengahin'><input type="button" value="Kembali Ke List" onclick="goBack()"></div>-->
+                            </div>
+            
+            <script>
+            Galleria.loadTheme('http://www.ppk-kp3k.kkp.go.id/direktori-pulau/galleria/themes/classic/galleria.classic.min.js');
+            Galleria.run('#galleria');
+            </script>
+</div>
+
+<div id="text_warp">
+
+
+<p><h1>Medang</h1></p>
+<table>
+<tr>
+	<td>Nama Lain</td> <td>:</td> <td></td>
+</tr>
+<tr>
+	<td>Propinsi</td> <td>:</td> <td>NUSA TENGGARA BARAT</td>
+</tr>
+<tr>
+	<td>Kabupaten</td> <td>:</td> <td>KABUPATEN SUMBAWA</td>
+</tr>
+<tr>
+	<td>Kecamatan</td> <td>:</td> <td></td>
+</tr>
+<tr>
+	<td>Koordinat</td> <td>:</td> <td><a href="http://www.ppk-kp3k.kkp.go.id/giskkp/index.html?extent="target="_blank">8° 8' 19.418</a></td>
+</tr>
+</table>
+<hr>
+
+<h2><a id="gu">Gambaran Umum</a></h2>
+<p><div class="readmore"><p style="text-align: justify;">
+	<span style="color:#ff0000;"><strong>GAMBARAN UMUM</strong></span></p>
+<p style="text-align: justify; margin-left: 40px;">
+	Pulau Medang secara geografis terletak di sebelah utara Pulau Sumbawa, dan secara administratif berada di Kecamatan Labuan Badas, Kabupaten Sumbawa dengan posisi koordinat geografis pulau&nbsp; 08<sup>0</sup>08&rsquo;23&rdquo; LS dan 117<sup>0</sup>23&rsquo;16&rdquo; BT. Pulau Medang memiliki luas 27,65 Km2 terdiri dari 2 desa yakni Desa Bajo Medang (8,65 Km2) dan Bugis Medang (19,0 Km2). Pulau Medang dihuni oleh suku Bugis, Bajo, Mandar dan Sasak yang menyandarkan kehidupannya dengan menjadi Nelayan, pembudadaya rumput laut dan berkebun (tanaman Kelapa, ketela pohon dan jenis tanaman perkebunan lainnya). Pulau Medang memiliki tipologi daratan landai dan berpasir putih, dengan pemukiman penduduk terletak disebelah selatan pulau. Terdapat danau payau terletak di tengah-tengah pulau. Lahan yang ada di wilayah itu sebelah timur laut dimanfaatkan sebagai tegalan, kebun dan pekarangan penduduk, sedangkan di sebelah barat pulau merupakan hutan rawa, dan hutan mangrove.</p>
+<p style="text-align: justify;">
+	<span style="color:#ff0000;"><strong>AKSESIBILITAS</strong></span></p>
+<p style="margin-left: 40px; text-align: justify;">
+	Untuk mencapai Pulau Medang dari Kab. Sumbawa, dapat ditempuh dengan menggunakan kapal boat atau kapal penumpang dari pelabuhan Badas dengan ongkos kapal sebesar Rp. 15.000. Kapal ini beroperasi setiap hari melayani rute Pelabuhan Badas ke Pulau Medang.&nbsp; Waktu yang dibutuhkan untuk mencapai pulau Medang sekitar 2,5 jam. Jarak tempuh dari Kantor Desa Bajo Medang ke kantor kecamatan 50 Km, sedangkan jarak dari Bajo Medang ke kantor kabupaten mencapai 54 Km.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="ksbk">Kependudukan, Sosial Budaya dan Kelembagaan</a></h2>
+<p><div class="readmore"><p>
+	<span style="color:#ff0000;">KEPENDUDUKAN</span></p>
+<p style="margin-left:14.2pt;">
+	Pulau Medang merupakan salah satu pulau kecil berpenduduk yang terletak di Kabupaten Sumbawa. Jumlah penduduk di pulau ini terdiri dari Desa Bajo Medang&nbsp; sebanyak 1509 jiwa, yang terdiri dari <u>+</u> 449 Kepala Keluarga dan Desa Bugis Medang sebanyak 1038 jiwa yang terdiri dari 364 kepala keluarga. Penduduk pulau ini&nbsp; mayoritas bersuku&nbsp; Bugis dan beragama islam. Bahasa keseharian yang digunakan adalah bahasa bugis, bahasa bajo dan bahasa Indonesia. Sebagian besar mata pencaharian utama masyarakat di Pulau Medang adalah sebagai nelayan baik itu sebagai nelayan tangkap atau nelayan budidaya.</p>
+<p style="margin-left:14.2pt;">
+	&nbsp;</p>
+</div></p>
+
+<hr>
+
+<h2><a id="eshp">Ekosistem dan Sumberdaya Hayati</a></h2>
+<p><div class="readmore"><p style="text-align: justify;">
+	<span style="color:#ff0000;"><strong>Terumbu Karang</strong></span></p>
+<p style="text-align: justify; margin-left: 40px;">
+	Terumbu karang merupakan potensi pesisir dan pulau-pulau kecil yang menjadi salah satu komoditas andalan. Perairan di Pulau Medang masih sangat mendukung pertumbuhan terumbu karang. Asosiasi bentik yang berada di ekosistem terumbu karang adalah ikan terumbu, moluska, dan bentik lainnya.</p>
+<p style="margin-left: 40px; text-align: justify;">
+	Pengamatan dilakukan di tiga titik pengamatan, yakni bagian utara, barat, dan selatan Pulau Medang. Berdasarkan hasil pengamatan, kondisi perairan di Pulau Medang tergolong baik, arus di perairan tidak kuat (sedang), suhu perairan normal, visibilitas tinggi (jernih), gelombang rendah. Terumbu karang pada masing-masing sisi bagian dari Pulau Medang dikategorikan hampir sama, yaitu berkisar antara 26,33-46,37% dan berada dalam kategori sedang. Bagian Selatan memiliki persen tutupan karang tertinggi, selanjutnya bagian barat dan utara Pulau Medang. Berikut merupakan penjelasan lebih rinci mengenai kondisi terumbu karang di masing-masing titik pengamatan:</p>
+<ol style="list-style-type: lower-alpha; margin-left: 40px;">
+	<li style="text-align: justify;">
+		<p>
+			Terumbu Karang Bagian Utara Pulau Medang</p>
+	</li>
+</ol>
+<p style="margin-left: 80px; text-align: justify;">
+	Bentuk topografi ekosistem terumbu karang atau substrat dasar di bagian utara Pulau Medang tergolong flat (datar). Tipe pertumbuhan karangnya adalah karang tepi (<em>fringing reef</em>). Jarak antara lokasi pengambilan data dengan pantai kira&ndash;kira 400 m. Substrat dasar dengan kategori abiotik didominasi oleh pasir dan patahan karang (<em>rubbles</em>). Keadaan perairan cukup berarus, dengan visibitas yang cukup baik. Terumbu karang ditemukan pada kedalaman lebih dari 12 m. Namun pengamatan dilakukan pada kedalaman rata-rata, yaitu 8 m. Kondisi terumbu karang pada bagian utara Pulau Medang tergolong sedang.</p>
+<p style="margin-left: 80px; text-align: justify;">
+	Pengamatan karang pada Bagian Utara Pulau Medang menunjukkan kondisi penutupan substrat dasar oleh kategori KKH (Karang Keras Hidup) sebesar 26,33%. Penutupan oleh komponen abiotik terlihat cukup tinggi, yaitu sebesar 38,43%, sedangkan oleh komponen biotik sebesar 3,73%. Penutupan oleh karang mati sebesar 28,90% dan alga sebesar 2,60%.</p>
+<p style="margin-left: 80px; text-align: justify;">
+	Kondisi terumbu karang di Pulau Medang bagian utara menghadapi tekanan lingkungan yang cukup besar. Kerusakan karang pada lokasi pengamatan diduga disebabkan oleh aktivitas pengeboman, baik untuk menangkap ikan maupun untuk menambang karang. Hal ini terlihat dari banyaknya karang yang hancur menjadi patahan karang. Beberapa sisa karang diduga diambil oleh penduduk setempat.</p>
+<ol style="list-style-type: lower-alpha; margin-left: 40px;">
+	<li style="text-align: justify;" value="2">
+		<p>
+			Terumbu Karang Bagian Barat Pulau Medang</p>
+	</li>
+</ol>
+<p style="margin-left: 80px; text-align: justify;">
+	Bagian barat Pulau Medang memiliki kontur kedalaman <em>slope</em> dan cukup berarus. Pengambilan data ekosistem terumbu karang dilakukan pada kedalaman 9 m. Tipe pertumbuhan karang di lokasi ini adalah karang tepi (<em>fringing reef</em>). Jarak antara lokasi pengambilan data dengan pantai kira&ndash;kira 600 m. Substrat dasar didominasi oleh komponen abiotik yang terdiri atas pasir dan patahan karang (<em>rubbles</em>). Kondisi penutupan substrat dasar oleh kategori KKH (Karang Keras Hidup) sebesar 39,90%. Penutupan kategori abiotik terlihat tinggi sebesar 41,27% dan biotik sebesar 0,57%. Sedangkan penutupan karang mati yang terlihat adalah sebesar 14,90%, sedangkan alga sebesar 3,30%.</p>
+<p style="margin-left: 80px; text-align: justify;">
+	Berdasarkan hasil pengamatan, lokasi pengambilan data ini diduga rusak akibat adanya pengeboman dan pertambangan. Hal ini terlihat dari banyaknya karang yang hancur menjadi patahan karang dan hilangnya patahan karang yang besar.</p>
+<ol style="list-style-type: lower-alpha; margin-left: 40px;">
+	<li style="text-align: justify;" value="3">
+		<p>
+			Terumbu Karang Bagian Selatan Pulau Medang</p>
+	</li>
+</ol>
+<p style="margin-left: 80px; text-align: justify;">
+	Selatan Pulau Medang memiliki kontur kedalaman yang cukup landai dengan arus perairan yang lebih tenang. Pengambilan data ekosistem terumbu karang dilakukan di kedalaman 9 meter. Tipe pertumbuhan karang di lokasi ini adalah karang tepi (<em>fringing reef</em>). Jarak antara lokasi pengambilan data dengan pantai kira&ndash;kira sejauh 1 km. Substrat dasar didominasi dengan kategori KKH (Karang Keras Hidup). Substrat dasar kategori abiotik didominasi oleh pasir. Kondisi penutupan substrat dasar oleh kategori KKH (Karang Keras Hidup) sebesar 46,37%. Penutupan kategori abiotik sebesar 22,63% dan biotik sebesar 24,27%. Sedangkan penutupan karang mati yang terlihat sebesar 6,60% dan alga sebesar 6,60%. Kondisi terumbu karang di wilayah selatan Pulau Medang ini relatif lebih baik dibanding dengan bagian utara dan barat.</p>
+<p style="text-align: justify;">
+	<span style="color:#ff0000;"><strong>Ikan Karang</strong></span></p>
+<p style="text-align: justify; margin-left: 40px;">
+	Pulau Medang merupakan salah satu pulau yang terletak bersebelahan dengan Pulau Moyo di Laut Flores. Data hasil pengamatan kemudian dianalisis untuk menentukan nilai indeks keanekaragaman (H&rsquo;), keseragaman (E&rsquo;), dan dominansi (C&rsquo;).</p>
+<p style="text-align: center;">
+	Indeks keanekaragaman (H&rsquo;), keseragaman (E), dan dominansi (C) ikan terumbu</p>
+<table align="center" border="0" cellpadding="0" cellspacing="0" style="width:516px;" width="516">
+	<tbody>
+		<tr>
+			<td nowrap="nowrap" style="width:115px;height:19px;">
+				<p style="text-align: justify;">
+					<strong>Lokasi</strong></p>
+			</td>
+			<td nowrap="nowrap" style="width:134px;height:19px;">
+				<p style="text-align: justify;">
+					<strong>H</strong></p>
+			</td>
+			<td nowrap="nowrap" style="width:134px;height:19px;">
+				<p style="text-align: justify;">
+					<strong>E</strong></p>
+			</td>
+			<td nowrap="nowrap" style="width:134px;height:19px;">
+				<p style="text-align: justify;">
+					<strong>C</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="width:115px;height:19px;">
+				<p style="text-align: justify;">
+					Utara</p>
+			</td>
+			<td nowrap="nowrap" style="width:134px;height:19px;">
+				<p style="text-align: justify;">
+					3.3461</p>
+			</td>
+			<td nowrap="nowrap" style="width:134px;height:19px;">
+				<p style="text-align: justify;">
+					0.8952</p>
+			</td>
+			<td nowrap="nowrap" style="width:134px;height:19px;">
+				<p style="text-align: justify;">
+					0.0534</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="width:115px;height:19px;">
+				<p style="text-align: justify;">
+					Barat</p>
+			</td>
+			<td nowrap="nowrap" style="width:134px;height:19px;">
+				<p style="text-align: justify;">
+					3.0753</p>
+			</td>
+			<td nowrap="nowrap" style="width:134px;height:19px;">
+				<p style="text-align: justify;">
+					0.8582</p>
+			</td>
+			<td nowrap="nowrap" style="width:134px;height:19px;">
+				<p style="text-align: justify;">
+					0.0641</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="width:115px;height:19px;">
+				<p style="text-align: justify;">
+					Selatan</p>
+			</td>
+			<td nowrap="nowrap" style="width:134px;height:19px;">
+				<p style="text-align: justify;">
+					2.7035</p>
+			</td>
+			<td nowrap="nowrap" style="width:134px;height:19px;">
+				<p style="text-align: justify;">
+					0.7873</p>
+			</td>
+			<td nowrap="nowrap" style="width:134px;height:19px;">
+				<p style="text-align: justify;">
+					0.0968</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<div style="clear: both; text-align: justify;">
+	&nbsp;</div>
+<p style="margin-left: 40px; text-align: justify;">
+	Nilai H&rsquo; menunjukan hubungan antara keanekaragaman jenis ikan karang dengan tekanan lingkungan. Semakin besar nilai H&rsquo; yang diperoleh maka keanekaragaman jenis semakin tinggi serta terjadi kesetimbangan antara kelimpahan jenis dengan tekanan lingkungan. Komunitas ikan karang di Pulau Medang memiliki kriteria keanekaragaman jenis ikan karang yang sedang hingga tinggi.</p>
+<p style="margin-left: 40px; text-align: justify;">
+	Apabila suatu komunitas didominansi oleh salah satu jenis ikan, maka nilai indeks C akan semakin mendekati angka 1. Hal tersebut akan mengakibatkan kestabilan komunitas di perairan tersebut akan semakin berkurang. Kondisi komunitas ikan karang di Pulau Medang termasuk dalam tingkat dominansi rendah. Berikut adalah penjelasan rinci komunitas ikan terumbu pada masing-masing titik pengamatan :</p>
+<ol style="list-style-type: lower-alpha; margin-left: 40px;">
+	<li style="text-align: justify;">
+		<p>
+			Ikan Karang Bagian Utara P. Medang</p>
+	</li>
+</ol>
+<p style="margin-left: 80px; text-align: justify;">
+	Pengamatan ikan terumbu di bagian utara Pulau Medang menunjukan terdapat 14 famili ikan terumbu yang terdiri dari 42 jenis ikan. Famili ikan terumbu yang banyak dijumpai adalah Pomacentridae&nbsp;&nbsp;&nbsp;&nbsp; dengan jenis terbanyak berasal dari jenis <em>Amblyglyphidodon curacao</em> 1080 ind/ha, kemudian disusul oleh jenis <em>Pomacentrus moluccensis</em> 880 ind/ha. Kedua jenis ikan ini sering ditemukan mendominansi perairan karena tingkah laku ikan ini yang cenderung memanfaatkan sela-sela terumbu karang sebagai tempat berlindung dan mencari makan. Ikan yang berasal dari famili Pomacentridae aktif mencari makan pada siang hari. Makanan ikan berupa plankton yang berada di kolom perairan. Famili ikan yang juga banyak ditemukan adalah famili Holocentridae dengan jenis ikan yang mendominansi adalah <em>Myripristis violacea</em> dengan kelimpahan 1000 (ind/ha). Ikan ini tergolong ikan nokturnal dan sering membentuk gerombolan kecil di sela-sela terumbu karang.</p>
+<p style="margin-left: 80px; text-align: justify;">
+	Jenis ikan yang tergolong kelompok ikan indikator adalah ikan dari famili Chaetodontidae. Jenis-jenis ikan yang ditemukan adalah <em>Chaetodon vagabundus</em> dengan kelimpahan 120 ind/ha disusul dengan<em> Chaetodon rafflesii, Chaetodon ocellicaudus, Chaetodon lunulatus, Chaetodon kleinii</em> dengan kelimpahan masing-masing sebesar 80 ind/ha. Jenis ini lebih dikenal dengan nama ikan kepe-kepe, dimana ikan ini memangsa polip karang yang tergolong sehat.</p>
+<p style="margin-left: 80px; text-align: justify;">
+	Beberapa jenis ikan target seperti famili Acanthuridae, Balistidae, Lutjanidae, Siganidae, dan Carangidae juga ditemukan dengan kepadatan berkisar antara 80-600 ind/ha. Kepadatan terbesar untuk kelompok ikan target dimiliki oleh jenis ikan <em>Ctenochaetus striatus</em> sebanyak 200 ind/ha.</p>
+<ol style="list-style-type: lower-alpha; margin-left: 40px;">
+	<li style="text-align: justify;" value="2">
+		<p>
+			Ikan Karang Bagian Barat P. Medang</p>
+	</li>
+</ol>
+<p style="margin-left: 80px; text-align: justify;">
+	Survei yang dilakukan di bagian barat Pulau Medang menunjukkan ikan terumbu yang banyak dijumpai adalah ikan damselfish (Pomacentridae) dengan kelimpahan paling besar (8960 ind/ha), terdiri dari 16 jenis. Jenis-jenis ikan damselfish diantaranya adalah <em>Chromis viridis</em> (1880 ind/ha), <em>Chromis ternatensis</em> (1520 ind/ha), <em>Pomacentrus lepidogenys</em> (1080 ind/ha). Jenis-jenis ikan yang berasal dari famili Pomacentridae merupakan jenis ikan yang kurang diketahui fungsinya dalam ekosistem ikan karang, akan tetapi sering kali digunakan sebagai ikan hias di akuarium.</p>
+<p style="margin-left: 80px; text-align: justify;">
+	Ikan yang berasal dari famili Chaetodontidae merupakan ikan yang memiliki tipe pemangsaan coralivora. Oleh karena itu, ikan yang berasal dari famili Chaetodontidae sering dijadikan sebagai ikan bioindikator. Jenis ikan yang berasal dari famili Chaetodontidae adalah <em>Chaetodon kleinii</em> dengan kelimpahan 120 ind/ha dan <em>Heniochus varius</em> dengan kelimpahan 120 ind/ha.</p>
+<p style="margin-left: 80px; text-align: justify;">
+	Di perairan barat Pulau Medang juga ditemukan empat jenis ikan ekonomis penting. Jenis ikan yang ditemukan adalah <em>Plectorhinchus lessoni</em> dengan kelimpahan 160 ind/ha, <em>Siganus virgatus</em> dengan kelimpahan 160 ind/ha, <em>Scarus forsteni</em> dengan kelimpahan 80 ind/ha, <em>Ctenochaetus striatus</em> dengan kelimpahan 120 ind/ha. Keempat jenis ikan tersebut merupakan jenis ikan yang biasa dijadikan tangkapan oleh para nelayan.</p>
+<ol style="list-style-type: lower-alpha; margin-left: 40px;">
+	<li style="text-align: justify;" value="3">
+		<p>
+			Ikan Karang Bagian Selatan Pulau Medang</p>
+	</li>
+</ol>
+<p style="margin-left: 80px; text-align: justify;">
+	Ikan terumbu yang banyak ditemui di perairan Pulau Medang adalah ikan dari famili Pomacentridae, kedua terbesar berasal dari Famili Labridae. Menurut Montgomery <em>et al.</em> (1980), famili Pomacentridae merupakan ikan terumbu yang cukup tinggi keanekaragaman spesiesnya. Pola yang cerah dan unik, ukuran yang bervariasi, dan jumlah yang sangat melimpah membuat ikan ini mudah dikenali, meskipun ukurannya relatif kecil. Menurut Kuiter (1992), selain Famili Pomacentridae, famili Labridae merupakan ikan terumbu yang dominan ditemukan di ekosistem terumbu karang dengan ukuran yang bervariasi. Ikan dari famili Labridae umumnya merupakan omnivore dengan makanan berupa udang, bintang laut, gastropoda, zooplankton, ikan-ikan kecil, dan alga. Mayoritas ikan terumbu ini cenderung menetap pada suatu lokasi atau mengelompok di suatu bentuk terumbu tertentu seperti genus <em>Cirrhilabrus. </em>Mereka akan membentuk suatu kelompok besar ketika memakan plankton yang berada di sekitar terumbu karang. Banyak dari spesies ikan terumbu ini hidup dengan nyaman pada setiap lokasi terumbu karang. Ikan Famili Labridae ini banyak ditemukan di perairan hangat dengan kedalaman 3 hingga 15 m.</p>
+<p style="margin-left: 80px; text-align: justify;">
+	Jenis ikan Chaetodontidae hanya ditemukan sebanyak 2 jenis saja. Jenis ikan tersebut adalah <em>Chaetodon kleinii</em> dengan kepadatan 120 ind/ha dan jenis <em>Heniochus varius</em> dengan kepadatan 80 ind/ha. Selain kelompok ikan mayor dan ikan indikator, beberapa jenis ikan target juga ditemukan di selatan Pulau Medang. Jenis-jenis ikan tersebut adalah <em>Ctenochaetus striatus</em> sebanyak 200 ind/ha, <em>Scarus flavipectoralis</em> sebanyak 80 ind/ha, <em>Scarus rivulatus</em> sebanyak 120 ind/ha, dan <em>Siganus vulpinus</em> sebanyak 160 ind/ha.</p>
+<p style="text-align: justify;">
+	<span style="color:#ff0000;"><strong>Mangrove</strong></span></p>
+<p style="text-align: justify; margin-left: 40px;">
+	Hutan mangrove di Pulau Medang masih tergolong lebat, terutama di bagian barat Pulau Medang. Tumbuhan mangrove tersebut tumbuh di pesisir Pulau Medang dengan substrat dominan berupa pasir berlumpur. Pengamatan mangrove di Pulau Medang dilakukan di empat stasiun pengamatan yang tersebar di empat sisi pulau, yaitu bagian utara dekat dengan ladang penggembalaan ternak, bagian selatan dekat dengan pemukiman warga, bagian timur dekat dengan ladang penggembalaan ternak, dan bagian barat yang merupakan daerah dengan lahan yang belum dimanfaatkan oleh penduduk Pulau Medang. Dari empat stasiun pengamatan tersebut ditemukan empat jenis mangrove, yaitu <em>Rhizopora apiculata</em> (Ra), <em>Rhizopora stylosa</em> (Rs), <em>Sonneratia alba</em> (Sa), dan <em>Bruguiera cylindrica </em>(Bc). Namun, di luar titik pengamatan ditemukan dua jenis mangrove lainnya, yaitu <em>Excoecaria agallocha </em>dan <em>Ceriops tagal</em>. Jadi, Pulau Medang mempunyai total enam jenis mangrove yang tumbuh pada pulau tersebut.</p>
+<p style="margin-left: 40px; text-align: center;">
+	Distribusi jenis mangrove di Pulau Medang</p>
+<table align="center" border="1" cellpadding="0" cellspacing="0">
+	<tbody>
+		<tr>
+			<td rowspan="2" style="width:180px;">
+				<p style="text-align: justify;">
+					<strong>Jenis Mangrove</strong></p>
+			</td>
+			<td colspan="4" style="width:325px;">
+				<p style="text-align: justify;">
+					<strong>Stasiun Pengamatan</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:76px;">
+				<p style="text-align: justify;">
+					<strong>Timur</strong></p>
+			</td>
+			<td style="width:80px;">
+				<p style="text-align: justify;">
+					<strong>Selatan</strong></p>
+			</td>
+			<td style="width:85px;">
+				<p style="text-align: justify;">
+					<strong>Barat</strong></p>
+			</td>
+			<td style="width:85px;">
+				<p style="text-align: justify;">
+					<strong>Utara</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:180px;">
+				<p style="text-align: justify;">
+					<em>Rhizopora apiculata</em></p>
+			</td>
+			<td style="width:76px;">
+				<p style="text-align: justify;">
+					<strong>+</strong></p>
+			</td>
+			<td style="width:80px;">
+				<p style="text-align: justify;">
+					<strong>+</strong></p>
+			</td>
+			<td style="width:85px;">
+				<p style="text-align: justify;">
+					<strong>-</strong></p>
+			</td>
+			<td style="width:85px;">
+				<p style="text-align: justify;">
+					<strong>-</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:180px;">
+				<p style="text-align: justify;">
+					<em>Rhizopora stylosa</em></p>
+			</td>
+			<td style="width:76px;">
+				<p style="text-align: justify;">
+					<strong>+</strong></p>
+			</td>
+			<td style="width:80px;">
+				<p style="text-align: justify;">
+					<strong>+</strong></p>
+			</td>
+			<td style="width:85px;">
+				<p style="text-align: justify;">
+					<strong>+</strong></p>
+			</td>
+			<td style="width:85px;">
+				<p style="text-align: justify;">
+					<strong>-</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:180px;">
+				<p style="text-align: justify;">
+					<em>Sonerratia alba</em></p>
+			</td>
+			<td style="width:76px;">
+				<p style="text-align: justify;">
+					<strong>+</strong></p>
+			</td>
+			<td style="width:80px;">
+				<p style="text-align: justify;">
+					<strong>+</strong></p>
+			</td>
+			<td style="width:85px;">
+				<p style="text-align: justify;">
+					<strong>+</strong></p>
+			</td>
+			<td style="width:85px;">
+				<p style="text-align: justify;">
+					<strong>-</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:180px;">
+				<p style="text-align: justify;">
+					<em>Bruguiera cylindrica</em></p>
+			</td>
+			<td style="width:76px;">
+				<p style="text-align: justify;">
+					<strong>-</strong></p>
+			</td>
+			<td style="width:80px;">
+				<p style="text-align: justify;">
+					<strong>-</strong></p>
+			</td>
+			<td style="width:85px;">
+				<p style="text-align: justify;">
+					<strong>+</strong></p>
+			</td>
+			<td style="width:85px;">
+				<p style="text-align: justify;">
+					<strong>-</strong></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<p style="margin-left: 40px; text-align: center;">
+	Keterangan: (+) = ada, (<strong>-</strong>) = tidak ada</p>
+<p style="text-align: justify; margin-left: 40px;">
+	Berdasarkan hasil pengamatan, terlihat bahwa masing-masing sisi Pulau Medang masing-masing memiliki tiga jenis mangrove yang tumbuh di bagian pesisir pantainya, kecuali pada bagian utara Pulau Medang yang tidak ditemukan satupun jenis mangrove. Tumbuhan mangrove baru ditemukan jika bergerak ke sisi barat atau timur Pulau Medang. Hal ini kemungkinan besar disebabkan oleh kondisi lingkungan pada sisi utara Pulau Medang yang merupakan daerah bertebing terjal dengan arus dan gelombang yang besar karena langsung berhadapan dengan Laut Flores.</p>
+<p style="margin-left: 40px; text-align: justify;">
+	Stasiun pengamatan mangrove pertama adalah di pesisir pantai bagian timur Pulau Medang dengan substrat yang terbagi ke dalam pasir <em>rubble</em> dan pasir berlumpur. Jenis mangrove yang ditemukan di wilayah ini ada empat jenis, yaitu <em>Rhizopora apiculata</em>, <em>Rhizopora stylosa</em>, <em>Sonneratia alba</em>, dan <em>Ceriops tagal</em>.&nbsp; <em>Rhizopora apiculata</em>, <em>Rhizopora stylosa</em>, dan <em>Sonneratia alba </em>berada di dalam transek pengamatan, sedangkan <em>Ceriops tagal </em>berada di luar transek. Mangrove ini dapat dibedakan berdasarkan ciri-ciri khusus yang dimiliki tiap spesies, seperti bentuk daun, buah, akar, dan lain-lain. <em>Rhizophora apiculata</em> memiliki daun meruncing berwarna hijau gelap, tulang daun dan tunas daun berwarna merah, serta memiliki akar tongkat. Sementara itu, <em>Rhizopora stylosa</em> memiliki bentuk daun meruncing seperti selayaknya daun jenis <em>Rhizophora</em> lainnya dengan warna hijau kekuningan, tulang daun berwarna kuning, buah memanjang, serta memiliki akar tongkat. Mangrove jenis <em>Sonerratia alba</em> memiliki daun membulat dengan warna hijau terang, buah bulat hampir seukuran telur ayam, serta memiliki akar cakar ayam dengan pneumatofora atau akar napas. <em>Ceriops tagal </em>mempunyai daun yang membulat dengan warna hijau kekuningan serta mempunyai akar papan berbentuk seperti pita yang menopang dasar dan batang pohon.</p>
+<p style="margin-left: 40px; text-align: justify;">
+	Stasiun pengamatan mangrove yang kedua adalah di pesisir pantai bagian selatan Pulau Medang dengan substrat berupa pasir berlumpur. Pada titik pengamatan ini terdapat tiga jenis mangrove yang ditemukan, yaitu <em>Rhizopora apiculata</em>, <em>Rhizopora stylosa</em>, dan <em>Sonneratia alba</em>. Pada pesisir pantai bagian selatan Pulau Medang juga terlihat komunitas mangrove yang membentuk kelompok, namun dengan jarak yang renggang berjauhan dan tidak cenderung rapat seperti pada titik pengamatan sebelumnya. Hal ini diduga disebabkan karena adanya pembangunan tanggul yang menyebabkan perubahan kualitas air di daerah pesisir tersebut. Dengan adanya tanggul tersebut maka pasang surut tidak lagi bisa melalui daerah intertidal karena terhalang oleh tanggul tersebut. Kondisi ini tentu berpengaruh terhadap perubahan tipe substrat perairan menjadi dominan oleh substrat pasir berlumpur. Hal ini disebabkan oleh adanya perubahan transpor massa air yang membawa sedimen yang disebabkan karena telah berubahnya pola arus dan gelombang di wilayah pesisir tersebut.</p>
+<p style="margin-left: 40px; text-align: justify;">
+	Stasiun pengamatan mangrove yang ketiga adalah di pesisir pantai bagian barat Pulau Medang dengan substrat berupa pasir berlumpur. Pada titik pengamatan ini terdapat tiga jenis mangrove yang ditemukan, yaitu <em>Rhizopora stylosa</em>, <em>Sonneratia alba</em>, dan <em>Bruguiera cylindrica</em>. Selain ketiga jenis mangrove tersebut, di lokasi ini juga ditemukan mangrove jenis <em>Ceriops tagal </em>dan <em>Rhizopora apiculata</em> yang berada di luar transek pengamatan. Jadi, total terdapat lima jenis mangrove yang ada di pesisir pantai bagian barat Pulau Medang. Hal ini menunjukkan bahwa pesisir pantai Pulau Medang bagian barat mempunyai keanekaragaman jenis mangrove yang paling tinggi jika dibandingkan dengan bagian sisi pulau yang lainnya.</p>
+<p style="margin-left: 40px; text-align: justify;">
+	Stasiun pengamatan mangrove yang terakhir berada di pesisir pantai bagian utara Pulau Medang. Pada wilayah ini tidakditemukan satupun individu mangrove. Spesies mangrove baru bisa ditemukan jika kita bergerak ke sisi barat maupun timur Pulau Medang. Kondisi ini sangat mirip dengan fenomena keberadaan lamun di Pulau Medang. Hal ini diduga karena bagian utara Pulau Medang langsung berhadapan dengan Laut Flores sedangkan bagian yang lainnya masih terlindung oleh pulau-pulau di sekitarnya sehingga arus dan gelombang di bagian utara Pulau Medang jauh lebih besar dibandingkan dengan bagian pesisir di sisi yang lainnya. Kondisi yang kontras ini didukung pula oleh kondisis topografi pesisir pantainya. Bagian barat, timur, dan selatan Pulau Medang memiliki topografi pantai berupa daratan yang landai dan berpasir putih. Hal ini berbeda dengan bagian utara Pulau Medang yang terdiri dari tebing-tebing karang yang terjal serta banyak terdapat batu-batu karang. Berdasarkan pengamatan di empat titik pengamatan yang tersebar di empat bagian pulau maka secara umum mangrove jenis <em>Rhizopora stylosa </em>adalah mangrove yang paling dominan di antara jenis mangrove yang lainnya di Pulau Medang.</p>
+<p style="margin-left: 40px; text-align: justify;">
+	Di luar empat stasiun pengamatan tersebut, juga ditemukan satu jenis spesies mangrove lainnya, yaitu <em>Excoecaria agallocha</em>. <em>Excoecaria agallocha</em> mempunyai ciri-ciri berupa daun berukuran antara 6-10 cm, pinggiran daun agak bergerigi dan berujung runcing. Daun yang dipetik akan mengeluarkan getah berwarna putih susu yang dapat merusak mata. Mangrove jenis ini tidak mempunyai akar napas yang muncul di permukaan tanah, namun kadang-kadang ada beberapa mangrove yang terlihat akarnya di permukaan tanah. Jenis mangrove ini ditemukan di cekungan air/situ alam yang berada tepat di tengah-tengah Pulau Medang dan di pulau kecil yang terletak di sebelah barat Pulau Medang. Situ yang tepat berada di tengah Pulau Medang tersebut memiliki air yang rasanya agak sedikit payau sehingga oleh penduduk Pulau Medang digunakan untuk memelihara bandeng. Kondisi air yang payau tersebut diduga disebabkan oleh adanya intrusi air laut yang masuk ke dalam situ dari dalam tanah walaupun sumber air yang utama dari situ tersebut berasal dari air hujan yang menggenang. Di tengah-tengah situ tersebut banyak ditemukan mangrove jenis ini. Selain pada situ tersebut, mangrove jenis ini juga banyak ditemukan di tengah pulau kecil yang terpisah dari Pulau Medang namun masih masuk ke dalam kawasan Pulau Medang karena jaraknya yang tidak terlalu jauh (&lt; 100 m). Pulau kecil ini tepat berada di ujung sebelah barat Pulau Medang. Pulau ini dulunya merupakan tempat bermukim pertama kali bagi suku Bugis yang masuk ke Pulau Medang. Namun karena populasi penduduk semakin bertambah banyak, maka mereka banyak yang pindah ke pulau utama. Sekarang, pulau kecil tersebut digunakan oleh penduduk Pulau Medang sebagai tempat pemeliharaan ternak seperti sapi, domba, dan kambing.</p>
+<p style="margin-left: 40px; text-align: justify;">
+	Indeks nilai penting (INP) merupakan besaran yang menunjukkan kedudukan suatu jenis terhadap jenis lain di dalam suatu komunitas. INP diturunkan dari kerapatan relatif (Kr), frekuensi relatif (Fr), dan dominansi relatif (Dr) dari jenis-jenis yang menyusun komunitas yang diamati. INP kemudian dikelompokkan dalam tiga kategori, yaitu tinggi, sedang, dan rendah yang dihasilkan dari perhitungan berdasarkan INP tertinggi pada penyusun komunitas tersebut (Snedakeer dan Snedaker 1984 in Suryawan 2007). INP mangrove di Pulau Medang untuk kategori pohon, anakan dan semai adalah sebagai berikut :</p>
+<p style="margin-left: 40px; text-align: justify;">
+	Berdasarkan INP kategori pohon dapat terlihat bahwa mangrove kategori pohon dari jenis <em>Rhizopora stylosa</em> yang terdapat di bagian barat Pulau Medang memiliki INP yang paling tinggi yaitu sebesar 159, dan mangrove jenis <em>Sonneratia alba </em>memiliki INP terendah, yaitu sebesar 54. Pada bagian barat Pulau Medang tidak ditemukan <em>Rhizopora apiculata.</em> Mangrove jenis ini dapat dijumpai di bagian timur dan selatan Pulau Medang, dengan INP masing-masing sebesar 158 dan 100. Namun, pada bagian barat Pulau Medang ini ditemukan mangrove jenis <em>Bruguiera cylindrica </em>yang tidak ditemukan di stasiun pengamatan lainnya.</p>
+<p style="margin-left: 40px; text-align: justify;">
+	Secara umum, INP mangrove kategori pohon di Pulau Medang dapat dikategorikan menjadi tinggi, sedang, dan rendah. Jenis mangrove yang memiliki INP tinggi (&gt; 106) adalah <em>Rhizopora apiculata </em>(timur), <em>Rhizopora stylosa </em>(selatan), dan <em>Rhizopora stylosa </em>(barat). Jenis mangrove untuk kategori INP sedang (53-106) adalah <em>Rhizopora stylosa </em>dan <em>Sonneratia alba </em>(timur), <em>Rhizopora apiculata </em>dan <em>Sonneratia alba </em>(selatan), dan <em>Sonneratia alba </em>dan <em>Bruguiera cylindrica </em>(barat). Sementara itu, tidak ada satu pun jenis mangrove yang termasuk dalam kategori INP rendah (&lt;53).</p>
+<p style="margin-left: 40px; text-align: justify;">
+	Berdasarkan INP kategori anakan, terlihat bahwa di Pulau Medang mangrove kategori anakan terdiri dari dua jenis di bagian timur, tiga jenis di bagian selatan, dua jenis di bagian barat,&nbsp; dan tidak ditemukan satupun jenis mangrove kategori anakan di bagian utara. Mangrove kategori anakan dengan INP tertinggi adalah <em>Rhizopora stylosa </em>yang berada di bagian barat Pulau Medang dengan INP sebesar 186, sedangkan jenis mangrove dengan INP terendah adalah <em>Rhizopora apiculata </em>yang berada di bagian selatan Pulau Medang dengan INP sebesar 73. Jenis mangrove yang memiliki INP tinggi untuk kategori anakan (&gt;124) di setiap stasiun adalah <em>Rhizopora apiculata </em>dan <em>Rhizopora stylosa </em>(timur), <em>Rhizopora stylosa </em>(selatan), dan <em>Rhizopora stylosa </em>(barat). Sedangkan, untuk kategori INP sedang (62-124) terdiri dari <em>Rhizopora apiculata </em>dan <em>Sonneratia alba </em>(selatan) serta <em>Sonneratia alba </em>(barat). Sama seperti pada kategori pohon, mangrove kategori anakan tidak ada satupun jenis mangrove yang masuk dalam kategori INP rendah (&lt;62).</p>
+<p style="margin-left: 40px; text-align: justify;">
+	Berbeda dengan mangrove kategori pohon dan anakan yang cenderung beragam jenisnya pada setiap titik stasiun pengamatan (kecuali bagian utara), maka pada kategori semai terdapat dominasi tunggal. Hanya terdapat satu jenis mangrove saja untuk satu stasiun pengamatan, yaitu <em>Rhizopora stylosa</em> pada bagian timur Pulau Medang dan <em>Sonneratia alba</em> pada bagian selatan Pulau Medang dengan INP masing-masing sebesar 300. Pada bagian barat Pulau Medang jenis mangrovenya mulai beragam, yaitu ditemukan <em>Rhizopora stylosa </em>dan <em>Sonneratia alba </em>dengan INP masing-masing sebesar 134 dan 166. Pada kategori semai ini semua jenis mangrove masuk kedalam kategori INP tinggi, yaitu &gt;100.</p>
+<p style="margin-left: 40px; text-align: justify;">
+	Indeks keanekaragaman jenis (H&rsquo;) dianalisis untuk mempelajari pengaruh gangguan dari lingkungan atau tahapan suksesi dan kestabilan dari komunitas tumbuhan (Odum 1998 in Suryawan 2007). Indeks keanekaragaman dihitung dengan rumus Shannon-Wiener. Indeks keanekaragaman jenis berkisar antara 0&ndash;7. Indeks keanekaragaman jenis dinyatakan rendah apabila lebih kecil dari 2, dinyatakan sedang apabila berkisar 2&ndash;4, dan dinyatakan tinggi apabila lebih besar dari 4 (Barbour <em>et. al </em>1987 in Suryawan 2007). Indeks keanekaragaman jenis mangrove pada masing-masing stasiun pengamatan di Pulau Medang ditunjukkan pada gambar di bawah ini :</p>
+<p style="margin-left: 40px; text-align: justify;">
+	Indeks keanekaragaman mangrove untuk kategori pohon yang paling tinggi terdapat pada bagian selatan Pulau Medang, yaitu sebesar 1,10, dan yang paling rendah pada bagian barat Pulau Medang, yaitu sebesar 1,01. Indeks keanekaragaman untuk kategori anakan yang paling tinggi juga pada bagian selatan Pulau Medang, yaitu sebesar 1,06 dan yang paling rendah pada bagian barat Pulau Medang, yaitu sebesar 0,67. Untuk mangrove kategori semai, lokasi dengan indeks keanekaragaman paling rendah adalah di bagian timur dan selatan Pulau Medang, yaitu 0. Hal ini disebabkan karena pada kedua bagian pulau tersebut hanya ditemukan satu jenis mangrove untuk kategori semai. Indeks keanekaragaman paling tinggi untuk kategori semai adalah 0,69 yang terdapat pada bagian barat Pulau Medang dimana pada bagian tersebut terdapat dua jenis mangrove. Indeks keanekaragaman pada bagian utara Pulau Medang bernilai 0 untuk semua tingkatan kategori mangrove karena tidak ditemukan satupun indvidu mangrove di lokasi tersebut. Hasil pengamatan ini menunjukkan bahwa indeks keanekaragaman mangrove di Pulau Medang pada setiap tingkatan kategori (pohon, anakan, dan semai) semuanya tergolong rendah (&lt;2).</p>
+<p style="margin-left: 40px; text-align: justify;">
+	Bentangan ekosistem mangrove terutama di sepanjang pesisir pantai bagian timur, selatan, dan barat Pulau Medang mempunyai fungsi tersendiri bagi biota yang hidup berasosiasi dengannya, antara lain sebagai tempat hidup beberapa biota seperti gastropoda, krustasea, juvenil ikan, burung, dan serangga. Substrat pasir berlumpur yang lembut dan kaya nutrien serta mineral menjadi tempat berlindung serta sumber makanan bagi biota-biota tersebut.&nbsp; Beberapa biota tersebut membuat sarang di substrat atau di sekitar akar mangrove yang kuat.&nbsp; Namun, beberapa biota seperti gastropoda (keong) dan krustasea (klomang) hidup menempel pada akar atau batang mangrove. Gastropoda umumnya hanya ditemukan pada akar mangrove yang tumbuh di substrat berlumpur dan tergenang air, sedangkan pada akar mangrove yang tumbuh di substrat pasir dan tidak pernah tergenang air jarang ditemukan gastropoda yang menempel.</p>
+<p style="margin-left: 40px; text-align: justify;">
+	Ekosistem mangrove memainkan peranan yang sangat vital bagi keberlangsungan stok ikan yang ada di laut, khususnya yang ada di perairan tersebut selain sebagai <em>barrier </em>alami untuk menahan abrasi air laut. Ekosistem mangrove mempunyai fungsi sebagai tempat mencari makan dan memijah bagi biota laut sehingga tanpa adanya ekosistem mangrove siklus hidup biota laut tersebut akan terganggu dan dapat menimbulkan kepunahan bagi biota laut tersebut. Oleh karena itu, kita harus meminimalisasi dampak lingkungan yang bisa merusak ekosistem mangrove diantaranya pencemaran terutama yang berasal dari limbah rumah tangga, sampah, dan penebangan pohon mangrove. Untungnya penduduk Pulau Medang sudah paham akan manfaat pohon mangrove, sehingga tidak ada yang menebang pohon untuk keperluan rumah tangga. Selain ancaman yang ditimbulkan oleh manusia, adapula ancaman yang berasal dari alam seperti arus dan gelombang yang terlalu besar yang tentu akan merusak ekosistem mangrove.</p>
+<p style="text-align: justify;">
+	<span style="color:#ff0000;"><strong>Lamun</strong></span></p>
+<p style="margin-left: 40px; text-align: justify;">
+	Pulau Medang berbatasan langsung dengan Laut Flores di bagian utara serta Pulau Sumbawa dan Pulau Moyo yang masing-masing berada di bagian selatan dan tenggara. Hal ini menyebabkan perbedaan distribusi lamun yang ada di Pulau Medang. Pada bagian utara Pulau Medang, gelombang laut relatif lebih besar jika dibandingkan dengan bagian selatan Pulau Medang. Alhasil, pada bagian utara Pulau Medang tidak ditemukan satupun komunitas lamun yang tumbuh di wilayah tersebut. Komunitas lamun baru ditemukan jika pengamatan dilanjutkan ke bagian sisi barat atau timur Pulau Medang. Terdapat empat jenis lamun di Pulau Medang berdasarkan pengamatan yang dilakukan di empat sisi Pulau Medang, yaitu bagian utara dekat dengan ladang penggembalaan ternak, bagian selatan dekat dengan pemukiman warga, bagian timur dekat dengan ladang penggembalaan ternak, dan bagian barat yang merupakan daerah dengan lahan yang belum dimanfaatkan oleh penduduk Pulau Medang.</p>
+<p style="text-align: center;">
+	Distribusi jenis lamun di Pulau Medang</p>
+<table align="center" border="1" cellpadding="0" cellspacing="0">
+	<tbody>
+		<tr>
+			<td rowspan="2">
+				<p style="text-align: justify;">
+					<strong>Jenis Lamun</strong></p>
+			</td>
+			<td colspan="4">
+				<p style="text-align: justify;">
+					<strong>Stasiun Pengamatan</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<p style="text-align: justify;">
+					<strong>Timur</strong></p>
+			</td>
+			<td>
+				<p style="text-align: justify;">
+					<strong>Selatan</strong></p>
+			</td>
+			<td>
+				<p style="text-align: justify;">
+					<strong>Barat</strong></p>
+			</td>
+			<td>
+				<p style="text-align: justify;">
+					<strong>Utara</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<p style="text-align: justify;">
+					<em>Enhalus acoroides</em></p>
+			</td>
+			<td>
+				<p style="text-align: justify;">
+					+</p>
+			</td>
+			<td>
+				<p style="text-align: justify;">
+					+</p>
+			</td>
+			<td>
+				<p style="text-align: justify;">
+					+</p>
+			</td>
+			<td>
+				<p style="text-align: justify;">
+					-</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<p style="text-align: justify;">
+					<em>Syringodium isoetifolium</em></p>
+			</td>
+			<td>
+				<p style="text-align: justify;">
+					-</p>
+			</td>
+			<td>
+				<p style="text-align: justify;">
+					-</p>
+			</td>
+			<td>
+				<p style="text-align: justify;">
+					+</p>
+			</td>
+			<td>
+				<p style="text-align: justify;">
+					-</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<p style="text-align: justify;">
+					<em>Cymodocea rotundata</em></p>
+			</td>
+			<td>
+				<p style="text-align: justify;">
+					+</p>
+			</td>
+			<td>
+				<p style="text-align: justify;">
+					-</p>
+			</td>
+			<td>
+				<p style="text-align: justify;">
+					+</p>
+			</td>
+			<td>
+				<p style="text-align: justify;">
+					-</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<p style="text-align: justify;">
+					<em>Thalassia hemprichii</em></p>
+			</td>
+			<td>
+				<p style="text-align: justify;">
+					+</p>
+			</td>
+			<td>
+				<p style="text-align: justify;">
+					+</p>
+			</td>
+			<td>
+				<p style="text-align: justify;">
+					+</p>
+			</td>
+			<td>
+				<p style="text-align: justify;">
+					-</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<p style="margin-left: 40px; text-align: center;">
+	Ket: (+) = ada, (-) = tidak ada</p>
+<p style="text-align: justify; margin-left: 40px;">
+	Keanekaragaman jenis mangrove yang paling tinggi adalah di bagian barat Pulau Medang dengan memiliki empat jenis lamun, sedangkan di bagian timur dan selatan Pulau Medang masing-masing hanya ditemukan tiga dan dua jenis lamun saja. Pada bagian utara Pulau Medang tidak ditemukan satupun individu lamun. Hal ini disebabkan oleh kondisi topografi pada sisi utara Pulau Medang dengan tebing terjal, arus dan gelombang yang besar karena langsung berhadapan dengan Laut Flores. Adapun serasah-serasah lamun yang banyak ditemukan di pesisir utara Pulau Medang diduga terbawa oleh aliran arus dari arah barat ataupun timur Pulau Medang.</p>
+<p style="margin-left: 40px; text-align: justify;">
+	Kerapatan jenis lamun yang paling tinggi adalah lamun jenis <em>Thalassia hemprichii </em>di bagian timur Pulau Medang, yaitu sebesar 144 ind/m&sup2;, dan kerapatan jenis lamun terendah adalah lamun jenis <em>Enhalus acoroides </em>di bagian barat Pulau Medang sebesar 12 ind/m&sup2;.</p>
+<p style="margin-left: 40px; text-align: justify;">
+	Jenis lamun yang memiliki penutupan area yang paling tinggi di Pulau Medang adalah lamun jenis <em>Thalassia hemprichii </em>sebesar 45% yang terdapat di bagian timur Pulau Medang, sedangkan lamun dengan penutupan area paling rendah adalah <em>Thalassia hemprichii </em>di bagian selatan Pulau Medang sebesar 8%.</p>
+<p style="text-align: justify; margin-left: 40px;">
+	Stasiun pengamatan pertama adalah di sebelah timur Pulau Medang. Substrat perairan terdiri dari pasir serta banyak ditemukan <em>rubble</em>. Pada lokasi ini, terdapat tiga jenis lamun, yaitu <em>Cymodocea rotundata</em>, <em>Thalassia hemprichii</em>, dan <em>Enhalus acoroides</em>. Pada bagian Timur Pulau Medang lamun jenis <em>Thalassia hemprichii </em>memiliki kerapatan tertinggi sebesar 144 ind/m&sup2;, sedangkan lamun jenis <em>Enhalus acoroides </em>memiliki kerapatan paling rendah sebesar 13 ind/m&sup2;. Penutupan areanya pun didominasi oleh <em>Thalassia hemprichii, </em>yaitu sebesar 45%, sedangkan <em>Cymodocea rotundata </em>dan <em>Enhalus acoroides </em>masing-masing sebesar 15% dan 10%. Hasil pengamatan ini menunjukkan bahwa jenis lamun yang mendominasi di pesisir bagian timur Pulau Medang adalah <em>Thalassia hemprichii</em>. Jika dilihat distribusi lamun dari pesisir pantai ke arah laut di bagian timur Pulau Medang maka tingkat keanekaragaman jenis lamunnya bertambah seiring mendekati ke arah laut. Hal ini dapat terlihat dari ditemukannya lamun jenis <em>Enhalus acoroides</em> yang tidak ditemukan di dekat pesisir pantai namun baru diketemukan jika sudah berjalan agak jauh ke arah laut.</p>
+<p style="text-align: justify; margin-left: 40px;">
+	Stasiun pengamatan yang kedua adalah di sisi selatan Pulau Medang dengan tipe substrat perairan berupa pasir berlumpur. Dua jenis lamun ditemukan di titik pengamatan ini, yaitu <em>Thalassia hemprichii</em> dan <em>Enhalus acoroides.</em> Pada lokasi ini, lamun jenis <em>Thalassia hemprichii </em>memiliki nilai kerapatan tertinggi sebesar 29 ind/m&sup2;. Namun bila dilihat nilai penutupannya, lamun jenis <em>Enhalus acoroides </em>memiliki nilai tertinggi sebesar 30%. Hal ini menunjukkan bahwa lamun jenis <em>Enhalus acoroides </em>memiliki nilai penutupan lebih besar dari <em>Thalassia hemprichii</em> walaupun nilai kerapatannya lebih kecil karena daun lamun jenis <em>Enhalus acoroides </em>lebih besar dan panjang sehingga memiliki penutupan yang lebih besar dibanding <em>Thalassia hemprichii</em>.</p>
+<p style="text-align: justify; margin-left: 40px;">
+	Stasiun pengamatan yang ketiga adalah di bagian barat Pulau Medang dengan tipe substrat perairan berupa pasir. Keanaekaragaman jenis lamun di bagian barat Pulau Medang merupakan yang paling tinggi di antara semua bagian sisi Pulau Medang. Pada wilayah ini ditemukan empat jenis lamun, yaitu <em>Thalassia hemprichii</em>, <em>Cymodocea rotundata</em>, <em>Syringodium isoetifolium</em>, dan <em>Enhalus acoroides</em>. Pada stasiun ketiga ini, lamun jenis <em>Thalassia hempricii </em>memiliki nilai kerapatan tertinggi sebesar 99 ind/m&sup2; kemudian disusul oleh <em>Syringodium isoetifolium </em>dan <em>Cymodocea rotundata </em>dengan nilai kerapatan masing-masing sebesar 84 dan 77 ind/m&sup2;. Lamun yang memiliki kerapatan paling rendah adalah <em>Enhalus acoroides </em>dengan kerapatan sebesar 12 ind/m&sup2;. Penutupan jenis lamun terbesar di stasiun ketiga adalah <em>Thalassia hempricii, </em>yaitu sebesar 30%, sedangkan yang terendah adalah <em>Enhalus acoroides, </em>yaitu sebesar 10%.</p>
+<p style="text-align: justify; margin-left: 40px;">
+	Stasiun pengamatan terakhir adalah di bagian utara Pulau Medang. Wilayah utara Pulau Medang ini merupakan rataan terumbu. Pada daerah pesisir ini banyak ditemukan makroalga jenis <em>Padina </em>sp. dan tidak ditemukan satupun jenis lamun yang tumbuh. Namun demikian, banyak ditemukan serasah lamun di pesisir pantai utara Pulau Medang. Serasah ini diduga berasal dari komunitas padang lamun di wilayah pesisir barat dan timur Pulau Medang yang terbawa oleh aliran arus. Tidak adanya satupun komunitas lamun yang tumbuh di bagian utara Pulau Medang diduga berkaitan erat dengan kondisi arus dan gelombang yang relatif lebih besar dibandingkan dengan bagian lain pulau. Hal ini dikarenakan bagian utara Pulau Medang langsung berhadapan dengan Laut Flores, sedangkan bagian pulau lainnya masih terlindung oleh pulau-pulau di sekitarnya. Kondisi yang kontras ini pun didukung dengan penampakan topografi pesisir pantainya. Pada bagian barat, timur, dan selatan Pulau Medang memiliki karakteristik topografi berupa daratan yang landai dan berpasir putih, sedangkan pada bagian utara Pulau Medang merupakan tebing-tebing karang yang terjal dan banyak terdapat batu-batu karang di pesisir pantainya.</p>
+<p style="text-align: justify; margin-left: 40px;">
+	Secara umum keberadaan lamun di pulau Medang menyebar tidak merata, namun tetap menjadi tempat hidup, makan dan berlindung bagi biota laut yang hidup berasosiasi dengan lamun. Biota asosiasi lamun di Pulau Medang diantaranya adalah ikan, makroalga, krustasea, dan terumbu karang. Komunitas lamun memberikan perlindungan sekaligus sumber oksigen dan tempat mencari makan bagi biota laut lainnya. Keberadaan biota laut ini sebagian&nbsp; dimanfaatkan oleh masyarakat sekitar untuk dijual sebagai komoditas perikanan.</p>
+<p style="text-align: justify; margin-left: 40px;">
+	Ekosistem lamun di Pulau Medang yang tersebar luas di pesisir pantai Pulau Medang&nbsp; memiliki beberapa ancaman, baik dari manusia atau&nbsp; alam. Ancaman-ancaman tersebut adalah jalur kapal/perahu, jangkar kapal, gelombang laut dan paparan sinar matahari, sampah dan limbah, serta pengeboman. Jalur perahu dan jangkar kapal tidak dapat dihindari karena banyak sampan atau perahu kecil yang dipakai dan ditambatkan di atas padang lamun.&nbsp; Hendaknya para pemilik perahu dapat memilih jalur kapal di atas pasir tanpa lamun sehingga meminimalisasi kerusakan padang lamun.</p>
+<p style="text-align: justify; margin-left: 40px;">
+	Surut yang terlalu lama terutama pada siang hari dapat menyebabkan lamun menjadi mati karena paparan terhadap sinar matahari. Buangan sampah dan limbah rumah tangga juga dapat menjadi ancaman yang serius terhadap keberlangsungan kehidupan padang lamun. Oleh karena itu, penduduk Pulau Medang harus terus diberi pengarahan untuk terus menjaga lingkungan. Pengeboman ikan juga perlu diantisipasi dengan melakukan patroli laut secara rutin mengingat adanya pihak-pihak yang tidak bertanggung jawab terutama nelayan-nelayan dari luar yang suka menangkap ikan di perairan Pulau Medang.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="snh">Sumberdaya Non Hayati</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<h2><a id="aps">Aktivitas Pengelolaan Sumberdaya</a></h2>
+<p><div class="readmore"><p style="text-align: justify; margin-left: 40px;">
+	Potensi perikanan dan kelautan merupakan andalan bagi masyarakat yang tinggal di Pulau Medang. Masyarakat memanfaatkan semua potensi&nbsp; untuk memenuhi kebutuhan hidup serta sebagai mata pencaharian utamanya. Potensi yang banyak dimanfaatkan adalah perikanan tangkap dan perikanan budidaya<strong>. </strong>Kegiatan perikanan tangkap merupakan ciri khas dari masyarakat di Desa Bajo Medang. Jenis ikan yang dihasilkan adalah ikan tuna, tongkol/cakalang, Hiu, Kakap, Tenggiri, cumi, baronang dan lain-lain.</p>
+<p style="text-align: justify; margin-left: 40px;">
+	Selain perikanan tangkap, juga ada perikanan budidaya berupaya budidaya rumput laut dan budidaya kerapu. Produksi rumput laut setiap tahunnya bisa mencapai 100 ton/tahun.&nbsp; Disamping perikanan laut, di pulau Medang juga ada Danau seluas 6 ha yang dimanfaatkan untuk budidaya Bandeng dengan produksi 6 &ndash; 7 ton/tahun.</p>
+<p style="text-align: justify; margin-left: 40px;">
+	Kegiatan Perikanan Budidaya oleh penduduk pulau medang pada umumnya budidaya rumput laut, terutama di desa Bugis Medang dengan jenis rumput laut yang dibudidaya meliputi <strong><em>Cattonii dan Spinosum sp</em></strong>. Jenis cotoni dapat dipanen hanya dalam jangka 45 hari dengan harga Rp. 7000 per kilogram. Sedangkan Spinosum Sp, butuh waktu sekitar 2 bulan baru bisa panen dan harganya relative rendah, yakini Rp. 4500 per kilogram. Namun saat ini budidaya rumput laut menghadapi kendala yaitu serangan penyakit ice ice dan lumut, serta adanya jenis ikan karang yang memakan rumput laut.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="ling">Lingkungan</a></h2>
+<p><div class="readmore"><p style="text-align: justify;">
+	<span style="color:#ff0000;"><strong>Hidrologi dan Perairan</strong></span></p>
+<p style="text-align: justify; margin-left: 40px;">
+	Pengamatan kualitas air dilakukan di Pulau Medang, Kab. Sumbawa, Nusa Tenggara Barat.. Secara umum kualitas perairan Pulau Medang dalam kondisi <strong>kurang baik</strong> berdasar pada baku mutu KepMen-LH 51 Tahun 2004 untuk Biota Laut. Terdapat beberapa parameter yang melebihi baku mutu, yaitu amonia, nitrat, dan fosfat. Ketiga parameter tersebut menggambarkan keberadaan nutrien di perairan.</p>
+<p style="text-align: center;">
+	Hasil analisis kualitas air di Pulau Medang</p>
+<table align="center" border="1" cellpadding="0" cellspacing="0">
+	<tbody>
+		<tr>
+			<td nowrap="nowrap" style="height:20px;">
+				<p style="text-align: justify;">
+					<strong>No.</strong></p>
+			</td>
+			<td nowrap="nowrap" style="width:128px;height:20px;">
+				<p style="text-align: justify;">
+					<strong>Parameter</strong></p>
+			</td>
+			<td nowrap="nowrap" style="height:20px;">
+				<p style="text-align: justify;">
+					<strong>Satuan</strong></p>
+			</td>
+			<td colspan="3" nowrap="nowrap" style="height:20px;">
+				<p style="text-align: justify;">
+					<strong>Nilai &plusmn; std.eror</strong></p>
+			</td>
+			<td nowrap="nowrap" style="height:20px;">
+				<p style="text-align: justify;">
+					<strong>BM*</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="height:20px;">
+				<p style="text-align: justify;">
+					1</p>
+			</td>
+			<td nowrap="nowrap" style="width:128px;height:20px;">
+				<p style="text-align: justify;">
+					Suhu</p>
+			</td>
+			<td nowrap="nowrap" style="height:20px;">
+				<p style="text-align: justify;">
+					&nbsp;mg/L</p>
+			</td>
+			<td nowrap="nowrap" style="height:20px;">
+				<p style="text-align: justify;">
+					29,5</p>
+			</td>
+			<td nowrap="nowrap" style="height:20px;">
+				<p style="text-align: justify;">
+					&plusmn;</p>
+			</td>
+			<td nowrap="nowrap" style="height:20px;">
+				<p style="text-align: justify;">
+					0,134</p>
+			</td>
+			<td nowrap="nowrap" style="height:20px;">
+				<p style="text-align: justify;">
+					Alami</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="height:20px;">
+				<p style="text-align: justify;">
+					2</p>
+			</td>
+			<td nowrap="nowrap" style="width:128px;height:20px;">
+				<p style="text-align: justify;">
+					DO</p>
+			</td>
+			<td nowrap="nowrap" style="height:20px;">
+				<p style="text-align: justify;">
+					&nbsp;mg/L</p>
+			</td>
+			<td nowrap="nowrap" style="height:20px;">
+				<p style="text-align: justify;">
+					7,6</p>
+			</td>
+			<td nowrap="nowrap" style="height:20px;">
+				<p style="text-align: justify;">
+					&plusmn;</p>
+			</td>
+			<td nowrap="nowrap" style="height:20px;">
+				<p style="text-align: justify;">
+					0,682</p>
+			</td>
+			<td nowrap="nowrap" style="height:20px;">
+				<p style="text-align: justify;">
+					&gt; 5</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="height:20px;">
+				<p style="text-align: justify;">
+					3</p>
+			</td>
+			<td nowrap="nowrap" style="width:128px;height:20px;">
+				<p style="text-align: justify;">
+					pH</p>
+			</td>
+			<td nowrap="nowrap" style="height:20px;">
+				<p style="text-align: justify;">
+					&nbsp;mg/L</p>
+			</td>
+			<td nowrap="nowrap" style="height:20px;">
+				<p style="text-align: justify;">
+					8,83</p>
+			</td>
+			<td nowrap="nowrap" style="height:20px;">
+				<p style="text-align: justify;">
+					&plusmn;</p>
+			</td>
+			<td nowrap="nowrap" style="height:20px;">
+				<p style="text-align: justify;">
+					0,012</p>
+			</td>
+			<td nowrap="nowrap" style="height:20px;">
+				<p style="text-align: justify;">
+					7-8,5</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="height:20px;">
+				<p style="text-align: justify;">
+					4</p>
+			</td>
+			<td nowrap="nowrap" style="width:128px;height:20px;">
+				<p style="text-align: justify;">
+					Salinitas</p>
+			</td>
+			<td nowrap="nowrap" style="height:20px;">
+				<p style="text-align: justify;">
+					&nbsp;mg/L</p>
+			</td>
+			<td nowrap="nowrap" style="height:20px;">
+				<p style="text-align: justify;">
+					33</p>
+			</td>
+			<td nowrap="nowrap" style="height:20px;">
+				<p style="text-align: justify;">
+					&plusmn;</p>
+			</td>
+			<td nowrap="nowrap" style="height:20px;">
+				<p style="text-align: justify;">
+					0,404</p>
+			</td>
+			<td nowrap="nowrap" style="height:20px;">
+				<p style="text-align: justify;">
+					Alami</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="height:22px;">
+				<p style="text-align: justify;">
+					5</p>
+			</td>
+			<td nowrap="nowrap" style="width:128px;height:22px;">
+				<p style="text-align: justify;">
+					Ammonia (NH<sub>3</sub>-N)</p>
+			</td>
+			<td nowrap="nowrap" style="height:22px;">
+				<p style="text-align: justify;">
+					&nbsp;mg/L</p>
+			</td>
+			<td nowrap="nowrap" style="height:22px;">
+				<p style="text-align: justify;">
+					4,221</p>
+			</td>
+			<td nowrap="nowrap" style="height:22px;">
+				<p style="text-align: justify;">
+					&plusmn;</p>
+			</td>
+			<td nowrap="nowrap" style="height:22px;">
+				<p style="text-align: justify;">
+					0,698</p>
+			</td>
+			<td nowrap="nowrap" style="height:22px;">
+				<p style="text-align: justify;">
+					0,3</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="height:22px;">
+				<p style="text-align: justify;">
+					6</p>
+			</td>
+			<td nowrap="nowrap" style="width:128px;height:22px;">
+				<p style="text-align: justify;">
+					Nitrat (NO<sub>3</sub>-N)</p>
+			</td>
+			<td nowrap="nowrap" style="height:22px;">
+				<p style="text-align: justify;">
+					&nbsp;mg/L</p>
+			</td>
+			<td nowrap="nowrap" style="height:22px;">
+				<p style="text-align: justify;">
+					0,084</p>
+			</td>
+			<td nowrap="nowrap" style="height:22px;">
+				<p style="text-align: justify;">
+					&plusmn;</p>
+			</td>
+			<td nowrap="nowrap" style="height:22px;">
+				<p style="text-align: justify;">
+					0,013</p>
+			</td>
+			<td nowrap="nowrap" style="height:22px;">
+				<p style="text-align: justify;">
+					0,008</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="height:22px;">
+				<p style="text-align: justify;">
+					7</p>
+			</td>
+			<td nowrap="nowrap" style="width:128px;height:22px;">
+				<p style="text-align: justify;">
+					Fosfat (PO<sub>4</sub>-P)</p>
+			</td>
+			<td nowrap="nowrap" style="height:22px;">
+				<p style="text-align: justify;">
+					&nbsp;mg/L</p>
+			</td>
+			<td nowrap="nowrap" style="height:22px;">
+				<p style="text-align: justify;">
+					0,018</p>
+			</td>
+			<td nowrap="nowrap" style="height:22px;">
+				<p style="text-align: justify;">
+					&plusmn;</p>
+			</td>
+			<td nowrap="nowrap" style="height:22px;">
+				<p style="text-align: justify;">
+					0,003</p>
+			</td>
+			<td nowrap="nowrap" style="height:22px;">
+				<p style="text-align: justify;">
+					0,015</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="height:22px;">
+				<p style="text-align: justify;">
+					8</p>
+			</td>
+			<td nowrap="nowrap" style="width:128px;height:22px;">
+				<p style="text-align: justify;">
+					Silikat (SiO<sub>2</sub>)</p>
+			</td>
+			<td nowrap="nowrap" style="height:22px;">
+				<p style="text-align: justify;">
+					&nbsp;mg/L</p>
+			</td>
+			<td nowrap="nowrap" style="height:22px;">
+				<p style="text-align: justify;">
+					0,123</p>
+			</td>
+			<td nowrap="nowrap" style="height:22px;">
+				<p style="text-align: justify;">
+					&plusmn;</p>
+			</td>
+			<td nowrap="nowrap" style="height:22px;">
+				<p style="text-align: justify;">
+					0,078</p>
+			</td>
+			<td nowrap="nowrap" style="height:22px;">
+				<p style="text-align: justify;">
+					-</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="height: 20px; text-align: justify;">
+				<p>
+					&nbsp;</p>
+			</td>
+			<td colspan="6" nowrap="nowrap" style="width:373px;height:20px;">
+				<p style="text-align: justify;">
+					*). Baku Mutu Berdasarkan Kepmen-LH 51 Tahun 2004 (Untuk Biota Laut )</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<div style="clear: both; text-align: justify;">
+	&nbsp;</div>
+<p style="text-align: justify; margin-left: 40px;">
+	Pulau Medang sering menjadi tujuan wisatawan yang sedang berkunjung ke Kabupaten Sumbawa. Pulau Medang memiliki kekayaan sumberdaya laut berupa terumbu karang, mangrove, dan lamun. Kondisi kualitas air yang baik sangat dibutuhkan untuk mendukung lestarinya sumberdaya di Pulau Medang. Berdasarkan hasil analisis kualitas air, suhu di Pulau Medang berkisar antara 29-30 &deg;C dan masih memenuhi baku mutu kualitas air bagi kehidupan biota laut. Suhu merupakan faktor penting di perairan karena perubahan suhu dapat berpengaruh terhadap proses fisika, kimia, dan biologi badan air. Organisme akuatik memiliki kisaran suhu tertentu yang mendukung pertumbuhannya (Nybakken 2000). Konsentrasi DO (oksigen terlarut) di Pulau Medang berkisar antara 6,5-11,5 mg/L. Kadar oksigen kurang dari 2 mg/L dapat mengakibatkan kematian ikan (UNESCO/WHO/UNEP&nbsp; 1992 <em>in</em> Effendi 2003). Oksigen di perairan merupakan produk fotosintesis fitoplankton di siang hari. Pada malam hari oksigen akan digunakan untuk respirasi semua organisme akuatik.</p>
+<p style="text-align: justify; margin-left: 40px;">
+	Nilai pH di Pulau Medang dikategorikan basa (lebih dari 7), yaitu sekitar 8,83 dan sesuai dengan kadar alamiah pH perairan laut. Kondisi ini juga umum terjadi di pulau-pulau kecil yang kaya akan karang dan lamun. Sedimen karbonat yang terdiri dari patahan karang, cangkang moluska, serta rangka biota mati turut berperan dalam menciptakan kondisi basa di perairan yang terkait dengan kesetimbangan alkalinitas. Selain itu, pada siang hari fitoplankton aktif melakukan fotosintesis yang membutuhkan karbondioksida (CO<sub>2</sub>). Tingginya pemanfaatan CO<sub>2</sub> di perairan menyebabkan terjadinya peningkatan nilai pH. Salinitas yang terukur di Pulau Medang sebesar 33 &permil;<sub>. </sub>Nilai ini masih berada pada kisaran toleransi hidup fitoplankton sebagai organisme produsen di laut, yaitu 11&ndash;40 &permil;.</p>
+<p style="text-align: justify; margin-left: 40px;">
+	Analisis kualitas air juga dilakukan pada parameter nutrien. Kadar amonia di Pulau Medang terdeteksi sangat tinggi dan telah melebihi baku mutu, yaitu 4,221 mg/L. Tingginya konsentrasi amonia dapat bersumber dari limbah domestik warga dalam Pulau Medang. Tingginya konsentrasi amonia mengindikasikan adanya pencemaran bahan organik yang berasal dari limbah domestik, aktivitas budidaya ikan di wilayah pesisir, serta dekomposisi bahan organik secara anaerob. Konsentrasi amonia yang tinggi dapat menyebabkan ikan mengalami gangguan proses pengikatan oksigen. Kasus yang sering dijumpai adalah kematian massal ikan setelah terjadi <em>upwelling</em>. Amonia yang terakumulasi di dasar perairan akan terangkat ke kolom air dan toksik bagi ikan.</p>
+<p style="text-align: justify; margin-left: 40px;">
+	Kadar nitrat dan fosfat di Pulau Medang juga telah melebihi baku mutu. Sama halnya dengan amonia, nitrat dan fosfat di perairan diduga berasal dari limbah domestik dari dalam pulau. Warga masyarakat dilaporkan sering melakukan akivitas MCK (Mandi Cuci Kakus) di laut. Hal ini terpaksa mereka lakukan karena sumur galian berbau belerang dan asin. Warga mengambil air bersih hanya dari beberapa sumur yang masih layak dikonsumsi. Selain itu, limbah domestik di sekitar Pulau Medang diduga bersumber dari padatnya jumlah penduduk dan aktivitas antropogenik di Pulau Medang.</p>
+<p style="text-align: justify; margin-left: 40px;">
+	Nitrat dan fosfat merupakan nutrien yang dibutuhkan organisme autotrof dalam proses fotosintesis. Namun, kadar nitrat yang lebih dari 0,2 mg/L dapat mengakibatkan terjadinya eutrofikasi perairan dan dapat menstimulasi pertumbuhan alga dan tumbuhan air secara pesat. Kehadiran alga dan tumbuhan air dalam jumlah berlebihan dapat menghambat pertumbuhan karang (Haris 2001). Alga dapat tumbuh di permukaan karang sehingga menghalangi dalam perolehan cahaya. Selain itu, keberadaan alga dapat menghambat proses rekruitmen karang karena larva planula membutuhkan substrat yang bersih dari kotoran, termasuk dari alga.</p>
+<p>
+	<span style="color:#ff0000;"><strong>Permasalahan Lingkungan</strong></span></p>
+<p style="text-align: justify; margin-left: 40px;">
+	Warga Pulau Medang susah mendapatkan air bersih di musim kemarau. Air yang didapatkan di sumur-sumur galian selalu mengeluarkan bau belerang (SO<sub>2</sub>) yang menyengat sehingga warga setempat terpaksa mengkonsumsi air yang secara kesehatan tidak layak minum. Hal ini menyebabkan warga sering melakukan aktivitas MCK di laut.</p>
+<p style="text-align: justify; margin-left: 40px;">
+	Selain itu, tempat pembuangan akhir (TPA) untuk sampah masih kurang diperhatikan oleh masyarakat di sekitar Pulau Medang. Hasilnya, masyarakat membuang sampah ke laut di area dermaga kapal kecil (<strong>Gambar 3</strong>). Banyak juga dijumpai kapal-kapal kecil di sekitar dermaga yang berlabuh dengan membuang sampah minyak, oli, dan bahan lainnya. Hal ini dapat berdampak buruk bagi ekosistem lamun, mangrove, dan terumbu karang di sekitarnya.</p>
+<p style="text-align: justify; margin-left: 40px;">
+	Upaya pemerintah dalam menangani masalah lingkungan masih kurang, dikarenakan jarak tempuh Pulau Medang cukup jauh dari pusat pemerintahan dan transportasi laut yang dibatasi oleh kondisi alam pada saat kunjungan dan kontrol. Namun, pembenahan lingkungan dapat dilakukan kapanpun dan dimanapun oleh penduduk setempat. Peningkatan kesadaran masyarakat untuk menjaga kebersihan lingkungan dapat dilakukan melalui pendidikan ataupun lokakarya dari kecamatan dan kepala adat.</p>
+<p style="text-align: justify; margin-left: 40px;">
+	Beberapa permasalahan umum :</p>
+<ul style="margin-left: 40px;">
+	<li style="text-align: justify;">
+		Perlu perbaikan sanitasi lingkungan sehingga pulau akan terlihat rapih dan bersih</li>
+	<li style="text-align: justify;">
+		Belum adanya pelatihan untuk masyarakat sebagai mata pencarian alternative (MPA)</li>
+	<li style="text-align: justify;">
+		Kurangnya peralatan penangkapan ikan</li>
+	<li style="text-align: justify;">
+		Adanya bantuan-bantuan untuk&nbsp; masyarakat kurang tepat sasaran</li>
+	<li style="text-align: justify;">
+		Ancaman abrasi (setiap tahun + 1 meter)</li>
+	<li style="text-align: justify;">
+		Belum adanya lembaga-lembaga atau koperasi yang mewadahi nelayan.</li>
+	<li style="text-align: justify;">
+		Keindahan Pulau Medang sebagai daerah tujuan wisata belum dikembangkan secara optimal karena selain memiliki panorama pantai yang indah dan jernih, juga terdapat deretan karang-karang yang mengililingi pulau serta beragamnya biota laut di pesisisr pantai.</li>
+</ul>
+</div></p>
+
+<hr>
+
+<h2><a id="sp">Sarana dan Prasarana</a></h2>
+<p><div class="readmore"><p>
+	<strong>Sarana dan Prasarana di P. Medang</strong></p>
+<ol style="list-style-type:lower-alpha;">
+	<li style="text-align: justify;">
+		<p>
+			Sarana Kesehatan</p>
+	</li>
+</ol>
+<p style="text-align: justify; margin-left: 40px;">
+	Di pulau Medang telah berdiri sarana kesehatan yang cukup memadai berupa 1 unit Puskesmas Pembantu (Pustu) yang terdiri dari 1 orang mantri, dan 2 orang bidan. Selain itu juga sarana pendukung kesehatan lainnya yaitu posyandu yang terdapat 1 di masing masing di desa.</p>
+<ol style="list-style-type:lower-alpha;">
+	<li style="text-align: justify;" value="2">
+		<p>
+			Sarana Ibadah</p>
+	</li>
+</ol>
+<p style="text-align: justify; margin-left: 40px;">
+	Pulau ini telah dilengkapi dengan sarana ibadah berupa 2 (dua) buah mesjid dengan ukuran cukup luas yang terletak satu di Desa Bugis Medang dan satu di Desa Bajo Medang. Mesjid ini telah dilengkapi dengan sarana sound system dan sarana penerangan menggunakan genset dengan bahan bakar solar dan PLTD. Selain mesjid di pulau ini juga terdapat mushalla sebanyak 2 buah, yang terdapat satu di masing-masing desa. Penduduk di pulau Medang 100% menganut agama islam.</p>
+<ol style="list-style-type:lower-alpha;">
+	<li style="text-align: justify;" value="3">
+		<p>
+			Sarana Air Bersih dan Sanitasi</p>
+	</li>
+</ol>
+<p style="text-align: justify; margin-left: 40px;">
+	Pulau ini telah terdapat sarana air bersih. Untuk kebutuhan MCK sumber air berasal dari sumur gali dengan jumlah&nbsp; yaitu Desa Bugis Medang sebanyak 281 unit dan Desa Bajo Medang sebanyak 258.&nbsp; Sedangkan untuk kebutuhan air minum, masyarakat&nbsp; menggunakan sumber air tawar yang berasal dari 2 buah sumur galian yang terdiri dari Desa Bugis Medang 1 buah dan Desa Bajo Medang 1 buah. Air dialirkan ke masyarakat di malam hari pada jam 7 &ndash; 9 malam melalui saluran pipa-pipa yang dialirkan melalui bantuan PNPM. Untuk setiap bulannya masyarakat dikenakan biaya sebesar Rp. 5.000,- per KK yang digunakan untuk biaya operasional seperti pembayaran&nbsp; tagihan listrik, perawatan dan gaji operator.</p>
+<p style="text-align: justify; margin-left: 40px;">
+	Sarana mandi cuci kakus (MCK) yang terdapat di Pulau Medang sudah tersedia namun belum semua rumah mempunyai MCK. Diisetiap desa telah disediakan MCK umum berasal dari program PNPM yang berjumlah&nbsp; terdiri dari, Desa Bugis Medang dengan jumlah 30 unit dan Desa Bajo Medang dengan jumlah 27 unit.</p>
+<ol style="list-style-type:lower-alpha;">
+	<li style="text-align: justify;" value="4">
+		<p>
+			Sarana Transportasi</p>
+	</li>
+</ol>
+<p style="text-align: justify; margin-left: 40px;">
+	Pulau ini telah dilengkapi dengan&nbsp; sarana jalan yang panjangnya sekitar 7,2 km dengan lebar 1,5 meter. Jalan dibuat dengan menggunakan bahan material semen dan sebagian jalan dari bahan konblok.</p>
+<ol style="list-style-type:lower-alpha;">
+	<li style="text-align: justify;" value="5">
+		<p>
+			Sarana Pendidikan</p>
+	</li>
+</ol>
+<p style="text-align: justify; margin-left: 40px;">
+	Di bidang pendidikan Pulau&nbsp; Medang telah memiliki&nbsp; sarana pendidikan yang cukup memadai yaitu Di Desa Bugis Medang terdapat 1 buah bangunan TK/PAUD,&nbsp; 1 buah bangunan SD negeri 2, 1 buah bangunan SMP N 5, dan 1 buah SMK Swasta. Sedangan di Desa Bajo Medang terdapat 1 buah TK/PAUD, 1 buah SD Negeri 01, 1 buah Madrasah Tsanawiyah dan 1 buah Madrasah Aliyah milik swasta1. Sarana pendidikan sudah cukup memadai, yang perlu ditingkatkan adalah kualitas tenaga pengajar dan faslitas bantu pendidikan lainnya seperti buku pelajaran sekolah dan fasilitas intra kurikuler lainnya.</p>
+<ol style="list-style-type:lower-alpha;">
+	<li style="text-align: justify;" value="6">
+		<p>
+			Sarana Penerangan</p>
+	</li>
+</ol>
+<p style="text-align: justify; margin-left: 40px;">
+	Sarana penerangan yang dipergunakan oleh masyarakat di pulau&nbsp; ini adalah pada malam hari menggunakan listrik yang bersumber dari PLTD yang berasal dari perusahaan listrik negara (PLN) dan mesin diesel sebanyak 35 unit yang berasal dari bahan bakar solar, dengan nyala listrik mulai jam 18.00- jam 06.00. Hampir semua masyarakat telah menggunakan sarana penerangan tersebut.</p>
+<ol style="list-style-type:lower-alpha;">
+	<li style="text-align: justify;" value="7">
+		<p>
+			Sarana Perikanan dan Kelautan</p>
+	</li>
+</ol>
+<p style="text-align: justify; margin-left: 40px;">
+	Sarana dan prasarana penangkapan sudah tersedia di pulau ini seperti TPI, perahu motor sebanyak 9 buah, Rumpon, jaring,&nbsp; dan pancing. Masyarakat melakukan penangkapan ikan disekitar Pulau Medang. Jenis ikan yang dihasilkan adalah ikan tuna, tongkol/cakalang, Hiu, Kakap, Tenggiri, cumi, baronang dan lain-lain. Disamping itu juga budidaya kerapu dengan menggunakan keramba apung. Ikan hasil tangkapan dijual langsung ke tengkulak atau penampung yang telah menunggu di dermaga dan ada juga yang dijual di dalam pulau sendiri.&nbsp; Selain di laut, di Pulau Medang juga terdapat Danau yang airnya payau seluas 6 Ha, dan biasanya dimanfaatkan oleh masyarakat setempat untuk budidaya Bandeng dengan produksi 6 &ndash; 7 ton/tahun.</p>
+<ol style="list-style-type:lower-alpha;">
+	<li style="text-align: justify;" value="8">
+		<p>
+			Sarana Komunikasi</p>
+	</li>
+</ol>
+<p style="text-align: justify; margin-left: 40px;">
+	Pulau ini memiliki Mercusuar yang terdapat disebelahan utara pulau,&nbsp; yang di jaga oleh 5 (lima) orang petugas.&nbsp; Sumber listrik yang digunakan untuk mercusuar adalah Pembangkit listrik tenaga Surya (PLTS).</p>
+</div></p>
+
+<hr>
+
+<h2><a id="pi">Peluang Investasi</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<h2><a id="pap">Potensi dan Arahan Pengembangan</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<h2><a id="kp">Kendala Pengembangan</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<h2><a id="rf">Referensi</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<br />
+	<i> 
+		<p style="font-size:12px;">
+			Karena keterbatasan SDM dalam penginputan dan pengolahan data, kami mohon maaf atas ketidak lengkapan beberapa data pulau yang kami tampilkan, harap dimaklumi.
+			Berikan keritik dan saran pada kolom komentar agar kita dapat bersama menyajikan sebuah data yang cukup sempurna untuk halayak ramai yang berguna
+			demi kesejahterahan, kelestarian dan keindahan pulau-pulau kecil yang dimiliki Indonesia.<br />
+			*Jika sekiranya anda memiliki data yang cukup banyak, silakan mengirimkan file melalui email kami di <b><a>identifikasippk@gmail.com</a></b>
+			
+		</p>
+	</i>
+<br />
+
+<div id="fb_comn" class="fb-comments" data-href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_info/5018" data-width="800" data-numposts="5" data-colorscheme="light"></div>
+
+
+</div>
+</div>
+</div>
+<div id="wrapper">
+
+<div class="footer"><p>
+<!--<marquee onmouseover="this.stop()" onmouseout="this.start()" scrollamount="5" direction="right" width="798" height="14"  behavior="scroll">-->
+<a href="http://www.ppk-kp3k.kkp.go.id/" target="_blank">Direktorat Pendayagunaan Pulau-Pulau Kecil &nbsp; | &nbsp;</a>
+<a href="http://www.kp3k.kkp.go.id/" target="_blank">Ditjen Kelautan, Pesisir dan Pulau-Pulau Kecil &nbsp; | &nbsp;</a>
+<a href="http://www.kkp.go.id/" target="_blank">Kementerian Kelautan dan Perikanan</a>
+<!--</marquee>--> <br />
+Jl. Medan Merdeka Timur No. 16 Gedung Mina Bahari 3 Lantai 10, Jakarta, Indonesia <br />
+Email : identifikasippk@gmail.com <br />
+Telp &amp; Fax: (021) 3522058 <br />
+&copy; Copyright Direktorat Pendayagunaan Pulau-Pulau Kecil 2012&nbsp; <br /></p>
+</div>
+</div>
+</body>
+</html>

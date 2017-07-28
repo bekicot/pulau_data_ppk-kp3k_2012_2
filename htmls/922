@@ -1,0 +1,877 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Pulau Breueh</title>
+
+<meta charset="utf-8"/>
+
+<meta property="fb:app_id" content="559408774147878" />
+
+
+<meta property="og:title" content="Pulau Breueh" />
+<meta property="og:url" content="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_info/922" />
+
+
+    <script type="text/javascript" src="http://ajax.microsoft.com/ajax/jquery/jquery-1.4.4.min.js">
+    </script>
+    
+    <script type="text/javascript" src="http://plugins.learningjquery.com/expander/jquery.expander.js">
+    </script>
+    
+    <script type="text/javascript">
+        $(function () {
+            $('div.readmore').expander({
+                slicePoint:200,
+                expandText: '(Baca selengkapnya)',
+                userCollapseText: '(Sembunyikan selengkapnya)'
+            });
+        });
+    </script>
+        
+	<script src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/galleria/galleria-1.2.8.min.js"></script>
+
+        <SCRIPT TYPE="text/javascript">
+            <!--
+            //Disable right click script
+            //visit http://www.rainbow.arch.scriptmania.com/scripts/
+            var message="Sorry, right-click has been disabled";
+            ///////////////////////////////////
+            function clickIE() {if (document.all) {(message);return false;}}
+            function clickNS(e) {if
+            (document.layers||(document.getElementById&&!document.all)) {
+            if (e.which==2||e.which==3) {(message);return false;}}}
+            if (document.layers)
+            {document.captureEvents(Event.MOUSEDOWN);document.onmousedown=clickNS;}
+            else{document.onmouseup=clickNS;document.oncontextmenu=clickIE;}
+            document.oncontextmenu=new Function("return false")
+            // -->
+            </SCRIPT>
+            
+            <SCRIPT TYPE="text/javascript">
+            <!--
+            //Disable select-text script (IE4+, NS6+)
+            //visit http://www.rainbow.arch.scriptmania.com/scripts/
+            ///////////////////////////////////
+            function disableselect(e){
+            return false
+            }
+            function reEnable(){
+            return true
+            }
+            //if IE4+
+            document.onselectstart=new Function ("return false")
+            //if NS6
+            if (window.sidebar){
+            document.onmousedown=disableselect
+            document.onclick=reEnable
+            }
+            // -->
+            </SCRIPT>  
+              
+<link rel="stylesheet" type="text/css" href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/css/main.css" media="screen"/>
+<style type='text/css'>
+#info_wrap{
+	width:820px;
+	margin:0 auto;
+	text-shadow:0px 1px 1px #09F;
+}
+table{
+	color:#000000;
+}
+h1{
+	color:#000000;
+}
+.tengahin{
+	width: 105px;
+	height: 30px;
+	margin: 0 auto auto auto;
+}
+#box_view{
+	background-image:-webkit-gradient(linear, 0 0%, 0 100%, from(#FFFFFF), to(#E0F0F5));
+	background:#FFF;
+	color:#F60;
+	border: 1px solid #fff;
+	border-radius: 4px 4px 4px 4px;
+	box-shadow: 0 8px 6px -6px black;
+	position:fixed;
+	right:0;
+	top:150px;;
+	width:80px;
+	z-index:10;
+	padding-left:12px;
+	font-size:10px;
+	}
+#box_view li{
+	color:#F60;
+	margin-left:-30px;
+	}
+	#wrapper a b {
+	color: #FFF;
+	font-size:14px;
+}
+.batas{
+	float:left;
+	border-right-style:inset;
+	border-right-width:thin;
+	}
+.text_h_wrap{
+	
+	padding-left:450px;
+	padding-top:39px;
+	text-shadow:0px 1px 1px #09F;
+	}
+#wrapper .footer p{
+	font-size:12px;
+	color: #FFF;
+	text-align:center;
+	text-shadow:0px 1px 1px #09F;
+}
+td,th {
+	font-size: 12px;
+}
+
+marquee a{
+	color:#FFF
+	}
+#wrapper .footer a{
+	color: #FFFFFF;
+}
+</style>
+            
+<script>
+function goBack()
+  {
+  window.history.back()
+  }
+</script>
+<script type="text/javascript">
+function Popup( url, height, width )
+{
+    var windowProperties = "toolbar = 0, scrollbars = 1, location = 0, statusbar = 0, menubar = 0, resizable = 1, width = " + width + ", height = " + height + ", left = 50, top = 50";
+ 
+    return window.open( url, "", windowProperties );
+}
+</script>
+
+
+
+</head>
+<body oncontextmenu='return false;' onkeydown='return false;' onmousedown='return false;'>
+
+<a id="top_view"></a>
+<div id="wrapper">
+<div class="header_wrap">
+<div class="text_h_wrap">
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/home_page'><b>&nbsp;Home&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/menu_info/1'><b>&nbsp;About Us&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_data'><b>&nbsp;Direktori Pulau&nbsp;&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/program_ip'><b>&nbsp;IKU&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/data_ppkt'><b>&nbsp;PPKT&nbsp;</b></a>
+</div>
+<!--<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/maintenance'><b>&nbsp;Login&nbsp;</b></a>-->
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/dir_log_cont'><b>&nbsp;Login&nbsp;</b></a>
+
+</div>
+</div>
+</div>
+
+<div id="fb-root"></div>
+<script>
+  window.fbAsyncInit = function() {
+    // init the FB JS SDK
+    FB.init({
+      appId      : '559408774147878',                        // App ID from the app dashboard
+      status     : true,                                 // Check Facebook Login status
+      xfbml      : true                                  // Look for social plugins on the page
+    });
+
+    // Additional initialization code such as adding Event Listeners goes here
+  };
+
+  // Load the SDK asynchronously
+  (function(){
+     // If we've already installed the SDK, we're done
+     if (document.getElementById('facebook-jssdk')) {return;}
+
+     // Get the first script element, which we'll use to find the parent node
+     var firstScriptElement = document.getElementsByTagName('script')[0];
+
+     // Create a new script element and set its id
+     var facebookJS = document.createElement('script'); 
+     facebookJS.id = 'facebook-jssdk';
+
+     // Set the new script's source to the source of the Facebook JS SDK
+     facebookJS.src = '//connect.facebook.net/en_US/all.js';
+
+     // Insert the Facebook JS SDK into the DOM
+     firstScriptElement.parentNode.insertBefore(facebookJS, firstScriptElement);
+   }());
+</script>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=559408774147878";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="box_view">
+    <a href="#top_view">MENU</a>
+    <h3><p>Lihat Informasi:</p></h3>
+    <ul>
+	<a href="#sf"><li>Slide Foto</li></a>
+    <a href="#gu"><li>Gambaran Umum</li></a>
+    <a href="#ksbk"><li>Kependudukan, Sosial Budaya dan Kelembagaan</li></a>
+    <a href="#eshp"><li>Ekosistem dan Sumberdaya Hayati</li></a>
+    <a href="#snh"><li>Sumberdaya Non Hayati</li></a>
+    <a href="#aps"><li>Aktivitas Pengelolaan Sumberdaya</li></a>
+    <a href="#ling"><li>Lingkungan</li></a>
+    <a href="#sp"><li>Sarana dan Prasarana</li></a>
+    <a href="#pi"><li>Peluang Investasi</li></a>
+    <a href="#pap"><li>Potensi Arahan Pengembangan</li></a>
+    <a href="#kp"><li>Kendala Pengembangan</li></a>
+	<a href="#rf"><li>Referensi</li></a>
+    </ul>
+    <a href="#fb_comn">KOMENTAR</a>
+</div>
+
+<br>
+			<a id="sf"></a></h2>
+			<div id="galleria">
+            <!--<div class='tengahin'><input type="button" value="Kembali Ke List" onclick="goBack()"></div>-->
+                            </div>
+            
+            <script>
+            Galleria.loadTheme('http://www.ppk-kp3k.kkp.go.id/direktori-pulau/galleria/themes/classic/galleria.classic.min.js');
+            Galleria.run('#galleria');
+            </script>
+</div>
+
+<div id="text_warp">
+
+
+<p><h1>Breueh</h1></p>
+<table>
+<tr>
+	<td>Nama Lain</td> <td>:</td> <td></td>
+</tr>
+<tr>
+	<td>Propinsi</td> <td>:</td> <td>ACEH</td>
+</tr>
+<tr>
+	<td>Kabupaten</td> <td>:</td> <td>KABUPATEN ACEH BESAR</td>
+</tr>
+<tr>
+	<td>Kecamatan</td> <td>:</td> <td></td>
+</tr>
+<tr>
+	<td>Koordinat</td> <td>:</td> <td><a href="http://www.ppk-kp3k.kkp.go.id/giskkp/index.html?extent="target="_blank">5° 37' 28.896” LU 95° 9' 18.316” BT</a></td>
+</tr>
+</table>
+<hr>
+
+<h2><a id="gu">Gambaran Umum</a></h2>
+<p><div class="readmore"><div>
+	<p style="margin-left: 8.1pt; text-align: justify;">
+		<strong>Kondisi Umum Pulau</strong></p>
+	<p style="margin-left: 8.1pt; text-align: justify;">
+		Kecamatan Pulo Aceh merupakan daratan aluvial dan rangkaian kepulauan yang juga merupakan perbukitan. Di kawasan daratan sebagian besar wilayahnya telah diubah menjadi areal pertanian atau persawahan. Persawahan yang ada pada umumnya adalah persawahan tadah hujan, mengingat sistem irigasi yang belum dikembangkan secara maksimal sehingga pada&nbsp; musim &nbsp;kemarau, &nbsp;persawahan&nbsp; tersebut &nbsp;nampak &nbsp;seperti semak belukar &nbsp;atau &nbsp;lahan &nbsp;terbuka. &nbsp;Sebelum &nbsp;terjadinya &nbsp;bencana &nbsp;alam, &nbsp;di&nbsp; wilayah &nbsp;pantainya terutama di kawasan pantai yang tidak berhadapan langsung dengan laut lepas tumbuh manggrove yang umumnya di dominasi dari jenis <em>Rhizopora </em>sp., namun demikian, berdasarkan hasil survei manggrove yang tumbuh diwilayah Kecamatan Pulo Breueh Aceh umumnya tipis (tidak lebih dari 40 meter) dan berada memanjang di sepanjang pantai.</p>
+	<p style="margin-left: 8.1pt; text-align: justify;">
+		Selain areal pertanian, wilayah daratan merupakan areal perkebunan sistem tradisional. Sistem pertambakan yang di usahakan oleh warga hanya dimanfaatkan untuk keperluan pemenuhan kebutuhan pangan lokal. Pulau-pulau besar seperti Pulo Breueh dan Pulo Nasi yang memiliki luasan yang besar umumnya berpenghuni cukup besar namun belum dapat dikategorikan cukup padat dan sebagian besar penduduknya bermata pencaharian sebagai nelayan. Air tawar hingga saat ini masih cukup untuk memenuhi keperluan penduduknya. Air tawar ini dipasok melalui jaringan pipa yang sumber mata air di perbukitan atau melalui pembuatan sumur di tiap rumah penduduk.</p>
+	<p style="margin-left: 8.1pt; text-align: justify;">
+		Berdasarkan &nbsp;pada &nbsp;interpretasi &nbsp;visual &nbsp;citra &nbsp;dan &nbsp;ditambah &nbsp;dengan&nbsp; data &nbsp;yang diperoleh dari lapangan, wilayah studi secara umum terletak di wilayah kepulauan dengan kondisi &nbsp;wilayah &nbsp;daratan &nbsp;yang &nbsp;umumnya &nbsp;berbukit. &nbsp;Wilayah &nbsp;kepulauan &nbsp;secara &nbsp;morfologi</p>
+</div>
+<p style="text-align: justify;">
+	<br clear="all" />
+	merupakan perkembangan gosong karang dengan ciri berupa daratan pasir karang dan solum tanah secara umum belum berkembang. Tanah yang ada di kepulauan Pulo Breueh ini merupakan tanah jenis andosol dan regosol dimana batuan induk yaitu pasir karang masih terlihat jelas. Ciri lain adalah air tanah yang dangkal tetapi payau sehingga umumnya kurang layak minum. Pada pulau-pulau tertentu air tawar untuk kebutuhan minum dapat dicukupi dari pulau yang bersangkutan, tetapi kebanyakan air tawar diambil dari mata air di wilayah perbukitan di sekitar konsentrasi perumahan penduduk. Tumbuhan darat secara umum dapat hidup dengan baik, terutama tanaman perkarangan.</p>
+<div>
+	<p style="margin-left: 8.1pt; text-align: justify;">
+		Daerah dengan morfologi daratan berupa pantai pasir putih, &nbsp;daerah daratan juga berupa wilayah bekas sedimentasi dari laut maupun darat (bentukan asal aluvival maupun marin). Di beberapa tempat bahkan tampak jelas bahwa daerah dataran itu dahulu merupakan bentuk morfologi rawa. Karenanya pengaruh air laut sangat nampak jelas dapat mencapai jauh ke dalam wilayah darat.</p>
+	<p style="margin-left: 8.1pt; text-align: justify;">
+		Di &nbsp;daerah &nbsp;dengan &nbsp;morfolgi &nbsp;bergelombang &nbsp;sampai &nbsp;berbukit,&nbsp;&nbsp; litologi &nbsp;dasarnya merupakan karst atau batu kapur. Cirinya adalah adanya dominasi topografi yang terjal</p>
+</div>
+<p style="margin-left: 8.1pt; text-align: justify;">
+	dengan wilayah datar sampai bergelombang cukup sempit, dan adanya goa-goa maupun dolina. Tanah diwilayah perbukitan ini juga belum begitu berkembang baik. Jenis tanah yang ada masih didominasi tanah regosol walaupun pada beberapa tempat yang merupakan wilayah lembah atau cekungan ditemukan jenis tanah latosol yang cukup subur.</p>
+<p style="text-align: justify;">
+	Pulo&nbsp;&nbsp; Breueh merupakan salah satu gugusan pulau dalam kecamatan Pulo Aceh Kabupaten Aceh Besar. Pulo Breueh adalah sebuah pulau yang terletak di sebelah barat laut Pulau Sumatera dan di sebelah barat laut Pulau Weh. Berdasarkan data citra yang telah diolah dapat diketahui bahwa Pulo Breueh mempunya luas 5.835 Ha, atau sekitar 58,35 km2, Panjang garis pantai 87,26 km, dan panjang jalan 77,72 km. &nbsp;Jika dilihat berdasarkan letak geografis, pulau ini berada di koordinat 050 38&rsquo; 49&rdquo; &ndash; 050 45&rsquo; 19&rdquo; LU dan 0950 &nbsp;0&rsquo; 6,23&rdquo; &ndash; 09508&rsquo; &nbsp;39&rdquo; BT. Secara administratif pulau ini termasuk dalam wilayah Kecamatan Pulau Aceh, Kabupaten Aceh Besar. Ibu kota kecamatan Pulo Aceh ini terdapat di Pulo Breueh yaitu di Gampong Lampuyang. Peta administrative</p>
+<p style="margin-left: 8.1pt; text-align: justify;">
+	Berdasarkan cerita yang berkembang &nbsp;di masyarakat Pulo Breueh, nama pulau &nbsp;dan Pulo Breueh berasal dari jenis makanan yang harus dibawa oleh pendatang ketika mengunjungi pulau tersebut di masa lampau. Dahulu, apabila ada orang yang datang ke Pulau Nasi, dari daratan Sumatra membawa nasi untuk bekal mereka. Namun ketika mereka pergi ke Pulo Breueh , karena letaknya yang lebih jauh, ternyata nasi yang dibawa dari rumah&nbsp; sudah menjadi basi. &nbsp;Sebagai&nbsp; pelajaran, &nbsp;akhirnya&nbsp; mereka&nbsp; membawa&nbsp; beras &nbsp;saja. Akhirnya masyarakat menyebut nama pulau tersebut sebagai Pulo Breueh.</p>
+<p style="margin-left: 8.1pt; text-align: justify;">
+	Akses untuk menuju pulau Breueh hanya dapat dilalui melalui moda transportasi laut. berupa <em>boat </em>nelayan pengangkut barang dan ikan yang&nbsp; setiap hari, kecuali Jumat, berangkat dari Pelabuhan Lampulo di Banda Aceh pukul 14.00 WIB. Perjalanan ditempuh kurang lebih selama 2 jam. Ada beberapa <em>boat </em>yang bisa dipilih, <em>boat </em>yang menuju ke desa Gugop atau <em>boat </em>yang menuju ke Lampuyang. Ada pula <em>boat </em>yang langsung menuju desa Meulingge, namun jadwalnya tidak pasti. Untuk mengawali petualangan di Pulau , lebih bagus dimulai dari desa Gugop, sebuah desa yang memiliki sarana dan prasarana cukup memadai di Pulau tersebut. Hanya ada 1 <em>boat </em>setiap hari yang menuju ke sana, bergantian antara KM Satria Baru atau KM Jasa Bunda. Untuk kembali ke Banda Aceh, <em>boat </em>dari desa Gugop berangkat pukul 08.00 pagi. nPulo Breueh &nbsp;terbagi dalam 2 kemukiman, kemukiman Pulo Breueh &nbsp;Utara dan Pulo Breueh Selatan.&nbsp; &nbsp;Nama-nama gampong yang terdapat dalam mukim P. Breueh Utara yaitu : Meulingge, Rhinon, Alue Raya dan Lapeng. Sedangkan nama-nama gampong yang terdapat dalam mukim P.Breueh Selatan adalah : Lampuyang, Seurapong, Teunom, Gugop, Ulee Paya, Paloh, Blang Situngkoh dan Lhoh.</p>
+<p style="margin-left: 8.1pt; text-align: justify;">
+	<strong>Kondisi Fisik</strong></p>
+<p style="margin-left: 8.1pt; text-align: justify;">
+	&middot;&nbsp;&nbsp;&nbsp; &nbsp;<strong>Klimatologi</strong></p>
+<p style="margin-left: 8.1pt; text-align: justify;">
+	Klimatologi berasal dari bahasa Yunani Klima dan Logos yang masing- masing berarti iklim atau cuaca tempat sedangkan Logos sendiri berarti Ilmu. Jadi definisi Klimatologi adalah ilmu yang mencari gambaran dan penjelasan sifat iklim. Kondisi iklim di berbagai tempat di bumi berbeda , dan bagaimana kaitan antara iklim dan dengan aktivitas manusia. Karena&nbsp;&nbsp; klimatologi&nbsp; &nbsp;memerlukan&nbsp;&nbsp; interpretasi&nbsp; &nbsp;dari&nbsp; &nbsp;data-data&nbsp; &nbsp;yang&nbsp; &nbsp;banyak&nbsp; &nbsp;dehingga memerlukan statistik&nbsp; dalam pengerjaannya, orang2 sering&nbsp; juga mengatakan klimatologi sebagai meteorologi statistik (Tjasyono, 2004). Pengetahuan tentang klimatologi sangat penting untuk diketahui dalam pengembangan suatu wilayah. Karena klimatologi&nbsp; &nbsp;ini berhubungan dengan curah hujan, kelembaban relatif, arah angin dan suhu udara.</p>
+<div>
+	<p style="margin-left: 8.1pt; text-align: justify;">
+		- Curah hujan</p>
+	<p style="margin-left: 8.1pt; text-align: justify;">
+		Curah hujan adalah jumlah air yang jatuh di permukaan tanah datar selama periode tertentu yang diukur dengan satuan tinggi (mm) di atas permukaan horizontal bila tidak terjadi&nbsp;&nbsp;&nbsp; &nbsp;evaporasi,&nbsp;&nbsp;&nbsp; &nbsp;runoff&nbsp;&nbsp;&nbsp;&nbsp; dan&nbsp;&nbsp;&nbsp;&nbsp; infiltrasi.&nbsp;&nbsp;&nbsp; &nbsp;Satuan&nbsp;&nbsp;&nbsp;&nbsp; CH&nbsp;&nbsp;&nbsp; &nbsp;adalah&nbsp;&nbsp;&nbsp;&nbsp; mm,&nbsp;&nbsp;&nbsp; &nbsp;inch. terdapat beberapa cara mengukur curah hujan. Curah hujan (mm) : merupakan ketinggian air hujan yang terkumpul dalam tempat yang datar, tidak menguap, tidak meresap, dan tidak mengalir. Curah hujan 1 (satu) millimeter, artinya dalam luasan satu meter persegi pada&nbsp; tempat &nbsp;yang &nbsp;datar&nbsp; tertampung &nbsp;air&nbsp; setinggi&nbsp; satu&nbsp; millimeter&nbsp; atau&nbsp; tertampung &nbsp;air sebanyak satu liter. Curah hujan kumulatif (mm) : merupakan jumlah hujan yang terkumpul dalam rentang waktu kumulatif tersebut. Dalam periode musim, rentang waktunya adalah rata-rata &nbsp;panjang &nbsp;musim &nbsp;pada &nbsp;masing-masing&nbsp; Daerah &nbsp;Prakiraan &nbsp;Musim &nbsp;(DPM).</p>
+	<p style="margin-left: 8.1pt; text-align: justify;">
+		- Kelembaban relatif</p>
+	<p style="margin-left: 8.1pt; text-align: justify;">
+		Kelembaban&nbsp; relatif&nbsp; adalah&nbsp; rasio &nbsp;kelembaban&nbsp; mutlak &nbsp;saat &nbsp;ini &nbsp;untuk &nbsp;kelembaban absolut tertinggi (yang tergantung pada suhu udara saat ini). Apabila kelembaban relatif sudah sudah mencapai 100 % berarti bahwa udara benar-benar jenuh dengan uap air dan akan terjadi hujan. Akan tetapi tidak berarti bahwa kelembaban relatif harus mencapai 100 persen baru terjadi hujan. Berikut ini adalah data tentang kelembaban relatif di Pulo Breueh, Kabupaten Aceh Besar.</p>
+	<p style="margin-left: 8.1pt; text-align: justify;">
+		- Suhu Udara</p>
+	<p style="text-align: justify;">
+		Suhu adalah ukuran derajat panas atau dingin suatu benda. Alat yang digunakan untuk mengukur suhu disebut termometer. Dalam bidang termodinamik, suhu ialah suatu ukuran kecenderungan bentuk atau sistem untuk melepaskan tenaga secara spontan. Suhu tersebut merupakan sifat fisik dalam suatu sistem yang merupakan dasar dari anggapan lazim &quot;panas&quot; dan&quot;sejuk&quot;, yaitu sesuatu yang lebih panas mempunyai suhu yang lebih tinggi. Suhu datangnya dari gerakan-gerakan mikroskopik, dan suhu berkaitan dengan tenaga gerakan-gerakan mikroskopik ini. Konsep suhu, yang diartikan sebagai tegangan kepada entropi, adalah susulan dari hukum termodinamik.</p>
+	<p style="margin-left: 8.1pt; text-align: justify;">
+		- Arah Angin</p>
+	<p style="margin-left: 8.1pt; text-align: justify;">
+		<strong>Mata angin </strong>merupakan panduan yang digunakan untuk menentukan arah. Umum digunakan dalam navigasi, kompas dan peta. Berpandukan pada pusat mata angin, maka akan terlihat 8 arah yaitu dengan urutan sebagaimana pada Tabel berikut (mengikuti arah jarum jam).</p>
+	<p style="margin-left: 5.1pt; text-align: justify;">
+		<strong>O</strong><strong>seanografi</strong></p>
+	<p style="margin-left: 5.1pt; text-align: justify;">
+		Oseanografi adalah ilmu yang mempelajari fenomena fisis dan dinamis air laut yang dapat diaplikasikan ke bidang-bidang lainnya seperti rekayasa, lingkungan, perikanan, bencana laut dan mitigasi (pengelolaan dan pencegahan).</p>
+	<div>
+		<p style="margin-left: 5.1pt; text-align: justify;">
+			<strong>P</strong><strong>ola arus</strong></p>
+		<p style="margin-left: 5.1pt; text-align: justify;">
+			Arus laut adalah gerakan massa air laut yang berpindah dari satu tempat ke tempat lain. Arus di permukaan laut terutama disebabkan oleh tiupan angin, sedang arus di kedalaman laut disebabkan oleh perbedaan densitas massa air laut. Selain itu, arus di permukan laut dapat juga disebabkan oleh gerakan pasang surut air laut atau gelombang. Arus laut dapat terjadi di samudera luas yang bergerak melintasi samudera (<em>ocean currents</em>), maupun terjadi di perairan pesisir (<em>coastal currents</em>). Penyebab utama arus permukaan laut di samudera adalah tiupan angin yang bertiup melintasi permukaan Bumi melintasi zona- zona lintang yang berbeda. Ketika angin melintasi permukaan samudera, maka massa air laut tertekan sesuai dengan arah angin.</p>
+		<p style="margin-left: 5.1pt; text-align: justify;">
+			Pola umum arus permukaan samudera dimodifikasi oleh faktor-faktor fisik dan berbagai variabel seperti friksi, gravitasi, gerak rotasi Bumi, konfigurasi benua, topografi dasar laut, dan angin lokal. Interaksi berbagai variabel itu menghasilkan arus permukaan samudera yang rumit. Karena gerakannya yang terus menerus itu, massa air laut mempengaruhi massa udara yang ditemuinya dan merubah cuaca dan iklim di seluruh dunia.</p>
+	</div>
+</div>
+<div>
+	<p style="margin-left: 6.1pt; text-align: justify;">
+		<strong>P</strong><strong>ola Gelombang</strong></p>
+	<p style="text-align: justify;">
+		Gelombang adalah peristiwa naik turunnya permukan air laut dari ukuran kecil (riak) sampai yang paling panjang (pasang surut). Gelombang yang terjadi di perairan Pulo Breueh merupakan gelombang hasil rambatan yang terjadi di samudera Indonesia. Gelombang ini dipengaruhi &nbsp;oleh &nbsp;kondisi &nbsp;topografi &nbsp;dasar &nbsp;laut &nbsp;dan &nbsp;keadaan &nbsp;angin. &nbsp;Hasil &nbsp;pengamatan memperlihatkan bahwa keadaan gelombang tertinggi terjadi pada periode bulan desember sampai februari (musim barat), ketinggian gelombang mencapai 1,5 m &ndash; 2 m. Sedangkan pada bulan lainnya tinggi gelombang yang tercatat kurang dari 1,5 meter (Nurjaya,1993).</p>
+</div>
+<p style="margin-left: 5.1pt; text-align: justify;">
+	Penyebab utama terjadinya gelombang adalah angin. Gelombang dipengaruhi oleh kecepatan &nbsp;angin, &nbsp;lamanya &nbsp;angin &nbsp;bertiup, &nbsp;dan&nbsp; jarak &nbsp;tanpa&nbsp; rintangan&nbsp; saat &nbsp;angin &nbsp;bertiup <em>(fetch</em>). Gelombang terdiri dari panjang gelombang, tinggi gelombang, periode gelombang, kemiringan gelombang dan frekuensi gelombang. Panjang gelombang adalah jarak berturut- turut antara dua puncak atau dua buah lembah. Tinggi gelombang adalah jarak vertikal antara puncak dan lembah gelombang. Periode gelombang adalah waktu yang dibutuhkan gelombang untuk kembali pada titik semula. Kemiringan gelombang adalah perbandingan antra tinggi dan panjang gelombang. Frekuensi gelombang adalah jumlah gelombang yang terjadi dalam satu satuan waktu.</p>
+<p style="margin-left: 5.1pt; text-align: justify;">
+	Pada hakikatnya, gelombang yang terbentuk oleh hembusan angin akan merambat lebih jauh dari daerah yang menimbulkan angin tersebut. Hal ini yang menyebabkan daerah di pesisir Pulo Breueh&nbsp; &nbsp;memiliki gelombang yang besar meskipun angin setempat tidak begitu besar. Gelombang besar yang datang itu bisa merupakan gelombang kiriman yang berasal dari badai yang terjadi jauh dibagian selatan Samudera Hindia.</p>
+<div>
+	<p style="margin-left: 5.1pt; text-align: justify;">
+		<strong>-P</strong><strong>asang surut</strong></p>
+	<p style="margin-left: 8.1pt; text-align: justify;">
+		Pasang surut laut merupakan hasil dari gaya tarik gravitasi dan efek sentrifugal. Efek &nbsp;sentrifugal &nbsp;adalah &nbsp;dorongan &nbsp;ke &nbsp;arah &nbsp;luar &nbsp;pusat &nbsp;rotasi. &nbsp;Gravitasi bervariasi &nbsp;secara langsung dengan massa tetapi berbanding terbalik terhadap jarak. Meskipun ukuran bulan lebih kecil dari matahari, gaya tarik gravitasi bulan dua kali lebih besar daripada gaya tarik matahari dalam membangkitkan pasangsurut laut karena jarak bulan lebih dekat daripada jarak matahari ke bumi. Gaya tarik gravitasi menarik air laut ke arah bulan dan matahari dan menghasilkan dua tonjolan (bulge) pasang surut gravitasional di laut. Lintang dari tonjolan pasang surut ditentukan oleh deklinasi, sudut antara sumbu rotasi bumi dan bidang orbital bulan dan matahari. Pasang surut yang terjadi di perairan laut Pulo Breueh &nbsp;terjadi dua kali sehari, &nbsp;yaitu &nbsp;pasang &nbsp;tinggi&nbsp; terjadi&nbsp; sekitar &nbsp;jam&nbsp; 3&nbsp; siang &nbsp;sampai&nbsp; jam &nbsp;2 &nbsp;pagi&nbsp; (dini&nbsp; hari). Sedangkan pasang rendah terjadi dari jam 3 pagi sampai jam 2 siang</p>
+	<p style="margin-left: 8.1pt; text-align: justify;">
+		<strong>- B</strong><strong>athimetri</strong></p>
+	<p style="margin-left: 8.1pt; text-align: justify;">
+		Survei&nbsp; &nbsp;batimetrik&nbsp; &nbsp;dimaksudkan&nbsp; &nbsp;untuk&nbsp; &nbsp;mendapatkan&nbsp; &nbsp;data&nbsp;&nbsp; kedalaman&nbsp; &nbsp;dan konfigurasi/ topografi dasar laut, termasuk lokasi dan luasan obyek-obyek yang mungkin membahayakan. Survei Batimetri dilaksanakan mencakup sepanjang koridor survey dengan lebar bervariasi. Lajur utama harus dijalankan dengan interval 100 meter dan lajur silang (<em>cross line</em>) dengan interval 1.000 meter. Kemudian setelah rencana jalur kabel ditetapkan, koridor baru akan ditetapkan selebar 1.000 meter. Lajur utama dijalankan dengan interval 50 meter dan lajur silang (<em>cross line</em>) dengan interval 500 meter. Peralatan echosounder digunakan untuk mendapatkan data kedalaman optimum mencakup seluruh kedalaman dalam area survei. Hasil survey menunjukkan bahwa dasar perairan adalah berkarang dan berpasir dengan kedalaman yang bervariasi.</p>
+</div>
+<div>
+	<p style="margin-left: 8.1pt; text-align: justify;">
+		<strong>H</strong><strong>i</strong><strong>drologi (Air Permukaan/Tubuh Air dan Air Tanah)</strong></p>
+	<p style="margin-left: 8.1pt; text-align: justify;">
+		Sistem air permukaan atau tubuh air yang terdapat di Pulo Breueh&nbsp;&nbsp; antara lain sungai-sungai kecil dan genangan air. Sungai-sungai di Pulo Breueh&nbsp;&nbsp; berasal dari daerah yang lebih tinggi dimana masih banyak terdapat hutan dan bermuara di pantai yang lebih rendah. Beberapa sungai digunakan untuk mengaliri area persawahan yang berada di Desa Ulee Paya, Desa &nbsp;dan Desa Rinon. Selain itu, dapat dijumpai pula genangan air yang cukup besar dan menyerupai rawa, yaitu di Desa Blang Situngkoh. Daerah ini dulunya adalah kawasan persawahan dan berubah menjadi genangan air akibat peristiwa air pasang yang naik ke daratan dan tidak kembali lagi ke laut karena ketinggian daratan yang lebih rendah dari laut.</p>
+	<p style="text-align: justify;">
+		Masyarakat yang tinggal di Pulo Breueh &nbsp;pada umumnya menggunakan air hujan dan air dari mata air di gunung sebagai air minum. Hal ini disebabkan karena kondisi air tanah di Pulo Breueh &nbsp;tidak layak untuk dikonsumsi karena mengandung kapur. Selain itu, kondisi air tanah juga terpengaruh oleh musim dan masukan air laut. Dimana, saat musim kemarau dan pengaruh dari air laut yang tinggi, maka air tanah mengalami perubahan kualitas dari segi rasa, bau dan warna airnya.</p>
+	<p style="margin-left: 8.1pt; text-align: justify;">
+		<strong>T</strong><strong>opografi</strong></p>
+	<p style="margin-left: 8.1pt; text-align: justify;">
+		Topografi adalah gambaran tentang tingkat kemiringan dan ketinggian tanah dari permukaan&nbsp; laut. &nbsp;Secara&nbsp; umum, &nbsp;Pulo&nbsp; Breueh&nbsp; memiliki&nbsp; topografi&nbsp; bergunung &nbsp;dengan ketinggian rata-rata daratan pulau lebih besar dari 50 mdpl. Hanya sebagian kecil atau sepertiga dari daratan di pulau ini yang bertopografi landai. Daratan tertinggi di Pulo Breueh mencapai ketinggian 600 an meter yang meliputi Desa Gugop dan Alue Raya, yang berada di bagian tengah. Di bagian utara, yang meliputi Desa Rinon dan Meulingge topografinya juga bergunung dengan ketinggian di atas 100 meter, begitu pula di bagian timur yang mencakup desa Lapeng dan Lampuyang. Daerah yang relatif lebih landai berada di wilayah pesisir selatan Pulau&nbsp; &nbsp;dengan ketinggian di bawah 50 meter. Daerah yang landai ini mencakup Desa Teunom, Seurapong, Ulee Paya, Blang Situngkoh, Paloh, Lhoh dan sebagian Lampuyang.</p>
+	<p style="margin-left: 8.1pt; text-align: justify;">
+		<strong>Bentuk Lahan/Geomorfologi</strong></p>
+	<p style="margin-left: 8.1pt; text-align: justify;">
+		Geomorfologi daerah Pulo Breueh ini&nbsp;&nbsp; didominasi oleh perbukitan berlereng terjal yang tersebar dibagian Pulo Breueh Utara yakni di Gampong Meulingge. Perbukitan tersebut terbentuk oleh batuan-batuan vulkanik tua. Untuk wilayah bagian Selatannya Pulo ini juga masih didominasi oleh bukit, akan tetapi lerengnya tidak terlalu terjal. Pulau ini dikelilingi oleh perairan laut yang jernih dengan pantai yang berpasir putih.</p>
+	<div>
+		<p style="margin-left: 8.1pt; text-align: justify;">
+			<strong>A</strong><strong>s</strong><strong>al Usul/Genesis Pulau</strong></p>
+		<p style="margin-left: 8.1pt; text-align: justify;">
+			Tak banyak literatur yang bisa diperoleh untuk menjelaskan asal-usul Pulo Aceh termasuk Pulo Breueh. Legenda yang beredar di masyarakat Pulo Breueh, Pulo Aceh (Pulo Nasi, Pulo Breueh, Pulau Benggala) dulunya bersatu dengan daratan Sumatera. Namun, akibat gempa bumi, ribuan bahkan belasan ribu tahun lampau, pulau ini terpisah dengan daratan (Atjehcyber.net</p>
+	</div>
+	<p style="margin-left: 8.1pt; text-align: justify;">
+		Sekitar tahun 301 sebelum Masehi, seorang Ahli bumi Yunani, Ptolomacus berlayar ke arah timur dan berlabuh di sebuah pulau tak terkenal di mulut selat Malaka, pulah Weh! Kemudian dia menyebut dan memperkenalkan pulau tersebut sebagai <em>Pulau Emas </em>di peta para pelaut.</p>
+	<p style="margin-left: 8.1pt; text-align: justify;">
+		<strong>P</strong><strong>e</strong><strong>nggunaan Lahan</strong></p>
+	<p style="margin-left: 8.1pt; text-align: justify;">
+		Lahan &nbsp;adalah &nbsp;suatu &nbsp;lingkungan&nbsp; fisik &nbsp;terdiri &nbsp;atas &nbsp;tanah, &nbsp;iklim, &nbsp;relief, &nbsp;hidrologi, vegetasi, dan benda-benda yang ada di atasnya yang selanjutnya semua faktor-faktor tersebut mempengaruhi penggunaan lahan. Termasuk di dalamnya juga hasil kegiatan manusia, baik masa lampau maupun sekarang.</p>
+	<p style="margin-left: 8.1pt; text-align: justify;">
+		Penggunaan lahan merupakan suatu bentuk pemanfaatan atau fungsi dari perwujudan suatu bentuk penutup lahan. Penggunaan lahan didasari pada fungsi kenampakan &nbsp;penutup &nbsp;lahan &nbsp;bagi&nbsp; kehidupan, &nbsp;baik &nbsp;itu &nbsp;kenampakan &nbsp;alami &nbsp;atau &nbsp;buatan manusia. Berbagai bentuk mata pencaharian menghasilkan beragam penggunaan lahan. Selain mata pencaharian, faktor kebutuhan juga akan memunculkan bentuk penggunaan lahan. Seperti kebutuhan rumah memunculkan kawasan permukiman.</p>
+	<p style="margin-left: 8.1pt; text-align: justify;">
+		Penggunaan lahan dapat dikelompokkan kedalam dua golongan besar, yaitu penggunaan lahan pertanian dan penggunaan lahan bukan pertanian. Penggunaan lahan pertanian dibedakan secara garis besar ke dalam macam penggunaan lahan berdasarkan penyediaan air dan lahan yang diusahakan. Berdasarkan hal itu dikenal macam penggunaan lahan seperti sawah, tegalan, kebun, kebun campuran, lalang, perkebunan dan hutan. Penggunaan lahan bukan pertanian dapat dibedakan ke dalam penggunaan kota atau desa (pemukiman), industri, rekreasi dan sebagainya.</p>
+	<p style="margin-left: 8.1pt; text-align: justify;">
+		Masyarakat di Pulo Breueh&nbsp;&nbsp; pada umumnya memiliki mata pencaharian sebagai nelayan dan petani. Aktivitas di laut sebagian besar berupa penangkapan ikan dan sebagian kecil adalah budidaya. Sementara itu, aktivitas masyarakat dengan menggunakan lahan di daratan Pulo Breueh&nbsp; &nbsp;sebagian besar adalah pertanian lahan kering seperti tanaman campuran, perkebunan campuran, perkebunan dan ladang/tegalan, serta pertanian lahan basah yaitu sawah dan juga sebagai area permukiman.</p>
+	<div>
+		<p style="margin-left: 8.1pt; text-align: justify;">
+			Kebun campur merupakan penggunaan lahan terbesar di pulau ini, pada lahan tersebut jenis tanaman yang ditanam terdiri dari jenis tanaman yang harus dirawat serta dapat dimanfaatkan oleh masyarakat dalam jangka waktu yang cukup singkat, sama halnya juga dengan perkebunan dan ladang/tegalan. Sementara itu, penggunaan lahan untuk tanaman campur merupakan penggunaan lahan terbesar kedua, namun tanaman yang di tanam tidak memerlukan perawatan khusus dan memiliki lokasi yang cukup tersebar.</p>
+		<p style="margin-left: 8.1pt; text-align: justify;">
+			Salah &nbsp;satu &nbsp;penggunaan lahan &nbsp;yang &nbsp;cukup &nbsp;luas &nbsp;di&nbsp; Pulo &nbsp;Breueh&nbsp; adalah &nbsp;lahan terbuka. Lahan ini banyak dijumpai di kawasan hutan serta beberapa di bekas wilayah yang terkena bencana tsunami. Pembukaan lahan di kawasan hutan pada umumnya akan dimanfaatkan sebagai lahan ladang atau tegalan serta kegiatan pertanian lahan kering lainnya.</p>
+		<div>
+			<p style="margin-left: 8.1pt; text-align: justify;">
+				<strong>T</strong><strong>utupan Lahan</strong></p>
+			<p style="margin-left: 8.1pt; text-align: justify;">
+				Tutupan lahan di Pulo Breueh&nbsp;&nbsp; didominasi oleh hutan dan semak belukar yang memiliki luas paling tinggi diantara tutupan lahan yang lain. Hutan mempunyai jasa yang sangat besar bagi kelangsungan makhluk hidup terutama manusia. Salah satu jasa hutan adalah mengambil karbon dioksida dari udara dan menggantinya dengan oksigen yang diperlukan makhluk lain. Selanjutnya, tutupan lahan yang cukup luas dan tersebar merata antara&nbsp; lain&nbsp; sawah, &nbsp;permukiman, &nbsp;perkebunan campuran, &nbsp;tubuh&nbsp; air, &nbsp;perkebunan, &nbsp;padang rumput, &nbsp;jaringan&nbsp; jalan&nbsp; dan &nbsp;pasir &nbsp;pantai. &nbsp;Selain &nbsp;itu, &nbsp;terdapat &nbsp;pula &nbsp;batu&nbsp; karang, &nbsp;lahan terbangun, ladang/tegalan dan mangrove.</p>
+			<p style="margin-left: 8.1pt; text-align: justify;">
+				Hutan menjadi tutupan lahan vegetasi dengan luas tertinggi di Pulo Breueh &nbsp;yaitu 2576,47 ha atau sekitar 44,15% dari luas daratan. Selain itu semak belukar dan kebun campur menempati peringkat kedua dengan luas sekitar 1700 ha. Sementara itu, sebagian lainnya berupa tanaman campur, ladang/tegalan, mangrove, perkebunan, padang rumput sawah dan tambak.</p>
+		</div>
+		<p style="margin-left: 8.1pt; text-align: justify;">
+			Jenis tanaman yang banyak ditanam pada lahan tanaman campuran antara lain kelapa, pinang dan cengkeh dengan jenis yang paling dominan yaitu kelapa. Sementara itu jenis tanaman yang umum ditanam pada lahan perkebunan dan perkebunan campuran adalah pisang, cengkeh, pinang dan kakao. Sedangkan jenis tanaman yang dapat dijumpai di ladang/tegalan adalah singkong dan tanaman palawija.</p>
+		<p style="text-align: justify;">
+			Tutupan lahan non vegetasi yang terdapat di Pulo Breueh &nbsp;antara lain batu karang, jaringan jalan, lahan terbangun, lahan terbuka, pasir pantai, permukiman dan tubuh air. Lahan terbuka dan permukiman memiliki luasan yang paling tinggi di antara yang lainnya. Lahan terbuka berupa lahan-lahan hasil pembukaan lahan di kawasan hutan dan lahan bekas &nbsp;wilayah &nbsp;yang &nbsp;terkena &nbsp;dampak &nbsp;tsunami.</p>
+	</div>
+</div>
+<p style="margin-left: 8.1pt; text-align: justify;">
+	<strong>K</strong><strong>emiringan Lereng</strong></p>
+<p style="margin-left: 8.1pt; text-align: justify;">
+	Kemiringan lereng di Pulo Breueh Breueh cukup bervariasi dari datar hingga terjal. Wilayah &nbsp;dengan &nbsp;nilai &nbsp;kelerengan&nbsp; rendah &nbsp;yaitu &nbsp;dibawah&nbsp; 3% &nbsp;dan &nbsp;dikategorikan &nbsp;sebagai daerah yang datar berada di selatan pulau atau daerah pesisir Desa Seurapong sampai Desa Lhoh. Sementara itu, wilayah dengan kategori kemiringan lereng terjal dengan nilai kelerengan di atas 15% berada di daerah yang memiliki area perbukitan seperti di Desa Gugop, Desa Lamteng, Desa Meulingge, Rinon, Alue Raya dan sebagian Desa Ulee Paya.</p>
+<p style="margin-left: 8.1pt; text-align: justify;">
+	<strong>M</strong><strong>orfologi Pantai</strong></p>
+<p style="margin-left: 8.1pt; text-align: justify;">
+	Pantai yang terdapat di Pulo Breueh Breueh &nbsp;pada umumnya berupa pantai berpasir dengan pasir putih, bukit-bukit terjal serta vegetasi pantai dengan formasi <em>pes caprae</em>. Akan tetapi di beberapa lokasi yang berdekatan dengan daerah genangan air, dapat dijumpai pula pantai yang berlumpur. Vegetasi pantai yang umum dijumpai di Pulo Breueh&nbsp;&nbsp; antara lain kelapa, cemara, pandan, ipomea dan beberapa jenis mangrove. Selain itu di Desa Lamteng dapat pula dijumpai pantai bervegetasi mangrove.</p>
+<p style="margin-left: 8.1pt; text-align: justify;">
+	<strong>G</strong><strong>eologi</strong></p>
+<p style="margin-left: 8.1pt; text-align: justify;">
+	Jenis batuan penyusun Pulo Breueh &nbsp;antara lain batu pasir, batu lanau, batu lumpur, <em>shale</em>, konglomerat, aluvium, longgokan kipas, tufit dan tefra berbutir halus. Sementara itu jenis tanah di Pulo Breueh&nbsp; &nbsp;terdiri dari 3 grup yaitu grup perbukitan (<em>dystropepts</em>, <em>haplohumults</em>), marin (<em>fluvaquents</em>, <em>halaquepts</em>) dan aluvial (<em>tropaquepts</em>, <em>tropofluvents</em>, <em>dystropepts</em>). Jenis tanah yang termasuk dalam grup perbukitan berupa tuf, lava intermedier dan basis. Sementara itu, tanah yang termasuk dalam grup marin dan aluvial dapat berupa sedimen yang kasar dan halus.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="ksbk">Kependudukan, Sosial Budaya dan Kelembagaan</a></h2>
+<p><div class="readmore"><p style="margin-left: 27.55pt; text-align: justify;">
+	<strong>Kependudukan, Sosial &ndash; Budaya, Ekonomi dan kelembagaan </strong></p>
+<p style="margin-left: 27.55pt; text-align: justify;">
+	<strong>Jumlah Penduduk</strong></p>
+<p style="margin-left: 8.1pt; text-align: justify;">
+	Jumlah penduduk di Pulo Breueh adalah sebanyak 2.477 jiwa yang tersebar di dua mukim dan 12 gampong, yang terdiri dari 1.404 orang laki-laki dan 1.173 orang perempuan. Jumlah kepala keluarga yang terdapat di Pulo Breueh ini adalah sebanyak 780 KK. Berdasarkan data tersebut di atas dapat diketahui bahwa gampong yang paling banyak &nbsp;jumlah &nbsp;penduduknya&nbsp; adalah &nbsp;di &nbsp;Lampuyang &nbsp;yaitu &nbsp;sebanyak &nbsp;472 &nbsp;jiwa, sedangkan gampong yang paling sedikit jumlah penduduknya adalah di gampong Teunom yaitu sebanyak 94 Jiwa. Banyaknya jumlah penduduk yang terdapat di gampong Lampuyang, karena di gampong inilah dijalankan pusat pemerintahan sekaligus&nbsp; &nbsp;menjadi&nbsp; &nbsp;ibu&nbsp; &nbsp;kecamatan&nbsp;&nbsp; Pulo&nbsp; &nbsp;Aceh.&nbsp; &nbsp;Sedangkan&nbsp;&nbsp; gampong&nbsp; &nbsp;Teunom merupakan gampong yang paling sedikit dihuni oleh penduduk, yakni hanya sekitar 27 Kepala Keluarga (KK).</p>
+<p style="margin-left: 8.1pt; text-align: justify;">
+	Berdasarkan wawancara dan hasil pengamatan di lapangan dapat diketahui bahwa &nbsp;sebagaian&nbsp; besar &nbsp;penduduk&nbsp; di &nbsp;Pulo &nbsp;Breueh &nbsp;adalah &nbsp;petani &nbsp;dan &nbsp;nelayan (perikanan tangkap). Meskipun sebagian ada yang bekerja sebagai peternak, pembudidaya ikan air laut,&nbsp; &nbsp;namun itu hanya sebagai pekerjaan sampingan saja. Selain itu juga terdapat beberapa masyarakat yang bekerja sebagai PNS.</p>
+<p style="margin-left: 29.4pt; text-align: justify;">
+	-&nbsp; &nbsp;<strong>Komposisi Penduduk Berdasarkan Umur</strong></p>
+<p style="margin-left: 27.55pt; text-align: justify;">
+	Komposisi jumlah penduduk Pulo Aceh berdasarkan kelompok umur &nbsp;disajikan pada Tabel 3. Dari tabel tersebut dapat dipastikan bahwa jumlah penduduk dengan rentang usia 27 -37 tahun mencapai 30,95 %. Hal ini menunjukkan bahwa kebanyakan masyarakat Pulo Breueh berada pada usia produktif.</p>
+<p style="margin-left: 27.55pt; text-align: justify;">
+	<strong>- Komposisi penduduk berdasarkan agama</strong></p>
+<p style="text-align: justify;">
+	Jika ditinjau dari masalah agama, dapat dipastikan bahwa seluruh penduduk masyarakat&nbsp;&nbsp; Pulo Breueh memeluk agama islam. Agama islam merupakan agama satu-satunya yang dianut oleh masyarakat disana.</p>
+<div>
+	<p style="margin-left: 29.4pt; text-align: justify;">
+		<strong>- Komposisi Penduduk Berdasarkan Tingkat Pendidikan</strong></p>
+	<p style="text-align: justify;">
+		Pendidikan merupakan salah satu tolak ukur kemajuan pembangunan sumberdaya manusia dalam suatu daerah. Pendidikan yang rendah dapat mengindikasikan pola pikir masyarakat yang masih sempit serta sulit menerima pembaharuan dalam memajukan <em>sosio culture </em>mereka. Akan tetapi jika suatu daerah penduduknya sudah memiliki pendidikan yang mencukupi, akan nampak jelas sekali pola pikir, kreativitas serta inovasi yang berbeda jika dibandingkan dengan daerah yang penduduknya &nbsp;masih berpendidikan yang rendah. &nbsp;Tingginya tingkat pendidikan, akan mempengaruhi tingkat ekonomi serta kesejahteraan masyaraktnya. Jika dilihat dari tingkat pendidikan masyarakat Pulo Breueh, dapat dipastikan bahwa kebanyakan masyarakat disana masih memiliki tingkat pendidikan yang rendah, yakni tamat SD dan &nbsp;SMP.&nbsp;</p>
+	<div>
+		<p style="margin-left: 8.1pt; text-align: justify;">
+			<strong>Sosial-budaya, Ekonomi dan Kelembagaan</strong></p>
+		<p style="margin-left: 8.1pt; text-align: justify;">
+			Sebagaimana pada umumnya penduduk yang tinggaal di daerah kepulauan, penduduk Pulo Breueh pada umumnya memiliki mata pencaharian sebagai nelayan dan berkebun karena dikelilingi oleh lautan dan perbukitan. Dari segi ekonomi, usaha perikanan tangkap dan berkebun merupakan mata pencahaian pokok yang dilakoni oleh masyarakat Pulo Breueh. Bisa dikatakan bahwa sebagian besar penduduk Pulo Breueh menggantungkan perekonomiannya dari laut. Jika kondisi laut tidak memungkinkan&nbsp;&nbsp; untuk&nbsp; &nbsp;melakukan&nbsp; &nbsp;penangkapan&nbsp; &nbsp;ikan,&nbsp; &nbsp;praktis&nbsp; &nbsp;nelayan&nbsp; &nbsp;tidak mendapatkan penghasilan dan hanya mengandalkan hutang atau simpanan yang ada. Selain itu karena metode penangkapan yang digunakan masih tergolong sederhana, dengan menggunakan alat tangkap pancing dan jaring, dan perahu kecil (robin) hasil tangkapan yang mereka dapatkan tidak seberapa. Hal ini sangat mereka rasakan terutama saat musim &nbsp;angin barat tiba, dimana ikan kian sulit didapatkan. Bahkan dari wawancara dengan nelayan setempat, ikan di sekitar perairan Pulo Breueh mulai berkurang bahkan di musim penangkapan,sehingga pendapatan mereka juga sangat berkurang. Jika dahulu mereka dapat meraup pendapatan ratusan ribu hingga jutaan kini rata-rata perhari mereka hanya mendapat Rp.50.000 &ndash; Rp.100.000. Belum lagi harga bahan bakar solar yang mencapai Rp.6.000/liter membuat para nelayan tidak dapat melaut lebih jauh untuk menekan biaya operasional. Hal ini membuat sebagian besar nelayan di Pulo Breueh hidup dalam kondisi ekonomi menengah ke bawah.</p>
+	</div>
+	<p style="margin-left: 8.1pt; text-align: justify;">
+		Hasil tangkapan ikan yang mereka dapat biasanya dijual pada pedagang pengumpul&nbsp; yang &nbsp;terdapat &nbsp;di &nbsp;Pelabuhan&nbsp; Lampulo &nbsp;Kota &nbsp;Banda &nbsp;Aceh. &nbsp;Selain &nbsp;itu penduduk di Pulo Breueh ada yang mendapatkan penghasilan dari usaha sampingan seperti menanam padi di sawah, kebun kelapa, tanaman pangan (ubi singkong, mangga, durian), serta memelihara ternak seperti kambing, kerbau, sapi dan unggas.</p>
+	<p style="margin-left: 8.1pt; text-align: justify;">
+		Sebagian penduduk juga memiliki profesi lain seperti pedagang kecil-kecilan dengan membuka warung atau toko dirumah mereka, untuk menambah penghasilan keluarga. Selain itu sebagian dari mereka juga membuka usaha keramba atau menyewakan perahu mereka untuk mengangkut berbagai kebutuhan masyarakat.</p>
+</div>
+<div>
+	<p style="text-align: justify;">
+		Etnis penduduk Pulo Breueh umumnya adalah masyarakat Aceh asli. Meskipun ada sebagian suku jawa, namun suku itu hanya pendatang yang menikah sama warga Pulo Breueh. Kondisi sosial yang tidak terlalu heterogen ini tidak begitu mempengaruhi budaya &nbsp;masyarakat di Pulo Breueh . Sebagai contoh dalam komunikasi sehari-hari penduduk Pulo Breueh menggunakan bahasa Aceh dan jarang sekali menggunakan bahasa Indonesia, mereka hanya menggunakan bahasa Indonesia apabila ada pendatang yang datang. Selain itu seperti pada umumnya nelayan di Provinsi Aceh, pada hari Jumat nelayan Pulo Breueh tidak melaut sampai selesainya solat Jumat. Mereka biasanya menghabiskan waktu untuk berkebun, memperbaiki perahu maupun peralatan penangkap ikan. Jika ada yang melanggar ketentuan ini maka mereka akan dikenai sanksi sesuai adat yang berlaku.</p>
+</div>
+<div>
+	<p style="text-align: justify;">
+		Sebagaimana kehidupan masyarakat pada umumnya, penduduk Pulo Breueh juga &nbsp;memiliki organisasi dan &nbsp;lembaga yang&nbsp; mengatur dan &nbsp;mengayomi kehidupan masyarakat di pulau tersebut. Pemerintahan masing-masing desa dipimpin oleh kepala desa (keuchik) dan kepala dusun. Untuk mempermudah urusan administrasi pemerintahan desa, maka kepala desa akan dibantu oleh sekretaris desa, kepala urusan (Kaur) dan wakil kepala urusan. Selain lembaga pemerintahan seperti Camat dan &nbsp;Kepala &nbsp;Desa, &nbsp;terdapat&nbsp; pula &nbsp;lembaga&nbsp; adat &nbsp;Aceh &nbsp;yang &nbsp;disebut&nbsp; <em>Tuha &nbsp;Peut &nbsp;</em>di masing-masing desa. <em>Tuha Peut </em>adalah sebuah dewan yang terdiri dari empat orang, baik masing-masing maupun secara bersama-sama mengambil tanggung jawab dalam pemerintahan umum dan sebagai pendamping <em>Ulee Balang (</em>pemimpin). <em>Tuha Peut </em>sangat berperan dalam musyawarah terutama dalam hal hukum adat. Biasanya orang yang duduk di <em>Tuha Peut </em>terdiri dari orang-orang yang berilmu, berwibawa, berpengaaman, beradat dan penuh sopan santun sehingga dijadikan panutan oleh masyarakat. Selain itu terdapat pula organisasi sosial seperti tim PKK, remaja mesjid, kelompok majelis taqlim, kelompok pemuda desa, koperasi dan kelompok nelayan. Di Pulo Breueh terdapat 1 unit koperasi &nbsp;simpan pinjam yang beranggotakan lebih kurang 10 orang. &nbsp;Namun karena kurang baiknya sistem kepengurusan organisasi, kurangnya kesadaran dan tanggungjawab dalam berorganisasi, minimnya dana dan sarana untuk melaksanakan kegiatan, serta kurangnya skill atau keterampilan masyarakat menyebabkan organisasi &nbsp;sosial di Pulo Breueh kurang berkembang. Sebagai contoh berdasarkan hasil wawancara ada kelompok nelayan yang diberikan bantuan untuk mengelola keramba, namun karena kurangnya kesadaran dan tanggungjawab dari masing-masing anggota untuk memelihara ikan, akhirnya usaha tersebut tidak membuahkan hasil dan akhirnya tidak dapat mengembalikan modal yang sudah dipinjam dari koperasi nelayan setempat. Hal ini akhirnya juga berimbas pada kinerja koperasi nelayan di Pulo Breueh.</p>
+</div>
+<p>
+	&nbsp;</p>
+</div></p>
+
+<hr>
+
+<h2><a id="eshp">Ekosistem dan Sumberdaya Hayati</a></h2>
+<p><div class="readmore"><p style="text-align: justify;">
+	<strong>Ekosistem dan sumberdaya hayati pesisir</strong></p>
+<p style="margin-left: 8.1pt; text-align: justify;">
+	<strong>Terumbu karang</strong></p>
+<p style="margin-left: 8.1pt; text-align: justify;">
+	Terumbu karang Pulo Breueh termasuk kedalam tipe <em>fringing reef </em>atau biasa disebut dengan terumbu karang tepi. Karang masih dapat ditemukan hingga kedalaman sekitar sepuluh meter. Untuk pengamatan karang di Pulau Breueh dilakukan dengan metode <em>Line Intercept Transect (LIT).</em></p>
+<p style="text-align: justify;">
+	Transek garis (LIT) dilakukan di lokasi-lokasi yang dipilih mewakili perairan pulau Breueh KecamatanPulo Aceh dilakukan di 7 titik dan dibedakan antara pulau di sebelah utara dan disebelah selatan. Kondisi karang di lokasi-lokasi transek pada umumnya telah mengalami pemulihan setelah tsunami 2004. Persentase tutupan karang berkisar antara 31.84 % &ndash; 87.60 %. Persentase tutupan tertinggi dicatat di Teluk Meulingge pada kedalaman 8 meter dan terendah di desa melingge juga pada sebelah Utara&nbsp; &nbsp;berdekatan dengan Mercusuar.&nbsp; &nbsp;Secara rinci persentase tutupan kategori bentik dan kondisi abiotik diuraikan per masing-masing lokasi.</p>
+<p style="margin-left: 8.1pt; text-align: justify;">
+	Indeks &nbsp;keragaman &nbsp;paling &nbsp;tinggi &nbsp;terdapat &nbsp;di &nbsp;perairan &nbsp;Teluk &nbsp;Lapeng &nbsp;yakni 0,881 dan terendah terdapat pada perairan Demit yakni 0,379. Tidak ada spesies yang mendominasi di Pulau Breueh, hal ini dapat dibuktikan dari nilai indeks dominasi yang tidak melebihi 0.5. Nilai tersebut menunjukkan bahwa semakin mendekati nol maka tingkat dominasi semakin rendah.</p>
+<p style="text-align: justify;">
+	Pada Indeks mortalitas di Pulau Breueh tidak ada yang melibihi 0.5. Indeks mortalitas paling besar berada pada stasiun&nbsp;&nbsp; Pulo Teunom dan yang paling rendah berada pada kawasan Meulingge dengan kedalaman 4 m. &nbsp;Secara keseluruhan dapat dikatakan bahwa kondisi terumbu karang di Pulau Breueh dalam keadaan baik dan sudah mengalami pemulihan yang luar biasa cepat. Walaupun di beberapa tempat kawasan terumbu karang, masih ada pecahan karang yang diduga akibat efek dari penggunaan bom beberapa tahun yang lalu.&nbsp;&nbsp; Dari hasil wawancara dengan pemilik boat mangatakan bahwa masyarakat Pulo Breueh sudah mulai sadar akan manfaat terumbu karang, sehingga beberapa tahun terakhir ini tidak ada lagi nelayan yang menggunakan bom untuk menangkap ikan. &nbsp;Namun yang masih sering digunakan oleh nelayan sekitar untuk menangkap ikan adalah senjata underwater.</p>
+<p style="margin-left: 8.1pt; text-align: justify;">
+	<strong>Perairan Teluk Meulingge Desa Meulingge</strong></p>
+<p style="margin-left: 8.1pt; text-align: justify;">
+	Desa Meulingge adalah desa yang letaknya paling ujung di Pulau Breueh yang berhadapan langsung dengan samudera hindia. Lokasi studi terletak pada posisi &nbsp;50 43&rsquo; 38&rdquo; LU dan 950 &nbsp;2&rsquo; 19,8&rdquo; BT. Teluk &nbsp;Meulingge terletak pada sebelah barat Pulau Breueh &nbsp;sehingga&nbsp; pada &nbsp;musim &nbsp;angin &nbsp;barat &nbsp;ombak &nbsp;dan &nbsp;angin &nbsp;pada &nbsp;sebelah &nbsp;ini sangatlah kuat sehingga pengambilan data di kawasan ini pada musim angin barat sedikit sulit. Kualitas perairan sekitar Teluk meulingge sangat baik karena jauh dari pemukiman.</p>
+<p style="margin-left: 8.1pt; text-align: justify;">
+	Suhu perairan ini &nbsp;berkisar 29 &ndash; 29.50C dengan salinitas dan pH perairannya berkisar 32 ppt dan 7.2. &nbsp;Pada stasiun pengamatan kecerahan perairan mencapai 90% dan &nbsp;tidak &nbsp;ditemui&nbsp; benda &nbsp;mengapung dan &nbsp;lapisan&nbsp; minyak &nbsp;serta &nbsp;perairannya tidak berbau.&nbsp;&nbsp; Kondisi ini mengambarkan kualitas perairannya masih alami sangat sesuai untuk aktivitas perikanan dan wisata serta belum membahayakan untuk kelangsungan hidup biota terutama terumbu karang.</p>
+<p style="margin-left: 8.1pt; text-align: justify;">
+	<strong>Perairan Alue Raya</strong></p>
+<p style="text-align: justify;">
+	Stasiun ini &nbsp;terletak pada geografis 50 41&rsquo; 39,2&rdquo; LU dan 950 2&rsquo; 49,7&rdquo; BT. Pada perairan ini pergerakan massa air cukup dinamis bahkan ombak disini sangatlah besar,sehingga pertukaran dan sirkulasi air &nbsp;laut &nbsp;terus &nbsp;berlangsung. Walaupun demikian kondisi perairan di stasiun ini agak keruh yang disebabkan oleh besarnya kandungan partikel yang berasal dari &nbsp;pecahan karang. Pecahan-pecahan karang ini &nbsp;banyak ditemui di kedalaman 3 meter yang agak landai. Pantai pada kawasan ini sering digunakan &nbsp;oleh &nbsp;wisatawan &nbsp;sebagai tempat &nbsp;surfing. &nbsp;Tingginya &nbsp;pecahan &nbsp;karang &nbsp;di kawasan ini diduga karena tsunami dan pengeboman dimasa lalu. Berdasarkan hasil survei lapangan, kualitas perairan di Sekitar desa Alue Raya ini tergolong kedalam perairan normal dan juga mendukung aktivitas untuk perikanan dan pariwisata.perairan sebesar 29 0C dengan salinitas dan pH sebesar 32 ppt dan 7.20.</p>
+<div>
+	<p style="margin-left: 8.15pt; text-align: justify;">
+		Tutupan karang di perairan ini sebesar 77.16%&nbsp; &nbsp;yang didominasi oleh Karang Foliose&nbsp; &nbsp;dari&nbsp; &nbsp;jenis&nbsp; &nbsp;Montipora&nbsp; &nbsp;kemudian&nbsp; &nbsp;diikuti&nbsp; &nbsp;oleh jenis&nbsp; &nbsp;<em>Acropora&nbsp; &nbsp;</em>tabulate.Keanekaragaman karang di Perairan Desa Alue Raya ini sedang yaitu sebesar 1.76 dan tidak ada jenis yang mendominasi serta indeks kemerataannya labil. &nbsp;Jenis-jenis yang ditemui adalah Acropora, Favia, Goniostrea, Porites, Sargopiton, Pocillopora.</p>
+</div>
+<p style="margin-left: 8.1pt; text-align: justify;">
+	<strong>Perairan Pulau Teunom</strong></p>
+<p style="margin-left: 8.1pt; text-align: justify;">
+	Stasiun ini berhadapan langsung dengan &nbsp;Desa Serapong Pada bagian utara dari pulau ini terdapat hamparan Pasir putih yang luas. Terletak pada giografis 50 38&rsquo;40&rdquo; LU dan 950 &nbsp;4&rsquo; 45,2&rdquo; BT &nbsp;Pada perairan ini pergerakan massa air cukup dinamis sehingga pertukaran dan &nbsp;sirkulasi&nbsp; air &nbsp;laut &nbsp;terus &nbsp;berlangsung. Walaupun demikian kondisi perairan di stasiun ini agak keruh yang dan pasir. Pecahan karang ini bayak ditemui di kedalaman 3 meter yang agak landai. Pantai ini juga banyak mengandung batu batuan besar.&nbsp;&nbsp; Berdasarkan hasil survei lapangan, kualitas perairan di Sekitar desa &nbsp;ini &nbsp;tergolong kedalam&nbsp; perairan&nbsp; normal &nbsp;dan &nbsp;juga &nbsp;mendukung aktivitas&nbsp; untuk perikanan dan pariwisata. &nbsp;Suhu perairan sebesar 29.14 0C dengan salinitas dan pH sebesar 32.84 ppt dan 6.76.</p>
+<p style="margin-left: 8.1pt; text-align: justify;">
+	Tutupan karang di perairan ini adalah yang ke dua terendah dari semua statiun yang disurvei yaitu hanya 38.42% didominasi oleh Karang Aropora Tabulate. Apabila tidak mendapat gangguan dari luar diperkirakan kawasan ini akan menjadi kawasan terumbu &nbsp;karang &nbsp;yang &nbsp;indah. &nbsp;Sebaran&nbsp; Terumbu&nbsp; karang &nbsp;di &nbsp;kawasan&nbsp; ini &nbsp;sangatlah dangkal paling dalam karang tersebar di kedalaman 8 meter.</p>
+<p style="margin-left: 8.15pt; text-align: justify;">
+	<strong>Perairan Demit Desa Gugop</strong></p>
+<div>
+	<p style="margin-left: 8.15pt; text-align: justify;">
+		Desa Gugop adalah desa yang letaknya berhadapan langsung dengan pulau Breueh tetapi masih terletak di pulau Breueh.Terletak pada posisi geografis 50 &nbsp;39&rsquo;50,8&rdquo; LU dan 950 6&rsquo; 41,7&rdquo; BT. Pada stasiun ini ditemukan terumbu karang yang sejajar dengan&nbsp; &nbsp;garis pantai&nbsp; &nbsp;yang&nbsp; &nbsp;berbentuk&nbsp; &nbsp;barrier&nbsp; &nbsp;reeef.Panjang&nbsp; &nbsp;terumbu&nbsp; &nbsp;karang diperkirakan 500 meter dan terdapat sampai kedalaman 8 meter. Seluruh karang pada perairan demit ini sudah mengalami pemulihan setelah rusak akibat tsunami 2004. Penutupan karang hidup pada kawasan ini mencapai 70.18 %. Terumbu karang pada kawasan ini didominasi oleh <em>Acropora </em>sp.</p>
+	<div>
+		<p style="text-align: justify;">
+			Suhu perairan ini berkisar 29.18 0Cdengan salinitas dan pH perairannya berkisar 32.59 ppt dan 7.55 dengan kecerahan perairan 3 meter. Keanekaragaman karang di Perairan Desa Lhoh ini tergolong sedang yaitu sekitar 1.064 dan tidak ad ajenis yang mendominasi serta indeks kemerataannya labil..</p>
+		<p style="margin-left: 8.15pt; text-align: justify;">
+			<strong>Perairan Teluk Lapeng</strong></p>
+		<div>
+			<p style="text-align: justify;">
+				Stasiun ini terletak agak ke dalam berupa teluk berhadapan dengan Pulau weh secara geografis berada pada posisi geografis 50 &nbsp;42&rsquo; 48&rdquo; LU dan 950 &nbsp;6&rsquo; 41,7&rdquo; BT. Kawasan ini memiliki perairan yang dangkal dan landai serta sangat tenang dan jernih, sehingga sangat memudahkan dalam pengamatan. Dari hasil survei di temukan Tutupan karang di perairan ini termasuk rendah dibandingkan stasiun yang lain yaitu 48.4%. &nbsp;Sebahagian&nbsp; besar &nbsp;terumbu &nbsp;karang rusak &nbsp;berupa &nbsp;patahan &nbsp;karang akibat pengeboman &nbsp;dimasa &nbsp;lalu. &nbsp;Dan &nbsp;beberapa &nbsp;karang &nbsp;mengalami &nbsp;pemutihan akibat tingginya sedimen pada kawasan ini. Jenis karang pada kawasan ini didominasi ole<em> Acropora tabulate </em>dan <em>Pocillopora</em><em> s</em><em>p.&nbsp; &nbsp;</em>Keanekaragaman karang di Perairan Teluk Lapeng &nbsp;ini &nbsp;rendah &nbsp;yaitu 1.76. &nbsp;Jenis-jenis &nbsp;yang &nbsp;ditemui &nbsp;adalah &nbsp;Acropora, &nbsp;Favia, Goniostrea, Porites, Pocillopora.&nbsp; &nbsp;Banyaknya karang besar&nbsp; &nbsp;yang mati seperti batu memiliki banyak celah tempat yang ideal untuk ikan-ikan malam dan karnivora besar pada kedalaman 3- 6 meter ditemukan bongkahan karang-karang mati yang sudah tumbuhi &nbsp;oleh karang-karang baru. Jenis-jenis &nbsp;karang &nbsp;ini &nbsp;memanfaatkan&nbsp; substrat karang yang sudah mati sebagai media tumbuh.</p>
+			<p style="margin-left: 8.1pt; text-align: justify;">
+				<strong>Perairan Mercusuar Desa Meulingge</strong></p>
+			<div>
+				<p style="margin-left: 8.1pt; text-align: justify;">
+					Desa Meulingge adalah desa yang letaknya paling ujung di Pulau Breueh yang berhadapan langsung dengan samudera hindia. Lokasi studi terletak pada 50&nbsp; 45&rsquo; 4,2&rdquo; LU dan 950&nbsp; 3&rsquo; 19,0&rdquo; BT. Pada stasiun ini terdapat sebuah mercusuar yang dijadikan sebagai petunjuk pelayaran. Perairan stasiun ini dipengaruhi oleh &nbsp;tiga karakter massa air laut yang berbeda yaitu massa air laut Selat Malaka, Samudra India dan Selat</p>
+				<p style="margin-left: 8.1pt; text-align: justify;">
+					Benggala. Fluktuasi pengaruh tiga sifat massa air yang berbeda ini memberikan keunikan dan kekhasan tersendiri. &nbsp;Kualitas perairannya tergolong sangat baik karena terletak jauh dari pemukiman dan posisinya yang terletak pada Samudera Indonesia dan Selat Malaka.</p>
+				<p style="margin-left: 8.1pt; text-align: justify;">
+					Suhu perairan ini berkisar 26,60C dengan salinitas dan pH perairannya berkisar 31 ppt dan 7.75-8. Pada stasiun pengamatan kecerahan perairan mencapai 100% dan tidak ditemui benda mengapung dan lapisan minyak serta perairannya tidak berbau. Kondisi&nbsp; ini &nbsp;mengambarkan kualitas &nbsp;perairannya masih &nbsp;alami &nbsp;sangat &nbsp;sesuai &nbsp;untuk aktivitas perikanan dan wisata serta belum membahayakan untuk kelangsungan hidup biota terutama terumbu karang.</p>
+				<p style="margin-left: 8.1pt; text-align: justify;">
+					Oleh karena berhadapan dengan Samudra India yang memiliki energi gelombang yang besar, wilayah ini memiliki lereng yang terjal dan pantai yang berbatu. Hal ini meyebabkan luasan peyebaran dan zoBreueh ekosistem pantai dan laut sempit dan tidak meyebar luas.&nbsp; &nbsp;Ekosistem terumbu karang yang ditemui di&nbsp; tempat&nbsp; &nbsp;ini tersebar hanya sampai kedalaman 10 &nbsp;meter dan masih dalam kondisi pemulihan akibat tsunami&nbsp; &nbsp;Pada kedalaman lebih lebih dari 10 meter terumbu karang sudah jarang ditemui.</p>
+				<p style="margin-left: 8.15pt; text-align: justify;">
+					Tutupan karang di perairan ini &nbsp;didominasi oleh Karang Engkrusting kemudian diikuti oleh Acropora digitate dan dominasi terbanyak dari 50 meter transek adalah batuan. &nbsp;Keanekaragaman karang di Perairan Desa Meulingge ini rendah yaitu sekitar 1,8 dan tidak ada jenis yang mendominasi serta indeks kemerataannya labil. &nbsp;Jenis-jenis karang yang ditemui antara lain dari jenis Acropora, Favia, Goniostrea, Porites, Sargopiton, Pocillopora.</p>
+				<p style="margin-left: 8.1pt; text-align: justify;">
+					<strong>Ikan karang</strong></p>
+				<p style="text-align: justify;">
+					Pencatatan jenis ikan di Pulo Breueh dilakukan dengan menggunakan metode visual sensus. &nbsp;Berdasarkan hasil penyelaman di enam lokasi Pulo Breueh tercatat 75 spesies ikan karang. &nbsp;Jumlah tersebut terdiri dari beberapa kategori dan family ikan. Tidak ada ikan endemik di wilayah perairan Pulo Breueh.&nbsp;&nbsp; Begitu juga dengan ikan langka, pada saat penyelaman tidak ditemukan jenis ikan langka.</p>
+				<p style="margin-left: 8.1pt; text-align: justify;">
+					Keanakeragaman &nbsp;ikan paling tinggi ada di lokasi Teluk Lapeng sedangkan nilai indeks keanekaragaman paling rendah ada di wilayah Alue Raya.&nbsp;&nbsp; Nilai indeks keanekaragaman di wilayah tersebut hanya mencapai 3,39.&nbsp; &nbsp;Nilai tersebut berarti keanekaragaman ikan karang di perairan Alue Raya tidak dikatakan rendah, karena nilainya tidak terlalu jauh dibandingkan dengan nilai paling tinggi di Teluk Lapeng yaitu 3,83.&nbsp;&nbsp; Nilai indeks keseragaman dibawah 0,5 menunjukkan bahwa komunitas dalam keadaan tertekan.&nbsp; &nbsp;Dari seluruh lokasi survey, tidak ada nilai keseragaman yang dibawah 0,5. Hal ini menunjukkan ikan &ndash; ikan di seluruh lokasi survey masih tergolong stabil. Dari hasil pengamatan dan analisis yang telah dilakukan, kelimpahan ikan yang ditemukan berkisar antara 10,98 ind/m2- &nbsp;14,95 ind/m2. &nbsp;Kelimpahan ikan paling tinggi terdapat&nbsp; dilokasi &nbsp;Teluk &nbsp;Lapeng &nbsp;dan &nbsp;paling &nbsp;rendah &nbsp;terdapat&nbsp; di &nbsp;lokasi &nbsp;Alue &nbsp;Raya satuan dari kelimpahan ikan target adalah (ind/m2).</p>
+				<div>
+					<p style="margin-left: 8.1pt; text-align: justify;">
+						Begitu juga dengan kondisi tutupan karang di perairan ujong pancu yang secara umum digolongkan baik Hal ini sesuai dengan Bell &amp; Galzin (1984), yang mengatakan &nbsp;bahwa&nbsp; &nbsp;faktor-faktor &nbsp;yang&nbsp; &nbsp;mempengaruhi &nbsp;kehadiran&nbsp;&nbsp; ikan&nbsp; &nbsp;(struktur komunitas dan kelimpahan ikan) di suatu terumbu karang, antara lain tinggi rendahnya persentase tutupan karang hidup dan perbedaan zona habitat. Rendahnya &nbsp;kelimpahan &nbsp;ikan &nbsp;karang &nbsp;di &nbsp;suatu &nbsp;lokasi &nbsp;diperkirakan&nbsp; akibat adanya penangkapan yang tidak ramah lingkungan. Hal lain juga yang diduga menyebabkan tingginya kelimpahan ikan adalah faktor <em>non-anthropogenic </em>seperti migrasi, musim dan pemangsaan.</p>
+					<p style="margin-left: 8.1pt; text-align: justify;">
+						<strong>Padang Lamun</strong></p>
+					<p style="margin-left: 8.1pt; text-align: justify;">
+						Di Perairan Pulo Breueh tidak terdapat padang lamun, jadi tidak ada data dan pembahasan mengenai ekosistem ini.</p>
+					<div>
+						<p style="margin-left: 8.1pt; text-align: justify;">
+							<strong>Mangrove</strong></p>
+						<p style="margin-left: 8.1pt; text-align: justify;">
+							Pasca terjadinya musibah tsunami pada tahun 2004 yang lalu, selain menghancurkan pesisir Pulo Breueh turut menghancurkan ekosistem mangrove, yang menurut penduduk setempat hutan mangrove di pulau itu sebelum tsunami masih cukup lebat. Di Pulau ini terdapat dua kemukiman, yakni Breueh Selatan dan Utara. Pulo &nbsp;Breueh &nbsp;selatan &nbsp;memiliki &nbsp;beberapa &nbsp;desa, &nbsp;di &nbsp;antaranya &nbsp;Lampuyang &nbsp;(Ibukota kecamatan Pulo Aceh), Gugob, Seurapong, Blang Situngkoh, Paloh, Ulee Paya, Teunom dan Lhoh. Sementara Pulo Breueh Utara terdiri dari Desa Lapeng, Rinon, Alu Raya dan Meulingge. Menurut penuturan penduduk setempat kawasan pantai di Pulo Breueh Utara berupa kawasan ekosistem hutan pantai dan hutan manggrove ikut hancur &nbsp;oleh &nbsp;gelombang&nbsp; tsunami. &nbsp;Padahal &nbsp;sebelumnya&nbsp; begitu &nbsp;indah &nbsp;terlihat. &nbsp;Di kawasan pantai Meulingge, yang memiliki batu-batu karang besar terdampar ke darat, begitu juga di desa lain, seperti Lapeng, Rinon dan Alue Raya banyak ditemukan pecahan-pecahan karang dan sudah terdampar ke daratan. &nbsp;Hilangnya hutan manggrove dan nipah seluas dua hektar telah membuat desa Lapeng tak terbentengi lagi oleh terpaan angin dari arah lautan.&nbsp;&nbsp; Hutan nipah di sepanjang pantai wilayah Meulingge kira-kira sejauh 1.500 meter ke arah darat turut hancur oleh hantaman tsunami. Selain itu di desa Dari hasil pengamatan di lapangan hampir seluruh wilayah pesisir di pulau itu tidak lagi dijumpai tanaman mangrove. Tanaman mangrove dapat dijumpai tumbuh disekitar desa Lampuyang, di beberapa lokasi yang terlindung dari gelombang ataupun angin laut yang kuat. Namun kondisi mangrove yang tumbuh disana jumlahnya juga sedikit, dan merupakan sisa-sisa dari penanaman beberapa tahun yang lalu. Mangrove yang ditanam banyak yang mati karena tidak adanya perawatan, hempasan gelombang, dimakan hewan ternak ataupun dipotong oleh penduduk setempat untuk pemanfaatan lain. Akibatnya hanya beberapa batang yang mampu tumbuh hingga ketinggian diatas tiga meter.</p>
+					</div>
+					<div>
+						<p style="margin-left: 8.1pt; text-align: justify;">
+							Menurut&nbsp; &nbsp;penuturan&nbsp;&nbsp; penduduk&nbsp;&nbsp; setempat&nbsp; &nbsp;sebelum&nbsp; &nbsp;terjadinya&nbsp;&nbsp; tsunami, penduduk belum&nbsp; menyadari arti &nbsp;pentingnya keberadaan hutan&nbsp; mangrove, mereka dengan sengaja menebang mangrove untuk pembukaan lahan tambak. Akibatnya kini yang mereka rasakan adalah hempasan angin dan gelombang &nbsp;dari samudera Hindia yang lebih kuat dari tahun-tahun sebelum tsunami. Disatu sisi penduduk juga tidak dapat lagi mencari udang atau ikan yang biasanya hidup di tengah-tengah hutan mangrove, selain itu mereka juga kesulitan menambatkan perahunya karena tidak bisa berlindung dari hempasan gelombang.</p>
+						<p style="text-align: justify;">
+							Kerusakan &nbsp;ekosistem &nbsp;mangrove &nbsp;yang terjadi &nbsp;di Pulo &nbsp;Breuh &nbsp;tidak hanya merusak komunitas mangrove namun juga substrat hidup dari mangrove tersebut. Banyaknya &nbsp;puing-puing bangunan serta &nbsp;pecahan &nbsp;karang &nbsp;akibat tsunami telah menutupi substrat alami tempat mangrove tersebut tumbuh. Akibat perubahan habitat tersebut tanaman mangrove sulit untuk tumbuh kembali dan membutuhkan waktu yang lebih lama agar bisa pulih seperti sedia kala.</p>
+						<div>
+							<p style="margin-left: 8.15pt; text-align: justify;">
+								Jenis mangrove yang tersisa berasal dari jenis <em>Rhizopora mucronata. </em>Jenis ini menurut penduduk setempat awalnya dipilih karena bibitnya mudah didapat dan sesuai dengan substrat perairan yang berlumpur dan daya tumbuhnya tinggi. Selain itu dapat tumbuh baik pada lumpur yang dalam dan tahan terhadap ombak dan angin. Jenis ini cocok ditanam di bagian depan garis pantai, terutama di pantai yang ombaknya cukup besar.</p>
+							<p style="text-align: justify;">
+								Ada dua lokasi yang ditumbuhi mangrove di desa Lampuyang, yakni di &nbsp;pinggir teluk dan sebagian kecil di tepi tambak. Mangrove yang terdapat ditepi tambak tidak terlalu banyak jumlahnya berkisar 20 batang, dan tumbuh dalam area seluas 10 x 2 meter, namun disini mangrove telah tumbuh dengan ketinggian lebih dari 3 meter. Mengingat&nbsp;&nbsp; &nbsp;kondisi &nbsp;sebaran &nbsp;mangrove &nbsp;yang tidak &nbsp;representative untuk &nbsp;dilakukan sampling (jumlah tanaman sedikit, menyebar, dan luas areal tidak memenuhi ukuran petak sampling yakni 100m2 &nbsp;per sampling), maka perhitungan kerapatan mangrove tidak dapat dilakukan. Namun sebagai gambaran rata-rata tinggi anakan mangrove jenis <em>Rhizopa mucronata </em>yang ditemukan berkisar 35 &ndash; 80 cm. Anakan mangrove ini ditemukan &nbsp;disela-sela &nbsp;pohon &nbsp;dewasa &nbsp;maupun &nbsp;diluar kumpulan pohon &nbsp;dewasa, terhitung hanya&nbsp;&nbsp; &nbsp;terdapat&nbsp; &plusmn; &nbsp;50 &nbsp;anakan <em>Rhizopa mucronata </em>dari dua &nbsp;lokasi yang ditumbuhi mangrove. &nbsp;Untuk kategori sapling (tegakan) diameter batang berkisar 2,5 - 4 cm, dengan ketinggian pohon rata-rata 1,5 meter dan kategori pohon berdiameter batang sekitar 4,5 &ndash; 6 cm dengan ketinggian pohon rata-rata diatas dua meter.</p>
+							<div>
+								<p style="text-align: justify;">
+									Jenis biota &nbsp;yang ditemukan &nbsp;hidup &nbsp;diantara &nbsp;rimbunan &nbsp;mangrove &nbsp;di Pulau Breueh antara lain jenis ikan tembakul (<em>Periopthalmus sp</em>), siput, kepiting bakau, kadal, dan biawak. Kawasan mangrove di daerah ini belum mempunyai status kawasan, karena umumnya lahan-lahan yang ditumbuhi hutan mangrove adalah tanah milik masyarakat, Namun &nbsp;setelah &nbsp;terjadinya &nbsp;tsunami, &nbsp;kawasan &nbsp;mangrove &nbsp;tersebut &nbsp;banyak mengalami &nbsp;kerusakan &nbsp;dan &nbsp;kehilangan &nbsp;batas-batas &nbsp;tanah &nbsp;masyarakat.</p>
+								<div>
+									<p style="margin-left: 8.15pt; text-align: justify;">
+										<strong>Vegetasi Pantai</strong></p>
+									<p style="text-align: justify;">
+										Panjang garis pantai di Pulau Breuh sekitar 92,99 Km<strong>. </strong>Pantainya didominasi pantai &nbsp;pasir &nbsp;putih &nbsp;dengan &nbsp;pecahan karang &nbsp;yang &nbsp;kasar,dan &nbsp;juga sebagian pantai didominasi batuan dengan kondisi pantai terjal.</p>
+									<div>
+										<p style="margin-left: 8.15pt; text-align: justify;">
+											Pada daerah pantai yang menghadap kelautan umumnya didominasi oleh vegetasi pandan (<em>Pandanus tectorius</em>), cemara laut &nbsp;(<em>Casuariana equisetifolia</em>) dan ketapang (<em>Terminalia cattapa</em>). Kedua jenis vegetasi yang terakhir sengaja ditanam untuk &nbsp;penghijauan&nbsp; pesisir &nbsp;pantai.&nbsp;</p>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<p>
+	&nbsp;</p>
+</div></p>
+
+<hr>
+
+<h2><a id="snh">Sumberdaya Non Hayati</a></h2>
+<p><div class="readmore"><p style="text-align: justify;">
+	<strong>Sumberdaya Non Hayati Pesisir</strong></p>
+<p style="text-align: justify;">
+	Sumberdaya non hayati pesisir yang terdapat di Pulo Breueh adalah berupa pasir dan batuan kerikil (galian C) sebagai bahan untuk pembuatan jalan. Pemanfaatan pasir putih &nbsp;tersebut &nbsp;sampai &nbsp;saat ini &nbsp;hanya digunakan untuk &nbsp;bahan &nbsp;bangunan. Sementara untuk energi kelautan sampai saat ini belum pernah dilakukan eksplorasi lebih &nbsp;jauh &nbsp;baik &nbsp;mengenai &nbsp;seberapa &nbsp;besar &nbsp;potensinya maupun pemanfaatannya.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="aps">Aktivitas Pengelolaan Sumberdaya</a></h2>
+<p><div class="readmore"><p style="margin-left: 8.1pt; text-align: justify;">
+	<strong>Aktivitas Pengelolaan Sumberdaya</strong></p>
+<p style="margin-left: 8.1pt; text-align: justify;">
+	<strong>Perikanan</strong></p>
+<p style="margin-left: 8.1pt; text-align: justify;">
+	<strong>Perikanan Tangkap</strong></p>
+<p style="margin-left: 8.1pt; text-align: justify;">
+	Sektor perikanan tangkap merupakan sektor dominan bagi penduduk Pulo Breueh,&nbsp; yang &nbsp;sebagian besar &nbsp;bekerja&nbsp; sebagai&nbsp; nelayan. Umumnya mereka&nbsp; masih tergolong nelayan tradisional, yang menggunakan alat tangkap pancing dan jaring dan rata-rata menggunakan boat kecil berukuran 5 GT &ndash; 25 GT. Umumnya mereka melakukan penangkapan diperairan sekitar pulau-pulau yang terdapat di kecamatan Pulo Aceh, Sabang, bahkan sekitar laut Andaman. Ada&nbsp; berbagai jenis ikan yang ditangkap antara lain tuna, cucut, kerapu, mata merah, beronang, lobster, kakap dan sebagainya. Umumnya ikan hasil tangkapan nelayan dijual kembali ke&nbsp; pelabuhan pendaratan ikan Lampulo di Banda Aceh. Namun bila gelombang besar khusus pada musim barat nelayan di pulau ini tidak dapat melaut dan menghabiskan waktunya memperbaiki alat tangkap dan perahu, atau berkebun/berladang. Dahulu Pulo Breueh terkenal dengan hasil tangkapan lobster yang melimpah, namun kini lobster sangat jarang dijumpai di perairan Pulo Breueh. Kelebihan tangkap dan pengeboman ikan ditenggarai &nbsp;sebagai &nbsp;salah &nbsp;satu &nbsp;penyebab &nbsp;berkurangnya&nbsp; populasi &nbsp;lobster &nbsp;di &nbsp;alam bebas.</p>
+<p style="margin-left: 7.1pt; text-align: justify;">
+	<strong>Perikanan Budidaya</strong></p>
+<p style="margin-left: 7.1pt; text-align: justify;">
+	Sebagai &nbsp;wilayah yang dikelilingi lautan sebenarnya Pulo Breueh menyimpan potensi yang cukup besar guna pengembangan budidaya laut. Salah satunya usaha keramba jaring apung dan budidaya rumput laut. Usaha budidaya rumput laut sangat cocok dilakukan disekitar perairan pulau ini mengingat perairannya yang berarus deras dan jernih, sebelum tahun 2004 usaha ini banyak dilakukan oleh penduduk setempat, namun sejak dihantam oleh tsunami banyak kerugian yang dialami oleh penduduk, sehingga usaha ini ikut terhenti. Namun pada saat survei dilakukan sudah ada usaha budidaya rumput laut dari jenis <em>Eucheuma cottoni </em>seluas &plusmn; 2 ha milik pengusaha dari Banda Aceh. Namun karena masih kurangnya modal usaha tersebut terkendala untuk pengembangan lebih lanjut. Untuk usaha keramba jaring apung, awalnya pada tahun</p>
+<p style="margin-left: 7.1pt; text-align: justify;">
+	2007-2008 ada tiga kelompok usaha KJA di Pulo Breueh, yang mendapatkan bantuan dari &nbsp;ADB &nbsp;(<em>Asian &nbsp;Development&nbsp; Bank</em>) &nbsp;baik &nbsp;berupa &nbsp;pelatihan &nbsp;dan &nbsp;modal &nbsp;5 &nbsp;buah keramba. Namun dari ketiganya satu satu yang bertahan, yakni usaha KJA milik Bapak Muazi, seorang penduduk desa Ulee Paya. Dari hasil wawancara didapat informasi bahwa biaya untuk membuat keramba dengan ukuran 3&times;3 meter memakan biaya 5 juta yang mempunyai daya tahan 5 hingga 7 tahun, ikan andalan disini diantaranya kerapu, lobster dan kweh, dengan pakan berupa ikan rucah. Harga ikan panenan sebagai contoh ikan kerapu dalam sekali panen biasa mencapai 500 Kg dengan nilai jual 85.000/kg dan lobster 370.000/kg, namun harga tersebut bersifat fluktuatif tergantung dari kualitas, ketersediaan stok dan permintaan konsumen. Ikan &ndash; ikan tersebut umumnya dibeli oleh pembeli dari Banda Aceh maupun Medan.</p>
+<p style="margin-left: 43.15pt; text-align: justify;">
+	<strong>Pertanian dan Perkebunan</strong></p>
+<p style="margin-left: 7.15pt; text-align: justify;">
+	Selain bermatapencaharian sebagai nelayan, penduduk di Pulo Breueh juga bertani dan berkebun. Kontur tanah di Pulo Breueh yang berbukit dan tanahnya subur banyak dijadikan warga sebagai ladang/kebun. Berbagai jenis tanaman seperti kelapa, cengkeh, cabe, kunyit, jeruk nipis, pisang, mangga dan jenis sayur-mayur lainnya banyak ditanam oleh penduduk. Namun untuk membuka lahan tersebut hutan yang terpaksa ditebang. Sawah yang terdapat di Pulau ini masih bersifat sawah tadah hujan dan belum ada sistem irigasi yang intensif.</p>
+<p style="margin-left: 8.15pt; text-align: justify;">
+	<strong>Peternakan</strong></p>
+<div>
+	<p style="text-align: justify;">
+		Sektor peternakan di Pulo Breueh masih bersifat sederhana, dimana hewan ternak yang dipelihara biasanya dilepaskan ke luar untuk mencari makan sendiri. Hewan ternak yang&nbsp; banyak diternakan oleh masyarakat antara lain &nbsp;sapi, &nbsp;kerbau, kamibing, ayam dan itik. Beternak bukanlah mata pencaharian utama bagi penduduk pulau &nbsp;ini, &nbsp;namun &nbsp;hanya sebagai &nbsp;usaha &nbsp;sampingan, yang &nbsp;dapat digunakan untuk memenuhi &nbsp;konsumsi &nbsp;protein &nbsp;keluarga &nbsp;dan &nbsp;terkadang &nbsp;sebagian &nbsp;lagi &nbsp;dijual untuk menambah penghasilan.</p>
+	<p style="margin-left: 8.15pt; text-align: justify;">
+		<strong>Kehutanan</strong></p>
+	<p style="text-align: justify;">
+		Hutan yang terdapat di Pulo Breueh masih tergolong lebat terutama di daerah perbukitan,&nbsp; &nbsp;namun&nbsp; &nbsp;dibeberapa&nbsp; &nbsp;tempat&nbsp; &nbsp;hutan&nbsp; &nbsp;tersebut&nbsp; &nbsp;telah&nbsp; &nbsp;berubah&nbsp; &nbsp;menjadi perkebunan/ladang &nbsp;penduduk. &nbsp;Belum &nbsp;ada &nbsp;pengelolaan lebih &nbsp;lanjut &nbsp;dari &nbsp;sektor kehutanan di Pulau ini.</p>
+	<p style="margin-left:8.15pt;">
+		&nbsp;</p>
+</div>
+<p style="margin-left:8.15pt;">
+	&nbsp;</p>
+<p style="margin-left:7.1pt;">
+	&nbsp;</p>
+</div></p>
+
+<hr>
+
+<h2><a id="ling">Lingkungan</a></h2>
+<p><div class="readmore"><p style="margin-left: 8.1pt; text-align: justify;">
+	<strong>Kualitas Perairan</strong></p>
+<p style="margin-left: 8.1pt; text-align: justify;">
+	-&nbsp;&nbsp;&nbsp; &nbsp;Fisika Perairan</p>
+<p style="margin-left: 8.1pt; text-align: justify;">
+	Kedalaman laut</p>
+<p style="margin-left: 8.1pt; text-align: justify;">
+	Untuk data tentang kedalaman perairan tidak dilakukan pengukuran pada saat melaksanakan survey.</p>
+<p style="margin-left: 8.1pt; text-align: justify;">
+	-&nbsp;&nbsp;&nbsp; &nbsp;Kecerahan air</p>
+<p style="text-align: justify;">
+	Pengukuran kecerahan air dilakukan di 7 lokasi yang terdapat di perairan Pulo Aceh. Hasil pengukuran menunjukkan bahwa tingkat kecerahan yang paling rendah terdapat di perairan Gugop yaitu 6,12 meter. Sedangkan tingkat kecerahan yang paling tinggi terdapat di Mercusuar (Gampong Meulingge)&nbsp;&nbsp; dengan tingkat kecerahan 9,76 meter.</p>
+<p style="margin-left: 13.1pt; text-align: justify;">
+	-&nbsp;&nbsp;&nbsp; &nbsp;Suhu atau Temperatur</p>
+<p style="margin-left: 13.1pt; text-align: justify;">
+	Hasil pengukuran suhu perairan pada tiga titik kedalaman &nbsp;yaitu (3,6,9 meter) dapat diketahui bahwa tidak ada perbedaan suhu yang mendadak&nbsp; &nbsp;dibandingkan dengan kedalaman. Pada kedalaman yang bervariasi tersebut suhu perairan relatif konstan yaitu 290C. Suhu ini sangat cocok untuk habitat dan perkembangbiakan ikan- ikan tropis.</p>
+<p style="margin-left: 13.1pt; text-align: justify;">
+	- Kimia Perairan</p>
+<p style="margin-left: 8.1pt; text-align: justify;">
+	DO atau <em>dissolved oxygen </em>adalah oksigen terlarut adalah jumlah oksigen dalam miligram yang terdapat dalam satu liter air (ppt), nilai DO yang didapat di perairan Pulau Breueh tertinggi terdapat di lokasi Lapeng dengan nilai 5,6-5,72 mg/l, dengan nilai rata-rata 5,66 mg/l. &nbsp;Sedangkan &nbsp;nilai terendah terdapat di lokasi Teluk Meulingge dengan kisaran nilai 4,3 -4,7 mg/l dengan nilai rata-rata 4,5 mg/l. Menurut Keputusan Menteri Lingkungan Hidup No.51 tahun 2004 tentang baku mutu lingkungan perairan untuk biota air laut, batas toleran untuk oksigen terlarut adalah &gt;5. Dengan demikian dapat dikatakan bahwa kandungan oksigen terlarut yang terdapat di&nbsp; Baet berada kurang baik untuk biota perairan.</p>
+<p style="margin-left: 8.1pt; text-align: justify;">
+	BOD5 merupakan parameter yang dapat digunakan untuk menggambarkan keberadaan bahan organik di perairan. Hal ini disebabkan BOD5 dapat menggambarkan &nbsp;jumlah &nbsp;bahan &nbsp;organik &nbsp;yang &nbsp;dapat &nbsp;diuraikan &nbsp;secara &nbsp;biologis, yaitu jumlah oksigen terlarut yang dibutuhkan oleh mikroorganisme untuk memecahkan atau mengoksidasi bahan-bahan organik menjadi karbondioksida dan air. Nilai BOD5 yang tinggi menunjukkan semakin besarnya bahan organik yang terdekomposisi menggunakan sejumlah oksigen di perairan.</p>
+<div>
+	<p style="margin-left: 50.6pt; text-align: justify;">
+		Berdasarkan tabel di atas dapat diketahui bahwa nilai BOD5 terendah adalah</p>
+	<p style="text-align: justify;">
+		&nbsp;</p>
+	<p style="margin-left: 8.1pt; text-align: justify;">
+		0,05 mg/l, dan nilai tertinggi adalah 1,85. Jika dihubungkan dengan Kepmen LH No.51 tahun 2004 ambang batas untuk nilai BOD5 yang diperbolehkan adalah 20 mg/l. Dengan demikian dapat dipastikan bahwa kondisi perairan yang ada di Pulo Breueh masih alami dan belum tercemar. Karena nilai BOD5 nya masih berada di bawah ambang batas baku mutu lingkungan.</p>
+	<p style="margin-left: 8.1pt; text-align: justify;">
+		Salinitas merupakan jumlah garam-garam terlarut yang terdapat dalam 1 kg air air laut. Semakin tinggi kadar salinitas dalam suatu air laut berarti semakin tinggi kadar garam yang terkandung di dalamnya. Salinitas dapat mempengaruhi arah ruaya ikan, karena pada prinsipnya ikan pasti akan mencari perairan yang memiliki kadar</p>
+</div>
+<p style="text-align: justify;">
+	&nbsp;</p>
+<div>
+	<p style="text-align: justify;">
+		&nbsp;</p>
+	<p style="margin-left: 8.1pt; text-align: justify;">
+		salinitas&nbsp; &nbsp;yang&nbsp; &nbsp;sesuai&nbsp; &nbsp;dengan&nbsp; &nbsp;kehidupannya.&nbsp; &nbsp;Hasil&nbsp; &nbsp;pengukuran&nbsp; &nbsp;di&nbsp; &nbsp;lapangan menunjukkan bahwa kadar salinitas air laut Pulo Breueh adalah 31 -32,8 &permil;.</p>
+	<p style="margin-left: 8.1pt; text-align: justify;">
+		PH merupakan pH adalah kepanjangan dari pangkat hidrogen atau power of hydrogen. pH larutan menyatakan konsentrasi ion H+ dalam larutan. pH merupakan derajat &nbsp;keasaman &nbsp;yang&nbsp;&nbsp; digunakan &nbsp;untuk &nbsp;menyatakan &nbsp;tingkat &nbsp;keasaman &nbsp;atau kebasaan yang dimiliki oleh suatu larutan. Ia didefinisikan sebagai kologaritma aktivitas ion hidrogen (H+) yang terlarut. Koefisien aktivitas ion hidrogen tidak dapat diukur secara eksperimental, sehingga nilainya didasarkan pada perhitungan teoritis. Skala pH bukanlah skala absolut. Ia bersifat relatif terhadap sekumpulan larutan standar yang pH-nya ditentukan berdasarkan persetujuan internasional.</p>
+	<p style="margin-left: 8.1pt; text-align: justify;">
+		Air &nbsp;murni biasanya bersifat netral dengan suhu 25 &deg;C &nbsp;ditetapkan pH&nbsp; 7,0. Larutan dengan pH kurang daripada tujuh disebut bersifat asam, dan larutan dengan pH lebih daripada tujuh dikatakan bersifat basa atau alkali. &nbsp;Pengukuran pH sangatlah penting dalam bidang yang terkait dengan kehidupan atau industri pengolahan kimia seperti kimia, biologi, kedokteran, pertanian, ilmu pangan, rekayasa (keteknikan), dan oseanografi. Tentu &nbsp;saja &nbsp;bidang-bidang sains &nbsp;dan &nbsp;teknologi lainnya&nbsp; juga &nbsp;memakai meskipun dalam frekuensi yang lebih rendah. Hasil pengukuran pH air laut di Pulo Breueh menunjukkan bahwa nilai pH terendah terdapat di perairan Teunom dengan kadar pH adalah 6.7, sedangkan pH yang paling tinggi adalah 7,5. Namun jika dilihat secara keseluruhan kadar pH perairan di&nbsp; Pulo Breueh adalah di&nbsp; atas 7.&nbsp; Dengan demikian dapat dipastikan bahwa air laut yang terdapat di Pulo Breueh adalah air bersifat basa.</p>
+	<p style="margin-left: 14.1pt; text-align: justify;">
+		TSS (<em>Total Suspension Solid</em>) &nbsp;adalah residu dari padatan total yang tertahan oleh saringan dengan ukuran partikel maksimal 2&mu;m atau lebih besar dari ukuran partikel koloid. Yang termasuk TSS adalah lumpur, tanah liat, logam oksida, sulfida, ganggang, bakteri dan jamur. TSS umumnya dihilangkan dengan flokulasi dan penyaringan.&nbsp; &nbsp;TSS&nbsp; &nbsp;memberikan&nbsp; &nbsp;kontribusi&nbsp; &nbsp;untuk&nbsp; &nbsp;kekeruhan&nbsp; &nbsp;(<em>turbidity</em>)&nbsp; &nbsp;dengan membatasi penetrasi cahaya untuk fotosintesis dan visibilitas di perairan. Sehingga nilai kekeruhan tidak dapat dikonversi ke nilai TSS. Kekeruhan adalah kecenderungan ukuran sampel untuk menyebarkan cahaya. Sementara hamburan diproduksi oleh adanya partikel tersuspensi dalam sampel. Kekeruhan adalah murni sebuah sifat optik, dapat diketahui bahwa kandungan TSS yang terdapat di perairan Pulo Breueh masih Rendah, dan berada di bawah baku mutu lingkungan kepmen LH No. 51 tahun 2004. Ini berarti bahwa kandungan padatan tersuspensi sangat kecil yang mengindikasikan bahwa perairan tersebut sangat jernih sehingga penetrasi cahaya matahari ke dalam perairan menjadi lebih dalam.</p>
+	<div>
+		<p style="margin-left: 14.1pt; text-align: justify;">
+			<strong>Permasalahan Lngkungan</strong></p>
+		<p style="margin-left: 14.1pt; text-align: justify;">
+			Permasalahan lingkungan yang dihadapi oleh masyarakat disana adalah rentan terhadap bencana karena tempat tinggal masyarakat yang terdapat disekitar pantai lama kelamaan akan terkikis yang disebabkan karena adanya abrasi pantai. Selain itu apabila terjadi gempa daerah ini sangat berpotensi terjadi tsunami. Masalah</p>
+	</div>
+	<p style="margin-left: 8.1pt; text-align: justify;">
+		seperti ini sudah dialami oleh masyarakat pada tahun 2004, dimana banyak bangunan dan masyarakt yang meninggal karena diterjang badai tsunami.&nbsp;&nbsp; Karena selama ini banyak masyarakat yang tinggal di daerah yang landai dan dekat dengan pesisir laut, khususnya di gampong Lampuyang dan Lhoh.</p>
+</div>
+<p>
+	&nbsp;</p>
+</div></p>
+
+<hr>
+
+<h2><a id="sp">Sarana dan Prasarana</a></h2>
+<p><div class="readmore"><p style="margin-left: 8.1pt; text-align: justify;">
+	<strong>Sarana dan Prasarana</strong></p>
+<p style="margin-left: 8.1pt; text-align: justify;">
+	Untuk mendukung aktivitas dalam suatu daerah, peranan sarana maupun prasarana sangat dibutuhkan. Karena keberadaan sarana dan prasarana yang lengkap akan sangat membantu kelancaran suatu usaha ataupun kegiatan yang dijalankan. Jika dilihat dari jenisnya sarana maupun prasarana yang terdapat di Pulo Breueh tergolong&nbsp; cukup &nbsp;lengkap, &nbsp;untuk &nbsp;kategori &nbsp;sebuah &nbsp;pulua &nbsp;kecil. &nbsp;Hal &nbsp;ini &nbsp;mungkin disebabkan karena di Pulo Breueh tepatnya di gampong Lampuyang ibukota Pulo Aceh. Selain itu juga banyak bangunan yang baru direhab dan rekonstruksi ulang oleh BRR pasca terjadinya Tsunami Desember tahun 2004. Diantara sarana dan prasarana yang ada kebanyakan kondisinya masih bagus, namun ada juga beberapa sarana yang kondisi awalnya bagus, tapi karena kurang mendapat perhatian dan perawatan akhirnya mengalami kerusakan. Adapun sarana dan prasarana yang terdapat di Pulo Pulo Breueh adalah sebagai berikut :</p>
+<p style="margin-left: 8.1pt; text-align: justify;">
+	<strong>Sarana Transportasi</strong></p>
+<div>
+	<p style="margin-left: 8.1pt; text-align: justify;">
+		Untuk mendukung mobilitas penduduk dari satu gampong ke gampong yang lain di Pulo Breueh, diperlukan sarana transportasi berupa jalan. Berdasarkan hasil survey yang telah dilakukan diketahui bahwa kondisi jalan yang ada di Pulo Breueh dalam keadaan rusak dimana kebanyakan jalan tersebut aspalnya sudah mengelupas. Namun akses jalan dari gampong gugop menuju Gampong Rinon sudah tergolong cukup bagus. Lebar jalan tersebut hampir mencapai empat meter. Namun ada ruas</p>
+</div>
+<p style="margin-left: 8.1pt; text-align: justify;">
+	jalan yang belum selesai yang dibuat yaitu di gampong Meulingge, mukim P. Breuh Utara. Jalan tersebut terdiri dari tanah dan batu-batuan serta kerikil. Pada saat musim hujan kondisi jalan tersebut sangat membahayakan para pengguna jalan karena penuh batu-batuan kerikil yang licin.</p>
+<p style="margin-left: 8.1pt; text-align: justify;">
+	Akses menuju &nbsp;Pulo Breueh hanya dapat dilakukan melalui trasnportasi laut berupa &nbsp;kapal &nbsp;kayu &nbsp;dengan &nbsp;bobot &nbsp;kapal &nbsp;sekitar &nbsp;15 &nbsp;- &nbsp;19 &nbsp;GT &nbsp;yang &nbsp;bersandar&nbsp; di Pelabuhan Lampulo, Kota Banda Aceh dengan frekuensi keberangkatan 1 kali satu hari.&nbsp;&nbsp; Kapal-kapal tersebut akan berlayar menuju Pulo Breueh selama sekitar 2 jam untuk dapat bersandar di Dermaga Gugop atau dermaga Lampuyang. Oleh karena itu pusat perekonomian berupa penjualan hasil alam dilakukan di Kota Banda Aceh.</p>
+<p style="margin-left: 8.1pt; text-align: justify;">
+	<strong>Sarana Penerangan</strong></p>
+<p style="margin-left: 8.15pt; text-align: justify;">
+	Sarana penerangan di Pulo Breueh sudah cukup baik. Hal ini dapat dilihat dengan adanya pembangkit listrik tenaga diesel yang dapat memasok listrik keseluruh rumah warga. Kapasitas mesin tersebut mampu menghasilkan listrik sesebar 300 Kilo Watt. Sedangkan kebutuhan listrik untuk pulau tersebut perharinya adalah sekitar 127 Kilo Watt. Dengan demikian kegiatan warga yang berkaitan dengan ketersedian arus listrik tidak ada kendala lagi. Jumlah bahan bakar yang dibutuhkan untuk menghasilkan energy &nbsp;listrik tersebut &nbsp;per &nbsp;bulannya &nbsp;adalah sekitar &nbsp;650 &nbsp;liter. &nbsp;Selain &nbsp;itu sistim pembayaran listrik yang diterapkan sudah modern, yaitu melalui pembayaran pasca bayar. &nbsp;Dengan demikian tidak &nbsp;akan &nbsp;ada &nbsp;lagi &nbsp;tunggakan-tunggakan &nbsp;pembayaran rekening listrik.</p>
+<p style="margin-left: 8.15pt; text-align: justify;">
+	<strong>Sarana Air Bersih</strong></p>
+<p style="margin-left: 8.15pt; text-align: justify;">
+	Penduduk di Pulo Breueh umumnya menggunakan dua jenis sumber air yakni yang berasal dari sumur galian maupun dari mata air yang terdapat diperbukitan. Mengingat di Pulau Breueh terdapat perbukitan, maka di pulau ini ditemukan aliran mata air yang mengalir dari bukit dan membentuk sungai-sungai kecil ke wilayah kaki bukit. Air &nbsp;tesebut &nbsp;dimanfaatkan &nbsp;oleh &nbsp;penduduk &nbsp;untuk kebutuhan sehari-hari &nbsp;dan disalurkan ke pemukiman penduduk melalui pipa-pipa dan ditampung dalam bak fiber maupun bak semen.</p>
+<p style="margin-left: 8.1pt; text-align: justify;">
+	<strong>Sarana Kesehatan</strong></p>
+<p style="text-align: justify;">
+	Sarana kesehatan di Pulo Breueh masih jauh dari kata memadai, menurut penuturan penduduk setempat jumlah sarana&nbsp;&nbsp; kesehatan baik berupa puskesmas, puskemas pembantu, maupun posyandu masih sangat kurang. Dari 12 desa yang terdapat di Pulo Breueh hanya terdapat 1 buah puskesmas di Lampuyang, 7 buah Polindes di Lampuyang, Lapeng, Paloh, Gugop, Alue Raya, Rinon dan Melingge, dan 2 buah Puskesmas pembantu di Gugop dan Seurapong. Puskesmas yang terdapat di Lampuyang adalah satu-satunya sarana kesehatan yang paling lengkap bila dibandingkan dengan yang lainnya. Hanya saja karena sarana perhubungan yang masih buruk, dimana jalan masih banyak yang belum di aspal dan masih berbatu dan juga harus naik turun tanjakan di atas bukit yang cukup terjal, hal tersebut cukup menyulitkan warga yang sakit apabila harus berobat ke Lampuyang. Dan bila pun harus melalui jalur laut harus menunggu cuaca membaik. Berdasarkan wawancara dengan petugas di Puskemas Lampuyang, didapat data bahwa puskesmas tersebut</p>
+<div>
+	<p style="margin-left: 8.1pt; text-align: justify;">
+		<strong>Sarana Pendidikan</strong></p>
+	<p style="margin-left: 8.1pt; text-align: justify;">
+		Sebagaimana pulau terpencil lainnya, sarana pendidikan di Pulo Breueh sangat tertinggal jauh dan tidak memadai, baik dari segi fasilitas pendidikan maupun tenaga pendidik.&nbsp; Dari &nbsp;hasil &nbsp;pengamatan selama &nbsp;survei &nbsp;didapat &nbsp;bahwa &nbsp;sarana &nbsp;penunjang penting pendidikan seperti pustaka dan laboratorium masih sangat minim. Untuk perpustakaan&nbsp;&nbsp; jumlah&nbsp; &nbsp;buku&nbsp; &nbsp;yang&nbsp; &nbsp;ada&nbsp; &nbsp;sangat&nbsp; &nbsp;sedikit&nbsp; &nbsp;dan&nbsp; &nbsp;umumnya&nbsp; &nbsp;hanya mengandalkan buku hasil sumbangan pihak lain, sementara laboratorium sangat kekurangan alat-alat peraga seperti mikroskop, bahkan ada sekolah yang hanya memiliki ruang laboratorium tanpa ada alat apapun didalamnya dan dijadikan gudang. Berdasarkan hasil wawancara dengan kepala sekolah SMUN 2 Pulo Aceh (salah satu sekolah &nbsp;tertua &nbsp;yang &nbsp;terdapat&nbsp; di &nbsp;Pulo &nbsp;Breueh),&nbsp; akibat &nbsp;kekurangan segala &nbsp;fasilitas pendidikan menyebabkan semangat para siswa untuk belajar menurun. Selain itu setamat sekolah sebagian dari mereka tidak melanjutkan kuliah, sementara keterampilan lain mereka pun tak punya, akibatnya Breuehb mereka tidak jauh dari orangtua mereka, bekerja sebagai nelayan atau menganggur. Kegiatan pelatihan keterampilan sangat dibutuhkan agar&nbsp; para&nbsp; murid bisa memiliki keterampilan yang berguna bila mereka lulus nanti. Awalnya pihak sekolah pernah mengajukan usulan kerjasama dengan SUPM (Sekolah Usaha Perikanan Menengah) Ladong, untuk pelatihan keramba bagi &nbsp;para &nbsp;siswa &nbsp;namun&nbsp; hingga&nbsp; saat &nbsp;ini &nbsp;belum&nbsp; ada &nbsp;kejelasan. Permasalahan lain adalah guru yang mengajar di Pulo Breueh sebagian besar berasal dari Banda Aceh, adakadang kalanya mereka tidak bisa mengajar akibat terkendala cuaca, sementara di Pulo Breueh sendiri belum ada asrama atau perumahan guru. Sebagai contoh di sebuah sekolah dasar di Desa Rinon, yang dibangun dengan dana ADB senilai 500 juta, gedung sekolahnya sempat terbengkalai. Siswa hanya masuk selama 3 hari dalam seminggu akibat guru yang tidak bisa mengajar sesuai jadwal yang seharusnya. Untuk menanggulangi kekurangan tenaga guru, ada beberapa guru yang dikirim dari Pulau Jawa dalam rangka Program Sarjana Mengajar di Daerah Terli Air. terdepan, dan tertinggal (SM3T) dengan mengirimkan tenaga pendidik untuk mengajar di beberapa daerah terpencil di Indonesia, termasuk di Pulo Breueh. Guru-guru ini berasal dari Universitas Negeri Semarang, Jawa Tengah.</p>
+	<p style="text-align: justify;">
+		Di Pulo Breueh sendiri terdapat 1 unit sekolah menengah keatas (SMA) dan 1unit sekolah menengah pertama (SMP) di desa Blang Situngkoh, 4 unit sekolah dasar (SD) di desa Lampuyang, Gugob, Rinon dan Melingge. Selain itu disana juga terdapat beberapa buah sarana pendidikan pra sekolah yakni PAUD dan taman kanak-kanak Juga ada lembaga pendidikan agama antara lain Dayah Tgk. Chik Lampuyang yang terdapat di desa Lampuyang.</p>
+	<p style="text-align: justify;">
+		<strong>Sarana Peribadatan</strong></p>
+	<p style="margin-left: 8.15pt; text-align: justify;">
+		Di Pulo Breueh sarana peribadatan yang ada&nbsp; &nbsp;berupa mesjid dan meunasah (langgar). Ada 4 buah mesjid yang tersebar di desa Lampuyang, Seurapong, Rinon dan Melingge dan 12 buah meunasah yang terdapat di setiap desa di Pulo Breueh.</p>
+	<p style="margin-left: 8.15pt; text-align: justify;">
+		<strong>Sarana Pendukung Pemerintahan</strong></p>
+	<div>
+		<p style="text-align: justify;">
+			Dalam menjalankan&nbsp; roda pemerintahan di Pulo Breueh tentu saja membutuhkan sarana yang memadai. Karena untuk kegiatan administrasi, kegiatan rapat desa/gampong tentu saja &nbsp;memerlukan tempat sebagai sekretariat. Oleh karena itu pemerintah telah membangun kantor-kantor di Pulo Breueh, seperti kantor keuchik, Polsek, &nbsp;Panwas, &nbsp;balai &nbsp;desa &nbsp;dan &nbsp;lain-lain.</p>
+	</div>
+	<p style="margin-left: 8.15pt; text-align: justify;">
+		&nbsp;</p>
+	<p style="margin-left: 8.1pt; text-align: justify;">
+		<strong>Sarana Pendukung Pariwisata</strong></p>
+	<p style="text-align: justify;">
+		Sebagaimana wilayah pulau lainnya Pulau Breueh memiliki beberapa potensi wisata yang sebenarnya sangat potensial untuk dikembangkan. Namun sayangnya perhatian pemerintah dalam membangun sektor pariwisata di pulau ini masih sangat minim. Salah satu kendala pengembangan sektor ini adalah masih minimnya sarana transportasi dari dan menuju pulau ini. Selama ini sarana transportasi yang digunakan apabila hendak berkunjung ke pulau tersebut hanya menggunakan kapal nelayan yang selain mengangkut penumpang, juga mengangkut ikan, dan barang-barang lainnya sehingga penuh sesak. Selain itu di pulau ini belum ada penginapan ataupun warung- warung makan, sehingga apabila ada wisatawan yang berkunjung harus menginap dan makan di rumah penduduk setempat. Sebenarnya dulu ada sebuah cottage yang dibangun oleh pemerintah, namun sekarang terbengkalai dan tidak dimanfaatkan. Di pulau tersebut juga belum tersedia moda transportasi umum yang bisa digunakan untuk berkeliling pulau, sehingga harus menyewa motor dari penduduk, dan hal ini juga diperparah dengan kondisi jalan yang sangat buruk di beberapa lokasi wisata. Namun kita &nbsp;bisa &nbsp;membawa &nbsp;kendaraan &nbsp;bermotor atau sepeda sendiri.&nbsp; &nbsp;Jika dibandingkan dengan Pulau Weh yang letaknya tidak jauh dari &nbsp;pulau &nbsp;tersebut, &nbsp;kondisinya&nbsp; jauh berbading terbalik. Namun demikian pemandangan alam di Pulau Breueh yang dikitari&nbsp; &nbsp;lautan&nbsp; &nbsp;yang&nbsp; &nbsp;biru&nbsp; &nbsp;dan&nbsp; &nbsp;hijaunya perbukitan&nbsp;&nbsp; &nbsp;dan &nbsp;belum &nbsp;tersentuh &nbsp;oleh &nbsp;tangan &nbsp;manusia &nbsp;sangatlah &nbsp;indah. &nbsp;Berikut beberapa potensi wisata yang ada di Pulau Breueh :</p>
+	<p style="text-align: justify;">
+		<strong>1. Wisata Sejarah</strong></p>
+	<div>
+		<div>
+			<p style="margin-left: 8.1pt; text-align: justify;">
+				Di Pulau Breueh terdapat peninggalan bersejarah dari zaman Belanda yakni sebuah mercusuar, yang disebut Willem&rsquo;s Toren. Mercusuar ini&nbsp;&nbsp; terdapat di desa Meulingge dan dibangun&nbsp; &nbsp;pada&nbsp; &nbsp;1875&nbsp; &nbsp;kala&nbsp; &nbsp;Raja&nbsp; &nbsp;Williem III berkuasa (1817-1890). Kala memerintah, Willem memang giat membangun ekonomi dan infrastruktur di wilayah Hindia Belanda, termasuk Pulo Aceh. Dalam beberapa referensi disebutkan, Willem membangun mercusuar itu dalam rangka menyiapkan Sabang sebagai salah satu pelabuhan transit ke Selat Malaka. Kala itu, Belanda bercita-cita membuat pelabuhan transit Sabang yang diharapkan seperti Singapura sekarang. Mercusuar selesai bertepatan dengan ulang tahun ke-65 William III. Tak hanya mercusuar ini saja, semua bangunan yang selesai pada masa itu didedikasikan untuk raja. Maka, Willem&rsquo;s Toren atau Menara William juga ada di Hollands dan Kepulauan Karibia. Kini yang berfungsi hanya mercusuar ini dan di kepulauan Karibia saja. Willem&rsquo;s Toren di Hollands telah berubah fungsi menjadi museum.</p>
+			<p style="margin-left: 7.1pt; text-align: justify;">
+				Walau sudah puluhan tahun, Willem&rsquo;s Toren tetap kokoh. Menara setinggi 40 meter &nbsp;ini &nbsp;tetap &nbsp;digunakan.&nbsp; Menara &nbsp;terletak &nbsp;di &nbsp;dalam &nbsp;sebuah &nbsp;komplek &nbsp;seluas &nbsp;20 hektare. Pemukiman ini dulunya diisi perwira-perwira Belanda. Selain menara, ada bangunan loji panjang, gedung pembangkit listrik, gudang logistik, aula untuk pekerja lokal, dan sebuah pelabuhan khusus untuk mercusuar ini. Di pelabuhan ini dulunya perwara Belanda mendarat. Ketika musibah Tsunami pada 2004 menghantam pulau ini, ada beberapa bangunan kecil di komplek mercusuar ini yang kini tinggal puing. Di dalam komplek yang tersisa sekarang hanya menara, loji panjang, dan gedung pembangkit listrik. &nbsp;Mercusuar&nbsp; dijaga &nbsp;petugas &nbsp;dari &nbsp;Departemen Perhubungan Laut Distrik Navigasi II Sabang. Mereka bertugas memastikan mercusuar berfungsi baik. Arus kencang di Selat Malaka serta banyaknya karang bawah permukaan di antara Sabang dan Pulo Aceh menjadikan alat pandu perjalanan laut ini begitu vital.</p>
+		</div>
+	</div>
+</div>
+<p style="margin-left: 217.1pt; text-align: justify;">
+	<strong>2. Wisata Bahari</strong></p>
+<p style="margin-left: 217.1pt; text-align: justify;">
+	Pulau Breueh memiliki pantai yang cukup indah, dengan hamparan pasir putih dan laut yang sangat jernih. Tidak jauh dari pusat &nbsp;Desa &nbsp;Gugop &nbsp;terdapat &nbsp;pantai &nbsp;yang &nbsp;sempurna&nbsp; untuk &nbsp;menikmati&nbsp; matahari terbenam yakni Pantai Lambaro. Kontur pantai yang landai, memiliki alur panjang, serta pasir putih yang memikat ini menghadap ke arah barat, sehingga apabila langit cerah, matahari tenggelam akan tampak sangat indah. Kelebihan lainnya pantai ini relatif sepi pengunjung kecuali pada hari-hari tertentu.Sekitar&nbsp; setengah jam &nbsp;dengan&nbsp; mengendarai motor &nbsp;dari &nbsp;Desa &nbsp;Gugop &nbsp;dapat dijumpai &nbsp;sebuah &nbsp;pantai &nbsp;yang &nbsp;tak &nbsp;kalah &nbsp;indahnya&nbsp; dengan &nbsp;Pantai &nbsp;Lambaro, &nbsp;yang dinamai oleh penduduk setempat Pantai Balu. Pantai ini merupakan salah satu primadona di Pulau Breueh Selatan, namun karena letaknya yang agak jauh membuat pantai ini lebih jarang dikunjungi orang, sehingga pantai ini relatif lebih bersih dari pantai Lambaro.</p>
+<p style="margin-left: 8.15pt; text-align: justify;">
+	Selain kedua pantai tersebut masih ada beberapa pantai lagi antara lain yang terletak di Alue Raya dan Meulingge &nbsp;yang juga tak kalah indahnya. Ombak di pantai sekitar &nbsp;Pulau &nbsp;Breueh&nbsp; cukup&nbsp; besar, sehingga&nbsp; sangat &nbsp;cocok &nbsp;bagi &nbsp;wisatawan yang&nbsp;&nbsp; &nbsp;menyukai&nbsp;&nbsp; &nbsp;olahraga&nbsp;&nbsp; &nbsp;berselancar. Selain itu wisata bahari lainnya yang sangat berpotensi untuk dikembangkan adalah wisata memancing, mengingat perairan di sekitar pulau ini sangat kaya akan jenis ikan.</p>
+<p style="margin-left: 8.15pt; text-align: justify;">
+	<strong>Sarana Sanitasi Lingkungan</strong></p>
+<div>
+	<p style="text-align: justify;">
+		Sarana dan &nbsp;prasarana &nbsp;sanitasi &nbsp;lingkungan &nbsp;di &nbsp;Pulo &nbsp;Breueh &nbsp;sudah cukup memadai. Hal ini&nbsp; &nbsp;terlihat&nbsp; &nbsp;dari&nbsp; &nbsp;adanya&nbsp; &nbsp;saluran/parit yang dibangun dengan menggunakan PNPM mandiri. Pembuatan saluran air dan drainase sangat penting bagi penduduk pulau ini, karena selain untuk pembuangan air limbah rumah tangga, juga untuk mengurangi genangan air dijalan yang sering terjadi tiap hujan dan air pasang. &nbsp;Dilain sisi &nbsp;ketersediaan &nbsp;tempat &nbsp;MCK juga &nbsp;sudah &nbsp;ada &nbsp;di masing-masing gampong yang dapat digunakan oleh masyarakat Pulo Breueh. Adanya sarana MCK ini sangat membantu masyarakat yang belum memiliki tempat MCK di rumahnya. Perkampungan yang memiliki sarana sanitasi lingkungan tentu saja akan memberikan dampak positif bagi kesehatan masyarakat. Karena keberadaan sarana ini dapat menghindari penyakit-penyakit kulit yang disebabkan karena genangan air yang &nbsp;tidak &nbsp;tersalurkan.</p>
+	<p style="margin-left: 8.1pt; text-align: justify;">
+		<strong>Sarana Perikanan Kelautan</strong></p>
+	<p style="margin-left: 8.1pt; text-align: justify;">
+		Sarana perikanan dan &nbsp;kelautan sangat&nbsp; menunjang aktivitas yang berhubungan dengan perikanan tangkap, budidaya maupun pengolahan dan pengawetan. Ketersediaan sarana ini sangat diharapkan masyarakat khususnya yang ada di Pulo Breueh. Karena sampai saat ini sarana perikanan dan kelautan yang terdapat di Pulo Breueh masih sangat minim. Demi keberlanjutan kegiatan perikanan di Pulo Breueh perlu adanya dukungan dari semua pihak, mengingat potensi perikanan di Pulau ini sangat besar. Hal ini terlihat dari banyaknya ikan-ikan ekonomis penting yang berhasil ditangkap dari daerah ini. Ikan-ikan tersebut merupakan ikan-ikan karang.</p>
+	<p style="margin-left: 8.1pt; text-align: justify;">
+		Berdasarkan hasil pengamatan yang telah dilakukan selama di lapangan, ada beberapa sarana perikanan kelautan yang terdapat di Pulo Breueh. Namun sarana perikanan kelautan yang berhasil diidentifikasi hanyalah berupa dermaga/jeti. Namun untuk jenis sarana yang lainnya seperti pabrik es, Tempat Pelelangan Ikan (TPI) belum ada disana. Hal ini mungkin disebabkan karena jarak dari Pulo ini sangat dekat dengan tempat pelelangan ikan yang di Lampulo dan pelabuhan perikanan pantai Lampulo. Berikut ini gambar dermaga tempat kapal-kapal nelayan berlabuh sebelum melakukan penangkapan.</p>
+</div>
+<p style="margin-left:8.15pt;">
+	&nbsp;</p>
+<p>
+	&nbsp;</p>
+<p>
+	&nbsp;</p>
+</div></p>
+
+<hr>
+
+<h2><a id="pi">Peluang Investasi</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<h2><a id="pap">Potensi dan Arahan Pengembangan</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<h2><a id="kp">Kendala Pengembangan</a></h2>
+<p><div class="readmore"><div>
+	<p style="margin-left: 8.1pt; text-align: justify;">
+		<strong>K</strong><strong>endala Pengembangan Pulau</strong></p>
+	<p style="margin-left: 8.1pt; text-align: justify;">
+		Pulo Breueh sebenarnya memiliki beberapa potensi yang dapat dikembangkan, tetapi sampai saat ini belum banyak pihak yang tertarik untuk berinvestasi di Pulo Breueh. &nbsp;Ada &nbsp;beberapa &nbsp;kendala &nbsp;dan &nbsp;permasalahan &nbsp;pengembangan&nbsp; Pulo &nbsp;Breueh, antara lain:</p>
+	<p style="margin-left: 8.1pt; text-align: justify;">
+		1. Kendala Transportasi</p>
+	<p style="margin-left: 22.25pt; text-align: justify;">
+		Letak Pulo Breueh sebenarnya tidak terlalu jauh dari kota Banda Aceh. Namun karena akses menuju pulau tersebut harus melalui transportasi air berupa kapal kecil sekitar 25 GT, hal inilah yang menyebabkan pulau ini sulit berkembang. Selain itu diperparah lagi dengan frekuensi kapal yang berangkat ke menuju Pulo Breueh hanya satu kali stu hari.</p>
+	<p style="margin-left: 8.1pt; text-align: justify;">
+		2. Kendala Telekomunikasi</p>
+	<p style="margin-left: 22.25pt; text-align: justify;">
+		Untuk memperlanjar akses komunikasi ke Pulo Breueh, keberadaan sarana komunikasi memegang peranan yang penting. Sarana komunikasi yang dapt dilakukan di pulau ini adalah melalui telepon genggam dengan kartu operator dari indosat, namun pada saat-saat tertentu sering mengalami kehilangan signal.</p>
+	<p style="margin-left: 8.1pt; text-align: justify;">
+		3. Sarana dan Prasarana Perhubungan</p>
+	<p style="margin-left: 22.25pt; text-align: justify;">
+		Masih ada beberapa ruas jalan yang rusak yaitu yang menghubungkan Gampong Meulingge dengan Rhinon. Jalan tersebut berupa batu kerikil yang belum diaspal. Selain itu ruas jalan yang rusak dengan kondisi aspal yang menglupas &nbsp;terdapat di Gampong Deudap menuju Gampong Lampuyang.</p>
+	<p style="margin-left: 8.1pt; text-align: justify;">
+		4. Material Bangunan</p>
+	<p style="margin-left: 22.25pt; text-align: justify;">
+		Keterbatasan material yang dapat dijadikan bahan bangunan, yang dapat menghambat&nbsp; &nbsp;proses&nbsp;&nbsp; pembangunan&nbsp;&nbsp; saran&nbsp;&nbsp; dan&nbsp;&nbsp; prasarana&nbsp;&nbsp; pendukung&nbsp; &nbsp;untuk investasi.</p>
+	<p style="margin-left: 22.25pt; text-align: justify;">
+		5. &nbsp;Belum adanya promosi wisata yang memadai, &nbsp;pendanaan serta badan wisata di Pulo Breueh untuk mendatangkan para investor serta wisatawan.</p>
+</div>
+<p style="margin-left: 22.25pt; text-align: justify;">
+	6. Masih kurangnya skill para penduduk dalam teknologi dan manajemen budidaya perikanan laut.</p>
+<p style="margin-left: 22.25pt; text-align: justify;">
+	7. Perusakan&nbsp;&nbsp; karang&nbsp; &nbsp;dan&nbsp; &nbsp;penangkapan&nbsp; &nbsp;ikan&nbsp;&nbsp; dan&nbsp; &nbsp;binatang&nbsp; &nbsp;laut&nbsp; &nbsp;lain&nbsp; &nbsp;dengan menggunakan potas dan kompresor sehingga jumlah ikan menurun karena ikan yang masih kecil pun ikut ditangkap selain itu terumbu karang sebagai habitat ikan- ikan tersebut turut mati.</p>
+<p style="margin-left: 22.25pt; text-align: justify;">
+	8. Belum &nbsp;adanya&nbsp; usaha&nbsp; maupun&nbsp; program &nbsp;yang&nbsp; memadai&nbsp; dari&nbsp; pemerintah&nbsp; untuk merehabilitasi ekosistem mangrove dan terumbu karang yang ada di sekitar Pulo Breueh, padahal kedua ekosistem ini sangatlah penting bagi kehidupan biota dan juga masyarakat setempat.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="rf">Referensi</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<br />
+	<i> 
+		<p style="font-size:12px;">
+			Karena keterbatasan SDM dalam penginputan dan pengolahan data, kami mohon maaf atas ketidak lengkapan beberapa data pulau yang kami tampilkan, harap dimaklumi.
+			Berikan keritik dan saran pada kolom komentar agar kita dapat bersama menyajikan sebuah data yang cukup sempurna untuk halayak ramai yang berguna
+			demi kesejahterahan, kelestarian dan keindahan pulau-pulau kecil yang dimiliki Indonesia.<br />
+			*Jika sekiranya anda memiliki data yang cukup banyak, silakan mengirimkan file melalui email kami di <b><a>identifikasippk@gmail.com</a></b>
+			
+		</p>
+	</i>
+<br />
+
+<div id="fb_comn" class="fb-comments" data-href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_info/922" data-width="800" data-numposts="5" data-colorscheme="light"></div>
+
+
+</div>
+</div>
+</div>
+<div id="wrapper">
+
+<div class="footer"><p>
+<!--<marquee onmouseover="this.stop()" onmouseout="this.start()" scrollamount="5" direction="right" width="798" height="14"  behavior="scroll">-->
+<a href="http://www.ppk-kp3k.kkp.go.id/" target="_blank">Direktorat Pendayagunaan Pulau-Pulau Kecil &nbsp; | &nbsp;</a>
+<a href="http://www.kp3k.kkp.go.id/" target="_blank">Ditjen Kelautan, Pesisir dan Pulau-Pulau Kecil &nbsp; | &nbsp;</a>
+<a href="http://www.kkp.go.id/" target="_blank">Kementerian Kelautan dan Perikanan</a>
+<!--</marquee>--> <br />
+Jl. Medan Merdeka Timur No. 16 Gedung Mina Bahari 3 Lantai 10, Jakarta, Indonesia <br />
+Email : identifikasippk@gmail.com <br />
+Telp &amp; Fax: (021) 3522058 <br />
+&copy; Copyright Direktorat Pendayagunaan Pulau-Pulau Kecil 2012&nbsp; <br /></p>
+</div>
+</div>
+</body>
+</html>

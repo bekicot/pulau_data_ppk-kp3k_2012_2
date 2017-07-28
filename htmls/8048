@@ -1,0 +1,538 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Pulau Liangliang</title>
+
+<meta charset="utf-8"/>
+
+<meta property="fb:app_id" content="559408774147878" />
+
+
+<meta property="og:title" content="Pulau Liangliang" />
+<meta property="og:url" content="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_info/8048" />
+
+
+    <script type="text/javascript" src="http://ajax.microsoft.com/ajax/jquery/jquery-1.4.4.min.js">
+    </script>
+    
+    <script type="text/javascript" src="http://plugins.learningjquery.com/expander/jquery.expander.js">
+    </script>
+    
+    <script type="text/javascript">
+        $(function () {
+            $('div.readmore').expander({
+                slicePoint:200,
+                expandText: '(Baca selengkapnya)',
+                userCollapseText: '(Sembunyikan selengkapnya)'
+            });
+        });
+    </script>
+        
+	<script src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/galleria/galleria-1.2.8.min.js"></script>
+
+        <SCRIPT TYPE="text/javascript">
+            <!--
+            //Disable right click script
+            //visit http://www.rainbow.arch.scriptmania.com/scripts/
+            var message="Sorry, right-click has been disabled";
+            ///////////////////////////////////
+            function clickIE() {if (document.all) {(message);return false;}}
+            function clickNS(e) {if
+            (document.layers||(document.getElementById&&!document.all)) {
+            if (e.which==2||e.which==3) {(message);return false;}}}
+            if (document.layers)
+            {document.captureEvents(Event.MOUSEDOWN);document.onmousedown=clickNS;}
+            else{document.onmouseup=clickNS;document.oncontextmenu=clickIE;}
+            document.oncontextmenu=new Function("return false")
+            // -->
+            </SCRIPT>
+            
+            <SCRIPT TYPE="text/javascript">
+            <!--
+            //Disable select-text script (IE4+, NS6+)
+            //visit http://www.rainbow.arch.scriptmania.com/scripts/
+            ///////////////////////////////////
+            function disableselect(e){
+            return false
+            }
+            function reEnable(){
+            return true
+            }
+            //if IE4+
+            document.onselectstart=new Function ("return false")
+            //if NS6
+            if (window.sidebar){
+            document.onmousedown=disableselect
+            document.onclick=reEnable
+            }
+            // -->
+            </SCRIPT>  
+              
+<link rel="stylesheet" type="text/css" href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/css/main.css" media="screen"/>
+<style type='text/css'>
+#info_wrap{
+	width:820px;
+	margin:0 auto;
+	text-shadow:0px 1px 1px #09F;
+}
+table{
+	color:#000000;
+}
+h1{
+	color:#000000;
+}
+.tengahin{
+	width: 105px;
+	height: 30px;
+	margin: 0 auto auto auto;
+}
+#box_view{
+	background-image:-webkit-gradient(linear, 0 0%, 0 100%, from(#FFFFFF), to(#E0F0F5));
+	background:#FFF;
+	color:#F60;
+	border: 1px solid #fff;
+	border-radius: 4px 4px 4px 4px;
+	box-shadow: 0 8px 6px -6px black;
+	position:fixed;
+	right:0;
+	top:150px;;
+	width:80px;
+	z-index:10;
+	padding-left:12px;
+	font-size:10px;
+	}
+#box_view li{
+	color:#F60;
+	margin-left:-30px;
+	}
+	#wrapper a b {
+	color: #FFF;
+	font-size:14px;
+}
+.batas{
+	float:left;
+	border-right-style:inset;
+	border-right-width:thin;
+	}
+.text_h_wrap{
+	
+	padding-left:450px;
+	padding-top:39px;
+	text-shadow:0px 1px 1px #09F;
+	}
+#wrapper .footer p{
+	font-size:12px;
+	color: #FFF;
+	text-align:center;
+	text-shadow:0px 1px 1px #09F;
+}
+td,th {
+	font-size: 12px;
+}
+
+marquee a{
+	color:#FFF
+	}
+#wrapper .footer a{
+	color: #FFFFFF;
+}
+</style>
+            
+<script>
+function goBack()
+  {
+  window.history.back()
+  }
+</script>
+<script type="text/javascript">
+function Popup( url, height, width )
+{
+    var windowProperties = "toolbar = 0, scrollbars = 1, location = 0, statusbar = 0, menubar = 0, resizable = 1, width = " + width + ", height = " + height + ", left = 50, top = 50";
+ 
+    return window.open( url, "", windowProperties );
+}
+</script>
+
+
+
+</head>
+<body oncontextmenu='return false;' onkeydown='return false;' onmousedown='return false;'>
+
+<a id="top_view"></a>
+<div id="wrapper">
+<div class="header_wrap">
+<div class="text_h_wrap">
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/home_page'><b>&nbsp;Home&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/menu_info/1'><b>&nbsp;About Us&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_data'><b>&nbsp;Direktori Pulau&nbsp;&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/program_ip'><b>&nbsp;IKU&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/data_ppkt'><b>&nbsp;PPKT&nbsp;</b></a>
+</div>
+<!--<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/maintenance'><b>&nbsp;Login&nbsp;</b></a>-->
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/dir_log_cont'><b>&nbsp;Login&nbsp;</b></a>
+
+</div>
+</div>
+</div>
+
+<div id="fb-root"></div>
+<script>
+  window.fbAsyncInit = function() {
+    // init the FB JS SDK
+    FB.init({
+      appId      : '559408774147878',                        // App ID from the app dashboard
+      status     : true,                                 // Check Facebook Login status
+      xfbml      : true                                  // Look for social plugins on the page
+    });
+
+    // Additional initialization code such as adding Event Listeners goes here
+  };
+
+  // Load the SDK asynchronously
+  (function(){
+     // If we've already installed the SDK, we're done
+     if (document.getElementById('facebook-jssdk')) {return;}
+
+     // Get the first script element, which we'll use to find the parent node
+     var firstScriptElement = document.getElementsByTagName('script')[0];
+
+     // Create a new script element and set its id
+     var facebookJS = document.createElement('script'); 
+     facebookJS.id = 'facebook-jssdk';
+
+     // Set the new script's source to the source of the Facebook JS SDK
+     facebookJS.src = '//connect.facebook.net/en_US/all.js';
+
+     // Insert the Facebook JS SDK into the DOM
+     firstScriptElement.parentNode.insertBefore(facebookJS, firstScriptElement);
+   }());
+</script>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=559408774147878";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="box_view">
+    <a href="#top_view">MENU</a>
+    <h3><p>Lihat Informasi:</p></h3>
+    <ul>
+	<a href="#sf"><li>Slide Foto</li></a>
+    <a href="#gu"><li>Gambaran Umum</li></a>
+    <a href="#ksbk"><li>Kependudukan, Sosial Budaya dan Kelembagaan</li></a>
+    <a href="#eshp"><li>Ekosistem dan Sumberdaya Hayati</li></a>
+    <a href="#snh"><li>Sumberdaya Non Hayati</li></a>
+    <a href="#aps"><li>Aktivitas Pengelolaan Sumberdaya</li></a>
+    <a href="#ling"><li>Lingkungan</li></a>
+    <a href="#sp"><li>Sarana dan Prasarana</li></a>
+    <a href="#pi"><li>Peluang Investasi</li></a>
+    <a href="#pap"><li>Potensi Arahan Pengembangan</li></a>
+    <a href="#kp"><li>Kendala Pengembangan</li></a>
+	<a href="#rf"><li>Referensi</li></a>
+    </ul>
+    <a href="#fb_comn">KOMENTAR</a>
+</div>
+
+<br>
+			<a id="sf"></a></h2>
+			<div id="galleria">
+            <!--<div class='tengahin'><input type="button" value="Kembali Ke List" onclick="goBack()"></div>-->
+                            </div>
+            
+            <script>
+            Galleria.loadTheme('http://www.ppk-kp3k.kkp.go.id/direktori-pulau/galleria/themes/classic/galleria.classic.min.js');
+            Galleria.run('#galleria');
+            </script>
+</div>
+
+<div id="text_warp">
+
+
+<p><h1>Liangliang</h1></p>
+<table>
+<tr>
+	<td>Nama Lain</td> <td>:</td> <td></td>
+</tr>
+<tr>
+	<td>Propinsi</td> <td>:</td> <td>SULAWESI SELATAN</td>
+</tr>
+<tr>
+	<td>Kabupaten</td> <td>:</td> <td>KABUPATEN SINJAI</td>
+</tr>
+<tr>
+	<td>Kecamatan</td> <td>:</td> <td></td>
+</tr>
+<tr>
+	<td>Koordinat</td> <td>:</td> <td><a href="http://www.ppk-kp3k.kkp.go.id/giskkp/index.html?extent="target="_blank">5° 8' 19.000</a></td>
+</tr>
+</table>
+<hr>
+
+<h2><a id="gu">Gambaran Umum</a></h2>
+<p><div class="readmore"><p style="text-align: justify;">
+	<strong>Kondisi Umum Pulau</strong></p>
+<p style="margin-left: 14.2pt; text-align: justify;">
+	Pulau Liangliang terletak di Kabupaten Sinjai, Provinsi Sulawesi Selatan. Pulau ini merupakan pulau yang berpenduduk. Pulau Liangliang masuk dalam Desa Pulau Harapan, Kecamatan Pulau Sembilan, Kab. Sinjai, Sulawesi Selatan. Ibu kota kecamatan Pulau Sembilan terdapat di P. Kambuno.</p>
+<p style="margin-left: 14.2pt; text-align: justify;">
+	Berdasarkan posisi goegrafis, Pulau Liangliang terletak pada posisi 5&deg;8&#39; 19,000&quot; LS dan 120&deg;23&#39; 50.000&quot; BT. Batas wilayah Pulau Liangliang berbatasan langsung dengan pulau disekitarnya, yaitu sebelah timur adalah Teluk Bone, sebelah utara adalah Pulau Burungloe, sebelah barat adalah daratan Pulau Sulawesi (tepatnya Kab. Sinjai) dan sebelah selatan adalah masih dalam kawasan Teluk Bone.</p>
+<p style="margin-left: 14.2pt; text-align: justify;">
+	Sebagai gambaran umum bahwa Pulau Liangliang adalah pulau berbukit dengan tingkat kemiringan sekitar 30<sup>o</sup>, tidak memiliki hamparan pantai, tetapi merupakan pantai curam berbatu. Di pulau ini tidak ditemukan vegetasi mangrove, hal ini disebabkan sebagian besar pantai curam berupa bebatuan yang kurang memungkinkan untuk tumbuh vegetasi mangrove. Di sepanjang tepi pulau sebagian besar merupakan bangunan pondasi rumah nelayan.</p>
+<p style="margin-left: 14.2pt; text-align: justify;">
+	<strong>Aksesibilitas</strong></p>
+<p style="margin-left: 14.2pt; text-align: justify;">
+	Untuk menuju P. Liangliang dapat dicapai melalui pelabuhan Capa&rsquo; Ujung, Sinjai dengan menggunakan 2 (dua) alternative, yaitu dengan speed boat dan kapal nelayan. Apabila menggunakan speed boat dengan kapasitas maksimal 8 orang (termasuk nahkoda) dapat ditempuh dalam waktu sekitar 30 menit. Apabila menggunakan kapal nelayan kemungkina memakan waktu sekitar 1 jam perjalanan. Hal yang perlu diperhatikan apabila akan menuju ke P. Liangliang adalah waktu (timing), dimana jam aman untuk menuju kesana adalah pada jam 06.00 &ndash; 12.00 WITA. Sebab pada saat jam tersebut kondisi perairan masih pasang, sehingga ujung muara sungai pelabuhan Capa&rsquo; Ujung masih mudah untuk dilalui kapal. Akan tetapi setelah jam 12.00 WITA perairan akan surut, sehingga ujung muara sungai sulit untuk ditembus kapal, serta semakin surut, maka gelombang akan semakin besar. Kondisi seperti ini sering terjadi kecelakaan kaal tenggelam.</p>
+<p style="margin-left:14.2pt;">
+	&nbsp;</p>
+</div></p>
+
+<hr>
+
+<h2><a id="ksbk">Kependudukan, Sosial Budaya dan Kelembagaan</a></h2>
+<p><div class="readmore"><p style="text-align: justify;">
+	<strong>Kependudukan, Sosial, Budaya, Ekonomi, dan Kelembagaan</strong></p>
+<p style="margin-left: 14.2pt; text-align: justify;">
+	Masyarakat Desa Pulau Harapan yang terdapat di P. Liangliang sebagian besar adalah sebagai nelayan pancing tradisional. Mereka memancing hanya di sekitar perairan P. Liangliang dan Teluk Bone. Berbeda dengan nelayan P. Burungloe yang memangkap ikan dan memancing sampai ke perairan kupang dan sekitarnya. Jumlah penduduk P. Liangliang sekitar 550 jiwa. Masyarakat khususnya ibu-ibu sangat menginginkan adanya pemberdayaan bagi ibu-ibu dalam pengolahan hasil perikanan, dan atau pemberdayaan matapencaharian alternatif. Hal ini disebabkan manakala nusim sedang tidak memungkinkan para suami mereka untuk melaut, maka mereka tidak mempunyai penghasilan. Dengan demikian diperlukan matapencaharian alternatif bagi ibu-ibu nelayan P. Liangliang.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="eshp">Ekosistem dan Sumberdaya Hayati</a></h2>
+<p><div class="readmore"><p style="text-align: justify;">
+	<strong>Ekosistem dan Sumberdaya Hayati Pesisir</strong></p>
+<ol style="list-style-type:lower-alpha;">
+	<li style="text-align: justify;">
+		<strong>Terumbu Karang</strong></li>
+</ol>
+<p style="text-align: justify;">
+	Terumbu Karang di Pulau Liangliang hidup di kedalaman sekitar 2-6 meter. Jenis karang yang tumbuh bermacam-macam dari karang Acropora maupun Non-Acropora. Lokasi pengambilan data terumbu karang di Pulau Liangliang berada di satu lokasi Barat Pulau Liangliang.</p>
+<p style="text-align: justify;">
+	<strong>Kondisi Penutupan Substrat Dasar Secara Umum</strong></p>
+<p style="text-align: justify;">
+	Substrat Dasar perairan di Pulau Liangliang pada lokasi pengamatan cukup beragam, yakni: karang hidup; abiotik seperti pasir dan patahan karang; karang mati seperti <em>Death Coral</em> (DC) dan <em>Death Coral with Algae</em> (DCA); Biotik seperti spons dan ascidian; serta Alga seperti Makro Alga.</p>
+<p style="text-align: justify;">
+	<strong>Kondisi Penutupan Substrat Dasar di Barat Pulau Liangliang</strong></p>
+<p style="text-align: justify;">
+	Kontur kedalaman di Barat Pulau Liangliang adalah landai dengan terumbu karang yang hidup di tepi mengelilingi Pulau. Subtrat dasar didominasi karang keras hidup, dan kecerahan perairan yang buruk akibat sedimen pasir berlumpur yang mudah tersuspensi. Persentase penutupan karang hidup pada Lokasi Barat Pulau Liangliang adalah 54,70%, termasuk dalam kriteria Baik (Gomes dan Yap 1988). Penutupan kategori substrat abiotik yang cukup besar sebesar 12,14% dan penutupan kategori biotik 0,72%. Kategori substrat karang mati sebesar 32,30% dan kategori Alga sebesar 0,14%.</p>
+<p style="text-align: justify;">
+	<strong>Tingkat Kerusakan dan Penyebab Utama</strong></p>
+<p style="text-align: justify;">
+	Eksistensi ekosistem terumbu karang menjadi suatu hal yang substansial dalam kawasan wilayah pesisir dan lautan terutama pulau-pulau kecil yang sangat tergantung pada kondisi ekosistem tersebut disamping ekosistem mangrove dan lamun. Faktor-faktor penyebab kerusakan dapat berasal dari alam dan non-alam (anthropogenik).</p>
+<p style="text-align: justify;">
+	<strong>Permasalahan Utama Pengelolaan Kawasan Terumbu Karang</strong></p>
+<p style="text-align: justify;">
+	Kondisi Terumbu Karang di Pulau Liangliang dipengaruhi oleh sedimentasi dan nutrien. Kebiasaan para nelayan setempat maupun nelayan dari luar wilayah pulau yang membuang sampah di Laut. Di Kepulauan Sembilan termasuk Pulau Liangliang untuk penangkapan ikan ada yang tidak ramah lingkungan seperti penggunaan bom dan racun/potassium. Pendidikan konservasi dan penyuluhan terhadap masyarakat penduduk khususnya nelayan seharusnya diadakan untuk dapat mencegah kerusakan dan meningkatkan kelestarian ekosistem pesisir yang ada di Pulau Liangliang. Pembentukan pengawas masyarakat perlu diadakan untuk mengawasi kawasan perairan apabila ada nelayan yang mengambil ikan dengan cara destruktif.</p>
+<p style="text-align: justify;">
+	<strong>Status Kawasan</strong></p>
+<p style="text-align: justify;">
+	Melalui tata ruang wilayah pesisir dan lautan di perairan Pulau Liangliang belum ada tercatat dalam status kawasan apapun. Perlu adanya perhatian dari pemerintah dan masyarakat setempat kelestarian terhadap lingkungan pesisir dan lautan di Pulau Liangliang agar mengurangi tingkat kerusakan ekosistem pesisir.</p>
+<p style="text-align: justify;">
+	<strong>Biota Asosiasi yang Ditemukan di Pulau Liangliang</strong></p>
+<p style="text-align: justify;">
+	Beberapa biota asosiasi yang ditemukan di Pulau liangliang baik sebagai indikator maupun mayor. Indikator sebagai indikasi kerusakan terumbu karang baik invasi maupun predasi. Mayor sebagai pengisi pada rantai makanan di ekosistem terumbu karang.</p>
+<p style="text-align: justify;">
+	<strong>B. Ikan karang</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<h1 style="text-align: justify;">
+	Barat Pulau Liangliang</h1>
+<p style="text-align: justify;">
+	Hasil pengamatan ikan terumbu di sisi barat pulau Liangliang yaitu menunjukkan indeks nilai keanekaragaman (H&rsquo;) berada pada kategori tinggi sebesar 3,008. Indeks nilai keseragaman (E&rsquo;) dihitung guna menunjukkan kategori kestabilan komunitas berdasarkan perbandingan banyaknya jumlah individu dengan jumlah jenis yang teramati. Semakin merata penyebaran jumlah individu tiap jenis maka semakin tinggi nilai yang ditunjukan indeks keseragaman. Komunitas ikan terumbu di sisi barat pulau Liangliang tergolong dalam kategori stabil sebesar 0,9127. Nilai indeks Dominansi (C&rsquo;) dengan nilai Indeks keseragaman akan berbanding terbalik. Semakin tinggi nilai indeks keseragaman maka akan semakin rendah nilai indeks dominansi yang didapatkan. Dari hasil pengamatan di pulau Liangliang, tidak ditemukan adanya dominansi dari jenis ikan terumbu dimana nilai indeks dominasi sebesar 0,0692.</p>
+<p style="text-align: justify;">
+	Ikan terumbu yang teramati di bagian barat pulau Liangliang sebanyak 27 jenis yang berasal dari 10 famili berbeda. Ikan yang berasal dari famili Pomacentridae merupakan jenis ikan yang sering ditemukan di barat terutama untuk jenis <em>Neoglyphidodon crossi </em>dengan kelimpahan sebesar 720 ind/ha. Ikan jenis ini seringkali terlihat mendominasi karena jenis ikan ini cenderung menempati daerah terumbu karang yang bercabang dan tidak memiliki daerah ruaya yang luas. Jenis ikan terumbu lainnya yang banyak ditemukan di Barat untuk famili Pomacentridae adalah <em>Neopomacentrus azysron </em>dengan kelimpahan 640 ind/ha disusul dengan jenis <em>Pomacentrus moluccensis </em>yang dengan kelimpahan 360 ind/ha.</p>
+<p style="text-align: justify;">
+	Kepadatan terbesar kedua dimiliki oleh ikan famili Apogonthidae dengan jenis yang paling sering dijumpai adalah jenis <em>Sphaeramia nematoptera </em>dengan kepadatan sebesar 600 ind/ha. Kepadatan tertinggi di sisi Barat pulau ini tergolong kedalam kelompok ikan mayor dan ikan indikator.</p>
+<p style="text-align: justify;">
+	Kelompok ikan selanjutnya yang ditemukan adalah kelompok ikan target dimana jenis famili yang dijumpai di Barat pulau Liangliang adalah Siganidae dan Scaridae,. Hasil yang didapat dari pengamatan selanjutnya diolah guna melihat biomassa yang terkandung dalam setiap jenis ikan tangkapan para nelayan. Biomassa terbesar dimiliki oleh ikan jenis <em>Siganus virgatus </em>yaitu sebesar 7,08 kg/ha kemudian disusul oleh jenis <em>Scarus niger</em> dengan biomassa sebesar 6.57 kg/ha. Jenis ikan <em>Scarus rivulatus</em> merupakan jenis ikan yang memiliki biomassa terkecil yaitu sebesar 3,28 kg/ha.</p>
+<p align="center">
+	&nbsp;</p>
+</div></p>
+
+<hr>
+
+<h2><a id="snh">Sumberdaya Non Hayati</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<h2><a id="aps">Aktivitas Pengelolaan Sumberdaya</a></h2>
+<p><div class="readmore"><p style="text-align: justify;">
+	<strong>Perikanan Tangkap</strong></p>
+<p style="margin-left: 21.3pt; text-align: justify;">
+	Perairan yang strategis karena berada pada bibir Teluk Bone dan adanya kawasan Pulau pulau Sembilan, yang dilalui arus dari Laut Flores menuju Teluk Bone, demikian pula sebaliknya, merupakan kawasan yang potensial dijadikan sebagai area penangkapan ikan pelagis maupun demersal ditambah lagi sarana Pusat Pendaratan Ikan di Lappa merupakan daya dukung dalam peningkatan produksi hasil perikanan laut di P. Liangliang, Kab. Sinjai. Para nelayan di P. Liangliang adalah nelayan pancing dan nelayang tongkol. Untuk mencari ikan tongkol biasanya mereka sampai ke peraitan Kupang, Selayar bahkan sampai ke perbatasan Australia.</p>
+<p style="text-align: justify;">
+	<strong>Pengolahan Hasil dan Budidaya Perikanan</strong></p>
+<p style="margin-left: 21.3pt; text-align: justify;">
+	<strong>Perikanan Budidaya</strong></p>
+<p style="margin-left: 21.3pt; text-align: justify;">
+	Sebagian kecil nelayan malakukan budidaya rumput laut, akan tetapi aktifitas budidaya ini sedikit yang melakukannya. Sebagian besar mereka adalah nelayan tangkap ikon tongkol dan nelayan pancing di sekitar kawasan Teluk Bone.</p>
+<p style="margin-left: 21.3pt; text-align: justify;">
+	Nelayan P. Liangliang kurang begitu banyak memanfaatkan pengolahan hasil perikanan, akan tetapi ada juga yang membuat ikan asin, walaupun jumlahnya sangat sedikit.</p>
+<p style="text-align: justify;">
+	<strong>Pariwisata</strong></p>
+<p style="margin-left: 21.3pt; text-align: justify;">
+	Sektor pariwisata di P. Liangliang kurang dikembangkan. Ada potensi yang cukup menarik untuk dikunjungi yaitu pantai dengan bebatuan yang sangat menarik untuk dijadikan tempat pariwisata.</p>
+<p style="text-align: justify;">
+	<strong>Aktifitas PengelolaanSumberdaya</strong></p>
+<p style="margin-left: 21.3pt; text-align: justify;">
+	<strong>Pertanian</strong></p>
+<p style="margin-left: 21.3pt; text-align: justify;">
+	Dikarenakan kontur P. Liangliang yang berbukit dengan jenis substrat adalah batu, maka tidak banyak lahan pertanian yang dimanfaatkan oleh nelayan. Kemiringan bukit berbatu seperti gunung hampir 45<sup>o </sup>.</p>
+<p style="margin-left: 21.3pt; text-align: justify;">
+	<strong>Peternakan</strong></p>
+<p style="margin-left: 21.3pt; text-align: justify;">
+	Tidak dijumpai peternakan yang signifikan dilakukan ole masyarakat P. Liangliang, walaupun ada hanya sekedar memelihara ayam dan bebek sebagai peliharaan konsumsi sendiri.</p>
+<p style="margin-left: 21.3pt; text-align: justify;">
+	<strong>Perkebunan </strong></p>
+<p style="margin-left: 21.3pt; text-align: justify;">
+	sama seperti pertanian, pekebunan di P. Liangliang juga relatif sedikit. Hal ini disebabkan tektur tanahnya yang berbatu sehingga sulit untuk melakukan aktifitas perkebunan.</p>
+<p style="margin-left: 21.3pt; text-align: justify;">
+	<strong>Kehutanan</strong></p>
+<p style="margin-left: 21.3pt; text-align: justify;">
+	Sekitar 90 % wilayah P. Liangliang adalah hutan alami dengan berbagai macam jenis pohon. Hutan alami tersebut mulai batas perakmpungan nelayan sampai ke arah bukit adalah hutan alami.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="ling">Lingkungan</a></h2>
+<p><div class="readmore"><p style="text-align: justify;">
+	<strong>Kualitas Perairan</strong></p>
+<p style="text-align: justify;">
+	Peranan kualitas perairan dalam kegiatan perikanan di suatu wilayah sangat penting untuk dijaga kestabilannya. Aktivitas pesisir dan pulau-pulau disekitarnya sangat mempengaruhi dampak dari kestabilan lingkungan perairan. Salah satu kegiatan perikanan yang sangat tergantung yakni kegiatan budidaya. Budidaya laut merupakan salah satu usaha perikanan dengan cara pengembangan sumber-dayanya dalam area terbatas baik di alam terbuka maupun tertutup. Tempat untuk budidaya laut, demikian pula untuk air tawar, harus mempunyai fasilitas alami tertentu, terutama persediaan air yang sangat cukup, dengan suhu, salinitas dan kesuburan yang sesuai.</p>
+<p style="text-align: justify;">
+	Pada&nbsp; lokasi pengamatan ini yaitu Pulau Liangliang merupakan pulau yang terpengaruh aktivitas pesisir yang besar. Kekeruhan perairan di lokasi ini terkadang tinggi pada saat musim hujan, dan sedimentasi berbanding lurus terhadap kondisi kekeruhan. Masukan dari muara sungai dan pesisir perlu ada upaya khusus dari pemerintah untuk dapat&nbsp; diminimalisirkan. Siltasi tidak hanya membahayakan ikan tetapi juga menyebabkan air tidak produktif karena menghalangi masuknya sinar matahari untuk fotosintesa.</p>
+<p style="text-align: justify;">
+	Pengukuran insitu dilapanganyakni suhu perairan Pulau Pulau Liangliang sebesar 30,7-31,4<sup>0</sup>C. ph airl laut Pulau Liangliang sebesar 7,8. Oksigen terlaut (DO) pada Pulau Liangliang sebesar 6,7-6,8mg/L. Dan salinitas Pulau Liangliang sebesar 30,1ppt. Sebagian besar unsur-unsur kimiawi yang diperlukan oleh tumbuh-tumbuhan dan binatang terdapat dalam air laut dalam jumlah lebih dari cukup, sehingga kekurangannya tak perlu dipertimbangkan sebagai faktor ekologi.</p>
+<p style="text-align: justify;">
+	Hasil uji laboratorium bahwa kandungan bahan organik pada Pulau Liangliang memiliki kandungan Amoniak dan Nitrat yang jauh diatas ambang baku mutu (BM). Hasil yang diperoleh, Pulau Liangliang memiliki kandungan amniak 0,315-0,149 mg/L. Kondisi tersebut melebih baku mutu amoniak 0,3 mg/L. Tidak auh dengankandungan nitrat pada kedua pulau masih diatas baku mutu. Kandungan orto fosfat pada Pulau Liangliang masih dalam batas baku mutu. Bila konsentrasi berlebih, senyawa ini memberikan dampak negatif terhadap lingkungan, yaitu berupa:</p>
+<ol>
+	<li style="text-align: justify;">
+		Akumulasi nutrient di badan air sehingga menyebabkan algae blooming. Algae blooming merupakan fenomena blooming fitoplankton toksik di perairan yang dapat menyebabkan kematian biota lain.</li>
+	<li style="text-align: justify;">
+		Senyawa nitrogen sangat penting bagi&nbsp; kebutuhan mahluk hidup sebagai nutrisi dan trace mineral, tetapi bila berlebihan dapat mencemari lingkungan.</li>
+</ol>
+<p style="text-align: justify;">
+	Upaya pengendalian lingkungan perairan di Pulau Liangliang menjadi rekomendasi agar dapat memulihkan kembali. Namun, semua itu perlu dukungan dari aktivitas muara sungai yang membawa muatan dari daratan seperti sampah dan aktivitas pelabuhan. Sedimentasi dan abrasi dari muara di wilayah pesisir sudah memperhatikan, dampaknya kini sudah sampai di Pulau Liangling.</p>
+<p style="text-align: justify;">
+	<strong>Permasalahan Lingkungan</strong></p>
+<p style="text-align: justify;">
+	Permasalahan lingkungan yang sering terjadi adalah aktifitas pengeboman dan pembiusan ikan dan terumbu karang disekitar pantai P. Liangliang. Oknum yang sering melakukan pengeboman bukan dari warga P. Liangliang, akan tetapi berasal dari tetangga pulau, seperti nelayan dari P. Kambuno. Mereka yang melakukan pengeboman dan pembiusan ikan sudah sering diperingatkan oleh nelayan P. Burunloe, akan tetapi sulit untuk dihentikan. Mereka kurang sadar akan kelestarian sumberdaya ikan dan terumbu karang untuk generasi yang akan datang.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="sp">Sarana dan Prasarana</a></h2>
+<p><div class="readmore"><p style="text-align: justify;">
+	<strong>Sarana dan Prasarana</strong></p>
+<p style="text-align: justify;">
+	<strong>A. Sarana Pemerintahan</strong></p>
+<p style="margin-left: 35.45pt; text-align: justify;">
+	Tidak terdapat sarana pendukung pemerintahan, sebab pusat pemerinatah desa terdapat di P. Harapan, dimana P. Liangliang masuk dalam wilayah Desa P. Harapan</p>
+<p style="text-align: justify;">
+	<strong>B. Sarana Kesehatan</strong></p>
+<p style="margin-left: 35.45pt; text-align: justify;">
+	Sarana kesehatan yang terdapat di P. Liangliang diantaranya adalah 1 buah Puskesmas Pembantu (Pustu).</p>
+<p style="text-align: justify;">
+	<strong>C. Sarana ibadah</strong></p>
+<p style="margin-left: 35.45pt; text-align: justify;">
+	Sebagian besar masyarakat P. Liangliang adalah muslim. Sarana peribadatan yang terdapat di Desa Liangliang 1 buah masjid.</p>
+<p style="text-align: justify;">
+	<strong>D. Sarana air bersih </strong></p>
+<p style="margin-left: 35.45pt; text-align: justify;">
+	Sebagian besar masyarakat P. Liangliang menggunakan air tadah hujan untuk kebutuhan sehari-hari. Untuk keperluan mandi, mencuci dan aktifitas MCK, mereka menggunakan air sumur. Tetapi air yang digunakan untuk keperluan memasak, minum dan untuk konsumsi, mereka biasanya membeli air tawar yang didatangkan dari daratan Kab. Sinjai, dimana per gallon harganya sekitar Rp. 3000. Dengan demikian masyarakat P. Liangliang sangat membutuhkan bantuan sarana air bersih/minum untuk memenuhi kebutuhan sehari-hari.</p>
+<p style="text-align: justify;">
+	<strong>E. Sarana Transportasi</strong></p>
+<p style="margin-left: 35.45pt; text-align: justify;">
+	Akses menuju ke P. Liangliang dapat ditempuh dengan menggunakan speed boat dan atau menggunakan kapal nelayan. Untuk aktifitas masyarakat, terdapat jalan setapak yang terdapat diperkampungan, dengan kondisi masih cukup bagus. Jalan setapak hasil dari kegiatan DAK Kab. Sinjai tahun 2012.</p>
+<p style="text-align: justify;">
+	<strong>F. Sarana Pendidikan</strong></p>
+<p style="margin-left: 35.45pt; text-align: justify;">
+	Sarana pendidikan yang ada di P. Liangliang adalah SD sebanyak 1 unit.</p>
+<p style="text-align: justify;">
+	<strong>G. Sarana Penerangan</strong></p>
+<p style="margin-left: 35.45pt; text-align: justify;">
+	Penerangan di P. Liangliang sebagian besar mengunakan listrik dengan sumber dari Genset. Untuk 1 genset biasanya dapat dimanfaatkan dan dialirkan ke 4 s.d 5 rumah. Ada juga genset yang dapat mengaliri sekitar 10 rumah.</p>
+<p style="text-align: justify;">
+	<strong>H. Sarana Tempat Pemakaman Umum</strong></p>
+<p style="margin-left: 35.45pt; text-align: justify;">
+	Terdapat 1 kawasan Tempat Pemakaman Umum yang ada di P. Liangliang.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="pi">Peluang Investasi</a></h2>
+<p><div class="readmore"><p>
+	<strong>Peluang Investasi</strong></p>
+<p style="margin-left:22.5pt;">
+	Peluang investasi yang mungkin cocok untuk dikembangkan adalah budidaya rumput laut.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="pap">Potensi dan Arahan Pengembangan</a></h2>
+<p><div class="readmore"><p>
+	<strong>Potensi Pengembangan</strong></p>
+<p style="margin-left:21.3pt;">
+	Potensi yang bisa dikembangkan di wilayah P. Liangliang adalah pengembangan aktifitas perikanan pancing, pembuatan kerajinan dari sisa hasil perikanan, dan budidaya rumput laut.</p>
+<p style="margin-left:21.3pt;">
+	&nbsp;</p>
+</div></p>
+
+<hr>
+
+<h2><a id="kp">Kendala Pengembangan</a></h2>
+<p><div class="readmore"><p>
+	<strong>Kendala Pengembangan Pulau</strong></p>
+<p style="margin-left:22.5pt;">
+	Kendala pengembangan yang ditemukan di P. Lingliang adalah faktor permodalan, sarana infrastruktur dan keterampilan untuk mengolah kerajinan dari sisa hasil perikanan.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="rf">Referensi</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<br />
+	<i> 
+		<p style="font-size:12px;">
+			Karena keterbatasan SDM dalam penginputan dan pengolahan data, kami mohon maaf atas ketidak lengkapan beberapa data pulau yang kami tampilkan, harap dimaklumi.
+			Berikan keritik dan saran pada kolom komentar agar kita dapat bersama menyajikan sebuah data yang cukup sempurna untuk halayak ramai yang berguna
+			demi kesejahterahan, kelestarian dan keindahan pulau-pulau kecil yang dimiliki Indonesia.<br />
+			*Jika sekiranya anda memiliki data yang cukup banyak, silakan mengirimkan file melalui email kami di <b><a>identifikasippk@gmail.com</a></b>
+			
+		</p>
+	</i>
+<br />
+
+<div id="fb_comn" class="fb-comments" data-href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_info/8048" data-width="800" data-numposts="5" data-colorscheme="light"></div>
+
+
+</div>
+</div>
+</div>
+<div id="wrapper">
+
+<div class="footer"><p>
+<!--<marquee onmouseover="this.stop()" onmouseout="this.start()" scrollamount="5" direction="right" width="798" height="14"  behavior="scroll">-->
+<a href="http://www.ppk-kp3k.kkp.go.id/" target="_blank">Direktorat Pendayagunaan Pulau-Pulau Kecil &nbsp; | &nbsp;</a>
+<a href="http://www.kp3k.kkp.go.id/" target="_blank">Ditjen Kelautan, Pesisir dan Pulau-Pulau Kecil &nbsp; | &nbsp;</a>
+<a href="http://www.kkp.go.id/" target="_blank">Kementerian Kelautan dan Perikanan</a>
+<!--</marquee>--> <br />
+Jl. Medan Merdeka Timur No. 16 Gedung Mina Bahari 3 Lantai 10, Jakarta, Indonesia <br />
+Email : identifikasippk@gmail.com <br />
+Telp &amp; Fax: (021) 3522058 <br />
+&copy; Copyright Direktorat Pendayagunaan Pulau-Pulau Kecil 2012&nbsp; <br /></p>
+</div>
+</div>
+</body>
+</html>

@@ -1,0 +1,636 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Pulau Tonduk </title>
+
+<meta charset="utf-8"/>
+
+<meta property="fb:app_id" content="559408774147878" />
+
+
+<meta property="og:title" content="Pulau Tonduk " />
+<meta property="og:url" content="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_info/4772" />
+
+
+    <script type="text/javascript" src="http://ajax.microsoft.com/ajax/jquery/jquery-1.4.4.min.js">
+    </script>
+    
+    <script type="text/javascript" src="http://plugins.learningjquery.com/expander/jquery.expander.js">
+    </script>
+    
+    <script type="text/javascript">
+        $(function () {
+            $('div.readmore').expander({
+                slicePoint:200,
+                expandText: '(Baca selengkapnya)',
+                userCollapseText: '(Sembunyikan selengkapnya)'
+            });
+        });
+    </script>
+        
+	<script src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/galleria/galleria-1.2.8.min.js"></script>
+
+        <SCRIPT TYPE="text/javascript">
+            <!--
+            //Disable right click script
+            //visit http://www.rainbow.arch.scriptmania.com/scripts/
+            var message="Sorry, right-click has been disabled";
+            ///////////////////////////////////
+            function clickIE() {if (document.all) {(message);return false;}}
+            function clickNS(e) {if
+            (document.layers||(document.getElementById&&!document.all)) {
+            if (e.which==2||e.which==3) {(message);return false;}}}
+            if (document.layers)
+            {document.captureEvents(Event.MOUSEDOWN);document.onmousedown=clickNS;}
+            else{document.onmouseup=clickNS;document.oncontextmenu=clickIE;}
+            document.oncontextmenu=new Function("return false")
+            // -->
+            </SCRIPT>
+            
+            <SCRIPT TYPE="text/javascript">
+            <!--
+            //Disable select-text script (IE4+, NS6+)
+            //visit http://www.rainbow.arch.scriptmania.com/scripts/
+            ///////////////////////////////////
+            function disableselect(e){
+            return false
+            }
+            function reEnable(){
+            return true
+            }
+            //if IE4+
+            document.onselectstart=new Function ("return false")
+            //if NS6
+            if (window.sidebar){
+            document.onmousedown=disableselect
+            document.onclick=reEnable
+            }
+            // -->
+            </SCRIPT>  
+              
+<link rel="stylesheet" type="text/css" href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/css/main.css" media="screen"/>
+<style type='text/css'>
+#info_wrap{
+	width:820px;
+	margin:0 auto;
+	text-shadow:0px 1px 1px #09F;
+}
+table{
+	color:#000000;
+}
+h1{
+	color:#000000;
+}
+.tengahin{
+	width: 105px;
+	height: 30px;
+	margin: 0 auto auto auto;
+}
+#box_view{
+	background-image:-webkit-gradient(linear, 0 0%, 0 100%, from(#FFFFFF), to(#E0F0F5));
+	background:#FFF;
+	color:#F60;
+	border: 1px solid #fff;
+	border-radius: 4px 4px 4px 4px;
+	box-shadow: 0 8px 6px -6px black;
+	position:fixed;
+	right:0;
+	top:150px;;
+	width:80px;
+	z-index:10;
+	padding-left:12px;
+	font-size:10px;
+	}
+#box_view li{
+	color:#F60;
+	margin-left:-30px;
+	}
+	#wrapper a b {
+	color: #FFF;
+	font-size:14px;
+}
+.batas{
+	float:left;
+	border-right-style:inset;
+	border-right-width:thin;
+	}
+.text_h_wrap{
+	
+	padding-left:450px;
+	padding-top:39px;
+	text-shadow:0px 1px 1px #09F;
+	}
+#wrapper .footer p{
+	font-size:12px;
+	color: #FFF;
+	text-align:center;
+	text-shadow:0px 1px 1px #09F;
+}
+td,th {
+	font-size: 12px;
+}
+
+marquee a{
+	color:#FFF
+	}
+#wrapper .footer a{
+	color: #FFFFFF;
+}
+</style>
+            
+<script>
+function goBack()
+  {
+  window.history.back()
+  }
+</script>
+<script type="text/javascript">
+function Popup( url, height, width )
+{
+    var windowProperties = "toolbar = 0, scrollbars = 1, location = 0, statusbar = 0, menubar = 0, resizable = 1, width = " + width + ", height = " + height + ", left = 50, top = 50";
+ 
+    return window.open( url, "", windowProperties );
+}
+</script>
+
+
+
+</head>
+<body oncontextmenu='return false;' onkeydown='return false;' onmousedown='return false;'>
+
+<a id="top_view"></a>
+<div id="wrapper">
+<div class="header_wrap">
+<div class="text_h_wrap">
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/home_page'><b>&nbsp;Home&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/menu_info/1'><b>&nbsp;About Us&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_data'><b>&nbsp;Direktori Pulau&nbsp;&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/program_ip'><b>&nbsp;IKU&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/data_ppkt'><b>&nbsp;PPKT&nbsp;</b></a>
+</div>
+<!--<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/maintenance'><b>&nbsp;Login&nbsp;</b></a>-->
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/dir_log_cont'><b>&nbsp;Login&nbsp;</b></a>
+
+</div>
+</div>
+</div>
+
+<div id="fb-root"></div>
+<script>
+  window.fbAsyncInit = function() {
+    // init the FB JS SDK
+    FB.init({
+      appId      : '559408774147878',                        // App ID from the app dashboard
+      status     : true,                                 // Check Facebook Login status
+      xfbml      : true                                  // Look for social plugins on the page
+    });
+
+    // Additional initialization code such as adding Event Listeners goes here
+  };
+
+  // Load the SDK asynchronously
+  (function(){
+     // If we've already installed the SDK, we're done
+     if (document.getElementById('facebook-jssdk')) {return;}
+
+     // Get the first script element, which we'll use to find the parent node
+     var firstScriptElement = document.getElementsByTagName('script')[0];
+
+     // Create a new script element and set its id
+     var facebookJS = document.createElement('script'); 
+     facebookJS.id = 'facebook-jssdk';
+
+     // Set the new script's source to the source of the Facebook JS SDK
+     facebookJS.src = '//connect.facebook.net/en_US/all.js';
+
+     // Insert the Facebook JS SDK into the DOM
+     firstScriptElement.parentNode.insertBefore(facebookJS, firstScriptElement);
+   }());
+</script>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=559408774147878";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="box_view">
+    <a href="#top_view">MENU</a>
+    <h3><p>Lihat Informasi:</p></h3>
+    <ul>
+	<a href="#sf"><li>Slide Foto</li></a>
+    <a href="#gu"><li>Gambaran Umum</li></a>
+    <a href="#ksbk"><li>Kependudukan, Sosial Budaya dan Kelembagaan</li></a>
+    <a href="#eshp"><li>Ekosistem dan Sumberdaya Hayati</li></a>
+    <a href="#snh"><li>Sumberdaya Non Hayati</li></a>
+    <a href="#aps"><li>Aktivitas Pengelolaan Sumberdaya</li></a>
+    <a href="#ling"><li>Lingkungan</li></a>
+    <a href="#sp"><li>Sarana dan Prasarana</li></a>
+    <a href="#pi"><li>Peluang Investasi</li></a>
+    <a href="#pap"><li>Potensi Arahan Pengembangan</li></a>
+    <a href="#kp"><li>Kendala Pengembangan</li></a>
+	<a href="#rf"><li>Referensi</li></a>
+    </ul>
+    <a href="#fb_comn">KOMENTAR</a>
+</div>
+
+<br>
+			<a id="sf"></a></h2>
+			<div id="galleria">
+            <!--<div class='tengahin'><input type="button" value="Kembali Ke List" onclick="goBack()"></div>-->
+                            </div>
+            
+            <script>
+            Galleria.loadTheme('http://www.ppk-kp3k.kkp.go.id/direktori-pulau/galleria/themes/classic/galleria.classic.min.js');
+            Galleria.run('#galleria');
+            </script>
+</div>
+
+<div id="text_warp">
+
+
+<p><h1>Tonduk </h1></p>
+<table>
+<tr>
+	<td>Nama Lain</td> <td>:</td> <td></td>
+</tr>
+<tr>
+	<td>Propinsi</td> <td>:</td> <td>JAWA TIMUR</td>
+</tr>
+<tr>
+	<td>Kabupaten</td> <td>:</td> <td>KABUPATEN SUMENEP</td>
+</tr>
+<tr>
+	<td>Kecamatan</td> <td>:</td> <td></td>
+</tr>
+<tr>
+	<td>Koordinat</td> <td>:</td> <td><a href="http://www.ppk-kp3k.kkp.go.id/giskkp/index.html?extent="target="_blank">7° 9' 47.411</a></td>
+</tr>
+</table>
+<hr>
+
+<h2><a id="gu">Gambaran Umum</a></h2>
+<p><div class="readmore"><h2 style="text-align: justify;">
+	GAMBARAN UMUM</h2>
+<p style="text-align: justify;">
+	Kondisi Umum Pulau Tondhu</p>
+<p style="text-align: justify;">
+	Secara geografis, Kabupaten Sumenep terbentang antara 113<sup>0 </sup>32&rsquo;54&rsquo;&rsquo; LS &ndash; 116<sup>0 </sup>16&rsquo;48&rsquo;&rsquo; LS dan 04<sup>0 </sup>55&rsquo;33&rsquo;&rsquo; BT &ndash; 07<sup>0 </sup>24&rsquo;19&rsquo;&rsquo; BT. Wilayah Kabupaten Sumenep terdiri atas daratan dan kepulauan. Wilayah kepulauan Kabupaten Sumenep memiliki luas sekitar 937.367.862 km<sup>2</sup> atau sekitar 45.21% dari total luas wilayahnya. Jumlah kecamatan yang ada adalah 27 kecamatan yang terbagi atas 18 kecamatan di wilayah daratan dan 9 kecamatan terletak di kepulauan. Salah satu Pulau yang memiliki potensi sumberdaya alam adalah Pulau Tondhu yang terletak di Kecamatan Ra&rsquo;as.&nbsp;</p>
+<p style="text-align: justify;">
+	Secara administratif Pulau Tondhu merupakan bagian dari Kecamatan Ra&rsquo;as yang merupakan pulau utama yaitu Pulau Ra&rsquo;as. Pulau Tondhu merupakan pulau kecil yang berpenduduk &nbsp;kurang lebih sebanyak 1.293 kepala keluarga. Secara administratif &nbsp;Pulau Tondhu merupakan salah satu desa yang bernama Desa Tondhu diantara 9 desa yang ada di Kecamatan Ra&rsquo;as, Kabupaten Sumenep. Pulau Tondhu ini terletak pada koordinat 114,65<sup>0</sup>- 114,7<sup>0</sup>BT, 7,15<sup>0</sup> - 7,2<sup>0 </sup>LS. Di sebelah barat pulau ini terdapat sebuah pulau kecil yaitu Pulau Klosot. Selain itu disebelah selatan Pulau Tondhu terdapat beberapa gugusan pulau kecil lainnya yang tidak berpenghuni.</p>
+<p style="text-align: justify;">
+	Berdasarkan hasil perhitungan dari data citra satelit, luas Pulau Tondhu adalah sekitar 2.492 km&sup2;. Untuk menuju Pulau Tondhu dapat diakses dari Pulau Ra&rsquo;as, tepatnya dari pelabuhan nelayan di Desa Brakas dengan perahu motor, di Desa Brakas terdapat pelabuhan nelayan yang melayani rute antar pulau disekitarnya. Disamping pelabuhan nelayan, terdapat pelabuhan besar yang belum beroperasi, menurut informasi dari masyarakat pelabuhan tersebut dibangun oleh pemerintah untuk untuk pelabuhan punumpang kapal feri. Jarak antara Pulau Ra&rsquo;as dengan Pulau Tondhu melalui Desa Brakas adalah sekitar 2.97 mil laut (5.93 km). Apabila ditempuh dengan perahu motor akan memakan waktu sekitar 45-60 menit.</p>
+<p style="text-align: justify;">
+	Kondisi Fisik Pulau</p>
+<p style="text-align: justify;">
+	Klimatologi</p>
+<p style="text-align: justify;">
+	Komponen Klimatologi yang dikaji dalam studi ini merupakan data sekunder yang didapat dari Badan Meteorologi, Klimatologi dan Geofisika Wilayah Tanjung Perak Surabaya. &nbsp;Data sekunder ini meliputi data curah hujan dan hari hujan, tipe iklim, suhu udara dan kelembaban udara, kecepatan angin dan lama penyinaran matahari. Data ini diambil dari Badan Meteorologi Klimatologi dan Geofisika Wilayah Tanjung Perak-Surabaya karena merupakan stasiun terdekat dengan wilayah studi sehingga diharapkan data yang diambil dapat menggambarkan kondisi cuaca di Pulau Tondhu, mengingat wilayah studi &nbsp;mempunyai kondisi yang hampir sama dengan lokasi stasiun BMKG Wilayah Tanjung Perak-Surabaya. Secara umum, Pulau Tondhu termasuk daerah yang memiliki iklim tropis. Musim penghujan jatuh pada bulan Oktober hingga April sedang kemarau terjadi pada bulan Mei-Oktober. Suhu rata-rata sekitar 27<sup>0</sup>C, suhu maksimum sekitar 32<sup>0</sup>C dan suhu minimum 25<sup>0</sup>C.</p>
+<p style="text-align: justify;">
+	<em>a. Curah Hujan</em></p>
+<p style="text-align: justify;">
+	Curah hujan merupakan jumlah air hujan yang turun pada suatu daerah dalam waktu tertentu. Serta alat untuk mengukur banyaknya curah hujan disebut <em>Rain Gauge</em>. Curah hujan dapat diukur dalam jumlah atau skala harian, bulanan, dan tahunan.</p>
+<p style="text-align: justify;">
+	Berdasarkan data yang di peroleh dari Badan Meteorologi Klimatologi dan Geofisika Wilayah Tanjung Perak Surabaya, Sepanjang 10 tahun terakhir (2000 &ndash; 2009), rata-rata curah hujan tahunan tertinggi di lokasi kegiatan sebesar 1064,3 mm/tahun dengan rata-rata bulanan tertinggi terjadi pada bulan Januari dan Februari sebesar 260,5 mm/bulan dan terendah pada bulan Agustus sebesar 12,3 mm/bulan. Sedangkan rata-rata jumlah hari hujan dalam setahun adalah 119,9 hari hujan, dengan rata-rata hari hujan perbulan tertinggi terjadi pada bulan Januari sebesar 22,2 hari hujan, dan hari hujan terendah terjadi pada bulan Agustus sebesar 3,8 hari hujan. Dilihat dari distribusi curah hujan, bulan basah rata-rata terjadi pada bulan Desember hingga Bulan Maret (selama 4 bulan), sedangkan bulan kering rata-rata terjadi selama pada bulan Mei hingga bulan Oktober (selama 6 bulan).</p>
+<p style="text-align: justify;">
+	<em>b. Tipe Iklim</em></p>
+<p style="text-align: justify;">
+	Iklim adalah rata-rata dari pergantian atau keadaan cuaca dalam wilayah yang luas dan jangka waktu yang lama. Terjadinya iklim yang bermacam-macam di muka bumi, disebabkan oleh rotasi dan revolusi bumi berdasarkan letak lintang suatu tempat. Dalam Kegiatan Pemetaan Potensi Pulau Tondhu ini, tipe iklim berdasarkan klasifikasi Koppen dikawasan Pulau Tondhu termasuk tipe iklim AW, yaitu iklim tropis yang dicirikan dengan suhu dan kelembaban relatif cukup tinggi dan hujan bermusim. Sedangkan berdasarkan bulan basah kering (klasifikasi Schmidth dan Ferguson) daerah Pulau Tondhu termasuk tipe iklim C.</p>
+<p style="text-align: justify;">
+	<em>c. Suhu Udara dan Kelembaban Udara</em></p>
+<p style="text-align: justify;">
+	Suhu udara adalah keadaan panas atau dinginnya udara. Alat untuk mengukur suhu udara atau derajad panas disebut termometer. Pengukuran biasa dinyatakan dalam skala Celsius (C), Reamur (R), dan Fahrenheit (F). Suhu udara tertinggi di permukaan bumi adalah di daerah tropis (sekitar ekuator) dan makin ke kutub makin dingin. &nbsp; suhu udara terasa dingin saat ketinggian bertambah. Tiap kenaikan bertambah 100 meter, suhu udara berkurang (turun) rata-rata 0,6 <sup>0</sup>C. Penurunan suhu semacam ini disebut gradien temperatur vertikal atau&nbsp;<em>lapse rate</em>. Pada udara kering, besar&nbsp;<em>lapse rate </em>adalah 1 <sup>0</sup>C.</p>
+<p style="text-align: justify;">
+	Berdasarkan hasil pengamatan Badan Metereologi Klimatologi dan Geofisika Wilayah Tanjung Perak-Surabaya selama periode 10 tahun (2002-2012) rata-rata suhu bulanan di sekitar Pulau Tondhu berkisar antara 26,6-27,9 <sup>0</sup>C dengan suhu maksimum tertinggi terjadi pada bulan Juli dan Agustus sebesar 31,2 <sup>0</sup>C, dan suhu minimum terendah terjadi pada bulan Januari dan Februari sebesar 23,6.</p>
+<p style="text-align: justify;">
+	Kelembaban udara adalah tingkat kebasahan udara karena dalam udara air selalu terkandung dalam bentuk uap air. Kandungan uap air dalam udara hangat lebih banyak daripada kandungan uap air dalam udara dingin. Udara yang banyak mengandung uap air jika didinginkan maka suhunya akan turun dan udara tidak dapat menahan lagi uap air sebanyak itu. Uap air berubah menjadi titik-titik air. Udara yang mengandung uap air sebanyak yang dapat dikandungnya disebut udara jenuh.</p>
+<p style="text-align: justify;">
+	Berdasarkan hasil pengamatan Badan Metereologi Klimatologi dan Geofisika Wilayah Tanjung Perak-Surabaya selama periode 10 tahun (2002-2012) rata-rata kelembaban udara bulanan di kawasan lokasi kegiatan ini cukup tinggi berkisar antara 79-82% dengan kelembaban rata-rata tahunan 81,3%.</p>
+<p style="text-align: justify;">
+	<em>d. Lama Penyinaran Matahari</em></p>
+<p style="text-align: justify;">
+	Panas matahari yang sampai ke permukaan bumi sebagian dipantulkan kembali, sebagian lagi diserap oleh udara, awan, dan segala sesuatu di permukaan bumi. Banyak sedikitnya sinar matahari yang diterima oleh bumi. Selain itu lamanya penyinaran matahari pada suatu tempat tergantung dari letak garis lintangnya, semakin rendah letak garis lintangnya maka semakin lama daerah tersebut mendapatkan sinar matahari dan suhu udaranya semakin tinggi, sebaliknya semakin tinggi letak garis lintang maka intensitas penyinaran matahari semakin kecil sehingga suhu udaranya semakin rendah. Alat untuk mengukur lamanya penyinaran matahari disebut Campbell Stoke.</p>
+<p style="text-align: justify;">
+	Berdasarkan hasil analisis data BMKG wilayah Tanjung Perak Surabaya, menunjukkan bahwa rata-rata persentase lama penyinaran matahari periode tahun 2002-2012 adalah sebesar 79,6 %. persentase lama penyinaran matahari terendah terjadi pada bulan-bulan musim penghujan (Desember, Januari, dan Februari) berturut-turut 62,3% 63,5% 63,23%, sedangkan penyinaran matahari tertinggi terjadi pada musim kemarau yaitu pada bulan Agustus dan September masing-masing 93,2% dan 93,6.</p>
+<p style="text-align: justify;">
+	<em>e. Kecepatan Angin</em></p>
+<p style="text-align: justify;">
+	Berdasarkan analisis data BMKG Tanjung Perak, pada bulan Januari-Maret 2012 angin mayoritas berasal dari arah Timur dan Tenggara. Dengan distribusi frekwensi terbesar sebanyak 68.2 % dengan kecepatan 11 &ndash; 17 knot, sedangkan distribusi frekwensi terendah sebanyak 31.8 % dengan kecepatan angin 17 - 21 knot. Pada bulan April-Juni angin mayoritas berasal dari arah Timur dan Tenggara. Dengan distribusi frekwensi terbesar sebanyak 62 % dengan kecepatan 11 &ndash; 17 knot, sedangkan distribusi frekwensi terendah sebanyak 38 % dengan kecepatan angin 17 - 21 knot.</p>
+<p style="text-align: justify;">
+	Pada bulan Juli-September 2012 angin mayoritas berasal dari arah Timur dan Tenggara. Dengan distribusi frekwensi terbesar sebanyak 89.1 % dengan kecepatan 11 &ndash; 17 knot, sedangkan distribusi frekwensi terendah sebanyak 10.9 % dengan kecepatan angin 17 - 21 knot. Pada bulan Oktober-Desember 2012 angin mayoritas berasal dari arah Timur dan Tenggara. Dengan distribusi frekwensi terbesar sebanyak 100 % dengan kecepatan 11 &ndash; 17 knot.</p>
+<p style="text-align: justify;">
+	Oseanografi</p>
+<p style="text-align: justify;">
+	<em>a. Pola Arus</em></p>
+<p style="text-align: justify;">
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Bergeraknya massa air laut biasa disebut sebagai arus laut. Arus laut dapat terjadi akibat adanya gaya pembangkit arus yang bekerja baik pada lapisan antar muka (<em>interface</em>) air-udara ataupun pada badan air seperti angin, rotasi bumi, beda salinitas dan temperatur, dan gaya gravitasi bulan. Kedalaman perairan dan bentuk garis pantai akan mempengaruhi arah dan kecepatan arus laut. Definisi lain menyebutkan bahwa arus air laut adalah pergerakan massa air secara <a href="http://id.wikipedia.org/w/index.php?title=Vertikal&amp;action=edit&amp;redlink=1" title="Vertikal (halaman belum tersedia)">vertikal</a> dan <a href="http://id.wikipedia.org/w/index.php?title=Horisontal&amp;action=edit&amp;redlink=1" title="Horisontal (halaman belum tersedia)">horisontal</a> sehingga menuju keseimbangannya, atau gerakan air yang sangat luas yang terjadi di seluruh <a href="http://id.wikipedia.org/wiki/Lautan" title="Lautan">lautan</a> dunia. Arus juga merupakan gerakan mengalir suatu <a href="http://id.wikipedia.org/wiki/Massa" title="Massa">massa</a> air yang dikarenakan tiupan angin atau perbedaan <a href="http://id.wikipedia.org/wiki/Densitas" title="Densitas">densitas</a> atau pergerakan <a href="http://id.wikipedia.org/wiki/Gelombang" title="Gelombang">gelombang</a> panjang. Pergerakan arus dipengaruhi oleh beberapa hal antara lain arah angin, perbedaan tekanan air, perbedaan densitas air, gaya <a href="http://id.wikipedia.org/w/index.php?title=Coriolis&amp;action=edit&amp;redlink=1" title="Coriolis (halaman belum tersedia)">Coriolis</a> dan arus <a href="http://id.wikipedia.org/w/index.php?title=Ekman&amp;action=edit&amp;redlink=1" title="Ekman (halaman belum tersedia)">ekman</a>, topografi dasar laut, arus permukaan, upwellng , downwelling.</p>
+<p style="text-align: justify;">
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Arus merupakan sebuah fenomena kompleks, sehingga kondisi arus di sebuah lokasi tidak dapat dilepaskan dari kondisi arus dalam skala yang lebih luas. Oleh sebab itu, penjelasan mengenai pola arus di Pulau Tondhu mengacu pada pola pergerakan arus secara umum yang terjadi di perairan Laut Jawa, khususnya di sekitar Pulau Ra&rsquo;as. Kondisi arus di Laut Jawa sangat dipengaruhi oleh angin musim. Pada umumnya arus mengalir ke timur selama Musim Barat yakni antara bulan Nopember sampai dengan Maret dan mengalir ke arah barat selama Musim Timur antara bulan Mei hingga September. Pada saat pancaroba atau masa transisi di bulan April dan Oktober terjadi perubahan arah arus. Pada bulan tersebut arus yang berada dekat pantai Jawa umumnya bergerak ke arah timur dan arus yang berada dekat pantai Kalimantan bergerak ke arah Barat. Di Selat Karimata dan Gaspar yang memisahkan Sumatera dengan Kalimantan arus dapat mencapai kecepatan 2 knot pada saat angin bertiup kencang khususnya selama puncak Musim Utara. Di laut Jawa bagian barat arus bergerak ke arah timur dengan kecepatan maksimum 1,1 knot, di Laut Jawa bagian tengah kecepatan arus maksimum 1,6 knot dan di Laut Jawa bagian tenggara arus dari Selat Makasar mencapai 2 Knot. Arus yang bergerak ke arah barat mencapai kecepatan maksimum 1 knot di Laut Jawa bagian barat, 1,4 Knot di Laut jawa bagian tengah dan 1,7 Knot di Laut Jawa bagian timur. Arus di Selat Sunda merupakan resultante arus yang bergerak ke baratdaya selama dua musim tersebut. Kecepatan arus mencapai 0,7 sampai dengan 1,5 Knot.</p>
+<p style="text-align: justify;">
+	Kecepatan arus tidak banyak berubah pada periode Maret. Akan tetapi dari pola arus yang terlihat, terjadi perubahan arah arus di bagian utara Laut Jawa, dimana arah arus mulai berubah bergerak ke arah Timur.Arah dan kecepatan arus di perairan Laut Jawa relatif konstan&nbsp; pada bulan April. Pada gambar pola arus bulan April, massa air yang berasal dari pantai utara Jawa Tengah yang bergerak ke Timur berputar dan berubah arah bergerak ke Barat di pantai utara Jawa Timur. Pada periode Mei sampai dengan Juli, arah arus di utara Madura dan Jawa Timur bergerak ke arah Timur dengan kecepatan sekitar 15-20 cm/s. Pergerakan massa air ini bertemu dengan massa air dari arah utara pulau Bali di sekitar kawasan Timur Madura. Pertemuan dua massa air yang berbeda arah ini, menimbulkan pertemuan arus yang menghasilkan perubahan arah arus menuju ke Utara dan selanjutnya berbelok ke Barat. Kecepatan arus yang terjadi adalah sekitar 15-25 cm/s.</p>
+<p style="text-align: justify;">
+	Pertemuan arus dari dua arah berbeda di perairan Timur Madura terus terjadi pada periode bulan Agustus dan September. Kecepatan arus pada saat tersebut berkisar antara 15 cm/s sampai dengan 25 cm/s. Akan tetapi, efek dari pertemuan dua arus tersebut sedikit mengalami perubahan. Apabila pada bulan Juni dan Juli menimbulkan arus yang mengarah ke Utara, pertemuan dua arus pada bulan Agustus dan September ini menyebabkan timbulnya arus yang bergerak ke arah Selatan. Kecepatan arus yang mengarah ke Selatan ini berkisar pada kecepatan 3-5 cm/s. Pada bulan Oktober, terjadi lagi perubahan arus akibat pertemuan dua massa air dari Barat dan Timur. Pergerakan massa air tersebut kembali menuju ke arah Utara saja. Perubahan arah arus yang signifikan terjadi pada bulan November. Pada periode ini, arus air permukaan laut di Laut Jawa sebelah Utara Madura bergerak dari arah Timur menuju ke Barat dengan kecepatan sekitar 5 cm/s. Pada bulan tersebut tidak terjadi lagi pertemuan antara 2 arus yang berlawanan, seperti pada bulan-bulan sebelumnya.</p>
+<p style="text-align: justify;">
+	<em>b. Pasang Surut</em></p>
+<p style="text-align: justify;">
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Istilah pasang surut atau lazim disebut dengan pasut merupakan fenomena alam yang terjadi secara periodik. Proses ini sangat akrab dengan masyarakat nelayan dan masyarakat umum yang hidup di daerah pesisir. Sehingga, tanpa disadari, fenomena alam ini telah mempengaruhi aktifitas kehidupan, seperti pelayaran dan penangkapan maupun budidaya perairan, khususnya pesisir dan pantai.</p>
+<p style="text-align: justify;">
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Pasang surut seringkali dikaitkan dengan proses naik turunnya air laut atau <em>sea level</em> yang terjadi menurut siklus tertentu. Proses naik turunnya air laut ini dipengaruhi oleh benda angkasa, terutama matahari dan bulan, terhadap massa air di bumi (Ongkosongo dan Suyarso, 1989). Variasi naik turunnya air laut tergantung pada tipe pasang surut. Pada tipe tunggal, naik turun air laut hanya terjadi satu kali dalam satu hari. Untuk tipe ganda, naik turunnya air laut terjadi sebanyak dua kali dalam satu hari, sedangkan perilaku pasang surut kombinasi dari tipe tunggal dan tipe ganda, dinamakan dengan tipe campuran (Dahuri <em>et all</em>, 1996).</p>
+<p style="text-align: justify;">
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Pasang surut didefinisikan sebagai perubahan ketinggian permukaan perairan (<em>water level</em>) yang relatif luas (<em>sea and ocean</em>) terutama disebabkan oleh gaya tarik grafitasi antara bumi&ndash;bulan dan bumi&ndash;matahari. Illahude (1999) menyatakan bahwa ada dua teori yang dipakai untuk menerangkan peristiwa pasang di samudera dunia, yaitu teori kesetimbangan (<em>Equilibrium Theory</em>) dan teori dinamik (<em>Dynamical Theory</em>).</p>
+<p style="text-align: justify;">
+	Pada penelitian ini, metode pengamatan pasut yang digunakan adalah memadukan hasil observasi dari data pasang surut yang diterbitkan oleh DISHIDROS TNI-AL dengan pembuatan grafik tinggi muka air laut. Sedangkan untuk penentuan tipe pasut, digunakan metode Admiralty.</p>
+<p style="text-align: justify;">
+	Penentuan tipe pasut dilakukan dengan menggunakan formula bilangan Formzahl. Persamaan matematika untuk bilangan Formzahl adalah&nbsp; <em>F</em> = [ K<sub>1</sub> + O<sub>1</sub> ] / [ M<sub>2</sub> + S<sub>2</sub> ] . Konstanta-konstanta dalam persamaan tersebut adalah tetapan yang ditentukan melalui analisa admiralty. Apabila nilai F&gt;3, maka tipe pasut adalah diurnal, bila F &lt; 0.25 tipe pasut adalah semidiurnal, bila nilai F antara 0.25-1.25 maka tipe pasut adalah campuran dengan kecenderungan semidiurnal dan apabila nilai F antara 1.25-3.0 maka tipe pasut adalah campuran dengan kecenderungan diurnal. Hasil analisa menunjukkan bahwa tipe pasut di lokasi penelitian adalah tipe diurnal. Tipe ini menjelaskan bahwa terjadi 1 kali pasang dan 1 kali surut dalam periode waktu 24 jam.</p>
+<p style="text-align: justify;">
+	Selain tipe dan pola pasang surut, penentuan elevasi muka air laut dilakukan pula dalam kajian ini. Informasi mengenai fluktuasi elevasi muka air laut diturunkan dari data pasut harian dan sangat berguna bagi perencanaan pembangunan bangunan pantai dan lepas pantai, seperti rig pengeboran, pelabuhan, jetty dan sebagainya. Penentuan elevasi muka air laut dilakukan dengan membuat grafik dari data pasut yang tersedia. Setelah itu, dilakukan penentuan beberapa parameter pasut seperi HHWL, MHWL, MSL, MLWL dan LLWL.</p>
+<p style="text-align: justify;">
+	Topografi Pulau</p>
+<p style="text-align: justify;">
+	Secara umum, topografi Pulau Tondhudapat dibagi menjadi dua, yaitu wilayah dengan topografi landai (dataran rendah) dan wilayah dengan topografi berlereng (bukit). Wilayah dataran rendah terletak di bagian pulau sebelah selatan dan tengah. Pada wilayah inilah terdapat pemukiman penduduk dan menjadi pusat kegiatan masyarakat. Sementara itu, dibagian utara pulau terdapat sebuah bukit batu dengan ketinggian kurang lebih 30-40 meter dpl yang ditutupi oleh rimbunan pohon.</p>
+<p style="text-align: justify;">
+	Morfologi Pantai</p>
+<p style="text-align: justify;">
+	Tipe pantai yang di temui di Pulau Tondhu, yaitu tipe pantai berpasir dan tipe pantai berbatu. Pantai berpasir dapat ditemui di sisi pulau bagian selatan dan Utara. Sementara itu, bagian pulau dengan pantai yang berbatu dapat ditemukan di sisi pulau bagian selatan. Bagian pulau dengan pantai yang berpasir digunakan para penduduk sebagai pusat aktivitas nelayan, antara lain tempat berlabuhnya kapal atau tempat untuk membuat dan memperbaiki kapal. Hal ini dikarenakan karakteristik pantai berpasir yang mudah dijangkau sehingga menjadi akses utama ke pulau ini. Sementara itu, di wilayah pulau dengan pantai berbatu tidak ditemukan adanya lokasi pusat kegiatan masyarakat setempat, hal ini dikarenakan pantai berbatu berada di daerah dataran tinggi.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="ksbk">Kependudukan, Sosial Budaya dan Kelembagaan</a></h2>
+<p><div class="readmore"><p style="text-align: justify;">
+	<strong>KEPENDUDUKAN (DEMOGRAFI)</strong></p>
+<p style="text-align: justify;">
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Jumlah penduduk Pulau Tondhu menurut penelusuran data desa adalah sebanyak &plusmn; 4.921 jiwa yang terdiri dari 1.293 KK, dengan rata-rata jumlah penduduk per rumah 3.81. Jumlah penduduk laki-laki sebanyak 2.356 jiwa dan penduduk perempuan berjumlah 2.565 jiwa. Sebagian besar bekerja di luar pulau yaitu tepatnya di Pulau Bali dan sebagian masyarakat juga bekerja sebagai TKI. Rata-rata penduduk di Pulau Tondhumemiliki mata pencarian sebagai petani dan nelayan. Jenis pekerjaan lain yang ditemui antara lain yaitu penyedia jasa perahu antar pulau, selain itu juga banyak ditemukan peternak, pedagang, guru dan sebagainya.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="eshp">Ekosistem dan Sumberdaya Hayati</a></h2>
+<p><div class="readmore"><p style="text-align: justify;">
+	<strong>EKOSISTEM DAN SUMBERDAYA PESISIR</strong></p>
+<p style="text-align: justify;">
+	<strong>Ekosistem Terumbu Karang</strong></p>
+<p style="text-align: justify;">
+	Wilayah perairan Pulau Tondhu dapat ditemukan kondisi substrat terumbu karang yang diduga masih dalam keadaan yang baik. Kondisi ini dapat dijumpai di pesisir bagian timur pulau dengan jarak kurang lebih 1.5-2,0 km dari bibir pantai. Kegiatan pengamatan ini dilakukan pada kedalaman 5 dan 10 meter. Metode yang digunakan adalah metode Line Intercept Transect (LIT).&nbsp;</p>
+<p style="text-align: justify;">
+	Lokasi pengamatan perairan cenderung tenang, dengan ombak dan arus yang relatif kecil, serta kejernihan air yang cukup tinggi. Hasil transek terumbu karang pada kedalaman 5 meter pada titik I, menunjukkan bahwa tutupan terumbu karang hidup tertinggi mencapai 31.95%, kondisi terumbu karang dengan persentase tutupan sebesar 31.95% dikategorikan dalam kondisi sedang. Persentase tutupan karang mati sebesar 18.96%, biota lain 3.60% dan abiotik sebesar 45.49%, sedangkan indek mortalitas terumbu karang sebesar 37%. Berdasarkan hasil pengamatan dan pengukuran pada kedalaman 5 meter substrat didominasi oleh <em>Coral Masif</em> (CM) dengan persentase tutupan sebesar 10.40 %, sedangkan persentase tutupan <em>Dead Coral</em> (DC) mencapai angka 14.91%, kemudian persentase dari <em>Sponge</em> (SP) yaitu 0.9%. Dari hasil pengamatan dominansi terumbu karang yang ada di perairan Pulau Tondhu banyak di dominasi oleh Hard Coral dari golongan Non Acropora&nbsp; yaitu dari spesies <em>Porites lutea</em> serta dari golongan Acropora dari spesies <em>Acropora formosa </em>dan <em>Acropora tenuis</em>. Kerusakan terumbu karang di perairan Pulau Tondhu diduga di akibatkan oleh aktivitas masyarakat yang melakukan penangkapan ikan dengan menggunakan alat tangkap yang tidak ramah lingkungan.</p>
+<p style="text-align: justify;">
+	Pada kedalaman 10 meter, kelimpahan karang keras meningkat pada kedalaman 10 meter, terlihat dari besarnya penutupan karang keras, yaitu sebesar 37.46%, kondisi persentase terumbu karang tersebut dikategorikan dalam kondisi sedang. Selain karang keras, karang mati yang ditemukan pada kedalaman 10 meter sebesar 20.56%, biota lain sebesar 4.70%, dan abiotik sebesar 37.28 %. Sedangkan Indek Mortalitas (IM) terumbu karang sebesar 35%.</p>
+<p style="text-align: justify;">
+	Terumbu karang hidup yang ditemukan memiliki beragam jenis, beberapa diantaranya adalah dari genus <em>Acropora, Porites, Favia, Pectinia, Favites, Diploastrea, Astreopora, Merulina, Acropora, Euphyllia, Pocillopora</em>. Karang-karang ini tumbuh dengan beragam bentuk mulai dari mengerak, bercabang, lembaran, massif, sampai jamur. Ukuran koloni karang yang ditemukan juga relatif kecil yaitu sekitar 25 cm. Hasil pengamatan pada kedalaman 10 meter didominansi oleh <em>Acropora Branching</em> (ACB) yaitu sebesar 8.40%, kemudian <em>Coral Submassif </em>(CS) sebesar 5.65%.</p>
+<p style="text-align: justify;">
+	Hasil Pengamatan dilokasi perairan Pulau Tondhu di titik pengamatan II pada kedalaman 5 meter, menunjukkan persentase tutupan karang hidup mencapai 28.48%, persentase tutupan karang tersebut dikategorikan dalam kondisi sedang, sedangkan persentase tutupan karang mati mencapai 19.42%, selanjutnya biota lain 6.30% serta abiotik 42.90%, dengan indek mortalitas karang sebesar 41%. Hasil pengamatan di titik pengamatan II, didominasi oleh Hard Coral dari golongan Non Acropora yaitu <em>Coral Massive</em> dari spesies <em>Porites lutea </em>dan <em>Galaxea sp.</em>&nbsp; Selain itu juga Hard Coral dari golongan Acropora dari <em>Acropora Branching</em> (ACB) seperti spesies dari <em>Porites cylindrica</em> dan <em>Seriatopora hystrik</em>.</p>
+<p style="text-align: justify;">
+	Hasil pengukuran persentase tutupan karang dengan lifeform, titik II di Pulau Tondhu pada kedalaman 5 meter didominasi oleh oleh Hard Coral dari golongan Non Acropora yaitu <em>coral massive</em> (CM) sebesar 8.10% yaitu dari spesies <em>Porites lutea </em>dan <em>Galaxea sp.</em>&nbsp; Selain itu juga banyak ditemui dari golongan <em>Acropora Branching</em> (ACB) sebesar&nbsp; 6.88 % dan <em>coral branching</em> (CB) sebesar 4.5% yaitu spesies dari <em>Porites cylindrica</em> dan <em>Seriatopora hystrik</em>. Pada kedalaman 10 meter di titik pengamatan II, persentase tutupan terumbu karang hidup di dominasi oleh karang keras yaitu sebesar 38.24%, persentase tutupan terumbu karang tersebut dikategorikan&nbsp; dalam kondisi sedang. Terumbu karang mati mencapai 15.50%, abiotik sebesar 45.26% dan biota lain sebesar 1%. Indeks kematian karang mencapai 29%, indek kematian karang tidak terlalu tinggi, hal ini disebabkan oleh rendahnya penutupan karang mati, menunjukkan bahwa pertumbuhan karang di kedalaman ini memang terbatas. Besarnya area berpasir menyebabkan karang-karang sulit tumbuh karena minimnya substrat yang stabil. Juvenil karang yang baru tumbuh juga mudah tertimbun oleh pasir. Persentase tutupan terumbu karang di dominasi oleh <em>Acropora Branching</em> (ACB) yaitu sebesar 13.05%, serta <em>Coral Massif</em> (CM) sebesar 12.14%. sedangkan karang mati mencapai 15.50%. Kerusakan terumbu karang pada kedalaman 10 meter, banyak ditemui terumbu karang yang patah, diduga hal ini disebabkan oleh aktivitas nelayan setempat dalam menggunakan alat tangkap.</p>
+<p style="text-align: justify;">
+	persentase terumbu karang hidup yang ditemukan sebesar 32.51%, persentase tutupan terumbu karang tersebut dikategorikan dalam kondisi sedang. Jenis karang yang ditemukan di bawah transek juga terbatas, yaitu <em>Montipora, Pocillopora, Porites, Astreopora, Favites, Favia, </em>dan <em>Acropora.</em> Sedangkan terumbu karang mati sebesar 27%, abiotik sebesar 39.49%, biota lain sebesar 1%.</p>
+<p style="text-align: justify;">
+	Komponen abiotik merupakan penutup subsrat terbesar di lokasi pengamatan dan diisi oleh 11.36% pasir dan 28.13% pecahan karang. Selain pasir dan pecahan karang, karang mati juga ditemukan menutupi 27% substrat di sepanjang transek. Hampir seluruh karang mati yang tercatat memiliki ukuran relatif besar, serta kebanyakan mempunyai bentuk hidup berupa karang <em>Acropora </em>meja dan masih berbentuk utuh. Sebagian kecil karang mati sudah tercabut dari substratnya. Menurut pengamatan kualitatif pengamat, diperkirakan karang tersebut mengalami kematian dalam waktu 1-3 bulan lalu. Meski telah ditumbuhi oleh alga, namun melihat bentuknya yang masih sempurna, karang mati tersebut juga masih dimanfaatkan oleh ikan-ikan yang berasosiasi dengan karang sebagai tempat hidup.</p>
+<p style="text-align: justify;">
+	Pengamatan dan pengukuran pada kedalaman 10 meter di titik III Pulau Tondhu memperlihatkan bahwa penutupan terumbu karang mencapai 39.70%. Persentase karang hidup yang ditemukan di kedalaman 10 meter di dominasi oleh karang <em>Acropora</em> bercabang, dan lainnya diisi oleh karang <em>Acropora </em>meja (<em>tabulate</em>) dan karang non-<em>Acropora</em> dengan bentuk hidup bercabang, massif, submassif, lembaran, dan jamur, sedangkan karang mati mencapai 27.85%, biota lain 3.5% dan abiotik 28.95% dengan Indek Mortalitas (IM) karang mencapai 40%. Hasil pengamatan dan pengukuran terumbu karang diperairan Pulau Tondhu titik III pada kedalaman 10 meter didominasi oleh Hard Coral yaitu <em>Coral Massif</em> (CM) dengan persentase tutupan terumbu karang sebesar 14.90%, <em>Acropora Branching</em> (ACB) dengan persentase tutupan terumbu karang sebesar 10.15%, <em>Coral Branching</em> (CB) dengan persentase tutupan terumbu karang sebesar 8.95%.</p>
+<p style="text-align: justify;">
+	<strong>Vegetasi Pantai</strong></p>
+<p style="text-align: justify;">
+	&nbsp;&nbsp;&nbsp;&nbsp; Ekosistem terestrial Pulau Tondhu secara keseluruhan identik dengan ekosistem pantai. Berdasarkan susunan vegetasinya, vegetasi Pulau Tondhu dapat dibedakan menjadi dua yaitu formasi <em>pes-caprae</em>, dan formasi <em>Baringtonia</em>. Fomasi <em>pes-caprae</em> dicirikan substrat berpasir, tumbuhan&nbsp; yang&nbsp; dominan kangkung laut&nbsp; (<em>Ipomoea pes-caprae</em>). Tumbuhan lainnya adalah rumput lari (<em>Spinifex littoreus</em>), gambir&nbsp; laut (<em>Clerodendron inerme</em>) dan biduri (<em>Calotropis gingantea</em>). Formasi <em>pes-caprae</em> ini mempunyai peran penting dalam menjaga kestabilan sedimen pantai (pasir), baik oleh pengaruh ombak, angin maupun aliran air hujan permukaan.</p>
+<p style="text-align: justify;">
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Formasi <em>Baringtonia</em> adalah vegetasi pantai yang didominasi oleh pohon <em>Baringtonia</em> (butun). Vegetasi lainnya adalah waru laut (<em>Thesfesia populnea</em>), ketapang (<em>Terminalia catappa</em>), bogonala (<em>Hermandia feltata</em>), intaran (<em>Azadichrata sp</em>.), santen (<em>Lannea coramandalica</em>), kaktus laut (<em>Opuntia vulgaris</em>), gelang laut (<em>Sesuvium portulacastrum</em>), daruju (<em>Acanthus ilicifolius</em>, pepare (<em>Cardiosfermum</em>), gambir&nbsp; laut (<em>Clerodendron inerme</em>) dan biduri (<em>Calotropis&nbsp; gingantea</em>), sentigi (<em>Pemphis ocidula</em>), bujang laut (<em>Turnera ulmifolia</em>), ambung (<em>Slaevola sericca).</em></p>
+<p style="text-align: justify;">
+	<strong>HASIL ANALISA SUBSTRAT DASAR PERAIRAN </strong></p>
+<p style="text-align: justify;">
+	<strong>Karakteristik Citra Quickbird</strong></p>
+<p style="text-align: justify;">
+	Quickbird merupakan satelit sumberdaya bumi komersial dengan resolusi spasial tinggi milik perusahaan swasta AS Digital Globe yang diluncurkan pertama kali pada tanggal 20 November 2000 namun mengalami kegagalan mencapai orbit dan diluncurkan kembali Quickbird 2 pada tanggal 18 Oktober 2001 dengan roket Delta II di Vandenberg Air Force Base, California. Mempunyai bobot 1050 kg dan panjang 3,04 m dimana perkiraan usianya sampai tahun 2020. Tinggi lintasannya 450 km (sudut inklinasi 98&deg;) dengan orbit <em>sun synchronous</em>, periode edar 93,5 menit. Lebar sapuan 16,5 km dengan waktu yang melintas ekuator pada pukul 10.30 waktu setempat.</p>
+<p style="text-align: justify;">
+	Kementerian Kelautan dan Perikanan (2011) merekomendasikan bahwa untuk perencanaan dan pengembangan wilayah pesisirdiperlukan citra resolusi tinggisepertiQuickbird atau IKONOS denganresolusimencapai 0.5 x 0.5 meter. Penggunaan citra resolusi tinggi Quickbird untuk perencanaan wilayahpulau-pulau kecil diterapkan antara lain oleh Hidayah (2011) sebagai dasar penyusunan strategi pengelolaan kawasan wisata Pulau Tabuhan.Kemampuan citra resolusi tinggi sangat berguna untuk menghasilkan data tutupan penggunaan lahan secara detail dan akurat. Selain untuk aplikasi di atas daratan, ternyata kombinasi analisa citra Quickbird dan SIG dapat pula digunakan untuk memetakan ekosistem terumbu karang. Siregar (2010) dalam hasil penelitiannya menyebutkan bahwa akurasi data citra Quickbird dalam mendeteksi terumbu karang dan lamun mencapai 79%. Sedangkan Amri<em>et.al</em> (2010) juga mendapatkan hasilakurasi yang tinggi (70,77%) untuk pendeteksian tingkat kerusakan terumbu karang di Pulau Congkak Kepulauan Seribu.</p>
+<p style="text-align: justify;">
+	Citra satelit Quickbird digunakan pada penelitian ini untuk mengetahui karakteristik dasar perairan di Pulau Tondhu. Metode atau algoritma yang digunakan untuk melakukan hal tersebut adalah algoritma Lyzenga dengan memanfaatkan nilai digital/nilai pantulan dari saluran biru. Saluran biru (dengan panjang gelombang 0.450 &ndash;0.520 &micro;m). Selanjutnya, setelah informasi tentang substrat diekstrak, kemudian hasilnya dikelompokkan menjadi beberapa kelas.</p>
+<p style="text-align: justify;">
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Seperti yang ditampilkan pada Gambar 5.43, terlihat bahwa Pulau Tondhu merupakan sebuah pulau yang dikelilingi oleh hamparan pasir dibawah permukaan perairan yang dangkal. Sementara itu, pulau ini dikelilingi oleh substrat berkarang dibagian barat dan utara pulau. Tutupan substrat karang hidup diduga berada di bagian utara pulau berikut pula tutupan padang lamun.</p>
+<p>
+	&nbsp;</p>
+</div></p>
+
+<hr>
+
+<h2><a id="snh">Sumberdaya Non Hayati</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<h2><a id="aps">Aktivitas Pengelolaan Sumberdaya</a></h2>
+<p><div class="readmore"><p style="text-align: justify;">
+	<strong>AKTIVITAS PENGELOLAAN SUMBERDAYA</strong></p>
+<p style="text-align: justify;">
+	<strong>Perikanan Tangkap</strong></p>
+<p style="text-align: justify;">
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Perikanan tangkap sebagai sistem yang memiliki peran penting dalam penyediaan pangan, kesempatan kerja, perdagangan dan kesejahteraan serta rekreasi bagi sebagian penduduk Indonesia perlu dikelola yang berorientasi pada jangka panjang (<em>sustainability management</em>).</p>
+<p style="text-align: justify;">
+	Kegiatan perikanan tangkap sebagian besar masih bersifat artisanal yang dicirikan dari keragaan alat tangkap dan armada penangkapan ikan skala kecil. Sektorperikanan tangkap di Pulau Tondhurelatif sangat sedikit, hal ini dikarenakan banyak penduduk yang melakukan perantauan ke luar Pulau Tondhu, Sebagian kecil penduduk Pulau Tondhu memiliki profesi sebagai nelayan perikanan tangkap, dengan alat tangkap berupa jaring perangkap dan pancing. Ikan-ikan yang ditangkap oleh nelayan Pulau Tondhu hanya ikan-ikan karang. Walaupun ketersediaan air tawar di pulau ini cukup banyak, akan tetapi tidak ditemukan adanya warga yang memiliki usaha budidaya air tawar. Nelayan-nelayan di pulau ini telah memiliki sarana kapal yang cukup baik. Hal ini ditunjukkan dengan ukuran-ukuran kapal tangkap yang sedang dan rata-rata dilengkapi dengan mesin temple, akan tetapi sarana kapal yang ada di Pulau Tondhu banyak digunakan untuk sarana transportasi antar Pulau.</p>
+<p style="text-align: justify;">
+	Jenis-jenis ikan yang menjadi komoditas tangkapan utama bagi masyarakat nelayan di pulau ini cukup bervariasi, antara lain kerapu, kakap merah, ekor kuning, tongkol, teri dan ikan hias. Selain itu, nelayan di Pulau Tondhu ini juga terbiasa menangkap Teripang, Udang Lobster dan Cumi-Cumi pada musim-musim tertentu. Kebanyakan hasil tangkapan nelayan tersebut dijual kepada pengepul atau untuk dikonsumsi sendiri.</p>
+<p style="text-align: justify;">
+	<strong>Budidaya Laut</strong></p>
+<p style="text-align: justify;">
+	Selain hasil perikanan tangkap, masyarakat pesisir Pulau Tondhu juga memanfaatkan sumberdaya laut sebagai lahan budidaya rumput laut.Rumput laut merupakan komoditi hasil perikanan bukan ikan <em>(non fishes)</em>. Rumput laut juga merupakan komoditi ekspor hasil perikanan yang tingkat pengusahaannya masih tergolong rendah dibandingkan dengan usaha budidaya udang, ikan maupun moluska. Budidaya rumput laut memiliki peranan penting dalam usaha meningkatkan produksi perikanan dalam memenuhi kebutuhan pangan dan gizi serta memenuhi kebutuhan pasar dalam negeri dan luar negeri, memperluas lapangan pekerjaan, meningkatkan pendapatan dan kesejahteraan nelayan dan petani ikan serta menjaga kelestarian sumber hayati perairan. Metode penanaman yang digunakan oleh petani rumput laut di Pulau Tondhu menggunakan metode longline, dengan spesies rumput laut <em>Echeuma cottoni</em> dan <em>Eucheuma spinosum</em>. Lokasi budidaya rumput laut berada di selatan tenggara pulau tondhu dengan titik koordinat 07&rsquo;09.300 LS dan 114&rsquo;39.247 BT.</p>
+<p style="text-align: justify;">
+	Budidaya rumput laut di Pulau Tondhu merupakan pekerjaan sampingan bagi masyarakat, hal ini dikarenakan budidya rumput laut tidak memerlukan perawatan yang cukup banyak menyita waktu, sehingga masyarakat Pulau Tondhu masih cukup banyak waktu untuk bertani diladang. Berdasarkan hasil wawancara dengan para petani rumput laut, produksi setiap kali panen menghasilkan &plusmn; 70 kg rumput laut kering. Hasil panen rumput laut di pasarkan melalui pengepul yang berada disekitar Pulau Ra&rsquo;as. Harga rumput laut yang dipasarkan kepada pengepul berkisar antara Rp. 8.000-10.000 untuk <em>Eucheuma cottoni</em> dan Rp 4.000-6000,- untuk <em>Euheuma spinosum</em>.</p>
+<p style="text-align: justify;">
+	<strong>Pertanian</strong></p>
+<p style="text-align: justify;">
+	Sektor pertanian merupakan sektor yang strategis terutama di Kabupaten Sumenep. Hampir diseluruh wilayah Kabupaten Sumenep berpotensi untuk diolah menjadi lahan pertanian dan peternakan mengingat tanah yang sangat subur. Pertanian di Kabupaten Sumenep, terutama di kepulauan yang ada di Kabupaten Sumenep merupakan kegiatan utama dan kegiatan sampingan bagi masyarakat kepulauan. Masyarakat Pulau Tondhu memanfaatkan lahan pertanian untuk bercocok tanam. Umumnya tanaman yang dibudidayakan dipulau ini adalah singkong, talas (bentul), pisang, kelapa, kangkung dan beberapa jenis sayuran lainnya. Hasil tanaman-tanaman tersebut sebagian besar digunakan untuk konsumsi warga sendiri.</p>
+<p style="text-align: justify;">
+	<strong>Peternakan</strong></p>
+<p style="text-align: justify;">
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Selain nelayan dan bercocok tanam, sebagian besar masyarakat Pulau Tondhu yang memiliki usaha sampingan sebagai peternak. Hewan ternak yang banyak dipelihara oleh warga Pulau Tondhu adalah sapi, meskipun ada beberapa orang warga yang juga memiliki hewan ternak kambing, namun jumlahnya hanya sedikit.</p>
+<p style="text-align: justify;">
+	Selain dimanfaatkan untuk daging konsumsi, sapi-sapi yang dipelihara oleh penduduk pulau ini juga diperjual belikan antar warga. Selain ternak sapi, hewan lain yang dipelihara oleh warga Pulau Tondhu adalah kambing.</p>
+<p style="text-align: justify;">
+	<strong>Kerajinan</strong></p>
+<p style="text-align: justify;">
+	Kerajinan merupakan kegiatan harian yang dapat menambah pendapatan masyarakat. Kerajinan di Pulau Tondhu adalah kerajinan tangan berupa pembuatan gelang dari manik-manik. Kegiatan pembuatan kerajinan tangan ini dilakukan secara berkelompok. Hasil kerajinan tangan ini di jual ke daratan Pulau Raas dan Kabupaten Sumenep dan di perjualbelikan ke luar Pulau Jawa yaitu di Pulau Bali. Kerajinan tangan ini dapat meningkatkan pendapatan masyarakat Pulau Tondhu, sehingga dapat meningkatkan perekonomian masyarakat setempat.</p>
+<p style="text-align: justify;">
+	Citra satelit Quickbird yang digunakan pada kegiatan kajian ini juga dapat digunakan untuk mengetahui kelas-kelas penggunaan lahan yang ada di Pulau Tondhu. Dengan menggunakan metode klasifikasi terbimbing (<em>supervised classification</em>) dapat dihasilkan peta penggunaan lahan.</p>
+<p style="text-align: justify;">
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Berdasarkan gambar diatas terlihat bahwa sebagian besar lahan di Pulau Tondhu adalah lahan yang ditutupi oleh vegetasi (tanaman campuran). Lahan jenis ini terdistribusi merata di bagian tengah pulau. Pemukiman penduduk di Pulau Tondhu tersebar di bagian utara, selatan dan sedikit di bagian timur pulau. Distribusi pemukiman menyebar dan terpusat di beberapa bagian. Selanjutnya, di pulau ini dapat pula ditemukan pantai-pantai dengan hamparan pasir di bagian utara dan selatan.</p>
+<p style="text-align: justify;">
+	Berdasarkan hasil analisa lebih lanjut, ternyata kelas penggunaan lahan dengan prosentase terbesar adalah hutan/tanaman campuran (75.25 %). Hutan ini dapat dijelaskan sebagai kawasan perbukitan di sebelah utara pulau yang memang ditumbuhi oleh vegetasi yang lebat. Selanjutnya adalah tanah kosong/lahan terbuka dengan prosentase sebesar 3.37 %. Hal ini merujuk pada lahan-lahan terbuka dan juga lapangan yang tidak dimanfaatkan oleh warga. Sementara itu, 12.45 % dari luas pulau ini merupakan kawasan pemukiman penduduk. Kawasan pemukiman penduduk sebagian besar tersebar di tengah pulau, diantara pantai sebelah barat dan timur. Selain itu, tipe penggunaan lahan yang dapat dijumpai di pulau ini antara lain adalah sawah tadah hujan, kebun dan lahan kosong.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="ling">Lingkungan</a></h2>
+<p><div class="readmore"><p style="text-align: justify;">
+	<strong>KUALITAS LINGKUNGAN</strong></p>
+<p style="text-align: justify;">
+	<strong>Kualitas Perairan</strong></p>
+<p style="text-align: justify;">
+	Tekanan lingkungan terhadap perairan semakin lama semakin meningkat karena masuknya limbah dari berbagai kegiatan di kawasan-kawasan yang telahterbangun di wilayah pesisir tersebut. Jenis limbah yang masuk seperti limbah organikdan anorganik ini yang menyebabkan penurunan kualitas lingkungan perairan (Wiryawan <em>et.al,</em> 1999). Penurunan kualitas lingkungan ini dapat diidentifikasi dari perubahan komponen fisik, kimia dan biologi perairan di sekitar pantai. Perubahan komponen fisik dan kimia tersebut selain menyebabkan menurunnya kualitas perairan juga menyebabkan bagian dasar perairan menurun, yang dapat mempengaruhi kehidupan biota perairan terutama pada struktur komunitasnya (Odum, 1971; Warwick, 1993).&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p style="text-align: justify;">
+	Pengukuran kualitas perairan Pulau Tondhu dilakukan dengan pengambilan data beberapa parameter perairan di 4 titik yang disesuaikan dengan titik pengamatan persentase terumbu karang. Parameter-parameter kualitas air yang diambil sesuai dengan Kepmen LH No.51 Tahun 2004 tentang baku mutu air laut untuk biota laut. Berdasarkan hasil pengukuran kualitas perairan secara insitudan hasil analisa kualitas laboratorium yang dilakukan di 4 titik di sekeliling Pulau Tondhu menunjukkan bahwa perairan pulau ini merupakan habitat yang masih alami dan sesuai untuk kehidupan biota laut. Hal ini ditunjukkan oleh hasil analisa kualitas air, dimana parameter-parameter yang diukur memiliki nilai yang sesuai dengan baku mutu untuk biota air laut.</p>
+<p style="text-align: justify;">
+	Kualitas lingkungan perairan adalah suatu kelayakan lingkungan perairan untuk menunjang kehidupan dan pertumbuhan organisme air yang nilainya dinyatakan dalam suatu kisaran tertentu. Sementara itu, perairan ideal adalah perairan yang dapat mendukung kehidupan organisme dalam menyelesaikan daur hidupnya.Kualitas air adalah suatu keadaan dan sifat-sifat fisik, kimia dan biologi suatu perairan yang dibandingkan dengan persyaratan untuk keperluan tertentu, seperti kualitas air untuk air minum, pertanian dan perikanan, rumah sakit, industri dan lain sebagainya. Sehingga menjadikan persyaratan kualitas air berbeda-beda sesuai dengan peruntukannya.</p>
+<p style="text-align: justify;">
+	Parameter fisik dalam kualitas air merupakan parameter yang bersifat fisik, dalam arti dapat dideteksi oleh panca indera manusia yaitu melalui visual, penciuman, peraba dan perasa. Perubahan warna dan peningkatan kekeruhan air dapat diketahui secara visual, sedangkan penciuman dapat mendeteksi adanyaperubahan bau pada air serta peraba pada kulit dapat membedakan suhu air, selanjutnya rasa tawar, asin dan lain sebagainya dapat dideteksi oleh lidah (indera perasa). Hasil indikasi dari panca indera ini hanya dapat dijadikan indikasi awal karena bersifat subyektif, bila diperlukan untuk menentukan kondisi tertentu, misal kualitas air tersebut telah menurun atau tidak harus dilakukan analisis pemeriksaan air di laboratorium dengan metode analisis yang telah ditentukan.</p>
+<p style="text-align: justify;">
+	Sedangkan parameter kimia yang didefinisikan sebagai sekumpulan bahan/zat kimia yang keberadaannya dalam air mempengaruhi kualitas air. Selanjutnya secara keseluruhan parameter biologi mampu memberikan indikasi apakah kualitas air pada suatu perairan masih baik atau sudah kurang baik, hal ini dinyatakan dalam jumlah dan jenis biota perairan yang masih dapat hidup dalam perairan.</p>
+<p style="text-align: justify;">
+	<strong>Permasalahan Lingkungan</strong></p>
+<p style="text-align: justify;">
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Dewasa ini sumberdaya alam dan lingkungan telah menjadi barang langka akibat eksploitasi yang berlebihan dan kurang memperhatikan aspek keberlanjutan. Kendati secara ekonomi dapat meningkatkan nilai jual, namun disisi lain dapat menimbulkan ancaman kerugian ekologi yang jauh lebih besar, seperti hilangnya lahan, langkanya air bersih, banjir longsor dan sebagainya. Salah satu akibat dari kelangkaan tersebut adalah pemanfaatan sumberdaya alam yang kini mulai bergeser dari SDA darat kearah pemanfaatan SDA pesisir dan laut. Pangkal persoalannya terletak pada mobilisasi pertumbuhan di wilayah pesisir yakni semakin pesatnya pusat-pusat pertumbuhan di wilayah pesisir yang merupakan perluasan dari ruang-ruang yang semakin sempit. Pertumbuhan di pesisir yang pesat tersebut juga telah memakan mangrove, yang kemudian dihilangkan.</p>
+<p style="text-align: justify;">
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Salah satu bencana yang saat ini yang sedang melanda dunia adalah pemanasn global. Pemanasan global mengakibatkan perubahan iklim yang berdampak pada kehidupan masyarakat pesisir dan pulau-pulau kecil khususnya nelayan. Pemanasan global telah menyebabkan tidak menentunya cuaca dan iklim, sehingga nelayan tidak menentu melaut yang berakibat pada berkurangnya hasil tangkapan ikan. Kenaikan paras muka air laut akibat pemanasan global telah menggenangi lahan-lahan budidaya perikanan yang berdampak pada berkurangnya hasil produksi dari proses budidaya yang dikembangkan. Keanekaragaman sumberdaya hayati laut mulai berkurang akibat pemanasan global. Kenaikan paras muka air laut juga telah menyebabkan terjadinya abrasi pantai dan tergenangnya pemukiman masyarakat pesisir dan pulau-pulau kecil sehingga masyarakat pesisir kesulitan untuk mendapatkan air bersih dan muncul beberapa penyakit tertentu.</p>
+<p style="text-align: justify;">
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Undang-Undang No 24 Tahun 2007 tentang Penanggulangan Bencana dan dan secara eksplisit dalam Undang-Undang No 27 Tahun 2007 tentang Pengelolaan Wilayah Pesisir dan Pulau-Pulau Kecil mengamanahkan secara tegas agar dilakukan upaya mitigasi bencana dalam proses pengelolaan wilayah pesisir dan pulau-pulau kecil. Bencana pesisir yang dimaksud adalah kejadian karena peristiwa alam atau karena perbuatan orang yang menimbulkan perubahan sifat fisik dan/atau hayati pesisir dan mengakibatkan korban jiwa, harta, dan/atau kerusakan di wilayah pesisir dan pulau-pulau kecil.</p>
+<p style="text-align: justify;">
+	Mitigasi bencana merupakan upaya untuk mengurangi risiko bencana, baik secara struktur atau fisik melalui pembangunan fisik alami dan/atau buatan maupun nonstruktur atau nonfisik melalui peningkatan kemampuan menghadapi ancaman bencana di wilayah pesisir dan pulau-pulau kecil.</p>
+<p style="text-align: justify;">
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Manajemen atau pengelolaan risiko bencana dapat menjadi salah satu alternatif dalam proses pengelolaan wilayah pesisir dan pulau-pulau kecil. Pada prinsipnya, manajemen risiko bencana merupakan upaya yang dilakukan untuk mengurangi risiko bencana di wilayah pesisir dan pulau-pulau kecil dengan tujuan agar masyarakat di wilayah tersebut memiliki ketahanan terhadap ancaman bahaya di wilayahnya. Risiko bencana merupakan interaksi antara bahaya dengan kerentanan dibagi dengan kapasitas. Bahaya merupakan faktor yang tidak dapat dikendalikan. Oleh karena itu pengurangan risiko bencana di wilayah pesisir dilakukan dengan mengurangi tingkat kerentanan dan meningkatkan kapasitas masyarakat pesisir. Salah satu upaya mengurangi risiko bencana di wilayah pesisir dilakukan di antaranya mengurangi tingkat kerentanan masyarakat pesisir. Upaya ini memerlukan pemahaman tentang karakteristik dan kondisi kerentanan sosial ekonomi masyarakat, terutama di berbagai wilayah pesisir yang rawan bencana.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="sp">Sarana dan Prasarana</a></h2>
+<p><div class="readmore"><p style="text-align: justify;">
+	<strong>SARANA DAN PRASARANA PULAU TONDHU</strong></p>
+<p style="text-align: justify;">
+	<strong>5.8.1 Sarana Transportasi</strong></p>
+<p style="text-align: justify;">
+	&nbsp;&nbsp;&nbsp; Sarana dan prasarana transportasi yang ada di Pulau Tondhu sesuai dengan keadaan alam di pulau tersebut. Untuk sarana transportasi laut, penduduk pulau ini menggunakan perahu yang berukuran panjang kurang lebih 5-10 meter atau ukuran yang lebih kecil. Selain sebagai sarana transportasi antar pulau, perahu-perahu tersebut juga dipakai untuk menangkap ikan. Sarana jalan yang ada di Pulau Tondhu ini sebagian ada yang di paving dan beton, sebagian jalan tanah. Lebar jalan antara 1.5 meter sampai dengan 2 meter, yang cukup untuk dilewati warga dengan berjalan kaki. Kendaraan bermotor yang ada hanya sepeda motor dengan jumlah yang sangat sedikit. Namun ada warga terutama anak-anak yang memiliki sepeda. Hal ini terjadi karena ukuran wilayah pulau yang dihuni oleh masyarakat tidak begitu luas. Sehingga dengan berjalan kaki warga merasa cukup untuk berinteraksi.</p>
+<p style="text-align: justify;">
+	<strong>Sarana Penerangan/Listrik</strong></p>
+<p style="text-align: justify;">
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Aliran listrik sudah tersedia di Pulau Tondhu dan disalurkan kepada warga masyarakat. Listrik di pulau ini berasal dari 2 buah PLTD yang dikelola oleh warga sendiri. PLTD milik pribadi dapat menyediakan listrik untuk sekitar 300 rumah namun hanya menyala dari pukul 18.00 WIB sampai dengan 05.00 WIB. Pembiayaan dilakukan secara bulanan dengan besaran tergantung pada jumlah pemakaian. Apabila warga memerlukan listrik diluar jam pada umumnya, maka beberapa warga memiliki mesin genset berukuran kecil yang disewakan untuk hajatan tertentu.</p>
+<p style="text-align: justify;">
+	<strong>Sarana Air Bersih</strong></p>
+<p style="text-align: justify;">
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Warga masyarakat Pulau Tondhu mendapatkan air bersih dari sumur yang banyak tersebar di pulau ini. Akan tetapi tidak semua rumah warga di Pulau Tondhu memiliki sumur air tawar. Kedalaman sumur warga berkisar antara 7-10 meter. Untuk mengangkat airnya, banyak pula warga yang sudah menggunakan pompa air, tapi terdapat juga warga yang masih menimba air dari sumur secara langsung. Kualitas air tawar di pulau ini juga cukup baik, sehingga bisa digunakan untuk air minum. Apabila dilihat dari kondisi persebarannya, maka ketersediaan air tawar di pulau ini dapat dianggap cukup untuk menunjang kehidupan warga.</p>
+<p style="text-align: justify;">
+	<strong>Sarana Kesehatan dan Pendidikan</strong></p>
+<p style="text-align: justify;">
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Untuk sarana kesehatan, di Pulau Tondhu hanya terdapat 1 unit Poskesdes (Pos Kesehatan Desa) dengan 1 tenaga paramedis/bidan yang berasal dari daratan Pulau Ra&rsquo;as. Poskesdes hanya buka apabila tenaga paramedis ada di tempat. Selain itu tampaknya tidak ada kegiatan di Poskesdes. Berikut tabel sarana kesehatan yang tersedia di Pulau Tondhu. Sarana pendidikan yang ada di Pulau Tondhu yaitu 2 Sekolah Dasar Negeri yaitu SDN Tondhu I dan II, 4 Madrasah Ibtidaiyah (MI), 1 Madrasah Tsanawiyah (MTs).</p>
+<p style="text-align: justify;">
+	<strong>Sarana Peribadatan</strong></p>
+<p style="text-align: justify;">
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Seluruh penduduk Pulau Tondhu adalah pemeluk agama Islam. Terdapat 3masjid yang berukuran cukup besar terdapat di tengah-tengah pemukiman.Selain masjid utama, disekitar pemukiman penduduk juga ditemukan beberapa buah musholla yang berukuran kecil dan besar. Berikut data jumlah sarana peribadatan di Pulau Tondhu.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="pi">Peluang Investasi</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<h2><a id="pap">Potensi dan Arahan Pengembangan</a></h2>
+<p><div class="readmore"><p style="text-align: justify;">
+	<strong>POTENSI DAN ARAHAN PENGEMBANGAN</strong></p>
+<p style="text-align: justify;">
+	<strong>Potensi Ekowisata Bahari</strong></p>
+<p style="text-align: justify;">
+	Ekowisata merupakan kegiatan wisata yang berorientasi pada lingkungan untuk menjembatani kepentingan perlindungan sumberdaya alam dan industri pariwisata. Kegiatan ini dikembangkan di wilayah pesisir dengan membangun konsep ekowisata bahari. Ekowisata bahari merupakan konsep wisata yang memanfaatkan karakteristik sumberdaya pesisir dan laut termasuk sumberdaya manusia yang dapat diintegrasikan menjadi komponen terpadu pada pemanfaatan wisata. Selanjutnya, Hutabarat <em>et al </em>(2009) menyatakan bahwa kegiatan wisata tersebut berkembang di daerah-daerah konservasi atau daerah-daerah yang masih memiliki sumberdaya alami dengan tetap mempertahankan keseimbangan alam. Fenomena ini memberikan manfaat positif bagi kelestarian alam dan keberadaan kawasan konservasi. Dengan demikian ekowisata juga dapat dikatakan merupakan suatu konsep pemanfaatan sumberdaya alam dengan pendekatan konservasi untuk pengembangan wisata.</p>
+<p style="text-align: justify;">
+	Obyek ekowisata bahari di Perairan Pulau Tondhu dan sekitarnya terdiri obyek komoditi dan obyek ekosistem. Obyek komoditi terdiri dari potensi spesies biota laut dan material non hayati yang mempunyai daya tarik wisata, berupa kondisi pantai berpasir tebal dengan vegetasi pantai menyejukkan. Sedangkan obyek ekosistem merupakan daya tarik wisata di dalam kawasan,yaitu hamparan pasir pantai serta terumbu karang untuk aktivitas penyelaman (<em>diving</em>) dan <em>snorkling</em>.</p>
+<p style="text-align: justify;">
+	Penetapan kawasan untuk pengembangan ekowisata bahari kategori selam dan <em>snorkling </em>dilakukan dengan mempertimbangkan faktor-faktor pembatas yang terdiri dari parameter-parameter kecerahan perairan, tutupan karang hidup, jenis <em>lifeform</em>, jenis ikan karang, kedalaman terumbu karang dan lebar hamparan terumbu karang. Proses analisis kesesuaian tersebut diawali dengan penyusunan matrik sekaligus pemberian bobot dan skoring pada semua parameter pembatas sesuai tingkat kepentingan. Parameter kecerahan dan tutupan karang hidup memiliki bobot paling tinggi dibanding parameter lain. Hal ini disebabkan karena kecerahan merupakan penentu penetrasi cahaya untuk kelangsungan hidup bagi ekosistem terumbu karang. Dengan kecerahan yang tinggi, para wisatawan dapat dengan jelas melihat objek ekosistem terumbu karang. Sementara itu, tutupan karang hidup merupakan daya tarik wisatawan dalam menikmati keindahan bawah laut. Parameter-parameter penilaian kesesuaian ekowisata bahari dibedakan menjadi dua, yaitu pengaruh manusia dan bukan pengaruh manusia (Arifin <em>et al</em> 2002). Parameter yang tidak dipengaruhi oleh manusia meliputi kecerahan perairan, keragaman jenis terumbu karang dan ikan karang, sedangkan yang tidak dapat dipengaruhi oleh manusia seperti kedalaman perairan dan kecepatan arus.</p>
+<p style="text-align: justify;">
+	Hasil analisis matrik kesesuaian kawasan untuk ekowisata bahari kategori selam dan <em>snorkling</em> diperoleh melalui analisis spasial yang dibantu dengan <em>software</em> ArcView 3.3. Kelas kesesuaian ekowisata di perairan Pulau Tondhu dan sekitarnya berkisar dari kelas sangat sesuai, cukup sesuai, sesuai bersyarat hingga tidak sesuai. Analisa kesesuaian lahan ekowisata bahari digunakan untuk memberikan kelayakan pada daerah yang memiliki kriteria khusus untuk pengembangan dalam sektor pariwisata, yang dapat memberikan manfaat besar untuk masyarakat tersebut. Kegiatan ekowisata bahari yang akan dikembangkan di Pulau Tondhu dan sekitarnya hendaknya disesuaikan dengan potensi sumberdaya dan peruntukannya. Setiap kegiatan wisata mempunyai persyaratan sumberdaya dan lingkungan yang sesuai obyek wisata yang dikembangkan. Penetapan kawasan ekowisata bahari kategori selam (<em>diving</em>) dan <em>snorkling </em>menggunakan rumus sebagai berikut:</p>
+<p style="text-align: justify;">
+	Keterangan:</p>
+<p style="text-align: justify;">
+	IKW&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : Indeks Kesesuaian Wisata</p>
+<p style="text-align: justify;">
+	Ni&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : Nilai parameter ke-i (Bobot x Skor)</p>
+<p style="text-align: justify;">
+	N<em>maks</em>&nbsp;&nbsp;&nbsp; : Nilai Maksimum dari suatu kategori wisata</p>
+<p style="text-align: justify;">
+	Penentuan kesesuaian berdasarkan perkalian skor dan bobot yang diperoleh dari setiap parameter. Kesesuaian kawasan dilihat dari tingkat persentase kesesuaian yang diperoleh dari penjumlahan nilai keseluruhan parameter. Persentase tersebut dibagi di dalam kelas kesesuaian yang didefinisikan dan dimodifikasi sebagai berikut :</p>
+<ol>
+	<li style="text-align: justify;">
+		Sangat Sesuai (S1) : IKW &gt; 75 %</li>
+</ol>
+<p style="margin-left: 0.25in; text-align: justify;">
+	Lahan atau kawasan yang tidak mempunyai faktor pembatas yang berarti yang mempunyai pengaruh nyata terhadap penggunaannya. Tidak akan menaikkan masukan/tingkatan perlakuan yang diberikan.</p>
+<ol>
+	<li style="text-align: justify;" value="2">
+		Sesuai (S2) : IKW &gt;50-75 %</li>
+</ol>
+<p style="margin-left: 0.25in; text-align: justify;">
+	Lahan atau kawasan yang mempunyai faktor pembatas yang agak serius untuk mempertahankan tingkat perlakuan yang harus diterapkan. Pembatas akan meningkatkan perlakuan yang diberikan.</p>
+<ol>
+	<li style="text-align: justify;" value="3">
+		Sesuai Bersyarat (S3) : IKW 25-50 %</li>
+</ol>
+<p style="margin-left: 0.25in; text-align: justify;">
+	Lahan atau kawasan yang mempunyai faktor pembatas yang serius untuk mempertahankan tingkat perlakuan yang harus diterapkan. Pembatas akan lebih meningkatkan perlakuan yang diberikan.</p>
+<ol>
+	<li style="text-align: justify;" value="4">
+		Tidak Sesuai (N) : IKW &lt;25 %</li>
+</ol>
+<p style="margin-left: 0.25in; text-align: justify;">
+	Lahan atau kawasan yang mempunyai faktor pembatas permanen, sehingga tidak sesuai untuk dikembangkan ke dalam suatu peruntukan.</p>
+<p style="text-align: justify;">
+	<strong>Strategi Pengembangan Pulau Tondhu Sebagai Kawasan &nbsp;Ekowisata</strong></p>
+<p style="text-align: justify;">
+	Pengembangan Pulau Tondhu Kabupaten Sumenep sebagai kawasan ekowisata berbasis pulau-pulau kecil dikaji melalui penyusunan rencana strategis menggunakan pendekatan SWOT. Berdasarkan hasil analisis responden yang terdiri dari penduduk setempat kawasan, pemerintah, akademisi serta hasil pengamatan lapangan, diperoleh unsur-unsur SWOT yang terbagi atas Faktor Strategi Internal dan Faktor Strategi Eksternal</p>
+<p style="text-align: justify;">
+	<em>Weakness-Opportunity-Threat</em>). Parameter dalam matriks IE ini meliputi kekuatan internal rencana pengembangan ekowisata Pulau Tondhu dan pengaruh eksternal yang dihadapi. Tujuan penggunaan strategi ini adalah untuk memperoleh strategi pengembangan di tingkat yang lebih detail. Hasil pemetaan matriks IE digunakan sebagai acuan dalam pembuatan strategi yang ada di matriks SWOT. Berdasarkan hasil analisis faktor internal menggunakan matriks IFAS diperoleh skor terbobot sebesar 2,9 dan hasil analisis faktor eksternal menggunakan matriks EFAS diperoleh skor terbobot sebesar 2,8. Analisis ini dipetakan dalam matriks Internal-Eksternal dan menempati sel V. Hal ini menunjukkan bahwa Pulau Tondhu Kabupaten Sumenep berada pada posisi <em>Hold and Maintain </em>(mempertahankan dan memelihara) dan Rangkuti (1997) menyatakan bahwa strategi yang digunakan adalah <em>growth Strategy</em><strong>. </strong>Dengan demikian, strategi yang ada pada semua sel SWOT merupakan suatu kegiatan pengembangan dengan cara membangun dan meningkatkan atraksi wisata, fasilitas dan sarana pendukung lainnya melalui pengembangan internal maupun eksternal melalui akuisisi dengan kawasan ekowisata atau wisata yang lain.</p>
+<p style="text-align: justify;">
+	Strategi yang dapat diterapkan dalam pengembangan Pulau Tondhu menjadi kawasan ekowisata adalah strategi penetrasi pasar dan pengembangan produk (wisata) yang ditawarkan. Penetrasi pasar dalam hal ini merupakan strategi yang mengupayakan peningkatan pangsa pasar melalui usaha pemasaran yang lebih intensif untuk meningkatkan penjualan jasa wisata pada pasar yang sudah ada. Upaya-upaya yang dapat dilakukan melalui peningkatan aktivitas promosi. Hal ini ditujukan untuk meningkatkan pangsa pasar dengan usaha pemasaran yang maksimal pada kondisi pasar yang belum jenuh, terjadinya penurunan persaingan dan peningkatan kemampuan bersaing. Pada strategi pegembangan produk wisata, langkah yang dapat dilakukan adalah memperbaiki, memodifikasi dan mengelola kawasan potensi wisata. Pengelolaan kawasan potensi wisata ini harus disesuaikan dengan situasi, kebutuhan dan selera pengguna (pengunjung). Hal ini dilakukan sebagai salah satu upaya persaingan mendapatkan pasar dengan kawasan wisata lain yag lebih baik dan/atau lebih murah, sehingga diperlukan inovasi pengembangan kawasan dan berada pada <em>clean industry</em> yang sedang tumbuh. Hal ini digunakan untuk memformulasikan strategi pengembangan dan pengelolaan kawasan potensi ekowisata Pulau Tondhu.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="kp">Kendala Pengembangan</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<h2><a id="rf">Referensi</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<br />
+	<i> 
+		<p style="font-size:12px;">
+			Karena keterbatasan SDM dalam penginputan dan pengolahan data, kami mohon maaf atas ketidak lengkapan beberapa data pulau yang kami tampilkan, harap dimaklumi.
+			Berikan keritik dan saran pada kolom komentar agar kita dapat bersama menyajikan sebuah data yang cukup sempurna untuk halayak ramai yang berguna
+			demi kesejahterahan, kelestarian dan keindahan pulau-pulau kecil yang dimiliki Indonesia.<br />
+			*Jika sekiranya anda memiliki data yang cukup banyak, silakan mengirimkan file melalui email kami di <b><a>identifikasippk@gmail.com</a></b>
+			
+		</p>
+	</i>
+<br />
+
+<div id="fb_comn" class="fb-comments" data-href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_info/4772" data-width="800" data-numposts="5" data-colorscheme="light"></div>
+
+
+</div>
+</div>
+</div>
+<div id="wrapper">
+
+<div class="footer"><p>
+<!--<marquee onmouseover="this.stop()" onmouseout="this.start()" scrollamount="5" direction="right" width="798" height="14"  behavior="scroll">-->
+<a href="http://www.ppk-kp3k.kkp.go.id/" target="_blank">Direktorat Pendayagunaan Pulau-Pulau Kecil &nbsp; | &nbsp;</a>
+<a href="http://www.kp3k.kkp.go.id/" target="_blank">Ditjen Kelautan, Pesisir dan Pulau-Pulau Kecil &nbsp; | &nbsp;</a>
+<a href="http://www.kkp.go.id/" target="_blank">Kementerian Kelautan dan Perikanan</a>
+<!--</marquee>--> <br />
+Jl. Medan Merdeka Timur No. 16 Gedung Mina Bahari 3 Lantai 10, Jakarta, Indonesia <br />
+Email : identifikasippk@gmail.com <br />
+Telp &amp; Fax: (021) 3522058 <br />
+&copy; Copyright Direktorat Pendayagunaan Pulau-Pulau Kecil 2012&nbsp; <br /></p>
+</div>
+</div>
+</body>
+</html>

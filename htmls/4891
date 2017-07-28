@@ -1,0 +1,442 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Pulau Asahan Gili</title>
+
+<meta charset="utf-8"/>
+
+<meta property="fb:app_id" content="559408774147878" />
+
+
+<meta property="og:title" content="Pulau Asahan Gili" />
+<meta property="og:url" content="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_info/4891" />
+
+
+    <script type="text/javascript" src="http://ajax.microsoft.com/ajax/jquery/jquery-1.4.4.min.js">
+    </script>
+    
+    <script type="text/javascript" src="http://plugins.learningjquery.com/expander/jquery.expander.js">
+    </script>
+    
+    <script type="text/javascript">
+        $(function () {
+            $('div.readmore').expander({
+                slicePoint:200,
+                expandText: '(Baca selengkapnya)',
+                userCollapseText: '(Sembunyikan selengkapnya)'
+            });
+        });
+    </script>
+        
+	<script src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/galleria/galleria-1.2.8.min.js"></script>
+
+        <SCRIPT TYPE="text/javascript">
+            <!--
+            //Disable right click script
+            //visit http://www.rainbow.arch.scriptmania.com/scripts/
+            var message="Sorry, right-click has been disabled";
+            ///////////////////////////////////
+            function clickIE() {if (document.all) {(message);return false;}}
+            function clickNS(e) {if
+            (document.layers||(document.getElementById&&!document.all)) {
+            if (e.which==2||e.which==3) {(message);return false;}}}
+            if (document.layers)
+            {document.captureEvents(Event.MOUSEDOWN);document.onmousedown=clickNS;}
+            else{document.onmouseup=clickNS;document.oncontextmenu=clickIE;}
+            document.oncontextmenu=new Function("return false")
+            // -->
+            </SCRIPT>
+            
+            <SCRIPT TYPE="text/javascript">
+            <!--
+            //Disable select-text script (IE4+, NS6+)
+            //visit http://www.rainbow.arch.scriptmania.com/scripts/
+            ///////////////////////////////////
+            function disableselect(e){
+            return false
+            }
+            function reEnable(){
+            return true
+            }
+            //if IE4+
+            document.onselectstart=new Function ("return false")
+            //if NS6
+            if (window.sidebar){
+            document.onmousedown=disableselect
+            document.onclick=reEnable
+            }
+            // -->
+            </SCRIPT>  
+              
+<link rel="stylesheet" type="text/css" href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/css/main.css" media="screen"/>
+<style type='text/css'>
+#info_wrap{
+	width:820px;
+	margin:0 auto;
+	text-shadow:0px 1px 1px #09F;
+}
+table{
+	color:#000000;
+}
+h1{
+	color:#000000;
+}
+.tengahin{
+	width: 105px;
+	height: 30px;
+	margin: 0 auto auto auto;
+}
+#box_view{
+	background-image:-webkit-gradient(linear, 0 0%, 0 100%, from(#FFFFFF), to(#E0F0F5));
+	background:#FFF;
+	color:#F60;
+	border: 1px solid #fff;
+	border-radius: 4px 4px 4px 4px;
+	box-shadow: 0 8px 6px -6px black;
+	position:fixed;
+	right:0;
+	top:150px;;
+	width:80px;
+	z-index:10;
+	padding-left:12px;
+	font-size:10px;
+	}
+#box_view li{
+	color:#F60;
+	margin-left:-30px;
+	}
+	#wrapper a b {
+	color: #FFF;
+	font-size:14px;
+}
+.batas{
+	float:left;
+	border-right-style:inset;
+	border-right-width:thin;
+	}
+.text_h_wrap{
+	
+	padding-left:450px;
+	padding-top:39px;
+	text-shadow:0px 1px 1px #09F;
+	}
+#wrapper .footer p{
+	font-size:12px;
+	color: #FFF;
+	text-align:center;
+	text-shadow:0px 1px 1px #09F;
+}
+td,th {
+	font-size: 12px;
+}
+
+marquee a{
+	color:#FFF
+	}
+#wrapper .footer a{
+	color: #FFFFFF;
+}
+</style>
+            
+<script>
+function goBack()
+  {
+  window.history.back()
+  }
+</script>
+<script type="text/javascript">
+function Popup( url, height, width )
+{
+    var windowProperties = "toolbar = 0, scrollbars = 1, location = 0, statusbar = 0, menubar = 0, resizable = 1, width = " + width + ", height = " + height + ", left = 50, top = 50";
+ 
+    return window.open( url, "", windowProperties );
+}
+</script>
+
+
+
+</head>
+<body oncontextmenu='return false;' onkeydown='return false;' onmousedown='return false;'>
+
+<a id="top_view"></a>
+<div id="wrapper">
+<div class="header_wrap">
+<div class="text_h_wrap">
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/home_page'><b>&nbsp;Home&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/menu_info/1'><b>&nbsp;About Us&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_data'><b>&nbsp;Direktori Pulau&nbsp;&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/program_ip'><b>&nbsp;IKU&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/data_ppkt'><b>&nbsp;PPKT&nbsp;</b></a>
+</div>
+<!--<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/maintenance'><b>&nbsp;Login&nbsp;</b></a>-->
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/dir_log_cont'><b>&nbsp;Login&nbsp;</b></a>
+
+</div>
+</div>
+</div>
+
+<div id="fb-root"></div>
+<script>
+  window.fbAsyncInit = function() {
+    // init the FB JS SDK
+    FB.init({
+      appId      : '559408774147878',                        // App ID from the app dashboard
+      status     : true,                                 // Check Facebook Login status
+      xfbml      : true                                  // Look for social plugins on the page
+    });
+
+    // Additional initialization code such as adding Event Listeners goes here
+  };
+
+  // Load the SDK asynchronously
+  (function(){
+     // If we've already installed the SDK, we're done
+     if (document.getElementById('facebook-jssdk')) {return;}
+
+     // Get the first script element, which we'll use to find the parent node
+     var firstScriptElement = document.getElementsByTagName('script')[0];
+
+     // Create a new script element and set its id
+     var facebookJS = document.createElement('script'); 
+     facebookJS.id = 'facebook-jssdk';
+
+     // Set the new script's source to the source of the Facebook JS SDK
+     facebookJS.src = '//connect.facebook.net/en_US/all.js';
+
+     // Insert the Facebook JS SDK into the DOM
+     firstScriptElement.parentNode.insertBefore(facebookJS, firstScriptElement);
+   }());
+</script>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=559408774147878";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="box_view">
+    <a href="#top_view">MENU</a>
+    <h3><p>Lihat Informasi:</p></h3>
+    <ul>
+	<a href="#sf"><li>Slide Foto</li></a>
+    <a href="#gu"><li>Gambaran Umum</li></a>
+    <a href="#ksbk"><li>Kependudukan, Sosial Budaya dan Kelembagaan</li></a>
+    <a href="#eshp"><li>Ekosistem dan Sumberdaya Hayati</li></a>
+    <a href="#snh"><li>Sumberdaya Non Hayati</li></a>
+    <a href="#aps"><li>Aktivitas Pengelolaan Sumberdaya</li></a>
+    <a href="#ling"><li>Lingkungan</li></a>
+    <a href="#sp"><li>Sarana dan Prasarana</li></a>
+    <a href="#pi"><li>Peluang Investasi</li></a>
+    <a href="#pap"><li>Potensi Arahan Pengembangan</li></a>
+    <a href="#kp"><li>Kendala Pengembangan</li></a>
+	<a href="#rf"><li>Referensi</li></a>
+    </ul>
+    <a href="#fb_comn">KOMENTAR</a>
+</div>
+
+<br>
+			<a id="sf"></a></h2>
+			<div id="galleria">
+            <!--<div class='tengahin'><input type="button" value="Kembali Ke List" onclick="goBack()"></div>-->
+                            </div>
+            
+            <script>
+            Galleria.loadTheme('http://www.ppk-kp3k.kkp.go.id/direktori-pulau/galleria/themes/classic/galleria.classic.min.js');
+            Galleria.run('#galleria');
+            </script>
+</div>
+
+<div id="text_warp">
+
+
+<p><h1>Asahan Gili</h1></p>
+<table>
+<tr>
+	<td>Nama Lain</td> <td>:</td> <td></td>
+</tr>
+<tr>
+	<td>Propinsi</td> <td>:</td> <td>NUSA TENGGARA BARAT</td>
+</tr>
+<tr>
+	<td>Kabupaten</td> <td>:</td> <td>KABUPATEN LOMBOK BARAT</td>
+</tr>
+<tr>
+	<td>Kecamatan</td> <td>:</td> <td></td>
+</tr>
+<tr>
+	<td>Koordinat</td> <td>:</td> <td><a href="http://www.ppk-kp3k.kkp.go.id/giskkp/index.html?extent="target="_blank">8° 44' 18.016</a></td>
+</tr>
+</table>
+<hr>
+
+<h2><a id="gu">Gambaran Umum</a></h2>
+<p><div class="readmore"><p style="text-align: justify;">
+	<span style="color:#8b4513;"><strong>GAMBARAN UMUM</strong></span></p>
+<p style="text-align: justify; margin-left: 40px;">
+	Secara cara administrasi pulau Gili Asahan terletak di Desa Batu Putih, Kecamatan Sekotong Tengah, Kabupaten Lombok Barat, Propinsi Nusa Tenggara Barat. Pulau Gili Asahan masuk dalam status kawasan Desa Kepulauan. Ada 33 kepala keluarga yang menempati pulau ini.</p>
+<p style="text-align: justify; margin-left: 40px;">
+	Pulau Gili Asahan berada pada posisi koordinat geografis 8&deg; 44&#39; 18.016&quot; Lintang Selatan 115&deg; 53&#39; 12.041&quot; Bujur Timur. Batas wilayah Pulau Gili Gede pada bagian sebelah utara berbatasan dengan Selat Lombok,&nbsp; di bagian selatan berbatasan dengan Teluk Blongas, di barat berbatasan dengan Tanjung Bangko-Bangko dan untuk bagian timur berbatasan dengan Laut Desa Gili Gede.</p>
+<p style="text-align: justify; margin-left: 40px;">
+	Diantara pemukiman warga tedapat tempat tinggal warga asing MR. Lusiano Warga Itali yang sangat bersahabat dan termasuk pecinta alam, dia menjaga lingkungan sekitarnya dengan baik. Beliau telah tinggal di indonesia selama 20 tahun.</p>
+<p style="text-align: justify;">
+	<span style="color:#8b4513;"><strong>AKSESIBILITAS</strong></span></p>
+<p style="text-align: justify; margin-left: 40px;">
+	Aksesbilitas menuju Pulau Gili asahan dapat diperhitungkan mulai dari bandara yang berada di Lombok Tengah menuju Kota Mataram sekitar 30 menit jarak tempuh menggunakan transportasi darat. Dari kota Mataram menuju Kabupaten Lombok Barat dapat ditempuh dengan jarak 20 menit. Kemudian dari Lombok Barat menuju Kecamatan Sekotong Tengah sekitar 2 jam dengan transportasi darat, tetapi jika menggunakan trasportasi laut maka akan dapat menghemat waktu 1 jam 10 menit karena lama perjalanan hanya 50 menit. Jika menggunakan kendaraan darat kita dapat menaiki perahu dari pesisir desa Sekotong Barat menuju pulau sekitar 20 menit perjalanan.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="ksbk">Kependudukan, Sosial Budaya dan Kelembagaan</a></h2>
+<p><div class="readmore"><p style="text-align: justify; margin-left: 40px;">
+	Diantara pemukiman warga tedapat tempat tinggal warga asing MR. Lusiano Warga Itali yang sangat bersahabat dan termasuk pecinta alam, dia menjaga lingkungan sekitarnya dengan baik. Beliau telah tinggal di indonesia selama 20 tahun.</p>
+<p style="text-align: justify; margin-left: 40px;">
+	Terdapat komplek rumah untuk pegawai pengelola mutiara PT. Aneka Mutiara yang tidak dihuni lagi dan sudah tidak terawat dan beberapa bangunannya rusak karena di tinggal begitu saja. Bangunan tersebut ditinggalkan karena pihak perusahaan telah memberikan Villa untuk pegawai di daratan pulau Lombok.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="eshp">Ekosistem dan Sumberdaya Hayati</a></h2>
+<p><div class="readmore"><p style="text-align: justify;">
+	<span style="color:#8b4513;"><strong>EKOSISTEM LAMUN</strong></span></p>
+<p style="text-align: justify; margin-left: 40px;">
+	Pesisir Pulau Gili Asahan umumnya ditumbuhi oleh tumbuhan lamun. Pengamatan dilakukan di sisi selatan, barat, dan utara Pulau Gili Asahan.&nbsp; Secara umum, Pulau Gili Asahan memiliki enam dari tiga belas jenis lamun yang ada di Indonesia. Enam jenis lamun tersebut adalah <em>Cymodocea rotundata</em>, <em>Cymodocea serrulata</em>, <em>Enhalus acoroides</em>, <em>Halophila ovalis</em>, <em>Thalassia hemprichii</em>, dan <em>Syringodium isoetifolium</em>. Tipe subsrat dasar perairan Pulau Gili Asahan umumnya berupa pasir sehingga variasi jenis lamun yang tumbuhnya relatif beragam.</p>
+<p style="text-align: justify; margin-left: 40px;">
+	Stasiun pengamatan lamun yang pertama berada di sisi Selatan Gili Asahan yang berdekatan dengan pemukiman warga.&nbsp; Tiga jenis lamun ditemukan di sisi ini, yaitu <em>Cymodocea serrulata</em>, <em>Enhalus acoroides</em>, dan <em>Syringodium isoetifolium</em>.&nbsp; Stasiun pengamatan lamun kedua berada di sisi Barat Daya namun lebih dekat dengan garis pantai Pulau Gili Asahan hanya memiliki tiga jenis lamun.&nbsp; Tiga jenis lamun tersebut adalah <em>Cymodocea rotundata</em>, <em>Halophila ovalis</em>, dan <em>Syringodium isoetifolium</em>.&nbsp; Stasiun pengamatan lamun yang terakhir bearada di sisi utara Pulau Gili Asahan. Pada sisi ini juga ditemukan tiga jenis lamun, tetapi dengan komposisi jenis yang berbeda, yaitu&nbsp; <em>Cymodocea rotundata</em>, <em>Halophila ovalis</em>, dan&nbsp; <em>Thalassia hemprichii</em>.</p>
+<p style="text-align: justify; margin-left: 40px;">
+	Hasil pengamatan ini menunjukkan bahwa setiap stasiun pengamatan sama-sama memiliki tiga jenis lamun sehingga dapat dikatakan bahwa lamun di Pulau Gili Asahan bersifat menyebar secara merata sehingga&nbsp; tidak ada salah satu jenis lamun yang paling mendominasi dari segi keberadaannya di Pulau Gili Asahan.</p>
+<p style="text-align: justify; margin-left: 40px;">
+	Kerapatan (jumlah&nbsp; individu per m&sup2;)&nbsp; jenis lamun paling tinggi berada di sisi barat Pulau Gili Asahan, sedangkan kerapatan jenis lamun paling rendah di sisi&nbsp; selatan Pulau Gili Asahan. Kerapatan lamun paling tinggi dimiliki oleh lamun jenis <em>Syringodium isoetifolium</em> sebesar 227 ind/m&sup2;.&nbsp;&nbsp; Sedangkan, kerapatan lamun paling rendah dimiliki oleh lamun jenis <em>Enhalus acoroides</em> sebesar 17 ind/m&sup2;. Kerapatan total lamun yang paling tinggi terdapat di stasiun pengamatan yang berada di sisi barat Pulau Gili Asahan yaitu sebesar 514 ind/m&sup2;, diikuti oleh stasiun pengamatan yang berada di sisi selatan sebesar 337 ind/m&sup2;, dan yang terakhir kerapatan total lamun terendah terdapat di stasiun pengamatan yang terdapat pada sisi utara Pulau Gili Asahan yaitu sebesar 328 ind/m&sup2;.&nbsp;&nbsp;</p>
+<p style="text-align: justify; margin-left: 40px;">
+	Penutupan lamun di beberapa titik rataan terumbu&nbsp; Pulau Gili Asahan berbeda-beda.&nbsp; Penutupan jenis lamun tertinggi berada pada sisi selatan dan utara Pulau Gili Asahan yaitu masing-masing sebesar 35%, jenis lamun tersebut masing-masing adalah <em>Enhalus acoroides </em>dan <em>Cymodocea rotundata</em>. Sedangkan, lamun jenis <em>Thalassia hemprichii </em>yang berada di sisi utara Pulau Gili Asahan memiliki penutupan area paling rendah yaitu hanya sebesar 5%. Penutupan area total yang tertinggi terdapat pada stasiun pengamatan yang berada di selatan yaitu sebesar 75%, diikuti utara 55%, dan yang terakhir pada bagian barat sebesar 50%.</p>
+<p style="text-align: justify; margin-left: 40px;">
+	Penutupan lamun jenis <em>Thalassia hemprichii </em>berkorelasi dengan kerapatannya yang juga relatif rendah. Berbeda dengan lamun jenis <em>Enhalus acoroides</em> yang dapat memiliki nilai penutupan tinggi meskipun kerapatannya tergolong rendah karena lamun jenis ini memiliki daun memanjang dan lebih lebar di banding semua lamun yang ada di Indonesia, sedangkan lamun jenis <em>Syringodium isoetifolium</em> walaupun mempunyai nilai kerapatan yang tinggi namun dikarenakan bentuk morfologi daunnya yang berbentuk silinder memanjang maka nilai penutupan areanya menjadi relatif rendah.&nbsp;&nbsp;</p>
+<p style="text-align: justify; margin-left: 40px;">
+	Ekosistem lamun memberikan manfaat yang besar bagi biota laut lainnya karena selain sebagai sumber oksigen ekosistem lamun juga dimanfaat kan oleh biota laut seperti ikan untuk memijah, mencari makan, dan berlindung dari serangan predator. Beberapa contoh biota asosiasi lamun yang ditemukan di pesisir Pulau Gili Asahan diantaranya adalah <em>schooling </em>juvenil ikan, terumbu karang, dan makroalga.</p>
+<p style="text-align: justify;">
+	&nbsp;</p>
+<p style="text-align: justify;">
+	<span style="color:#8b4513;"><strong>EKOSISTEM MANGROVE</strong></span></p>
+<p style="text-align: justify; margin-left: 40px;">
+	Pengamatan mangrove di Pulau Gili Asahan dilakukan di sisi timur dan selatan pulau tersebut. Stasiun pengamatan mangrove yang pertama berada di sisi timur Pulau Gili Asahan dengan substratnya berupa pasir berbatu. Pada stasiun&nbsp; pengamatan ini hanya ditemukan satu jenis mangrove dengan kategori pohon yaitu jenis <em>Aegiceras corniculatum</em> dengan kerapatan sebesar 6 individu per 100 m<sup>2</sup>. Oleh karena hanya ditemukan satu jenis mangrove yang tumbuh pada sisi ini maka INP (Indeks Nilai Penting)-nya bernilai 300. Artinya jenis mangrove tersebut mempunyai dominasi tunggal dan sangat berpengaruh terhadap struktur komunitas mangrove pada ekosistem tersebut.</p>
+<p style="text-align: justify; margin-left: 40px;">
+	Titik stasiun pengamatan mangrove yang kedua berada di sisi selatan Pulau Gili Asahan dengan substratnya berupa lumpur. Pada titik pengamatan ini juga hanya ditemukan satu jenis mangrove yaitu jenis <em>Rhizopora apiculata</em> baik untuk kategori pohon, anakan, maupun semai. <em>Rhizopora apiculata </em>memiliki kerapatan sebesar 12 ind per 100 m<sup>2 </sup>untuk kategori pohon, 15 ind per 25 m<sup>2 </sup>untuk kategori anakan, dan 2 ind per m<sup>2 </sup>untuk kategori semai. Dikarenakan hanya ada satu jenis mangrove yang tumbuh pada stasiun ini untuk semua kategori maka sama seperti pada stasiun pengamatan sebelumnya INP-nya bernilai 300.</p>
+<p style="text-align: justify; margin-left: 40px;">
+	Ekosistem mangrove mempunyai peranan yang sangat penting diantaranya sebagai peredam hempasan gelombang sehingga mampu menahan laju abrasi pantai. Ekosistem mangrove pun&nbsp; berfungsi sebagai tempat memijah, mencari makan, dan berlindung bagi beberapa biota laut. Beberapa biota laut yang ditemukan di ekosistem mangrove di Pulau Gili Asahan diantaranya adalah juvenil ikan, gastropoda, dan kepiting.</p>
+<p style="text-align: justify; margin-left: 40px;">
+	Berdasarkan hasil pengamatan, Pulau Gili Asahan memiliki dua spesies mangrove yaitu hanya memiliki satu spesies mangrove saja yaitu <em>Aegiceras corniculatum </em>dan <em>Rhizopora apiculata </em>yang masing-masing ditemukan pada sisi timur dan selatan Pulau Gili Asahan. Kedua spesies mangrove ini tumbuh membentuk ekosistem dengan komunitas mangrove tunggal sehingga nilai INP masing-masing komunitas mangrove tersebut bernilai 300 sehingga keberadaannya menjadi berperan sangat penting bagi ekosistem mangrove tersebut.</p>
+<p style="text-align: justify; margin-left: 40px;">
+	Kerapatan mangrove tertinggi terdapat pada sisi selatan Pulau Gili Asahan dibandingkan dengan sisi timurnya. Terlebih pada sisi selatan tidak hanya ditemukan mangrove dengan kategori pohon saja, tetapi juga ditemukan kategori anakan dan semai. Ancaman terbesar bagi ekosistem mangrove yang ada di Pulau Gili Asahan adalah adanya pencemaran dari limbah antropogenik terutama sampah plastik yang banyak ditemukan menempel pada batang-batang pohon mangrove.</p>
+<p style="text-align: justify;">
+	&nbsp;</p>
+</div></p>
+
+<hr>
+
+<h2><a id="snh">Sumberdaya Non Hayati</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<h2><a id="aps">Aktivitas Pengelolaan Sumberdaya</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<h2><a id="ling">Lingkungan</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<h2><a id="sp">Sarana dan Prasarana</a></h2>
+<p><div class="readmore"><p style="text-align: justify;">
+	<strong>Sarana Transportasi</strong></p>
+<p style="text-align: justify; margin-left: 40px;">
+	Untuk jalan yang terdapat di desa memiliki lebar 1m ber-<em>paving blok</em> disekitar pemukiman penduduk.</p>
+<p style="text-align: justify;">
+	<strong>Sarana Penerangan</strong></p>
+<p style="text-align: justify; margin-left: 40px;">
+	Untuk penerangan mereka menggunakan mesin Disel yang dana bbmnya di ambil dari kolektif warga.</p>
+<p style="text-align: justify;">
+	<strong>Sarana Air Bersih</strong></p>
+<p style="text-align: justify; margin-left: 40px;">
+	Beberapa rumah memiliki sumur air tanah dengan kedalaman sekitar 7m terutama yang lebih dekat dengan bukit. Terdapat juga beberapa Tandon.</p>
+<p style="text-align: justify;">
+	<strong>Sarana Pendidikan</strong></p>
+<p style="text-align: justify; margin-left: 40px;">
+	Terdapat 1 SD yaitu SDN Batu Putih. Bangunannya terawat hanya saja ada beberapa bagian yang memerlukan perbaikan. Uniknya di SD ini ada WC umum murid yang bersih, rapih dan bergambar unik yang warna warni.</p>
+<p style="text-align: justify;">
+	<strong>Sarana Peribadatan</strong></p>
+<p style="text-align: justify; margin-left: 40px;">
+	Terdapat 1 buah masjid dapat kita temukan di pulau Gili Asahan. Kondisinya cukup terawat dan masih bagus. Mesjid di pulau ini baik kondisinya tidak lain karena seluruh warganya memeluk agama Islam.</p>
+<p style="text-align: justify;">
+	<strong>Sarana Pendukung Wisata</strong></p>
+<p style="text-align: justify; margin-left: 40px;">
+	Terdapat 1 buah resort yaitu Pearl Beach Resort disisi sebelah timur Pulau Gili Asahan. Dengan Bungalow beratap jeraminya memiliki interior modern dan teras terbuka. Dengan fasilitas AC maupun kipas angin, kamar mandi semi outdoor-nya dan menyuguhkan dekorsi batu dan bambu yang unik. Resor ini menawarkan fasilitas barbekyu dan layanan binatu. Tersedia layanan meja depan 24 jam untuk kenyamanan tamu. Para tamu juga dapat menikmati pilihan makanan Indonesia di Pearl Beach Restaurant. Tersedia pula layanan kamar.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="pi">Peluang Investasi</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<h2><a id="pap">Potensi dan Arahan Pengembangan</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<h2><a id="kp">Kendala Pengembangan</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<h2><a id="rf">Referensi</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<br />
+	<i> 
+		<p style="font-size:12px;">
+			Karena keterbatasan SDM dalam penginputan dan pengolahan data, kami mohon maaf atas ketidak lengkapan beberapa data pulau yang kami tampilkan, harap dimaklumi.
+			Berikan keritik dan saran pada kolom komentar agar kita dapat bersama menyajikan sebuah data yang cukup sempurna untuk halayak ramai yang berguna
+			demi kesejahterahan, kelestarian dan keindahan pulau-pulau kecil yang dimiliki Indonesia.<br />
+			*Jika sekiranya anda memiliki data yang cukup banyak, silakan mengirimkan file melalui email kami di <b><a>identifikasippk@gmail.com</a></b>
+			
+		</p>
+	</i>
+<br />
+
+<div id="fb_comn" class="fb-comments" data-href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_info/4891" data-width="800" data-numposts="5" data-colorscheme="light"></div>
+
+
+</div>
+</div>
+</div>
+<div id="wrapper">
+
+<div class="footer"><p>
+<!--<marquee onmouseover="this.stop()" onmouseout="this.start()" scrollamount="5" direction="right" width="798" height="14"  behavior="scroll">-->
+<a href="http://www.ppk-kp3k.kkp.go.id/" target="_blank">Direktorat Pendayagunaan Pulau-Pulau Kecil &nbsp; | &nbsp;</a>
+<a href="http://www.kp3k.kkp.go.id/" target="_blank">Ditjen Kelautan, Pesisir dan Pulau-Pulau Kecil &nbsp; | &nbsp;</a>
+<a href="http://www.kkp.go.id/" target="_blank">Kementerian Kelautan dan Perikanan</a>
+<!--</marquee>--> <br />
+Jl. Medan Merdeka Timur No. 16 Gedung Mina Bahari 3 Lantai 10, Jakarta, Indonesia <br />
+Email : identifikasippk@gmail.com <br />
+Telp &amp; Fax: (021) 3522058 <br />
+&copy; Copyright Direktorat Pendayagunaan Pulau-Pulau Kecil 2012&nbsp; <br /></p>
+</div>
+</div>
+</body>
+</html>

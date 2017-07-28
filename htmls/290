@@ -1,0 +1,454 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Pulau PELAMPUNG</title>
+
+<meta charset="utf-8"/>
+
+<meta property="fb:app_id" content="559408774147878" />
+
+
+<meta property="og:title" content="Pulau PELAMPUNG" />
+<meta property="og:url" content="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_info/290" />
+
+
+    <script type="text/javascript" src="http://ajax.microsoft.com/ajax/jquery/jquery-1.4.4.min.js">
+    </script>
+    
+    <script type="text/javascript" src="http://plugins.learningjquery.com/expander/jquery.expander.js">
+    </script>
+    
+    <script type="text/javascript">
+        $(function () {
+            $('div.readmore').expander({
+                slicePoint:200,
+                expandText: '(Baca selengkapnya)',
+                userCollapseText: '(Sembunyikan selengkapnya)'
+            });
+        });
+    </script>
+        
+	<script src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/galleria/galleria-1.2.8.min.js"></script>
+
+        <SCRIPT TYPE="text/javascript">
+            <!--
+            //Disable right click script
+            //visit http://www.rainbow.arch.scriptmania.com/scripts/
+            var message="Sorry, right-click has been disabled";
+            ///////////////////////////////////
+            function clickIE() {if (document.all) {(message);return false;}}
+            function clickNS(e) {if
+            (document.layers||(document.getElementById&&!document.all)) {
+            if (e.which==2||e.which==3) {(message);return false;}}}
+            if (document.layers)
+            {document.captureEvents(Event.MOUSEDOWN);document.onmousedown=clickNS;}
+            else{document.onmouseup=clickNS;document.oncontextmenu=clickIE;}
+            document.oncontextmenu=new Function("return false")
+            // -->
+            </SCRIPT>
+            
+            <SCRIPT TYPE="text/javascript">
+            <!--
+            //Disable select-text script (IE4+, NS6+)
+            //visit http://www.rainbow.arch.scriptmania.com/scripts/
+            ///////////////////////////////////
+            function disableselect(e){
+            return false
+            }
+            function reEnable(){
+            return true
+            }
+            //if IE4+
+            document.onselectstart=new Function ("return false")
+            //if NS6
+            if (window.sidebar){
+            document.onmousedown=disableselect
+            document.onclick=reEnable
+            }
+            // -->
+            </SCRIPT>  
+              
+<link rel="stylesheet" type="text/css" href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/css/main.css" media="screen"/>
+<style type='text/css'>
+#info_wrap{
+	width:820px;
+	margin:0 auto;
+	text-shadow:0px 1px 1px #09F;
+}
+table{
+	color:#000000;
+}
+h1{
+	color:#000000;
+}
+.tengahin{
+	width: 105px;
+	height: 30px;
+	margin: 0 auto auto auto;
+}
+#box_view{
+	background-image:-webkit-gradient(linear, 0 0%, 0 100%, from(#FFFFFF), to(#E0F0F5));
+	background:#FFF;
+	color:#F60;
+	border: 1px solid #fff;
+	border-radius: 4px 4px 4px 4px;
+	box-shadow: 0 8px 6px -6px black;
+	position:fixed;
+	right:0;
+	top:150px;;
+	width:80px;
+	z-index:10;
+	padding-left:12px;
+	font-size:10px;
+	}
+#box_view li{
+	color:#F60;
+	margin-left:-30px;
+	}
+	#wrapper a b {
+	color: #FFF;
+	font-size:14px;
+}
+.batas{
+	float:left;
+	border-right-style:inset;
+	border-right-width:thin;
+	}
+.text_h_wrap{
+	
+	padding-left:450px;
+	padding-top:39px;
+	text-shadow:0px 1px 1px #09F;
+	}
+#wrapper .footer p{
+	font-size:12px;
+	color: #FFF;
+	text-align:center;
+	text-shadow:0px 1px 1px #09F;
+}
+td,th {
+	font-size: 12px;
+}
+
+marquee a{
+	color:#FFF
+	}
+#wrapper .footer a{
+	color: #FFFFFF;
+}
+</style>
+            
+<script>
+function goBack()
+  {
+  window.history.back()
+  }
+</script>
+<script type="text/javascript">
+function Popup( url, height, width )
+{
+    var windowProperties = "toolbar = 0, scrollbars = 1, location = 0, statusbar = 0, menubar = 0, resizable = 1, width = " + width + ", height = " + height + ", left = 50, top = 50";
+ 
+    return window.open( url, "", windowProperties );
+}
+</script>
+
+
+
+</head>
+<body oncontextmenu='return false;' onkeydown='return false;' onmousedown='return false;'>
+
+<a id="top_view"></a>
+<div id="wrapper">
+<div class="header_wrap">
+<div class="text_h_wrap">
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/home_page'><b>&nbsp;Home&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/menu_info/1'><b>&nbsp;About Us&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_data'><b>&nbsp;Direktori Pulau&nbsp;&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/program_ip'><b>&nbsp;IKU&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/data_ppkt'><b>&nbsp;PPKT&nbsp;</b></a>
+</div>
+<!--<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/maintenance'><b>&nbsp;Login&nbsp;</b></a>-->
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/dir_log_cont'><b>&nbsp;Login&nbsp;</b></a>
+
+</div>
+</div>
+</div>
+
+<div id="fb-root"></div>
+<script>
+  window.fbAsyncInit = function() {
+    // init the FB JS SDK
+    FB.init({
+      appId      : '559408774147878',                        // App ID from the app dashboard
+      status     : true,                                 // Check Facebook Login status
+      xfbml      : true                                  // Look for social plugins on the page
+    });
+
+    // Additional initialization code such as adding Event Listeners goes here
+  };
+
+  // Load the SDK asynchronously
+  (function(){
+     // If we've already installed the SDK, we're done
+     if (document.getElementById('facebook-jssdk')) {return;}
+
+     // Get the first script element, which we'll use to find the parent node
+     var firstScriptElement = document.getElementsByTagName('script')[0];
+
+     // Create a new script element and set its id
+     var facebookJS = document.createElement('script'); 
+     facebookJS.id = 'facebook-jssdk';
+
+     // Set the new script's source to the source of the Facebook JS SDK
+     facebookJS.src = '//connect.facebook.net/en_US/all.js';
+
+     // Insert the Facebook JS SDK into the DOM
+     firstScriptElement.parentNode.insertBefore(facebookJS, firstScriptElement);
+   }());
+</script>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=559408774147878";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="box_view">
+    <a href="#top_view">MENU</a>
+    <h3><p>Lihat Informasi:</p></h3>
+    <ul>
+	<a href="#sf"><li>Slide Foto</li></a>
+    <a href="#gu"><li>Gambaran Umum</li></a>
+    <a href="#ksbk"><li>Kependudukan, Sosial Budaya dan Kelembagaan</li></a>
+    <a href="#eshp"><li>Ekosistem dan Sumberdaya Hayati</li></a>
+    <a href="#snh"><li>Sumberdaya Non Hayati</li></a>
+    <a href="#aps"><li>Aktivitas Pengelolaan Sumberdaya</li></a>
+    <a href="#ling"><li>Lingkungan</li></a>
+    <a href="#sp"><li>Sarana dan Prasarana</li></a>
+    <a href="#pi"><li>Peluang Investasi</li></a>
+    <a href="#pap"><li>Potensi Arahan Pengembangan</li></a>
+    <a href="#kp"><li>Kendala Pengembangan</li></a>
+	<a href="#rf"><li>Referensi</li></a>
+    </ul>
+    <a href="#fb_comn">KOMENTAR</a>
+</div>
+
+<br>
+			<a id="sf"></a></h2>
+			<div id="galleria">
+            <!--<div class='tengahin'><input type="button" value="Kembali Ke List" onclick="goBack()"></div>-->
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/86a7-img_0015.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__86a7-img_0015.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/e869-p3090839.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__e869-p3090839.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/9f3a-img_0008.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__9f3a-img_0008.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/807b-img_0030.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__807b-img_0030.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/985c-img_0640-turbinaria.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__985c-img_0640-turbinaria.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/24cd-img_0656.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__24cd-img_0656.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/73b0-p3090737.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__73b0-p3090737.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/5bcf-img_0663.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__5bcf-img_0663.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/5541-p3090760.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__5541-p3090760.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/8002-p3090782.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__8002-p3090782.jpg" data-description=""></a></p>
+                            </div>
+            
+            <script>
+            Galleria.loadTheme('http://www.ppk-kp3k.kkp.go.id/direktori-pulau/galleria/themes/classic/galleria.classic.min.js');
+            Galleria.run('#galleria');
+            </script>
+</div>
+
+<div id="text_warp">
+
+
+<p><h1>PELAMPUNG</h1></p>
+<table>
+<tr>
+	<td>Nama Lain</td> <td>:</td> <td></td>
+</tr>
+<tr>
+	<td>Propinsi</td> <td>:</td> <td>KEPULAUAN RIAU</td>
+</tr>
+<tr>
+	<td>Kabupaten</td> <td>:</td> <td>KOTA B A T A M</td>
+</tr>
+<tr>
+	<td>Kecamatan</td> <td>:</td> <td>Belakang Padang</td>
+</tr>
+<tr>
+	<td>Koordinat</td> <td>:</td> <td><a href="http://www.ppk-kp3k.kkp.go.id/giskkp/index.html?extent=11543659.8922 124988.4812,11544806.4477 125434.5630"target="_blank"><p>
+	01<sup>0</sup> 07&#39; 29&quot; LU dan 103<sup>0</sup> 42&#39; 13&quot; BT</p>
+</a></td>
+</tr>
+</table>
+<hr>
+
+<h2><a id="gu">Gambaran Umum</a></h2>
+<p><div class="readmore"><p style="margin-left:.25in;">
+	Pelampong oleh masyarakat sekitar disebut dengan Pulau Pelampung karena bentuknya yang mirip pelampung. Pulau ini cukup datar, ditumbuhi tanaman kelapa dengan pantainya berpasir bercampur batu. Luas Pulau Pelampong sekitar &plusmn; 0,7 Ha. Di Pulau Pelampong terdapat bangunan mercusuar serta patok referensi batas teritorial negara atau titik dasar (<em>Bench Mark</em>) dengan kode (TD.191) dan titik referensi (TR.191).</p>
+<p style="margin-left:.25in;">
+	Secara administratif Pulau Pelampong terletak di Desa Pomping, Kecamatan Belakang Padang, Kota Batam, Provinsi Kepulauan Riau. Pulau Pelampong terletak di Selat Singapura dan berbatasan dengan negara tetangga yaitu Singapura.</p>
+<p style="margin-left:.25in;">
+	Secara geografis pulau ini terletak pada koordinat 01&ordm;07&rsquo;44&rdquo; U dan 103&ordm;41&rsquo;58&rdquo; T. Pulau Pelompong mempunyai ketinggian antara 0 &ndash; 2 meter di atas permukaan laut. Pantainya landai dan berpasir berwarna kecoklatan bercampur pecahan karang.</p>
+<p style="margin-left:.25in;">
+	Pulau Pelampong dapat ditempuh dari pelabuhan penyeberangan Sekupang, Batam selama 45 menit dengan menggunakan perahu motor. Sarana transportasi ini selalu tersedia dari pagi hingga sore hari dan dapat disewa dengan harga yang sesuai.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="ksbk">Kependudukan, Sosial Budaya dan Kelembagaan</a></h2>
+<p><div class="readmore"><p style="margin-left:.25in;">
+	Pulau Pelampong merupakan salah satu pulau-pulau kecil terluar yang berpenduduk 10 jiwa (6 pria dan 4 wanita). Dahulu banyak penduduk yang tinggal di Pulau Pelampong tetapi saat ini hanya 3 Kepala Keluarga (KK) yang masih bertahan menempati pulau ini. Untuk memenuhi kebutuhan hidup sehari-hari, penduduk Pulau Pelampong berbelanja di Kecamatan Belakang Padang disaat sedang tidak melaut.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="eshp">Ekosistem dan Sumberdaya Hayati</a></h2>
+<p><div class="readmore"><p style="margin-left: 40px;">
+	Pulau ini memiliki potensi sumberdaya terumbu karang dan sumberdaya ikan. Sedangkan bagian darat hanya terdapat hamparan pasir yang indah dan cocok sebagai objek wisata pantai. Biasanya pulau ini hanya menjadi tempat persinggahan nelayan dan tempat penjaga mercusuar.</p>
+<p style="margin-left: 40px;">
+	<strong>Terumbu Karang</strong></p>
+<p style="margin-left: 40px;">
+	Sebaran terumbu karang ditemukan di semua kedalaman. Persentase penutupan terumbu karang cukup bagus yaitu sekitar 65%.&nbsp;&nbsp; <em>Life form </em>karang yang dominan adalah <em>foliose </em>dan <em>encrusting</em>. Genus-genus karang yang ditemukan di Pulau Pelampong adalah <em>Symphyllia, Hydnophora, Turbinaria, Lithopylon, Lobophyllia, Pachyseris, Goniastrea, Tubastrea, Favia, Physogyra, Goniophora, Mycedium, Montiphora, Fungia </em>dan <em>Astreophora.</em></p>
+<p style="margin-left: 40px;">
+	<strong>Ikan Karang</strong></p>
+<p style="margin-left: 40px;">
+	Jenis-jenis ikan yang ditemukan di Pulau Pelompong antara lain <em>Pomacentrus stigma</em>, <em>Heniochus vzirius</em>, <em>Coradion melanopus</em>, <em>Chelmon rostratus</em>, <em>Scarus </em>sp., <em>Amphiprion ocellaris</em>, <em>Siganus iasini</em>, <em>Pomacentrus alexanderae</em>, <em>Hemigymnus fasciatus</em>, <em>Neoglyphidodon melas </em>dan <em>Abudefduf vaigiensis</em>.&nbsp;</p>
+<p style="margin-left: 40px;">
+	<strong>Vegetasi Pantai</strong></p>
+<p style="margin-left: 40px;">
+	Vegetasi pulau ini didominasi oleh tumbuhan kelapa, dengan vegetasi pantai lainnya seperti pohon ketapang, cemara, mengkudu, mangga, dan waru.</p>
+<p style="margin-left: 40px;">
+	<strong>Lamun</strong></p>
+<p style="margin-left: 40px;">
+	Adapun tumbuhan laut berupa lamun yang ditemukan di Pulau Pelampong ada 8 jenis. Kondisi perairan di pulau ini cukup jernih dengan substrat berupa pasir dan juga bebatuan.</p>
+<p style="margin-left: 40px;">
+	Di bagian Timur Pulau Pelampong terdapat banyak alga hijau yang bertebaran menutupi dasar laut. Berbagai biota laut pun dapat ditemukan seperti biota bentik dan berbagai jenis ikan.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="snh">Sumberdaya Non Hayati</a></h2>
+<p><div class="readmore"><p style="margin-left:.25in;">
+	Tidak terdapat data mengenai sumberdaya hayati non pesisir di Pulau Pelampong.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="aps">Aktivitas Pengelolaan Sumberdaya</a></h2>
+<p><div class="readmore"><p style="margin-left:.25in;">
+	Masyarakat yang bertempat tinggal di pulau ini bekerja sebagai nelayan, umumnya nelayan menggunakan alat tangkap bubu, jaring dan pancing untuk menangkap ikan kurau, ikan kakap merah dan ikan kerapu. Hasil tangkapan ikan ini selain untuk dikonsumsi sendiri juga sebagian besar dijual kepada pengepul untuk selanjutnya di eksport ke Singapura.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="ling">Lingkungan</a></h2>
+<p><div class="readmore"><p style="margin-left: 40px;">
+	<strong>Kualitas Perairan</strong></p>
+<p style="margin-left: 40px;">
+	Berdasarkan hasil pengukuran kualitas air diperoleh nilai salinitas di pulau ini pada kedalaman 6 meter mencapai 29,5 &permil;,&nbsp; suhu 28,9<sup>0</sup> C, pH 8,05, salinitas 29,7 &permil;, DO 7,4 mg/l, BOD 1,05 mg/l, amonia 0,42 mg/l, nitrat 0,465 mg/l, nitrit 0,006 mg/l, sulfida &lt; 0,01 mg/l. Dasar perairan berupa batuan karang yang rata dan mengelilingi pulau.</p>
+<p style="margin-left: 40px;">
+	<strong>Permasalahan Lingkungan</strong></p>
+<p style="margin-left: 40px;">
+	Permasalahan lingkungan yang terjadi di Pulau Panjang lebih didominasi oleh&nbsp; abrasi pantai akibat kenaikan pasang surut dan arus laut. Luas Pulau Pelampong semakin berkurang akibat terjadinya abrasi pantai ini.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="sp">Sarana dan Prasarana</a></h2>
+<p><div class="readmore"><p style="margin-left:.25in;">
+	Sarana yang ada di daratan Pulau Pelompong berupa rumah nelayan serta dermaga sederhana yang terbuat dari kayu untuk pendaratan ikan oleh nelayan sekaligus tempat pengeringan ikan. Di pulau ini dibangun juga mercu suar, lengkap dengan bangunan penanda titik dasar dan&nbsp; titik referensi. Selain itu terdapat juga Monumen Pulau Pelampong sebagai salah satu Pulau-pulau Kecil Terluar dan monumen dari Garda Depan Nusantara.</p>
+<p style="margin-left:.25in;">
+	Terdapat 8 rumah semi permanen yang dibangun di pulau ini, 5 rumah dalam kondisi yang cukup bagus dan 3 rumah lainnya sudah mengalami kerusakan. Beberapa rumah yang sudah tidak ditempati lagi dijadikan tempat singgah nelayan setelah menangkap ikan atau menunggu proses pengeringan ikan. Setiap rumah yang terdapat di Pulau Pelampong tidak dilengkapi dengan sarana MCK. Akan tetapi terdapat MCK sederhana yang dibangun oleh penduduk di pinggir pantai Pulau Pelampong.</p>
+<p style="margin-left:.25in;">
+	Sebagai sarana penerangan penduduk terdapat Listrik Tenaga Surya yang merupakan bantuan dari Dinas Kelautan dan Perikanan Kota Batam. Selain itu terdapat juga genset yang dimiliki penduduk secara pribadi.</p>
+<p style="margin-left:.25in;">
+	Sumber air bersih yang terdapat di Pulau Pelampong adalah bak penampungan air hujan yang digunakan untuk memenuhi kebutuhan mandi, masak dan mencuci. Jika sedang musim kemarau dan persediaan air bersih semakin menipis maka penduduk membeli air bersih ke pulau-pulau kecil terdekat dari Pulau Pelampong.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="pi">Peluang Investasi</a></h2>
+<p><div class="readmore"><p style="margin-left:.25in;">
+	Saat ini belum ada investor yang menanamkan investasi guna mendukung kegiatan kelautan dan perikanan di Pulau Pelampong.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="pap">Potensi dan Arahan Pengembangan</a></h2>
+<p><div class="readmore"><p style="margin-left:.25in;">
+	Perairan di sekitar Pulau Pelampong kaya akan berbagai ekosistem lamun dan terumbu karang yang kondisinya masih baik. Hal ini disebabkan oleh kearifan lokal penduduk Pulau Pelampong dalam metode penangkapan ikan yaitu tidak menggunakan racun/bom ikan yang dapat merusak ekosistem terumbu karang. Selain itu, pasir yang mengelilingi Pulau Pelampong tergolong unik dikarenakan warnanya seperti batu bata dan berbeda dengan pasir pada pulau-pulau kecil pada umumnya. Pengembangan yang dapat dilakukan di Pulau Pelampong adalah konservasi ekosistem lamun dan terumbu karang.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="kp">Kendala Pengembangan</a></h2>
+<p><div class="readmore"><ol>
+	<li>
+		Sarana dan prasarana dasar terutama sumber air bersih yang kurang memadai menjadi kendala utama bagi penduduk yang tinggal di Pulau Pelampong</li>
+	<li>
+		Arus laut di sekitar Pulau Pelampong tergolong kuat dan dapat menyebabkan rawan terjadinya abrasi pantai</li>
+</ol>
+</div></p>
+
+<hr>
+
+<h2><a id="rf">Referensi</a></h2>
+<p><div class="readmore"><p>
+	Hasil Identifikasi dan Pemetaan Potensi</p>
+</div></p>
+
+<hr>
+
+<br />
+	<i> 
+		<p style="font-size:12px;">
+			Karena keterbatasan SDM dalam penginputan dan pengolahan data, kami mohon maaf atas ketidak lengkapan beberapa data pulau yang kami tampilkan, harap dimaklumi.
+			Berikan keritik dan saran pada kolom komentar agar kita dapat bersama menyajikan sebuah data yang cukup sempurna untuk halayak ramai yang berguna
+			demi kesejahterahan, kelestarian dan keindahan pulau-pulau kecil yang dimiliki Indonesia.<br />
+			*Jika sekiranya anda memiliki data yang cukup banyak, silakan mengirimkan file melalui email kami di <b><a>identifikasippk@gmail.com</a></b>
+			
+		</p>
+	</i>
+<br />
+
+<div id="fb_comn" class="fb-comments" data-href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_info/290" data-width="800" data-numposts="5" data-colorscheme="light"></div>
+
+
+</div>
+</div>
+</div>
+<div id="wrapper">
+
+<div class="footer"><p>
+<!--<marquee onmouseover="this.stop()" onmouseout="this.start()" scrollamount="5" direction="right" width="798" height="14"  behavior="scroll">-->
+<a href="http://www.ppk-kp3k.kkp.go.id/" target="_blank">Direktorat Pendayagunaan Pulau-Pulau Kecil &nbsp; | &nbsp;</a>
+<a href="http://www.kp3k.kkp.go.id/" target="_blank">Ditjen Kelautan, Pesisir dan Pulau-Pulau Kecil &nbsp; | &nbsp;</a>
+<a href="http://www.kkp.go.id/" target="_blank">Kementerian Kelautan dan Perikanan</a>
+<!--</marquee>--> <br />
+Jl. Medan Merdeka Timur No. 16 Gedung Mina Bahari 3 Lantai 10, Jakarta, Indonesia <br />
+Email : identifikasippk@gmail.com <br />
+Telp &amp; Fax: (021) 3522058 <br />
+&copy; Copyright Direktorat Pendayagunaan Pulau-Pulau Kecil 2012&nbsp; <br /></p>
+</div>
+</div>
+</body>
+</html>

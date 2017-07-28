@@ -1,0 +1,408 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Pulau RUSA</title>
+
+<meta charset="utf-8"/>
+
+<meta property="fb:app_id" content="559408774147878" />
+
+
+<meta property="og:title" content="Pulau RUSA" />
+<meta property="og:url" content="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_info/450" />
+
+
+    <script type="text/javascript" src="http://ajax.microsoft.com/ajax/jquery/jquery-1.4.4.min.js">
+    </script>
+    
+    <script type="text/javascript" src="http://plugins.learningjquery.com/expander/jquery.expander.js">
+    </script>
+    
+    <script type="text/javascript">
+        $(function () {
+            $('div.readmore').expander({
+                slicePoint:200,
+                expandText: '(Baca selengkapnya)',
+                userCollapseText: '(Sembunyikan selengkapnya)'
+            });
+        });
+    </script>
+        
+	<script src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/galleria/galleria-1.2.8.min.js"></script>
+
+        <SCRIPT TYPE="text/javascript">
+            <!--
+            //Disable right click script
+            //visit http://www.rainbow.arch.scriptmania.com/scripts/
+            var message="Sorry, right-click has been disabled";
+            ///////////////////////////////////
+            function clickIE() {if (document.all) {(message);return false;}}
+            function clickNS(e) {if
+            (document.layers||(document.getElementById&&!document.all)) {
+            if (e.which==2||e.which==3) {(message);return false;}}}
+            if (document.layers)
+            {document.captureEvents(Event.MOUSEDOWN);document.onmousedown=clickNS;}
+            else{document.onmouseup=clickNS;document.oncontextmenu=clickIE;}
+            document.oncontextmenu=new Function("return false")
+            // -->
+            </SCRIPT>
+            
+            <SCRIPT TYPE="text/javascript">
+            <!--
+            //Disable select-text script (IE4+, NS6+)
+            //visit http://www.rainbow.arch.scriptmania.com/scripts/
+            ///////////////////////////////////
+            function disableselect(e){
+            return false
+            }
+            function reEnable(){
+            return true
+            }
+            //if IE4+
+            document.onselectstart=new Function ("return false")
+            //if NS6
+            if (window.sidebar){
+            document.onmousedown=disableselect
+            document.onclick=reEnable
+            }
+            // -->
+            </SCRIPT>  
+              
+<link rel="stylesheet" type="text/css" href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/css/main.css" media="screen"/>
+<style type='text/css'>
+#info_wrap{
+	width:820px;
+	margin:0 auto;
+	text-shadow:0px 1px 1px #09F;
+}
+table{
+	color:#000000;
+}
+h1{
+	color:#000000;
+}
+.tengahin{
+	width: 105px;
+	height: 30px;
+	margin: 0 auto auto auto;
+}
+#box_view{
+	background-image:-webkit-gradient(linear, 0 0%, 0 100%, from(#FFFFFF), to(#E0F0F5));
+	background:#FFF;
+	color:#F60;
+	border: 1px solid #fff;
+	border-radius: 4px 4px 4px 4px;
+	box-shadow: 0 8px 6px -6px black;
+	position:fixed;
+	right:0;
+	top:150px;;
+	width:80px;
+	z-index:10;
+	padding-left:12px;
+	font-size:10px;
+	}
+#box_view li{
+	color:#F60;
+	margin-left:-30px;
+	}
+	#wrapper a b {
+	color: #FFF;
+	font-size:14px;
+}
+.batas{
+	float:left;
+	border-right-style:inset;
+	border-right-width:thin;
+	}
+.text_h_wrap{
+	
+	padding-left:450px;
+	padding-top:39px;
+	text-shadow:0px 1px 1px #09F;
+	}
+#wrapper .footer p{
+	font-size:12px;
+	color: #FFF;
+	text-align:center;
+	text-shadow:0px 1px 1px #09F;
+}
+td,th {
+	font-size: 12px;
+}
+
+marquee a{
+	color:#FFF
+	}
+#wrapper .footer a{
+	color: #FFFFFF;
+}
+</style>
+            
+<script>
+function goBack()
+  {
+  window.history.back()
+  }
+</script>
+<script type="text/javascript">
+function Popup( url, height, width )
+{
+    var windowProperties = "toolbar = 0, scrollbars = 1, location = 0, statusbar = 0, menubar = 0, resizable = 1, width = " + width + ", height = " + height + ", left = 50, top = 50";
+ 
+    return window.open( url, "", windowProperties );
+}
+</script>
+
+
+
+</head>
+<body oncontextmenu='return false;' onkeydown='return false;' onmousedown='return false;'>
+
+<a id="top_view"></a>
+<div id="wrapper">
+<div class="header_wrap">
+<div class="text_h_wrap">
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/home_page'><b>&nbsp;Home&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/menu_info/1'><b>&nbsp;About Us&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_data'><b>&nbsp;Direktori Pulau&nbsp;&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/program_ip'><b>&nbsp;IKU&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/data_ppkt'><b>&nbsp;PPKT&nbsp;</b></a>
+</div>
+<!--<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/maintenance'><b>&nbsp;Login&nbsp;</b></a>-->
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/dir_log_cont'><b>&nbsp;Login&nbsp;</b></a>
+
+</div>
+</div>
+</div>
+
+<div id="fb-root"></div>
+<script>
+  window.fbAsyncInit = function() {
+    // init the FB JS SDK
+    FB.init({
+      appId      : '559408774147878',                        // App ID from the app dashboard
+      status     : true,                                 // Check Facebook Login status
+      xfbml      : true                                  // Look for social plugins on the page
+    });
+
+    // Additional initialization code such as adding Event Listeners goes here
+  };
+
+  // Load the SDK asynchronously
+  (function(){
+     // If we've already installed the SDK, we're done
+     if (document.getElementById('facebook-jssdk')) {return;}
+
+     // Get the first script element, which we'll use to find the parent node
+     var firstScriptElement = document.getElementsByTagName('script')[0];
+
+     // Create a new script element and set its id
+     var facebookJS = document.createElement('script'); 
+     facebookJS.id = 'facebook-jssdk';
+
+     // Set the new script's source to the source of the Facebook JS SDK
+     facebookJS.src = '//connect.facebook.net/en_US/all.js';
+
+     // Insert the Facebook JS SDK into the DOM
+     firstScriptElement.parentNode.insertBefore(facebookJS, firstScriptElement);
+   }());
+</script>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=559408774147878";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="box_view">
+    <a href="#top_view">MENU</a>
+    <h3><p>Lihat Informasi:</p></h3>
+    <ul>
+	<a href="#sf"><li>Slide Foto</li></a>
+    <a href="#gu"><li>Gambaran Umum</li></a>
+    <a href="#ksbk"><li>Kependudukan, Sosial Budaya dan Kelembagaan</li></a>
+    <a href="#eshp"><li>Ekosistem dan Sumberdaya Hayati</li></a>
+    <a href="#snh"><li>Sumberdaya Non Hayati</li></a>
+    <a href="#aps"><li>Aktivitas Pengelolaan Sumberdaya</li></a>
+    <a href="#ling"><li>Lingkungan</li></a>
+    <a href="#sp"><li>Sarana dan Prasarana</li></a>
+    <a href="#pi"><li>Peluang Investasi</li></a>
+    <a href="#pap"><li>Potensi Arahan Pengembangan</li></a>
+    <a href="#kp"><li>Kendala Pengembangan</li></a>
+	<a href="#rf"><li>Referensi</li></a>
+    </ul>
+    <a href="#fb_comn">KOMENTAR</a>
+</div>
+
+<br>
+			<a id="sf"></a></h2>
+			<div id="galleria">
+            <!--<div class='tengahin'><input type="button" value="Kembali Ke List" onclick="goBack()"></div>-->
+                            </div>
+            
+            <script>
+            Galleria.loadTheme('http://www.ppk-kp3k.kkp.go.id/direktori-pulau/galleria/themes/classic/galleria.classic.min.js');
+            Galleria.run('#galleria');
+            </script>
+</div>
+
+<div id="text_warp">
+
+
+<p><h1>RUSA</h1></p>
+<table>
+<tr>
+	<td>Nama Lain</td> <td>:</td> <td></td>
+</tr>
+<tr>
+	<td>Propinsi</td> <td>:</td> <td>ACEH</td>
+</tr>
+<tr>
+	<td>Kabupaten</td> <td>:</td> <td>KABUPATEN ACEH BESAR</td>
+</tr>
+<tr>
+	<td>Kecamatan</td> <td>:</td> <td>-</td>
+</tr>
+<tr>
+	<td>Koordinat</td> <td>:</td> <td><a href="http://www.ppk-kp3k.kkp.go.id/giskkp/index.html?extent=10597087.4592 587875.0264,10599380.5700 588767.1899"target="_blank"><p>
+	5&deg; 16&#39; 39.000&rdquo; LU 95&deg; 12&#39; 20.000&rdquo; BT</p>
+</a></td>
+</tr>
+</table>
+<hr>
+
+<h2><a id="gu">Gambaran Umum</a></h2>
+<p><div class="readmore"><p>
+	<span style="text-align: justify;">pulau Rusa merupakan salah satu pulau terluar yang terkena dapak tsunami pada tahun 2004 yang melanda kawasan Nanggroe Acah Darussalam dan sekitarnya. Pulau ini bervegetasi kelapa dengan pantainya berbatu-batu dan sebagian berupa pasir putih. Tidak ada penduduk yang mendiami pulau ini walaupun letaknya cukup dekat dengan daratan Pulau Sumatera. Pulau Rusa mempunyai titik dasar TD.175 dan titik referemsi TR.175.</span></p>
+<p style="text-align: justify;">
+	Pulau ini terletak di Kecamatan Lhoong, Kabupaten Aceh Besar, Provinsi Nangroe Aceh Darusalam. Berada di Samudera Hindia dan berbatasan dengan negara tetangga yaitu India dan Secara geografis pulau ini memiliki koordinat 05&ordm;16&rsquo;34&rdquo; U dan 95&ordm;12&rsquo;07&rdquo; T. &nbsp;</p>
+<p style="text-align: justify;">
+	Pulau Rusa dapat&nbsp; ditempuh melalui jalur darat dengan menggunakan kendaraan roda empat dari Banda Aceh menuju Lok Nga. Akibat jalan yang rusak karena Tsunami, waktu yang diperlukan menuju Lok Nga di Kabupaten Aceh besar adalah sekitar 3 jam. Dari Lok Nga perjalanan dilanjutkan dengan menyewa perahu nelayan yang memakan waktu sekitar 30 menit menuju pulau tersebut.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="ksbk">Kependudukan, Sosial Budaya dan Kelembagaan</a></h2>
+<p><div class="readmore"><p style="text-align: start; ">
+	<span style="text-align: justify;">Pulau ini diberi nama Rusa karena memang dari kejauhan berbentuk seperti Rusa. Namun akibat tsunami Desember 2004 lalu, bentuk binatang Rusa tidak lagi jelas terlihat akibat pengikisan dan hempasan gelombang besar.</span></p>
+<p style="text-align: start; ">
+	<span style="text-align: justify;">Pulau Rusa terletak di Kabupaten Aceh Barat, pulau ini tidak dihuni penduduk. Selain susahnya sumber air tawar, sarana sumber daya dan lahan yang ada cukup terbatas.&nbsp; Ada tiga desa yang letaknya berdekatan dengan pulau Rusa, yaitu desa Saney, desa Utamong dan desa Kareun.&nbsp; Sebelum tsunami, Pulau Rusa ini kadang-kadang dijadikan tempat singgah para nelayan, atau tempat orang memetik pohon kelapa, tetapi setelah adanya bencana tsunami jarang sekali orang singgah ke pulau, karena pohon kelapa juga jumlahnya semakin sedikit. Dalam sebulan diperkirakan hanya disinggahi oleh 5-10 orang saja. Hewan yang masih tinggal didalam pulau adalah babi, ular dan hewan melata lainnya. &nbsp;</span></p>
+</div></p>
+
+<hr>
+
+<h2><a id="eshp">Ekosistem dan Sumberdaya Hayati</a></h2>
+<p><div class="readmore"><p>
+	<strong style="text-align: justify;">Terumbu Karang</strong></p>
+<p style="text-align: justify;">
+	Secara umum, kondisi terumbu karang yang terdapat di perairan Pulau Rusa mempunyai kenampakan yang relatif sama pada beberapa titik sampel dengan lebar berkisar 80 &ndash; 540 m. Terumbu karang yang terdapat di peraiaran Pulau Rusa ini juga termasuk ke dalam tipe terumbu karang tepi (<em>Fringing Reef</em>) yang berkembang sepanjang pantai dengan kemiringan landai.</p>
+<p style="text-align: justify;">
+	Penutupan karang yang terjadi perairan Pulau Rusa diperkirakan mencapai 56,48 % dengan kondisi terumbu karang yang masih alami.&nbsp; Kerusakan karang di wilayah ini tidak banyak terjadi yang diduga oleh aktivitas penangkapan yang masih ramah lingkungan dan pengambilan karang untuk kepentingan komersial tidak ada.&nbsp;</p>
+<p style="text-align: justify;">
+	<strong>Mangrove dan Vegetasi Pantai</strong></p>
+<p style="text-align: justify;">
+	Ekosistem mangrove yang dapat ditemukan di Pulau Rusa mempunyai ketinggian antara 0,5 - 3,0 meter dengan tingkat kerapatan yang rendah. Kondisi ekosistem mangrove ke arah daratan tidak berkembang dengan baik karena beberapa bagian pantai yang terjal menyulitkan perkembangan mangrove dan pada bagian yang landai dimanfaaatkan untuk perkebunan kelapa. Jumlah pohon kelapa tidak begitu banyak dan penguasahaannya lebih bersifat untuk memenuhi kebutuhan sehari-hari.&nbsp;</p>
+<p style="text-align: justify;">
+	<strong>Potensi Perikanan</strong></p>
+<p style="text-align: justify;">
+	Sumberdaya ikan pelagis yang banyak terdapat di perairan Pulau Rusa adalah teri, kembung, dan layang. Sedangkan untuk ikan demersal di antaranya cakalang, kerapu, tuna, udang sabu, lobster,&nbsp; dan teripang. Alat-alat tangkap yang sering digunakan oleh nelayan di sekitar Pulau Rusa adalah jaring hanyut dan pancing. Beberapa nelayan ada juga yang melakukan penyelaman untuk menangkap teripang.&nbsp;</p>
+<p style="text-align: justify;">
+	Adapun biota laut potensial yang terdapat di sekitar perairan Pulau Rusa adalah: Udang Lobster dijual dengan harga 100-200 ribu/ kg. Jumlahnya bisa mencapai 1 Ton / Minggu, Teripang dijual sekitar 400 ribu/ kg (kering), 100 ribu/ kg (basah). Jumlahnya bisa mencapai 500 kg / minggu. Rantai pemasarannya adalah Desa (nelayan) -Banda Aceh-Jakarta-Hongkong.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="snh">Sumberdaya Non Hayati</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<h2><a id="aps">Aktivitas Pengelolaan Sumberdaya</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<h2><a id="ling">Lingkungan</a></h2>
+<p><div class="readmore"><p>
+	<span style="text-align: justify;">Pulau Rusa memiliki topografi berbukit (</span><em style="text-align: justify;">Kount)</em><span style="text-align: justify;">, dengan ketinggian sedang hingga sekitar 32 m di atas permukaan laut (elevasi antara 0 - 32 m di atas permukaan laut).&nbsp; Sebagian wilayah pulau ini merupakan perbukitan denudasional terkikis ringan hingga ke arah tengah pulau (lahan terbuka). Namun demikian, di tengah pulau dan sisi lainnya banyak ditumbuhi oleh pohon-pohon ukuran sedang.</span></p>
+<p style="text-align: justify;">
+	Pantainya berbatu besar dan sebagian berpasir putih. Pulau ini agak sulit didarati karena dikelilingi oleg bebatuan dan karang sehingga ombak terpecah menuju pantai.</p>
+<p style="text-align: justify;">
+	Pulau Rusa juga termasuk pulau dengan iklim tropis. Musim hujan terjadi antara bulan Juli sampai dengan Desember setiap tahunnnya dengan curah hujan rata-rata mencapai 2.235,2 mm/tahun. Sedangkan musim kemarau terjadi antara bulan Januari sampai dengan bulan Juni setiap tahunnya. Suhu udara di sekitar pulau Rusa berkisar&nbsp; 20,5 &ndash; 29,8 &deg;C.</p>
+<p style="text-align: justify;">
+	Kondisi perairan Pulau Rusa juga termasuk agak sedikit keruh dengan ombak yang sedang. Hal ini karena letak Pulau Rusa yang berdekatan dengan dataran Pulau Sumatera yang banyak aktivitas pesisirnya. Arus di daerah perairan pulau ini berasal dari Samudera Hindia bergerak menuju timur dan sebagian dibelokkan ke selatan dengan kecepatan sekitar 0,42 m/detik. Kedalaman pantainya berada pada kisaran 13 - 24 meter.</p>
+<p style="text-align: justify;">
+	Kualitas perairan Pulau Rusa yaitu sebagai berikut : Warna &lt; 5,1 unit, Temperatur 26,6 <sup>o</sup>C, pH&nbsp; 6,9, Turbidity berkisar 0,10 &ndash; 1,01 NTU,Total suspended solid (TSS) berkisar 13,410 &ndash; 13,960 mg/l.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="sp">Sarana dan Prasarana</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<h2><a id="pi">Peluang Investasi</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<h2><a id="pap">Potensi dan Arahan Pengembangan</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<h2><a id="kp">Kendala Pengembangan</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<h2><a id="rf">Referensi</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<br />
+	<i> 
+		<p style="font-size:12px;">
+			Karena keterbatasan SDM dalam penginputan dan pengolahan data, kami mohon maaf atas ketidak lengkapan beberapa data pulau yang kami tampilkan, harap dimaklumi.
+			Berikan keritik dan saran pada kolom komentar agar kita dapat bersama menyajikan sebuah data yang cukup sempurna untuk halayak ramai yang berguna
+			demi kesejahterahan, kelestarian dan keindahan pulau-pulau kecil yang dimiliki Indonesia.<br />
+			*Jika sekiranya anda memiliki data yang cukup banyak, silakan mengirimkan file melalui email kami di <b><a>identifikasippk@gmail.com</a></b>
+			
+		</p>
+	</i>
+<br />
+
+<div id="fb_comn" class="fb-comments" data-href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_info/450" data-width="800" data-numposts="5" data-colorscheme="light"></div>
+
+
+</div>
+</div>
+</div>
+<div id="wrapper">
+
+<div class="footer"><p>
+<!--<marquee onmouseover="this.stop()" onmouseout="this.start()" scrollamount="5" direction="right" width="798" height="14"  behavior="scroll">-->
+<a href="http://www.ppk-kp3k.kkp.go.id/" target="_blank">Direktorat Pendayagunaan Pulau-Pulau Kecil &nbsp; | &nbsp;</a>
+<a href="http://www.kp3k.kkp.go.id/" target="_blank">Ditjen Kelautan, Pesisir dan Pulau-Pulau Kecil &nbsp; | &nbsp;</a>
+<a href="http://www.kkp.go.id/" target="_blank">Kementerian Kelautan dan Perikanan</a>
+<!--</marquee>--> <br />
+Jl. Medan Merdeka Timur No. 16 Gedung Mina Bahari 3 Lantai 10, Jakarta, Indonesia <br />
+Email : identifikasippk@gmail.com <br />
+Telp &amp; Fax: (021) 3522058 <br />
+&copy; Copyright Direktorat Pendayagunaan Pulau-Pulau Kecil 2012&nbsp; <br /></p>
+</div>
+</div>
+</body>
+</html>

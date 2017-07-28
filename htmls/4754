@@ -1,0 +1,638 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Pulau Talango Tengah</title>
+
+<meta charset="utf-8"/>
+
+<meta property="fb:app_id" content="559408774147878" />
+
+
+<meta property="og:title" content="Pulau Talango Tengah" />
+<meta property="og:url" content="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_info/4754" />
+
+
+    <script type="text/javascript" src="http://ajax.microsoft.com/ajax/jquery/jquery-1.4.4.min.js">
+    </script>
+    
+    <script type="text/javascript" src="http://plugins.learningjquery.com/expander/jquery.expander.js">
+    </script>
+    
+    <script type="text/javascript">
+        $(function () {
+            $('div.readmore').expander({
+                slicePoint:200,
+                expandText: '(Baca selengkapnya)',
+                userCollapseText: '(Sembunyikan selengkapnya)'
+            });
+        });
+    </script>
+        
+	<script src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/galleria/galleria-1.2.8.min.js"></script>
+
+        <SCRIPT TYPE="text/javascript">
+            <!--
+            //Disable right click script
+            //visit http://www.rainbow.arch.scriptmania.com/scripts/
+            var message="Sorry, right-click has been disabled";
+            ///////////////////////////////////
+            function clickIE() {if (document.all) {(message);return false;}}
+            function clickNS(e) {if
+            (document.layers||(document.getElementById&&!document.all)) {
+            if (e.which==2||e.which==3) {(message);return false;}}}
+            if (document.layers)
+            {document.captureEvents(Event.MOUSEDOWN);document.onmousedown=clickNS;}
+            else{document.onmouseup=clickNS;document.oncontextmenu=clickIE;}
+            document.oncontextmenu=new Function("return false")
+            // -->
+            </SCRIPT>
+            
+            <SCRIPT TYPE="text/javascript">
+            <!--
+            //Disable select-text script (IE4+, NS6+)
+            //visit http://www.rainbow.arch.scriptmania.com/scripts/
+            ///////////////////////////////////
+            function disableselect(e){
+            return false
+            }
+            function reEnable(){
+            return true
+            }
+            //if IE4+
+            document.onselectstart=new Function ("return false")
+            //if NS6
+            if (window.sidebar){
+            document.onmousedown=disableselect
+            document.onclick=reEnable
+            }
+            // -->
+            </SCRIPT>  
+              
+<link rel="stylesheet" type="text/css" href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/css/main.css" media="screen"/>
+<style type='text/css'>
+#info_wrap{
+	width:820px;
+	margin:0 auto;
+	text-shadow:0px 1px 1px #09F;
+}
+table{
+	color:#000000;
+}
+h1{
+	color:#000000;
+}
+.tengahin{
+	width: 105px;
+	height: 30px;
+	margin: 0 auto auto auto;
+}
+#box_view{
+	background-image:-webkit-gradient(linear, 0 0%, 0 100%, from(#FFFFFF), to(#E0F0F5));
+	background:#FFF;
+	color:#F60;
+	border: 1px solid #fff;
+	border-radius: 4px 4px 4px 4px;
+	box-shadow: 0 8px 6px -6px black;
+	position:fixed;
+	right:0;
+	top:150px;;
+	width:80px;
+	z-index:10;
+	padding-left:12px;
+	font-size:10px;
+	}
+#box_view li{
+	color:#F60;
+	margin-left:-30px;
+	}
+	#wrapper a b {
+	color: #FFF;
+	font-size:14px;
+}
+.batas{
+	float:left;
+	border-right-style:inset;
+	border-right-width:thin;
+	}
+.text_h_wrap{
+	
+	padding-left:450px;
+	padding-top:39px;
+	text-shadow:0px 1px 1px #09F;
+	}
+#wrapper .footer p{
+	font-size:12px;
+	color: #FFF;
+	text-align:center;
+	text-shadow:0px 1px 1px #09F;
+}
+td,th {
+	font-size: 12px;
+}
+
+marquee a{
+	color:#FFF
+	}
+#wrapper .footer a{
+	color: #FFFFFF;
+}
+</style>
+            
+<script>
+function goBack()
+  {
+  window.history.back()
+  }
+</script>
+<script type="text/javascript">
+function Popup( url, height, width )
+{
+    var windowProperties = "toolbar = 0, scrollbars = 1, location = 0, statusbar = 0, menubar = 0, resizable = 1, width = " + width + ", height = " + height + ", left = 50, top = 50";
+ 
+    return window.open( url, "", windowProperties );
+}
+</script>
+
+
+
+</head>
+<body oncontextmenu='return false;' onkeydown='return false;' onmousedown='return false;'>
+
+<a id="top_view"></a>
+<div id="wrapper">
+<div class="header_wrap">
+<div class="text_h_wrap">
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/home_page'><b>&nbsp;Home&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/menu_info/1'><b>&nbsp;About Us&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_data'><b>&nbsp;Direktori Pulau&nbsp;&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/program_ip'><b>&nbsp;IKU&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/data_ppkt'><b>&nbsp;PPKT&nbsp;</b></a>
+</div>
+<!--<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/maintenance'><b>&nbsp;Login&nbsp;</b></a>-->
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/dir_log_cont'><b>&nbsp;Login&nbsp;</b></a>
+
+</div>
+</div>
+</div>
+
+<div id="fb-root"></div>
+<script>
+  window.fbAsyncInit = function() {
+    // init the FB JS SDK
+    FB.init({
+      appId      : '559408774147878',                        // App ID from the app dashboard
+      status     : true,                                 // Check Facebook Login status
+      xfbml      : true                                  // Look for social plugins on the page
+    });
+
+    // Additional initialization code such as adding Event Listeners goes here
+  };
+
+  // Load the SDK asynchronously
+  (function(){
+     // If we've already installed the SDK, we're done
+     if (document.getElementById('facebook-jssdk')) {return;}
+
+     // Get the first script element, which we'll use to find the parent node
+     var firstScriptElement = document.getElementsByTagName('script')[0];
+
+     // Create a new script element and set its id
+     var facebookJS = document.createElement('script'); 
+     facebookJS.id = 'facebook-jssdk';
+
+     // Set the new script's source to the source of the Facebook JS SDK
+     facebookJS.src = '//connect.facebook.net/en_US/all.js';
+
+     // Insert the Facebook JS SDK into the DOM
+     firstScriptElement.parentNode.insertBefore(facebookJS, firstScriptElement);
+   }());
+</script>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=559408774147878";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="box_view">
+    <a href="#top_view">MENU</a>
+    <h3><p>Lihat Informasi:</p></h3>
+    <ul>
+	<a href="#sf"><li>Slide Foto</li></a>
+    <a href="#gu"><li>Gambaran Umum</li></a>
+    <a href="#ksbk"><li>Kependudukan, Sosial Budaya dan Kelembagaan</li></a>
+    <a href="#eshp"><li>Ekosistem dan Sumberdaya Hayati</li></a>
+    <a href="#snh"><li>Sumberdaya Non Hayati</li></a>
+    <a href="#aps"><li>Aktivitas Pengelolaan Sumberdaya</li></a>
+    <a href="#ling"><li>Lingkungan</li></a>
+    <a href="#sp"><li>Sarana dan Prasarana</li></a>
+    <a href="#pi"><li>Peluang Investasi</li></a>
+    <a href="#pap"><li>Potensi Arahan Pengembangan</li></a>
+    <a href="#kp"><li>Kendala Pengembangan</li></a>
+	<a href="#rf"><li>Referensi</li></a>
+    </ul>
+    <a href="#fb_comn">KOMENTAR</a>
+</div>
+
+<br>
+			<a id="sf"></a></h2>
+			<div id="galleria">
+            <!--<div class='tengahin'><input type="button" value="Kembali Ke List" onclick="goBack()"></div>-->
+                            </div>
+            
+            <script>
+            Galleria.loadTheme('http://www.ppk-kp3k.kkp.go.id/direktori-pulau/galleria/themes/classic/galleria.classic.min.js');
+            Galleria.run('#galleria');
+            </script>
+</div>
+
+<div id="text_warp">
+
+
+<p><h1>Talango Tengah</h1></p>
+<table>
+<tr>
+	<td>Nama Lain</td> <td>:</td> <td></td>
+</tr>
+<tr>
+	<td>Propinsi</td> <td>:</td> <td>JAWA TIMUR</td>
+</tr>
+<tr>
+	<td>Kabupaten</td> <td>:</td> <td>KABUPATEN SUMENEP</td>
+</tr>
+<tr>
+	<td>Kecamatan</td> <td>:</td> <td></td>
+</tr>
+<tr>
+	<td>Koordinat</td> <td>:</td> <td><a href="http://www.ppk-kp3k.kkp.go.id/giskkp/index.html?extent="target="_blank">7° 5' 46.512</a></td>
+</tr>
+</table>
+<hr>
+
+<h2><a id="gu">Gambaran Umum</a></h2>
+<p><div class="readmore"><p>
+	. <strong>Kondisi Umum Pulau</strong></p>
+<p style="margin-left: 14.2pt; text-align: justify;">
+	Talango Tengah adalah sebuah pulau kecil di antara gugusan pulau-pulau di sebelah timur pulau Madura. Pulau Talango Tengah merupakan salah satu pulau berpenduduk yang secara administratif berada dalam Kabupaten Sumenep Kecamatan Ra&rsquo;as Desa Brakas Dusun Pulau Talango Tengah. Secara geografis Pulau Talango Tengah memiliki batas-batas wilayah sebagai berikut :</p>
+<p style="margin-left: 14.2pt; text-align: justify;">
+	Sebelah Utara&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : Laut Jawa dan Pulau Masalembu</p>
+<p style="margin-left: 14.2pt; text-align: justify;">
+	Sebelah Selatan&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : Pulau Tonduk</p>
+<p style="margin-left: 14.2pt; text-align: justify;">
+	Sebelah Timur&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : Pulau Talango Timur</p>
+<p style="margin-left: 14.2pt; text-align: justify;">
+	Sebelah Barat&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : Pulau Talango Barat</p>
+<p style="margin-left: 14.2pt; text-align: justify;">
+	Pulau Talango Tengah berada pada ketinggian sekitar 10 meter dari permukaan laut, yang terletak pada koordinat antara 07<sup>0</sup> 05&rsquo; 46.512&rdquo; LS dan 114&deg; 41&#39; 0.488&quot; BT menurut topografinya termasuk daerah landai dengan tingkat kemiringan tanah kurang dari 30%. Untuk menuju Pulau Talango Tengah dari daratan Sumenep bisa dicapai melalui Pelabuhan Dungkek di Kecamatan Dungkek menggunakan angkutan perahu motor, atau dengan kapal PELNI dari Pelabuhan Kalianget menuju Pelabuhan Brakas dengan jarak tempuh sekitar 4-5 jam, dari Pulau Ra&rsquo;as, tepatnya dari pelabuhan nelayan di Desa Brakas dengan perahu motor. Di Desa Brakas terdapat pelabuhan nelayan yang melayani rute antar pulau disekitarnya dengan kapal nelayan yang dapat disewa atau kapal regular satu kali sehari pada jam 11.30 WIB dengan jarak tempuh 30 - 40 menit. Menurut penuturan masyarakat tidak ada sejarah penamaan Pulau Talango Tengah.</p>
+<p style="text-align: justify;">
+	<strong>Klimatologi</strong></p>
+<p style="text-align: justify;">
+	Pulau Talango Tengah termasuk dalam kategori daerah tropis. Seperti daerah lain di Indonesia, musim hujan di Pulau Talango Tengah dimulai bulan Oktober hingga Maret, dan musim kemarau bulan April hingga September. Rata-rata curah hujan di Pulau ini adalah 1.479 mm. Berdasarkan data tahun 2011 Temperatur Suhu udara di Pulau Talango Tengah tertinggi terjadi di bulan September - Nopember (31,7&deg; C). Suhu udara relatif konsisten sepanjang tahun, dengan suhu rata-rata 30 derajat Celsius. Jumlah curah hujan terbanyak terjadi di bulan Desember. Rata-rata penyinaran matahari terlama di bulan Agustus dan terendah di bulan Februari. Sedangkan Kecepatan angin di bulan Juli merupakan yang tertinggi dan terendah di bulan Maret.&nbsp;</p>
+<p style="text-align: justify;">
+	<strong>Oseanografi</strong></p>
+<p style="margin-left: 14.2pt; text-align: justify;">
+	Pola arus di Pulau Talango Tengah mengacu pada pola pergerakan arus secara umum yang terjadi di perairan Laut Jawa. Kondisi arus di Laut Jawa sangat dipengaruhi oleh angin musim. Pada umumnya arus mengalir ke timur selama Musim Barat yakni antara bulan November sampai dengan Maret dan mengalir ke arah barat selama Musim Timur antara bulan Mei hingga September. Pada saat pancaroba atau masa transisi di bulan April dan Oktober terjadi perubahan arah arus. Pada bulan tersebut arus yang berada dekat pantai Jawa umumnya bergerak ke arah timur dan arus yang berada dekat pantai Kalimantan bergerak ke arah Barat.</p>
+<p style="margin-left: 14.2pt; text-align: justify;">
+	Jenis pasut yang ditemui adalah tipe diurnal (terjadi 1 kali pasang dan 1 kali surut dalam 24 jam). Air surut terjadi sekitar jam 06.00 WIB, pada jam 10.00 WIB air laut mulai menunjukkan terjadinya pasang dan mencapai pasang tinggi pada jam 19.00 WIB.</p>
+<p style="text-align: justify;">
+	<strong>Hidrologi</strong></p>
+<p style="margin-left: 14.2pt; text-align: justify;">
+	Air permukaan tidak ditemukan&nbsp; di Pulau Talango Tengah. Sumber mata air yang ada di Pulau Talango Tengah cukup banyak. Hampir setiap rumah telah memiliki sumur sebagai sumber mata air yang digunakan oleh warga untuk kebutuhan sehari-hari seperti air minum, mandi dan cuci. Air minum di Pulau Talango Tengah bersifat payau atau berasa asin.</p>
+<p style="text-align: justify;">
+	<strong>Keadaan Fisik Pulau</strong></p>
+<p style="margin-left: 14.2pt; text-align: justify;">
+	Pulau Talango Tengah memiliki tipe pantai berpasir dan pantai berbatu. Pantai berbatu dapat ditemui di sisi bagian Barat Pulau Talango Tengah. Sedangkan Pantai berpasir dapat ditemui di sisi bagian Timur, Barat, Selatan dan Utara Pulau Talango Tengah yang digunakan para penduduk sebagai pusat aktivitas nelayan, antara lain tempat berlabuhnya kapal atau tempat untuk memperbaiki kapal.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="ksbk">Kependudukan, Sosial Budaya dan Kelembagaan</a></h2>
+<p><div class="readmore"><p>
+	Kependudukan</p>
+<p style="margin-left:21.3pt;">
+	Data jumlah penduduk di Pulau Talango Tengah, Dusun Pulau Talango Tengah, Desa Brakas, Kecamatan Raas Kabupaten Sumenep sejumlah &plusmn;580 jiwa dengan yang terdiri dari 204 KK.</p>
+<p>
+	Sosial -Budaya, Ekonomi Kelembagaan</p>
+<p style="margin-left:21.3pt;">
+	Rata-rata penduduk di Pulau Talango Tengah memiliki mata pencarian sebagai nelayan. Jenis pekerjaan lain yang ditemui antara lain yaitu penyedia jasa perahu antar pulau, selain itu juga ada beberapa orang sebagai pedagang dan guru. Untuk memenuhi kebutuhan sehari-hari penduduk membelinya dari Pulau Ra&rsquo;as, Sumenep dan Pulau Jawa. Di Pulau Talango Tengah terdapat 7 warung untuk memenuhi kebutuhan sehari-hari.</p>
+<p style="margin-left:21.3pt;">
+	Agama yang dianut penduduk pulau ini 100 % Islam dimana nilai-nilai yang terkandung dalam syariat Islam mewarnai orientasi budaya dan kelembagaan masyarakat setempat, sedangkan suku yang mendiami pulau ini mayoritas suku Madura, dan sebagian kecil juga suku Jawa, Bugis dan Bajo.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="eshp">Ekosistem dan Sumberdaya Hayati</a></h2>
+<p><div class="readmore"><p style="text-align: justify;">
+	Ekosistem dan Sumber daya Hayati Pesisir</p>
+<ol style="list-style-type:lower-alpha;">
+	<li style="text-align: justify;">
+		Terumbu Karang</li>
+</ol>
+<p style="text-align: justify;">
+	Pulau Talango Tengah merupakan salah satu pulau di Madura. Lokasi pulau jauh dari daratan utama sehingga kecerahan perairan sangat bagus. Pertumbuhan terumbu di Pulau Talango Tengah pada umumnya termasuk karang tepi atau <em>fringing reef</em>, dan ada pertumbuhan terumbu gosong atau <em>patch reef</em> yang ada di timur Pulau Talango Tengah. Substrat sedimen di perairan Pulau Talango Tengah didominasi oleh pasir dan karang. Kondisi arus di Pulau Talango Tengah cukup tenang kecuali di bagian utara, karena langsung menghadap ke lepas laut. Di Pulau Talango Tengah memiliki indikator perairan yang bersifat destruktif ada yang disebabkan oleh manusia dan biota laut. Penangkapan ikan dengan menggunakan bom dan potassium masih ada di perairan Pulau Talango Tengah. Biota Indikator seperti <em>Acanthaster plancii </em>ditemukan padat di sekitar Tenggara Pulau Talango Tengah. Terumbu karang di Pulau Talango Tengah hidup di kedalaman sekitar 1-8 meter. Jenis karang yang tumbuh bermacam-macam dari karang Acropora maupun Non-Acropora. Lokasi pengambilan data terumbu karang berada di 4 lokasi, yakni Barat Laut Pulau Talango Tengah, Barat Daya Pulau Talango Tengah, Timur Pulau Talango Tengah, Barat Pulau Talango Tengah.</p>
+<h1 style="text-align: justify;">
+	<strong>Kondisi Penutupan Substrat Dasar Secara Umum</strong></h1>
+<p style="text-align: justify;">
+	Substrat Dasar perairan di Pulau Talango Tengah pada lokasi pengamatan cukup beragam, yakni: karang hidup; abiotik seperti pasir dan patahan karang; karang mati seperti <em>Death Coral</em> (DC) dan <em>Death Coral with Algae</em> (DCA); biotik seperti karang lunak, spons, ascidian, crinoid, hidrozoan; serta alga seperti <em>Turf Algae</em>. Secara umum kondisi penutupan karang hidup di seluruh lokasi pengamatan pada Pulau Talango Tengah memiliki kisaran antara 28,84% - 50,14% yang termasuk dalam kriteria karang sedang sampai dengan baik. Penutupan karang hidup tertinggi adalah bagian tenggara Pulau Talango Tengah sedangkan penutupan karang hidup terendah adalah Timur Pulau Talango Tengah.</p>
+<h1 style="text-align: justify;">
+	<strong>Kondisi Penutupan Substrat Dasar di Timur Pulau Talango Tengah</strong></h1>
+<p style="text-align: justify;">
+	Kontur kedalaman di Timur Pulau Talango Tengah adalah landai dengan terumbu karang yang cukup rapat. Terletak pada gosong karang dengan substrat dasar didominasi karang hidup, kecerahan perairan yang baik. Persentase penutupan karang hidup pada Lokasi Timur Pulau Talango Tengah adalah 48,52%, termasuk dalam kriteria sedang (Gomes dan Yap 1988). Didominasi penutupan kategori substrat abiotik sebesar 34,14% dan penutupan kategori biotik 6,56%. Kategori substrat karang mati sebesar 10,18% dan Kategori Substrat Alga sebesar 0,60%.</p>
+<h1 style="text-align: justify;">
+	<strong>Tingkat Kerusakan dan Penyebab Utama</strong></h1>
+<p style="text-align: justify;">
+	Eksistensi ekosistem terumbu karang menjadi suatu hal yang substansial dalam kawasan wilayah pesisir dan lautan terutama pulau-pulau kecil yang sangat tergantung pada kondisi ekosistem tersebut disamping mangrove dan lamun. Faktor-faktor penyebab kerusakan dapat berasal dari alam dan non-alam (anthropogenik).</p>
+<h1 style="text-align: justify;">
+	<strong>Permasalahan Utama Pengelolaan Kawasan Terumbu Karang</strong></h1>
+<p style="text-align: justify;">
+	Penduduk setempat maupun nelayan dari luar wilayah Pulau Talango Tengah memiliki kebiasaan membuang sampah di laut. Penangkapan ikan yang tidak ramah lingkungan seperti penggunaan bom dan racun/potassium. Nelayan setempat yang mencari gurita dengan cara tradisional memberikan kontribusi terhadap kerusakan terumbu karang dengan menginjak ataupun memindahkan karang. Pendidikan konservasi dan penyuluhan terhadap masyarakat penduduk khususnya nelayan seharusnya diadakan untuk dapat mencegah kerusakan dan meningkatkan kelestarian ekosistem pesisir yang ada di Pulau Talango Tengah.</p>
+<h1 style="text-align: justify;">
+	<strong>Status Kawasan</strong></h1>
+<p style="text-align: justify;">
+	Melalui tata ruang wilayah pesisir dan lautan di perairan Pulau Talango Tengah belum ada tercatat dalam status kawasan apapun. Perlu adanya perhatian dari pemerintah dan masyarakat setempat kelestarian terhadap lingkungan pesisir dan lautan di Pulau Talango Tengah agar mengurangi tingkat kerusakan ekosistem pesisir.</p>
+<h1 style="text-align: justify;">
+	<strong>Biota Asosiasi yang Ditemukan di Pulau Talango Tengah</strong></h1>
+<p style="text-align: justify;">
+	Beberapa biota asosiasi yang ditemukan di Pulau Talango Tengah baik sebagai indikator maupun mayor. Indikator sebagai indikasi kerusakan terumbu karang baik invasi maupun predasi. Mayor sebagai pengisi pada rantai makanan di ekosistem terumbu karang.</p>
+<h1 style="text-align: justify;">
+	<strong>b. </strong><strong>Ikan Karang</strong></h1>
+<p style="text-align: justify;">
+	Komunitas ikan karang dibandingkan dengan komunitas lain di terumbu karang, merupakan jumlah yang paling berlimpah, dengan keanekaragaman spesies sebanding dengan keanekaragaman spesies karang batu. Tingginya keragaman ini disebabkan terdapatnya variasi habitat yang ada di terumbu karang, dimana semua tipe habitat tersebut diisi oleh spesies ikan karang (Emor, 1993).</p>
+<p style="text-align: justify;">
+	Metode yang digunakan dalam penentuan lokasi sampling untuk pengamatan ikan ialah &ldquo;<em>Purposive Random Sampling</em>&rdquo;. Metoda yang digunakan dalam penelitian ini adalah &ldquo;MetodePengamatan Visual Sensus&rdquo; (Dartnall &amp; Jones, 1986). Masing-masing transek pada kedalaman 5 meter sepanjang 50 x 2,5 m sejajar garis pantai. Data ikan diidentifikasi menggunakan buku petunjuk bergambar Allen, et al, (2003). Data ikan yang diperoleh kemudian dihitung nilai kepadatan populasi, kepadatan relatif, frekuensi kehadiran, indeks diversitas Shannon-Wienner.</p>
+<p style="text-align: justify;">
+	Nilai indeks keanekaragaman ikan karang di ekosistem terumbu karang di Barat Laut dan Tenggara memiliki nilai indeks keanekaragaman yang hampir sama yaitu 2,82 dan 2,92 yang berarti keanekaragaman sedang, penyebaran sedang dan kestabilan komunitas sedang. Indeks keseragaman masuk dalam kategori tinggi dengan nilai 0,85 dan 0,89 yang berarti kondisi komunitas stabil. Informasi ini menunjukkan bahwa komunitas ikan karang di daerah Barat Laut dan Tenggara relatif stabil karena fluktuasi tekanan lingkungan terhadap kelangsungan hidup ikan-ikan karang tidak terlalu besar. Indeks dominansi ikan karang di Barat Laut dan Tenggara yang sangat kecil mendekati nol yaitu 0,09 dan 0,07 menunjukkan bahwa dominasi spesies adalah rendah, sehingga kondisi komunitas ikan karang relatif stabil, sedangkan nilai indeks keanekaragaman ikan karang di ekosistem terumbu karang di daerah Timur tergolong tinggi yaitu 3.32 yang berarti keanekaragaman tinggi, penyebaran tinggi dan kestabilan komunitas tinggi. Indeks keseragaman masuk dalam kategori tinggi dengan nilai 0,92 yang berarti komunitas stabil. Indeks dominasi ikan karang yang masih termasuk kategori kecil yaitu 0,04 menunjukkan bahwa dominasi spesies adalah rendah, sehingga kondisi komunitas ikan karang relatif stabil. Secara keseluruhan kondisi ikan terumbu di Pulau Talango Tengah memiliki tingkat keanekaragaman yang cukup baik walaupun di bagian Barat Laut dan Tenggara menunjukkan nilai yang masuk kategori sedang tetapi pada daerah Timur menunjukkan nilai yang tinggi. Sehingga dapat disimpulkan bahwa tingkat keanekaragaman, penyebaran dan kestabilan komunitas yang stabil pada ikan terumbu di daerah tersebut. Hal ini ditunjukkan juga melalui nilai indeks keseragaman yang menunjukkan bahwa kondisi ikan terumbu di perairan tersebut termasuk ke dalam kategori stabil, indeks dominasi yang memiliki nilai dengan kategori rendah menunjukkan tidak adanya satu jenis ikan terumbu yang mendominasi wilayah perairan tersebut. Sehingga dapat disimpulkan bahwa melalui nilai-nilai indeks yang didapatkan maka kondisi ikan terumbu di perairan Pulau Talango Tengah tergolong ke dalam kondisi yang baik.</p>
+<h1 style="text-align: justify;">
+	<strong>Barat Laut Pulau Talango Tengah</strong></h1>
+<p style="text-align: justify;">
+	Jumlah famili ikan karang yang ditemukan selama pengamatan di daerah Barat Laut ada 10 famili. Famili-famili ikan tersebut terdiri 27 spesies. Pomacentridae merupakan famili yang memiliki jenis spesies terbanyak yaitu 7 jenis disusul famili Labridae yaitu sebanyak 5 jenis, Acanthuridae sebanyak 4 jenis, Lutjanidae dan Scaridae sebanyak 3 jenis sedangkan famili ikan yang memiliki komposisi paling sedikit adalah Chaetodontidae, Pomacanthidae, Mullidae, Nemipteridae dan Siganidae yang masing-masing hanya ditemukan 1 jenis spesies. Komposisi jumlah dari banyaknya jumlah ikan yang ada di stasiun pengamatan 1 yang berada di bagian Barat Laut Talango Tengah dapat dilihat pada Gambar 15.</p>
+<p style="text-align: justify;">
+	Kelimpahan total ikan karang yang ditemukan di Barat Laut Talango Tengah sebanyak 7600 ind/ha. Pomacentridae dan Labridae (Gambar 12) merupakan famili yang secara umum relatif mendominasi, dengan jumlah masing-masing sebanyak 4960 ind/ha dan 760 ind/ha. Jenis ikan dari famili Pomacentridae yang paling banyak adalah <em>Chrysiptera parasema</em> sebanyak 1440 ind/ha dan dari famili Labridae adalah <em>Thalassoma lunare </em>sebanyak 320 ind/ha Pomacentridae merupakan kelompok ikan yang memanfaatkan terumbu karang sebagai habitat dibandingkan untuk mencari makan sedangkan ikan dari famili Labridae, diduga karena organisme invertebrata yang merupakan sumber makanan bagi mereka banyak ditemukan di perairan Barat Laut. Famili ikan karang yang juga memiliki jumlah yang cukup tinggi adalah Acanthuridae sebanyak 560 ind/ha.</p>
+<p style="text-align: justify;">
+	Pada daerah di perairan ini, jenis ikan yang dianalisis biomassanya adalah ikan target yang terdiri dari beberapa spesies dari kelas Caesionidae, Lutjanidae, Scaridae, Serranidae, dan Siganidae. Jenis-jenis ikan target ini yang merupakan target nelayan untuk ditangkap memiliki harga jual yang variatif antara Rp.15.000-35.000 per kg tergantung dari jenis ikan tersebut dan jumlah keberadaan ikan target tersebut. Di daerah perairan Barat Laut ini biomassa terbesar didapat dari famili Scaridae yaitu spesies <em>Scarus forsteni, </em>61,29 Kg/Ha dan diikuti oleh spesies <em>Scarus flavipectoralis</em>, 61,29 Kg/Ha. Biomassa terkecil ditunjukan oleh spesies <em>Siganus vulpinus</em> dari famili Siganidae, 13,86.</p>
+<h1 style="text-align: justify;">
+	<strong>Tenggara Pulau Talango Tengah</strong></h1>
+<p style="text-align: justify;">
+	Jumlah famili ikan karang yang ditemukan selama pengamatan di daerah Tenggara ada 10 famili. Famili-famili ikan tersebut terdiri 27 jumlah spesies. Labridae merupakan famili yang memiliki jenis spesies terbanyak yaitu 9 spesies, sedangkan famili ikan yang memiliki komposisi paling sedikit adalah Siganidae, Mullidae, Pomacanthidae dan Muraenidae yang masing-masing hanya ditemukan 1 jenis spesies. Pomacentridae dan Labridae merupakan famili yang secara umum relatif mendominasi.</p>
+<p style="text-align: justify;">
+	Kelimpahan total ikan karang yang ditemukan di daerah Tenggara sebanyak 11000 ind/ha. Komposisi kepadatan ikan karang dapat dilihat pada Gambar 15. Kelimpahan ikan karang tertinggi adalah famili Pomacentridae, Caesionidae dan Labridae, yang masing-masing sebanyak 3480 ind/ha, 3040 ind/ha dan 2240 ind/ha. Jenis ikan dari famili Pomacentridae yang mendominasi adalah jenis <em>Abudefduf vaigiensis</em> sebanyak 1440 ind/ha, famili Caesionidae (Gambar 20) yang merupakan jenis ikan target yang mendominasi adalah jenis <em>Caesio teres</em> sebanyak 1440 ind/ha dan famili Labridae dengan jenis <em>Halichoeres trimaculatus</em> sebanyak 480 ind/ha. Berdasarkan famili, kelimpahan ikan yang paling rendah adalah Muraenidae (Gambar 21) dan Siganidae. Famili ikan karang yang juga memiliki komposisi jenis spesies cukup tinggi adalah Acanthuridae sebanyak 560 ind/ha dan Chaetodontidae bersama dengan Siganidae sebanyak 480 ind/ha serta Scaridae sebanyak 480 ind/ha. Kelompok ikan yang secara teratur atau aktif memangsa koloni karang yang ditemukan di daerah Tenggara adalah Chaetodontidae, Siganidae, Pomacentridae, Acanthuridae dan Scaridae.</p>
+<p style="text-align: justify;">
+	Jenis-jenis ikan target yang ditemukan di bagian Tenggara perairan dapat dilihat pada grafik dibawah ini. Dari gambar tersebut, bisa kita lihat hasil analisa biomassa di perairan Tenggara. Famili Caesionidae memiliki biomassa rata-rata tertinggi di stasiun ini. Spesies <em>Caesio teres</em> tercatat sebesar 225.30 Kg/Ha, <em>Caesio cu</em><em>n</em><em>ning</em> 150.20 Kg/Ha dan <em>Caesio xanthonota</em> 136,18 Kg/Ha. Biomassa terkecil untuk ikan target teranalisa pada famili Siganidae spesies <em>Siganus vulpinus</em> yaitu 41.58 Kg/Ha.</p>
+<h1 style="text-align: justify;">
+	<strong>Timur Talango Tengah</strong></h1>
+<p style="text-align: justify;">
+	Kelimpahan total ikan karang yang ditemukan di daerah Timur adalah 14840 ind/ha, dapat dilihat pada Gambar 19. Kelimpahan ikan karang tertinggi adalah famili Pomacentridae, Labridae, Acanthuridae, Caetodontidae dan Lutjanidae yang memiliki kelimpahan lebih dari 1000 ind/ha. Famili Pomacentridae dan Labridae memiliki kelimpahan yang lebih tinggi dibanding famili yang lainnya. Famili Pomacentridae dengan jenis <em>Abudefduf sexfasciatus</em> sebanyak 1440 ind/ha merupakan jenis yang memiliki kelimpahan paling tinggi dan jenis <em>Thalassoma lunare</em> sebanyak 560 ind/ha dari famili Labridae. Jenis ikan yang paling tinggi dari kelompok ikan target adalah <em>Lutjanus kasmira</em> sebanyak 640 ind/ha. Jumlah famili ikan karang yang ditemukan selama pengamatan di daerah Timur ada 14 famili. Famili-famili ikan tersebut terdiri 37 spesies. Chaetodontidae dan Labridae merupakan famili yang memiliki jenis spesies terbanyak yaitu 6 jenis, sedangkan famili ikan yang memiliki komposisi paling sedikit adalah Fistulariidae (Gambar 24), Mullidae, Nemipteridae, Plotosidae, Scaridae dan Zanclidae yang masing-masing hanya ditemukan 1 jenis spesies. Di stasiun pengamatan ini juga ditemukan kelompok ikan dari famili Tetraodontidae</p>
+<p style="text-align: justify;">
+	Di daerah Timur ada dua spesies dari famili Lutjanidae mendominasi biomassa dari ikan target. <em>Lutjanus kasmira</em> dan <em>Lutjanus quinquelineatus</em> adalah kedua spesies yang memiliki biomassa terbesar ikan target pada perairan Timur Talango Tengah dengan nilai masing-masing 130,26 dan 101,77 Kg/Ha. Biomassa terkecil ditunjukan oleh <em>Ephinephelus merra</em> 6,22 Kg/Ha dari famili Serranidae dan <em>Siganus puellus</em> 9,38 Kg/Ha dari famili Siganidae.</p>
+<p style="text-align: justify;">
+	Dari hasil observasi di area Timur Pulau Talango Tengah ditemukan 45 jenis yang termasuk ke dalam 11 famili. Secara umum dapat dikategorikan kondisi komunitas ikan karang di daerah Pulau Talango Tengah masih dalam kondisi yang baik. Tabel 14 menunjukkan indeks Keanekaragaman, Keseragaman dan Dominansi di daerah tersebut.</p>
+<p style="text-align: justify;">
+	Nilai indeks keanekaragaman ikan karang di ekosistem terumbu karang daerah Timur tergolong tinggi yaitu 3.59 yang berarti keanekaragaman tinggi, penyebaran tinggi dan kestabilan komunitas tinggi. Indeks keseragaman masuk dalam kategori tinggi dengan nilai 0,94 yang berarti komunitas stabil. Indeks dominansi ikan karang yang masih termasuk kategori kecil yaitu 0,03 menunjukkan bahwa dominasi spesies adalah rendah, sehingga kondisi komunitas ikan karang relatif stabil. Kelimpahan total ikan karang yang ditemukan di Timur Talango Tengah adalah 15600 ind/ha. Komposisi kelimpahan komunitas ikan karang dapat dilihat pada Gambar 23. Kelimpahan ikan karang tertinggi adalah famili Pomacentridae dan Labridae (Gambar 28), yang masing-masing sebanyak 5840 ind/ha dan 2920 ind/ha. Berdasarkan famili, kelimpahan ikan yang paling rendah adalah Serranidae dengan kelimpahan 80 ind/ha. Pomacentridae merupakan famili yang memiliki jenis spesies terbanyak yaitu 11 jenis dengan jenis <em>Chromis analis</em> sebanyak 1440 ind/ha sedangkan famili ikan yang memiliki komposisi paling sedikit yang masing-masing hanya ditemukan 1 jenis spesies yaitu Caesionidae dengan jenis <em>Pterocaesio marri </em>sebanyak 640 ind/ha, Mullidae (Gambar 29) dengan jenis <em>Parupeneus bifasciatus</em> sebanyak 400 ind/ha, Serranidae dengan jenis <em>Epinephelus merra</em> sebanyak 80 ind/ha dan Siganidae dengan jenis <em>Siganus vulpinus</em> sebanyak 640 ind/ha.</p>
+<p style="text-align: justify;">
+	Biomassa ikan karang di areal Timur Talango Tengah dari hasil analisa menunjukan perbedaan yang cukup variatif antara 4 famili ikan target. Nilai terbesar tercatat pada spesies <em>Lutjanus fulviflamma</em> dari famili Lutjanidae yaitu sebesar 97,52 Kg/Ha. Jika dibandingkan dengan kelimpahan, hal menarik yang terlihat adalah pada spesies <em>Chlorurus sordidus</em> dari famili Scaridae dimana nilai kelimpahan 80 ind/ha memiliki nilai biomassa 45,78 Kg/Ha. Dibandingkan dengan <em>Lutjanus fulviflamma</em>, yang memiliki kelimpahan 480 ind/ha, maka bisa terlihat bahwa ukuran dari spesies <em>Chlorurus sordidus</em> lebih besar dari <em>Lutjanus fulviflamma</em>.</p>
+<h1 style="text-align: justify;">
+	<strong>c. </strong><strong>Padang Lamun</strong></h1>
+<p style="text-align: justify;">
+	Ekosistem lamun di Pulau Talango Tengah tumbuh hampir di semua bagian daerah pesisir pantai, baik yang dasar perairannya bersubstrat pasir maupun yang pasir berlumpur. Rona perairan di padang lamun yang bersubstrat pasir cenderung lebih jernih dibandingkan yang bersubstrat pasir berlumpur. Pengamatan lamun di Pulau Talango Tengah dilakukan di empat titik stasiun pengamatan yang tersebar di sisi utara, barat, selatan, dan timur. Sedangkan pengamatan lamun di Pulau Talango Tengah dilakukan di dua titik stasiun pengamatan yang tersebar di sisi utara dan selatan. Berdasarkan hasil pengamatan, Pulau Talango Tengah memiliki lima dari tiga belas jenis lamun yang ada di Perairan Indonesia. Pulau Talango Tengah hanya memiliki tiga dari tiga belas jenis lamun yang ada di Perairan Indonesia, Pulau Talango Tengah memiliki lima jenis lamun yang tumbuh di perairan pesisirnya yaitu <em>Cymodocea rotundata</em>, <em>Enhalus acoroides</em>, <em>Halodule uninervis</em>, <em>Halophila ovalis</em> dan <em>Syringodium isoetifolium. Pulau Talango Tengah hanya memiliki tiga jenis lamun yang tumbuh di perairan pesisirnya yaitu <em>Cymodocea rotundata</em>, <em>Enhalus acoroides</em> dan <em>Halodule uninervis.</em></em></p>
+<p style="text-align: justify;">
+	<em><em>Titik stasiun pertama pengamatan lamun pada Pulau Talango Tengah di sisi utara pulau memiliki substrat dasar perairan berupa pasir. Pada titik pengamatan ini ditemukan tiga jenis lamun, yaitu: <em>Cymodocea rotundata</em>&cedil; <em>Enhalus acoroides</em>, dan <em>Halodule uninervis, t</em>itik pengamatan lamun berikutnya terdapat di bagian barat Pulau Talango Tengah dengan substrat dasar perairan berupa pasir berlumpur. Pada titik pengamatan ini ditemukan empat jenis lamun, yaitu: <em>Cymodocea rotundata</em>, <em>Halodule uninervis</em>, <em>Halophila ovalis</em> dan <em>Enhalus acoroides</em>., titik pengamatan lamun berikutnya terdapat di bagian selatan Pulau Talango Tengah dengan substrat dasar perairan berupa pasir berlumpur. Pada titik pengamatan ini ditemukan empat jenis lamun, yaitu: <em>Cymodocea rotundata</em>, <em>Halodule uninervis,</em><em> Enhalus acoroides </em>dan<em> Syringodium isoetifolium</em>, Titik pengamatan lamun yang terakhir terletak di bagian timur Pulau Talango Tengah. Substrat dasar perairannya cenderung berupa pasir berlumpur. Pada titik pengamatan di timur Pulau Talango Tengah ini hanya ditemukan tiga jenis lamun yaitu <em>Cymodocea rotundata</em>, <em>Enhalus acoroides</em>, dan <em>Halodule uninervis. </em></em></em></p>
+<p style="text-align: justify;">
+	<em><em><em>Pengamatan pada titik stasiun pertama pengamatan lamun pada Pulau Talango Tengah di sisi selatan memiliki substrat dasar perairan berupa pasir. Pada titik pengamatan ini ditemukan tiga jenis lamun, yaitu: <em>Cymodocea rotundata</em>&cedil; <em>Enhalus acoroides</em>, dan <em>Halodule uninervis, </em></em></em></em>titik pengamatan lamun berikutnya terdapat di utara Pulau Talango Tengah dengan substrat dasar perairan berupa pasir berlumpur. Pada titik pengamatan ini ditemukan tiga jenis lamun, yaitu: <em>Cymodocea rotundata</em>, <em>Halodule uninervis, </em>dan <em>Enhalus acoroides</em>,</p>
+<p style="text-align: justify;">
+	tinggi adalah lamun jenis <em>Cymodocea rotundata</em> yang berada di bagian utara Pulau Talango Tengah sebesar 159 individu/m&sup2;, sedangkan kerapatan jenis lamun yang paling rendah adalah lamun jenis <em>Enhalus acoroides </em>pada bagian timur Pulau Talango Tengah sebesar 5 individu/m&sup2;, penutupan jenis lamun tertinggi berada di sisi utara Pulau Talango Tengah, yaitu lamun jenis <em>Cymodocea rotundata</em> dengan penutupan sebesar 70%. Tingginya penutupan lamun jenis ini sesuai dengan nilai kerapatannya yang juga paling tinggi di semua titik pengamatan. Sedangkan, penutupan jenis lamun yang paling rendah berada di sisi barat dan timur Pulau Talango Tengah. Nilai penutupan lamun terendah tersebut dimiliki oleh lamun jenis <em>Enhalus Acoroides</em>dan <em>Halophila ovalis</em> dengan nilai penutupan sebesar 5%.</p>
+<p style="text-align: justify;">
+	lamun jenis <em>Cymodocea rotundata</em> yang berada di bagian selatan Pulau Talango Tengah sebesar 138 individu/m&sup2;, sedangkan kerapatan jenis lamun yang paling rendah adalah lamun jenis <em>Enhalus acoroides </em>pada bagian selatan Pulau Talango Tengah sebesar 2 individu/m&sup2;,&nbsp; penutupan jenis lamun tertinggi berada di sisi utara Pulau Talango Tengah, yaitu lamun jenis <em>Cymodocea rotundata</em> dengan penutupan sebesar 70%.Tingginya penutupan lamun jenis ini sesuai dengan nilai kerapatannya yang juga paling tinggi di semua titik pengamatan. Sedangkan, penutupan jenis lamun yang paling rendah berada di sisi selatan Pulau Talango Tengah. Nilai penutupan lamun terendah tersebut dimiliki oleh lamun jenis <em>Enhalus Acoroides</em> dengan nilai penutupan sebesar 5%. Ekosistem lamun merupakan tempat hidup bagi biota laut lainnya. Padang lamun memberikan perlindungan, sekaligus sebagi sumber oksigen dan tempat mencari makan bagi biota laut tersebut.&nbsp; Biota asosiasi lamun di Pulau Talango Tengah diantaranya adalah ikan, makroalga, spons, teripang, krustasea, gastropoda, dan terumbu karang.</p>
+<h1 style="text-align: justify;">
+	<strong>d. </strong><strong>Tipe Vegetasi Pantai</strong></h1>
+<p style="text-align: justify;">
+	Vegetasi pantai yang ada di Pulau Talango Tengah cenderung homogen. Hal ini terkait dengan tipologi pantai yang didominasi oleh pantai berkarang, sehingga tanaman sulit tumbuh karena minimnya tanah sebagai media tumbuh dan air tawar sebagai kebutuhan primer tanaman. Selain itu, karakteristik lingkungan yang kering dan tandus membuat hanya beberapa jenis tanaman saja yang mampu hidup.</p>
+<p style="text-align: justify;">
+	Vegetasi pantai yang terdapat di Pulau Talango Tengah diantaranya adalah kaktus, kelapa, siwalan, pohon kuda, pandan pantai, nanas hutan, kelendengan dan tanaman semak lainnya. Tanaman-tanaman tersebut termasuk kedalam tanaman daerah kering, dimana dapat tumbuh di daerah tandus dan sedikit air, bahkan untuk jenis-jenis tanaman semak tertentu dan kaktus dapat tumbuh menjalar di daerah tebing-tebing pantai (Gambar 42 ).</p>
+<p style="text-align: justify;">
+	Tanaman-tanaman tersebut tumbuh liar, kecuali untuk tanaman kelapa dan pohon kuda yang sedikit banyak dirawat untuk dipanen buahnya. Selain buahnya, tanaman-tanaman tersebut oleh masyarakat dimanfaatkan kayunya dan sebagai tanaman peneduh di pantai dan ladang yang berada di pinggir pantai.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="snh">Sumberdaya Non Hayati</a></h2>
+<p><div class="readmore"><p style="text-align: justify;">
+	<strong>Sumber daya Non-Hayati Pesisir</strong></p>
+<p style="text-align: justify;">
+	Hingga saat ini belum ditemukan sumber daya Non-hayati pesisir seperti barang tambang dan minyak bumi di Pulau Talango Tengah.</p>
+<p style="text-align: justify;">
+	&nbsp;</p>
+</div></p>
+
+<hr>
+
+<h2><a id="aps">Aktivitas Pengelolaan Sumberdaya</a></h2>
+<p><div class="readmore"><p style="text-align: justify;">
+	Perikanan Tangkap</p>
+<p style="margin-left: 21.3pt; text-align: justify;">
+	Potensi perikanan di Pulau Talango Tengah merupakan potensi komoditi unggulan yang bisa dikembangkan misalnya adalah rajungan, kerang-kerangan dan teripang. Teripang merupakan komoditi unggulan dibidang perikanan dengan nilai jual yang cukup tinggi Rp. 200.000,- hingga Rp. 1.000.000,-. Selain itu juga kegiatan penangkapan ikan laut diantaranya ikan karang (kerapu, kakap merah, lobster dan ekor kuning), ikan tongkol, teri dan ikan hias.</p>
+<p style="margin-left: 21.3pt; text-align: justify;">
+	Mayoritas penduduk Pulau Talango Tengah memiliki profesi sebagai nelayan perikanan tangkap. Oleh sebab itu, perikanan tangkap merupakan sektor yang menjadi tumpuan hidup bagi masyarakat Pulau Talango Tengah. Nelayan-nelayan di pulau ini telah memiliki sarana kapal yang cukup baik. Hal ini ditunjukkan dengan ukuran-ukuran kapal tangkap yang besar dan rata-rata dilengkapi dengan mesin temple. Jenis-jenis ikan yang menjadi komoditas tangkapan utama bagi masyarakat nelayan di pulau ini cukup bervariasi, antara lain Kerapu Sunu, Tongkol, dan Lemuru. Selain itu, nelayan di Pulau Talango Tengah juga terbiasa menangkap Teripang, Udang Lobster dan Cumi-Cumi pada musim-musim tertentu. Kebanyakan hasil tangkapan nelayan tersebut dijual kepada pengepul atau untuk dikonsumsi sendiri.</p>
+<p style="text-align: justify;">
+	Perikanan Budidaya</p>
+<p style="text-align: justify;">
+	Budidaya air tawar di pulau ini tidak berkembang, begitu juga dengan budidaya laut berupa keramba jaring apung (KJA) tidak ditemukan adanya kegiatan budidaya. Budidaya rumput laut di pulau ini juga tidak&nbsp; ditemukan, hanya beberapa masyarakat disekitar pesisir yang melakukan aktivitas&nbsp; rumput laut yang tumbuh dilaut secara alam yaitu dari jenis Eucheuma cottoni.&nbsp; Pemasaran hasil budidaya rumput laut hanya terbatas di lokasi yang dikumpulkan oleh pengepul, kemudian pengepul memasarkan rumput laut ke daratan Sumenep. Harga dari masing-masing jenis rumput laut yaitu berkisar antara Rp 1.000 -3.000,-</p>
+<p style="text-align: justify;">
+	Pariwisata</p>
+<p style="margin-left: 0.25in; text-align: justify;">
+	Tidak ada kegiatan pariwisata di Pulau Talango Tengah hingga saat ini, akan tetapi pulau Talango Tengah memiliki potensi wisata bahari di pesisir pulau terutama pantai yang berpasir putih di bagian selatan seperti beach walking, berenang maupun snorkeling.</p>
+<p style="text-align: justify;">
+	Aktivitas Pengelolaan Sumber daya</p>
+<p style="text-align: justify;">
+	a. Pertanian</p>
+<p style="margin-left: 21.3pt; text-align: justify;">
+	Pulau Talango Tengah memiliki potensi pertanian yang dapat dikembangkan yaitu jagung, kedelai, kacang hijau, kacang tanah, ketela rambat, dan&nbsp; ketela pohon. Sebagian besar penduduk Pulau Talango Tengah berprofesi sebagai nelayan. Akan tetapi, sebagian penduduk juga ada yang memanfaatkan lahan-lahan di Pulau Talango Tengah sebagai tempat bercocok tanam. Umumnya tanaman yang dibudidayakan di Pulau Talango Tengah adalah singkong, jagung, talas (bentul), pisang, kelapa, dan beberapa jenis sayuran lainnya. Hasil tanaman-tanaman tersebut sebagian besar digunakan untuk konsumsi warga sendiri.</p>
+<p style="text-align: justify;">
+	b. Peternakan</p>
+<p style="margin-left: 21.3pt; text-align: justify;">
+	Selain nelayan dan bercocok tanam, terdapat pula sebagian masyarakat Pulau Talango Tengah yang memiliki usaha sampingan sebagai peternak. Potensi peternakan yang menjadi andalan Pulau Talango Tengah adalah adanya populasi ternak yang tergolong dalam ternak kecil maupun jenis unggas. Hewan ternak yang banyak dipelihara oleh warga Pulau Talango Tengah adalah kambing, sapi, kuda, hewan unggas seperti ayam dan itik/bebek. Selain dimanfaatkan untuk daging konsumsi, ternak-ternak yang dipelihara oleh penduduk Pulau Talango Tengah juga diperjual-belikan antar warga.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="ling">Lingkungan</a></h2>
+<p><div class="readmore"><p style="text-align: justify;">
+	<strong>Kualitas Perairan</strong></p>
+<p style="margin-left: 0.2in; text-align: justify;">
+	Suhu di Pulau Talango Tengah berkisar antara 29,4 &ndash; 31,63&deg;C. Salinitasnya berada pada kisaran 27 &ndash; 28 &permil;. Nilai pH berada pada rentang 7,15 &ndash; 7,41. Nilai oksigen terlarut berkisar antara 6,57 &ndash; 8,17.Berdasarkan Keputusan Menteri Lingkungan Hidup No 51 Tahun 2004, kisaran suhu, pH, dan oksigen terlarut ini masih berada pada kisaran normal. Kisaran salinitas di pulau ini masih berada pada rentang minimum kisaran normal salinitas di daerah coral. Wyrtki (1961) menyampaikan bahwa nilai salinitas dapat berada di bawah 34&permil; karena tingginya curah hujan dibandingkan dengan penguapan yang terjadi di daerah Indonesia. Kualitas air di Pulau Talango Tengah ini masih berada pada rentang yang diijinkan untuk budidaya laut (kerang, rumput laut, dan ikan kerapu) ditinjau dari Persyaratan Kualitas Air untuk Budidaya Laut yang bersumber pada Direktorat Jendral Perikanan (1982).</p>
+<p style="margin-left: 0.2in; text-align: justify;">
+	Nitrat di Pulau Talango Tengah memiliki nilai kisaran antara 0.008 &ndash; 0.040 mg/L. Nitrat di Pulau Talango Tengah sudah melampaui baku mutu yang telah ditetapkan (kepmen-LH 51 tahun 2004 untuk biota laut). Nilai tertinggi terdapat pada stasiun 1 sebesar 0,040 mg/l dan nilai terendah terdapat pada stasiun 2 sebesar 0,008 mg/l. Kadar nitrat yang melebihi dari 0.2 mg/l dapat mengakibatkan terjadinya eutrofikasi (pengayaan) perairan, yang selanjutnya menstimulasi pertumbuhan algae secara pesat (<em>blooming</em>) (Effendi 2003). Kadar ammonia di daerah talango memiliki kisaran 0,249 &ndash; 0,363 mg/l. Nilai ammonia tertinggi terdapat di stasiun 3 sebesar 0.363 mg/l dan terendah terdapat pada stasiun 2 sebesar 0.249 mg/l. tingginya nilai ammonia di perairan bersumber dari feses dari biota akuatik (Effendi 2003). Orto fosfat di Pulau Talango Tengah memiliki kisaran 0,296 &ndash; 0,651 mg/l. Pada stasiun 2 memiliki nilai orto fosfat yang tinggi. Orto fosfat di perairan berbentuk fosfor yang dapat dimanfaatkan secara langsung oleh organisme akuatik dan nutrisi yang esensial bagi pertumbuhan suatu organisme perairan (Wetzel 1983). Kadar silikat di daerah talango berkisar antara 0,57 &ndash; 0,637 mg/l dengan nilai rata-rata 0,592 mg/l. Raymont (1980) dan Paashe (1980) mengatakan bahwa beberapa fitoplankton jenis diatom memanfaatkan silikat untuk pembentukan dinding selnya. Ketersediaan silikat seringkali berdampak terhadap kelimpahan dan produktivitas fitoplakton dan menjadi faktor pembatas bagi populasi fitoplakton lainnya (Kennish 1990).</p>
+<p style="text-align: justify;">
+	<strong>Kerentanan bencana dan upaya mitigasi</strong></p>
+<p style="margin-left: 21.3pt; text-align: justify;">
+	Pesisir Pulau Talango Tengah bagian barat yang memiliki kerentanan terhadap erosi dan abrasi, selain karena pengaruh alam erosi dan abrasi juga diakibatkan oleh adanya penambangan pasir dan batu yang digunakan untuk membangun rumah. Daerah yang rawan abrasi pantai biasanya dibangun tanggul/tangkis laut seadanya dengan bahan bambu dan batu gunung yang ditumpuk sebagai penahan hempasan ombak laut oleh penduduk Pulau Talango Tengah untuk mengurangi dampak abrasi akibat air laut. Tangkis laut buatan penduduk Pulau Talango Tengah cukup panjang jaraknya agar pasir dan tanah bisa dilindungi karena mudah tergerus atau terbawa ombak saat air laut pasang.</p>
+<p style="text-align: justify;">
+	<strong>Permasalahan Lingkungan</strong></p>
+<p style="margin-left: 21.25pt; text-align: justify;">
+	Kondisi pantai di Pulau Talango Tengah memiliki karakteristik berpasir tanpa vegetasi mangrove. Tingkat kerentanan pantai cukup tinggi di daerah ini. Kerentanan pantai yang sangat terlihat adalah abrasi pantai.Kondisi aktif abrasi pantai yang terjadi pada Pulau Talango Tengah dapat terus mengurangi garis pantai.Diduga adalah daratan yang mengalami abrasi. Apababila hal tersebut tidak ditindaklanjuti, maka penurunan garis pantai pulau akan terus terjadi. Hal yang perlu dilakukan pada Pesisir Pulau Talango Tengah adalah mengembalikan fungsi ekosistem pesisir terutama vegetasi mangrove. Vegetasi mangrove memiliki fungsi merangkap sedimen pantai dan meredam gelombang yang datang sehingga pulau terlindungi. Oleh karena itu, perlu perhatian khusus kepada pihak- pihak terkait dalam proses rehabilitasi hutan mangrove tersebut guna kelestarian pulau-pulau kecil.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="sp">Sarana dan Prasarana</a></h2>
+<p><div class="readmore"><p style="text-align: justify;">
+	<strong>Sarana Dan Prasarana Pulau</strong></p>
+<p style="margin-left: 21.3pt; text-align: justify;">
+	a. Sarana Transportasi</p>
+<p style="margin-left: 21.3pt; text-align: justify;">
+	Sarana dan prasarana transportasi yang ada di Pulau Talango Tengah sesuai dengan keadaan alam di pulau tersebut. Untuk sarana transportasi laut, penduduk pulau ini menggunakan perahu yang berukuran panjang kurang lebih 5-10 meter atau ukuran yang lebih kecil. Selain sebagai sarana transportasi antar pulau, perahu-perahu tersebut juga dipakai untuk menangkap ikan. Dermaga atau <em>Jetty</em> untuk pendaratan kapal/perahu tidak tersedia pulau ini, nelayan hanya memanfaatkan pantai berpasir untuk berlabuh kapal dan memperbaiki kapalnya .Sarana jalan yang ada di Pulau Talango Tengah merupakan jalan tanah setapak dengan lebar jalan antara 1 meter sampai dengan 1,5 meter, untuk dilewati warga baik dengan berjalan kaki maupun kendaraan bermotor roda dua.</p>
+<p style="margin-left: 21.3pt; text-align: justify;">
+	b. Sarana Air Bersih</p>
+<p style="margin-left: 21.3pt; text-align: justify;">
+	Ketersedian air bersih di Pulau Talango Tengah berasal dari air sumur yang banyak tersebar di pemukiman penduduk. Kualitas air sumur Pulau Talango Tengah ditandai dengan warna, rasa, dan aroma air tanah dan dimanfaatkan untuk konsumsi air minum. Pada tahun 2009 mendapatkan bantuan dari Departemen Pekerjaan Umum berupa alat desalinasi air laut namun demikian dikarenakan alat tersebut rusak maka tidak dimanfaatkan oleh penduduk Pulau Talango Tengah. Apabila dilihat dari kondisi persebarannya, maka ketersediaan air tawar di pulau ini dapat dianggap cukup untuk menunjang kehidupan warga.</p>
+<p style="margin-left: 21.3pt; text-align: justify;">
+	c. Sarana Kesehatan dan Pendidikan</p>
+<p style="margin-left: 21.3pt; text-align: justify;">
+	Untuk sarana kesehatan, di Pulau Talango Tengah hanya terdapat 1 unit Polindes (Pondok Bersalin Desa) yang dibangun dari program PNPM Tahun 2009 dengan tenaga paramedis terdiri dari 1 orang bidan yang berasal dari daratan Pulau Ra&rsquo;as. Pelayanan Polindes dibuka apabila tenaga paramedis ada di tempat. Sedangkan untuk sarana pendidikan yang ada di Pulau Talango Tengah yaitu 1 Sekolah Dasar Negeri Talango Tengah dan 1 Madrasah Ibtidaiyah (MI). Kemudian untuk melanjutkan ke pendidikan yang lebih tinggi, penduduk pulau ada yang melanjutkan ke&nbsp; Pulau Ra&rsquo;as, Sumenep ataupun ke Pulau Jawa.</p>
+<p style="margin-left: 13.5pt; text-align: justify;">
+	&nbsp;&nbsp;&nbsp; d. Sarana Peribadatan</p>
+<p style="margin-left: 21.3pt; text-align: justify;">
+	Seluruh penduduk Pulau Talango Tengah adalah pemeluk agama Islam. Terdapat 1&nbsp; buah masjid yang berukuran cukup besar terdapat di tengah-tengah permukiman. Selain masjid utama, disekitar pemukiman penduduk juga terdapat 1 buah musholla yang berukuran kecil.</p>
+<p style="margin-left: 0.25in; text-align: justify;">
+	&nbsp;&nbsp; e. Sarana Penerangan/Listrik</p>
+<p style="margin-left: 21.3pt; text-align: justify;">
+	Aliran Listrik di Pulau Talango Tengah berasal dari 1 buah PLTD yang dikelola oleh warga sendiri. Aliran listrik sudah tersedia di Pulau Talango Tengah dan disalurkan kepada warga masyarakat. PLTD milik pribadi warga setempat dapat menyediakan listrik untuk sekitar 150 rumah tangga dengan batas waktu menyala dari pukul 18.00 WIB sampai dengan 06.00 WIB. Pembiayaan dilakukan secara iuran bulanan yang sudah di buat tariff dengan besaran harga 1 buah bola lampu Rp. 35.000,- per bulan dan 1 unit televisi sebesar Rp. 50.000,- per bulan.&nbsp; Apabila warga memerlukan listrik diluar jam pada umumnya, maka beberapa warga memiliki mesin genset berukuran kecil yang disewakan untuk hajatan tertentu.</p>
+<p style="margin-left: 13.5pt; text-align: justify;">
+	&nbsp;&nbsp;&nbsp;&nbsp; f. Sarana Komunikasi</p>
+<p style="margin-left: 21.3pt; text-align: justify;">
+	Sarana komunikasi yang terdapat di Pulau Talango Tengah adalah telepon genggam.&nbsp; Masyarakat dapat menggunakan telepon genggam untuk berkomunikasi dengan masyarakat lainnya di luar pulau. Akan tetapi penerimaan sinyal telepon hanya bagus dibeberapa lokasi saja dan menggunakan bantuan antenna luar untuk memperoleh sinyal kuat. Selain itu hanya beberapa operator saja seperti telkomsel dan xl yang dapat digunakan untuk berkomunikasi.</p>
+<p style="margin-left: 13.5pt; text-align: justify;">
+	&nbsp;&nbsp;&nbsp;&nbsp; g. Sarana Pendukung Lainnya</p>
+<p style="margin-left: 21.3pt; text-align: justify;">
+	Sarana pendukung kegiatan pemerintahan belum tersedia&nbsp; di Pulau Talango Tengah. Selain itu, di Pulau Talango Tengah&nbsp; juga terdapat tempat pemakaman umum. Untuk tempat berkumpul dan aktifitas olah raga Pulau Talango Tengah memiliki lapangan sepakbola dan lapangan volley. Guna memperoleh informasi penduduk Pulau Talango Tengah mempergunakan antenna parabola untuk menangkap siaran televisi.</p>
+<p style="margin-left:21.3pt;">
+	&nbsp;</p>
+</div></p>
+
+<hr>
+
+<h2><a id="pi">Peluang Investasi</a></h2>
+<p><div class="readmore"><p style="text-align: justify;">
+	<strong>Peluang Investasi</strong></p>
+<p style="margin-left: 21.3pt; text-align: justify;">
+	Pulau Talango Tengah menyimpan beberapa peluang investasi yang dapat dikembangkan. Peluang investasi yang dapat dikembangkan diantaranya perikanan skala kecil dan sedang, perikanan budidaya baik itu budidaya kerapu dengan keramba jaring apung ataupun budidaya rumput laut, dan pariwisata bahari.</p>
+<p style="margin-left: 21.3pt; text-align: justify;">
+	Kendala umum yang dihadapi dalam pengembangan investasi di Pulau Talango Tengah antara lain :</p>
+<ol style="list-style-type:lower-alpha;">
+	<li style="text-align: justify;">
+		Masih terbatasnya sarana perikanan dan kelautan</li>
+</ol>
+<p style="text-align: justify;">
+	Sampai saat ini, di Pulau Talango Tengah belum tersedia sarana pendukung untuk kegiatan perikanan seperti dermaga atau jetty tempat berlabuhnya kapal, tempat pelelangan ikan, pasar ikan, dan pabrik es. Masyarakat memiliki keterbatasan dalam memanfaatkan sumberdaya perikanan seperti sarana penangkapan dan pengawetan ikan hasil tangkapan.</p>
+<ol style="list-style-type:lower-alpha;">
+	<li style="text-align: justify;" value="2">
+		Belum diketahuinya potensi wisata yang dapat dikembangkan di Pulau Talango Tengah</li>
+	<li style="text-align: justify;" value="3">
+		Masih terbatasnya peralatan teknologi penangkapan ikan</li>
+	<li style="text-align: justify;" value="4">
+		Masih banyaknya nelayan yang menggunakan alat tangkap yang tidak ramah lingkungan (bom)</li>
+	<li style="text-align: justify;" value="5">
+		Rendahnya pengawasan dari aparat pemerintah dalam penggunaan alat tangkap yang tidak ramah lingkungan</li>
+</ol>
+</div></p>
+
+<hr>
+
+<h2><a id="pap">Potensi dan Arahan Pengembangan</a></h2>
+<p><div class="readmore"><p>
+	<strong>Potensi Dan Arahan Pengembangan Pulau</strong></p>
+<p style="margin-left: 21.3pt; text-align: justify;">
+	Potensi Minawisata</p>
+<p style="margin-left: 21.3pt; text-align: justify;">
+	Obyek Minawisata di Perairan Pulau Talango Tengah dan sekitarnya terdiri obyek komoditi dan obyek ekosistem. Obyek komoditi terdiri dari potensi spesies biota laut dan material non hayati yang mempunyai daya tarik wisata, berupa kondisi pantai berpasir tebal dengan vegetasi pantai menyejukkan. Sedangkan obyek ekosistem merupakan daya tarik wisata di dalam kawasan,yaitu hamparan pasir pantai serta terumbu karang untuk aktivitas penyelaman (<em>diving</em>) dan <em>snorkling</em>.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="kp">Kendala Pengembangan</a></h2>
+<p><div class="readmore"><p style="text-align: justify;">
+	<strong>Kendala Pengembangan Pulau</strong></p>
+<p style="margin-left: 21.3pt; text-align: justify;">
+	Pulau Talango Tengah merupakan salah satu pulau uang potensial untuk dikembangkan. Potensi tersebut sampai saat ini belum dikelola secara optimal., dalam arti sumberdaya yang ada belum dimanfaatkan dan dikembangkan untuk peningkatan taraf hidup penduduk yang menghuni Pulau Talango Tengah. Dalam praktek keseharian sampai saat ini berbagai upaya telah dilakukan oleh penduduk bekerjasama dengan pemerintah daerah, namun beberapa kendala dan permasalahan masih ditemui di Pulau Talango Tengah, antara lain :</p>
+<ol style="list-style-type:lower-alpha;">
+	<li style="text-align: justify;">
+		Alternatif Mata Pencaharian</li>
+</ol>
+<p style="text-align: justify;">
+	Salah satu kendala yang dihadapi oleh penduduk PulauTalango Tengah adalah terbatasnya alternatif mata pencaharian yang ditekuni oleh penduduk. Selain perikanan tangkap dan pertanian lahan kering, penduduk masih belum memiliki alternatif mata pencaharian yang tepat dan menguntungkan untuk dikembangkan. Beberapa upaya telah dilakukan oleh pemerintah daerah untuk membantu penduduk setempat untuk membuka mata pencaharian alternatif antara lain dengan memberikan pelatihan pengolahan ikan, pengolahan rumput laut menjadi beberapa hasil olahan, dll, akan tetapi kendala permodalan dan pemasaran masih menghambat pengembangan alternatif pekerjaan tersebut.</p>
+<ol style="list-style-type:lower-alpha;">
+	<li style="text-align: justify;" value="2">
+		Permasalahan Perikanan Tangkap</li>
+</ol>
+<p style="text-align: justify;">
+	Terkait dengan perikanan tangkap, kendala yang dihadapi nelayan rata-rata sama dengan nelayan-nelayan di daerah lain yaitu keterbatasan sarana dan prasarana penangkapan ikan Peralatan penangkapan ikan yang digunakan nelayan pulau ini sebagian besar adalah katinting dan mesin tempel 15 PK sehingga hasil yang diperoleh tidak optimal karena jangkauan penangkapan terbatas di sekitar pulau. Selain itu Pulau Talango Tengah belum terdapat prasarana perikanan seperi pabrik es mini atau tempat pelelangan ikan sehingga produksi dan pemasaran ikan menjadi kurang optimal. Selain perikanan tangkap, pengelolaan rumput laut di Pulau Talango tengah juga mengalami kendala antara lain&nbsp; rumput laut yang pertumbuhannya tidak menentu, mengingat penduduk Talango Tengah tidak membudidayakan rumput laut namun hanya mengambil rumput laut langsung dari laut disekitar pulau, serta tidak adanya patokan harga</p>
+<ol style="list-style-type:lower-alpha;">
+	<li style="text-align: justify;" value="3">
+		Keterbatasan Sarana Pengolahan Ikan</li>
+</ol>
+<p style="text-align: justify;">
+	Salah satu kendala dalam peningkatan produksi hasil perikanan yang dihadapi penduduk Pulau Talango Tengah adalah terbatasnya sarana pengolahan hasil perikanan. Pada saat hasil produksi perikanan berlimpah, tidak semua ikan-ikan tersebut dapat dijual ke pasar sehingga banyak yang tidak termanfaatkan. Untuk mengatasi hal ini, ikan-ikan tersebut dapat diolah menjadi berbagai produk ikan olahan yang menarik. Akan tetapi kurangnya sarana pengolahan ikan tersebut menjadi kendala bagi penduduk Pulau Talango Tengah.</p>
+<ol style="list-style-type:lower-alpha;">
+	<li style="text-align: justify;" value="4">
+		Pengadaan Sarana Penerangan / Listrik</li>
+</ol>
+<p style="text-align: justify;">
+	Fasilitas penerangan penduduk Pulau Talango Tengah pada umumnya dialiri&nbsp; menggunakan listrik yang diadakan secara swadaya alias genset. Dari genset ini listrik dialirkan ke rumah-rumah penduduk. Untuk menikmati listrik dari genset ini penduduk harus membayar iuran dan dengan keterbatasan waktu pelayanan yang hanya berlaku dari malam hari hingga dini hari.</p>
+<p style="text-align: justify;">
+	Permasalahan Lingkungan</p>
+<p style="margin-left: 21.3pt; text-align: justify;">
+	Sebagai salah satu pulau kecil, Pulau Talango Tengah juga diperkirakan menghadapi berbagai masalah lingkungan pesisir. Berdasarkan hasil observasi, tidak ada permasalahan lingkungan serius yang dihadapi oleh warga. Menurut keterangan dari warga, masih&nbsp; terjadi pengambilan terumbu karang dan pasir pantai untuk digunakan sebagai bahan pembangunan rumah, ini mengakibatkan abrasi dibeberapa bagian Pulau Talango Tengah. Diharapkan dengan peran aktif aparat pemerintah, masyarakat Pulau Talango Tengah bisa disadarkan sehingga tidak lagi mengambil terumbu karang. Selain itu juga belum adanya tempat pembuangan sampah, sehingga masyarakat pulau hanya menumpuk sampah di tempat-tempat tertentu tanpa adanya pengelolaan lebih lanjut, selain itu juga masih banyak dijumpai kebiasaan masyarakat yang membuang sampah ke laut.</p>
+<p>
+	&nbsp;</p>
+</div></p>
+
+<hr>
+
+<h2><a id="rf">Referensi</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<br />
+	<i> 
+		<p style="font-size:12px;">
+			Karena keterbatasan SDM dalam penginputan dan pengolahan data, kami mohon maaf atas ketidak lengkapan beberapa data pulau yang kami tampilkan, harap dimaklumi.
+			Berikan keritik dan saran pada kolom komentar agar kita dapat bersama menyajikan sebuah data yang cukup sempurna untuk halayak ramai yang berguna
+			demi kesejahterahan, kelestarian dan keindahan pulau-pulau kecil yang dimiliki Indonesia.<br />
+			*Jika sekiranya anda memiliki data yang cukup banyak, silakan mengirimkan file melalui email kami di <b><a>identifikasippk@gmail.com</a></b>
+			
+		</p>
+	</i>
+<br />
+
+<div id="fb_comn" class="fb-comments" data-href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_info/4754" data-width="800" data-numposts="5" data-colorscheme="light"></div>
+
+
+</div>
+</div>
+</div>
+<div id="wrapper">
+
+<div class="footer"><p>
+<!--<marquee onmouseover="this.stop()" onmouseout="this.start()" scrollamount="5" direction="right" width="798" height="14"  behavior="scroll">-->
+<a href="http://www.ppk-kp3k.kkp.go.id/" target="_blank">Direktorat Pendayagunaan Pulau-Pulau Kecil &nbsp; | &nbsp;</a>
+<a href="http://www.kp3k.kkp.go.id/" target="_blank">Ditjen Kelautan, Pesisir dan Pulau-Pulau Kecil &nbsp; | &nbsp;</a>
+<a href="http://www.kkp.go.id/" target="_blank">Kementerian Kelautan dan Perikanan</a>
+<!--</marquee>--> <br />
+Jl. Medan Merdeka Timur No. 16 Gedung Mina Bahari 3 Lantai 10, Jakarta, Indonesia <br />
+Email : identifikasippk@gmail.com <br />
+Telp &amp; Fax: (021) 3522058 <br />
+&copy; Copyright Direktorat Pendayagunaan Pulau-Pulau Kecil 2012&nbsp; <br /></p>
+</div>
+</div>
+</body>
+</html>

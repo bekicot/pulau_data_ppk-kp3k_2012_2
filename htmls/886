@@ -1,0 +1,666 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Pulau Bengkoang</title>
+
+<meta charset="utf-8"/>
+
+<meta property="fb:app_id" content="559408774147878" />
+
+
+<meta property="og:title" content="Pulau Bengkoang" />
+<meta property="og:url" content="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_info/886" />
+
+
+    <script type="text/javascript" src="http://ajax.microsoft.com/ajax/jquery/jquery-1.4.4.min.js">
+    </script>
+    
+    <script type="text/javascript" src="http://plugins.learningjquery.com/expander/jquery.expander.js">
+    </script>
+    
+    <script type="text/javascript">
+        $(function () {
+            $('div.readmore').expander({
+                slicePoint:200,
+                expandText: '(Baca selengkapnya)',
+                userCollapseText: '(Sembunyikan selengkapnya)'
+            });
+        });
+    </script>
+        
+	<script src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/galleria/galleria-1.2.8.min.js"></script>
+
+        <SCRIPT TYPE="text/javascript">
+            <!--
+            //Disable right click script
+            //visit http://www.rainbow.arch.scriptmania.com/scripts/
+            var message="Sorry, right-click has been disabled";
+            ///////////////////////////////////
+            function clickIE() {if (document.all) {(message);return false;}}
+            function clickNS(e) {if
+            (document.layers||(document.getElementById&&!document.all)) {
+            if (e.which==2||e.which==3) {(message);return false;}}}
+            if (document.layers)
+            {document.captureEvents(Event.MOUSEDOWN);document.onmousedown=clickNS;}
+            else{document.onmouseup=clickNS;document.oncontextmenu=clickIE;}
+            document.oncontextmenu=new Function("return false")
+            // -->
+            </SCRIPT>
+            
+            <SCRIPT TYPE="text/javascript">
+            <!--
+            //Disable select-text script (IE4+, NS6+)
+            //visit http://www.rainbow.arch.scriptmania.com/scripts/
+            ///////////////////////////////////
+            function disableselect(e){
+            return false
+            }
+            function reEnable(){
+            return true
+            }
+            //if IE4+
+            document.onselectstart=new Function ("return false")
+            //if NS6
+            if (window.sidebar){
+            document.onmousedown=disableselect
+            document.onclick=reEnable
+            }
+            // -->
+            </SCRIPT>  
+              
+<link rel="stylesheet" type="text/css" href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/css/main.css" media="screen"/>
+<style type='text/css'>
+#info_wrap{
+	width:820px;
+	margin:0 auto;
+	text-shadow:0px 1px 1px #09F;
+}
+table{
+	color:#000000;
+}
+h1{
+	color:#000000;
+}
+.tengahin{
+	width: 105px;
+	height: 30px;
+	margin: 0 auto auto auto;
+}
+#box_view{
+	background-image:-webkit-gradient(linear, 0 0%, 0 100%, from(#FFFFFF), to(#E0F0F5));
+	background:#FFF;
+	color:#F60;
+	border: 1px solid #fff;
+	border-radius: 4px 4px 4px 4px;
+	box-shadow: 0 8px 6px -6px black;
+	position:fixed;
+	right:0;
+	top:150px;;
+	width:80px;
+	z-index:10;
+	padding-left:12px;
+	font-size:10px;
+	}
+#box_view li{
+	color:#F60;
+	margin-left:-30px;
+	}
+	#wrapper a b {
+	color: #FFF;
+	font-size:14px;
+}
+.batas{
+	float:left;
+	border-right-style:inset;
+	border-right-width:thin;
+	}
+.text_h_wrap{
+	
+	padding-left:450px;
+	padding-top:39px;
+	text-shadow:0px 1px 1px #09F;
+	}
+#wrapper .footer p{
+	font-size:12px;
+	color: #FFF;
+	text-align:center;
+	text-shadow:0px 1px 1px #09F;
+}
+td,th {
+	font-size: 12px;
+}
+
+marquee a{
+	color:#FFF
+	}
+#wrapper .footer a{
+	color: #FFFFFF;
+}
+</style>
+            
+<script>
+function goBack()
+  {
+  window.history.back()
+  }
+</script>
+<script type="text/javascript">
+function Popup( url, height, width )
+{
+    var windowProperties = "toolbar = 0, scrollbars = 1, location = 0, statusbar = 0, menubar = 0, resizable = 1, width = " + width + ", height = " + height + ", left = 50, top = 50";
+ 
+    return window.open( url, "", windowProperties );
+}
+</script>
+
+
+
+</head>
+<body oncontextmenu='return false;' onkeydown='return false;' onmousedown='return false;'>
+
+<a id="top_view"></a>
+<div id="wrapper">
+<div class="header_wrap">
+<div class="text_h_wrap">
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/home_page'><b>&nbsp;Home&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/menu_info/1'><b>&nbsp;About Us&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_data'><b>&nbsp;Direktori Pulau&nbsp;&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/program_ip'><b>&nbsp;IKU&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/data_ppkt'><b>&nbsp;PPKT&nbsp;</b></a>
+</div>
+<!--<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/maintenance'><b>&nbsp;Login&nbsp;</b></a>-->
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/dir_log_cont'><b>&nbsp;Login&nbsp;</b></a>
+
+</div>
+</div>
+</div>
+
+<div id="fb-root"></div>
+<script>
+  window.fbAsyncInit = function() {
+    // init the FB JS SDK
+    FB.init({
+      appId      : '559408774147878',                        // App ID from the app dashboard
+      status     : true,                                 // Check Facebook Login status
+      xfbml      : true                                  // Look for social plugins on the page
+    });
+
+    // Additional initialization code such as adding Event Listeners goes here
+  };
+
+  // Load the SDK asynchronously
+  (function(){
+     // If we've already installed the SDK, we're done
+     if (document.getElementById('facebook-jssdk')) {return;}
+
+     // Get the first script element, which we'll use to find the parent node
+     var firstScriptElement = document.getElementsByTagName('script')[0];
+
+     // Create a new script element and set its id
+     var facebookJS = document.createElement('script'); 
+     facebookJS.id = 'facebook-jssdk';
+
+     // Set the new script's source to the source of the Facebook JS SDK
+     facebookJS.src = '//connect.facebook.net/en_US/all.js';
+
+     // Insert the Facebook JS SDK into the DOM
+     firstScriptElement.parentNode.insertBefore(facebookJS, firstScriptElement);
+   }());
+</script>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=559408774147878";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="box_view">
+    <a href="#top_view">MENU</a>
+    <h3><p>Lihat Informasi:</p></h3>
+    <ul>
+	<a href="#sf"><li>Slide Foto</li></a>
+    <a href="#gu"><li>Gambaran Umum</li></a>
+    <a href="#ksbk"><li>Kependudukan, Sosial Budaya dan Kelembagaan</li></a>
+    <a href="#eshp"><li>Ekosistem dan Sumberdaya Hayati</li></a>
+    <a href="#snh"><li>Sumberdaya Non Hayati</li></a>
+    <a href="#aps"><li>Aktivitas Pengelolaan Sumberdaya</li></a>
+    <a href="#ling"><li>Lingkungan</li></a>
+    <a href="#sp"><li>Sarana dan Prasarana</li></a>
+    <a href="#pi"><li>Peluang Investasi</li></a>
+    <a href="#pap"><li>Potensi Arahan Pengembangan</li></a>
+    <a href="#kp"><li>Kendala Pengembangan</li></a>
+	<a href="#rf"><li>Referensi</li></a>
+    </ul>
+    <a href="#fb_comn">KOMENTAR</a>
+</div>
+
+<br>
+			<a id="sf"></a></h2>
+			<div id="galleria">
+            <!--<div class='tengahin'><input type="button" value="Kembali Ke List" onclick="goBack()"></div>-->
+                            </div>
+            
+            <script>
+            Galleria.loadTheme('http://www.ppk-kp3k.kkp.go.id/direktori-pulau/galleria/themes/classic/galleria.classic.min.js');
+            Galleria.run('#galleria');
+            </script>
+</div>
+
+<div id="text_warp">
+
+
+<p><h1>Bengkoang</h1></p>
+<table>
+<tr>
+	<td>Nama Lain</td> <td>:</td> <td></td>
+</tr>
+<tr>
+	<td>Propinsi</td> <td>:</td> <td>JAWA TENGAH</td>
+</tr>
+<tr>
+	<td>Kabupaten</td> <td>:</td> <td>KABUPATEN JEPARA</td>
+</tr>
+<tr>
+	<td>Kecamatan</td> <td>:</td> <td>KARIMUN JAWA</td>
+</tr>
+<tr>
+	<td>Koordinat</td> <td>:</td> <td><a href="http://www.ppk-kp3k.kkp.go.id/giskkp/index.html?extent="target="_blank"><p>
+	050&deg; 44&rsquo; 24&rsquo;&rsquo; LS dan 110&deg; 24&rsquo; 28&rsquo;&rsquo; BT.&nbsp;</p>
+</a></td>
+</tr>
+</table>
+<hr>
+
+<h2><a id="gu">Gambaran Umum</a></h2>
+<p><div class="readmore"><div>
+	Secara administratif Pulau yang tidak berpenduduk dengan luas 105 Ha ini termasuk dalam wilayah Desa Kemujan Kecamatan Karimunjawa, Kabupaten Jepara, Provinsi Jawa Tengah, yang secara geografis terletak pada posisi 050&deg; 44&rsquo; 24&rsquo;&rsquo; LS dan 110&deg; 24&rsquo; 28&rsquo;&rsquo; BT.&nbsp;</div>
+<div>
+	Secara administratif, Pulau Bengkoang berbatasan :</div>
+<div>
+	-<span class="Apple-tab-span" style="white-space:pre"> </span>Sebelah Timur dengan Laut Jawa</div>
+<div>
+	-<span class="Apple-tab-span" style="white-space:pre"> </span>Sebelah Barat dengan Laut Jawa</div>
+<div>
+	-<span class="Apple-tab-span" style="white-space:pre"> </span>Sebelah Utara dengan Laut Jawa</div>
+<div>
+	-<span class="Apple-tab-span" style="white-space:pre"> </span>Sebelah Selatan dengan Pulau Karimunjawa</div>
+<div>
+	&nbsp;</div>
+<div>
+	Di bagian utara Pulau Bengkoang, terdapat dua pulau Kecil yang tidak termasuk dalam Gasetir Pulau di Kabupaten Jepara, Provinsi Jawa Tengah. Kedua pulau ini disebut dengan nama Pulau Kokok Besar dan Pulau Kokok Kecil oleh penduduk sekitar. Kedua pulau tersebut juga memiliki pesisir pantai berpasir putih dengan dominasi vegetasi mangrove dan kelapa. Di Pulau Kokok Besar terdapat sebuat menara suar yang dibangun oleh Balai Taman Nasional Karimunjawa yang kondisinya sudah rusak karena tidak terpelihara.</div>
+<div>
+	&nbsp;</div>
+<div>
+	<strong>Aksesibilitas</strong></div>
+<div>
+	Aksesibilitas menuju pulau ini dari Kabupaten Jepara dapat ditempuh dengan menggunakan kapal Ferry atau Kapal Cepat dengan jadwal reguler melalui Pelabuhan Kartini menuju Pulau Karimunjawa dengan waktu tempuh 6 Jam untuk Ferry dan 2 Jam untuk Kapal Cepat. Selanjutnya dari Pulau Karimunjawa perjalanan dilanjutkan dengan perahu nelayan/kapal sewaan dengan waktu tempuh selama 1 jam.</div>
+<div>
+	&nbsp;</div>
+<div>
+	<div>
+		<strong>Status Pulau &amp; Kawasan</strong></div>
+	<div>
+		Pulau Bengkoang masuk dalam Kawasan Balai Taman Nasional Karimunjawa berdasarkan Surat Keputusan Direktur Jenderal Perlindungan Hutan dan Konservasi Alam No. SK. 79/IV/Set.3/2005 tentang REVISI ZONASI/MINTAKAT TAMAN NASIONAL KEPULAUAN KAIMUNJAWA tanggal 30 Juni 2005. Kementerian Kehutanan menetapkan kawasan Pulau Bengkoang Bagian Selatan termasuk dalam Zona/Mintakat kawasan Pemanfaatan Wisata Bahari, sehingga pemanfaatan dan pengembangan pulau ini harus mendapatkan ijin terlebih dahulu dari BTN Karimunjawa.</div>
+	<div>
+		&nbsp;</div>
+</div>
+<div>
+	&nbsp;</div>
+</div></p>
+
+<hr>
+
+<h2><a id="ksbk">Kependudukan, Sosial Budaya dan Kelembagaan</a></h2>
+<p><div class="readmore"><div>
+	<strong>Nama Pulau &amp; Sejarahnya</strong></div>
+<div>
+	Penduduk sekitar menyebutkan nama Pulau ini dengan sebutan Pulau Bengkoang, &nbsp;sesuai dengan hasil Verifikasi dan pembakuan nama pulau yang telah dilakukan oleh Tim Nasional Pembakuan Nama Rupabumi. Menurut penuturan salah seorang petugas Balai Taman Nasional (BTN) Karimunjawa yang juga merupakan penduduk asli setempat, nama pulau Bengkoang berasal dari tumbuhan Bengkoang yang dahulu tumbuh subur di pulau ini.</div>
+<div>
+	&nbsp;</div>
+</div></p>
+
+<hr>
+
+<h2><a id="eshp">Ekosistem dan Sumberdaya Hayati</a></h2>
+<p><div class="readmore"><div>
+	<strong>Ekosistem dan Sumberdaya Hayati Pesisir</strong></div>
+<div>
+	Pengamatan sumberdaya pesisir yakni ekosistem terumbu karang, lamun, mangrove dan vegetasi pantai di Pulau Bengkoang adalah sebagai berikut:</div>
+<div>
+	&nbsp;</div>
+<div>
+	<strong>Terumbu Karang&nbsp;</strong></div>
+<div>
+	Secara umum penutupan terumbu karang yang terlihat di Pulau Bengkoang masih dalam kondisi cukup baik. Substrat dasar di dominasi oleh karang keras dan karang lunak. Kedalaman perairan saat pengambilan data adalah 7 meter, dengan kondisi arus cukup kencang dan jarak pandang di dalam perairan berkisar antara 6-7 meter. Kontur dasar perairan berupa slope namun cukup landai dan penutupan karang keras ditemukan mulai dari kedalaman 1 hingga 15 meter.</div>
+<div>
+	Persentase penutupan karang keras hidup (KKH) pada kategori sedang sebesar 42,04%, penutupan biotik mencapai 31,2%, penutupan karang mati sebesar 15,6%, sedangkan &nbsp;penutupan abiotik sebesar 9,5% dan alga sebesar 1,66%.&nbsp;</div>
+<div>
+	&nbsp;</div>
+<div>
+	<strong>Persentase Penutupan Substrat Dasar&nbsp;</strong></div>
+<div>
+	Berdasarkan daerah yang diamati, Pulau Bengkoang memiliki kondisi penutupan substrat dasar yang cukup rapat, baik itu karang keras, karang lunak maupun jenis penutupan oleh alga dan karang mati serta biota lainnya. Komposisi penutupan karang keras cukup beragam dengan pertumbuhan bercabang, mengerak, lembaran, masif dan submasif. Pada bagian tertentu terlihat hamparan karang lunak yang cukup luas, hal ini menyebabkan nilai penutupan karang keras berada pada kisaran sedang.&nbsp;</div>
+<div>
+	&nbsp;</div>
+<div>
+	<strong>Ikan Terumbu</strong></div>
+<div>
+	Pengamatan ikan terumbu di pulau Bengkoang dilakukan pada kedalaman 7 meter. Hasil pengamatan menunjukan ikan terumbu di Pulau Bengkoang terdiri dari 24 jenis yang termasuk kedalam 10 Famili berbeda. Hasil pengamatan tersebut kemudian diolah dengan menggunakan indeks Shannon-Wiener (1948) dalam buku Odum (2003) guna melihat keanekaragaman ikan terumbu dalam suatu komunitas.</div>
+<div>
+	&nbsp;</div>
+<div>
+	Nilai indeks keanekaragaman (H&rsquo;) pada Pulau Bengkoang memiliki nilai 1.3926. Nilai tersebut menunjukkan bahwa pada lokasi pengamatan ini memiliki penyebaran jumlah individu tiap spesies dan kestabilan komunitas yang sedang. Nilai indeks keseragaman (E) pada lokasi pengamatan Pulau Bengkoang memiliki nilai sebesar 0,4382. Nilai yang didapat menggambarkan ekosistem dalam kondisi tertekan dimana terdapat dominansi pada satu jumlah individu dan keseragaman yang rendah. Nilai indeks dominansi berkisar antara 0-1. Nilai indeks dominansi yang kecil berarti tidak ada dominasi oleh suatu spesies dalam komunitas. Nilai indeks dominansi yang besar berarti ada dominasi pada suatu komunitas oleh satu spesies. Pada lokasi pengamatan di Pulau Bengkoang didapatkan nilai indeks dominansi (C) sebesar 0,3936, nilai tersebut menjelaskan bahwa dominansi diantara spesies ikan terumbu terhadap spesies ikan terumbu lainnya tidak terlalu signifikan.</div>
+<div>
+	&nbsp;</div>
+<div>
+	<strong>Kepadatan Ikan Terumbu Tiap Famili di Perairan Pulau Bengkoang</strong></div>
+<div>
+	Pada lokasi ini umumnya dijumpai nilai Kepadatan tertinggi yang didominasi oleh jenis ikan mayor, dengan nilai Kepadatan sebesar 17320 (Ind/Ha). Ikan Mayor merupakan jenis ikan yang umumnya banyak ditemukan pada komunitas terumbu karang. Beberapa spesies ikan dari jenis ini yang umum ditemukan pada setiap lokasi pengamatan adalah Chromis viridis, Pomacentrus philippinus, Amblyglyphidodon leucogaster, dan Dascyllus reticulatus.</div>
+<div>
+	Kepadatan ikan terumbu tertinggi selanjutnya diikuti dengan Kepadatan jenis ikan Caesionidae sebesar 8960 (Ind/Ha). Ikan jenis Caesionidae memiliki daerah ruaya yang cukup luas karena pola makan jenis ikan ini berupa zooplankton yang berada di kolom perairan. Jenis ikan Caesionidae yang ditemukan adalah Caesio teres. Ikan Caesionidae ini lebih dikenal dengan ikan ekor kuning merupakan ikan terumbu yang memiliki nilai ekonomis yang cukup tinggi.</div>
+<div>
+	Kepadatan ikan Indikator (CHAETODONTIDAE) yakni diperoleh sebesar 800 (Ind/Ha). &nbsp;Rendahnya Kepadatan ikan indikator ini disebabkan oleh karakteristik terumbu karang yang didominasi oleh pasir akibat sedimentasi yang tinggi, keadaan ini menyebabkan tidak optimalnya pertumbuhan karang yang secara tidak &nbsp;langsung menyebabkan berkurangnya ikan indikator yang banyak memanfaatkan polip karang sebagai sumber makanan.</div>
+<div>
+	&nbsp;</div>
+<div>
+	<strong>Lamun</strong></div>
+<div>
+	Meski rataan terumbu karangnya luas, namun lamun di pulau ini tumbuh berkelompok dan hanya tersebar di beberapa tempat saja. &nbsp;Di beberapa sisi pulau lamun ditemukan dalam jumlah banyak namun di beberapa sisi lainnya ditemukan dalam kerapatan rendah/bahkan tidak ada. &nbsp;&nbsp;</div>
+<div>
+	&nbsp;</div>
+<div>
+	<strong>Ekosistem Lamun</strong></div>
+<div>
+	Pengamatan ekosistem lamun dilakukan di sekeliling pulau dengan menggunakan transek kuadrat berukuran 50x50 cm atau setara dengan 0,25 m&sup2;. Berdasarkan pengamatan terdapat empat jenis lamun dari 13 jenis lamun di Indonesia ditemukan di Pulau Bengkoang, dengan jenis antara lain adalah Cymodocea rotundata, Cymodocea serrulata, Enhalus acoroides, serta Halophila ovalis. &nbsp;Lamun-lamun tersebut tersebar dalam beberapa kelompok kecil, namun terdapat luasan yang cukup besar yaitu di sisi selatan pulau.</div>
+<div>
+	&nbsp;</div>
+<div>
+	Pengamatan Lamun di Pulau Bengkoang dilakukan di lima sisi, yaitu Barat Daya, Barat, Tenggara, Timur, dan Selatan. Ekosistem lamun di setiap sisi Pulau &nbsp;Bengkoang memiliki jenis, kerapatan dan karakteristik yang berbeda-beda. &nbsp;Ekosistem lamun di sisi Tenggara dan Selatan memiliki ragam jenis yang paling banyak yaitu tiga jenis lamun. Sedangkan sisi barat hanya memiliki satu jenis lamun saja. &nbsp;Jenis Cymodocea serrulata merupakan jenis lamun yang dapat ditemukan di setiap sisi pulau.</div>
+<div>
+	&nbsp;</div>
+<div>
+	Di bagian Barat Daya, Ekosistem lamun memiliki perairan jernih serta substrat pasir. &nbsp;Terdapat dua jenis lamun yang ditemukan di bagian ini, yaitu Cymodocea rotundata dan Cymodocea serrulata. &nbsp;Kerapatan individu lamun tertinggi di sisi barat daya dimiliki oleh lamun jenis Cymodocea rotundata di sub stasiun kedua dengan nilai kerapatan sebesar 392 individu/m&sup2;, sedangkan kerapatan terendah dimiliki oleh lamun jenis yang sama di sub stasiun pertama dengan nilai kerapatan sebesar 36 individu/m&sup2;. &nbsp;Penutupan lamun tertinggi di sisi ini dimiliki oleh lamun jenis Cymodocea rotundata di sub stasiun kedua dengan nilai penutupan sebesar 55 % &nbsp;serta penutupan terendah yang masih dimiliki oleh jenis lamun tersebut I sub stasiun pertama dengan nilai penutupan sebesar 5 %.&nbsp;</div>
+<div>
+	&nbsp;</div>
+<div>
+	Pada pengamatan lamun di bagian Barat pulau, &nbsp;Perairan jernih dan substrat pasir masih menjadi bagian dari ekosistem lamun di sisi ini. Hanya satu jenis lamun yang ditemukan di sisi ini baik pada sub stasiun pertama ataupun kedua, yaitu Cymodocea serrulata. &nbsp;Kerapatan lamun jenis ini di sisi barat tertinggi di sub stasiun kedua dengan nilai kerapatan individu sebesar 208 individu/m&sup2;. &nbsp;Sama halnya dengan penutupan lamun, lamun jenis Cymodocea serrulata di sub stasiun kedua memiliki nilai penutupan tertinggi, yaitu sebesar 25 %.&nbsp;</div>
+<div>
+	&nbsp;</div>
+<div>
+	Ekosistem lamun di sisi Tenggara memiliki perairan jernih dan substrat pasir halus di beberapa bagian sehingga lebih cepat keruh saat terganggu. &nbsp;Tiga jenis lamun ditemukan di sisi ini, yaitu Cymodocea rotundata, Cymodocea serrulata serta Enhalus acoroides. &nbsp;Kerapatan individu lamun tertinggi dimiliki oleh lamun jenis Cymodocea serrulata dengan nilai kerapatan sebesar 212 individu/m&sup2; pada sub stasiun pertama, sedangkan kerapatan lamun terendah dimiliki oleh lamun jenis Cymodocea rotundata pada sub stasiun kedua dengan nilai kerapatan sebesar 12 individu/m&sup2;. Berbeda halnya dengan penutupan lamun, lamun jenis Enhalus acoroides memiliki nilai penutupan tertinggi, yaitu sebesar 80 %, sedangkan lamun jenis Cymodocea rotundata memiliki penutupan terendah, yaitu sebesar 3 %.</div>
+<div>
+	&nbsp;</div>
+<div>
+	Di bagian timur pulau, ekosistem lamun terdapat di perairan yang lebih dangkal dibanding di sisi lainnya. &nbsp;Perairan jernih dan substrat pasir yang stabil menjadi bagian dari ekosistem lamun ini. &nbsp;Namun lamun yang ditemukan tidak terlalu rapat. &nbsp;Dua jenis lamun yang ditemukan adalah Cymodocea rotundata dan Cymodocea serrulata. Kerapatan lamun paling tinggi dimiliki oleh lamun jenis Cymodocea serrulata di sub stasiun kedua dengan kerapatan sebesar 172 individu/m&sup2; sedangkan lamun jenis Cymodocea rotundata di sub stasiun yang sama memiliki nilai kerapatan individu yang paling rendah, yaitu sebesar 64 individu/m&sup2;. Penutupan lamun tertinggi dimiliki oleh lamun jenis Cymodocea serrulata pada sub stasiun kedua dengan nilai penutupan sebesar 22 %, sedangkan lainnya memiliki nilai penutupan sebesar 8 %.</div>
+<div>
+	&nbsp;</div>
+<div>
+	Untuk sisi Selatan, ekosistem lamun memiliki penutupan yang paling luas dibanding sisi lainnya. &nbsp;Tiga jenis lamun ditemukan, yaitu Cymodocea rotundata, Cymodocea serrulata serta Halophila ovalis. &nbsp;Kerapatan lamun tertinggi dimiliki oleh lamun jenis Cymodocea rotundata dengan nilai sebesar 420 individu/m&sup2; serta terendah dimiliki oleh lamun jenis Halophila ovalis dengan nilai kerapatan sebesar 24 individu/m&sup2;. &nbsp;Untuk penutupan lamun tertinggi dimiliki oleh lamun jenis Cymodocea rotundata baik pada sub stasiun pertama ataupun kedua, yaitu sebesar 60 %. Sedangkan penutupan lamun terendah dimiliki oleh lamun jenis Halophila ovalis pada sub stasiun kedua dengan nilai penutupan sebesar 3 %.</div>
+<div>
+	&nbsp;</div>
+<div>
+	Secara keseluruhan, rerata kerapatan individu dan penutupan lamun di Pulau Bengkoang memiliki pola yang sama, yaitu menurun dari sisi barat daya hingga timur kemudian naik lagi pada sisi selatan pulau, &nbsp;kecuali pada sisi tenggara. &nbsp;</div>
+<div>
+	&nbsp;</div>
+<div>
+	Perbandingan nilai rerata kerapatan individu dan penutupan lamun&nbsp;</div>
+<div>
+	&nbsp;</div>
+<div>
+	Hidup di rataan terumbu yang cukup luas, ekosistem lamun di Pulau Bengkoang menjadi tempat hidup dan mencari makan bagi beberapa biota laut lainnya. &nbsp;Beberapa biota laut yang hidup di ekosistem lamun Pulau Bengkoang antara lain :</div>
+<div>
+	&bull;<span class="Apple-tab-span" style="white-space:pre"> </span>Bivalvia</div>
+<div>
+	&bull;<span class="Apple-tab-span" style="white-space:pre"> </span>Gastropoda</div>
+<div>
+	&bull;<span class="Apple-tab-span" style="white-space:pre"> </span>Krustacea</div>
+<div>
+	&bull;<span class="Apple-tab-span" style="white-space:pre"> </span>Dasyatidae</div>
+<div>
+	&bull;<span class="Apple-tab-span" style="white-space:pre"> </span>Echinodea<span class="Apple-tab-span" style="white-space:pre"> </span>&bull;<span class="Apple-tab-span" style="white-space:pre"> </span>Makroalga</div>
+<div>
+	&bull;<span class="Apple-tab-span" style="white-space:pre"> </span>Juvenil</div>
+<div>
+	&bull;<span class="Apple-tab-span" style="white-space:pre"> </span>Terumbu Karang</div>
+<div>
+	&bull;<span class="Apple-tab-span" style="white-space:pre"> </span>Spons</div>
+<div>
+	Banyaknya biota yang hidup di ekosistem lamun tersebut menunjukkan ekosistem lamun tersebut masih dalam kondisi prima. &nbsp;</div>
+<div>
+	&nbsp;</div>
+<div>
+	Meski ekosistem lamun di Pulau Bengkoang memiliki kondisi yang cukup bagus, namun terdapat beberapa permasalahan yang dapat menjadi ancaman bagi ekosistem lamun, yaitu; Penimbunan lamun oleh pasir, dan Gelombang.&nbsp;</div>
+<div>
+	&nbsp;</div>
+<div>
+	Dikarenakan tidak berpenduduk, maka permasalahan yang timbul pada ekosistem lamun di Pulau Bengkoang ini berasal dari alam. &nbsp;Pada beberapa sisi pulau, ekosistem lamun memiliki substrat berupa pasir halus yang mudah terurai ke kolom air, hal ini dapat menyebabkan lamun tertimbun oleh pasir, serta adanya gelombang pasang dan surut menambah kemungkinan terbawanya pasir dari satu tempat ke tempat lainnya. &nbsp;</div>
+<div>
+	&nbsp;</div>
+<div>
+	Ekosistem Lamun di Pulau Bengkoang memiliki beberapa potensi yang dapat dikembangkan, yaitu; Kegiatan penangkapan ikan yang ramah lingkungan, Budidaya atau pembesaran komoditi perikanan, dan Pariwisata. Rataan terumbu yang cukup luas di sekeliling Pulau memungkinkan kegiatan perikanan baik tangkap atau budidaya dapat dijalankan dengan baik, seperti pemasangan perangkap untuk ikan atau kepiting serta budidaya ikan dan rumput laut. &nbsp;Perairan yang jernih dan tidak terlalu dalam dapat dimanfaatkan untuk kegiatan pariwisata seperti memancing atau berperahu, namun sangat tidak dianjurkan untuk kegiatan snorkeling karena di rataan terumbu pulau ini masih sering dijumpai ikan pari cincin biru yang berbahaya bagi manusia.</div>
+<div>
+	&nbsp;</div>
+<div>
+	<strong>Mangrove</strong></div>
+<div>
+	Ekosistem mangrove di pulau ini hanya terdapat di sisi utara saja. Meski demikian, namun memiliki kerapatan yang cukup tinggi. &nbsp;</div>
+<div>
+	&nbsp;</div>
+<div>
+	Pengamatan ekosistem mangrove di Pulau Bengkoang dilakukan dengan transek kuadrat berukuran 10x10 m untuk kategori pohon, 5x5 m untuk kategori anakan, serta 1x1 m untuk kategori semai. &nbsp;Ekosistem mangrove di berjenis Rhizophora mucronata. &nbsp;Mangrove jenis ini memiliki daun hijau tua dengan biji memanjang serta akar tunjang yang saling menyilang. Namun di beberapa bagian ditemukan mangrove ikutan atau mangrove tak sejati, yaitu Pemphis acidula yang biasa disebut sentigi. Mangrove ikutan jenis Pemphis acidula sering dijumpai di pantai bersama mangrove ataupun vegetasi pantai karena tumbuhan ini memiliki kemampuan beradaptasi terhadap air asin sama halnya dengan mangrove sejati.&nbsp;</div>
+<div>
+	&nbsp;</div>
+<div>
+	Ekosistem mangrove di Pulau Bengkoang memiliki INP (Indeks Nilai Penting) mutlak baik untuk kategori pohon, anakan ataupun semai. &nbsp;Hal ini menunjukkan bahwa mangrove jenis Rhizophora mucronata memiliki dominansi terhadap ekosistem mangrove di pulau ini. &nbsp;Dalam 100 m&sup2; terdapat 33 mangrove untuk kategori pohon, sedangkan anakan mangrove ditemukan sebanyak 18 tegakan dalam 25 m&sup2; serta semai mangrove ditemukan sejumlah 11 tegakan dalam 1 m&sup2;. &nbsp;Dikarenakan hanya satu jenis mangrove yang ditemukan di pulau ini, maka indeks keragamannya baik untuk kategori pohon, anakan dan semai adalah 0.</div>
+<div>
+	&nbsp;</div>
+<div>
+	Keberadaan semai mangrove yang masih melimpah disertai dengan biji yang tersedia dalam jumlah banyak pula menandakan bahwa kondisi ekosistem mangrove di Pulau Bengkoang ini dalam keadaan baik. &nbsp;</div>
+<div>
+	&nbsp;</div>
+<div>
+	Kondisi ekosistem mangrove yang masih dalam keadaan baik menjadikannya sebagai tempat tinggal yang layak bagi beberapa biota lainnya. &nbsp;Adapaun biota yang ditemukan di ekosistem mangrove Pulau Bengkoang antara lain :</div>
+<div>
+	&nbsp;</div>
+<div>
+	&bull;<span class="Apple-tab-span" style="white-space:pre"> </span>Bivalvia</div>
+<div>
+	&bull;<span class="Apple-tab-span" style="white-space:pre"> </span>Gastropoda</div>
+<div>
+	&bull;<span class="Apple-tab-span" style="white-space:pre"> </span>Krustacea</div>
+<div>
+	&bull;<span class="Apple-tab-span" style="white-space:pre"> </span>Dasyatidae</div>
+<div>
+	&bull;<span class="Apple-tab-span" style="white-space:pre"> </span>Echinodea<span class="Apple-tab-span" style="white-space:pre"> </span>&bull;<span class="Apple-tab-span" style="white-space:pre"> </span>Makroalga</div>
+<div>
+	&bull;<span class="Apple-tab-span" style="white-space:pre"> </span>Lamun</div>
+<div>
+	&bull;<span class="Apple-tab-span" style="white-space:pre"> </span>Spons</div>
+<div>
+	&bull;<span class="Apple-tab-span" style="white-space:pre"> </span>Serangga</div>
+<div>
+	&bull;<span class="Apple-tab-span" style="white-space:pre"> </span>Epifit</div>
+<div>
+	&nbsp;</div>
+<div>
+	Ekosistem mangrove di Pulau Bengkoang memiliki permasalahan yang tidak terlalu banyak, antara lain penebangan oleh penduduk di sekitar pulau yang memanfaatkan kayu mangrove untuk bahan baku perahu atau kayu bakar. &nbsp;Sedangkan potensi yang dapat dikembang pada ekosistem mangrove di pulau ini adalah : penangkapan ikan ramah lingkungan &nbsp;(pemasangan perangkap ikan atau kepiting), pembesaran komoditi perikanan seperti ikan dan kepiting, dan penyedia bibit mangrove.</div>
+<div>
+	&nbsp;</div>
+</div></p>
+
+<hr>
+
+<h2><a id="snh">Sumberdaya Non Hayati</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<h2><a id="aps">Aktivitas Pengelolaan Sumberdaya</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<h2><a id="ling">Lingkungan</a></h2>
+<p><div class="readmore"><div>
+	<strong>Hidrologi</strong></div>
+<div>
+	Air permukaan atau tubuh air yang terdapat di Pulau Bengkoang terdiri dari sebuah rawa yang pada saat surut rawa ini membentu dua buah sumber mata air (rawa) dengan jenis air payau. &nbsp;Menurut mitos yang dipercaya penduduk sekitar, terdapat seekor Ular besar yang mendiami rawa dan menjaga pulau ini, sehingga sangat jarang penduduk sekitar yang mau masuk pada rawa di tengah Pulau ini.&nbsp;</div>
+<div>
+	&nbsp;</div>
+<div>
+	<strong>Kondisi Fisik Pulau &amp; Morfologi Pantai</strong></div>
+<div>
+	Pulau ini memiliki Topografi Datar dengan perbukitan bergelombang dan rawa di bagian tengah. Pulau Bengkoang memiliki bentuk morfologi pantai yang hampir sama diseluruh bagian pulaunya, yakni pantai berpasir putih dan didominasi oleh vegetasi mangrove.&nbsp;</div>
+<div>
+	&nbsp;</div>
+<div>
+	<div>
+		<strong>Vegetasi tumbuhan di Pulau Bengkoang masih sangat rapat, baik vegetasi pantai maupun daratnya</strong></div>
+	<div>
+		Delapan jenis vegetasi pantai ditemukan di pulau ini dan hidup di pantai pasir yang tidak terlalu luas. &nbsp;Delapan jenis vegetasi pantai tersebut adalah Ipomea Pres-caprae, Spinifex Littoreus, Pandanus Tectorius, Scaevolla Taccada, Calophyllum Inophyllum, Hibiscus Tilaceaus, Cocos Nucifera, dan Baringtonia Asiatica. &nbsp;Vegetasi pantai yang dimiliki Pulau Bengkoang sebagian besar berjenis pohon berkayu, namun bila dilihat dari jumlah tiap jenis yang tumbuh maka vegetasi pantainya didominasi oleh Pandanus tectorius.</div>
+	<div>
+		&nbsp;</div>
+	<div>
+		<strong>Kualitas Perairan</strong></div>
+	<div>
+		Pengamatan kualitas lingkungan perairan Pulau Bengkoang dilakukan melalui pengukuran beberapa parameter kunci kualitas air, diantaranya; suhu, oksigen terlarut (DO), pH, salinitas, amonia, nitrat, dan fosfat.&nbsp;</div>
+	<div>
+		&nbsp;</div>
+	<div>
+		Suhu perairan Pulau Bengkoang berkisar antara 30,9-32,4 &deg;C. Suhu perairan memenuhi baku mutu untuk menunjang kehidupan biota laut. Suhu merupakan salah satu faktor yang berpengaruh pada metabolisme organisme akuatik, seperti ikan. Pertumbuhan, reproduksi, dan kelangsungan hidup ikan dapat terganggu ketika terjadi peningkatan atau penurunan suhu signifikan.</div>
+	<div>
+		&nbsp;</div>
+	<div>
+		Kandungan oksigen terlarut menunjukkan nilai yang cukup tinggi, yaitu berkisar antara 5,9-7,6 mg/L. Oksigen di perairan dibutuhkan untuk respirasi (bernafas) maupun untuk dekomposisi bahan organik. Konsentrasi oksigen terlarut yang tinggi menggambarkan tingginya aktivitas fotosintesis oleh fitoplankton yang ditunjang oleh suburnya perairan.</div>
+	<div>
+		&nbsp;</div>
+	<div>
+		Nilai pH dan salinitas juga menunjukkan kadar alamiah suatu perairan pesisir. Nilai pH tergolong basa, yaitu berkisar antara 7,27-7,73. Nilai pH di perairan berfluktuasi sepanjang hari yang dipengaruhi oleh kandungan CO2 yang digunakan dalam aktivitas fotosintesis dan dihasilkan dalam respirasi. Salinitas berkisar antara 30-35 ppt dan tergolong normal. Salinitas di perairan pesisir sangat dipengaruhi oleh masukan air tawar ke perairan. Salinitas yang terlalu rendah dapat berakibat buruk bagi organisme akuatik. Berdasarkan nilai suhu, oksigen, pH, dan salinitas yang memenuhi baku mutu, maka ini menunjukkan bahwa Pulau Bengkoang secara alamiah dapat mendukung sistem kehidupan biologis organisme akuatik di perairan pesisirnya.</div>
+	<div>
+		&nbsp;</div>
+	<div>
+		Konsentrasi amonia (NH3) di perairan Pulau Bengkoang sebesar 0,436 mg/L. Nilai ini sedikit melebihi baku mutunya, yaitu 0,3 mg/L. Kadar amonia yang tinggi di perairan menunjukkan berlebihnya kandungan bahan organik. Bahan organik ini dapat bersumber dari limbah rumah tangga. Meskipun telah melebihi baku mutu, diharapkan dengan tingginya kandungan oksigen terlarut, amonia dapat teroksidasi dan tidak membahayakan organisme akuatik seperti ikan.</div>
+	<div>
+		&nbsp;</div>
+	<div>
+		Sama halnya dengan amonia, kandungan nitrat dan fosfat di Pulau Bengkoang juga sedikit melebihi baku mutu. Kadar nitrat sebesar 0,104 mg/L (BM=0,008 mg/L) dan fosfat sebesar 0,018 mg/L (BM=0,015 mg/L). Nitrat dan fosfat menggambarkan keberadaan nutrien di perairan. Nutrien yang berlebihan dapat menyebabkan perairan menjadi subur. Dalam kadar yang tidak terlalu tinggi, hal ini berdampak positif bagi organisme autotrof seperti fitoplankton dalam fotosintesis. Namun jika kadar nutrien sangat tinggi, maka dapat memicu pertumbuhan alga yang sangat pesat di ekosistem terumbu karang. Hal ini akan berdampak buruk bagi pertumbuhan karang karena akan terjadi persaingan ruang dan cahaya matahari. Selain itu, dapat menghambat rekruitmen karang karena sulitnya larva karang untuk menempel di substrat yang telah ditumbuhi alga.</div>
+	<div>
+		&nbsp;</div>
+</div>
+<p>
+	&nbsp;</p>
+</div></p>
+
+<hr>
+
+<h2><a id="sp">Sarana dan Prasarana</a></h2>
+<p><div class="readmore"><p>
+	Karena Pulau Bengkoang tidak berpenduduk, belum ada sarana dan prasarana yang dibangun di Pulau ini, kecuali satu menara suar yang sudah rusak kondisinya di Pulau Kokok Besar (Bagian Utara Pulau Bengkoang) dan satu patok sebagai penanda batas wilayah yang dibangun oleh Balai Taman Nasional Karimunjawa.&nbsp;</p>
+<div>
+	<strong>Permasalahan Lingkungan</strong></div>
+<div>
+	Dikarenakan tidak berpenduduk, maka Pulau Bengkoang memiliki permasalahan yang tidak terlalu banyak, namun terdapat beberapa permasalahan pada ekosistem mangrove dan lamun yang perlu menjadi perhatian sebagai berikut :</div>
+<div>
+	&bull;<span class="Apple-tab-span" style="white-space:pre"> </span>Penebangan oleh penduduk di sekitar pulau yang memanfaatkan kayu mangrove untuk bahan baku perahu atau kayu bakar. Sementara, &nbsp; &nbsp; &nbsp; struktur perakaran mangrove yang kuat dan relatif lebar sangat diperlukan untuk dapat menstabilkan substrat di pantai serta menyediakan &nbsp; &nbsp; tempat tinggal dan berlindung bagi biota laut.</div>
+<div>
+	&bull;<span class="Apple-tab-span" style="white-space:pre"> </span>Pada beberapa sisi pulau, ekosistem lamun memiliki substrat berupa pasir halus yang mudah terurai ke kolom air, hal ini dapat &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</div>
+<div>
+	&nbsp; menyebabkan lamun tertimbun oleh pasir, serta adanya gelombang pasang dan surut menambah kemungkinan terbawanya pasir dari &nbsp; &nbsp;</div>
+<div>
+	&nbsp; satu tempat ke tempat lainnya</div>
+<div>
+	&nbsp;</div>
+</div></p>
+
+<hr>
+
+<h2><a id="pi">Peluang Investasi</a></h2>
+<p><div class="readmore"><div>
+	Saat ini, status kepemilikan seluruh tanah Pulau Bengkoang telah menjadi milik perseorangan/swasta sejak tahun 2007 (kecuali 14 Ha tanah ditengah pulau/rawa, merupakan milik pemerintah dan dijadikan sebagai daerah resapan air). Menurut keterangan wakil kepala desa Kemujan, Pihak swasta tersebut berencana untuk membangun sebuah resort di bagian timur pulau. Namun belum diketahui pasti rencana tersebut akan direalisasikan.&nbsp;</div>
+<div>
+	&nbsp;</div>
+</div></p>
+
+<hr>
+
+<h2><a id="pap">Potensi dan Arahan Pengembangan</a></h2>
+<p><div class="readmore"><div>
+	Pulau Bengkoang memiliki potensi sumberdaya alam yang potensial jika dikembangkan sebagai daya tarik wisata seperti keindahan alam bawah laut (ekosistem terumbu karang dan vegetasi lamun yang masih terjaga).&nbsp;</div>
+<div>
+	&nbsp;</div>
+<div>
+	Beberapa potensi selain pariwisata yang dapat dikembangkan di pulau ini adalah:</div>
+<div>
+	&bull;<span class="Apple-tab-span" style="white-space:pre"> </span>Kegiatan penangkapan ikan yang ramah lingkungan.&nbsp;</div>
+<div>
+	&bull;<span class="Apple-tab-span" style="white-space:pre"> </span>Budidaya atau pembesaran komoditi perikanan, Pulau Bengkoang dikenal kaya akan potensi ikan teri oleh penduduk sekitar pulau.</div>
+<div>
+	&nbsp;</div>
+<div>
+	Rataan terumbu yang cukup luas di sekeliling Pulau Bengkoang memungkinkan kegiatan perikanan baik penangkapan atau budidaya dapat dijalankan dengan baik, seperti pemasangan perangkap untuk ikan atau kepiting serta budidaya ikan dan rumput laut.&nbsp;</div>
+<div>
+	&nbsp;</div>
+<div>
+	&nbsp;</div>
+</div></p>
+
+<hr>
+
+<h2><a id="kp">Kendala Pengembangan</a></h2>
+<p><div class="readmore"><div>
+	Namun demikian pengembangan ini terkendala mengingat Pulau Bengkoang termasuk dalam Kawasan Balai Taman Nasional (BTN) Karimunjawa serta status kepemilikan tanahnya yang sebagian besar adalah milik swasta. Seperti pemilikan lahan pulau lainnya di Karimunjawa yang dikuasai perorangan/swasta, wisata yang berkembang cenderung bersifat eksklusif/hanya dapat dinikmati oleh segelintir turis saja dan cenderung tidak dapat memberikan peningkatan ekonomi masyarakat sekitar.</div>
+<div>
+	&nbsp;</div>
+</div></p>
+
+<hr>
+
+<h2><a id="rf">Referensi</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<br />
+	<i> 
+		<p style="font-size:12px;">
+			Karena keterbatasan SDM dalam penginputan dan pengolahan data, kami mohon maaf atas ketidak lengkapan beberapa data pulau yang kami tampilkan, harap dimaklumi.
+			Berikan keritik dan saran pada kolom komentar agar kita dapat bersama menyajikan sebuah data yang cukup sempurna untuk halayak ramai yang berguna
+			demi kesejahterahan, kelestarian dan keindahan pulau-pulau kecil yang dimiliki Indonesia.<br />
+			*Jika sekiranya anda memiliki data yang cukup banyak, silakan mengirimkan file melalui email kami di <b><a>identifikasippk@gmail.com</a></b>
+			
+		</p>
+	</i>
+<br />
+
+<div id="fb_comn" class="fb-comments" data-href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_info/886" data-width="800" data-numposts="5" data-colorscheme="light"></div>
+
+
+</div>
+</div>
+</div>
+<div id="wrapper">
+
+<div class="footer"><p>
+<!--<marquee onmouseover="this.stop()" onmouseout="this.start()" scrollamount="5" direction="right" width="798" height="14"  behavior="scroll">-->
+<a href="http://www.ppk-kp3k.kkp.go.id/" target="_blank">Direktorat Pendayagunaan Pulau-Pulau Kecil &nbsp; | &nbsp;</a>
+<a href="http://www.kp3k.kkp.go.id/" target="_blank">Ditjen Kelautan, Pesisir dan Pulau-Pulau Kecil &nbsp; | &nbsp;</a>
+<a href="http://www.kkp.go.id/" target="_blank">Kementerian Kelautan dan Perikanan</a>
+<!--</marquee>--> <br />
+Jl. Medan Merdeka Timur No. 16 Gedung Mina Bahari 3 Lantai 10, Jakarta, Indonesia <br />
+Email : identifikasippk@gmail.com <br />
+Telp &amp; Fax: (021) 3522058 <br />
+&copy; Copyright Direktorat Pendayagunaan Pulau-Pulau Kecil 2012&nbsp; <br /></p>
+</div>
+</div>
+</body>
+</html>

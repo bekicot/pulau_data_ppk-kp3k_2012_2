@@ -1,0 +1,680 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Pulau KAKOROTAN</title>
+
+<meta charset="utf-8"/>
+
+<meta property="fb:app_id" content="559408774147878" />
+
+
+<meta property="og:title" content="Pulau KAKOROTAN" />
+<meta property="og:url" content="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_info/309" />
+
+
+    <script type="text/javascript" src="http://ajax.microsoft.com/ajax/jquery/jquery-1.4.4.min.js">
+    </script>
+    
+    <script type="text/javascript" src="http://plugins.learningjquery.com/expander/jquery.expander.js">
+    </script>
+    
+    <script type="text/javascript">
+        $(function () {
+            $('div.readmore').expander({
+                slicePoint:200,
+                expandText: '(Baca selengkapnya)',
+                userCollapseText: '(Sembunyikan selengkapnya)'
+            });
+        });
+    </script>
+        
+	<script src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/galleria/galleria-1.2.8.min.js"></script>
+
+        <SCRIPT TYPE="text/javascript">
+            <!--
+            //Disable right click script
+            //visit http://www.rainbow.arch.scriptmania.com/scripts/
+            var message="Sorry, right-click has been disabled";
+            ///////////////////////////////////
+            function clickIE() {if (document.all) {(message);return false;}}
+            function clickNS(e) {if
+            (document.layers||(document.getElementById&&!document.all)) {
+            if (e.which==2||e.which==3) {(message);return false;}}}
+            if (document.layers)
+            {document.captureEvents(Event.MOUSEDOWN);document.onmousedown=clickNS;}
+            else{document.onmouseup=clickNS;document.oncontextmenu=clickIE;}
+            document.oncontextmenu=new Function("return false")
+            // -->
+            </SCRIPT>
+            
+            <SCRIPT TYPE="text/javascript">
+            <!--
+            //Disable select-text script (IE4+, NS6+)
+            //visit http://www.rainbow.arch.scriptmania.com/scripts/
+            ///////////////////////////////////
+            function disableselect(e){
+            return false
+            }
+            function reEnable(){
+            return true
+            }
+            //if IE4+
+            document.onselectstart=new Function ("return false")
+            //if NS6
+            if (window.sidebar){
+            document.onmousedown=disableselect
+            document.onclick=reEnable
+            }
+            // -->
+            </SCRIPT>  
+              
+<link rel="stylesheet" type="text/css" href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/css/main.css" media="screen"/>
+<style type='text/css'>
+#info_wrap{
+	width:820px;
+	margin:0 auto;
+	text-shadow:0px 1px 1px #09F;
+}
+table{
+	color:#000000;
+}
+h1{
+	color:#000000;
+}
+.tengahin{
+	width: 105px;
+	height: 30px;
+	margin: 0 auto auto auto;
+}
+#box_view{
+	background-image:-webkit-gradient(linear, 0 0%, 0 100%, from(#FFFFFF), to(#E0F0F5));
+	background:#FFF;
+	color:#F60;
+	border: 1px solid #fff;
+	border-radius: 4px 4px 4px 4px;
+	box-shadow: 0 8px 6px -6px black;
+	position:fixed;
+	right:0;
+	top:150px;;
+	width:80px;
+	z-index:10;
+	padding-left:12px;
+	font-size:10px;
+	}
+#box_view li{
+	color:#F60;
+	margin-left:-30px;
+	}
+	#wrapper a b {
+	color: #FFF;
+	font-size:14px;
+}
+.batas{
+	float:left;
+	border-right-style:inset;
+	border-right-width:thin;
+	}
+.text_h_wrap{
+	
+	padding-left:450px;
+	padding-top:39px;
+	text-shadow:0px 1px 1px #09F;
+	}
+#wrapper .footer p{
+	font-size:12px;
+	color: #FFF;
+	text-align:center;
+	text-shadow:0px 1px 1px #09F;
+}
+td,th {
+	font-size: 12px;
+}
+
+marquee a{
+	color:#FFF
+	}
+#wrapper .footer a{
+	color: #FFFFFF;
+}
+</style>
+            
+<script>
+function goBack()
+  {
+  window.history.back()
+  }
+</script>
+<script type="text/javascript">
+function Popup( url, height, width )
+{
+    var windowProperties = "toolbar = 0, scrollbars = 1, location = 0, statusbar = 0, menubar = 0, resizable = 1, width = " + width + ", height = " + height + ", left = 50, top = 50";
+ 
+    return window.open( url, "", windowProperties );
+}
+</script>
+
+
+
+</head>
+<body oncontextmenu='return false;' onkeydown='return false;' onmousedown='return false;'>
+
+<a id="top_view"></a>
+<div id="wrapper">
+<div class="header_wrap">
+<div class="text_h_wrap">
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/home_page'><b>&nbsp;Home&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/menu_info/1'><b>&nbsp;About Us&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_data'><b>&nbsp;Direktori Pulau&nbsp;&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/program_ip'><b>&nbsp;IKU&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/data_ppkt'><b>&nbsp;PPKT&nbsp;</b></a>
+</div>
+<!--<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/maintenance'><b>&nbsp;Login&nbsp;</b></a>-->
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/dir_log_cont'><b>&nbsp;Login&nbsp;</b></a>
+
+</div>
+</div>
+</div>
+
+<div id="fb-root"></div>
+<script>
+  window.fbAsyncInit = function() {
+    // init the FB JS SDK
+    FB.init({
+      appId      : '559408774147878',                        // App ID from the app dashboard
+      status     : true,                                 // Check Facebook Login status
+      xfbml      : true                                  // Look for social plugins on the page
+    });
+
+    // Additional initialization code such as adding Event Listeners goes here
+  };
+
+  // Load the SDK asynchronously
+  (function(){
+     // If we've already installed the SDK, we're done
+     if (document.getElementById('facebook-jssdk')) {return;}
+
+     // Get the first script element, which we'll use to find the parent node
+     var firstScriptElement = document.getElementsByTagName('script')[0];
+
+     // Create a new script element and set its id
+     var facebookJS = document.createElement('script'); 
+     facebookJS.id = 'facebook-jssdk';
+
+     // Set the new script's source to the source of the Facebook JS SDK
+     facebookJS.src = '//connect.facebook.net/en_US/all.js';
+
+     // Insert the Facebook JS SDK into the DOM
+     firstScriptElement.parentNode.insertBefore(facebookJS, firstScriptElement);
+   }());
+</script>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=559408774147878";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="box_view">
+    <a href="#top_view">MENU</a>
+    <h3><p>Lihat Informasi:</p></h3>
+    <ul>
+	<a href="#sf"><li>Slide Foto</li></a>
+    <a href="#gu"><li>Gambaran Umum</li></a>
+    <a href="#ksbk"><li>Kependudukan, Sosial Budaya dan Kelembagaan</li></a>
+    <a href="#eshp"><li>Ekosistem dan Sumberdaya Hayati</li></a>
+    <a href="#snh"><li>Sumberdaya Non Hayati</li></a>
+    <a href="#aps"><li>Aktivitas Pengelolaan Sumberdaya</li></a>
+    <a href="#ling"><li>Lingkungan</li></a>
+    <a href="#sp"><li>Sarana dan Prasarana</li></a>
+    <a href="#pi"><li>Peluang Investasi</li></a>
+    <a href="#pap"><li>Potensi Arahan Pengembangan</li></a>
+    <a href="#kp"><li>Kendala Pengembangan</li></a>
+	<a href="#rf"><li>Referensi</li></a>
+    </ul>
+    <a href="#fb_comn">KOMENTAR</a>
+</div>
+
+<br>
+			<a id="sf"></a></h2>
+			<div id="galleria">
+            <!--<div class='tengahin'><input type="button" value="Kembali Ke List" onclick="goBack()"></div>-->
+                            </div>
+            
+            <script>
+            Galleria.loadTheme('http://www.ppk-kp3k.kkp.go.id/direktori-pulau/galleria/themes/classic/galleria.classic.min.js');
+            Galleria.run('#galleria');
+            </script>
+</div>
+
+<div id="text_warp">
+
+
+<p><h1>KAKOROTAN</h1></p>
+<table>
+<tr>
+	<td>Nama Lain</td> <td>:</td> <td></td>
+</tr>
+<tr>
+	<td>Propinsi</td> <td>:</td> <td>SULAWESI UTARA</td>
+</tr>
+<tr>
+	<td>Kabupaten</td> <td>:</td> <td>KABUPATEN KEPULAUAN TALAUD</td>
+</tr>
+<tr>
+	<td>Kecamatan</td> <td>:</td> <td>Nanusa</td>
+</tr>
+<tr>
+	<td>Koordinat</td> <td>:</td> <td><a href="http://www.ppk-kp3k.kkp.go.id/giskkp/index.html?extent=14153146.4437 514618.3971,14157732.6654 516483.9383"target="_blank"> 	3047’29.8’’LU , 125036’35.6’’ BT </a></td>
+</tr>
+</table>
+<hr>
+
+<h2><a id="gu">Gambaran Umum</a></h2>
+<p><div class="readmore"><p>
+	Pulau Kakorotan&nbsp; merupakan salah satu pulau kecil terluar yang dimiliki oleh Provinsi Sulawesi Utara dari 11 pulau yang ada. Pulau ini terletak dibagian utara Pulau Sulawesi dan berbatasan langsung dengan Philipina. Pulau ini merupakan pulau berpenghuni dengan jumlah penduduk sekitar 784 jiwa.</p>
+<p>
+	Pulau Kakorotan merupakan pulau kecil terluar yang berdekatan dengan Pulau Intata. Pulau ini terletak sebelah selatan Pulau Intata dan banyak ditumbuhi pohon kelapa. Pulau berpasir putih ini dihuni oleh penduduk Desa Kakorotan yang sebagian besar bermata pencaharian petani (petani kelapa) dan nelayan.</p>
+<p>
+	Seperti pulau terluar lainnya, Pulau Kakorotan memiliki Titik Dasar TD 058 dan Titik Referensi TR. 058 dengan luas &plusmn; 3.15 km<sup>2</sup>.</p>
+<p>
+	<strong>ADMINISTRATIF</strong></p>
+<p>
+	Secara administrasi pulau ini masuk kedalam administasi Kecamatan Nanusa, Kabupaten Kepulauan Talaud, Provinsi Sulawesi Utara.</p>
+<p>
+	<strong>KONDISI GEOGRAFIS</strong></p>
+<p>
+	Secara geografis pulau in terletak pada posisi 04<sup>o</sup>37&rsquo;37&rdquo; LU dan 127<sup>o</sup>09&rsquo;37&rdquo; BT. Pulau Kakorotan dibatasi oleh Samudera Pasifik disebelah Timur, Pulau Intata di sebelah Utara.</p>
+<p>
+	<strong>AKSESIBILITAS</strong></p>
+<p>
+	Pulau Kakorotan dengan&nbsp; Pulau Karatung sebagai pusat Kecamatan Nanusa dapat ditempuh dengan perjalanan&nbsp; perahu motor sekitar 1 jam.&nbsp; Sedangkan pusat kecamatan dengan pusat kabupaten setiap minggu ada pelayaran milik PELNI (KM. Tilongkabila) &nbsp;dengan waktu tempu sekitar 4-6 jam.&nbsp; Untuk sementara pelabuhan Melonguane sebagai pusat kabupaten kadang-kadang tidak dapat disinggahi oleh kapal sehingga jika dengan kapal laut pada umumnya melalui pelabuhan Lirung dan dari Pelabuhan tersebut dapat menumpang <em>speed boat</em> ke Melonguane.</p>
+<p>
+	Selain itu, perjalanan ke Pulau Intata juga dapat ditempuh langsung dari Kota Melonguane dengan menggunakan <em>speed boat</em> bermesin 40 PK dengan waktu tempuh 3-4 jam.&nbsp;</p>
+</div></p>
+
+<hr>
+
+<h2><a id="ksbk">Kependudukan, Sosial Budaya dan Kelembagaan</a></h2>
+<p><div class="readmore"><p>
+	&nbsp;</p>
+<p>
+	Kakorotan berasal dari kata Aorotan yang artinya pemujaan.&nbsp;&nbsp; Manusia pertama yang datang&nbsp; di Kepulauan Nanusa mulanya mendarat di Kakorotan.&nbsp; Dari pulau ini kemudian, sejak&nbsp; keturunan keempat&nbsp; mereka mulai pindah ke pulau-pulau lain.&nbsp; Namun demikian secara periodik mereka datang di pulau ini untuk melakukan pemujaan, karena mereka menganggap tempat ini merupakan tempat sakti dari leluhur mereka.&nbsp; Orang Belanda menyebut Aorotan dengan kata Kakorotan.</p>
+<p>
+	Tahun 1628 terjadi gempa yang sangat dahsyat yang diikuti dengan gelombang yang besar (Tsunami). Hal ini menyebabkan pulau Kakorotan terbelah menjadi tiga pulau yaitu. Pulau <strong>Kakorotan</strong>, Pulau <strong>Intata</strong> dan Pulau <strong>Malo.</strong>&nbsp; Sejak saat itu nama Kakorotan berubah menjadi <em>Hinuntingan</em> yang artinya bagaikan digunting.&nbsp; Oleh sebab itu pulau Intata dan Pulau&nbsp; Malo sekalipun tidak berpenduduk namun kekayaan alam serta tumbuhan yang ada di kedua pulau ini adalah milik penduduk Kakorotan.</p>
+<p>
+	Sesudah peristiwa tersebut penduduk Kakorotan tinggal 8 orang dan membentuk empat suku yaitu :&nbsp; Suku Waleuala oleh Lalendi, Suku Pondo oleh Tataloma, suku Melonca oleh Wanua, suku Parapa oleh Laluian dan kesemuanya masih menyembah berhala.</p>
+<p>
+	Masyarakat Pulau Kakorotan hidup dari bercocok tanam dan mencari ikan.&nbsp; Pada abad&nbsp; XVIII masyarakat Kakorotan mulai memeluk agama Kristen tetapi aturan adat tetap berlaku.&nbsp; Pada abad ini pula Desa Kakorotan membentuk persatuan diantara mereka untuk melindungi dari ancaman perampok.</p>
+<p>
+	Masyarakat Pulau Kakorotan memiliki kearifan lokal untuk mengakhiri musim menangkap ikan dalam tiap tahunnya, acara ini dikenal dengan <em>eha</em>.</p>
+<p>
+	Penduduk desa/Pulau Kakorotan berjumlah 784 orang yang terdiri dari 380 laki-laki dan 404 Perempuan dengan jumlah kepala keluarga 196 KK. Keseluruhan penduduk desa Kakorotan beragama Kristen Protestan. &nbsp;Komposisi jenis pendidikan yang dimiliki oleh penduduk Pulau Kakorotan seperti tabel dibawah ini.</p>
+<table align="center" border="1" cellpadding="0" cellspacing="0">
+	<tbody>
+		<tr>
+			<td style="width:42px;">
+				<p align="center">
+					N o.</p>
+			</td>
+			<td style="width:96px;">
+				<p align="center">
+					Jenis pendidikan</p>
+			</td>
+			<td style="width:56px;">
+				<p align="center">
+					Jumlah (Org)</p>
+			</td>
+			<td style="width:56px;">
+				<p align="center">
+					Persen (%)</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:42px;">
+				<p align="center">
+					1</p>
+			</td>
+			<td style="width:96px;">
+				<p>
+					SARJANA</p>
+			</td>
+			<td style="width:56px;">
+				<p align="center">
+					1</p>
+			</td>
+			<td style="width:56px;">
+				<p align="center">
+					0.1</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:42px;">
+				<p align="center">
+					2</p>
+			</td>
+			<td style="width:96px;">
+				<p>
+					D 2</p>
+			</td>
+			<td style="width:56px;">
+				<p align="center">
+					2</p>
+			</td>
+			<td style="width:56px;">
+				<p align="center">
+					0.2</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:42px;">
+				<p align="center">
+					3</p>
+			</td>
+			<td style="width:96px;">
+				<p>
+					SMA (LULUS)</p>
+			</td>
+			<td style="width:56px;">
+				<p align="center">
+					68</p>
+			</td>
+			<td style="width:56px;">
+				<p align="center">
+					9</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:42px;">
+				<p align="center">
+					4</p>
+			</td>
+			<td style="width:96px;">
+				<p>
+					SMP (LULUS)</p>
+			</td>
+			<td style="width:56px;">
+				<p align="center">
+					97</p>
+			</td>
+			<td style="width:56px;">
+				<p align="center">
+					12</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:42px;">
+				<p align="center">
+					5</p>
+			</td>
+			<td style="width:96px;">
+				<p>
+					SD</p>
+			</td>
+			<td style="width:56px;">
+				<p align="center">
+					423</p>
+			</td>
+			<td style="width:56px;">
+				<p align="center">
+					54</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<div style="clear: both; text-align: center;">
+	Sumber : Data Sekunder Desa</div>
+<p>
+	Sebagian besar masyarakat bekerja sebagai petani dan nelayan.&nbsp; Profesi sebagai nelayan hampir melekat pada semua penduduk termasuk mereka yang sudah menjadi pegawai.&nbsp;&nbsp; Ketika ada kesempatan untuk melaut pada umumnya penduduk dapat melakukan aktivitas di laut sekalipun hanya untuk kebutuhan sendiri. Namun demikian jenis pekerjaan yang ada di desa Kakorotan dapat dilihat pada tabel berikut:</p>
+<table align="center" border="1" cellpadding="0" cellspacing="0" style="width:261px;" width="261">
+	<tbody>
+		<tr>
+			<td style="width:32px;">
+				<p align="center">
+					N o</p>
+			</td>
+			<td style="width:92px;">
+				<p align="center">
+					Jenis pendidikan</p>
+			</td>
+			<td style="width:75px;">
+				<p align="center">
+					Jumlah (Org)</p>
+			</td>
+			<td style="width:62px;">
+				<p align="center">
+					Persen (%)</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:32px;">
+				<p align="center">
+					1</p>
+			</td>
+			<td style="width:92px;">
+				<p>
+					Petani</p>
+			</td>
+			<td style="width:75px;">
+				<p align="center">
+					158</p>
+			</td>
+			<td style="width:62px;">
+				<p align="center">
+					74</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:32px;">
+				<p align="center">
+					2</p>
+			</td>
+			<td style="width:92px;">
+				<p>
+					Nelayan</p>
+			</td>
+			<td style="width:75px;">
+				<p align="center">
+					20</p>
+			</td>
+			<td style="width:62px;">
+				<p align="center">
+					9</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:32px;">
+				<p align="center">
+					3</p>
+			</td>
+			<td style="width:92px;">
+				<p>
+					PNS</p>
+			</td>
+			<td style="width:75px;">
+				<p align="center">
+					16</p>
+			</td>
+			<td style="width:62px;">
+				<p align="center">
+					8</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:32px;">
+				<p align="center">
+					4</p>
+			</td>
+			<td style="width:92px;">
+				<p>
+					Tukang</p>
+			</td>
+			<td style="width:75px;">
+				<p align="center">
+					10</p>
+			</td>
+			<td style="width:62px;">
+				<p align="center">
+					5</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:32px;">
+				<p align="center">
+					5</p>
+			</td>
+			<td style="width:92px;">
+				<p>
+					Pedagang</p>
+			</td>
+			<td style="width:75px;">
+				<p align="center">
+					8</p>
+			</td>
+			<td style="width:62px;">
+				<p align="center">
+					4</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="width:125px;">
+				<p align="center">
+					Jumlah</p>
+			</td>
+			<td style="width:75px;">
+				<p align="center">
+					212</p>
+			</td>
+			<td style="width:62px;">
+				<p align="center">
+					100</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<div style="clear:both;">
+	&nbsp;</div>
+<p>
+	Secara umum kondisi kesehatan masyarakat Pulau Kakorotan cukup baik. Lingkugan yang terjaga, pola hidup bersih yang diterapkan dan kesadaran hidup bersih yang tinggi pada masyarakat Pulau Kakorotan menjadikan kesehatan mereka tetap terjaga. Pada tahun 2002 warga Pulau Kakorotan pernah terserang wabah <em>muntaber</em> yang memakan korban cukup banyak. Hal ini menjadi pengalaman yang berharga sehingga kesadaran masyarakat untuk menjaga lingkungan yang bersih menjadi tinggi. Sekalipun hanya ada puskesmas pembantu yang hanya ada satu orang tenaga medis (mantri) dan hanya sebulan sekali ada kunjungan dokter namun masyarakat sudah menyadari pentingnya memeriksa kesehatan lewat tenaga medis. Untuk menjaga kesehatan anak-anak balita serta ibu-ibu hamil ada kegiatan posyandu sebulan sekali bersamaan dengan kunjungan dokter.</p>
+<p>
+	Masyarakat Kakorotan dapat dikatakan masyarakat yang masih menjunjung tinggi&nbsp; adat&nbsp; kebiasaan yang diwariskan oleh leluhur. Dalam mengelola sumberdaya&nbsp; milik desa seperti kelapa dan tanaman tahunan lainnya, masyarakat ini mengenal sistem pengelolaan yang disebut dengan <em>eha,</em>&nbsp; yaitu larangan untuk melakukan panen sebelum waktunya. Tanaman tahunan di desa pada umumnya milik bersama sehingga waktu memanen dilakukan secara bersama sesuai dengan pembagian persuku.</p>
+<p>
+	Selain<em> eha, </em>masyarakat Pulau Kakorotan juga mengenal adat<em>&nbsp; mane&rsquo;e. </em>Mane&rsquo;e adalah suatu budaya yang sangat menonjol karena&nbsp; mungkin tidak ada di tempat lain.&nbsp; Mane&rsquo;e adalah bagian dari pelestarian sumberdaya laut dimana ada suatu wilayah yang sudah dikhususkan tidak boleh melakukan penangkapan dengan cara apapun.&nbsp; Penangkapan hanya dapat dilakukan setahun sekali. Kegiatan ini harus dilakukan secara bersama dan diketahui oleh semua penduduk dan dengan alat tradisional.&nbsp; Kata <em>mane&rsquo;e</em> berasal dari kata <em>see</em> atau <em>sasahara</em> yang artinya setuju&nbsp; atau sepakat.&nbsp; Oleh sebab itu <em>mane&rsquo;e</em> dapat diartikan melaksanakan kegiatan yang telah disepakati secara serentak oleh semua orang.&nbsp; Dalam hal ini semua orang harus menyiapkan peralatan secara tradisional.&nbsp; Kegiatan <em>Mane&rsquo;e</em> dilakukan sejak abad&nbsp; XVI setelah bencana gempa dan tsunami melanda Kakorotan. Dimana seluruh harta benda musnah dan penduduk tidak punya apa-apa, termasuk alat tangkap.&nbsp; Pada suatu ketika ada dua orang entah dari mana asalnya tiba di pulau dan dengan dedaunan mereka mulai menghentak-hentakkan ke air dan tiba-tiba kelihatan ikan mulai terkumpul.&nbsp; Oleh penduduk waktu itu merasa kagum dan memohon agar peralatan dedaunan itu diberikan kepada penduduk. Kedua orang asing itu menyerahkan alat itu dan mereka kemudian berlayar meninggalkan pulau.&nbsp;</p>
+</div></p>
+
+<hr>
+
+<h2><a id="eshp">Ekosistem dan Sumberdaya Hayati</a></h2>
+<p><div class="readmore"><p>
+	&nbsp;</p>
+<p>
+	Terumbu karang yang terdapat di sekeliling Pulau Kakorotan&nbsp; memiliki rataan terumbu yang cukup lebar dengan kemiringan profil terumbu agak landai terutama pada bagian barat pulau. Kondisi terumbu karang di sebelah barat pulau termasuk dalam kategori sedang dengan tutupan karang hidup lebih dari 30 % terutama didominasi oleh genera <em>Porites</em> dan <em>Montipora.</em>&nbsp; Ikan-ikan karang relatif banyak dan berukuran relatif besar. Ikan Kakatua, ikan Kulipaser, ikan Kerapu serta ikan Lolosi merupakan ikan-ikan target dominan penghuni terumbu karang di pulau ini.&nbsp;</p>
+<p>
+	Jenis lamun yang dominan adalah <em>Thalassia hemprichii </em>dan<em> Cymodocea rotundata</em>. Jenis-jenis <em>algae </em>bervariasi dan terdiri dari sekitar 19 jenis. Jenis yang dominan adalah <em>Halimeda cylindracea</em>.dan <em>Gracilaria verrucosa</em>. Jenis makrofauna bentik terdiri dari 17 jenis moluska dan 10 jenis ekhinodermata dari kelas Asteroidea, <em>Echinoidea</em> dan Holothuroidea. Jenis-jenis <em>moluska</em> yang dominan adalah dari genus <em>Cypraea.</em> Sedangkan jenis-jenis ekhinodermata yang dominan adalah <em>Tripneustes gratilla </em>(kelas Echinoidea), <em>Holothuria atra</em> (kelas Holothuroidea),&nbsp; <em>Culcita novaeguineae</em> (kelas Asteroidea). Krustasea ekonomis penting&nbsp; terdapat di perairan pesisir pulau ini adalah lobster <em>Panulirus</em> sp serta ketam kenari <em>Birgus latro</em>.</p>
+<p>
+	Dibidang usaha perikanan, masyarakat masih mengandalkan usaha perikanan tangkap berupa penangkapan ikan dengan menggunakan pancing serta&nbsp; jaring paka-paka. Hasil tangkapan yang diperoleh hanya untuk konsumsi sendiri dan jika ada kelebihan dijual kepada masyarakat setempat dan selebihnya dibuat ikan asin. Terbatasnya akses pemasaran menyebabkan masyarakat membatasi tangkapan ikan sehari-hari. Jenis alat-alat tangkap yang digunakan masyarakat Pulau Kakorotan antara lain sebagai berikut:</p>
+<p>
+	Pukat ukuran kecil, Jaring Antoni (soma landera), Soma Darape,Jaring ingsang dasar (soma paka-paka),Panah (jubi), Longline(pancing noru), pancing tonda (pancing ulur),Lot (lot penyu &amp; lot teripang)</p>
+</div></p>
+
+<hr>
+
+<h2><a id="snh">Sumberdaya Non Hayati</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<h2><a id="aps">Aktivitas Pengelolaan Sumberdaya</a></h2>
+<p><div class="readmore"><p>
+	Dalam mengelola sumberdaya yang mereka miliki, masyarakat Kakorota masih menjunjung tinggi adat kebiasaan warisan leluhur. Pengelolaan sumberdaya milik desa seperti kelapa dan tanaman tahunan.</p>
+<p>
+	Masyarakat Kakorotan juga memiliki kearifan lokal untuk mengakhiri musim menangkap ikan saban tahun, tradisi ini disebut dengan EHA. Masyarakat nelayan di desa Kakorotan Kepulauan Talaud Sulawesi Utara mempunyai adat istiadat dalam mengelola sumberdaya laut khususnya ikan. yakni dengan alat Mane&rsquo;e. Masyarakatnelayan desa Kakorotan biasanya menangkap ikan dengan alat tangkap tradisional. Jenis alatnya adalah perahu tradisional (sampan) yakni perahu tanpa motor.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="ling">Lingkungan</a></h2>
+<p><div class="readmore"><p>
+	Lingkungan di Kakorotan sangat terjaga, pola hidup bersih diterapkan. Kesadaran hidup bersih menjadikan kesehatan masyarakat tetap terjaga.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="sp">Sarana dan Prasarana</a></h2>
+<p><div class="readmore"><p>
+	Di Pulau Kakorotan terdapat 1 TK dan 2 sekolah dasar (SD). Fasilitas air bersih hanya berupa sumur sedangkan penerangan masih menggunakan lampu gas (petromaks) dan listrik tenaga surya sebanyak 150 unit.&nbsp; Dibidang kesehatan, sudah ada puskesmas pembantu dengan seorang mantri. Pelayanan kesehatan oleg dokter diberikan sebulan sekali bersamaan dengan waktu layanan Posyandu bagi ibu hamil dan balita.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="pi">Peluang Investasi</a></h2>
+<p><div class="readmore"><p>
+	Potensi dan Arahan Pengembangan</p>
+<p>
+	Pulau Kakarotan&nbsp; memiiki potensi pengembangan daerah wisata bahari.Berdasarkan Peraturan Daerah Kabupaten Kepulauan Talaud Nomor 41 Tahun 2004 Tentang Penetapan Lokasi Objek Wisata Kabupaten memiliki 4 (empat) objek Wisata yaitu Wisata Bahari, Wisata Alam, Wisata Budaya dan Wisata Juang, dan kondisi eksisting wilayah kajian, maka Pulau Kakorotan ditetapkan menjadi rencana pengembangan kawasan wisata budaya dengan mengandalkan festival Mana&#39;e.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="pap">Potensi dan Arahan Pengembangan</a></h2>
+<p><div class="readmore"><p>
+	&nbsp;</p>
+<p>
+	Pulau Kakorotan memiliki potensi pengembangan daerah wisata bahari. Strategi yang perlu dilakukan untuk meningkatkan taraf hidup penduduk pulau adalah melalui pemberdayaan masyarakat dengan pelatihan budidaya rumput laut, pengolahan ikan (ikan asin dan tepung ikan), ekowisata bahari,&nbsp; wisata budaya, penguatan modal serta bantuan perahu panboat berukuran besar beserta peralatan penangkap ikan untuk menangkap ikan pelagis maupun ikan hiu dalam rangka meningkatkan kesejahteraan.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="kp">Kendala Pengembangan</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<h2><a id="rf">Referensi</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<br />
+	<i> 
+		<p style="font-size:12px;">
+			Karena keterbatasan SDM dalam penginputan dan pengolahan data, kami mohon maaf atas ketidak lengkapan beberapa data pulau yang kami tampilkan, harap dimaklumi.
+			Berikan keritik dan saran pada kolom komentar agar kita dapat bersama menyajikan sebuah data yang cukup sempurna untuk halayak ramai yang berguna
+			demi kesejahterahan, kelestarian dan keindahan pulau-pulau kecil yang dimiliki Indonesia.<br />
+			*Jika sekiranya anda memiliki data yang cukup banyak, silakan mengirimkan file melalui email kami di <b><a>identifikasippk@gmail.com</a></b>
+			
+		</p>
+	</i>
+<br />
+
+<div id="fb_comn" class="fb-comments" data-href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_info/309" data-width="800" data-numposts="5" data-colorscheme="light"></div>
+
+
+</div>
+</div>
+</div>
+<div id="wrapper">
+
+<div class="footer"><p>
+<!--<marquee onmouseover="this.stop()" onmouseout="this.start()" scrollamount="5" direction="right" width="798" height="14"  behavior="scroll">-->
+<a href="http://www.ppk-kp3k.kkp.go.id/" target="_blank">Direktorat Pendayagunaan Pulau-Pulau Kecil &nbsp; | &nbsp;</a>
+<a href="http://www.kp3k.kkp.go.id/" target="_blank">Ditjen Kelautan, Pesisir dan Pulau-Pulau Kecil &nbsp; | &nbsp;</a>
+<a href="http://www.kkp.go.id/" target="_blank">Kementerian Kelautan dan Perikanan</a>
+<!--</marquee>--> <br />
+Jl. Medan Merdeka Timur No. 16 Gedung Mina Bahari 3 Lantai 10, Jakarta, Indonesia <br />
+Email : identifikasippk@gmail.com <br />
+Telp &amp; Fax: (021) 3522058 <br />
+&copy; Copyright Direktorat Pendayagunaan Pulau-Pulau Kecil 2012&nbsp; <br /></p>
+</div>
+</div>
+</body>
+</html>

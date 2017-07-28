@@ -1,0 +1,459 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Pulau Nasi</title>
+
+<meta charset="utf-8"/>
+
+<meta property="fb:app_id" content="559408774147878" />
+
+
+<meta property="og:title" content="Pulau Nasi" />
+<meta property="og:url" content="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_info/934" />
+
+
+    <script type="text/javascript" src="http://ajax.microsoft.com/ajax/jquery/jquery-1.4.4.min.js">
+    </script>
+    
+    <script type="text/javascript" src="http://plugins.learningjquery.com/expander/jquery.expander.js">
+    </script>
+    
+    <script type="text/javascript">
+        $(function () {
+            $('div.readmore').expander({
+                slicePoint:200,
+                expandText: '(Baca selengkapnya)',
+                userCollapseText: '(Sembunyikan selengkapnya)'
+            });
+        });
+    </script>
+        
+	<script src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/galleria/galleria-1.2.8.min.js"></script>
+
+        <SCRIPT TYPE="text/javascript">
+            <!--
+            //Disable right click script
+            //visit http://www.rainbow.arch.scriptmania.com/scripts/
+            var message="Sorry, right-click has been disabled";
+            ///////////////////////////////////
+            function clickIE() {if (document.all) {(message);return false;}}
+            function clickNS(e) {if
+            (document.layers||(document.getElementById&&!document.all)) {
+            if (e.which==2||e.which==3) {(message);return false;}}}
+            if (document.layers)
+            {document.captureEvents(Event.MOUSEDOWN);document.onmousedown=clickNS;}
+            else{document.onmouseup=clickNS;document.oncontextmenu=clickIE;}
+            document.oncontextmenu=new Function("return false")
+            // -->
+            </SCRIPT>
+            
+            <SCRIPT TYPE="text/javascript">
+            <!--
+            //Disable select-text script (IE4+, NS6+)
+            //visit http://www.rainbow.arch.scriptmania.com/scripts/
+            ///////////////////////////////////
+            function disableselect(e){
+            return false
+            }
+            function reEnable(){
+            return true
+            }
+            //if IE4+
+            document.onselectstart=new Function ("return false")
+            //if NS6
+            if (window.sidebar){
+            document.onmousedown=disableselect
+            document.onclick=reEnable
+            }
+            // -->
+            </SCRIPT>  
+              
+<link rel="stylesheet" type="text/css" href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/css/main.css" media="screen"/>
+<style type='text/css'>
+#info_wrap{
+	width:820px;
+	margin:0 auto;
+	text-shadow:0px 1px 1px #09F;
+}
+table{
+	color:#000000;
+}
+h1{
+	color:#000000;
+}
+.tengahin{
+	width: 105px;
+	height: 30px;
+	margin: 0 auto auto auto;
+}
+#box_view{
+	background-image:-webkit-gradient(linear, 0 0%, 0 100%, from(#FFFFFF), to(#E0F0F5));
+	background:#FFF;
+	color:#F60;
+	border: 1px solid #fff;
+	border-radius: 4px 4px 4px 4px;
+	box-shadow: 0 8px 6px -6px black;
+	position:fixed;
+	right:0;
+	top:150px;;
+	width:80px;
+	z-index:10;
+	padding-left:12px;
+	font-size:10px;
+	}
+#box_view li{
+	color:#F60;
+	margin-left:-30px;
+	}
+	#wrapper a b {
+	color: #FFF;
+	font-size:14px;
+}
+.batas{
+	float:left;
+	border-right-style:inset;
+	border-right-width:thin;
+	}
+.text_h_wrap{
+	
+	padding-left:450px;
+	padding-top:39px;
+	text-shadow:0px 1px 1px #09F;
+	}
+#wrapper .footer p{
+	font-size:12px;
+	color: #FFF;
+	text-align:center;
+	text-shadow:0px 1px 1px #09F;
+}
+td,th {
+	font-size: 12px;
+}
+
+marquee a{
+	color:#FFF
+	}
+#wrapper .footer a{
+	color: #FFFFFF;
+}
+</style>
+            
+<script>
+function goBack()
+  {
+  window.history.back()
+  }
+</script>
+<script type="text/javascript">
+function Popup( url, height, width )
+{
+    var windowProperties = "toolbar = 0, scrollbars = 1, location = 0, statusbar = 0, menubar = 0, resizable = 1, width = " + width + ", height = " + height + ", left = 50, top = 50";
+ 
+    return window.open( url, "", windowProperties );
+}
+</script>
+
+
+
+</head>
+<body oncontextmenu='return false;' onkeydown='return false;' onmousedown='return false;'>
+
+<a id="top_view"></a>
+<div id="wrapper">
+<div class="header_wrap">
+<div class="text_h_wrap">
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/home_page'><b>&nbsp;Home&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/menu_info/1'><b>&nbsp;About Us&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_data'><b>&nbsp;Direktori Pulau&nbsp;&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/program_ip'><b>&nbsp;IKU&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/data_ppkt'><b>&nbsp;PPKT&nbsp;</b></a>
+</div>
+<!--<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/maintenance'><b>&nbsp;Login&nbsp;</b></a>-->
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/dir_log_cont'><b>&nbsp;Login&nbsp;</b></a>
+
+</div>
+</div>
+</div>
+
+<div id="fb-root"></div>
+<script>
+  window.fbAsyncInit = function() {
+    // init the FB JS SDK
+    FB.init({
+      appId      : '559408774147878',                        // App ID from the app dashboard
+      status     : true,                                 // Check Facebook Login status
+      xfbml      : true                                  // Look for social plugins on the page
+    });
+
+    // Additional initialization code such as adding Event Listeners goes here
+  };
+
+  // Load the SDK asynchronously
+  (function(){
+     // If we've already installed the SDK, we're done
+     if (document.getElementById('facebook-jssdk')) {return;}
+
+     // Get the first script element, which we'll use to find the parent node
+     var firstScriptElement = document.getElementsByTagName('script')[0];
+
+     // Create a new script element and set its id
+     var facebookJS = document.createElement('script'); 
+     facebookJS.id = 'facebook-jssdk';
+
+     // Set the new script's source to the source of the Facebook JS SDK
+     facebookJS.src = '//connect.facebook.net/en_US/all.js';
+
+     // Insert the Facebook JS SDK into the DOM
+     firstScriptElement.parentNode.insertBefore(facebookJS, firstScriptElement);
+   }());
+</script>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=559408774147878";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="box_view">
+    <a href="#top_view">MENU</a>
+    <h3><p>Lihat Informasi:</p></h3>
+    <ul>
+	<a href="#sf"><li>Slide Foto</li></a>
+    <a href="#gu"><li>Gambaran Umum</li></a>
+    <a href="#ksbk"><li>Kependudukan, Sosial Budaya dan Kelembagaan</li></a>
+    <a href="#eshp"><li>Ekosistem dan Sumberdaya Hayati</li></a>
+    <a href="#snh"><li>Sumberdaya Non Hayati</li></a>
+    <a href="#aps"><li>Aktivitas Pengelolaan Sumberdaya</li></a>
+    <a href="#ling"><li>Lingkungan</li></a>
+    <a href="#sp"><li>Sarana dan Prasarana</li></a>
+    <a href="#pi"><li>Peluang Investasi</li></a>
+    <a href="#pap"><li>Potensi Arahan Pengembangan</li></a>
+    <a href="#kp"><li>Kendala Pengembangan</li></a>
+	<a href="#rf"><li>Referensi</li></a>
+    </ul>
+    <a href="#fb_comn">KOMENTAR</a>
+</div>
+
+<br>
+			<a id="sf"></a></h2>
+			<div id="galleria">
+            <!--<div class='tengahin'><input type="button" value="Kembali Ke List" onclick="goBack()"></div>-->
+                            </div>
+            
+            <script>
+            Galleria.loadTheme('http://www.ppk-kp3k.kkp.go.id/direktori-pulau/galleria/themes/classic/galleria.classic.min.js');
+            Galleria.run('#galleria');
+            </script>
+</div>
+
+<div id="text_warp">
+
+
+<p><h1>Nasi</h1></p>
+<table>
+<tr>
+	<td>Nama Lain</td> <td>:</td> <td></td>
+</tr>
+<tr>
+	<td>Propinsi</td> <td>:</td> <td>ACEH</td>
+</tr>
+<tr>
+	<td>Kabupaten</td> <td>:</td> <td>KABUPATEN ACEH BESAR</td>
+</tr>
+<tr>
+	<td>Kecamatan</td> <td>:</td> <td>Pulo Aceh</td>
+</tr>
+<tr>
+	<td>Koordinat</td> <td>:</td> <td><a href="http://www.ppk-kp3k.kkp.go.id/giskkp/index.html?extent=10566128.7524 628046.0230,10602818.5260 642970.3528"target="_blank"><p>
+	5&deg; 41&#39; 58.000&rdquo; LU 95&deg; 4&#39; 55.000&rdquo; BT</p>
+</a></td>
+</tr>
+</table>
+<hr>
+
+<h2><a id="gu">Gambaran Umum</a></h2>
+<p><div class="readmore"><p>
+	Pulau Pulo Nasi adalah salah satu pulau dari beberapa pulau yang menjadi bagian dari gugusan Kepulauan Pulo Aceh yang terletak di Kabupaten Aceh Besar, Provinsi Aceh. Pulo Nasi berada pada koordinat 95&deg; 9&#39; 4,44&quot; BT dan 5&deg; 37&#39; 18,68&quot; LU, dan merupakan pulau terbesar kedua dalam gugusan Kepulauan Pulo Aceh setelah Pulau Breueh atau Pulau Beras.<br />
+	<br />
+	Nama Pulo Nasi yang kita ketahui sekarang ini mempunyai cerita sendiri, di sebutkan Pulo Nasi karena pulo nasi dapat ditempuh setengah hari dari daratan untuk menuju ke pulo Nasi cukup dengan membawa nasi bungkus (tidak basi), sedangkan Pulo yang lain terpaksa membawa beras maka dikenal dengan sebutan pula breh utara dan pulo breh selatan, masih menurut masyarakat, pulau nasi itu punya nama sendiri yang juga masih kita dapati penulisannya di peta &ndash; peta buatan zaman dahulu yaitu PEUNASO. Sebutan PEUNASO untuk Pulau Nasi mungkin di gunakan untuk memudahkan orang mengingatnya, karena Kemukiman Pulo Nasi itu berada paling dekat dengan daratan Banda Aceh yang dapat di jangkau dengan cepat dari daratan Aceh. Konon nama Peunaso itu di berikan oleh Sultan Iskandar Muda yang pada saat menjelang persiapan pernikahannya dengan PUTRO PHANG mengirimkan (PASOE &ndash; mengisi ) orang &ndash; orang dari daratan Aceh yang di pimpin oleh seorang bangsawan yang di kenal oleh masyarakat dengan sebutan Raja Kandang, mungkin sebutan ini di gunakan karena Raja tersebut bertempat tinggal di Kandang Gampong Alue Riyeueng. sedangkan nama yang sebenarnya dari Raja tersebut hingga saat ini belum diketahui. Adapun tujuan dari pengiriman orang &ndash; orang ini adalah untuk bertani buah &ndash; buahan dan sayur &ndash; sayuran yang akan di bawa untuk bekal pelayaran ke Pahang, dan buah &ndash; buahan tersebut lebih di peruntukkan sebagai buah tangan (Asoe Talam &ndash; Isi Talam) dari seorang calon suami (Linto Baroe) yaitu Sultan Iskandar Muda. Karena proses ISI MENGISI secara timbal balik inilah maka Sultan Aceh menyebut Pulau nasi dengan sebutan Pulo Peunaso (Pulau Pengisi). Kebanyakan dari orang &ndash; orang yang di kirimkan oleh Raja Aceh tersebut tidak mau lagi kembali kedaratan aceh dan memohon izin untuk tetap bertempat tinggal di pulo, karena kondisi tanah pertanian di pulo sangat subur, sehingga di masa lalu muncul istilah bahwa untuk bertani di pulo itu tidak perlu mengolah tanah tapi cukup dengan melemparkan bibit saja. Tidak ada orang yang tahu kapan nama pulau nasi itu ada, nama pulau Nasi atau Pulo Peunaso. Seiring dengan pertumbuhan dan perkembangan penduduk yang dulu di datangkan oleh Raja aceh, ditambah dengan para pendatang baru, memunculkan inisiatif di masyarakat untuk membagi wilayah &ndash; wilayah di pulau Nasi menjadi beberapa Gampong, yang salah satu gampongnya di namai gampong (Deudap, Alue Reyung, Rabo, Lamteng dan Pasi Janeng). Penamaan nama gampong mempunyai kekhasan tersendiri bagi setiap gampong dalam pemberian nama sesuai dengan apa yang lebih menonjol di suatu tempat misalnya DEUDAP ini berasal dari kata DADAP, yaitu sejenis pohon yang saat itu sangat banyak tumbuh di gampong Deudap dan di gunakan oleh masyarakat untuk kayu pembuat pagar karena pohon ini batangnya banyak di tumbuhi duri sehingga binatang pengganggu enggan mendekat begitu juga dengan nama-nama gampong yang lain. Karena keterkaitan dengan sejarah masa lalu maka sampai sekarang kita masih sering mendengar istilah WOE (pulang) pada masyarakat Pulau Nasi umumnya yang hendak ke daratan&nbsp; Aceh sedangkan kampung mereka adalah Pulo Nasi Atau Pulo Aceh.<br />
+	<br />
+	Terdapat 5 desa di Pulo Nasi yaitu Desa Alue Reuyeueng, Desa Deudap, Desa Lamteng, Desa Pasi Janeng dan Desa Rabo. Secara administratif, kelima desa di Pulo Nasi tersebut termasuk dalam Kemukiman Pulo Nasi, Kecamatan Pulo Aceh, Kabupaten Aceh Besar. Berdasarkan data hasil pengolahan citra satelit World View 2 tanggal 26 Januari 2012, Pulo Nasi memiliki luas daratan sebesar 27,32 km2 atau 2731,87 hektar.<br />
+	<br />
+	Walaupun termasuk dalam wilayah administratif Kabupaten Aceh Besar, akan tetapi lokasi Pulo Nasi tidak berada jauh dari pusat ibukota provinsi yaitu Kota Banda Aceh. Oleh karena itu, tingkat aksesibilitas menuju Pulo Nasi tergolong mudah. Setiap hari, terdapat kapal angkutan berupa kapal kayu yang menuju Pulo Nasi dari pelabuhan Ulee Lheue atau Lampulo di Kota Banda Aceh. Perjalanan menuju Pulo Nasi akan ditempuh dengan waktu sekitar 45 menit dengan tujuan pelabuhan Deudap, dan 60 menit dengan tujuan pelabuhan Lamteng.<br />
+	<br />
+	Hidrologi (Air Permukaan/Tubuh Air dan Air Tanah)<br />
+	Sistem air permukaan atau tubuh air yang terdapat di Pulo Nasi antara lain sungai-sungai kecil dan genangan air. Sungai-sungai di Pulo Nasi berasal dari daerah yang lebih tinggi dimana masih banyak terdapat hutan dan bermuara di pantai yang lebih rendah. Beberapa sungai digunakan untuk mengaliri area persawahan yang berada di Desa Rabo dan Desa Alue Reuyeueng. Selain itu, dapat dijumpai pula genangan air yang cukup besar dan menyerupai rawa di bagian selatan pulau, yaitu di Desa Alue Reuyeueng. Daerah ini dulunya adalah kawasan persawahan dan berubah menjadi genangan air akibat peristiwa air pasang yang naik ke daratan dan tidak kembali lagi ke laut karena ketinggian daratan yang lebih rendah dari laut.<br />
+	Masyarakat yang tinggal di Pulo Nasi pada umumnya menggunakan air hujan dan air dari mata air di gunung sebagai air minum. Hal ini disebabkan karena kondisi air tanah di Pulo Nasi tidak layak untuk dikonsumsi karena mengandung kapur. Selain itu, kondisi air tanah juga terpengaruh oleh musim dan masukan air laut. Dimana, saat musim kemarau dan pengaruh dari air laut yang tinggi, maka air tanah mengalami perubahan kualitas dari segi rasa, bau dan warna airnya.<br />
+	<br />
+	Bentuk permukaan&nbsp; Pulo Nasi termasuk ke dalam bentuk yang bergunung dengan ketinggian rata-rata daratan pulau lebih besar dari 45 mdpl. Daratan tertinggi di Pulo Nasi mencapai ketinggian 300an meter dan terletak di utara Desa Deudap dan selatan desa Pasi Janeng. Secara umum, bagian barat dari Pulo Nasi lebih landai bila dibandingkan dengan bagian timurnya. Daerah pesisir antara Desa Deudap dan Desa Lamteng merupakan dataran tinggi dengan ketinggian rata-rata di atas 100 meter. Sementara di pesisir bagian barat dan selatan relatif lebih rendah dengan ketinggian di bawah 100 meter.<br />
+	<br />
+	Masyarakat di Pulo Nasi pada umumnya memiliki mata pencaharian sebagai nelayan dan petani. Aktivitas di laut sebagian besar berupa penangkapan ikan dan sebagian kecil adalah budidaya. Sementara itu, aktivitas masyarakat dengan menggunakan lahan di daratan Pulo Nasi sebagian besar adalah pertanian lahan kering seperti tanaman campuran, perkebunan campuran, perkebunan dan ladang/tegalan, serta pertanian lahan basah yaitu sawah dan juga sebagai area permukiman.<br />
+	<br />
+	Pantai yang terdapat di Pulo Nasi pada umumnya berupa pantai berpasir dengan pasir putih serta vegetasi pantai dengan formasi pes caprae. Akan tetapi di beberapa lokasi yang berdekatan dengan daerah genangan air, dapat dijumpai pula pantai yang berlumpur. Vegetasi pantai yang umum dijumpai di Pulo Nasi antara lain kelapa, cemara, pandan, ipomea dan beberapa jenis mangrove. Selain itu di Desa Lamteng dapat pula dijumpai pantai bervegetasi mangrove.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="ksbk">Kependudukan, Sosial Budaya dan Kelembagaan</a></h2>
+<p><div class="readmore"><p>
+	Jumlah penduduk di Pulo Nasi adalah sebanyak 1.315 jiwa yang tersebar di lima gampong, yang terdiri dari 706 orang laki-laki dan 609 orang perempuan. Jumlah kepala keluarga yang terdapat di Pulo Nasi ini adalah sebanyak 397 KK.<br />
+	<br />
+	Sebagaimana pada umumnya penduduk yang mendiami daerah kepulauan, penduduk Pulo Nasi pada umumnya memiliki mata pencaharian sebagai nelayan dan berkebun karena dikelilingi oleh lautan dan perbukitan. Dari segi ekonomi, usaha perikanan tangkap dan berkebun yang dilakoni oleh masyarakat Pulo Nasi . Bisa dikatakan bahwa sebagian besar penduduk Pulo Nasi menggantungkan perekonomiannya dari laut. Jika kondisi laut tidak memungkinkan untuk melakukan penangkapan ikan, praktis nelayan tidak mendapatkan penghasilan dan hanya mengandalkan hutang atau simpanan yang ada. Selain itu karena metode penangkapan yang digunakan masih tergolong sederhana, dengan menggunakan alat tangkap pancing dan jaring, dan perahu kecil (robin) hasil tangkapan yang mereka dapatkan tidak seberapa. Hal ini sangat mereka rasakan terutama saat musim&nbsp; angin barat tiba, dimana ikan kian sulit didapatkan<br />
+	<br />
+	Berdasarkan data Biro Pusat Statistik (BPS) Kabupaten Aceh Besar dapat diketahui bahwa sebagaian besar penduduk di Pulo Nasi adalah petani dan nelayan (perikanan tangkap). Meskipun sebagian ada yang bekerja sebagai peternak, namun itu hanya sebagai pekerjaan sampingan saja. Selain itu juga terdapat beberapa masyarakt yang bekerja sebagai PNS.<br />
+	<br />
+	Etnis penduduk Pulo Nasi terdiri umumnya adalah masyarakat Aceh asli. Meskipun ada sebagian suku jamee, minangkabau,tetapi suku itu hanya pendatang yang menikan sama warga Pulo Nasi. Kondisi sosial yang tidak terlalu heterogen ini tidak begitu mempengaruhi&nbsp; budaya&nbsp; masyarakat di Pulo Nasi . Sebagai contoh dalam komunikasi sehari-hari penduduk Pulo Nasi menggunakan bahasa Aceh dan jarang sekali menggunakan bahasa Indonesia, namun secara umum mereka menggunakan bahasa Jamee dan bahasa Indonesia. Selain itu seperti pada umumnya nelayan di Provinsi Aceh, pada hari Jumat nelayan Pulo Nasi tidak melaut sampai selesainya solat Jumat. Mereka biasanya menghabiskan waktu memperbaiki perahu maupun peralatan penangkap ikan.Jika ada yang melanggar ketentuan ini maka mereka akan dikenai sanksi sesuai adat yang berlaku.<br />
+	Sebagaimana kehidupan masyarakat pada umumnya, penduduk Pulo Nasi juga memiliki organisasi dan lembaga yang mengatur dan mengayomi kehidupan masyarakat di pulau tersebut. .Pemerintahan masing-masing desa dipimpin oleh kepala desa dan kepala dusun. Untuk mempermudah urusan administrasi pemerintahan desa, maka kepala desa akan dibantu oleh sekretaris desa, kepala urusan (Kaur) dan wakil kepala urusan. Selain lembaga pemerintahan seperti Camat dan Kepala Desa, terdapat pula lembaga adat Aceh yang disebut Tuha Peut di masing-masing desa. Tuha Peut adalah sebuah dewan yang terdiri dari empat orang, baik masing-masing maupun secara bersama-sama mengambil tanggung jawab dalam pemerintahan umum dan sebagai pendamping Ulee Balang (pemimpin).<br />
+	&nbsp;</p>
+</div></p>
+
+<hr>
+
+<h2><a id="eshp">Ekosistem dan Sumberdaya Hayati</a></h2>
+<p><div class="readmore"><p>
+	Ekosistem terumbu karang hampir dapat ditemukan diseluruh pesisir Pulo Nasi, baik di sebelah Utara, Selatan, Barat maupun Timur.&nbsp; Terumbu karang di sebelah utara berbatasan dengan Pulo Beras.&nbsp; Daerah tersebut ditemukan berupa celah perairan sempit yang memiliki arus cukup kencang.&nbsp; Nelayan setempat mengatakan bahwa daerah tersebut memiliki kelimpahan ikan yang banyak.<br />
+	Terumbu karang Pulo Nasi termasuk kedalam tipe fringing reef atau biasa disebut dengan terumbu karang tepi. Karang masih dapat ditemukan hingga kedalaman sekitar lima belas meter.<br />
+	<br />
+	Pencatan jenis ikan di Pulo Nasi dilakukan dengan menggunakan metode visual sensus.&nbsp; Metode ini dilakukan pada dua kategori kedalaman yaitu dangkal dan dalam.&nbsp; Berdasarkan hasil penyelaman di tujuh lokasi Pulo Nasi tercatat 128 spesies ikan karang.&nbsp; Jumlah tersebut terdiri dari beberapa kategori ikan<br />
+	<br />
+	Sebaran mangrove di Pulau Nasi terdapat di satu desa yaitu Desa Lamteng dengan luasan 0,95 ha. Di dearah ini bisa ditemukan 6 jenis mangrove yaitu Rhizophora&nbsp; mucronata, Rhizophora apiculata, Exoecaria agallocha, Sonneratia alba, Nypafrutican dan Acrostichumeureum.<br />
+	<br />
+	Pulau nasi memiliki pantai berpasir dengan panjang bervariasi dari 23 m hingga 12,6 km. Formasi pantai di Pulau Nasi umumnya merupakan pantai berformasi pescaprae. Daerah ini memiliki pantai&nbsp; berpasir dengan vegetasi pionir menjalar dan rerumputan dengan beberapa pohon ketapang.Tumbuhan yang mendominasi daerah pantai adalah pandan, kangkung laut (Ipomoea), kelapa (Cocos nucifera), widuri (Calotropisgigantea) dan ketapang (Terminaliacatappa).<br />
+	&nbsp;</p>
+</div></p>
+
+<hr>
+
+<h2><a id="snh">Sumberdaya Non Hayati</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<h2><a id="aps">Aktivitas Pengelolaan Sumberdaya</a></h2>
+<p><div class="readmore"><p>
+	Pulau Nasi merupakan salah satu Pulau yang sangat potensial dalam usaha perikanan dan kelautan. Namun upaya pemanfaatan sumberdaya ikan di daerah ini masih didominasi oleh Kegiatan perikanan tangkap. Hal ini disebabkan karena masyarakat yang mendiami pulau ini tidak memiliki&nbsp; kemampuan atau keahlian dalam hal diversifikasi usaha perikanan.<br />
+	<br />
+	Pertanian<br />
+	Masyarakat di Pulo Nasi selain memiliki mata pencaharian sebagai nelayan juga memiliki sawah untuk kegiatan bertani. Jenis komoditi yang ditanam adalah padi. Tetapi daerah&nbsp; yang memiliki lahan pertanian hanya satu diantara 5 gampong yang terdapt di Pulo Nasi. Gampong yang memiliki daerah persawahan tersebut adalah Alue Rieuyeung. Sawah yang dimiliki merupakan jenis sawah tadah hujan dengan artian hanya bisa dilakukan penanaman pada saat musim hujan, karena tidak memiliki sistim irigasi<br />
+	<br />
+	Peternakan<br />
+	Berdasarkan survey dan wawancara yang dilakukan didapat bahwa jenis ternak yang terdapat di Pulo Nasi antara lain sapi, kerbau, ayam, kambing ayam dan lain-lain. Beternak bukanlah mata pencaharian utama bagi penduduk pulau ini, namun hanya sebagai usaha sampingan, yang dapat digunakan untuk memenuhi konsumsi protein keluarga dan terkadang sebagian lagi dijual untuk menambah penghasilan<br />
+	<br />
+	Perkebunan<br />
+	Sebagaimana halnya usaha peternakan, usaha perkebunan merupakan usaha yang paling dominan dilakukan oleh masyarakat Pulo&nbsp; Nasi selain nelayan (usaha penangkapan ikan). Jenis komoditi perkebunan yang paling dominan terdapat di Pulo Nasi adalah kelapa, pinang, cengkeh, kelapa, pala dan nilam. Perkebunan pinang dan cengkeh umumnya terdapat di belakang rumah dan tanah-tanah kosong<br />
+	&nbsp;</p>
+</div></p>
+
+<hr>
+
+<h2><a id="ling">Lingkungan</a></h2>
+<p><div class="readmore"><p>
+	Kualitas Perairan<br />
+	<br />
+	Pengukuran kecerahan air dilakukan di 7 lokasi yang terdapat di perairan Pulo Aceh. Hasil pengukuran menunjukkan bahwa tingkat kecerahan yang paling rendah terdapat di Demit yaitu 5,85 meter. Sedangkan tingkat kecerahan yang paling tinggi terdapat di&nbsp; Nipah dengan tingkat kecerahan 10,5 meter<br />
+	<br />
+	Pada kedalaman yang bervariasi tersebut suhu perairan relatif konstan yaitu 290C. Suhu ini sangat cocok untuk habitat dan perkembangbiakan ikan-ikan tropis.<br />
+	<br />
+	DO atau dissolved oxygen adalah oksigen terlarut adalah jumlah oksigen dalam miligram yang terdapat dalam satu liter air (ppt), nilai DO yang didapat di perairan Pulau Nasi tertinggi terdapat di lokasi Demit dengan nilai 5,7 - 6,06 mg/l, dengan nilai rata-rata 5,88 mg/l.&nbsp; Sedangkan&nbsp; nilai terendah terdapat di lokasi Baet&nbsp; dengan kisaran nilai 4,1 -4,9 mg/l dengan nilai rata-rata 4,5 mg/l.<br />
+	<br />
+	Permasalahan lingkungan yang dihadapi oleh masyarakat disana adalah rentan terhadap bencana karena tempat tinggal masyarakat yang terdapat disekitar pantai lama kelamaan akan terkikis yang disebabkan karena adanya abrasi pantai. Selain itu apabila terjadi gempa daerah ini sangat berpotensi terjadi tsunami. Masalah seperti ini sudah dialami oleh masyarakat pada tahun 2004, dimana banyak bangunan dan masyarakt yang meninggal karena diterjang badai tsunami.&nbsp; Karena selama ini banyak masyarakat yang tinggal di daerah yang landai dan dekat dengan pesisir laut, khususnya di gampong Pasie Janeng.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="sp">Sarana dan Prasarana</a></h2>
+<p><div class="readmore"><p>
+	<br />
+	Sarana Transportasi<br />
+	Berdasarkan hasil survey yang telah dilakukan diketahui bahwa kondisi jalan yang ada di Pulo Nasi dalam keadaan baik dan masih baru. Lebar jalan tersebut hampir mencapai empat meter. Namun ada ruas jalan yang belum selesai yang menghubungkan antara gampong Alue Rieuyeung dengan Deudap. Jalan tersebut terdiridari tanah dan batu-batuan serta kerikil. Pada saat musim hujan kondisi jalan tersebut sangat membahayakan para pengguna jalan. Oleh karena itu jalan tersebut sangat jarang digunakan oleh masyarakat. Selain jalan utama di gampong tersebut juga terdapat gang yang terbuat dari semen yang menghubungkan rumah menuju jalan utama.<br />
+	<br />
+	Sarana Penerangan<br />
+	Sarana penerangan di Pulo Nasi sudah cukup baik. Hal ini dapat dilihat dengan adanya pembangkit listrik tenaga diesel yang dapat memasok listrik keseluruh rumah warga.<br />
+	<br />
+	Sarana Air Bersih<br />
+	Air bersih umumnya diperoleh dari sumur yang digali serta dari mata air yang ditampung dalam suatu tempat penampungan, yang kemudian didistribusikan ke rumah-rumah warga melalui selang yang dihubungkan ke bak penampungan.<br />
+	<br />
+	Sarana Kesehatan<br />
+	Di Pulo Nasi terdapat dua sarana kesehatan berupa puskesmas pembantu (Pustu) yaitu di gampong Pasie Janeng dan&nbsp; gampong Alue Rieyeung. Puskesmas tersebut dibangun diatas lahan seluas &plusmn; 100 m2<br />
+	<br />
+	Sarana Pendidikan<br />
+	jumlah sarana pendidikan yang terdapat di Pulo Nasi berjumlah 7 unit. Jumla tersebut terdiri dari sekolah PAUD sampai SMA. Sekolah PAUD terdiri dari satu unit terdapat di Gampong Rabo. Kemudian sekolah SD/MIN terdiri dari sebanyak 4 unit yang terdapat di gampong Deudap sebanyak satu unit, di gampong Rabo sebanyak 2 unit dan di Gampong Pasie Janeng sebanyak satu unit. Sedangkan sarana pendidikan untuk tingkat SMP dan SMU masing masing terdapat satu unit yakni di gampong Alue Rieyeung.<br />
+	<br />
+	Sarana Peribadatan<br />
+	Sarana peribadatan di Pulo Nasi ini sangat lengkap, karena setiap gampong memiliki mesjid sebagai tempat untuk melaksanakan shalat, pengajian serta ibadah-ibadah lainnya. Selain itu juga gampong-gampong yang ada di Pulo Nasi juga memliki meunasah (mushala).<br />
+	<br />
+	Sarana Pendukung Pemerintahan<br />
+	pemerintah telah membangun kantor-kantor di Pulo Nasi, seperti kantor keuchik, kantor koramil, balai desa dan lain-lain.<br />
+	<br />
+	Sarana Sanitasi Lingkungan<br />
+	Sarana dan prasarana sanitasi lingkungan di Pulo Nasi sudah cukup memadai. Hal ini terlihat dari adanya saluran/parit yang dibangun dengan menggunakan PNPM mandiri.<br />
+	Dilain sisi ketersediaan tempat MCK juga sudah ada di masing-masing gampong yang dapat digunakan oleh masyarakat Pulo Nasi. Adanya sarana MCK ini sangat membantu masyarakat yang belum memiliki tempat MCK di rumahnya.<br />
+	&nbsp;</p>
+</div></p>
+
+<hr>
+
+<h2><a id="pi">Peluang Investasi</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<h2><a id="pap">Potensi dan Arahan Pengembangan</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<h2><a id="kp">Kendala Pengembangan</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<h2><a id="rf">Referensi</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<br />
+	<i> 
+		<p style="font-size:12px;">
+			Karena keterbatasan SDM dalam penginputan dan pengolahan data, kami mohon maaf atas ketidak lengkapan beberapa data pulau yang kami tampilkan, harap dimaklumi.
+			Berikan keritik dan saran pada kolom komentar agar kita dapat bersama menyajikan sebuah data yang cukup sempurna untuk halayak ramai yang berguna
+			demi kesejahterahan, kelestarian dan keindahan pulau-pulau kecil yang dimiliki Indonesia.<br />
+			*Jika sekiranya anda memiliki data yang cukup banyak, silakan mengirimkan file melalui email kami di <b><a>identifikasippk@gmail.com</a></b>
+			
+		</p>
+	</i>
+<br />
+
+<div id="fb_comn" class="fb-comments" data-href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_info/934" data-width="800" data-numposts="5" data-colorscheme="light"></div>
+
+
+</div>
+</div>
+</div>
+<div id="wrapper">
+
+<div class="footer"><p>
+<!--<marquee onmouseover="this.stop()" onmouseout="this.start()" scrollamount="5" direction="right" width="798" height="14"  behavior="scroll">-->
+<a href="http://www.ppk-kp3k.kkp.go.id/" target="_blank">Direktorat Pendayagunaan Pulau-Pulau Kecil &nbsp; | &nbsp;</a>
+<a href="http://www.kp3k.kkp.go.id/" target="_blank">Ditjen Kelautan, Pesisir dan Pulau-Pulau Kecil &nbsp; | &nbsp;</a>
+<a href="http://www.kkp.go.id/" target="_blank">Kementerian Kelautan dan Perikanan</a>
+<!--</marquee>--> <br />
+Jl. Medan Merdeka Timur No. 16 Gedung Mina Bahari 3 Lantai 10, Jakarta, Indonesia <br />
+Email : identifikasippk@gmail.com <br />
+Telp &amp; Fax: (021) 3522058 <br />
+&copy; Copyright Direktorat Pendayagunaan Pulau-Pulau Kecil 2012&nbsp; <br /></p>
+</div>
+</div>
+</body>
+</html>

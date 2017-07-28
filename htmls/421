@@ -1,0 +1,436 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Pulau FANILDO</title>
+
+<meta charset="utf-8"/>
+
+<meta property="fb:app_id" content="559408774147878" />
+
+
+<meta property="og:title" content="Pulau FANILDO" />
+<meta property="og:url" content="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_info/421" />
+
+
+    <script type="text/javascript" src="http://ajax.microsoft.com/ajax/jquery/jquery-1.4.4.min.js">
+    </script>
+    
+    <script type="text/javascript" src="http://plugins.learningjquery.com/expander/jquery.expander.js">
+    </script>
+    
+    <script type="text/javascript">
+        $(function () {
+            $('div.readmore').expander({
+                slicePoint:200,
+                expandText: '(Baca selengkapnya)',
+                userCollapseText: '(Sembunyikan selengkapnya)'
+            });
+        });
+    </script>
+        
+	<script src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/galleria/galleria-1.2.8.min.js"></script>
+
+        <SCRIPT TYPE="text/javascript">
+            <!--
+            //Disable right click script
+            //visit http://www.rainbow.arch.scriptmania.com/scripts/
+            var message="Sorry, right-click has been disabled";
+            ///////////////////////////////////
+            function clickIE() {if (document.all) {(message);return false;}}
+            function clickNS(e) {if
+            (document.layers||(document.getElementById&&!document.all)) {
+            if (e.which==2||e.which==3) {(message);return false;}}}
+            if (document.layers)
+            {document.captureEvents(Event.MOUSEDOWN);document.onmousedown=clickNS;}
+            else{document.onmouseup=clickNS;document.oncontextmenu=clickIE;}
+            document.oncontextmenu=new Function("return false")
+            // -->
+            </SCRIPT>
+            
+            <SCRIPT TYPE="text/javascript">
+            <!--
+            //Disable select-text script (IE4+, NS6+)
+            //visit http://www.rainbow.arch.scriptmania.com/scripts/
+            ///////////////////////////////////
+            function disableselect(e){
+            return false
+            }
+            function reEnable(){
+            return true
+            }
+            //if IE4+
+            document.onselectstart=new Function ("return false")
+            //if NS6
+            if (window.sidebar){
+            document.onmousedown=disableselect
+            document.onclick=reEnable
+            }
+            // -->
+            </SCRIPT>  
+              
+<link rel="stylesheet" type="text/css" href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/css/main.css" media="screen"/>
+<style type='text/css'>
+#info_wrap{
+	width:820px;
+	margin:0 auto;
+	text-shadow:0px 1px 1px #09F;
+}
+table{
+	color:#000000;
+}
+h1{
+	color:#000000;
+}
+.tengahin{
+	width: 105px;
+	height: 30px;
+	margin: 0 auto auto auto;
+}
+#box_view{
+	background-image:-webkit-gradient(linear, 0 0%, 0 100%, from(#FFFFFF), to(#E0F0F5));
+	background:#FFF;
+	color:#F60;
+	border: 1px solid #fff;
+	border-radius: 4px 4px 4px 4px;
+	box-shadow: 0 8px 6px -6px black;
+	position:fixed;
+	right:0;
+	top:150px;;
+	width:80px;
+	z-index:10;
+	padding-left:12px;
+	font-size:10px;
+	}
+#box_view li{
+	color:#F60;
+	margin-left:-30px;
+	}
+	#wrapper a b {
+	color: #FFF;
+	font-size:14px;
+}
+.batas{
+	float:left;
+	border-right-style:inset;
+	border-right-width:thin;
+	}
+.text_h_wrap{
+	
+	padding-left:450px;
+	padding-top:39px;
+	text-shadow:0px 1px 1px #09F;
+	}
+#wrapper .footer p{
+	font-size:12px;
+	color: #FFF;
+	text-align:center;
+	text-shadow:0px 1px 1px #09F;
+}
+td,th {
+	font-size: 12px;
+}
+
+marquee a{
+	color:#FFF
+	}
+#wrapper .footer a{
+	color: #FFFFFF;
+}
+</style>
+            
+<script>
+function goBack()
+  {
+  window.history.back()
+  }
+</script>
+<script type="text/javascript">
+function Popup( url, height, width )
+{
+    var windowProperties = "toolbar = 0, scrollbars = 1, location = 0, statusbar = 0, menubar = 0, resizable = 1, width = " + width + ", height = " + height + ", left = 50, top = 50";
+ 
+    return window.open( url, "", windowProperties );
+}
+</script>
+
+
+
+</head>
+<body oncontextmenu='return false;' onkeydown='return false;' onmousedown='return false;'>
+
+<a id="top_view"></a>
+<div id="wrapper">
+<div class="header_wrap">
+<div class="text_h_wrap">
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/home_page'><b>&nbsp;Home&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/menu_info/1'><b>&nbsp;About Us&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_data'><b>&nbsp;Direktori Pulau&nbsp;&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/program_ip'><b>&nbsp;IKU&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/data_ppkt'><b>&nbsp;PPKT&nbsp;</b></a>
+</div>
+<!--<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/maintenance'><b>&nbsp;Login&nbsp;</b></a>-->
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/dir_log_cont'><b>&nbsp;Login&nbsp;</b></a>
+
+</div>
+</div>
+</div>
+
+<div id="fb-root"></div>
+<script>
+  window.fbAsyncInit = function() {
+    // init the FB JS SDK
+    FB.init({
+      appId      : '559408774147878',                        // App ID from the app dashboard
+      status     : true,                                 // Check Facebook Login status
+      xfbml      : true                                  // Look for social plugins on the page
+    });
+
+    // Additional initialization code such as adding Event Listeners goes here
+  };
+
+  // Load the SDK asynchronously
+  (function(){
+     // If we've already installed the SDK, we're done
+     if (document.getElementById('facebook-jssdk')) {return;}
+
+     // Get the first script element, which we'll use to find the parent node
+     var firstScriptElement = document.getElementsByTagName('script')[0];
+
+     // Create a new script element and set its id
+     var facebookJS = document.createElement('script'); 
+     facebookJS.id = 'facebook-jssdk';
+
+     // Set the new script's source to the source of the Facebook JS SDK
+     facebookJS.src = '//connect.facebook.net/en_US/all.js';
+
+     // Insert the Facebook JS SDK into the DOM
+     firstScriptElement.parentNode.insertBefore(facebookJS, firstScriptElement);
+   }());
+</script>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=559408774147878";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="box_view">
+    <a href="#top_view">MENU</a>
+    <h3><p>Lihat Informasi:</p></h3>
+    <ul>
+	<a href="#sf"><li>Slide Foto</li></a>
+    <a href="#gu"><li>Gambaran Umum</li></a>
+    <a href="#ksbk"><li>Kependudukan, Sosial Budaya dan Kelembagaan</li></a>
+    <a href="#eshp"><li>Ekosistem dan Sumberdaya Hayati</li></a>
+    <a href="#snh"><li>Sumberdaya Non Hayati</li></a>
+    <a href="#aps"><li>Aktivitas Pengelolaan Sumberdaya</li></a>
+    <a href="#ling"><li>Lingkungan</li></a>
+    <a href="#sp"><li>Sarana dan Prasarana</li></a>
+    <a href="#pi"><li>Peluang Investasi</li></a>
+    <a href="#pap"><li>Potensi Arahan Pengembangan</li></a>
+    <a href="#kp"><li>Kendala Pengembangan</li></a>
+	<a href="#rf"><li>Referensi</li></a>
+    </ul>
+    <a href="#fb_comn">KOMENTAR</a>
+</div>
+
+<br>
+			<a id="sf"></a></h2>
+			<div id="galleria">
+            <!--<div class='tengahin'><input type="button" value="Kembali Ke List" onclick="goBack()"></div>-->
+                            </div>
+            
+            <script>
+            Galleria.loadTheme('http://www.ppk-kp3k.kkp.go.id/direktori-pulau/galleria/themes/classic/galleria.classic.min.js');
+            Galleria.run('#galleria');
+            </script>
+</div>
+
+<div id="text_warp">
+
+
+<p><h1>FANILDO</h1></p>
+<table>
+<tr>
+	<td>Nama Lain</td> <td>:</td> <td></td>
+</tr>
+<tr>
+	<td>Propinsi</td> <td>:</td> <td>PAPUA</td>
+</tr>
+<tr>
+	<td>Kabupaten</td> <td>:</td> <td>KABUPATEN SUPIORI</td>
+</tr>
+<tr>
+	<td>Kecamatan</td> <td>:</td> <td>DISTRIK SUPIORI BARAT</td>
+</tr>
+<tr>
+	<td>Koordinat</td> <td>:</td> <td><a href="http://www.ppk-kp3k.kkp.go.id/giskkp/index.html?extent=14948494.3109 103260.1848,14953080.5326 105125.7260"target="_blank"><p>
+	0&deg; 56&#39; 13,265&quot; LU - 134&deg; 18&#39; 20,095&quot; BT</p>
+</a></td>
+</tr>
+</table>
+<hr>
+
+<h2><a id="gu">Gambaran Umum</a></h2>
+<p><div class="readmore"><p>
+	&nbsp;</p>
+<p style="text-align: justify;">
+	Pulau Fanildo merupakan&nbsp; gugusan dari Kepulauan Mapia yang berbatasan dengan Republik Palau. Jarak antara Pulau Fanildo dengan&nbsp; Pulau Babelthuap (Republik Palau) adalah sejauh 390 mil. Gugusan Kepulauan Mapia terdiri dari 5&nbsp; buah pulau, yaitu Mapia atau Pegun (332 ha) , Pulau Fanildo atau Berasi (309 ha), Pulau Fanildo Kecil (6 ha),&nbsp; Pulau Fanildo atau Faniroto (50 ha) dan Fanildo kecil (4 ha).</p>
+<p style="text-align: justify;">
+	Seperti pulau terluar lainnya, pulau dengan luas &plusmn; 0.1 km<sup>2</sup> ini memiliki Titik Dasar (TD) dan Titik Referensi (TR), yaitu TD.072 dan TR.072. Pulau Fanildo masuk kedalam wilayah administrasi Desa Mapia, Distrik Supiori Barat, Kabupaten Supiori, Provinsi Papua.</p>
+<p>
+	&nbsp;</p>
+<p style="text-align: justify;">
+	&nbsp;</p>
+<p style="text-align: justify;">
+	&nbsp;</p>
+<p>
+	&nbsp;</p>
+<p style="text-align: justify;">
+	Pulau Fanildo terletak pada posisi 00<sup>o</sup>56&rsquo;22&rdquo; LU dan 134<sup>o</sup>17&rsquo;44&rdquo; BT. Pulau ini merupakan satu kesatuan yang terhubungkan oleh hamparan pantai pasir putih yang dilingkari karang seluas 37.760 hektar dengan laguna ditengahnya seluas 3.000 m<sup>2</sup>.&nbsp; Kedalaman <em>lagoon</em> berkisar antara 5 &ndash; 22 meter dengan kanal atau alur yang berada di sisi Barat.</p>
+<p style="text-align: justify;">
+	Pulau Fanildo merupakan suatu pulau terbentuk sebagai &ldquo;<em>coral</em> <em>cay</em>&rdquo; atau &ldquo;<em>vegetated</em> <em>sand</em> <em>cay</em>&rdquo; hal ini diperlihatkan seluruh pembentukan pulau tersebut berasal dari material biogenic dari terumbu itu sendiri. Perubahan kedalaman yang sangat drastis dan <em>cliff</em>-<em>slope</em> yang mengelilingi pulau-pulau tersebut memberikan gambaran bahwa pulau tersebut diperkirakan pulau karang yang terangkat. Terbentuknya <em>lagoon</em> menjadikan salah satu indikasi proses pengangkatan .</p>
+<p style="text-align: justify;">
+	Pulau Fanildo memiliki kekhususan bahwa seluruh pulau ini bervegetasi pohon kelapa. Pada perairan sekitar Pulau Fanildo ditemukan kelengkapan ketiga ekosistem yaitu ekosistem <em>mangrove, seagrass dan coral</em>. Keberadaan ketiga pulau yang dikelilingi rataan terumbu menjadikan ketiga pulau tersebut relatif aman dari proses abrasi pantai. Kondisi air tawar di Pulau Fanildo sebagian air berasa payau dan tawar.</p>
+<p style="text-align: justify;">
+	Pulau Fanildo dapat dicapai dari Jakarta dengan menggunakan Pesawat Udara dan kapal laut, dengan Rute Jakarta &ndash; Biak &ndash; Fanildo/Mapia. Pulau&nbsp; Fanildo&nbsp; diakses dengan menggunakan perahu motor (<em>speed boat</em>) dari Kabupaten&nbsp; Biak Numfor.&nbsp; Jarak Pulau Fanildo dengan Kota&nbsp; Biak adalah 150 mil dan dapat dicapai dengan kapal motor.&nbsp; Lamanya waktu perjalanan dari Kota Biak dengan menggunakan perahu motor&nbsp; carteran berkekuatan 320 Pk menuju Pulau Fanildo&nbsp;&nbsp; kurang lebih sekitar 6 jam. Pulau Fanildo secara reguler dilayani oleh 2 kapal perintis yang senantiasa berlayar&nbsp; menuju&nbsp; Kepulauan Mapia/Pulau Fanildo dengan jadwal sebulan sekali dengan waktu tempuh kurang lebih 25 jam dari Biak. Sayangnya kapal yang digunakan tersebut&nbsp; &ldquo;sudah harus menjadi besi tua&rdquo;. Tingkat keselamatan penumpang menjadi sangat rawan karena kondisi mesin yang sering mogok, minimnya sarana keselamatan, tingkat higienis yang rendah.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="ksbk">Kependudukan, Sosial Budaya dan Kelembagaan</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<h2><a id="eshp">Ekosistem dan Sumberdaya Hayati</a></h2>
+<p><div class="readmore"><p>
+	&nbsp;</p>
+<p style="text-align: justify;">
+	<strong>Perikanan</strong></p>
+<p style="text-align: justify;">
+	Pesisir Pulau Fanildo memiliki sejumlah potensi makro bentos yang sudah dimanfaatkan oleh masyarakat setempat sebagai salah satu komoditas perikanan yang potensial. Sumberdaya makrobentos yang dimaksud adalah <em>molusca</em> (siput dan kerang) dan <em>echinodermata</em> (teripang).&nbsp; Beberapa jenis moluska yang dilindungi ditemukan&nbsp; di&nbsp; Pulau Fanildo ini seperti Lola (<em>Trochus niloticus</em>), Kimah besar (<em>Tridacna maxima</em>), Kimah Sisik (<em>Tridacna squamossa</em>), Keong kepala hitam (<em>Cassis cornuta</em>), Keong terompet (<em>Charonia tritonis</em>), Abalon (<em>Haliotis </em>spp) serta ditemukan pula jenis-jenis lainnya yang umumnya dipakai sebagai, bahan baku kerajinan tangan seperti jenis <em>Strombus sp, Oliva sp, Cyprasea sp, Conus magus, Conus marmoreus, Conus vitulinnus, Lambis-lambis..</em></p>
+<p style="text-align: justify;">
+	Ada berbagai jenis teripang yang ditemukan antara lain teripang benang, nanas, susu, jaipong, tinta dan kangkong namun yang mempunyai nilai ekonomis tinggi yaitu teripang nanas, susu dan jaipong.</p>
+<p style="text-align: justify;">
+	Penyu dan Lobster adalah dua jenis biota laut yang amat banyak dan melimpah ditemukan di perairan sekitar Pulau Fanildo ini. Penyu sangat mudah ditemukan dan dalam jumlah yang besar di sekitar Atol di Pulau Fanildo. Berbagai jenis penyu dapat ditemukan di sekitar perairan Pulau Fanildo ini seperti&nbsp; Penyu Belimbing (<em>Dermaochelys </em>coreacea) , Penyu Hijau (<em>Chelonia mydas</em>), Penyu Sisik (<em>Eretmchelys imbricate</em>). Penyu dapat berkembang biak (bertelur) dengan baik di Pulau Fanildo, karena pulau ini selalu dijaga oleh masyarakat dan hanya dari keluarga besar Marthin Mansen yang berhak atas penguasaan pulau tersebut. Untuk keperluan adat atau keperluan penting dalam suatu acara tertentu&nbsp; harus ada ijin dari keluarga Marthin Mansen. Potensi lobster menurut masyarakat cukup baik, hanya pasca penangkapan belum mendukung seperti tidak tersedianya alat penyimpanan (mesin pendingin).</p>
+<p style="text-align: justify;">
+	Udang karang atau lebih dikenal dengan&nbsp; lobster merupakan jenis udang yang sangat mudah diperoleh di daerah ini. Populasi udang ini masih terjaga dengan baik. Namun yang perlu diwaspadai adalah para pedagang pengumpul ikan dari luar yang senantiasa menawarkan harga yang menarik bagi para penduduk setempat untuk dapat menangkap dan menjual lobster sebanyak mungkin kepada mereka.</p>
+<p style="text-align: justify;">
+	&nbsp;</p>
+<p>
+	perairan pantai P. Fanildo hanya ditemukan vegetasi mangrove <em>Rhizophora sp</em>. Jenis mangrove ini tersebar secara spot-spot. <em>Mangrove</em> tidak berkembang dengan baik, hal ini terkait dengan tidak adanya suplai material lumpur sebagai substrat dasar.</p>
+<p>
+	<strong>Lamun</strong></p>
+<p style="text-align: justify;">
+	Ekosistem <em>seagrass</em> (padang lamun) di P. Fanildo dapat ditemukan di sepanjang perairan pantai. Jenis yang sering ditemukan antara lain <em>Thalassia hemprichii, Cymodocea rotundata dan Halodule pinifolia</em> dan diperkirakan masih banyak jenis yang belum tercatat.</p>
+<p style="text-align: justify;">
+	<strong>Terumbu Karang</strong></p>
+<p style="text-align: justify;">
+	Pulau Fanildo memiliki 21 keanekaragaman karang batu yang terdiri 13 genus dan 9 famili.&nbsp; Famili karang batu dengan jumlah jenis terbanyak adalah dari famili <em>Acroporidae</em> (3 jenis), kemudian <em>Mileopora</em> dan <em>Porites</em> masing-masing 2 jenis, sedangkan famili yang lainnya masing-masing 1 jenis&nbsp; Fakta ini memberikan indikasi yang jelas bahwa kekayaan atau variasi jenis karang di Pulau Fannildo rendah . &nbsp;</p>
+</div></p>
+
+<hr>
+
+<h2><a id="snh">Sumberdaya Non Hayati</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<h2><a id="aps">Aktivitas Pengelolaan Sumberdaya</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<h2><a id="ling">Lingkungan</a></h2>
+<p><div class="readmore"><p>
+	&nbsp;</p>
+<p style="text-align: justify;">
+	Pulau Fanildo adalah satu dari tiga buah pulau yang terletak pada atol Kepulauan Mapia. Di dalam atol terdapat laguna dengan panjang 9.742 meter dengan kedalaman yang bervariasi antara 1 &ndash; 35 meter. Relief dasar laguna sangat tidak rata, dimana-mana terdapat gosong pasir yang tenggelam pada kedalaman 1 &ndash; 4 meter. Laguna yang cukup luas ini terhubung dengan&nbsp; Samudera Pasifik yang dalam melalui satu-satunya celah yang sempit di bagian Barat dengan kedalaman rata-rata 4-5 meter, namun di ujung Timur celah terdapat gosong pasir yang sangat menghambat jalan masuk kapal-kapal dengan draft 3-4 meter.</p>
+<p style="text-align: justify;">
+	Pulau Fanildo maupun kedua pulau lainnya (Pulau Bras &nbsp;dan Pulau Pegun) terhampar pada tidal zone yang cukup luas, yang selalu kering di saat air surut dan tenggelam pada kedalaman 1&ndash;2 meter disaat pasang purnama. Dengan adanya tidal zone tersebut, maka dari pulau ke pulau dapat dicapai dengan berjalan kaki.</p>
+<p style="text-align: justify;">
+	Kawasan perairan Kepulauan Mapia sangat dipengaruhi oleh keadaan musim. Arus yang terbentuk di perairan ini merupakan arus yang terbentuk karena musim yang sedang berlangsung. Pasang surut yang terjadi merupakan pasang surut campuran harian ganda dengan tinggi air maksimum pada saat purnama adalah 2 meter. Pada pertengah musim Barat, yaitu bulan Januari &ndash; Pebruari ombak yang terjadi dapat mencapai ketinggian 2 meter.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="sp">Sarana dan Prasarana</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<h2><a id="pi">Peluang Investasi</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<h2><a id="pap">Potensi dan Arahan Pengembangan</a></h2>
+<p><div class="readmore"><p>
+	&nbsp;</p>
+<p style="text-align: justify;">
+	Melimpahnya sumberdaya alam, beragamnya ekosistem pesisir dan kehadiran panorama alam yang indah di kawasan pulau ini menjadikan tingginya peluang&nbsp; pengembangan investasi di kawasan ini.&nbsp; Peluang&nbsp; investasi yang dapat dikembangkan antara lain pengembangan usaha perikanan seperti usaha perikanan tangkap dari jenis-jenis ikan tuna (<em>Thunnus spp</em>), Ikan cakalang (<em>Katsuwonus pelamis</em>), Ikan tenggiri,&nbsp; Ikan-ikan laut dalam, Ikan kerapu, ikan kakap, udang lobster maupun usaha budidaya kerapu dalam keramba apung&nbsp; yang didukung oleh keberadaan laguna.</p>
+<p style="text-align: justify;">
+	Wisata bahari&nbsp; yang dapat dikembangkan di pulau ini adalah wisata selam (diving) dan snorkling dan&nbsp; memancing. Juga wisata sejarah dan budaya. Kondisi pantai&nbsp; di pulau ini yang memiliki hamparan pantai pasir putih yang luas sangat mendukung &nbsp;pengembangan&nbsp; wisata pantai.</p>
+<p style="text-align: justify;">
+	Sebagai pendukung dalam pengembangan sektor ekonomi dibidang&nbsp; perikanan dan wisata yang terkait erat hubungannya, maka sangat diperlukan pengembangan sarana dan prasarana. Sarana dan prasarana yang dimaksud seperti ketersediaan perhubungan (dermaga), Telekomunikasi (nir kabel), pendidikan (SDM), perumahan, kesehatan (dokter, petugas medis atau mantri) dan air bersih.</p>
+<p style="text-align: justify;">
+	Selain hal-hal diatas, perlu juga untuk dilakukan rekonstruksi dan pemeliharaan titik referensi dari titik dasar, perlu adanya pengawasan oleh aparat Pemerintah dan perlunya dibangun pelindung pantai dari ancaman abrasi dengan menanam pohon pelindung.&nbsp;</p>
+</div></p>
+
+<hr>
+
+<h2><a id="kp">Kendala Pengembangan</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<h2><a id="rf">Referensi</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<br />
+	<i> 
+		<p style="font-size:12px;">
+			Karena keterbatasan SDM dalam penginputan dan pengolahan data, kami mohon maaf atas ketidak lengkapan beberapa data pulau yang kami tampilkan, harap dimaklumi.
+			Berikan keritik dan saran pada kolom komentar agar kita dapat bersama menyajikan sebuah data yang cukup sempurna untuk halayak ramai yang berguna
+			demi kesejahterahan, kelestarian dan keindahan pulau-pulau kecil yang dimiliki Indonesia.<br />
+			*Jika sekiranya anda memiliki data yang cukup banyak, silakan mengirimkan file melalui email kami di <b><a>identifikasippk@gmail.com</a></b>
+			
+		</p>
+	</i>
+<br />
+
+<div id="fb_comn" class="fb-comments" data-href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_info/421" data-width="800" data-numposts="5" data-colorscheme="light"></div>
+
+
+</div>
+</div>
+</div>
+<div id="wrapper">
+
+<div class="footer"><p>
+<!--<marquee onmouseover="this.stop()" onmouseout="this.start()" scrollamount="5" direction="right" width="798" height="14"  behavior="scroll">-->
+<a href="http://www.ppk-kp3k.kkp.go.id/" target="_blank">Direktorat Pendayagunaan Pulau-Pulau Kecil &nbsp; | &nbsp;</a>
+<a href="http://www.kp3k.kkp.go.id/" target="_blank">Ditjen Kelautan, Pesisir dan Pulau-Pulau Kecil &nbsp; | &nbsp;</a>
+<a href="http://www.kkp.go.id/" target="_blank">Kementerian Kelautan dan Perikanan</a>
+<!--</marquee>--> <br />
+Jl. Medan Merdeka Timur No. 16 Gedung Mina Bahari 3 Lantai 10, Jakarta, Indonesia <br />
+Email : identifikasippk@gmail.com <br />
+Telp &amp; Fax: (021) 3522058 <br />
+&copy; Copyright Direktorat Pendayagunaan Pulau-Pulau Kecil 2012&nbsp; <br /></p>
+</div>
+</div>
+</body>
+</html>

@@ -1,0 +1,486 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Pulau DELI</title>
+
+<meta charset="utf-8"/>
+
+<meta property="fb:app_id" content="559408774147878" />
+
+
+<meta property="og:title" content="Pulau DELI" />
+<meta property="og:url" content="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_info/441" />
+
+
+    <script type="text/javascript" src="http://ajax.microsoft.com/ajax/jquery/jquery-1.4.4.min.js">
+    </script>
+    
+    <script type="text/javascript" src="http://plugins.learningjquery.com/expander/jquery.expander.js">
+    </script>
+    
+    <script type="text/javascript">
+        $(function () {
+            $('div.readmore').expander({
+                slicePoint:200,
+                expandText: '(Baca selengkapnya)',
+                userCollapseText: '(Sembunyikan selengkapnya)'
+            });
+        });
+    </script>
+        
+	<script src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/galleria/galleria-1.2.8.min.js"></script>
+
+        <SCRIPT TYPE="text/javascript">
+            <!--
+            //Disable right click script
+            //visit http://www.rainbow.arch.scriptmania.com/scripts/
+            var message="Sorry, right-click has been disabled";
+            ///////////////////////////////////
+            function clickIE() {if (document.all) {(message);return false;}}
+            function clickNS(e) {if
+            (document.layers||(document.getElementById&&!document.all)) {
+            if (e.which==2||e.which==3) {(message);return false;}}}
+            if (document.layers)
+            {document.captureEvents(Event.MOUSEDOWN);document.onmousedown=clickNS;}
+            else{document.onmouseup=clickNS;document.oncontextmenu=clickIE;}
+            document.oncontextmenu=new Function("return false")
+            // -->
+            </SCRIPT>
+            
+            <SCRIPT TYPE="text/javascript">
+            <!--
+            //Disable select-text script (IE4+, NS6+)
+            //visit http://www.rainbow.arch.scriptmania.com/scripts/
+            ///////////////////////////////////
+            function disableselect(e){
+            return false
+            }
+            function reEnable(){
+            return true
+            }
+            //if IE4+
+            document.onselectstart=new Function ("return false")
+            //if NS6
+            if (window.sidebar){
+            document.onmousedown=disableselect
+            document.onclick=reEnable
+            }
+            // -->
+            </SCRIPT>  
+              
+<link rel="stylesheet" type="text/css" href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/css/main.css" media="screen"/>
+<style type='text/css'>
+#info_wrap{
+	width:820px;
+	margin:0 auto;
+	text-shadow:0px 1px 1px #09F;
+}
+table{
+	color:#000000;
+}
+h1{
+	color:#000000;
+}
+.tengahin{
+	width: 105px;
+	height: 30px;
+	margin: 0 auto auto auto;
+}
+#box_view{
+	background-image:-webkit-gradient(linear, 0 0%, 0 100%, from(#FFFFFF), to(#E0F0F5));
+	background:#FFF;
+	color:#F60;
+	border: 1px solid #fff;
+	border-radius: 4px 4px 4px 4px;
+	box-shadow: 0 8px 6px -6px black;
+	position:fixed;
+	right:0;
+	top:150px;;
+	width:80px;
+	z-index:10;
+	padding-left:12px;
+	font-size:10px;
+	}
+#box_view li{
+	color:#F60;
+	margin-left:-30px;
+	}
+	#wrapper a b {
+	color: #FFF;
+	font-size:14px;
+}
+.batas{
+	float:left;
+	border-right-style:inset;
+	border-right-width:thin;
+	}
+.text_h_wrap{
+	
+	padding-left:450px;
+	padding-top:39px;
+	text-shadow:0px 1px 1px #09F;
+	}
+#wrapper .footer p{
+	font-size:12px;
+	color: #FFF;
+	text-align:center;
+	text-shadow:0px 1px 1px #09F;
+}
+td,th {
+	font-size: 12px;
+}
+
+marquee a{
+	color:#FFF
+	}
+#wrapper .footer a{
+	color: #FFFFFF;
+}
+</style>
+            
+<script>
+function goBack()
+  {
+  window.history.back()
+  }
+</script>
+<script type="text/javascript">
+function Popup( url, height, width )
+{
+    var windowProperties = "toolbar = 0, scrollbars = 1, location = 0, statusbar = 0, menubar = 0, resizable = 1, width = " + width + ", height = " + height + ", left = 50, top = 50";
+ 
+    return window.open( url, "", windowProperties );
+}
+</script>
+
+
+
+</head>
+<body oncontextmenu='return false;' onkeydown='return false;' onmousedown='return false;'>
+
+<a id="top_view"></a>
+<div id="wrapper">
+<div class="header_wrap">
+<div class="text_h_wrap">
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/home_page'><b>&nbsp;Home&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/menu_info/1'><b>&nbsp;About Us&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_data'><b>&nbsp;Direktori Pulau&nbsp;&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/program_ip'><b>&nbsp;IKU&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/data_ppkt'><b>&nbsp;PPKT&nbsp;</b></a>
+</div>
+<!--<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/maintenance'><b>&nbsp;Login&nbsp;</b></a>-->
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/dir_log_cont'><b>&nbsp;Login&nbsp;</b></a>
+
+</div>
+</div>
+</div>
+
+<div id="fb-root"></div>
+<script>
+  window.fbAsyncInit = function() {
+    // init the FB JS SDK
+    FB.init({
+      appId      : '559408774147878',                        // App ID from the app dashboard
+      status     : true,                                 // Check Facebook Login status
+      xfbml      : true                                  // Look for social plugins on the page
+    });
+
+    // Additional initialization code such as adding Event Listeners goes here
+  };
+
+  // Load the SDK asynchronously
+  (function(){
+     // If we've already installed the SDK, we're done
+     if (document.getElementById('facebook-jssdk')) {return;}
+
+     // Get the first script element, which we'll use to find the parent node
+     var firstScriptElement = document.getElementsByTagName('script')[0];
+
+     // Create a new script element and set its id
+     var facebookJS = document.createElement('script'); 
+     facebookJS.id = 'facebook-jssdk';
+
+     // Set the new script's source to the source of the Facebook JS SDK
+     facebookJS.src = '//connect.facebook.net/en_US/all.js';
+
+     // Insert the Facebook JS SDK into the DOM
+     firstScriptElement.parentNode.insertBefore(facebookJS, firstScriptElement);
+   }());
+</script>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=559408774147878";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="box_view">
+    <a href="#top_view">MENU</a>
+    <h3><p>Lihat Informasi:</p></h3>
+    <ul>
+	<a href="#sf"><li>Slide Foto</li></a>
+    <a href="#gu"><li>Gambaran Umum</li></a>
+    <a href="#ksbk"><li>Kependudukan, Sosial Budaya dan Kelembagaan</li></a>
+    <a href="#eshp"><li>Ekosistem dan Sumberdaya Hayati</li></a>
+    <a href="#snh"><li>Sumberdaya Non Hayati</li></a>
+    <a href="#aps"><li>Aktivitas Pengelolaan Sumberdaya</li></a>
+    <a href="#ling"><li>Lingkungan</li></a>
+    <a href="#sp"><li>Sarana dan Prasarana</li></a>
+    <a href="#pi"><li>Peluang Investasi</li></a>
+    <a href="#pap"><li>Potensi Arahan Pengembangan</li></a>
+    <a href="#kp"><li>Kendala Pengembangan</li></a>
+	<a href="#rf"><li>Referensi</li></a>
+    </ul>
+    <a href="#fb_comn">KOMENTAR</a>
+</div>
+
+<br>
+			<a id="sf"></a></h2>
+			<div id="galleria">
+            <!--<div class='tengahin'><input type="button" value="Kembali Ke List" onclick="goBack()"></div>-->
+                            </div>
+            
+            <script>
+            Galleria.loadTheme('http://www.ppk-kp3k.kkp.go.id/direktori-pulau/galleria/themes/classic/galleria.classic.min.js');
+            Galleria.run('#galleria');
+            </script>
+</div>
+
+<div id="text_warp">
+
+
+<p><h1>DELI</h1></p>
+<table>
+<tr>
+	<td>Nama Lain</td> <td>:</td> <td></td>
+</tr>
+<tr>
+	<td>Propinsi</td> <td>:</td> <td>BANTEN</td>
+</tr>
+<tr>
+	<td>Kabupaten</td> <td>:</td> <td>KABUPATEN PANDEGLANG</td>
+</tr>
+<tr>
+	<td>Kecamatan</td> <td>:</td> <td>CIKEUSIK</td>
+</tr>
+<tr>
+	<td>Koordinat</td> <td>:</td> <td><a href="http://www.ppk-kp3k.kkp.go.id/giskkp/index.html?extent=11744698.7796 -783907.2358 11753871.2229 -780176.1534"target="_blank"><p>
+	7&deg; 0&#39; 21,000&quot; LS - 105&deg; 32&#39; 42,000&quot; BT</p>
+</a></td>
+</tr>
+</table>
+<hr>
+
+<h2><a id="gu">Gambaran Umum</a></h2>
+<p><div class="readmore"><p>
+	&nbsp;</p>
+<div>
+	<p style="text-align: justify;">
+		Pulau Deli pulau terluar yang terletak di Samudera Hindia, termasuk wilayah Provinsi Banten dengan luas sekitar 950 ha. Kedudukan Pulau Deli disebutkan dalam Peraturan Presiden (Perpres) Nomor 78 Tahun 2005 tentang pengelolaan pulau-pulau kecil terluar sebagai pulau terluar yang ada di Provinsi Banten.</p>
+	<p style="text-align: justify;">
+		Secara geografis Pulau Deli terletak pada 07&ordm;01&rsquo;00&rsquo;&rsquo; LS &ndash; 105&ordm; 31&rsquo; 25&rsquo;&rsquo; BT. Pulau ini berbatasan langsung dengan Australia. Daratan yang terdekat dengan Pulau Deli adalah Tanjung Sodong dan Pulau Tinjil, serta berbatasan langsung dengan Australia. Di pualu ini terdapat titik dasar (TD) No. TD 147 dan titik referensi (TR) No. TR 147.</p>
+	<p style="text-align: justify;">
+		Secara administrasi, Pulau Deli termasuk wilayah Desa Cikiruh Wetan, Kecamatan Cikeusik, Kabupaten Pandeglang, Provinsi Banten. Sampai saat ini, Pulau Deli digunakan sebagai lokasi penangkaran monyet ekor panjang (<em>Macaca fascicularis</em>) bekerjasama dengan Departemen Kehutanan, Perum Perhutani Banten, Kesatuan Pemangkuan Hutan (KPH), BKPH Malimping.</p>
+</div>
+<p style="text-align: justify;">
+	Untuk menuju Pulau Deli dapat ditempuh melalui jalan darat dari Jakarta menuju Serang - Banten (90 km) dengan kendaraan roda empat, jarak dari Jakarta ke Pandeglang sekitar 111 km. Untuk menuju Pulau Deli, dari Pandeglang melalui Pelabuhan Muara Binuangen yang terletak di Pantai Binuangen, dari Pantai Binuangen dengan menggunakan kapal motor berkecepatan rata-rata 5 knot ditempuh dalam waktu 3 - 4 jam apabila laut dalam kondisi tenang untuk mencapai pulau tersebut. &nbsp;&nbsp;</p>
+</div></p>
+
+<hr>
+
+<h2><a id="ksbk">Kependudukan, Sosial Budaya dan Kelembagaan</a></h2>
+<p><div class="readmore"><p>
+	&nbsp;</p>
+<p style="text-align: justify;">
+	Di Pulau Deli tidak ada penduduk yang menetap sehingga aktivitas sosial yang dilakukan bukan merupakan aktivitas sosial yang utuh sebagaimana halnya perkampungan komunitas pesisir biasa, karena pulau ini dikelola oleh&nbsp; CV. Primates digunakan sebagai pusat penangkaran monyet ekor panjang.&nbsp; Sampai saat ini pengunjung Pulau Deli terbatas pada tamu-tamu perusahaan penangkar monyet dan nelayan yang secara liar singgah di kawasan tersebut.</p>
+<p style="text-align: justify;">
+	Pulau Deli menjadi tempat persinggahan para nelayan, bahkan ada kelompok nelayan yang memang sengaja datang ke Pulau Deli untuk mencari lobster. Satu kelompok beranggotakan antara 15-20 orang, mereka mendirikan gubuk-gubuk tempat tinggal mereka sementara di pantai selatan dan utara pulau.&nbsp; Biasanya mereka tinggal selama satu minggu di pulau kemudian pulang selama satu minggu dan kembali lagi ke pulau.&nbsp; Kelompok nelayan ini kebanyakan berasal dari Muara Binuangen.&nbsp; Kapal yang membawa para nelayan itu merapat di bagian utara pulau.</p>
+<p style="text-align: justify;">
+	Pulau Deli hanya dihuni oleh karyawan CV. Primates yang terdiri dari seorang dokter hewan, seorang asisten dokter hewan, 7 (tujuh) orang <em>keeper</em> &nbsp;beserta keluarganya, seorang pembantu rumah tangga serta terdapat buruh bangunan lepas sebanyak 6 (enam) orang.</p>
+<p style="text-align: justify;">
+	Potensi sumberdaya alam di Pulau Deli yang berupa satwa monyet ekor panjang (<em>Macaca fascicularis</em>) merupakan salah satu komoditas ekspor non migas yang dapat memberikan sumbangan bagi devisa negara dan penyerapan tenaga kerja untuk mengusahakannya dengan cara dijual/diekspor.&nbsp; Dalam rangka merealisasikan volume ekspor sesuai dengan permintaan pemesan serta memperhatikan ketentuan dari Bapak Menteri Kehutanan, maka CV. Primates telah melakukan penangkaran monyet ekor panjang (<em>Macaca fascicularis</em>) di Pulau Deli.</p>
+<p style="text-align: justify;">
+	Kegiatan penangkaran satwa monyet dimaksudkan selain untuk penyediaan stok satwa dan perkembangan populasi, juga untuk mendapatkan satwa monyet yang memenuhi persyaratan yang dapat mendukung bidang riset biomedis di negara pemesan atau penerima, terutama yang masih berhubungan dengan CV. Primates, seperti Jepang dan United State of Amerika (USA).</p>
+<p style="text-align: justify;">
+	Permintaan satwa monyet dari kedua negara tersebut terutama monyet yang berumur 2 sampai dengan 7 tahun dengan berat badan 1,8 sampai dengan 5,5 kg dengan <em>sex ratio</em> rata-rata 1 : 9 (jantan : betina).</p>
+<p style="text-align: justify;">
+	&nbsp;</p>
+</div></p>
+
+<hr>
+
+<h2><a id="eshp">Ekosistem dan Sumberdaya Hayati</a></h2>
+<p><div class="readmore"><p>
+	&nbsp;</p>
+<p style="text-align: justify;">
+	Berdasarkan Peraturan daerah Provinsi Daerah Tingkat I Jawa Barat nomor 2 tahun 1996 tentang Pengelolaan Kawasan Lindung di Provinsi Daerah Tingkat I Jawa Barat, hutan lindung Pulau Deli dinyatakan sebagai kawasan pelestarian plasma nutfah eksitu.&nbsp; Kawasan hutan lindung Pulau Deli yang telah ditetapkan sebagai kawasan konservasi eksitu mempunyai potensi flora, flauna dan ekosistem yang masih relatif baik.</p>
+<p style="text-align: justify;">
+	<strong>Flora</strong></p>
+<p style="text-align: justify;">
+	Vegetasi yang terdapat di Pulau Deli berupa vegetasi pantai dan daratan rendah. Di bagian Utara pulau didominasi oleh katapang (<em>Terminalia</em> <em>catappa</em>), nyamplung (<em>Calophyllum inophyllum</em>) dan butun (<em>Baringtonia asiatica</em>). Mulai pantai bagian Timur terus ke Selatan didominasi oleh pandan (<em>Pandanus tectorius</em>), disamping itu terdapat pula bintaro (<em>Cerbera manghas</em> Vesque). Pada pantai Selatan ini tidak dijumpai pepohonan seperti di pantai Utara.</p>
+<p style="text-align: justify;">
+	Pantai di Pulau Deli agak tinggi dan kering sehingga tidak dijumpai ekosistem mangrove yang hidup pada pantai yang berlumpur, sedikit berpasir, mendapat pengaruh pasang surut air laut.</p>
+<p style="text-align: justify;">
+	Bagian tengah pulau pada musim hujan banyak yang tergenang air menyerupai rawa-rawa kecil. Pepohonan yang dijumpai khas tumbuhan hutan daratan rendah seperti gempol (<em>Anthocephalus cadamba</em>), ipis kulit (<em>Kibessia azurea</em>). Genangan rawa yang cukup luas sebagian besar tertutup oleh walingi <em>(Scirpus grossus</em>). Terdapat pula rumput kibau dan kipangku. Pada rawa-rawa dijumpai ganggang.</p>
+<p style="text-align: justify;">
+	Di samping pepohonan, ditemukan juga jenis-jenis tumbuhan bawah seperti sulangkar (<em>Leea indica</em>), iles-iles (<em>Amorphophallus campanulatus</em>), pacing (<em>Costus speciosus</em>). Jenis liana/epiphyt yang ditemukan diantaranya rotan (<em>Callamus </em>sp), kadaka (<em>Drymaria </em>sp).</p>
+<p style="text-align: justify;">
+	Dilihat dari jenis tumbuhan yang ada, di Pulau Deli ditemukan tipe ekosistem hutan pantai dan hutan dataran rendah.&nbsp; Hutan pantai dicirikan dengan adanya ketapang, nyamplung dan butun.&nbsp; Sedangkan gempol, ipis kulit, hampelas biasa terdapat pada hutan dataran rendah.&nbsp; Sebagian besar kawasan hutan lindung di Pulau deli masih berupa hutan alam.&nbsp; Dengan demikian vegetasi yang ada masih asli.&nbsp; Hanya di dekat <em>base camp</em> penangkar milik CV. Primates yang terdapat beberapa tanaman perdu bukan asli kawasan.&nbsp;</p>
+<p style="text-align: justify;">
+	Pohon yang mendominasi kawasan hutan lindung adalah merbau, selanjutnya adalah jambu kopo, hampelas, ipis kulit dan kitambaga.&nbsp; Pada pantai utara pulau ditumbuhi oleh pohon-pohon berkayu dengan tajuk yang cukup rapat.&nbsp; Jenis yang banyak ditemukan adalah katapang, nyamplung, kempis dan badur.&nbsp; Mulai bagian timur sampai ke selatan dan barat, hanya ditemukan jenis pandan, bintaro dan beberapa tumbuhan bawah.&nbsp; Tumbuhannya tampak meranggas, disebabkan oleh terpaan angin barat yang cukup kencang.</p>
+<p style="text-align: justify;">
+	Di antara jenis tumbuhan yang tidak terlalu banyak di hutan lindung Pulau Deli terdapat binar dan hantap yang menurut Laporan Balai Penyelidikan Kehutanan No. 35 (tahun 1950) termasuk pohon yang jarang didapat.&nbsp; Di samping itu, terdapat tumbuhan yang berkhasiat obat, seperti tercantum di dalam Buku Pelestarian Pemanfaatan Keanekaragaman Tumbuhan Obat Hutan Tropika Indonesia, di antaranya (Balai Konservasi SDA Jabar, 1999) : (i) Merbau, kulit batang mengandung tannin dan alkaloid, bermanfaat untuk pengobatan diare. (ii) Nyamplung, bijinya mengandung kalofilolid, asam kalifilat, lakton, lendiri, gliserin dan berfungsi sebagai pengurang rasa sakit dan penyebab muntah. &nbsp;Kulit batang mengandungsaponin dan asam kalofiat yang berfungsi untuk mengurangi rasa nyeri, pelembut kulit, peluruh air seni, pencahar, dan penyebab muntah.&nbsp; Daun mengandung saponin, triterpen yang berfungsi sebagai pembersih darah, pereda kejang.&nbsp; Bunga berkhasiat untuk pengobatan pasca persalinan. (iii) Butun, bijinya merupakan bahan obat kudis. (iv) Hampelas (v) Waru laut, daunnya sebagai peluruh dahak, perawatan rambut. (vi) Bintaro, berkhasiat sebagai pencahar, penyebab muntah.</p>
+<p style="text-align: justify;">
+	<strong>Fauna</strong></p>
+<p style="text-align: justify;">
+	Monyet ekor panjang (<em>Macaca fascicularis</em>) yang banyak ditemukan di pulau ini adalah satwa eksotik. CV. Primates memasukkannya dari Lampung pada tahun 1989. Satwa lain yang juga eksotik adalah katak dan tikus.</p>
+<p style="text-align: justify;">
+	Satwa asli kawasan yang dijumpai adalah burung raja udang (<em>Halcyon chloris</em>) dan burung dara laut (<em>Chlidonias leucopterus</em>) serta biawak (<em>Varanus salvator</em>) dan sanca emas (<em>Phyton</em> sp) yang merupakan predator bagi monyet ekor panjang.&nbsp;&nbsp; Sebagaimana daerah pantai lain, di kawasan ini banyak ditemukan jenis-jenis moluska seperti kumang, matapeucang dan kepiting.</p>
+<p style="text-align: justify;">
+	Satwa di Pulau deli yang dilindungi adalah burung raja udang, pecuk ular, elang laut dan kuntul karang dari kelas aves, dari kelas reptilia adalah sanca bodo dan sanca emas.&nbsp; Di antara satwa yang berada di Pulau Deli ada beberapa yang bukan asli kawasan yaitu monyet ekor panjang, katak dan tikus.</p>
+<p style="text-align: justify;">
+	<strong>Perikanan</strong></p>
+<p style="text-align: justify;">
+	Perairan pulau ini memiliki kekayaan hayati yang melimpah, antara lain berbagai jenis ikan karang, ikan pelagis besar dan kecil seperti jenis tuna, tenggiri, tongkol, kembung dan lainnya. Di sekitar Pulau Deli menjadi area penting bagi nelayan dan penduduk setempat sebagai daerah penangkapan ikan dan udang lobster. Alat tangkap yang digunakan antara lain adalah pancing tonda, pancing rawai, <em>purse seine</em> dan <em>gillnet</em>.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p style="text-align: justify;">
+	<strong>Terumbu karang dan biota&nbsp;</strong></p>
+<p style="text-align: justify;">
+	Pulau Deli memiliki berbagai jenis tutupan terumbu karang, namun tidak semua perairan di Pulau Deli terdapat terumbu karang yang masih hidup. Biota yang hidup berasosiasi dengan terumbu karang dasar perairan Pulau Deli didominasi oleh kelompok ikan karang dan udang lobster. Selain berbagai jenis ikan, juga ditemukan <em>sea weed</em> dengan kadar minimum.</p>
+<p style="text-align: justify;">
+	Di bagian barat laut Pulau Deli terdapat ekosistem terumbu karang yang masih baik keadaannya, yaitu di sekitar Blok Pondok Gede.&nbsp; Di antara jenis batu karang yang ada yang ditemukan adalah karang <em>acropora</em> bercabang dan bermacam-macam ganggang terutama di pantai selatan pulau.&nbsp;</p>
+<p style="text-align: justify;">
+	<strong>Pariwisata</strong></p>
+<p style="text-align: justify;">
+	Pantai dengan pasir putih yang ada di sepanjang Pulau Deli cukup menarik, tetapi keindahan pantai pasir putih tersebut tidak didukung oleh adanya terumbu karang yang masih hidup, sehingga keindahannya berkurang.&nbsp; Keindahan pasir putih tersebut tidak selalu dapat dinikmati, karena keberadaan pantai putih tersebut berubah-ubah tergantung besarnya kekuatan ombak.&nbsp; Adakalanya pantai tersebut landai dan lebar, di saat lain kondisinya curam dan sempit.&nbsp; Kondisi tersebut menunjukkan bahwa pantai pasir putih sebagai salah satu sumberdaya alam yang menarik untuk wisata tergolong rapuh.&nbsp; Di bagian Barat laut pulau keadaan perairan lebih tenang, dengan pasir putih dan ekosistem terumbu karang yang masih baik kondisinya.&nbsp; Oleh para penggemar kegiatan memancing yang datang dari luar Pandeglang, di sekitar perairan pulau disebut sebagai surga bagi para pemancing profesional ataupun rekreasional.</p>
+<p style="text-align: justify;">
+	Di Blok Pondok Gede pantai utara Pulau Deli terdapat makam yang dianggap keramat oleh masyarakat setempat.&nbsp; Menurut kepercayaan masyarakat setempat makam tersebut adalah makam Langlang Buana, orang sakti yang melarikan diri dari Banten.&nbsp; Terdapat versi cerita lain yang menyatakan bahwa makam tersebut adalah tempat lenyapnya jasad seorang sakti yang meninggal karena digigit kima.&nbsp; Setelah jasad orang sakti lenyap keesokkan harinya secara tiba-tiba muncul makam tersebut.&nbsp; Sampai sekarang makam tersebut masih dikunjungi oleh orang luar, yang kemungkinan besar adalah nelayan, karena di tempat tersebut terkadang ditemukan sisa-sisa sesaji seperti ayam berbulu hitam, telor, cangkang kima dan sebaginya.&nbsp; Tidak ada juru kunci yang merawat makam tersebut.</p>
+<p style="text-align: justify;">
+	Pulau Deli juga dikenal sebagai tempat penangkaran monyet ekor panjang (<em>Macaca fascicularis</em>) milik CV. Primates.&nbsp; Kegiatan penangkaran satwa monyet selain untuk penyediaan stok satwa dan perkembangan populasi, juga untuk mendapatkan satwa monyet yang memenuhi persyaratan ekspor yang digunakan dalam bidang riset biomedis di negara pengimpor&nbsp; Hutan yang terdapat di pulau ini dikelola oleh Perum Perhutani Banten, Kesatuan Pemangkuan Hutan (KPH), BKPH Malimping. Hutan tersebut oleh Perum Perhutani ditetapkan sebagai hutan lindung, sesuai dengan Surat Keputusan Gubernur Jawa Barat No. 17 Tahun 1996 tentang Pemanduserasian Tata Guna Hutan dengan Rencana Tata Ruang Wilayah Propinsi Jawa Barat.</p>
+<p style="text-align: justify;">
+	Pemanfaatan kawasan hutan di Pulau Deli sebagai tempat penangkaran monyet ekor panjang telah disepakati dalam Memorandum of Understanding (MoU) antara Perum Perhutani Provinsi Jawa Barat dengan CV. Primates.&nbsp; MoU berlaku selama 25 tahun. Sekarang kawasan hutan Pulau Deli dikelola oleh Perum Perhutani Provinsi Banten.&nbsp; Untuk memasuki Pulau Deli harus mendapat ijin dari Perhutani Banten.</p>
+<p style="text-align: justify;">
+	Wilayah pantai Pulau Deli terbagi atas beberapa blok, yaitu Blok Pasirpanjang di bagian Utara pulau, Blok Pelabuhanpenyu di bagian Timur Laut, Blok Karangnanggul, Blok Panyalawean, Blok Kalapanunggal dan Blok Cantigi di di bagian Timur, Blok Alor Panjang di bagian Tenggara, Blok Cadas di Selatan, Blok Ujungrante di Barat Daya, Blok Tancangpeot di Barat, Blok Pondok Gede dan Blok Karangkualita di Barat Laut pulau.&nbsp; Di sepanjang Blok Pasirpanjang, Pelabuhanpenyu,&nbsp; Karangnanggul dan Panyalawean adalah tempat penangkaran monyet.&nbsp; Di Blok Pelabuhanpenyu terdapat <em>base camp</em> CV. Primates. Wilayah perairan pulau ini rawan terhadap abrasi pantai, perompakan dan penyelundupan. Menurut informasi, pulau ini pernah akan disewakan kepada investor asing.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="snh">Sumberdaya Non Hayati</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<h2><a id="aps">Aktivitas Pengelolaan Sumberdaya</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<h2><a id="ling">Lingkungan</a></h2>
+<p><div class="readmore"><p>
+	&nbsp;</p>
+<p style="text-align: justify;">
+	Pulau Deli merupakan daratan rendah dengan topografi datar sampai landai. Ketinggian dari permukaan laut antara 0 &ndash; 5 meter. Bagian tengah pulau datar dan berawa-rawa pada musim hujan, tetapi pada musim kemarau dalam keadaan kering. Rawa di Pulau Deli cukup luas kurang lebih 10 ha yang berair setiap musim hujan dan kering pada musim kemarau. Pada musim hujan air rawa mengalir ke laut di sebelah utara pulau melalui semacam selokan. Air dari rawa setelah disaring digunakan untuk memenuhi kebutuhan sehari-hari seperti mandi dan mencuci oleh karyawan PT Primates. Pada musim kemarau kebutuhan air dipenuhi dari sumur bor.</p>
+<p style="text-align: justify;">
+	Kondisi pantai landai berpasir putih di sebelah utara dan berbatu di sebelah Selatan dan Barat karena hantaman ombak dan kekuatan arus di sekelilingnya. Letaknya yang berada di Samudera Hindia dengan gelombang pantai selatan yang relatif besar menyebabkan pulau ini terkikis dan rawan abrasi.&nbsp;</p>
+<p style="text-align: justify;">
+	Jenis tanah di pulau ini adalah latosol dan litosol dan endapan permukaan Pulau Deli terdiri dari batu gamping koral dan bunga karang. Batu gamping koral berwarna putih kotor hingga coklat, berongga, permukaan kasar tajam, mengandung ganggang dan cangkang moluska. Bunga karang berwarna putih, coklat, kelabu, biru dan merah, berongga, permukaan kasar tajam dan berduri. Endapan ini tebalnya antara 5 m dan 20 m, berumur dari Plistosen hingga Resen. Jenis tanah di Pulau Deli serta letak pulau yang berada di tengah samudera luas menyebabkan angin bertiup cukup kencang dan mengandung garam, faktor tanah dan kondisi geografis tersebut menyebabkan rendahnya keanekaragaman tumbuhan.</p>
+<p style="text-align: justify;">
+	Menurut klasifikasi Schmidt dan Ferguson, iklim di Pulau Deli termasuk tipe B dengan curah hujan rata-rata 1.585 mm. Suhu rata-rata pada musim hujan 22,80<sup>0</sup>C&nbsp; dan pada musim kering 31,30<sup>0</sup>C. Kelembaban basah/kering adalah 79%. &nbsp;Musim kemarau berlangsung dari bulan Mei sampai Agustus, selama itu bertiup angin Timur. Musim hujan berlangsung dari bulan September hingga April dan selama itu bertiup angin Barat. Pada bulan Desember dan Maret sering terjadi badai yang cukup berbahaya bagi pelayaran.</p>
+<p style="text-align: justify;">
+	Kondisi perairan pulau ini jernih dengan ombak yang relatif tinggi sebagaimana karakteristik perairan pantai selatan Jawa. Arus di daerah perairan pulau ini tidak menentu walaupun cenderung berasal dari arah barat dan timur karena posisinya terletak perairan laut terbuka di Samudera Hindia. Tinggi gelombang rata-rata di daerah ini adalah 2-3 meter. Kadang-kadang tinggi gelombang dapat mencapai 5-6 meter bahkan lebih.</p>
+<p style="text-align: justify;">
+	Pantai di sepanjang Pulau Deli bentuknya berubah-ubah tergantung kekuatan ombak.&nbsp; Pada tempat yang sama terkadang keadaan pantainya landai dan cukup lebar, pada waktu lain menjadi curam dan sempit.&nbsp; Air laut cukup jernih sehingga dari permukaan dapat dilihat batu-batu karang yang keadaannya sudah mati.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="sp">Sarana dan Prasarana</a></h2>
+<p><div class="readmore"><p>
+	&nbsp;</p>
+<p>
+	Sarana dan prasarana penangkaran yang dimiliki oleh CV. Primates, baik yang berada di Pulau Deli adalah <em>Base Camp</em>, yang meliputi wisma tamu atau peneliti, 4 (empat) buah rumah penjaga, 1 (satu) buah laboratorium, 14 (empat belas) buah <em>feeding station</em>, 6 (enam) buah karantina, 11 (sebelas) buah sumur, 1 (satu) buah gudang suku cadang, 1 (satu) buah kolam air buatan, 1 (satu) buah menara, 1 (satu) buah unit bengkel, 2 (dua) buah kapal laut, dan 1 (satu) unit helipad. &nbsp;&nbsp;</p>
+</div></p>
+
+<hr>
+
+<h2><a id="pi">Peluang Investasi</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<h2><a id="pap">Potensi dan Arahan Pengembangan</a></h2>
+<p><div class="readmore"><p>
+	&nbsp;</p>
+<p style="text-align: justify;">
+	Pengembangan kawasan pulau kecil terluar yang tidak berpenduduk dapat dilakukan melalui kegiatan konservasi, wisata bahari, atau pengembangan laboratorium alam untuk penelitian dan pengembangan sumberdaya kelautan.</p>
+<p style="text-align: justify;">
+	Dalam Peraturan Daerah Jawa Barat No. 2 tahun 1996 tentang Pengelolaan Kawasan Lindung di Provinsi Jawa Barat, Pulau Deli ditetapkan sebagai kawasan pelestarian plasma nutfah eksitu.&nbsp; Perda tersebut ditindaklanjuti sengan SK Gubernur Jabar No. 17 tahun 1996 tentang Pemaduserasian Tata Guna Hutan dengan Rencana Tata Ruang Wilayah Provinsi daerah Tk. I Jawa Barat yang menetapkan kawasan Hutan Lindung Pulau Deli sebagai kawasan hutan konservasi.&nbsp; Bentuk kawasan konservasi yang sesuai untuk Kawasan Hutan Lindung Pulau Deli adalah cagar alam karena : Untuk melindungi sumber plasma nutfah yang ada di dalamnya, untuk melindungi tipe ekosistem hutan pantai dan hutan dataran rendah, untuk melindungi kawasan dari pengikisan pantai oleh angin dan air, untuk menghindarkan kawasan tersebut dari kemungkinan abrasi, lokasi yang cukup jauh dari pemukiman dapat mengurangi timbulnya gangguan keamanan pada kawasan, tidak ada satwa dilindungi undang-undang yang merupakan satwa khas kawasan.</p>
+<p style="text-align: justify;">
+	Jenis tumbuhan langka di kawasan ini yang memberi nilai tambah.&nbsp; Nilai tambah lain adalah lebih dari sepertiga jenis tumbuhan yang ada berkhasiat obat seperti yang sudah disebutkan sebelumnya.&nbsp; Di kawasan ini terdapat 4 jenis burung dan 2 jenis reptil yang dilindungi, satwa tersebut tidak dapat dikatakan satwa khas Pulau Deli, tetapi keberadaannya memberi nilai tambah pada kawasan ini.&nbsp; Keunikan, kelangkaan dan keanekaragaman jenis satwa dan tumbuhan di Pulau Deli dapat mendorong dibentuknya sarana pengembangan ilmu pengetahuan di pulau tersebut.</p>
+<p style="text-align: justify;">
+	Pantai dengan pasir putih di sepanjang pulau ini cukup menarik namun kerapuhan sumberdaya alam yang tinggi, yaitu kondisi pantai yang berubah-ubah serta kondisi terumbu karang yang mati mempengaruhi daya tarik dan keindahan alam di Pulau Deli.&nbsp;&nbsp; Penduduk di dua desa yang mempunyai akses termudah dan terdekat dengan kawasan pada umumnya keadaan sosial ekonominya tidak terlalu bagus, sehingga lokasi yang cukup jauh tersebut menjadi faktor penghambat bagi masyarakat sekitar untuk dapat berperan serta dalam kesempatan berusaha guna meningkatkan kesejahteraannnya.&nbsp; Hal ini berarti tidak dapat memenuhi salah satu tujuan pengelolaan wisata alam.</p>
+<p style="text-align: justify;">
+	Daya tarik lain dari pulau ini adalah adanya makam keramat, tetapi sampai saat ini tidak banyak orang yang tahu mengenai keberadaan makam tersebut dan bagaimana sejarahnya yang pasti. Adanya makam keramat tersebut memberi nilai tambah untuk pengembangan kawasan ini.</p>
+<p style="text-align: justify;">
+	Dari 950 ha Kawasan Hutan Lindung Pulau Deli yang digunakan/dikelola sebagai tempat penangkaran monyet ekor panjang baru mencapai &plusmn;50 ha atau sekitar 5,3%, sisanya masih berupa hutan yang utuh/asli kecuali lokasi yang digunakan untuk mendirikan gubuk-gubuk nelayan di pantai selatan dan utara dan jalan setapak yang menghubungkan. Di dalam pola pengelolaan kawasan cagar alam disebutkan bahwa kawasan cagar alam dapat dibagi menjadi blok inti dan blok rimba.&nbsp; CV Primates melakukan usaha penangkaran monyet di blok rimba (seluas &plusmn;100 ha) dan luas sisanya sebagai blok inti demi pelestarian sumberdaya alam hayati dan ekosistemnya.</p>
+<p style="text-align: justify;">
+	Pengembangan dan peningkatan kuantitas dan kualitas hasil penangkaran satwa monyet ekor panjang (<em>Macaca fascicularis</em>) di Pulau Deli perlu dilakukan, juga peningkatan dan pembinaan sumberdaya manusia yang ada, disamping pemasaran satwa ini ke negara-negara pemesan atau pemakai komoditi yang dihasilkan.</p>
+<p style="text-align: justify;">
+	Untuk mendukung upaya pengembangan Pulau Deli tersebut perlu dibangun sarana dan prasarana seperti darmaga dan tambatan kapal/perahu, pelindung pantai dari abrasi. Pemerintah perlu mulai membangun pulau tersebut untuk kepentingan ekonomi wilayahnya. Letaknya yang berbatasan&nbsp; dengan laut bebas menjadikan pulau ini sangat rawan terhadap ancaman Ipoleksosbudhankam, imigran gelap, penyelundupan serta&nbsp; pelanggaran batas wilayah.&nbsp; Perairan di sekitar pulau ini juga rawan terhadap pencurian ikan oleh nelayan asing. Sehingga Pemerintah Indonesia perlu&nbsp; membangun&nbsp; pos TNI di pulau ini.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="kp">Kendala Pengembangan</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<h2><a id="rf">Referensi</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<br />
+	<i> 
+		<p style="font-size:12px;">
+			Karena keterbatasan SDM dalam penginputan dan pengolahan data, kami mohon maaf atas ketidak lengkapan beberapa data pulau yang kami tampilkan, harap dimaklumi.
+			Berikan keritik dan saran pada kolom komentar agar kita dapat bersama menyajikan sebuah data yang cukup sempurna untuk halayak ramai yang berguna
+			demi kesejahterahan, kelestarian dan keindahan pulau-pulau kecil yang dimiliki Indonesia.<br />
+			*Jika sekiranya anda memiliki data yang cukup banyak, silakan mengirimkan file melalui email kami di <b><a>identifikasippk@gmail.com</a></b>
+			
+		</p>
+	</i>
+<br />
+
+<div id="fb_comn" class="fb-comments" data-href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_info/441" data-width="800" data-numposts="5" data-colorscheme="light"></div>
+
+
+</div>
+</div>
+</div>
+<div id="wrapper">
+
+<div class="footer"><p>
+<!--<marquee onmouseover="this.stop()" onmouseout="this.start()" scrollamount="5" direction="right" width="798" height="14"  behavior="scroll">-->
+<a href="http://www.ppk-kp3k.kkp.go.id/" target="_blank">Direktorat Pendayagunaan Pulau-Pulau Kecil &nbsp; | &nbsp;</a>
+<a href="http://www.kp3k.kkp.go.id/" target="_blank">Ditjen Kelautan, Pesisir dan Pulau-Pulau Kecil &nbsp; | &nbsp;</a>
+<a href="http://www.kkp.go.id/" target="_blank">Kementerian Kelautan dan Perikanan</a>
+<!--</marquee>--> <br />
+Jl. Medan Merdeka Timur No. 16 Gedung Mina Bahari 3 Lantai 10, Jakarta, Indonesia <br />
+Email : identifikasippk@gmail.com <br />
+Telp &amp; Fax: (021) 3522058 <br />
+&copy; Copyright Direktorat Pendayagunaan Pulau-Pulau Kecil 2012&nbsp; <br /></p>
+</div>
+</div>
+</body>
+</html>

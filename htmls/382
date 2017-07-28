@@ -1,0 +1,1186 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Pulau Merbau</title>
+
+<meta charset="utf-8"/>
+
+<meta property="fb:app_id" content="559408774147878" />
+
+
+<meta property="og:title" content="Pulau Merbau" />
+<meta property="og:url" content="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_info/382" />
+
+
+    <script type="text/javascript" src="http://ajax.microsoft.com/ajax/jquery/jquery-1.4.4.min.js">
+    </script>
+    
+    <script type="text/javascript" src="http://plugins.learningjquery.com/expander/jquery.expander.js">
+    </script>
+    
+    <script type="text/javascript">
+        $(function () {
+            $('div.readmore').expander({
+                slicePoint:200,
+                expandText: '(Baca selengkapnya)',
+                userCollapseText: '(Sembunyikan selengkapnya)'
+            });
+        });
+    </script>
+        
+	<script src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/galleria/galleria-1.2.8.min.js"></script>
+
+        <SCRIPT TYPE="text/javascript">
+            <!--
+            //Disable right click script
+            //visit http://www.rainbow.arch.scriptmania.com/scripts/
+            var message="Sorry, right-click has been disabled";
+            ///////////////////////////////////
+            function clickIE() {if (document.all) {(message);return false;}}
+            function clickNS(e) {if
+            (document.layers||(document.getElementById&&!document.all)) {
+            if (e.which==2||e.which==3) {(message);return false;}}}
+            if (document.layers)
+            {document.captureEvents(Event.MOUSEDOWN);document.onmousedown=clickNS;}
+            else{document.onmouseup=clickNS;document.oncontextmenu=clickIE;}
+            document.oncontextmenu=new Function("return false")
+            // -->
+            </SCRIPT>
+            
+            <SCRIPT TYPE="text/javascript">
+            <!--
+            //Disable select-text script (IE4+, NS6+)
+            //visit http://www.rainbow.arch.scriptmania.com/scripts/
+            ///////////////////////////////////
+            function disableselect(e){
+            return false
+            }
+            function reEnable(){
+            return true
+            }
+            //if IE4+
+            document.onselectstart=new Function ("return false")
+            //if NS6
+            if (window.sidebar){
+            document.onmousedown=disableselect
+            document.onclick=reEnable
+            }
+            // -->
+            </SCRIPT>  
+              
+<link rel="stylesheet" type="text/css" href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/css/main.css" media="screen"/>
+<style type='text/css'>
+#info_wrap{
+	width:820px;
+	margin:0 auto;
+	text-shadow:0px 1px 1px #09F;
+}
+table{
+	color:#000000;
+}
+h1{
+	color:#000000;
+}
+.tengahin{
+	width: 105px;
+	height: 30px;
+	margin: 0 auto auto auto;
+}
+#box_view{
+	background-image:-webkit-gradient(linear, 0 0%, 0 100%, from(#FFFFFF), to(#E0F0F5));
+	background:#FFF;
+	color:#F60;
+	border: 1px solid #fff;
+	border-radius: 4px 4px 4px 4px;
+	box-shadow: 0 8px 6px -6px black;
+	position:fixed;
+	right:0;
+	top:150px;;
+	width:80px;
+	z-index:10;
+	padding-left:12px;
+	font-size:10px;
+	}
+#box_view li{
+	color:#F60;
+	margin-left:-30px;
+	}
+	#wrapper a b {
+	color: #FFF;
+	font-size:14px;
+}
+.batas{
+	float:left;
+	border-right-style:inset;
+	border-right-width:thin;
+	}
+.text_h_wrap{
+	
+	padding-left:450px;
+	padding-top:39px;
+	text-shadow:0px 1px 1px #09F;
+	}
+#wrapper .footer p{
+	font-size:12px;
+	color: #FFF;
+	text-align:center;
+	text-shadow:0px 1px 1px #09F;
+}
+td,th {
+	font-size: 12px;
+}
+
+marquee a{
+	color:#FFF
+	}
+#wrapper .footer a{
+	color: #FFFFFF;
+}
+</style>
+            
+<script>
+function goBack()
+  {
+  window.history.back()
+  }
+</script>
+<script type="text/javascript">
+function Popup( url, height, width )
+{
+    var windowProperties = "toolbar = 0, scrollbars = 1, location = 0, statusbar = 0, menubar = 0, resizable = 1, width = " + width + ", height = " + height + ", left = 50, top = 50";
+ 
+    return window.open( url, "", windowProperties );
+}
+</script>
+
+
+
+</head>
+<body oncontextmenu='return false;' onkeydown='return false;' onmousedown='return false;'>
+
+<a id="top_view"></a>
+<div id="wrapper">
+<div class="header_wrap">
+<div class="text_h_wrap">
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/home_page'><b>&nbsp;Home&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/menu_info/1'><b>&nbsp;About Us&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_data'><b>&nbsp;Direktori Pulau&nbsp;&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/program_ip'><b>&nbsp;IKU&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/data_ppkt'><b>&nbsp;PPKT&nbsp;</b></a>
+</div>
+<!--<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/maintenance'><b>&nbsp;Login&nbsp;</b></a>-->
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/dir_log_cont'><b>&nbsp;Login&nbsp;</b></a>
+
+</div>
+</div>
+</div>
+
+<div id="fb-root"></div>
+<script>
+  window.fbAsyncInit = function() {
+    // init the FB JS SDK
+    FB.init({
+      appId      : '559408774147878',                        // App ID from the app dashboard
+      status     : true,                                 // Check Facebook Login status
+      xfbml      : true                                  // Look for social plugins on the page
+    });
+
+    // Additional initialization code such as adding Event Listeners goes here
+  };
+
+  // Load the SDK asynchronously
+  (function(){
+     // If we've already installed the SDK, we're done
+     if (document.getElementById('facebook-jssdk')) {return;}
+
+     // Get the first script element, which we'll use to find the parent node
+     var firstScriptElement = document.getElementsByTagName('script')[0];
+
+     // Create a new script element and set its id
+     var facebookJS = document.createElement('script'); 
+     facebookJS.id = 'facebook-jssdk';
+
+     // Set the new script's source to the source of the Facebook JS SDK
+     facebookJS.src = '//connect.facebook.net/en_US/all.js';
+
+     // Insert the Facebook JS SDK into the DOM
+     firstScriptElement.parentNode.insertBefore(facebookJS, firstScriptElement);
+   }());
+</script>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=559408774147878";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="box_view">
+    <a href="#top_view">MENU</a>
+    <h3><p>Lihat Informasi:</p></h3>
+    <ul>
+	<a href="#sf"><li>Slide Foto</li></a>
+    <a href="#gu"><li>Gambaran Umum</li></a>
+    <a href="#ksbk"><li>Kependudukan, Sosial Budaya dan Kelembagaan</li></a>
+    <a href="#eshp"><li>Ekosistem dan Sumberdaya Hayati</li></a>
+    <a href="#snh"><li>Sumberdaya Non Hayati</li></a>
+    <a href="#aps"><li>Aktivitas Pengelolaan Sumberdaya</li></a>
+    <a href="#ling"><li>Lingkungan</li></a>
+    <a href="#sp"><li>Sarana dan Prasarana</li></a>
+    <a href="#pi"><li>Peluang Investasi</li></a>
+    <a href="#pap"><li>Potensi Arahan Pengembangan</li></a>
+    <a href="#kp"><li>Kendala Pengembangan</li></a>
+	<a href="#rf"><li>Referensi</li></a>
+    </ul>
+    <a href="#fb_comn">KOMENTAR</a>
+</div>
+
+<br>
+			<a id="sf"></a></h2>
+			<div id="galleria">
+            <!--<div class='tengahin'><input type="button" value="Kembali Ke List" onclick="goBack()"></div>-->
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/3990-img_5833.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__3990-img_5833.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/eae2-_dsc1152.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__eae2-_dsc1152.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/d262-_dsc1133.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__d262-_dsc1133.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/e454-145_0130.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__e454-145_0130.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/0f15-145_0161.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__0f15-145_0161.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/88f6-img_0103.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__88f6-img_0103.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/57a7-img_0115.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__57a7-img_0115.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/8268-img_5775.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__8268-img_5775.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/9a98-img_5784.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__9a98-img_5784.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/0299-img_5788.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__0299-img_5788.jpg" data-description=""></a></p>
+                            </div>
+            
+            <script>
+            Galleria.loadTheme('http://www.ppk-kp3k.kkp.go.id/direktori-pulau/galleria/themes/classic/galleria.classic.min.js');
+            Galleria.run('#galleria');
+            </script>
+</div>
+
+<div id="text_warp">
+
+
+<p><h1>Merbau</h1></p>
+<table>
+<tr>
+	<td>Nama Lain</td> <td>:</td> <td></td>
+</tr>
+<tr>
+	<td>Propinsi</td> <td>:</td> <td>RIAU</td>
+</tr>
+<tr>
+	<td>Kabupaten</td> <td>:</td> <td>KABUPATEN KEPULAUAN MERANTI</td>
+</tr>
+<tr>
+	<td>Kecamatan</td> <td>:</td> <td>Merbau</td>
+</tr>
+<tr>
+	<td>Koordinat</td> <td>:</td> <td><a href="http://www.ppk-kp3k.kkp.go.id/giskkp/index.html?extent="target="_blank"><p>
+	01<sup>0</sup> 02&#39; 45.72&quot; LU dan 102<sup>0</sup> 31&#39; 56.44&quot; BT</p>
+</a></td>
+</tr>
+</table>
+<hr>
+
+<h2><a id="gu">Gambaran Umum</a></h2>
+<p><div class="readmore"><p>
+	Pulau Merbau merupakan pulau yang masih alami dan belum banyak mendapat tekanan dari manusia. Pulau dengan lahan bergambut ini memiliki letak yang sangat setrategi baik untuk Kabupaten Meranti maupun Provinsi Riau. Secara administrasi, Pulau Merbau merupakan satu kesatuan kecamatan baru yaitu Kecamatan Pulau Merbau yang memiliki 7 desa, diantaranya Desa Pelantai, Teluk Ketapang, Semukut, Centai, Renak Dungun, Kuala Merbau dan Baran Melintang.</p>
+<p>
+	Berdasarkan cerita dari masyarakat, pulau dengan luas 362 km<sup>2</sup> ini memiliki asal-usul yang unik terkait dengan namanya. Merbau diyakini berasal dari berhasilnya masyarakat merebut pulau ini dari tangan Belanda, karena kemenangan tersebut masyarakat mengadakan pesta dengan menyembelih kerbau, jadilah nama pulau ini menjadi Pulau Merbau.</p>
+<p>
+	Pulau Merbau memiliki morfologi pantai yang sangat landai. Ekosistem pantai didominasi oleh ekosistem mangrove yang cukup lebat. Bisa dikatakan keseluruhan pantai di Pulau Merbau adalah ekosistem mangrove, sehingga jenis tanah pantainya umumnya berlumpur dan hasil sedimentasi.</p>
+<p>
+	Untuk menuju P. Merbau sangat banyak alternatif tempat dengan menggunakan perahu motor atau kapal baik dari Kecamatan Merbau, Kecamatan Tebing Tinggi, Kecamatan Tebing Tinggi Barat, Kecamatan Rangsang, Kecamatan Rangsang Barat, Kecamatan Bengkalis dan Buton. Bahkan terhubung juga dengan pesisir barat Malaysia.</p>
+<p>
+	Kondisi perairan laut P. Merbau sangat tenang dan terlindung, terutama di bagian tenggara, selatan, barat, barat daya dan sebagian wilayah utara. Sedangkan wilayah timur kurang terlindung karena berhadapan langsung dengan selat malaka dan tidak ada pulau pelindung didepannya.</p>
+<p>
+	Secara garis besar kondisi perairannya tergolong perairan selat yang bisa dikelompokkan menjadi 2, yaitu selat kecil dan selat besar/lebar. Pada selat kecil disisi selatan, barat dan utara, kondisinya perairannya dangkal (&lt;20 m) dan keruh, banyak sedimentasi dan sepanjang pantainya ditumbuhi mangrove yang cukup lebat. Sedangkan di bagian timur kondisi perairannya cukup jernih (pengaruh sedimentasi mulai berkurang, hanya ada pengaruh air gambut dan sirkulasi air cukup baik), sedikit bergelombang dan memiliki kedalaman berkisar 20-40 m, serta dengan kondisi pantai yang landai (<em>shallowwater</em> cukup jauh).</p>
+<p>
+	Pulau Merbau memiliki aliran-aliran sungai kecil dan air tanah yang dimanfaatkan oleh masyarakat untuk kebutuhan sehari-hari non konsumsi dan perkebunan. Tetapi kualitas airnya kurang baik dan berwarna merah karena dipengaruhi oleh gambut, sehingga oleh masyarakat disebut sebagai air merah yang bersifat asam atau payau. Air-air tersebut berasal dari resapan air hujan.</p>
+<p>
+	Sumber air yang dimanfaatkan penduduk untuk kebutuhan sehari-hari adalah air hujan. Air hujan dianggap lebih baik kualitasnya dan lebih sehat dibanding air merah, baik untuk mandi dan mencuci dengan menampung menyimpan air hujan. Sedangkan untuk kebutuhan konsumsi, masyarakat menggunakan air galon.</p>
+<p>
+	Kondisi topografi Pulau Merbau sangat landai dengan tingkat kemiringan antar 0-10%. Sedangkan ketinggian dari permukaan air laut hanya berkisar 5-7 mdpl (RTRW Kab. Meranti 2010).</p>
+<p>
+	Berdasarkan jenis tanah yaitu lempung, lanau, kerikil licin, kerikil lempungan, sisa-sisa tumbuhan, rawa gambut karang, Pulau &nbsp;Merbau tergolong pulau aluvial.</p>
+<p>
+	Penggunaan lahan pulau di P. Merbau banyak digunakan untuk area perkebunan, seperti karet, kelapa dan sagu. Untuk di bagian pesisir banyak menjadi area ekosistem mangrove yang masih sangat baik dan tebal. Selebihnya adalah lahan pemukiman, semak belukar dan lahan terbuka.</p>
+<p>
+	Pulau Merbau memiliki morfologi pantai yang sangat landai. Ekosistem pantai didominasi oleh ekosistem mangroveyang cukup lebat. Bisa dikatakan keseluruhan pantai di P. Merbau adalah ekosistem mangrove, sehingga jenis tanah pantainya umumnya berlumpur dan hasil sedimentasi.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="ksbk">Kependudukan, Sosial Budaya dan Kelembagaan</a></h2>
+<p><div class="readmore"><p>
+	Pulau Merbau memiliki penduduk sebanyak 15.309 jiwa yang tersebar secara merata di 7 desa yang terdiri dari laki-laki 7.813 jiwa dan perempuan 7.496 jiwa dengan kepadatan 42 jiwa/km<sup>2</sup>. Dibandingkan dengan luas pulau, maka tingkat kepadatan penduduk 2,36 jiwa/m<sup>2</sup>. Desa yang memiliki penduduk terbanyak adalah Desa Centai (2.658 jiwa), sedangkan yang terpadat adalah Desa Kuala Merbau (86 jiwa/km<sup>2</sup>).</p>
+<p>
+	Dari jumlah penduduk tersebut, Pulau Merbau terbagi dalam 4.008 kepala keluarga dengan jumlah rata-rata 4 orang per KK. Penduduk Pulau Merbau mayoritas memeluk agama Islam, disusul dengan Nasrani dan Kong Hu Cu. Sehingga dibeberapa tempat terlihat beberapa tempat peribadatan dari agama yang ada di Pulau Padang, seperti Mesjid, Musholla, Gereja dan Wihara.</p>
+<p>
+	Masyarakat Pulau Merbau mayoritas bersuku bangsa Melayu sehingga adat-istiadat dan bahasa didominasi oleh pengaruh Melayu, meskipun terdapat suku Cina, Jawa, dll. Suku selain Melayu umumnya merupakan masyarakat keturunan, yang dibawa oleh kakek dan nenek mereka sehingga mereka sudah sangat beradaptasi dan bermasyarakat dengan penduduk asli disana.</p>
+<p>
+	Model dari perkebunan yang ada adalah jalur. Dalam 7 jalur memiliki luas kebun kurang lebih 3 ha, dan dalam 1 KK memiliki lahan garapan sampai 30 jalur. Aktivitas panen dimulai dari jam 06.00 WIB dengan hasil panen antara 500-1.000 kg/bulan. Hasil panen masyarakat umumnya di jual pada agen ke Kota Alai Kecamatan Tebing barat. Harga jual karet adalah Rp11.200,-/kg.</p>
+<p>
+	Sedangkan untuk sektor perikanan, jenis ikan yang ditangkap oleh masyarakat adalah ikan baong dan udang-udangan, tetapi jenis ikan yang ditarget dan dijual umumnya ikan baong. Biasanya masyarakat menangkap ikan pada antara bulan 5-8 (pada musim hujan). Hasil tangkapan masyarakat dijual ke pasar lokal dan desa dengan harga berkisar antara Rp10.000,--Rp25.000,-/kg, tergantung ukuran ikannya. Untuk ukuran ikan kecil (1 kg = 12 ekor) harganya Rp10.000,-, ukuran ikan sedang (1 kg = 5-7 ekor) harganya Rp18.000,- dan ukuran besar (1 kg = 3-4 ekor) harganya Rp25.000,-.</p>
+<p>
+	Dalam mendukung perekonomian masyarakat, di P. Merbau terdapat 3 koperasi unit desa (KUD). Lokasi koperasi tersebut 1 berada di Desa Centai dan 2 berada di Desa Kuala Merbau. Tetapi sayangnya keberadaan lembaga ini belum bisa dimanfaatkan secara maksimal oleh masyarakat, hal ini terbukti dengan sedikitnya jumlah anggota yang bergabung pada ketiga koperasi yang ada, yaitu 91 anggota dengan jumlah simpanan Rp25.000.000,- (Kecamatan Merbau Dalam Angka 2010). Selain koperasi, ditemui juga kelembagaan ekonomi di masyarakat, tepatnya di Desa Semukut yaitu Usaha Ekonomi Desa &ndash; Simpan Pinjam (UED &ndash; SP) &ldquo;Setia Jaya&rdquo;. Menurut informasi lembaga ini sudah berjalan cukup baik dan banyak dimanfaatkan oleh masyarakat.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="eshp">Ekosistem dan Sumberdaya Hayati</a></h2>
+<p><div class="readmore"><p>
+	<strong>Terumbu Karang</strong></p>
+<p>
+	Hasil pengamatan Survei lapang dengan metode <em>ground check</em> tidak ditemukan berbagai jenis ikan karang, hal ini disebabkan kondisi lingkungan perairan yang tidak mendukung untuk hidupnya ekosistem terumbu karang, seperti kondisi perairan dengan tingkat kecerahan 0 % serta kondisi substrat dasar perairan yang didominasi oleh lumpur menyebabkan tidak ditemukannya ekosistem terumbu karang.</p>
+<p>
+	Bentuk-bentuk ancaman tersebut diduga merupakan penyebab tidak ditemukannya komunitas ikan karang yang keberadaanya sangat erat dengan ekosistem terumbu karang&nbsp; pada saat dilakukannya kegiatan survei lapang di Pulau Merbau.</p>
+<table align="right" border="1" cellpadding="0" cellspacing="0" height="211" width="742">
+	<tbody>
+		<tr>
+			<td style="width:292px;height:20px;">
+				<p>
+					<strong>Ancaman dari alam</strong></p>
+			</td>
+			<td style="width:284px;height:20px;">
+				<p>
+					<strong>Ancaman dari manusia</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td rowspan="4" style="width:292px;height:27px;">
+				<p>
+					Sirkulasi perairan</p>
+			</td>
+			<td style="width:284px;height:27px;">
+				<p>
+					Sedimentasi yang tinggi akibat masukan dari aliran sungai</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:284px;height:27px;">
+				<p>
+					Tingak kecerahan perairan yang buruk</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:284px;height:27px;">
+				<p>
+					Limbah buangan dari pabrik</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:284px;height:27px;">
+				<p>
+					Sampah daratan dan pulau pulau disekitarnya</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<div style="clear:both;">
+	&nbsp;</div>
+<p>
+	<strong>Mangrove</strong></p>
+<p>
+	Bagi masyarakat pesisir Pulau Merbau dan Pulau Padang mangrovepun memiliki arti yang sangat penting mengingat posisi kedua pulau tersebut berada di sisi terluar yang berbatasan dengan Selat Malaka serta memiliki banyak sungai yang dalam. Hal ini menyebabkan kapal atau perahu bermotor menjadi alat transportasi yang sangat penting, namun juga menjadi ancaman bagi wilayah perlintasan kapal atau perahu tersebut. Lintasan kapal atau perahu bermotor tersebut menyebabkan timbulnya ombak atau gelombang yang cukup kuat sehingga menyebabkan abrasi. Keberadaan mangrove sangat penting mengingat perakaran mangrove yang dapat menstabilkan substrat.</p>
+<p>
+	Pulau Merbau dan Pulau Padang memiliki mangrove di hampir sepanjang pantainya. Pulau Merbau memiliki 5 jenis mangrove dari dua titik pengamatan, yaitu <em>Avicenia alba</em> (Aa) , <em>Rhizopora apiculata</em> (Ra), <em>Rhizopora mucronata</em> (Rm), <em>Sonneratia alba</em> (Sa),&nbsp; dan <em>Sonneratia marina</em> (Sm).</p>
+<p align="center">
+	Tabel Mangrove yang ditemukan di Pulau Merbau</p>
+<table border="0" cellpadding="0" cellspacing="0" style="width:554px;" width="554">
+	<thead>
+		<tr>
+			<th nowrap="nowrap" rowspan="2" style="width:29px;height:20px;">
+				<p>
+					No</p>
+			</th>
+			<th nowrap="nowrap" rowspan="2" style="width:74px;height:20px;">
+				<p>
+					Geografis</p>
+			</th>
+			<th colspan="3" nowrap="nowrap" style="width:160px;height:20px;">
+				<p>
+					Pohon</p>
+			</th>
+			<th colspan="3" nowrap="nowrap" style="width:145px;height:20px;">
+				<p>
+					Anakan</p>
+			</th>
+			<th colspan="3" nowrap="nowrap" style="width:145px;height:20px;">
+				<p>
+					Semai</p>
+			</th>
+		</tr>
+		<tr>
+			<th nowrap="nowrap" style="width:54px;height:20px;">
+				<p>
+					Jenis</p>
+			</th>
+			<th nowrap="nowrap" style="width:72px;height:20px;">
+				<p>
+					Jumlah/plot</p>
+			</th>
+			<th nowrap="nowrap" style="width:34px;height:20px;">
+				<p>
+					INP</p>
+			</th>
+			<th nowrap="nowrap" style="width:39px;height:20px;">
+				<p>
+					Jenis</p>
+			</th>
+			<th nowrap="nowrap" style="width:72px;height:20px;">
+				<p>
+					Jumlah/plot</p>
+			</th>
+			<th nowrap="nowrap" style="width:34px;height:20px;">
+				<p>
+					INP</p>
+			</th>
+			<th nowrap="nowrap" style="width:39px;height:20px;">
+				<p>
+					Jenis</p>
+			</th>
+			<th nowrap="nowrap" style="width:72px;height:20px;">
+				<p>
+					Jumlah/plot</p>
+			</th>
+			<th nowrap="nowrap" style="width:34px;height:20px;">
+				<p>
+					INP</p>
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td nowrap="nowrap" rowspan="4" style="width:29px;height:20px;">
+				<p>
+					1</p>
+			</td>
+			<td nowrap="nowrap" rowspan="4" style="width:74px;height:20px;">
+				<p>
+					Waypoint 231</p>
+			</td>
+			<td nowrap="nowrap" style="width:54px;height:20px;">
+				<p>
+					Ra</p>
+			</td>
+			<td nowrap="nowrap" style="width:72px;height:20px;">
+				<p>
+					12</p>
+			</td>
+			<td nowrap="nowrap" style="width:34px;height:20px;">
+				<p>
+					132</p>
+			</td>
+			<td nowrap="nowrap" style="width:39px;height:20px;">
+				<p>
+					Ra</p>
+			</td>
+			<td nowrap="nowrap" style="width:72px;height:20px;">
+				<p>
+					2</p>
+			</td>
+			<td nowrap="nowrap" style="width:34px;height:20px;">
+				<p>
+					50</p>
+			</td>
+			<td nowrap="nowrap" style="width:39px;height:20px;">
+				<p>
+					Ra</p>
+			</td>
+			<td nowrap="nowrap" style="width:72px;height:20px;">
+				<p>
+					-</p>
+			</td>
+			<td nowrap="nowrap" style="width:34px;height:20px;">
+				<p>
+					-</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="width:54px;height:20px;">
+				<p>
+					Rm</p>
+			</td>
+			<td nowrap="nowrap" style="width:72px;height:20px;">
+				<p>
+					9</p>
+			</td>
+			<td nowrap="nowrap" style="width:34px;height:20px;">
+				<p>
+					99</p>
+			</td>
+			<td nowrap="nowrap" style="width:39px;height:20px;">
+				<p>
+					Rm</p>
+			</td>
+			<td nowrap="nowrap" style="width:72px;height:20px;">
+				<p>
+					4</p>
+			</td>
+			<td nowrap="nowrap" style="width:34px;height:20px;">
+				<p>
+					75</p>
+			</td>
+			<td nowrap="nowrap" style="width:39px;height:20px;">
+				<p>
+					Rm</p>
+			</td>
+			<td nowrap="nowrap" style="width:72px;height:20px;">
+				<p>
+					2</p>
+			</td>
+			<td nowrap="nowrap" style="width:34px;height:20px;">
+				<p>
+					83</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="width:54px;height:20px;">
+				<p>
+					Sa</p>
+			</td>
+			<td nowrap="nowrap" style="width:72px;height:20px;">
+				<p>
+					-</p>
+			</td>
+			<td nowrap="nowrap" style="width:34px;height:20px;">
+				<p>
+					-</p>
+			</td>
+			<td nowrap="nowrap" style="width:39px;height:20px;">
+				<p>
+					Sa</p>
+			</td>
+			<td nowrap="nowrap" style="width:72px;height:20px;">
+				<p>
+					1</p>
+			</td>
+			<td nowrap="nowrap" style="width:34px;height:20px;">
+				<p>
+					38</p>
+			</td>
+			<td nowrap="nowrap" style="width:39px;height:20px;">
+				<p>
+					Sa</p>
+			</td>
+			<td nowrap="nowrap" style="width:72px;height:20px;">
+				<p>
+					1</p>
+			</td>
+			<td nowrap="nowrap" style="width:34px;height:20px;">
+				<p>
+					58</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="width:54px;height:20px;">
+				<p>
+					Sc</p>
+			</td>
+			<td nowrap="nowrap" style="width:72px;height:20px;">
+				<p>
+					3</p>
+			</td>
+			<td nowrap="nowrap" style="width:34px;height:20px;">
+				<p>
+					69</p>
+			</td>
+			<td nowrap="nowrap" style="width:39px;height:20px;">
+				<p>
+					Sc</p>
+			</td>
+			<td nowrap="nowrap" style="width:72px;height:20px;">
+				<p>
+					1</p>
+			</td>
+			<td nowrap="nowrap" style="width:34px;height:20px;">
+				<p>
+					38</p>
+			</td>
+			<td nowrap="nowrap" style="width:39px;height:20px;">
+				<p>
+					Sc</p>
+			</td>
+			<td nowrap="nowrap" style="width:72px;height:20px;">
+				<p>
+					1</p>
+			</td>
+			<td nowrap="nowrap" style="width:34px;height:20px;">
+				<p>
+					58</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" rowspan="5" style="width:29px;height:20px;">
+				<p>
+					2</p>
+			</td>
+			<td nowrap="nowrap" rowspan="5" style="width:74px;height:20px;">
+				<p>
+					Waypoint 232</p>
+			</td>
+			<td nowrap="nowrap" style="width:54px;height:20px;">
+				<p>
+					Aa</p>
+			</td>
+			<td nowrap="nowrap" style="width:72px;height:20px;">
+				<p>
+					6</p>
+			</td>
+			<td nowrap="nowrap" style="width:34px;height:20px;">
+				<p>
+					95</p>
+			</td>
+			<td nowrap="nowrap" style="width:39px;height:20px;">
+				<p>
+					Aa</p>
+			</td>
+			<td nowrap="nowrap" style="width:72px;height:20px;">
+				<p>
+					2</p>
+			</td>
+			<td nowrap="nowrap" style="width:34px;height:20px;">
+				<p>
+					54</p>
+			</td>
+			<td nowrap="nowrap" style="width:39px;height:20px;">
+				<p>
+					Aa</p>
+			</td>
+			<td nowrap="nowrap" style="width:72px;height:20px;">
+				<p>
+					1</p>
+			</td>
+			<td nowrap="nowrap" style="width:34px;height:20px;">
+				<p>
+					67</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="width:54px;height:20px;">
+				<p>
+					Ra</p>
+			</td>
+			<td nowrap="nowrap" style="width:72px;height:20px;">
+				<p>
+					-</p>
+			</td>
+			<td nowrap="nowrap" style="width:34px;height:20px;">
+				<p>
+					-</p>
+			</td>
+			<td nowrap="nowrap" style="width:39px;height:20px;">
+				<p>
+					Ra</p>
+			</td>
+			<td nowrap="nowrap" style="width:72px;height:20px;">
+				<p>
+					1</p>
+			</td>
+			<td nowrap="nowrap" style="width:34px;height:20px;">
+				<p>
+					39</p>
+			</td>
+			<td nowrap="nowrap" style="width:39px;height:20px;">
+				<p>
+					Ra</p>
+			</td>
+			<td nowrap="nowrap" style="width:72px;height:20px;">
+				<p>
+					-</p>
+			</td>
+			<td nowrap="nowrap" style="width:34px;height:20px;">
+				<p>
+					-</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="width:54px;height:20px;">
+				<p>
+					Rm</p>
+			</td>
+			<td nowrap="nowrap" style="width:72px;height:20px;">
+				<p>
+					7</p>
+			</td>
+			<td nowrap="nowrap" style="width:34px;height:20px;">
+				<p>
+					74</p>
+			</td>
+			<td nowrap="nowrap" style="width:39px;height:20px;">
+				<p>
+					Rm</p>
+			</td>
+			<td nowrap="nowrap" style="width:72px;height:20px;">
+				<p>
+					3</p>
+			</td>
+			<td nowrap="nowrap" style="width:34px;height:20px;">
+				<p>
+					68</p>
+			</td>
+			<td nowrap="nowrap" style="width:39px;height:20px;">
+				<p>
+					Rm</p>
+			</td>
+			<td nowrap="nowrap" style="width:72px;height:20px;">
+				<p>
+					-</p>
+			</td>
+			<td nowrap="nowrap" style="width:34px;height:20px;">
+				<p>
+					-</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="width:54px;height:20px;">
+				<p>
+					Sa</p>
+			</td>
+			<td nowrap="nowrap" style="width:72px;height:20px;">
+				<p>
+					3</p>
+			</td>
+			<td nowrap="nowrap" style="width:34px;height:20px;">
+				<p>
+					82</p>
+			</td>
+			<td nowrap="nowrap" style="width:39px;height:20px;">
+				<p>
+					Sa</p>
+			</td>
+			<td nowrap="nowrap" style="width:72px;height:20px;">
+				<p>
+					-</p>
+			</td>
+			<td nowrap="nowrap" style="width:34px;height:20px;">
+				<p>
+					-</p>
+			</td>
+			<td nowrap="nowrap" style="width:39px;height:20px;">
+				<p>
+					Sa</p>
+			</td>
+			<td nowrap="nowrap" style="width:72px;height:20px;">
+				<p>
+					1</p>
+			</td>
+			<td nowrap="nowrap" style="width:34px;height:20px;">
+				<p>
+					67</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="width:54px;height:20px;">
+				<p>
+					Sc</p>
+			</td>
+			<td nowrap="nowrap" style="width:72px;height:20px;">
+				<p>
+					2</p>
+			</td>
+			<td nowrap="nowrap" style="width:34px;height:20px;">
+				<p>
+					49</p>
+			</td>
+			<td nowrap="nowrap" style="width:39px;height:20px;">
+				<p>
+					Sc</p>
+			</td>
+			<td nowrap="nowrap" style="width:72px;height:20px;">
+				<p>
+					1</p>
+			</td>
+			<td nowrap="nowrap" style="width:34px;height:20px;">
+				<p>
+					39</p>
+			</td>
+			<td nowrap="nowrap" style="width:39px;height:20px;">
+				<p>
+					Sc</p>
+			</td>
+			<td nowrap="nowrap" style="width:72px;height:20px;">
+				<p>
+					1</p>
+			</td>
+			<td nowrap="nowrap" style="width:34px;height:20px;">
+				<p>
+					67</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<p>
+	&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>
+	Pulau Merbau yang merupakan pulau terluar yang berbatasan dengan Negara tetangga Malaysia memiliki lima jenis mangrove dan Tabel menunjukkan bahwa <em>Rhizopora</em> <em>apiculata</em> mendominasi pada titik pengamatan pertama.&nbsp; Hal ini dikarenakan mangrove jenis <em>Rhizopora</em> ditanam oleh pihak PHP. Tabel juga menunjukkan adanya mangrove jenis <em>Avicenia alba</em> (Aa), <em>Sonneratia alba</em> (Sa),&nbsp; dan <em>Sonneratia marina</em> (Sm) yang jumlah total ketiganya melebihi jumlah mangrove jenis <em>Rhizopora</em> <em>mucronata</em> pada titik pengamatan dua.&nbsp; Hal ini dikarenakan titik pengamatan dua berada di tepi sungai kecil yang menjadi saluran masuknya air laut ke darat, sehingga ketiga jenis mangrove ini memiliki jumlah yang lebih banyak karena pada umumnya jenis mangrove ini terletak di tepi zonasi komunitas mangrove yang paling sering tergenang air laut dengan perakaran cakar ayam yang meniliki lentisel untuk memudahkan menyerap oksigen dari udara.</p>
+<p>
+	Indeks Nilai Penting (INP) mangrove kategori pohon di Pulau Merbau pada Tabel menunujukkan bahwa <em>Rhizopora</em> <em>apiculata</em> masih memiliki peran yang lebih besar secara ekologis di titik pengamatan pertama yang terletak di sebelah dalam, sedangkan pada titik pengamatan kedua yang terletak di pinggir komunitas menunjukkan bahwa INP paling besar dimiliki oleh <em>Avicenia alba</em> (Aa) yang berarti mangrove jenis ini memiliki peran yang lebih besar secara ekologis di area ini. Berbeda halnya dengan pohon, kategori anakan mangrove <em>Rhizopora mucronata</em> (Rm) memiliki INP paling tinggi baik di titik pengamatan pertama ataupun kedua.&nbsp; Mangrove jenis ini juga memiliki INP paling tinggi untuk kategori semai pada titik pengamatan pertama, namun untuk titik pengamatan kedua INP yang dimiliki semaian mangrove <em>Sonneratia alba</em> (Sa)&nbsp; dan <em>Sonneratia marina</em> (Sm) sama rata.</p>
+<p style="margin-left:14.2pt;">
+	Ekosistem mangrove Pulau Merbau dan Padang yang memiliki luasan cukup besar menyimpan banyak potensi untuk dimanfaatkan. Adapun potensi yang dapat dimanfaatkan dari ekosistem mangrove tersebut antara lain :</p>
+<ul>
+	<li>
+		Kayu mangrove untuk bangunan, perahu serta arang</li>
+	<li>
+		Buah mangrove untuk dikonsumsi</li>
+	<li>
+		Substrat mangrove untuk budidaya</li>
+	<li>
+		Ekowisata mangrove</li>
+	<li>
+		Penahan gelombang</li>
+</ul>
+<p>
+	Pemerintah daerah maupun kelompok masyarakat telah melakaukan beberapa hal yang dapat meningkatkan potensi mangrove serta mengurangi ancaman yang timbul pada ekosistem mangrove di Pulau Merbau dan Padang.&nbsp; Beberapa papan larangan menebang mangrove serta peringatan akan pentingny mangrove bagi keberlangsungan hidup manusia telah dipasang di beberapa titik strategis yang mudah terlihat oleh masyarakat. Persatuan ibu-ibu PKK juga telah beberapa kali mengadakan pelatihan tentang pengolahan buah mangrove kepada masyarakat untuk memperluas serta berbagi ilmu dengan masyarakat kedua pulau tersebut.&nbsp; Tidak lupa pula kelompok masyarakat baik independen ataupun akademisi yang melakukan penanaman mangrove di pesisir pantai untuk memperbaiki mangrove yang telah rusak, bahkan walau telah berkali-kali gagal mereka tidak menyerah dan menyudahi kegiatan penanaman mangrove.&nbsp; Sikap pantang menyerah seperti itulah yang patut kita contoh.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="snh">Sumberdaya Non Hayati</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<h2><a id="aps">Aktivitas Pengelolaan Sumberdaya</a></h2>
+<p><div class="readmore"><p>
+	<strong>Perikanan</strong></p>
+<p>
+	Berdasarkan data BPS tahun 2010, jumlah produksi perikanan tangkap mencapai 3.398 ton. Produksi tersebut dihasilkan dari 221 rumah tangga perikanan laut. Tetapi jumlah produksi tersebut tidak dari semua desa, terdapat 1 desa yang masyarakatnya tidak intensif melakukan penangkapan ikan atau aktivitas penangkapannya ikut dengan masyarakat di desa lain,&nbsp; yaitu Desa RenakDungun (Kecamatan Merbau Dalam Angka 2010).</p>
+<p>
+	Sarana prasarana perikanan tangkap masih belum ada. Pelabuhan perikanan yang digunakan oleh masyarakat adalah pelabuhan umum yang juga digunakan untuk transportasi laut dan distribusi barang, hal ini karena P. Merbau baru menjadi kecamatan sendiri yaitu Kecamatan Pulau Merbau, terpisah dari Kecamatan Merbau. Jadi sarana prasarana perikanan masih terfokus di pusat kabupaten dan ibukota Kecamatan Merbau.</p>
+<p>
+	<strong>Pertanian</strong></p>
+<p>
+	Pertanian di P. Merbau bisa dikatakan tidak ada. Untuk memenuhi kebutuhan konsumsi masyarakat membeli dari toko-toko sekitar yang juga mengimpor dari pulau lain, seperti P. Rangsang dan P. Bukit Tinggi. Kebutuhan makanan pokok yang bisa diusahakan dari P. Merbau adalah sagu.</p>
+<p>
+	<strong>Peternakan</strong></p>
+<p>
+	Sektor peternakan di P. Merbau masih belum berkembang. Ternak yang dimiliki masyarakat tidak diusahakan secara intensif, hanya skala rumah tangga dan dijadikan sebagai investasi atau konsumsi sendiri. Salah satu usaha peternakan yang intensif adalah peternakan ayam ras pedaging.</p>
+<p>
+	Beberapa hewan ternak yang diusahakan oleh masyarakat P. Merbau diantaranya sapi (110 ekor), kambing (2.423 ekor), babi (325 ekor), ayam ras pedaging 124 ekor dan ayam kampung (6.424 ekor) (Kecamatan Merbau Dalam Angka 2010). Dari data tersebut terlihat, mayoritas hewan ternak yang dipelihara oleh masyarakat adalah ayam dan kambing (ternak-ternak kecil).</p>
+<p>
+	<strong>Perkebunan</strong></p>
+<p>
+	Perkebunan di P. Merbau cukup baik dan menjadi andalan bagi masyarakat pulau. Luas perkebunan yang ada mencapai 4.367 ha, dengan jenis-jenis perkebunan karet (2.889 ha), kelapa (562 ha) dan sagu (916 ha). Adapun produksi perkebunan yang dihasilkan pada tahun 2009 mencapai 546 ton untuk karet, 155,4 ton untuk kelapa dan 8.835,9 ton untuk sagu (Kecamatan Merbau Dalam Angka 2010).</p>
+<p>
+	<strong>Industri</strong></p>
+<p>
+	Industri di P. Merbau masih sangat minim. Salah satu industri yang ditemui dengan skala kecil adalah industri pembuatan arang. Arang umumnya dibuat dari kayu mangrove yang diambil dari sekitaran pulau. Kayu mangrove dipilih karena dianggap memiliki kualitas yang baik dan sangat mudah didapatkan. Pemasaran arang kayu ini ke pulau-pulau sekitar P. Merbau dan bahkan ke Malaysia.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="ling">Lingkungan</a></h2>
+<p><div class="readmore"><p>
+	Kondisi perairan di Pulau Merbau, Kabupaten Meranti, Kepulauan Riau secara kasat mata terlihat kurang baik, hal ini ditunjukkan dengan warna perairan yang keruh dan cenderung coklat.&nbsp; Seperti yang telah dijelaskan pada Bab Sumber Daya Hayati Laut, dimana ekosistem terumbu karang dan lamun tidak ditemukan pada lokasi tersebut, diduga sebagai akibat dari kondisi perairan yang kurang baik.&nbsp; Secara insitu, kualitas perairan di lokasi ini telah diukur dan dianalisis, meliputi data suhu, salinitas, DO, pH, Nitrat, dan TSS.</p>
+<p align="center" style="margin-left:14.2pt;">
+	Tabel Hasil analisa kualitas air di Pulau Merbau</p>
+<table align="center" border="1" cellpadding="0" cellspacing="0">
+	<tbody>
+		<tr>
+			<td style="width:39px;">
+				<p>
+					<strong>No</strong></p>
+			</td>
+			<td style="width:109px;">
+				<p>
+					<strong>Parameter</strong></p>
+			</td>
+			<td style="width:109px;">
+				<p>
+					<strong>Satuan</strong></p>
+			</td>
+			<td style="width:109px;">
+				<p>
+					<strong>Nilai</strong></p>
+			</td>
+			<td style="width:109px;">
+				<p>
+					<strong>Baku Mutu<sup>*</sup></strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:39px;">
+				<p>
+					1</p>
+			</td>
+			<td style="width:109px;">
+				<p>
+					Suhu</p>
+			</td>
+			<td style="width:109px;">
+				<p>
+					<sup>0</sup>C</p>
+			</td>
+			<td style="width:109px;">
+				<p>
+					32</p>
+			</td>
+			<td style="width:109px;">
+				<p>
+					-</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:39px;">
+				<p>
+					2</p>
+			</td>
+			<td style="width:109px;">
+				<p>
+					Salinitas</p>
+			</td>
+			<td style="width:109px;">
+				<p>
+					<sup>0</sup>/<sub>00</sub></p>
+			</td>
+			<td style="width:109px;">
+				<p>
+					33</p>
+			</td>
+			<td style="width:109px;">
+				<p>
+					-</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:39px;">
+				<p>
+					3</p>
+			</td>
+			<td style="width:109px;">
+				<p>
+					DO</p>
+			</td>
+			<td style="width:109px;">
+				<p>
+					mg/L</p>
+			</td>
+			<td style="width:109px;">
+				<p>
+					5</p>
+			</td>
+			<td style="width:109px;">
+				<p>
+					5</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:39px;">
+				<p>
+					4</p>
+			</td>
+			<td style="width:109px;">
+				<p>
+					pH</p>
+			</td>
+			<td style="width:109px;">
+				<p>
+					&nbsp;</p>
+			</td>
+			<td style="width:109px;">
+				<p>
+					7</p>
+			</td>
+			<td style="width:109px;">
+				<p>
+					7 &ndash; 8.5</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:39px;">
+				<p>
+					5</p>
+			</td>
+			<td style="width:109px;">
+				<p>
+					Nitrat (NO<sub>3</sub>-N)</p>
+			</td>
+			<td style="width:109px;">
+				<p>
+					mg/L</p>
+			</td>
+			<td style="width:109px;">
+				<p>
+					&lt; 0.001</p>
+				<p>
+					&nbsp;</p>
+			</td>
+			<td style="width:109px;">
+				<p>
+					0.008</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:39px;">
+				<p>
+					6</p>
+			</td>
+			<td style="width:109px;">
+				<p>
+					TSS</p>
+			</td>
+			<td style="width:109px;">
+				<p>
+					mg/L</p>
+			</td>
+			<td style="width:109px;">
+				<p>
+					42</p>
+			</td>
+			<td style="width:109px;">
+				<p>
+					20 &ndash; 80</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:39px;">
+				<p>
+					7</p>
+			</td>
+			<td style="width:109px;">
+				<p>
+					Klorophyll @</p>
+			</td>
+			<td style="width:109px;">
+				<p>
+					&micro;g/L</p>
+			</td>
+			<td style="width:109px;">
+				<p>
+					&nbsp;</p>
+			</td>
+			<td style="width:109px;">
+				<p>
+					-</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<div style="clear:both;">
+	Suhu merupakan faktor yang sangat penting dalam mengatur proses kehidupan, salah satunya adalah proses metabolisme dari suatu organisme.&nbsp; Nybakken (1988) memaparkan proses metabolisme dari individu organisme di laut hanya berfungsi pada suhu yang relative sempit, yaitu pada kisaran 0 &ndash; 40<sup>0</sup>C.&nbsp; Data suhu yang diperoleh dari pengambilan data insitu diketahui adalah 32<sup>0</sup>C, artinya perairan tersebut dapat dikategorikan layak untuk tempat hidup biota.</div>
+<div style="clear:both;">
+	&nbsp;</div>
+<div style="clear:both;">
+	Salinitas yang diukur pada lokasi pengambilan contoh dapat dikatakan baik, karena masih berada pada kisaran toleransi hidup fitoplankton sebagai organisme produsen di laut, yaitu 11 &ndash; 40 <sup>0</sup>/<sub>00</sub>.&nbsp; Konsentrasi DO yang diperoleh dari hasil pengukuran insitu, adalah 5mg/L.&nbsp; Nilai konsentrasi tersebut sedikit diatas ambang batas minimum sediaan DO di perairan untuk organisme laut, yaitu 4mg/L.&nbsp; Organisme laut dengan survival tinggi bahkan dapat hidup dengan kandungan oksigen yang terbatas, yaitu 2mg/L (Pescod, 1973).</div>
+<div style="clear:both;">
+	&nbsp;</div>
+<div style="clear:both;">
+	Perairan di Pulau Merbau dapat dikategorikan netral, karena hasil pengambilan data insitu menunjukkan nilai pH perairan adalah 7.&nbsp; Wardoyo (1975) memaparkan nilai tersebut merupakan nilai normal untuk perairan laut, karena jika pH air laut mencapai kategori asam (kurang dari 4) maka semua organisme laut akan mati, terutama organisme yang memiliki cangkang kapur. Analisis contoh air yang dilakukan menunjukkan data konsentrasi nitrat kurang dari 0.001mg/ml, nilai ini dapat dikategorikan sebagai kurang nutrient, sehingga organisme karang dan bentik yang lainnya sangat sulit ditemukan hidup di perairan Pulau Merbau.</div>
+<div style="clear:both;">
+	&nbsp;</div>
+<div style="clear:both;">
+	Konsentrasi TSS di Pulau Merbau sangat tinggi, yaitu 42mg/ml.&nbsp; Keberadaan suspended solid yang melimpah di perairan ini diduga sebagai pemicu lingkungan yang berakibat pada sedikitnya organisme yang hidup di lokasi tersebut.&nbsp; Tingginya jumlah TSS dala kolom perairan akan berdampak buruk pada penetrasi cahaya yang masuk hingga ke dasar perairan, sehingga proses metabolis organisme tidak berjalan dengan baik, terutama organisme produsen seperti fitoplankton dan alga.</div>
+<div style="clear:both;">
+	&nbsp;</div>
+</div></p>
+
+<hr>
+
+<h2><a id="sp">Sarana dan Prasarana</a></h2>
+<p><div class="readmore"><p>
+	Sarana transportasi darat yang ada di Pulau Merbau adalah sepeda motor (ojek). Untuk mengangkut barang-barang biasanya masyarakat menggunakan sepeda motor yang di bagian belakangnya diberi keranjang besar di kedua sisinya. Barang-barang yang diangkut menggunakan jenis kendaraan ini adalah hasil-hasil pertanian, seperti kelapa dan karet. Kondisi sarana dan prasarana jalan bisa dikatakan cukup baik, hampir semua desa dan pemukiman sudah terhubung dengan jalan semen, hanya sekitar 6 km panjang jalan yang belum disemen (jalan tanah). Lebar jalan aspal dan semen yang ada berkisar antara 1,5-4 m.</p>
+<p>
+	Listrik di Pulau Merbau saat ini masih menggunakan tenaga diesel yang dimiliki oleh setia rumah tangga, belum dikelola secara terintegrasi. Penduduk menggunakan diesel pada malam hari mulai dari pukul 18.00-22.00 WIB. Menurut informasi yang didapatkan, listrik akan dikelola secara terintegrasi berupa PLTD, yang aktif mulai 17 Juli 2012 dan akan mengalir dari pukul 18.00-24.00 WIB.</p>
+<p>
+	Sumber air bersih masyarakat Pulau Merbau berasal dari air tanah dan sungai-sungai kecil, tetapi kualitasnya kurang baik dan berwarna merah sehingga masyarakat menyebut air merah. Air merah ini digunakan untuk mencuci dan mandi sedangkan untuk konsumsi masyarakat menggunakan air galon. Selain air merah, masyarakat juga memanfaatkan air hujan untuk kebutuhan sehari-hari non konsumsi. Air hujan ini diperoleh dengan menampung air hujan dengan bak-bak dan tanki-tanki penampungan besar. Air hujan cenderung lebih bersih dibanding air tanah, sehingga masyarakat benar-benar mengoptimalkan di dalam pemanfaatannya.</p>
+<p>
+	Sebagai pulau yang memiliki akses yang mudah dari ibukota kabupaten, Pulau Merbau memiliki sarana kesehatan yang cukup baik. Dari 7 desa, terdapat 6 puskesmas di setiap desa kecuali Desa Renak Dungun. Selain itu juga terdapat praktek dokter yang bisa membantu meningkatkan kesehatan masyarakat dan ada saat dibutuhkan masyarakat diluar jam operasional puskesmas.</p>
+<p>
+	Sarana pendidikan yang ada di Pulau Merbau sudah cukup lengkap, mulai dari TK sampai sekolah menengah. Jumlah sarana pendidikan sekolah formal mencapai 34 unit yang terdiri dari TK 1 unit, SD 19 unit, MI 2 unit, SLTP 4 unit, MTs 4 unit, SMA 1 unit dan MA 3 unit dan terdapat kantor UPT Pendidikan Kabupaten Kepulauan Meranti.</p>
+<p>
+	Pulau dengan penduduk mayoritas beragama Islam membuat sarana peribadatan didominasi oleh mesjid dan musholla. Di Pulau Merbau terdapat 29 masjid dan 35 musholla, jadi total sarana peribadatan untuk umat muslim berjumlah 64 unit. Selain mesjid dan musholla, terdapat juga sarana peribadatan wihara untuk umat yang beragama Kong Hu Cu 1 unit.</p>
+<p>
+	Pulau Merbau sejak tahun 2011 telah menjadi kecamatan baru, sehingga ada banyak model/sistem dan sarana kepemerintahan yang baru disiapkan. Seharusnya sebagai kecamatan semua UPT ada di pulau ini, diantaranya&nbsp; UPT pendidik, kesehatan, dll, tetapi saat ini belum semuanya memiliki sarana pendukung. Sarana pendukung seperti perkantoran pemerintahan sedikit demi sedikit telah dibangun, salah satunya kantor camat.</p>
+<p>
+	Sarana sanitasi lingkungan di Pulau Merbau masih belum ada. Tempat pembuangan akhir khusus dan yang dikelola belum tersedia. Contohnya sampah, sampah umumnya di buang langsung di sekitar tempat tinggal atau ke laut. Sampah ditumpuk begitu saja tanpa dilakukan penangan khusus, begitu juga dengan pembuangan air limbah. Pembuangan air limbah, baik industri maupun rumah tangga umumnya dibuang di sekitar rumah atau industri saja, tidak dialirkan di tempat pengolahan limbah atau laut. Walaupun dibeberapa tempat air limbah ini dibuang di saluran air yang ada, tetapi tanpa penanganan khusus, limbah tersebut dapat membahayakan, karena di Pulau Merbau memiliki jenis tanah gambut.</p>
+<p>
+	Belum terdapat sarana perikanan dan kelautan yang baik. Kemungkinan hal ini dikarenakan mayoritas masyarakat Pulau Merbau menggantungkan hidupnya di sektor perkebunan, hanya sedikit yang berpencaharian sebagai nelayan atau bahkan hanya musiman saja, yaitu pada musim kemarau.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="pi">Peluang Investasi</a></h2>
+<p><div class="readmore"><p>
+	Investasi yang masih sangat berpeluang untuk bisa dikembangkan di Pulau Merbau adalah di sektor perkebunan, peternakan dan perikanan budidaya. Hal ini terkait dengan masih banyaknya lahan kosong dan kesesuaian lahan yang ada. Untuk sektor perkebunan, jenis perkebunan yang cukup menjanjikan adalah perkebunan karet, sagu dan kelapa. Lalu untuk sektor peternakan, ternak-ternak kecil seperti kambing dan ayam sangat cocok dan aman, sedangkan untuk sektor perikanan budi daya yang bisa dikembangkan adalah tambak air payau.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="pap">Potensi dan Arahan Pengembangan</a></h2>
+<p><div class="readmore"><p>
+	Perkebunan, perikanan</p>
+</div></p>
+
+<hr>
+
+<h2><a id="kp">Kendala Pengembangan</a></h2>
+<p><div class="readmore"><p>
+	Kendala pengembangan pulau adalah sulitnya mendapatkan air bersih dan akses jalan darat yang masih cukup sulit dibeberapa lokasi. Air bersih yang dimanfaatkan saat ini memiliki kualitas yang kurang baik, dan jika mengandalkan air hujan keberadaannya sangat bergantung pada musim.</p>
+<p>
+	Akses darat umumnya sudah cukup baik dengan jenis jalan semen. Tetapi ada yang masih berjenis jalan tanah sekitar 6 km yang menghubungkan pemukiman sisi utara pulau dengan sisi selatan pulau, sehingga membuat akses menjadi sulit terutama pada musim hujan. Jika ditempuh dengan jalur laut maka akan membutuhkan waktu yang relatif lebih lama, terbatas dan membutuhkan biaya yang lebih mahal.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="rf">Referensi</a></h2>
+<p><div class="readmore"><p>
+	Hasil Survey Identifikasi Potensi PPK</p>
+</div></p>
+
+<hr>
+
+<br />
+	<i> 
+		<p style="font-size:12px;">
+			Karena keterbatasan SDM dalam penginputan dan pengolahan data, kami mohon maaf atas ketidak lengkapan beberapa data pulau yang kami tampilkan, harap dimaklumi.
+			Berikan keritik dan saran pada kolom komentar agar kita dapat bersama menyajikan sebuah data yang cukup sempurna untuk halayak ramai yang berguna
+			demi kesejahterahan, kelestarian dan keindahan pulau-pulau kecil yang dimiliki Indonesia.<br />
+			*Jika sekiranya anda memiliki data yang cukup banyak, silakan mengirimkan file melalui email kami di <b><a>identifikasippk@gmail.com</a></b>
+			
+		</p>
+	</i>
+<br />
+
+<div id="fb_comn" class="fb-comments" data-href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_info/382" data-width="800" data-numposts="5" data-colorscheme="light"></div>
+
+
+</div>
+</div>
+</div>
+<div id="wrapper">
+
+<div class="footer"><p>
+<!--<marquee onmouseover="this.stop()" onmouseout="this.start()" scrollamount="5" direction="right" width="798" height="14"  behavior="scroll">-->
+<a href="http://www.ppk-kp3k.kkp.go.id/" target="_blank">Direktorat Pendayagunaan Pulau-Pulau Kecil &nbsp; | &nbsp;</a>
+<a href="http://www.kp3k.kkp.go.id/" target="_blank">Ditjen Kelautan, Pesisir dan Pulau-Pulau Kecil &nbsp; | &nbsp;</a>
+<a href="http://www.kkp.go.id/" target="_blank">Kementerian Kelautan dan Perikanan</a>
+<!--</marquee>--> <br />
+Jl. Medan Merdeka Timur No. 16 Gedung Mina Bahari 3 Lantai 10, Jakarta, Indonesia <br />
+Email : identifikasippk@gmail.com <br />
+Telp &amp; Fax: (021) 3522058 <br />
+&copy; Copyright Direktorat Pendayagunaan Pulau-Pulau Kecil 2012&nbsp; <br /></p>
+</div>
+</div>
+</body>
+</html>

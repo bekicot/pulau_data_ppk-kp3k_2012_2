@@ -1,0 +1,538 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Pulau SELARU</title>
+
+<meta charset="utf-8"/>
+
+<meta property="fb:app_id" content="559408774147878" />
+
+
+<meta property="og:title" content="Pulau SELARU" />
+<meta property="og:url" content="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_info/335" />
+
+
+    <script type="text/javascript" src="http://ajax.microsoft.com/ajax/jquery/jquery-1.4.4.min.js">
+    </script>
+    
+    <script type="text/javascript" src="http://plugins.learningjquery.com/expander/jquery.expander.js">
+    </script>
+    
+    <script type="text/javascript">
+        $(function () {
+            $('div.readmore').expander({
+                slicePoint:200,
+                expandText: '(Baca selengkapnya)',
+                userCollapseText: '(Sembunyikan selengkapnya)'
+            });
+        });
+    </script>
+        
+	<script src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/galleria/galleria-1.2.8.min.js"></script>
+
+        <SCRIPT TYPE="text/javascript">
+            <!--
+            //Disable right click script
+            //visit http://www.rainbow.arch.scriptmania.com/scripts/
+            var message="Sorry, right-click has been disabled";
+            ///////////////////////////////////
+            function clickIE() {if (document.all) {(message);return false;}}
+            function clickNS(e) {if
+            (document.layers||(document.getElementById&&!document.all)) {
+            if (e.which==2||e.which==3) {(message);return false;}}}
+            if (document.layers)
+            {document.captureEvents(Event.MOUSEDOWN);document.onmousedown=clickNS;}
+            else{document.onmouseup=clickNS;document.oncontextmenu=clickIE;}
+            document.oncontextmenu=new Function("return false")
+            // -->
+            </SCRIPT>
+            
+            <SCRIPT TYPE="text/javascript">
+            <!--
+            //Disable select-text script (IE4+, NS6+)
+            //visit http://www.rainbow.arch.scriptmania.com/scripts/
+            ///////////////////////////////////
+            function disableselect(e){
+            return false
+            }
+            function reEnable(){
+            return true
+            }
+            //if IE4+
+            document.onselectstart=new Function ("return false")
+            //if NS6
+            if (window.sidebar){
+            document.onmousedown=disableselect
+            document.onclick=reEnable
+            }
+            // -->
+            </SCRIPT>  
+              
+<link rel="stylesheet" type="text/css" href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/css/main.css" media="screen"/>
+<style type='text/css'>
+#info_wrap{
+	width:820px;
+	margin:0 auto;
+	text-shadow:0px 1px 1px #09F;
+}
+table{
+	color:#000000;
+}
+h1{
+	color:#000000;
+}
+.tengahin{
+	width: 105px;
+	height: 30px;
+	margin: 0 auto auto auto;
+}
+#box_view{
+	background-image:-webkit-gradient(linear, 0 0%, 0 100%, from(#FFFFFF), to(#E0F0F5));
+	background:#FFF;
+	color:#F60;
+	border: 1px solid #fff;
+	border-radius: 4px 4px 4px 4px;
+	box-shadow: 0 8px 6px -6px black;
+	position:fixed;
+	right:0;
+	top:150px;;
+	width:80px;
+	z-index:10;
+	padding-left:12px;
+	font-size:10px;
+	}
+#box_view li{
+	color:#F60;
+	margin-left:-30px;
+	}
+	#wrapper a b {
+	color: #FFF;
+	font-size:14px;
+}
+.batas{
+	float:left;
+	border-right-style:inset;
+	border-right-width:thin;
+	}
+.text_h_wrap{
+	
+	padding-left:450px;
+	padding-top:39px;
+	text-shadow:0px 1px 1px #09F;
+	}
+#wrapper .footer p{
+	font-size:12px;
+	color: #FFF;
+	text-align:center;
+	text-shadow:0px 1px 1px #09F;
+}
+td,th {
+	font-size: 12px;
+}
+
+marquee a{
+	color:#FFF
+	}
+#wrapper .footer a{
+	color: #FFFFFF;
+}
+</style>
+            
+<script>
+function goBack()
+  {
+  window.history.back()
+  }
+</script>
+<script type="text/javascript">
+function Popup( url, height, width )
+{
+    var windowProperties = "toolbar = 0, scrollbars = 1, location = 0, statusbar = 0, menubar = 0, resizable = 1, width = " + width + ", height = " + height + ", left = 50, top = 50";
+ 
+    return window.open( url, "", windowProperties );
+}
+</script>
+
+
+
+</head>
+<body oncontextmenu='return false;' onkeydown='return false;' onmousedown='return false;'>
+
+<a id="top_view"></a>
+<div id="wrapper">
+<div class="header_wrap">
+<div class="text_h_wrap">
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/home_page'><b>&nbsp;Home&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/menu_info/1'><b>&nbsp;About Us&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_data'><b>&nbsp;Direktori Pulau&nbsp;&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/program_ip'><b>&nbsp;IKU&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/data_ppkt'><b>&nbsp;PPKT&nbsp;</b></a>
+</div>
+<!--<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/maintenance'><b>&nbsp;Login&nbsp;</b></a>-->
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/dir_log_cont'><b>&nbsp;Login&nbsp;</b></a>
+
+</div>
+</div>
+</div>
+
+<div id="fb-root"></div>
+<script>
+  window.fbAsyncInit = function() {
+    // init the FB JS SDK
+    FB.init({
+      appId      : '559408774147878',                        // App ID from the app dashboard
+      status     : true,                                 // Check Facebook Login status
+      xfbml      : true                                  // Look for social plugins on the page
+    });
+
+    // Additional initialization code such as adding Event Listeners goes here
+  };
+
+  // Load the SDK asynchronously
+  (function(){
+     // If we've already installed the SDK, we're done
+     if (document.getElementById('facebook-jssdk')) {return;}
+
+     // Get the first script element, which we'll use to find the parent node
+     var firstScriptElement = document.getElementsByTagName('script')[0];
+
+     // Create a new script element and set its id
+     var facebookJS = document.createElement('script'); 
+     facebookJS.id = 'facebook-jssdk';
+
+     // Set the new script's source to the source of the Facebook JS SDK
+     facebookJS.src = '//connect.facebook.net/en_US/all.js';
+
+     // Insert the Facebook JS SDK into the DOM
+     firstScriptElement.parentNode.insertBefore(facebookJS, firstScriptElement);
+   }());
+</script>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=559408774147878";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="box_view">
+    <a href="#top_view">MENU</a>
+    <h3><p>Lihat Informasi:</p></h3>
+    <ul>
+	<a href="#sf"><li>Slide Foto</li></a>
+    <a href="#gu"><li>Gambaran Umum</li></a>
+    <a href="#ksbk"><li>Kependudukan, Sosial Budaya dan Kelembagaan</li></a>
+    <a href="#eshp"><li>Ekosistem dan Sumberdaya Hayati</li></a>
+    <a href="#snh"><li>Sumberdaya Non Hayati</li></a>
+    <a href="#aps"><li>Aktivitas Pengelolaan Sumberdaya</li></a>
+    <a href="#ling"><li>Lingkungan</li></a>
+    <a href="#sp"><li>Sarana dan Prasarana</li></a>
+    <a href="#pi"><li>Peluang Investasi</li></a>
+    <a href="#pap"><li>Potensi Arahan Pengembangan</li></a>
+    <a href="#kp"><li>Kendala Pengembangan</li></a>
+	<a href="#rf"><li>Referensi</li></a>
+    </ul>
+    <a href="#fb_comn">KOMENTAR</a>
+</div>
+
+<br>
+			<a id="sf"></a></h2>
+			<div id="galleria">
+            <!--<div class='tengahin'><input type="button" value="Kembali Ke List" onclick="goBack()"></div>-->
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/72e3-img_9485.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__72e3-img_9485.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/a946-100_0098.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__a946-100_0098.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/4de7-100_0119.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__4de7-100_0119.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/bb87-100_0104.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__bb87-100_0104.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/2f29-100_0121.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__2f29-100_0121.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/a8ba-100_0126.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__a8ba-100_0126.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/c78b-100_0145.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__c78b-100_0145.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/b50c-100_0220.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__b50c-100_0220.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/cd3d-100_0156.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__cd3d-100_0156.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/b46e-img_9249.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__b46e-img_9249.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/c6af-img_9258.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__c6af-img_9258.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/0a40-img_9387.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__0a40-img_9387.jpg" data-description=""></a></p>
+                            </div>
+            
+            <script>
+            Galleria.loadTheme('http://www.ppk-kp3k.kkp.go.id/direktori-pulau/galleria/themes/classic/galleria.classic.min.js');
+            Galleria.run('#galleria');
+            </script>
+</div>
+
+<div id="text_warp">
+
+
+<p><h1>SELARU</h1></p>
+<table>
+<tr>
+	<td>Nama Lain</td> <td>:</td> <td></td>
+</tr>
+<tr>
+	<td>Propinsi</td> <td>:</td> <td>MALUKU</td>
+</tr>
+<tr>
+	<td>Kabupaten</td> <td>:</td> <td>KABUPATEN MALUKU TENGGARA BARAT</td>
+</tr>
+<tr>
+	<td>Kecamatan</td> <td>:</td> <td>PULAU SELARU</td>
+</tr>
+<tr>
+	<td>Koordinat</td> <td>:</td> <td><a href="http://www.ppk-kp3k.kkp.go.id/giskkp/index.html?extent="target="_blank"></a></td>
+</tr>
+</table>
+<hr>
+
+<h2><a id="gu">Gambaran Umum</a></h2>
+<p><div class="readmore"><p>
+	&nbsp;</p>
+<p>
+	Pulau Selaru merupakan salah satu pulau terluar (perbatasan) yang terdapat di Wilayah Kabupaten Maluku Tenggara Barat (MTB). Di pulau ini terdapat titik dasar (TD) no. 106 dan titik referensi (TR) no. 106A. Luas wilayah total pulau ini adalah 3.667,86 km<sup>2</sup> yang meliputi luas daratan sebesar 353.87 km<sup>2</sup> dan luas laut untuk wilayah kelola Kabupaten (0-4 mil) sebesar 1.015,51 km<sup>2</sup> dan luas wilayah kelola Provinsi (4-12 mil) sebesar 2.298,48 km<sup>2</sup>.&nbsp;</p>
+<p>
+	Secara administratif, pulau ini termasuk dalam wilayah Kecamatan Selaru, Kabupaten Maluku Tenggara Barat (MTB), Provinsi Maluku. Secara geografis, pulau ini terletak di perairan Laut Arafura pada koordinat 08<sup>o </sup>11&rsquo; 02&rsquo;&rsquo; LS dan 130<sup>o </sup>57&rsquo; 43&rsquo;&rsquo; BT.</p>
+<p>
+	Pulau Selaru merupakan satu kecamatan tersendiri dari 10 kecamatan yang ada di Maluku Tenggara Barat, yang terdiri dari tujuh desa: Adaut, Namtabung, Kandar, Lingat, Werain, Fursuy, dan Eliasa. Desa Adaut merupakan Ibukota kecamatan Selaru. Desa-desa di Selaru terletak di pesisir pantai. Adaut merupakan desa yang terluas, 223,09 km2 atau sekitar 27% dari luas kecamatan Selaru. Sementara itu, Werain merupakan desa dengan luas terkecil yaitu 82,63 km2 atau sekitar 10% dari luas kecamatan Selaru. Dari tujuh desa yang ada, hanya Adaut yang tergolong maju, sedangkan enam desa lainnya masih tertinggal.</p>
+<p>
+	&nbsp;</p>
+</div></p>
+
+<hr>
+
+<h2><a id="ksbk">Kependudukan, Sosial Budaya dan Kelembagaan</a></h2>
+<p><div class="readmore"><p>
+	&nbsp;</p>
+<p>
+	Berdasarkan hasil pendataan adminstrasi wilayah Provinsi Maluku Tahun 2005 di wilayah P. Selaru terdapat 6 desa dengan total jumlah penduduk sebanyak 11.488 jiwa yang terdiri dari laki-laki 5.862 jiwa dan perempuan sebanyak 5.626 Jiwa.&nbsp;</p>
+</div></p>
+
+<hr>
+
+<h2><a id="eshp">Ekosistem dan Sumberdaya Hayati</a></h2>
+<p><div class="readmore"><p>
+	&nbsp;</p>
+<p>
+	<strong>Potensi Sumberdaya Pesisir dan Laut</strong></p>
+<p>
+	Penggunaan lahan daratan pesisir di Pulau Selaru meliputi hutan primer, hutan sekunder, hutan pantai, semak dan alang-alang, belukar, ladang/tegalan, kebun campuran, tanah kosong, dan pemukiman. Luas pemukiman desa di Pulau Selaru 4,2103 km<sup>2</sup>, semak 4,84 km<sup>2</sup>, lahan kosong 4,80 km<sup>2</sup>, dan lain-lain (kebun campuran, ladang, tegalan dan hutan).</p>
+<p>
+	Pantai berbatu mencakup pantai tebing terjal, platform pantai, dan bongkahan batu karang juga merupakan lahan kosong yang tidak dimanfaatkan. Pada rataan pasut berpasir terdistribusi vegetasi lamun, algae dan berbagai biota yang berasosiasi dengannya, dengan penutupan lamun dan algae yang bervariasi. Agihan terumbu karang cukup luas di wilayah ini yakni 60,22 km<sup>2.</sup></p>
+<p>
+	Pantai berbatu mencakup pantai tebing terjal, platform pantai, dan bongkahan batu karang juga merupakan lahan kosong yang tidak dimanfaatkan. Pada rataan pasut berpasir terdistribusi vegetasi lamun, algae dan berbagai biota yang berasosiasi dengannya, dengan penutupan lamun dan algae yang bervariasi. Agihan terumbu karang cukup luas di wilayah ini yakni 60,22 km<sup>2</sup>, Lamun 14,24 km<sup>2</sup>, Saaru 33,24 km<sup>2</sup>, rawa 5,48 km<sup>2</sup> dan hutan mangrove 11,34 km<sup>2</sup>. Di luar zone pasang surut, yang merupakan perairan oseanis dimanfaatkan untuk penangkapan ikan dan budidaya perairan. Jenis penangkapan ikan meliputi penangkapan ikan pelagis, demersal dan karang, sedangkan jenis kegiatan budidaya mencakup budidaya ikan, rumput laut dan teripang.</p>
+<p>
+	<strong>Hutan Mangrove</strong></p>
+<p>
+	Komunitas mangrove Desa Adaud Pulau Selaru terletak pada posisi 131<sup>o</sup> 06&rsquo;965&rsquo;&rsquo; dan 08<sup>o</sup> 08&rsquo;227&rsquo;&rsquo; dengan luas total sebesar 11.3371 km2. Kenampakan seca-ra visual di lapangan tumbuh pa-da substrat lumpur, lumpur ber-pasir bercampur patahan karang memiliki dasar perairan yang landai. &nbsp;Jenis mangrove yang dijumpai dan lebih mendominasi adalah mangrove dari famili Rhisophoraceae sedangkan jenis-jenis yang ditemui adalah <em>Rhizophora apiculata, R. mucronata, Bruguiera gymnorrhiza, Sonneratia alba, Avicenia sp, </em>presen penutupan lahan masing-masing adalah Anakan (24,59 %), Sapihan (45,9 %) Pohon (29,51 %).</p>
+<p>
+	<strong>Padang Lamun</strong></p>
+<p>
+	Di Pulau Selaru, dijumpai enam spesies lamun diantaranya <em>Thalassia hemprichii: Enhalus acoiroides; Halophyla ovata; Cymodocea rotundata; Halodule uninervis; Syringodium isoetifolium. </em>Luasan tutupan lahan pada lokasi pengamatan sebesar 43.17 % tutupan lahan lamun.</p>
+<p>
+	Luas lamun wilayah Pulau Selaru mencapai 14.236 km<sup>2</sup>, sementara panjang total padang lamun mencapai 98.071 km dan lebar rata-rata 0.1452 km. Secara umum perkembangan lamun di Pulau Selaru cukup baik karena disokong oleh kondisi fisik-kimia perairan yang sangat mendukung.</p>
+<p>
+	Kerapatan lamun di Pulau Selaru berdasarkan hasil pengamatan ditemukan sebesar 230,29 tegakan/m<sup>2, </sup>dimana kerapatan tertinggi ditemukan pada jenis <em>Cymodecea rotundata</em> sebesar 42,67 tegakan/m<sup>2</sup>; dan terendah pada jenis <em>Enhalus acoroides</em> sebesar 21,33 tegakan/m<sup>2.</sup> Nilai kerapatan jenis yang ada berbanding terbalik dengan tingkat persen tutupan untuk beberapa jenis lamun yang dijumpai.</p>
+<p>
+	<strong>Terumbu Karang</strong></p>
+<p>
+	Luas terumbu karang wilayah Pulau Selaru mencapai 60.2215 km<sup>2</sup>, sementara panjang total terumbu karang mencapai 299.6326 km dan lebar rata-rata 0.201 km. Secara umum perkembangan terumbu dan karang di Pulau Selaru cukup baik karena disokong oleh kondisi fisik-kimia perairan yang sangat menunjang perkembangan terumbu dan pertumbuhan karang.</p>
+<p>
+	Karang batu yang tumbuh dan tersebar pada areal terumbu perairan Pulau Selaru sebanyak 112 spesies 48 genera dan 16 famili. Karang batu famili Acroporidae dan Faviidae memiliki kekayaan spesies lebih tinggi dari famili karang yang lain. Kekayaan spesies karang batu di perairan Adaut (103 spesies) lebih tinggi dibanding lokasi Namtabung (83 spesies). Karang batu famili Acroporidae dan Faviidae memiliki kekayaan spesies lebih tinggi dari famili karang batu yang lain.</p>
+<p>
+	Komponen biotik yang menutupi dasar perairan di Pulau ini secara umum sangat tinggi dengan persen penutupan substrat sebesar 96,50%, jauh lebih tinggi bila dibandingkan dengan komponen abiotik, maupun bila dilihat berdasarkan titik pengamatan.</p>
+<p>
+	Secara umum kondisi terumbu karang di Pulau ini berada pada kategori baik (Good) dengan persen penutupan sebesar 62,52%, tetapi bila dilihat berdasarkan titik pengamatan maka kondisi terumbu karang di Adaut sangat baik (Exellent) dengan persen penutupan sebesar 78,10% sedangkan di Namtabun berada pada kondisi kurang baik (Fair) dengan persen penutupan sebesar 46,94%. Kondisi terumbu karang dengan kategori kurang baik di Namtabun dipengaruhi oleh persen tutupan hewan-hewan laut lainnya (other faunas) yakni sebesar 43,94% yang mendekati persen tutupan karang batu terutama berasal dari karang lunak (soft coral). Sumbangan terbesar untuk penutupan karang batu di Pulau ini secara keseluruhan maupun berdasarkan titik pengamatan berasal dari karang Non Acropora.</p>
+<p>
+	<strong>Alga</strong></p>
+<p>
+	Jenis makro algae pada perairan Pulau Selaru dijumpai sebanyak 17 spesies, yang da-pat diklasifikasikan ke dalam 10 genus, 7 famili, 5 ordo dan 3 devisi. Pengelompokannya dalam 3 devisi utama yaitu alga hijau (Chlorophyta) terdiri dari 3 spesies, alga coklat (Phaeophyta) yang terdiri dari 8 spesies dan alga merah (Rhodophyta) yang terdiri dari 6 spesies. Dari jenis jenis yang ditemukan tersebut, ada jenis-jenis yang memi-liki nilai ekonomis penting diantaranya adalah yang ber-asal dari genus Hypnea, Gracilaria, Eucheuma dan Caulerpa</p>
+<p>
+	<strong>Ikan (Ikan Demersal, Ikan Karang dan Ikan Hias)</strong></p>
+<p>
+	Pengambilan data ikan karang pada perairan pantai di Pulau Selaru dilakukan pada dua titik pengamatan yakni: Desa Adaut dan Desa Namtabun. Secara keseluruhan pada Pulau ini dijumpai sebanyak 143 spesies ikan yang tergolong ke dalam 74 genera dan 27 famili. Kelimpahan spesies ikan karang tertinggi dijumpai pada titik pengamatan di Adaut yakni sebanyak 136 spesies dan terendah dijumpai pada titik pengamatan di Namtabun yakni sebanyak 102 spesies.</p>
+<p>
+	&nbsp;</p>
+</div></p>
+
+<hr>
+
+<h2><a id="snh">Sumberdaya Non Hayati</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<h2><a id="aps">Aktivitas Pengelolaan Sumberdaya</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<h2><a id="ling">Lingkungan</a></h2>
+<p><div class="readmore"><p>
+	&nbsp;</p>
+<p>
+	<strong>FISIOGRAFI</strong></p>
+<p>
+	Gugusan Pulau Selaru memiliki 5 pulau kecil yaitu P. Selaru, P. Riama, P. Batarkusu, P. Adanar, dan P. Nuyanat, dengan pulau Selaru sebagai pulau terbesar. Topografi pulau Selaru dan pulau pulau kecil lainnya relatif rendah, dengan ketinggian umumnya &lt; 100 m. Morfologi daerah ini dikelompokkan atas dua satuan morfologi yakni morfologi dataran dan perbukitan. Daerah dataran terdistribusi di Selaru bagian selatan, sedangkan daerah berbukit terdistrubusi di Selaru Utara Timur dan sebagian kecil area di Selaru Selatan (bagian Timur Erain). Satuan bentuklahan asal di pulau ini adalah karst dan marin.</p>
+<p>
+	Daerah ketinggian pada wilayah Pulau Selaru dibagi atas 2 kelas, yaitu: (1) daerah Rendah (R) dengan ketinggian 0 &ndash; 100 m; dan (2) daerah Tengah (M) dengan ketinggian 100 &ndash; 500 m, dengan tiga kelas lereng yakni kemiringan lereng datar (0-3%), landai/berombak (3-8%), dan bergelombang (8-15%).</p>
+<p>
+	Secara geologi, batuan yang tersingkap di wilayah Selaru adalah perselingan lempung coklat kemerahan dan kelabu, dengan tufa kaca putih kotor; ke arah bagian atas terdapat sisipan batu gamping coklat kemerahan sampai kelabu, pasir gampingan dan batu pasir kuarsa; batuan ini termasuk dalam formasi Tangustabun yang berumur Paleogen (tersier awal). Batuan ini tersebar luas di pualu Yamdena bagian tengah, membentuk perbukitan yang memanjang dengan arah barat daya &ndash; timur laut; tebal minimum 600 m. Daerah ini juga terdapat batuan yang terdiri dari bermacam-macam batuan baik batuan beku, malihan, dan batuan sedimen yang umumnya berbeda-beda; batuan campuran ini dikelompokan dalam Komplek Molu, ini diduga terbentuk oleh adanya aktivitas tektonik pada awal neogen yang merupakan batuan &ldquo;melange&rdquo;. Sebaran batuan ini cukup luas, meliputi pulau kecil di utara P. Yamdena. Hubungan dengan formasi Tangustabun tidak jelas. Di atas formasi Tangustabun dan Komplek Molu, di endapkan secara tidak selaras batuan dari Batimafudi yang terdiri dari perselingan batugamping pasiran, napal dan batu pasir gampingan; berumur Miosen. Batuan dari formasi ini tersebar luas di P. Yamdena bagian timur, berupa perbukitan dengan arah peggunungan barat daya &ndash; timur laut. Dalam formasi Batimafudi terdapat anggota napal yang batuannya terdiri dari napal bersisipkan batu gamping pasiran, tersebar luas dari P. Yamdena bagian barat dan utara, membentuk perbukitan bergelombang rendah dan juga di beberapa pulau sekitarnya. Formasi ini ditindih takselaras oleh formasi Batilembuti yang berumur Pliosen; yang hampir seluruhnya terdiri dari napal, berwarna putih kotor sampai kelabu muda dan bersifat pejal, kaya akan fosil plankton dan bentos; bagian atasnya berupa batu gamping yang sangat rapuh, setempat napal kapuran berwarnah putih dan ringan. Sebarannya cukup luas di P. Yamdena bagian barat dan utara P. Selaru, P. Larat dan pulau-pulau kecil lainnya.</p>
+<p>
+	Tenaga berperan terhadap perubahan geomorfologi sepanjang pesisir Pulau Selaru adalah tenaga marin yakni gelombang, pasang surut dan arus. Proses geomorfologi di kawasan ini meliputi proses destruksional (pelapukan sepanjang garis pantai dan erosi pantai), dan proses kontruksional (pergerakan sedimen dan deposisi sedimen). Satuan bentuklahan hasil proses tersebut adalah gisik, rataan pasang surut, terumbu karang, rataan pengikisan gelombang (platform), tebing terjal (cliff), tebing menggantung (notch), stack dan saaru.</p>
+<p style="">
+	Pantai bergisik merupakan pantai tipe deposisional musiman dengan distribusi yang tidak merata di sepanjang pulau Selaru. Pada sisi lain akumulasi material pasir di pantai sangat bergantung pada arah datang dan sudut jangkauan gelombang dengan pantai. Pantai yang letaknya berhadapan langsung dengan arah gelombang datang yang materialnya adalah gamping koral mengalami erosi yang sangat kuat sehingga memiliki ciri pantai abrasi. Tingkat abrasi sangat kuat pada hampir sepanjang pantai, terutama bagian timur dan barat pulau (daerah Linget) yang dipengaruhi musim barat dan timur. Platform pantai kawasan ini cukup lebar, banyak tebing terjal, goa-goa karang dan hancuran batu karang.</p>
+<p>
+	Kedudukan pesisir Pulau Selaru relatif terbuka, hanya bagian utara timur laut (Adaut dan Kore) yang relatif terlindung (teluk). Saaru di kawasan ini berjumlah 18 buah, diantaranya 8 buah di barat daya Selaru, 7 buah di bagian barat, dan 4 buah di bagian timur.</p>
+<p>
+	Mengacu pada Peta Pulau&ndash;Pulau Seramata dan Pulau&ndash;Pulau Tanimbar No.48 Skala 1: 500.000 yang dikeluarkan oleh DISHIDROS tahun 2003 menunjukkan bahwa distribusi kedalaman perairan pesisir di Pulau Selaru cenderung dangkal. Perairan dangkal di dominasi oleh rataan terumbu yang luas terutama di kawasan perairan bagian utara Adaut, timur, Lingat, selatan Tg. Araousu dan bagian barat daya Nangtabung di Pulau Selaru.</p>
+<p>
+	Kelandaian perairan yang dihitung terhadap kontur kedalaman referensi 200 meter menunjukkan bahwa kelandaian perairan berkisar antara 1 &ndash; 3,33 % dapat dikategorikan sebagai perairan dengan kemiringan yang landai. Perairan dengan kemiringan 1 % ditemukan pada perairan pantai Namtabung kemudian diikuti oleh perairan bagian selatan Pulau Selaru dan Lingat di bagian timur dengan kemiringan bervariasi antara 1,08 &ndash; 1,33 % sementara kelandaian maksimum ditemukan pada perairan pantai Adaut.</p>
+<p>
+	<strong>IKLIM</strong></p>
+<p>
+	Iklim di wilayah P. Seluru dipengaruhi oleh laut Banda, Laut Arafura dan Samudera Indonesia juga dibayangi oleh Pulau Irian bagian Timur dan Benua Australia bagian Selatan sehingga sewaktu-waktu dapat mengalami perubahan. Iklim di wilayah ini sangat dipengaruhi oleh pergantian musim, baik musim Timus, musim Barat maupun musim pancaroba (peralihan). Keadaan curah hujan secara umum di Pulau Selaru berkisar antara 1000 &ndash; 2000 mm pertahun. Suhu rata-rata adalah 27.6 &ordm;C dengan suhu minimum absolute rata-rata 21,8 &ordm;C dan suhu maksimum absolute rata-rata 33.0&ordm;C, sedangkan rata-rata kelembapan udara relative adalah 80,2%; penyinara matahari rata-rata 71,0%; dan tekanan udara rata-rata 1.011,8 milibar.</p>
+<p>
+	Berdasarkan klasifikasi agroklimat menurut OLDEMAN, IRSAL dan MULADI (1981), Maluku Tenggara Barat terbagi dalam dua zone agroklimat dimana Pulau Selaru dikategorikan dalam Zone C3: bulan basah 5 &ndash; 6 bulan dan kering 4 &ndash; 5 bulan.</p>
+<p>
+	<strong>OCEANOGRAFI</strong></p>
+<p>
+	<strong>Pasang Surut dan Arus</strong></p>
+<p>
+	Panjang garis pantai wilayah Pulau Selaru berdasarkan hasil perhitungan ditemukan pan-jang total garis pantai wilayah Pulau sebesar 150.02 km. Pasang surut di perairan Pulau Selaru memiliki tipe yang sama dengan daerah lainnya di Maluku, yaitu digolongkan sebagai pasang cam-puran mirip harian ganda (<em>predominantly semi diurnal tide</em>). Ciri utama tipe pasang surut ini adalah terjadi dua kali pasang dan dua kali surut dimana pasang pertama selalu lebih besar dari pasang kedua.</p>
+<p>
+	Tunggang air (<em>tidal range</em>) maksimum perairan ini umumnya berkisar antara 2 &ndash; 2,5 meter. Tunggang air ini dapat menyebabkan bagian perairan yang lebih dangkal akan muncul kepermukaan seperti di perairan pantai Namtabung, Lengat, Werain, Riama dan Kandar. Kejadian &ldquo;Meti Kei&rdquo; selama bulan Oktober memberikan dampak kekeringan yang luar biasa di daerah tersebut sehingga dapat berakibat fatal bagi organisme termasuk terumbu karang.</p>
+<p>
+	Arus atau perpindahan massa air di perairan Pulau ini merupakan kombinasi arus angin dan arus pasang surut. Kecepatan arus angin pada bulan Oktober di perairan ini dapat mencapai 1 m.s<sup>-1</sup> dominan bergerak dari arah timur menuju perairan bagian barat. &nbsp;Kecepatan arus pasang surut yang terekam bervariasi antara 0,21 &ndash; 0,34 m.s<sup>-1</sup> dengan nilai kecepatan rerata 0,27 m.s<sup>-1</sup>. Kecepatan arus minimum dijumpai di perairaian pantai Adaut sedangkan kecepatan maksimum di perairan sekitar Namtabung pada saat air bergerak surut.</p>
+<p>
+	<strong>Gelombang</strong></p>
+<p>
+	Energi angin sebagai pembangkit gelombang utama di laut pada musim timur di estimasi mampu menghasilkan tinggi gelombang signifikan maksimum setinggi 4 meter dengan periode 7,8 detik di perairan Kabupaten MTB. Besarnya tinggi gelombang dan energi yang dihasilkan diasumsi-kan sama untuk seluruh kawasan perairan Pulau yang ada di Kabupaten ini.</p>
+<p>
+	Gelombang yang datang di perairan Pulau Selaru cenderung dan dominan menggempur perairan pantai bagian utara sampai selatan Pulau Selaru. Dengan topografi dasar perairan yang landai, tinggi dan energi gelombang dapat meningkat tajam sampai pada kondisi yang membaha-yakan bagi aktivitas pelayaran maupun kegiatan &ldquo;bameti&rdquo;. Sementara di bagian barat pulau yaitu perairan pantai Adaut dan Namtabung, kondisi perairan relatif lebih tenang karena energi angin telah mengalami peredaman yang signifikan.</p>
+<p>
+	<strong>Kualitas Air</strong></p>
+<p>
+	Suhu permukan laut di Pulau Selaru relatif rendah bervariasi antara 26,80 &ndash; 27,40 &deg;C de-ngan nilai rerata 27,10 &deg;C. Suhu minimum dijumpai pada perairan sekitar Adaut sedangkan maksi-mum di perairan Namtabung. Rendahnya suhu permukaan perairan di Pulau ini berhubungan de-ngan proses taikan yang terjadi serempak di Laut Banda dan Arafura pada bulan Juli &ndash; Agustus.</p>
+<p>
+	Kadar salinitas permukaan perairan bervariasi antara 34 &ndash; 35 ppt dengan nilai rerata 34,50 ppt. Nilai kadar minimum salinitas dijumpai pada bagian perairan Namtabung dimana air laut sedikit mengalami pengenceran oleh massa air tawar melalui sungai yang bermuara di sekitar per-airan tersebut sementara nilai maksimum dijumpai pada perairan pantai Adaut.</p>
+<p>
+	Transparansi atau kecerahan perairan adalah kemampuan perairan untuk meloloskan caha-ya matahari ke dalam kolom air sangat bergantung dari kandungan padatan tersuspensi, sudut mata-hari dan jenis awan. Tingkat kecerahan perairan dikategorikan atas: (1) Buruk (0 &ndash; 5 m); (2) Sedang (6 -10 m) dan (3); Baik (&gt; 11 m). Berdasarkan acuan ini maka tingkat kecerahan perairan di Pulau Selaru dikategorikan atas tingkat kecerahan buruk sampai sedang dimanan kecerahan perairan ber-variasi antara 4 - 11 meter dengan nlai rerata 7,5 meter.</p>
+<p>
+	Kecerahan perairan terendah berada di perairan Namtabung sedangkan yang tertinggi ditemukan pada perairan pantai Adaut. Rendahnya nilai transparansi ini disebabkan oleh kekeruhan yang tinggi sebagai akibat turbulensi yang intensif di perairan pantai Namtabung.</p>
+<p>
+	Kandungan padatan tersuspensi (TSS) di perairan Pulau Selaru berkisar antara 0,56 &ndash; 0,65 mg/l dengan nilai rerata sebesar 0,61 mg/l. Nilai minimum TSS dijumpai pada perairan Adaut sementara maksimum di perairan Namtabung. Rendahnya TSS di Adaut berhubungan dengan keda-laman perairan yang dalam serta posisi yang terbuka sehingga sirkulasi massa air berjalan dengan baik, sedangkan perairan Namtabung relatif dangkal dilingkupi oleh dataran terumbu yang luas yang berbentuk semi tertutup.</p>
+<p>
+	Nilai-nilai TSS yang diperoleh ini masih dapat digolongkan cukup rendah memungkinkan penetrasi cahaya matahari jauh ke dalam kolom perairan sehingga proses fotosintesis tumbuhan akuatik dapat berlangsung dengan baik.</p>
+<p>
+	Tingkat kesadahan air laut atau pH untuk perairan laut Pulau Selaru relatif tinggi berkisar antara 8,35 &ndash; 8,66 dengan nilai rerata 8,51. Nilai pH minimum terkonsentrasi di perairan pantai Adaut sedangkan perairan dengan konsentrasi maksimum berada pada perairan Namtabung.</p>
+<p>
+	Kondisi nilai pH demikian menunjukkan bahwa perairan ini bersifat basa dan cenderung di dominasi oleh massa air oseanik. Kisaran nilai pH masih berada dan bahkan melampaui kisaran nilai pH (7,5-8,4) menurut Mayunar et al. (1995).</p>
+<p>
+	Sumber utama oksigen terlarut (Dissolved Oxygen / D.O.) di laut berasal dari atmosfir dan hasil fotosintesis fitoplankton dan berbagai jenis tanaman laut lainnya. Konsentrasi oksigen terlarut di permukaan perairan Pulau Selaru bekisar antara 11,30 - 13,50 mg/l dengan nilai rerata 12,40 mg/l. Konsentrasi DO minimum dijumpai pada perairan Namtabung sementara konsentrasi maksimum dijumpai pada perairan Adaut. Nilai-nilai kadar DO ini masih berada pada kisaran nilai yang dibolehkan maupun diinginkan untuk kegiatan konservasi dan budidaya biota laut menurut KepMen KLH No.02/1988.</p>
+<p>
+	Unsur hara seperti posfor, nitrat dan nitrit memiliki kecenderungan bervariasi. Konsentrasi fosfat pada lapisan permukaan perairan cukup tinggi dimana nilai berkisar antara 0,32 &ndash; 0,40 mg/l dengan nilai rerata 0,36 mg/l. Tingginya kandungan fosfat pada perairan ini diduga berhubungan dengan sumbangan zat hara melalui seresah yang berasal dari ekosistem bakau yang banyak ditemukan di Pulau Selaru. Kadar minimum fosfat dijumpai pada perairan pesisir Adaut sedangkan kadar maksimum di perairan pesisir Namtabung.</p>
+<p>
+	Seperti halnya fosfat, nitrit dan nitrat berfungsi sebagai indikator tingkat kesuburan perair-an, tetapi di permukaan perairan kadar nitrit sangat kecil karena di oksidasi menjadi nitrit. Kon-sentrasi nitrit akan meningkat kecuali pada daerah perairan neritik yang relatif dekat dengan buang-an limbah industri. Konsentrasi nitrit di perairan Pulau Selaru cenderung tinggi bervariasi antara 0,006 &ndash; 0,009 mg/l dengan nilai rerata 0,008 mg/l. Konsentrasi nitrit minimum ditemukan pada perairan sekitar pantai Namtabung sementara kandungan maksimum dijumpai di perairan Adaut. Sama halnya dengan nitrit, konsentrasi nitrat di permukaan perairan tinggi bervariasi antara 0,5 &ndash; 0,9 mg/l dengan nilai rerata 0,70 mg/l. Distribusi nilai nimum dan maksimum kandungan nitrat di perairan ini memiliki kesamaan pola dengan nitrit. Tingginya nilai konsentrasi nitrit dan nitrat di perairan ini diduga berhubungan dengan sumbangan kedua unsur ini kelalui seresah yang berasal dari ekosistem bakau yang banyak tumbuh disekitar perairan Pulau Selaru.</p>
+<p>
+	Selain kadar unsur hara oraganik, beberapa kandungan senyawa logam juga ditemukan di perairan P. Selaru. logam Kandungan Cr dan Cu di perairan Pulau Selaru ditemukan cukup signi-fikan dalam kolom air permukaan laut dan diduga kuat berhubungan dengan sumbangan kedua unsur melalui batuan dasar yang menyusun Pulau Selaru. Konsentrasi kadar nilai Cr diperairan ber-kisar antara 0,01-0,03 mg/l dengan nilai rerata 0,02 mg/l. Konsentrasi minimum unsur ini dijumpai pada perairan pesisir Namtabung sementara konsentrasi maksimum berada pada perairan pesisir Adaut. Konsentrasi kadar nilai Cu berkisar antara 0,56 - 0,65 mg/l dengan nilai rerata 0,61 mg/l. Konsentrasi nilai minimum ditemukan pada perairan sekitar Adaut sedangkan konsentrasi maksimum di perairan Namtabung.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="sp">Sarana dan Prasarana</a></h2>
+<p><div class="readmore"><p>
+	Sarana dan prasarana yang ada di Pulau Selaru antara lain: Sarana umum pemerintahan di Adaut (meliputi kantor camat, kantor UPTD Pendidikan Pemuda dan Olahraga, kantor Polsek, dan kantor Koramil), Sarana pendidikan (TK, SD, SMP, SMA cukup tersedia namun tenaga pendidik cukup terbatas), Sarana kesehatan penyebarannya belum merata di semua desa, Perikanan, dan sarana prasarana pendukung perikanan di Pulau Selaru (kapal penangkap ikan dan alat penangkap ikan).</p>
+</div></p>
+
+<hr>
+
+<h2><a id="pi">Peluang Investasi</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<h2><a id="pap">Potensi dan Arahan Pengembangan</a></h2>
+<p><div class="readmore"><p>
+	<strong>Potensi Sumberdaya Alam</strong></p>
+<p>
+	dengan luas 3.256,074 hektar, tersedia lahan daratan yang potensial untuk bertani dan berkebun. Begitu pula dengan lahan perairan pesisir sampai dengan zona kelola kabupaten yang dapat dimanfaatkan untuk perikanan dan kegiatan lainnya.</p>
+<p>
+	<strong>Pertanian dan Perkebunan</strong></p>
+<p>
+	merupakan salah satu sektor strategis di Pulau Selaru yang dikembangkan untuk memenuhi konsumsi lokal. Potensi pertanian diklasifikasikan ke dalam delapan jenis tanaman pangan (padi, jagung, ketela pohon, ketela rambat, kacang tanah, kacang hijau, kacang-kacangan &nbsp;dan umbi-umbian lainnya).&nbsp;</p>
+<p>
+	Potensi perkebunan terdiri dari jenis tanaman seperti kelapa, jambu mete, dan kemiri. Berdasarkan data BPS 2011 lausan area untuk beberapa jenis tanaman perkebunan yaitu kelapa 3.218 hektar, jambu mete 721 hektar. Produksi 2011, 5.294 ton kepala dan 465 ton jambu mete.</p>
+<p>
+	<strong>Peternakan</strong></p>
+<p>
+	Potensi ternak berupa sapi, kambing, ayam dan babi namun pengembangannya masih bersifat tradisional. Populasi ternak terdiri dari: sapi 28 ekor, kambing 5 ekor, babi 3.164 ekor, dan ayam 2.432 ekor.</p>
+<p>
+	<strong>Kondisi Perairan</strong></p>
+<p>
+	Kondisi perairan Selaru sangat menjanjikan untuk dikembangkan. Hal ini didukung faktor biokimia perairan seperti: kadar oksigen, kandungan fosfat dan nitrat serta klorofil-a sebagai indikator kesuburan perairan. Konsentrasi fosfat pada permukaan perairan cukup tinggi dengan kisaran 0,05 - 0,9 mg/l. Tingginya kandungan fosfat ini diduga berhubungan dengan sumbangan zat hara melalui seresah dari ekosistem bakau di Pulau Selaru. Konsentrasi nitrit di perairan cenderung tinggi, bervariasi antara 0,0001 - 0,0009 mg/l. Hasil liputan citra MODIS memperlihatkan klorofilia fitoplankton memiliki kandungan yang tinggi dengan nilai antara 75 - 1 mg/m3, menyebar di sekitar pantai Utara Pulau Selaru, yaitu perairan Adaut dan perairan pulau-pulau kecil di sekitarnya.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="kp">Kendala Pengembangan</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<h2><a id="rf">Referensi</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<br />
+	<i> 
+		<p style="font-size:12px;">
+			Karena keterbatasan SDM dalam penginputan dan pengolahan data, kami mohon maaf atas ketidak lengkapan beberapa data pulau yang kami tampilkan, harap dimaklumi.
+			Berikan keritik dan saran pada kolom komentar agar kita dapat bersama menyajikan sebuah data yang cukup sempurna untuk halayak ramai yang berguna
+			demi kesejahterahan, kelestarian dan keindahan pulau-pulau kecil yang dimiliki Indonesia.<br />
+			*Jika sekiranya anda memiliki data yang cukup banyak, silakan mengirimkan file melalui email kami di <b><a>identifikasippk@gmail.com</a></b>
+			
+		</p>
+	</i>
+<br />
+
+<div id="fb_comn" class="fb-comments" data-href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_info/335" data-width="800" data-numposts="5" data-colorscheme="light"></div>
+
+
+</div>
+</div>
+</div>
+<div id="wrapper">
+
+<div class="footer"><p>
+<!--<marquee onmouseover="this.stop()" onmouseout="this.start()" scrollamount="5" direction="right" width="798" height="14"  behavior="scroll">-->
+<a href="http://www.ppk-kp3k.kkp.go.id/" target="_blank">Direktorat Pendayagunaan Pulau-Pulau Kecil &nbsp; | &nbsp;</a>
+<a href="http://www.kp3k.kkp.go.id/" target="_blank">Ditjen Kelautan, Pesisir dan Pulau-Pulau Kecil &nbsp; | &nbsp;</a>
+<a href="http://www.kkp.go.id/" target="_blank">Kementerian Kelautan dan Perikanan</a>
+<!--</marquee>--> <br />
+Jl. Medan Merdeka Timur No. 16 Gedung Mina Bahari 3 Lantai 10, Jakarta, Indonesia <br />
+Email : identifikasippk@gmail.com <br />
+Telp &amp; Fax: (021) 3522058 <br />
+&copy; Copyright Direktorat Pendayagunaan Pulau-Pulau Kecil 2012&nbsp; <br /></p>
+</div>
+</div>
+</body>
+</html>

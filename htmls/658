@@ -1,0 +1,993 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Pulau Marit</title>
+
+<meta charset="utf-8"/>
+
+<meta property="fb:app_id" content="559408774147878" />
+
+
+<meta property="og:title" content="Pulau Marit" />
+<meta property="og:url" content="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_info/658" />
+
+
+    <script type="text/javascript" src="http://ajax.microsoft.com/ajax/jquery/jquery-1.4.4.min.js">
+    </script>
+    
+    <script type="text/javascript" src="http://plugins.learningjquery.com/expander/jquery.expander.js">
+    </script>
+    
+    <script type="text/javascript">
+        $(function () {
+            $('div.readmore').expander({
+                slicePoint:200,
+                expandText: '(Baca selengkapnya)',
+                userCollapseText: '(Sembunyikan selengkapnya)'
+            });
+        });
+    </script>
+        
+	<script src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/galleria/galleria-1.2.8.min.js"></script>
+
+        <SCRIPT TYPE="text/javascript">
+            <!--
+            //Disable right click script
+            //visit http://www.rainbow.arch.scriptmania.com/scripts/
+            var message="Sorry, right-click has been disabled";
+            ///////////////////////////////////
+            function clickIE() {if (document.all) {(message);return false;}}
+            function clickNS(e) {if
+            (document.layers||(document.getElementById&&!document.all)) {
+            if (e.which==2||e.which==3) {(message);return false;}}}
+            if (document.layers)
+            {document.captureEvents(Event.MOUSEDOWN);document.onmousedown=clickNS;}
+            else{document.onmouseup=clickNS;document.oncontextmenu=clickIE;}
+            document.oncontextmenu=new Function("return false")
+            // -->
+            </SCRIPT>
+            
+            <SCRIPT TYPE="text/javascript">
+            <!--
+            //Disable select-text script (IE4+, NS6+)
+            //visit http://www.rainbow.arch.scriptmania.com/scripts/
+            ///////////////////////////////////
+            function disableselect(e){
+            return false
+            }
+            function reEnable(){
+            return true
+            }
+            //if IE4+
+            document.onselectstart=new Function ("return false")
+            //if NS6
+            if (window.sidebar){
+            document.onmousedown=disableselect
+            document.onclick=reEnable
+            }
+            // -->
+            </SCRIPT>  
+              
+<link rel="stylesheet" type="text/css" href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/css/main.css" media="screen"/>
+<style type='text/css'>
+#info_wrap{
+	width:820px;
+	margin:0 auto;
+	text-shadow:0px 1px 1px #09F;
+}
+table{
+	color:#000000;
+}
+h1{
+	color:#000000;
+}
+.tengahin{
+	width: 105px;
+	height: 30px;
+	margin: 0 auto auto auto;
+}
+#box_view{
+	background-image:-webkit-gradient(linear, 0 0%, 0 100%, from(#FFFFFF), to(#E0F0F5));
+	background:#FFF;
+	color:#F60;
+	border: 1px solid #fff;
+	border-radius: 4px 4px 4px 4px;
+	box-shadow: 0 8px 6px -6px black;
+	position:fixed;
+	right:0;
+	top:150px;;
+	width:80px;
+	z-index:10;
+	padding-left:12px;
+	font-size:10px;
+	}
+#box_view li{
+	color:#F60;
+	margin-left:-30px;
+	}
+	#wrapper a b {
+	color: #FFF;
+	font-size:14px;
+}
+.batas{
+	float:left;
+	border-right-style:inset;
+	border-right-width:thin;
+	}
+.text_h_wrap{
+	
+	padding-left:450px;
+	padding-top:39px;
+	text-shadow:0px 1px 1px #09F;
+	}
+#wrapper .footer p{
+	font-size:12px;
+	color: #FFF;
+	text-align:center;
+	text-shadow:0px 1px 1px #09F;
+}
+td,th {
+	font-size: 12px;
+}
+
+marquee a{
+	color:#FFF
+	}
+#wrapper .footer a{
+	color: #FFFFFF;
+}
+</style>
+            
+<script>
+function goBack()
+  {
+  window.history.back()
+  }
+</script>
+<script type="text/javascript">
+function Popup( url, height, width )
+{
+    var windowProperties = "toolbar = 0, scrollbars = 1, location = 0, statusbar = 0, menubar = 0, resizable = 1, width = " + width + ", height = " + height + ", left = 50, top = 50";
+ 
+    return window.open( url, "", windowProperties );
+}
+</script>
+
+
+
+</head>
+<body oncontextmenu='return false;' onkeydown='return false;' onmousedown='return false;'>
+
+<a id="top_view"></a>
+<div id="wrapper">
+<div class="header_wrap">
+<div class="text_h_wrap">
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/home_page'><b>&nbsp;Home&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/menu_info/1'><b>&nbsp;About Us&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_data'><b>&nbsp;Direktori Pulau&nbsp;&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/program_ip'><b>&nbsp;IKU&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/data_ppkt'><b>&nbsp;PPKT&nbsp;</b></a>
+</div>
+<!--<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/maintenance'><b>&nbsp;Login&nbsp;</b></a>-->
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/dir_log_cont'><b>&nbsp;Login&nbsp;</b></a>
+
+</div>
+</div>
+</div>
+
+<div id="fb-root"></div>
+<script>
+  window.fbAsyncInit = function() {
+    // init the FB JS SDK
+    FB.init({
+      appId      : '559408774147878',                        // App ID from the app dashboard
+      status     : true,                                 // Check Facebook Login status
+      xfbml      : true                                  // Look for social plugins on the page
+    });
+
+    // Additional initialization code such as adding Event Listeners goes here
+  };
+
+  // Load the SDK asynchronously
+  (function(){
+     // If we've already installed the SDK, we're done
+     if (document.getElementById('facebook-jssdk')) {return;}
+
+     // Get the first script element, which we'll use to find the parent node
+     var firstScriptElement = document.getElementsByTagName('script')[0];
+
+     // Create a new script element and set its id
+     var facebookJS = document.createElement('script'); 
+     facebookJS.id = 'facebook-jssdk';
+
+     // Set the new script's source to the source of the Facebook JS SDK
+     facebookJS.src = '//connect.facebook.net/en_US/all.js';
+
+     // Insert the Facebook JS SDK into the DOM
+     firstScriptElement.parentNode.insertBefore(facebookJS, firstScriptElement);
+   }());
+</script>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=559408774147878";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="box_view">
+    <a href="#top_view">MENU</a>
+    <h3><p>Lihat Informasi:</p></h3>
+    <ul>
+	<a href="#sf"><li>Slide Foto</li></a>
+    <a href="#gu"><li>Gambaran Umum</li></a>
+    <a href="#ksbk"><li>Kependudukan, Sosial Budaya dan Kelembagaan</li></a>
+    <a href="#eshp"><li>Ekosistem dan Sumberdaya Hayati</li></a>
+    <a href="#snh"><li>Sumberdaya Non Hayati</li></a>
+    <a href="#aps"><li>Aktivitas Pengelolaan Sumberdaya</li></a>
+    <a href="#ling"><li>Lingkungan</li></a>
+    <a href="#sp"><li>Sarana dan Prasarana</li></a>
+    <a href="#pi"><li>Peluang Investasi</li></a>
+    <a href="#pap"><li>Potensi Arahan Pengembangan</li></a>
+    <a href="#kp"><li>Kendala Pengembangan</li></a>
+	<a href="#rf"><li>Referensi</li></a>
+    </ul>
+    <a href="#fb_comn">KOMENTAR</a>
+</div>
+
+<br>
+			<a id="sf"></a></h2>
+			<div id="galleria">
+            <!--<div class='tengahin'><input type="button" value="Kembali Ke List" onclick="goBack()"></div>-->
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/1cd6-marit043-lorong-susua1--7-.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__1cd6-marit043-lorong-susua1--7-.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/2fd2-marit043-lorong-susua1--10-.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__2fd2-marit043-lorong-susua1--10-.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/d830-marit043-lorong-susua1--12-.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__d830-marit043-lorong-susua1--12-.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/1020-marit001-dermaga--4-.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__1020-marit001-dermaga--4-.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/0b35-marit001-dermaga--5-.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__0b35-marit001-dermaga--5-.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/a629-marit001-dermaga--6-.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__a629-marit001-dermaga--6-.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/4196-marit004-balogawa--4-.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__4196-marit004-balogawa--4-.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/e9e1-marit004-balogawa--6-.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__e9e1-marit004-balogawa--6-.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/83de-marit004-balogawa--1-.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__83de-marit004-balogawa--1-.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/69be-marit004-balogawa--7-.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__69be-marit004-balogawa--7-.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/a2d0-marit004-balogawa--12-.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__a2d0-marit004-balogawa--12-.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/14c4-marit004-balogawa--11-.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__14c4-marit004-balogawa--11-.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/6ae8-marit004-balogawa--20-.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__6ae8-marit004-balogawa--20-.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/5049-marit005-ujung-pasir--1-.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__5049-marit005-ujung-pasir--1-.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/91a6-marit005-ujung-pasir--2-.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__91a6-marit005-ujung-pasir--2-.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/19fc-marit005-ujung-pasir--7-.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__19fc-marit005-ujung-pasir--7-.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/ed33-marit006-sawoloene--1-.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__ed33-marit006-sawoloene--1-.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/47b4-marit006-sawoloene--6-.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__47b4-marit006-sawoloene--6-.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/57ab-marit006-sawoloene--13-.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__57ab-marit006-sawoloene--13-.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/39ed-marit006-sawoloene--18-.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__39ed-marit006-sawoloene--18-.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/421c-marit006-sawoloene--19-.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__421c-marit006-sawoloene--19-.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/3dcc-marit006-sawoloene--20-.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__3dcc-marit006-sawoloene--20-.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/c157-marit006-sawoloene--24-.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__c157-marit006-sawoloene--24-.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/4d52-marit007-sumur-air--1-.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__4d52-marit007-sumur-air--1-.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/44d9-marit007-sumur-air--7-.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__44d9-marit007-sumur-air--7-.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/e2d3-marit008.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__e2d3-marit008.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/d08d-marit010-satu-rumah.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__d08d-marit010-satu-rumah.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/cd51-marit010-satu-rumah--3-.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__cd51-marit010-satu-rumah--3-.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/710c-marit011-simpang-jalan--2-.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__710c-marit011-simpang-jalan--2-.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/6b7d-marit011-simpang-jalan--3-.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__6b7d-marit011-simpang-jalan--3-.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/a399-marit012-puskesmas.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__a399-marit012-puskesmas.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/c956-marit012-puskesmas--1-.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__c956-marit012-puskesmas--1-.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/5fa9-marit012-puskesmas--7-.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__5fa9-marit012-puskesmas--7-.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/187b-marit012-puskesmas--17-.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__187b-marit012-puskesmas--17-.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/0eb5-marit012-puskesmas--10-.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__0eb5-marit012-puskesmas--10-.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/8387-marit012-puskesmas--18-.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__8387-marit012-puskesmas--18-.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/3ddc-marit013.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__3ddc-marit013.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/7847-marit012-puskesmas--21-.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__7847-marit012-puskesmas--21-.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/c6eb-marit012-puskesmas--19-.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__c6eb-marit012-puskesmas--19-.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/4098-marit013--3-.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__4098-marit013--3-.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/535c-marit013--5-.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__535c-marit013--5-.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/720e-marit013--4-.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__720e-marit013--4-.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/809c-marit013--11-.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__809c-marit013--11-.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/dcd2-marit013--13-.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__dcd2-marit013--13-.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/1541-marit015--1-.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__1541-marit015--1-.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/fbf0-marit015--9-.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__fbf0-marit015--9-.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/027e-marit015--13-.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__027e-marit015--13-.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/7bd8-marit016-reke-dua--9-.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__7bd8-marit016-reke-dua--9-.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/105d-marit016-reke-dua--2-.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__105d-marit016-reke-dua--2-.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/a724-marit015--18-.avi"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__a724-marit015--18-.avi" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/2ed3-marit016-reke-dua--16-.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__2ed3-marit016-reke-dua--16-.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/ac2c-marit016-reke-dua--20-.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__ac2c-marit016-reke-dua--20-.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/03b0-marit016-reke-dua--22-.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__03b0-marit016-reke-dua--22-.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/2407-marit016-reke-dua--23-.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__2407-marit016-reke-dua--23-.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/8ba8-marit016-reke-dua--25-.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__8ba8-marit016-reke-dua--25-.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/35f6-marit017--3-.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__35f6-marit017--3-.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/2502-marit018-simpang-tiga--2-.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__2502-marit018-simpang-tiga--2-.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/9263-marit018-simpang-tiga--4-.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__9263-marit018-simpang-tiga--4-.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/8813-marit018-simpang-tiga--6-.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__8813-marit018-simpang-tiga--6-.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/9710-marit018-simpang-tiga--8-.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__9710-marit018-simpang-tiga--8-.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/af90-marit019-kuburan.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__af90-marit019-kuburan.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/4295-marit020-gereja-katolik.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__4295-marit020-gereja-katolik.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/8641-marit020-gereja-katolik--2-.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__8641-marit020-gereja-katolik--2-.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/011b-marit022-sd.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__011b-marit022-sd.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/ed83-marit022-sd--1-.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__ed83-marit022-sd--1-.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/056b-marit022-sd--4-.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__056b-marit022-sd--4-.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/e89b-marit022-sd--5-.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__e89b-marit022-sd--5-.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/9729-marit022-sd--10-.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__9729-marit022-sd--10-.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/f54f-marit024-gereja-bnkp.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__f54f-marit024-gereja-bnkp.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/eb45-marit024-gereja-bnkp--1-.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__eb45-marit024-gereja-bnkp--1-.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/60bc-marit024-gereja-bnkp--6-.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__60bc-marit024-gereja-bnkp--6-.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/9f2f-marit024-simpang-tiga.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__9f2f-marit024-simpang-tiga.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/8622-marit026-mataidone--1-.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__8622-marit026-mataidone--1-.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/348f-marit026-mataidone--2-.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__348f-marit026-mataidone--2-.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/528c-marit026-mataidone--3-.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__528c-marit026-mataidone--3-.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/07ed-marit026-mataidone--6-.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__07ed-marit026-mataidone--6-.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/12ce-marit026-mataidone--7-.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__12ce-marit026-mataidone--7-.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/1a30-marit026-mataidone--9-.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__1a30-marit026-mataidone--9-.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/4c24-marit027-kuburan-islam.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__4c24-marit027-kuburan-islam.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/24b8-marit027-kuburan-islam--2-.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__24b8-marit027-kuburan-islam--2-.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/1df2-marit027-kuburan-islam--4-.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__1df2-marit027-kuburan-islam--4-.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/2653-marit027-kuburan-islam--6-.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__2653-marit027-kuburan-islam--6-.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/fa46-marit027-kuburan-islam--8-.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__fa46-marit027-kuburan-islam--8-.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/a3a5-marit027-kuburan-islam--9-.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__a3a5-marit027-kuburan-islam--9-.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/6161-marit027-kuburan-islam--10-.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__6161-marit027-kuburan-islam--10-.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/8cb9-marit028-kuburan-kristen.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__8cb9-marit028-kuburan-kristen.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/0849-marit028-kuburan-kristen--2-.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__0849-marit028-kuburan-kristen--2-.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/ee64-marit029-luahaidano--2-.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__ee64-marit029-luahaidano--2-.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/fe65-marit029-luahaidano--4-.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__fe65-marit029-luahaidano--4-.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/f0ea-marit029-luahaidano--9-.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__f0ea-marit029-luahaidano--9-.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/455f-marit029-luahaidano--10-.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__455f-marit029-luahaidano--10-.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/d988-marit029-luahaidano--15-.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__d988-marit029-luahaidano--15-.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/9553-marit033-baruyu-saibua.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__9553-marit033-baruyu-saibua.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/584b-marit033-baruyu-saibua--6-.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__584b-marit033-baruyu-saibua--6-.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/80d8-marit033-baruyu-saibua--9-.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__80d8-marit033-baruyu-saibua--9-.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/3aba-marit033-baruyu-saibua--10-.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__3aba-marit033-baruyu-saibua--10-.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/6b20-marit033-baruyu-saibua--18-.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__6b20-marit033-baruyu-saibua--18-.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/6b8e-marit034-gereja-gki--7-.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__6b8e-marit034-gereja-gki--7-.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/27b0-marit036-pasar-toko.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__27b0-marit036-pasar-toko.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/3ca1-marit036-pasar-toko--1-.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__3ca1-marit036-pasar-toko--1-.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/fcb4-marit036-pasar-toko--3-.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__fcb4-marit036-pasar-toko--3-.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/a5b3-marit037-hilimbowo--1-.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__a5b3-marit037-hilimbowo--1-.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/0ea7-marit037-hilimbowo--3-.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__0ea7-marit037-hilimbowo--3-.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/6d1b-marit037-hilimbowo--10-.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__6d1b-marit037-hilimbowo--10-.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/c679-marit037-hilimbowo--12-.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__c679-marit037-hilimbowo--12-.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/5f1a-marit037-hilimbowo--13-.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__5f1a-marit037-hilimbowo--13-.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/ea56-marit040-kuburan--1-.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__ea56-marit040-kuburan--1-.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/e5f2-marit040-kuburan--3-.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__e5f2-marit040-kuburan--3-.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/769d-marit041-aforegobo--3-.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__769d-marit041-aforegobo--3-.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/cd3e-marit041-aforegobo--9-.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__cd3e-marit041-aforegobo--9-.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/666d-marit041-aforegobo--12-.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__666d-marit041-aforegobo--12-.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/0eb0-marit042-kantor-camat--3-.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__0eb0-marit042-kantor-camat--3-.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/0e19-marit042-kantor-camat.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__0e19-marit042-kantor-camat.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/5837-marit043-lorong-susua1--3-.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__5837-marit043-lorong-susua1--3-.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/4ec0-marit043-lorong-susua1--5-.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__4ec0-marit043-lorong-susua1--5-.jpg" data-description=""></a></p>
+                            </div>
+            
+            <script>
+            Galleria.loadTheme('http://www.ppk-kp3k.kkp.go.id/direktori-pulau/galleria/themes/classic/galleria.classic.min.js');
+            Galleria.run('#galleria');
+            </script>
+</div>
+
+<div id="text_warp">
+
+
+<p><h1>Marit</h1></p>
+<table>
+<tr>
+	<td>Nama Lain</td> <td>:</td> <td></td>
+</tr>
+<tr>
+	<td>Propinsi</td> <td>:</td> <td>SUMATERA UTARA</td>
+</tr>
+<tr>
+	<td>Kabupaten</td> <td>:</td> <td>KABUPATEN NIAS SELATAN</td>
+</tr>
+<tr>
+	<td>Kecamatan</td> <td>:</td> <td>Pulau-pulau Batu Utara</td>
+</tr>
+<tr>
+	<td>Koordinat</td> <td>:</td> <td><a href="http://www.ppk-kp3k.kkp.go.id/giskkp/index.html?extent="target="_blank">	0° 0' 18.8" LS dan 98° 14' 47.1"BT</a></td>
+</tr>
+</table>
+<hr>
+
+<h2><a id="gu">Gambaran Umum</a></h2>
+<p><div class="readmore"><p style="margin-left:.25in;">
+	Pulau Marit secara administrasi terletak di Kecamatan Pulau-Pulau Batu Utara, dengan jumlah berpenduduk 1.350 jiwa. Pulau Marit memiliki 3 Desa yaitu Desa Silina Banua Marit, Desa Marit Baru dan Desa Afore Gobo.</p>
+<p style="margin-left:.25in;">
+	Secara geografis Pulau Simuk terletak pada titik koordinat 0&deg;&nbsp;0&#39;&nbsp;18.8&quot; LS dan 98&deg;&nbsp;14&#39;&nbsp;47.1&quot;BT dengan batas-batas wilayah sebagai berikut:</p>
+<ul>
+	<li>
+		Sebelah Utara berbatasan dengan Teluk Dalam Kabupaten Nias Selatan</li>
+	<li>
+		Sebelah Selatan berbatasan dengan Kecamatan Pulau-Pulau Batu</li>
+	<li>
+		Sebelah Barat berbatasan dengan Kecamatan Pulau-Pulau Batu Barat dan Kecamatan Simuk</li>
+	<li>
+		Sebelah Timur berbatasan dengan Kecamatan Pulau-Pulau Batu Timur</li>
+</ul>
+<p style="margin-left:14.2pt;">
+	Kemajuan sebuah daerah ditandai dengan adanya pembenahan struktur dan tata kelola pemerintahan yang baik. Untuk mensejahterakan masyarakat daerah Nias Selatan, pemerintah senantiasa memperhatikan keluhan masyarakat. Keluhan tersebut ditanggapi oleh pemerintah Kabupaten Nias Selatan dengan pemekaran 17 Kecamatan yang baru di wilayah Kabupaten Nias Selatan, yang diantaranya Kecamatan Pulau-Pulau Batu Utara yang diresmikan pada Kamis 04 April 2013 di Desa Afore Gobo Pulau Marit.</p>
+<p style="margin-left:14.2pt;">
+	Kecamatan Pulau-Pulau Batu Utara mencakup 5 Pulau yaitu Pulau Biang, Pulau Lorang, Pulau Memong, Pulau Tana Masa (sebagian wilayah), Pulau Marit dan 12 Desa yaitu Zia Boy, Limo Biang, Siofa Banua Lorang, Majino Lorang, Memong, Bale-Bale, Bale-Bale Sibohou, Teluk Limo, Wawa, Silima Banua Marit, Marit Baru, dan Afore Gobe, ibukota Kecamatan Pulau-Pulau Batu Utara&nbsp; terletak di Pulau Marit.</p>
+<p style="margin-left:14.2pt;">
+	Masyarakat dapat menikmati pendidikan gratis dan pelayanan kesehatan yang gratis. Harapan masyarakat adalah alat penangkapan ikan berupa Boat yang membantu masyarakat Kecamatan Pulau-pulau Batu Utara karena umumnya pekerjaan sebagai nelayan dan juga perhatian Pemkab Nias Selatan memberikan penyuluhan kesadaran akan pencemaran lingkungan yang akhir-akhir ini mulai merambah pada pengemboman laut, pembuangan sampah di laut dan pencemaran lainnya. Seiring dengan keluhan masyarakat Pulau-Pulau Batu Utara,</p>
+<p style="margin-left:14.2pt;">
+	Agar pemekaran kecamatan ini menjadikan Pulau-pulau Batu Utara mampu dalam pengembangan dan perkembangan Kecamatan Pulau-Pulau Batu Utara, lanjutnya memberikan dukungan kepada Pemkab Nias Selatan melalui lembaga yang dinaunginya dalam memberikan sumbangsih yang dibutuhkan kecamatan Pulau-Pulau Batu Utara. Agar masyarakat Pulau-Pulau Batu Utara mampu melestarikan lingkungan sekitarnya dan tidak melakukan hal-hal yang berakibat buruk terhadap lingkungan laut dimana pengeboman dan pembuangan sampah sembarang di laut.</p>
+<p style="margin-left:14.2pt;">
+	Sesuai dengan program pro rakyat dan cerdas berani melalui terobosan-terobosan seperti yang sudah dinikmati masyarakat Nias Selatan secara umum yakni biaya pendidikan dan pelayanan kesehatan gratis bahkan jika masyarakat yang kurang mampu, Pemkab Nias Selatan siap merujuk ke rumah sakit yang ada di kabupaten serta jika masyarakat penderita tidak mampu ditangani di kabupaten akan dirujuk ke rumah sakit provinsi dengan biaya rumah sakit dan transportasi ditanggung oleh Pemerintah daerah Nias Selatan secara gratis.</p>
+<p style="margin-left:14.2pt;">
+	Jumlah kapal tradisional nelayan berjumlah 5 unit, hal ini disebabkan ombak di Pulau Marit terkenal menantang dan berubah-ubah. Kekuatan ombak mampu menghempas kapal nelayan yang berlabuh di sepanjang pulau, sehingga mengakibatkan kerusakan kapal nelayan.</p>
+<p style="margin-left:14.2pt;">
+	Terumbu karang sebagai salah satu sumberdaya hayati laut memimiliki peranan penting dalam sistem ekologi perairan pesisir dan laut.&nbsp; Kerusakan terumbu karang menyebabkan terganggunya <em>spawning ground</em>, <em>nursery ground</em> dan <em>feeding ground</em> bagi berbagai jenis ikan dan udang yang bernilai ekonomis. Kegiatan penangkapan ikan dengan menggunakan alat tangkap dan tidak ramah lingkungan pada dasarnya merupakan kegiatan penangkapan ikan yang tidak legal.&nbsp; Penggunaan bom, racun, pukat harimau, dan alat tangkap lainnya yang tidak selektif, menyebabkan terancamnya kelestarian sumberdaya hayati laut, akibat kerusakan habitat biota laut dan kematian sumberdaya&nbsp; ikan.</p>
+<p style="margin-left:14.2pt;">
+	Dewasa ini, sumberdaya terumbu karang yang ada di Kabupaten Nias Selatan&nbsp; telah mengalami kerusakan.&nbsp;&nbsp; Penyebab utama kerusakan terumbu karang di Nias Selatan adalah akibat kegiatan perikanan yang tidak ramah lingkungan, seperti penggunaan bahan peledak, racun dan pukat harimau untuk penangkapan ikan (<em>illegal fisihing</em>). Selain itu, penambangan karang sebagai bahan bangunan, pengambilan bunga karang sebagai&nbsp; souvenir,&nbsp; dan tektonik bumi merupakan faktor yang mempercepat degradasi terumbu karang.</p>
+<p style="margin-left:14.2pt;">
+	Untuk mencegah semakin buruknya kondisi terumbu karang di Kabupaten Nias Selatan dan untuk melindungi terumbu karang yang masih eksis, maka diperlukan suatu kebijakan dan strategi perlindungan terumbu karang. Agar kebijakan terarah dan efektif, maka sangat dibutuhkan data dasar (profil) perikanan destruktif di Kabupaten Nias Selatan.&nbsp; Profil perikanan destruktif ini mencakup jenis dan alat tangkap yang tidak ramah lingkungan yang merusak habitat dan sumberdaya hayati, wilayah operasi penangkapan ilegal (<em>illegal fishing ground</em>),&nbsp; pangkalan&nbsp; kapal penangkap ilegal, tempat-tempat pendaratan ikan hasil ilegal, proses hukum aktivitas perikanan destruktif dan sistem pengawasan dan pengendalian destruktif fishing di Kabupaten Nias Selatan.</p>
+<p style="margin-left:14.2pt;">
+	sumber :</p>
+<p>
+	1. Laporan Tim Identidfikasi Subdit IP Tahun 2013, Kasih</p>
+<p>
+	2. Buku Direktori Pulau-pulau di Propinsi Sumatera Utara, Direktorat PPK, Ditjen KP3K, KKP tahun 2010</p>
+</div></p>
+
+<hr>
+
+<h2><a id="ksbk">Kependudukan, Sosial Budaya dan Kelembagaan</a></h2>
+<p><div class="readmore"><p>
+	Pulau Marit adalah ibukota Kecamatan Pulau-Pulau Batu Utara memiliki penduduk sebanyak 1.350 jiwa hidup, dengan jumlah laki-laki 642 jiwa dan perempuan 708 jiwa. Desa Silima Banua Marit memiliki jumlah penduduk paling banyak dibandingkan dengan desa lainnya, yaitu sebayak 645 jiwa. Sedangkan jumlah penduduk paling sedikit adalah Desa Marit Baru yaitu 324 jiwa. Penduduk di Pulau Marit mayoritas beragama Kristen dan Katolik, hanya sebagian kecil yang beragama Islam. Khusus di Desa Silina Banua Marit, hanya satu keluarga yang menganut agama Islam. Namun begitu, belum pernah terjadi perpecahan antar umat beragama. Mereka saling menghormati keyakinannya masing-masing. Ada 5 (lima) buah gereja sebagai sarana peribadatan penduduk di Pulau Marit. Masing-masing tersebar di Desa Silina Banua Marit, Desa Marit Baru, dan Desa Afore Gobe</p>
+<p>
+	&nbsp;</p>
+</div></p>
+
+<hr>
+
+<h2><a id="eshp">Ekosistem dan Sumberdaya Hayati</a></h2>
+<p><div class="readmore"><p>
+	Alam Pulau Marit sangat mempesona, dengan hamparan pasir putih di sekeliling pulau serta warna air laut yang bergradasi. Obyek wisata bahari yang dapat dikembangkan adalah &nbsp;selancar, memancing, wisata selam, <em>snorkeling</em>, wisata pantai , berenang, dan wisata desa binaan.</p>
+<p>
+	<br />
+	Potensi perkebunan kelapa di Pulau Marit sangat menjanjikan. Para penduduk di Pulau Marit boleh berbangga hati karena pulau ini memiliki kebun kelapa yang melimpah. Kelapa merupakan hasil pertanian yang sangat penting sehingga menduduki tempat pertama disusul cengkeh.<br />
+	Di sektor pertanian ini, Pulau Marit cukup menjanjikan untuk dikembangkan di masa yang akan datang mengingat areal pertanian cukup luas dan komoditinya cukup besar. Ke depannya, diharapkan produk yang dihasilkan bukan saja kopra, tetapi dapat menghasilkan produk lain yang bernilai ekonomis dan kompetitif sehingga dapat meningkatkan pendapatan petani yang akhirnya dapat meningkatkan kesejahteraan petani dan penduduk Pulau Marit pada umunnya seperti Kerajinan Gerabah dari tanah liat.<br />
+	Dari segi peternakan, hewan-hewan ternak yang dipelihara pendudk di Pulau Marit ini masih sebatas untuk keperluan konsumsi sendiri seperti : babi, kambing, ayam</p>
+</div></p>
+
+<hr>
+
+<h2><a id="snh">Sumberdaya Non Hayati</a></h2>
+<p><div class="readmore"><p>
+	Tidak terdapat data mengenai sumberdaya hayati non pesisir di Pulau Marit.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="aps">Aktivitas Pengelolaan Sumberdaya</a></h2>
+<p><div class="readmore"><p>
+	Hanya sebagian kecil dari&nbsp; penduduk Pulau Marit yang merupakan nelayan. Mereka adalah nelayan tradisional yang hanya menjaring ikan di sekitar Selatan dan Barat Pulau Marit, satu-satunya perairan di sekitar Marit yang ombaknya bersahabat sepanjang hari. Aktivitas penangkapan ikan di Pulau Marit masih diusahakan secara tradisional, dapat dilihat dari jenis alat tangkap yang digunakan dan perahu yang masih banyak dijumpai adalah perahu nelayan berukuran kecil tanpa motor.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="ling">Lingkungan</a></h2>
+<p><div class="readmore"><p style="margin-left:14.2pt;">
+	<strong>Kondisi Iklim</strong></p>
+<p style="margin-left:14.2pt;">
+	Keadaan iklim Kabupaten Nias dipengaruhi oleh Samudera Hindia. Suhu udara dalam satu tahun rata-rata 25,9 &deg; C per bulan dengan rata-rata minimum 21,2&deg; C dan rata-rata maksimum 30,3 &deg; C.</p>
+<p style="margin-left:14.2pt;">
+	Kecapatan angin rata-rata dalam satu tahun sebesar 5,6 knot/jam dan bisa mencapai rata-rata kecepatan maksimum sebesar 19,8 knot/jam dengan arah angin terbanyak berasal dari arah utara. Kondisi seperti ini disamping curah hujan yang tinggi mengakibatkan sering terjadinya badai besar. Musim badai laut setiap tahun biasanya terjadi antara bulan September, tetapi kadang-kadang terjadi juga pada bulan Agustus dan cuaca bisa berubah secara mendadak</p>
+</div></p>
+
+<hr>
+
+<h2><a id="sp">Sarana dan Prasarana</a></h2>
+<p><div class="readmore"><p style="margin-left:14.2pt;">
+	<strong>Aksesbilitas</strong></p>
+<p style="margin-left:14.2pt;">
+	Aksesbilitas atau sarana transportasi menuju Pulau Marit dapat ditempuh dari Medan dengan beberapa alternatif yaitu sebagai berikut:</p>
+<ol style="list-style-type:lower-alpha;">
+	<li>
+		Jalur Udara</li>
+</ol>
+<p style="margin-left:28.35pt;">
+	Penerbangan perintis carter ke Bandar Udara Lasondre dilakukan dua kali dalam sepekan yakni pada hari Selasa dan Kamis dengan rute Medan-Sibolga-Pulau Tello-Nias-Padang menggunakan pesawat jenis Cassa 212 seri 200 berkapasitas 22 tempat duduk milik PT Nusantara Buana Air (NBA).</p>
+<p style="margin-left:28.35pt;">
+	Sedangkan penerbangan carter umumnya berasal dari Bandara Internasional Minangkabau di Sumatera Barat dengan frekwensi tiga kali dalam sebulan.</p>
+<p style="margin-left:28.35pt;">
+	<strong>Bandar Udara Lasondre</strong> adalah <a href="http://id.wikipedia.org/wiki/Bandar_udara" title="Bandar udara">bandar udara</a> yang terletak di ujung utara <a href="http://id.wikipedia.org/w/index.php?title=Pulau_Tanah_Masa&amp;action=edit&amp;redlink=1" title="Pulau Tanah Masa (halaman belum tersedia)">Pulau Tanah Masa</a>, Kecamatan <a href="http://id.wikipedia.org/wiki/Pulau-pulau_Batu,_Nias_Selatan" title="Pulau-pulau Batu, Nias Selatan">Pulau-pulau Batu</a>, Kabupaten <a href="http://id.wikipedia.org/wiki/Nias_Selatan" title="Nias Selatan">Nias Selatan</a>, <a href="http://id.wikipedia.org/wiki/Sumatera_Utara" title="Sumatera Utara">Sumatera Utara</a>. Bandara ini memiliki Panjang Landasan / Arah / PCN&nbsp;: 1400 x 23 m / 06-24 / 5 FCZU, serta mempunyai Terminal Domestik&nbsp;: 120 M2 Jenis pesawat yang bisa mendarat&nbsp;: Fokker 50/Avro RJ100.</p>
+<ol style="list-style-type:lower-alpha;">
+	<li value="2">
+		jalur Udara, dengan menggunakan Pesawat &ldquo;Wings Air&rdquo; atau &ldquo;Merpati&rdquo; dari Medan (Polonia) ke Gunung Sitoli (Binaka) berangkat tiap hari jam 07.00 pagi. Disambung dengan penerbangan ke Pulau Tanamasa (Lasondre) di Kecamatan Pulau-Pulau Batu. Kemudian dilanjutkan dengan menggunakan kapal dari Pulau Tanamasa ke Pulau Simuk dengan menempuh perjalanan kurang lebih 2 (dua) jam.</li>
+	<li value="3">
+		Jalur Darat, dengan menggunakan kendaraan umum (Taxi) dari Medan menuju Kota Sibolga. Dilanjutkan dengan menggunakan kapal kayu/kapal penumpang menuju Pulau Tello selama 8 (delapan) jam. Dari Pulau Tello perjalanan dilanjutkan dengan kapal tradisional menuju Pulau Marit dengan jarak tempuh selama 1 (satu) jam. Kapal fery dengan frekwensi sekali dalam dua pekan untuk menjangkau daratan Pulau Marit dengan rute Sibolga-Teluk Dalam-Pulau Tello berkapasitas 350 orang penumpang dengan jenis mesin 750 Gross Ton (GT) milik PT Angkutan Sungai Danau dan Penyeberangan (ASDP). Dari pelabuhan tello menggunakan kapal sewa yang menempuh waktu 1 jam ke Pulau Marit.</li>
+</ol>
+<p style="margin-left:28.35pt;">
+	&nbsp;</p>
+<p style="margin-left:28.35pt;">
+	Pelabuhan Pulau Tello cukup besar untuk beberapa jenis kapal. Lokasinya sangat strategis karena secara geografis terlindung oleh Pulau Tanah Masa sehingga bebas dari ombak besar. Sangat aman bagi kapal/perahu yang berlabuh. Pelabuhan ini juga dilengkapi dengan detektor air pasang.</p>
+<p style="margin-left:28.35pt;">
+	Alat transportasi yang digunakan penduduk di Pulau Marit ini adalah sepeda dan sebagian kecil menggunakan motor. Jalan &ndash; jalan di desa ini merupakan jalan setapak dengan daratan pasir, sehingga tidak menyakiti telapak kaki. Selain itu terdapat jalan semen yang dibangun secara bertahap oleh sawadaya masyarakat dan Pemerintah Daerah Kabupaten.</p>
+<p>
+	&nbsp;</p>
+<p style="margin-left:28.35pt;">
+	<strong>Penerangan</strong></p>
+<p style="margin-left:28.35pt;">
+	Untuk penerangan di rumahnya masing- masing, penduduk&nbsp; desa&nbsp; menggunakan generator/genset diesel sebagai sumber energinya diselenggarakan secara mandiri oleh masyarakat yang menyala dari jam 18.00 sore sampai 21.00 malam. Hal ini dilakukan karena memang belum ada aliran listrik dari PLN yang sampai ke Pulau Marit.</p>
+<p style="margin-left:28.35pt;">
+	Kebutuhan penduduk Pulau Marit akan air bersih dipenuhi dengan pembuatan sumur secara swadaya oleh penduduk setempat. Sebagian rumah penduduknya sudah mempunyai sumur sendiri di rumahnya masing-masing. Kedalaman sumur mereka rata-rata sedalam 5- 12 m, namun pada masa-masa kemarau, air sumur banyak yang kering seriring tidak turunnya hujan dalam kurun waktu yang lama. Hanya pada sumur umum dengan kedalaman 12 m mereka mengantungkan harapan mendapatkan air bersihnya. Letak sumur umum ini di tengah-tengah desa.</p>
+<p style="margin-left:28.35pt;">
+	<strong>Sarana Kesehatan</strong></p>
+<p style="margin-left:28.35pt;">
+	Unit Pelaksana Teknis Daerah (UPTD) Puskesmas Pembantu (Pustu) di Pulau Marit terdapat di Desa Afore Gobe. Letaknya di tengah-tengah pemukiman penduduk. Sebagai satu-satunya sarana kesehatan yang ada di Pulau Marit, sebenarnya keberadaan Pustu ini masih dirasa kurang untuk melayani penduduk Pulau Marit mengingat Pulau Marit sebagai ibukota Kecamatan Pulau-Pulau Batu Utara. Apalagi, tenaga kesehatan yang ada hanya seorang bidan desa.</p>
+<p align="center" style="margin-left:.25in;">
+	Tabel: Jumlah Sarana Kesehatan Dirinci Menurut Desa/Kelurahan</p>
+<table align="center" border="1" cellpadding="0" cellspacing="0" width="624">
+	<tbody>
+		<tr>
+			<td style="width:38px;">
+				<p align="center">
+					<strong>No.</strong></p>
+			</td>
+			<td style="width:104px;">
+				<p align="center">
+					<strong>Desa / Kelurahan</strong></p>
+			</td>
+			<td style="width:57px;">
+				<p align="center">
+					<strong>Rumah Sakit</strong></p>
+			</td>
+			<td style="width:57px;">
+				<p align="center">
+					<strong>Puskes</strong></p>
+				<p align="center">
+					<strong>mas</strong></p>
+			</td>
+			<td style="width:57px;">
+				<p align="center">
+					<strong>Pustu</strong></p>
+			</td>
+			<td style="width:66px;">
+				<p align="center">
+					<strong>Pusling</strong></p>
+			</td>
+			<td style="width:47px;">
+				<p align="center">
+					<strong>Klinik</strong></p>
+			</td>
+			<td style="width:66px;">
+				<p align="center">
+					<strong>Polindes</strong></p>
+			</td>
+			<td style="width:76px;">
+				<p align="center">
+					<strong>Posyandu</strong></p>
+			</td>
+			<td style="width:57px;">
+				<p align="center">
+					<strong>Jumlah</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:38px;">
+				<p align="center">
+					1.</p>
+			</td>
+			<td style="width:104px;">
+				<p>
+					Silima Banua Marit</p>
+			</td>
+			<td style="width:57px;">
+				<p align="center">
+					-</p>
+			</td>
+			<td style="width:57px;">
+				<p align="center">
+					-</p>
+			</td>
+			<td style="width:57px;">
+				<p align="center">
+					1</p>
+			</td>
+			<td style="width:66px;">
+				<p align="center">
+					-</p>
+			</td>
+			<td style="width:47px;">
+				<p align="center">
+					-</p>
+			</td>
+			<td style="width:66px;">
+				<p align="center">
+					-</p>
+			</td>
+			<td style="width:76px;">
+				<p align="center">
+					1</p>
+			</td>
+			<td style="width:57px;">
+				<p align="center">
+					2</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:38px;">
+				<p align="center">
+					2.</p>
+			</td>
+			<td style="width:104px;">
+				<p>
+					Marit Baru</p>
+			</td>
+			<td style="width:57px;">
+				<p align="center">
+					-</p>
+			</td>
+			<td style="width:57px;">
+				<p align="center">
+					-</p>
+			</td>
+			<td style="width:57px;">
+				<p align="center">
+					-</p>
+			</td>
+			<td style="width:66px;">
+				<p align="center">
+					-</p>
+			</td>
+			<td style="width:47px;">
+				<p align="center">
+					-</p>
+			</td>
+			<td style="width:66px;">
+				<p align="center">
+					-</p>
+			</td>
+			<td style="width:76px;">
+				<p align="center">
+					1</p>
+			</td>
+			<td style="width:57px;">
+				<p align="center">
+					1</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:38px;">
+				<p align="center">
+					3.</p>
+			</td>
+			<td style="width:104px;">
+				<p>
+					Afore Gobo</p>
+			</td>
+			<td style="width:57px;">
+				<p align="center">
+					-</p>
+			</td>
+			<td style="width:57px;">
+				<p align="center">
+					-</p>
+			</td>
+			<td style="width:57px;">
+				<p align="center">
+					-</p>
+			</td>
+			<td style="width:66px;">
+				<p align="center">
+					-</p>
+			</td>
+			<td style="width:47px;">
+				<p align="center">
+					-</p>
+			</td>
+			<td style="width:66px;">
+				<p align="center">
+					-</p>
+			</td>
+			<td style="width:76px;">
+				<p align="center">
+					1</p>
+			</td>
+			<td style="width:57px;">
+				<p align="center">
+					1</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<div style="clear:both;">
+	&nbsp;</div>
+<p style="margin-left:19.5pt;">
+	&nbsp;&nbsp;&nbsp; Sumber : Badan Pusat Statistik Kabupaten Nias Selatan, Tahun 2010</p>
+<p style="margin-left:28.35pt;">
+	Penduduk di Pulau Marit sangat berharap pemerintah bisa membantu agar pemerataan sarana kesehatan yang masih sangat terbatas ini dapat terpenuhi. Apalagi pemerataan pelayanan kesehatan hingga ke wilayah terpencil merupakan salah satu program strategis dan menjadi prioritas pemerintah.</p>
+<p style="margin-left:14.2pt;">
+	&nbsp;<strong>Sarana Pendidikan</strong></p>
+<p style="margin-left:14.2pt;">
+	Sebuah Sekolah Dasar (SD) dan Sekolah Menengah Pertama (SMP) digabung menjadi satu komplek gedung terpadu terdapat di Desa Silina Banua Marit. Plang nama yang terpampang depan SD tersebut bertuliskan Sekolah Dasar No.071129 Marit Kecamatan Pulau-Pulau Batu Pulau Marit Kabupaten Nias Selatan. Menurut Kepala Desa Silina Banua Marit, tenaga pengajar di SD dan SMP tersebut berjumlah 4 orang. Menurut data siswa SMP berjumlah 1 (satu) orang siswa.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="pi">Peluang Investasi</a></h2>
+<p><div class="readmore"><p>
+	<!--[if !mso]>
+<style>
+v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style>
+<![endif]--></p>
+<p class="MsoListParagraph" style="margin-top:0in;margin-right:0in;margin-bottom:
+0in;margin-left:14.2pt;margin-bottom:.0001pt;mso-add-space:auto;text-align:
+justify;text-indent:-14.2pt;line-height:150%;mso-list:l0 level1 lfo1">
+	<b style="mso-bidi-font-weight:normal"><span lang="IN" style="font-family:"><span style="mso-list:Ignore">2.<span new="" style="font:7.0pt " times="">&nbsp;&nbsp; </span></span></span></b><b style="mso-bidi-font-weight:normal"><span lang="IN" style="font-family:">Sumberdaya Hayati Non Pesisir</span></b></p>
+<p class="MsoNormal" style="margin-top:0in;margin-right:0in;margin-bottom:0in;
+margin-left:14.2pt;margin-bottom:.0001pt;text-align:justify;line-height:150%">
+	<span style="font-family:">Tidak terdapat data mengenai sumberdaya hayati non pesisir di Pulau Marit.</span></p>
+<p class="MsoNormal" style="margin-top:0in;margin-right:0in;margin-bottom:0in;
+margin-left:14.2pt;margin-bottom:.0001pt;text-align:justify;line-height:150%">
+	&nbsp;</p>
+<p class="MsoListParagraphCxSpFirst" style="margin-top:0in;margin-right:0in;
+margin-bottom:0in;margin-left:14.2pt;margin-bottom:.0001pt;mso-add-space:auto;
+text-align:justify;text-indent:-14.2pt;line-height:150%;mso-list:l0 level1 lfo1">
+	<b style="mso-bidi-font-weight:normal"><span lang="IN" style="font-family:"><span style="mso-list:Ignore">3.<span new="" style="font:7.0pt " times="">&nbsp;&nbsp; </span></span></span></b><b style="mso-bidi-font-weight:normal"><span lang="IN" style="font-family:">Aktivitas Pengelolaan Sumberdaya</span></b></p>
+<p class="MsoNormal" style="margin-top:0in;margin-right:0in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify;line-height:150%">
+	<span lang="IN" style="font-family:">Hanya sebagian kecil dari<span style="mso-spacerun:yes">&nbsp; </span>penduduk Pulau </span><span style="font-family:">Marit</span><span lang="IN" style="font-family:"> yang merupakan nelayan. Mereka adalah nelayan tradisional yang hanya menjaring ikan di sekitar </span><span style="font-family:">Selatan dan Barat Pulau Marit</span><span lang="IN" style="font-family:">, satu-satunya perairan di sekitar </span><span style="font-family:">Marit</span><span lang="IN" style="font-family:"> yang ombaknya bersahabat sepanjang hari. Aktivitas penangkapan ikan di Pulau </span><span style="font-family:">Marit</span><span lang="IN" style="font-family:"> masih diusahakan secara tradisional, dapat dilihat dari jenis alat tangkap yang digunakan dan perahu yang masih banyak dijumpai adalah perahu nelayan berukuran kecil tanpa motor</span><span style="font-family:">.</span></p>
+<p class="MsoNormal" style="margin-top:0in;margin-right:0in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify;line-height:150%">
+	&nbsp;</p>
+<p class="MsoNormal" style="margin-top:0in;margin-right:0in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify;line-height:150%">
+	<span style="font-family:">Alam Pulau Marit sangat mempesona, dengan hamparan pasir putih di sekeliling pulau serta warna air laut yang bergradasi. O</span><span lang="FI" style="font-family:">byek wisata bahari </span><span style="font-family:">yang dapat dikembangkan adalah </span><span lang="FI" style="font-family:"><span style="mso-spacerun:yes">&nbsp;</span>selancar, memancing, wisata selam, <i style="mso-bidi-font-style:normal">snorkeling</i>, wisata pantai , berenang, dan wisata desa binaan.</span></p>
+<p class="MsoNormal" style="margin-top:0in;margin-right:0in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify;line-height:150%">
+	<span style="font-family:">&nbsp;</span></p>
+<p class="MsoNormal" style="margin-top:0in;margin-right:0in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify;line-height:150%">
+	<span lang="IN" style="font-family:">Potensi perkebunan kelapa di Pulau </span><span style="font-family:">Marit </span><span lang="IN" mso-ansi-language:="" style="font-family:">sangat menjanjikan. Para penduduk di Pulau </span><span style="font-family:
+">Marit</span><span lang="IN" style="font-family:"> boleh berbangga hati karena pulau ini memiliki kebun kelapa yang melimpah. Kelapa merupakan hasil pertanian yang sangat penting sehingga menduduki tempat </span><span style="font-family:">pertama</span><span style="font-family:"> </span><span style="font-family:">disusul cengkeh.</span></p>
+<p class="MsoNormal" style="margin-top:0in;margin-right:0in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify;line-height:150%">
+	<span lang="IN" style="font-family:">Di sektor pertanian ini, Pulau </span><span style="font-family:">Marit</span><span lang="IN" style="font-family:"> cukup menjanjikan untuk dikembangkan di masa yang akan datang mengingat areal pertanian cukup luas dan komoditinya cukup besar. Ke depannya, diharapkan produk yang dihasilkan bukan saja kopra, tetapi dapat menghasilkan produk lain yang bernila</span><span style="font-family:">i</span><span lang="IN" style="font-family:"> ekonomis dan kompetitif sehingga dapat meningkatkan pendapatan petani yang akhirnya dapat meningkatkan kesejahteraan petani dan penduduk Pulau </span><span style="font-family:">Marit</span><span lang="IN" style="font-family:"> pada umunnya</span><span style="font-family:"> seperti Kerajinan Gerabah dari tanah liat.</span></p>
+<p class="MsoNormal" style="margin-top:0in;margin-right:0in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify;line-height:150%">
+	<span lang="IN" style="font-family:">Dari segi peternakan, hewan-hewan ternak yang dipelihara pendudk di Pulau </span><span style="font-family:">Marit</span><span lang="IN" style="font-family:"> ini masih sebatas untuk keperluan konsumsi sendiri</span><span style="font-family:"> seperti : babi, kambing, ayam.</span></p>
+<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+normal">
+	<span style="font-family:">&nbsp;</span></p>
+<p class="MsoListParagraphCxSpFirst" style="margin-top:0in;margin-right:0in;
+margin-bottom:0in;margin-left:14.2pt;margin-bottom:.0001pt;mso-add-space:auto;
+text-align:justify;text-indent:-14.2pt;line-height:150%;mso-list:l0 level1 lfo1">
+	<b style="mso-bidi-font-weight:normal"><span lang="IN" style="font-family:"><span style="mso-list:Ignore"><span new="" style="font:7.0pt " times="">&nbsp;</span></span></span></b><b style="mso-bidi-font-weight:normal"><span lang="IN" style="font-family:">Peluang Investasi</span></b></p>
+<p class="MsoListParagraphCxSpMiddle" style="margin-top:0in;margin-right:0in;
+margin-bottom:0in;margin-left:14.2pt;margin-bottom:.0001pt;mso-add-space:auto;
+text-align:justify;line-height:150%">
+	<span lang="IN" style="font-family:">Tidak ada data mengenai peluang investasi di Pulau </span><span style="font-family:
+">Marit.</span></p>
+</div></p>
+
+<hr>
+
+<h2><a id="pap">Potensi dan Arahan Pengembangan</a></h2>
+<p><div class="readmore"><p>
+	<strong>Potensi dan Arahan Pengembangan </strong></p>
+<p style="margin-left:14.2pt;">
+	Pulau-pulau kecil memiliki potensi tinggi&nbsp; untuk dikembangkan, baik secara geografis maupun sumber daya alam. Beberapa potensi untuk pengembangan Pulau Marit khususnya dan pulau-pulau kecil di Kabupaten Nias Selatan pada umumnya meliputi&nbsp; hal-hal sebagai berikut :</p>
+<ol style="list-style-type:lower-alpha;">
+	<li>
+		Potensi Perikanan Tangkap</li>
+	<li>
+		Potensi Perikanan Budidaya</li>
+	<li>
+		Potensi Sumberdaya Terumbu karang</li>
+	<li>
+		Potensi Sumberdaya Lamun</li>
+	<li>
+		Potensi Pariwisat</li>
+</ol>
+</div></p>
+
+<hr>
+
+<h2><a id="kp">Kendala Pengembangan</a></h2>
+<p><div class="readmore"><p>
+	<b style="mso-bidi-font-weight:normal"><span lang="IN" style="font-family:">Kendala Pengembangan Pulau</span></b></p>
+<p class="MsoNormal" style="margin-top:0in;margin-right:0in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify;line-height:150%">
+	<span lang="IN" style="font-family:">Pengelolaan sumberdaya perikanan saat ini menuntut perhatian penuh dikarenakan oleh (1) semakin meningkatnya tekanan eksploitasi terhadap berbagai stok ikan, dan (2) meningkatnya kesadaran dan kepedulian umum untuk memanfaatkan lingkungannya secara bijaksana, yakni melakukan pemanenan secara rasional, dan berbagai upaya pembangunan secara berkelanjutan. Namun demikian, upaya pengeolaan perikanan memiliki beberapa keterbatasan karena karakter umum sumberdaya ikan dan pemanfaatannya. </span></p>
+<p class="MsoNormal" style="margin-top:0in;margin-right:0in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify;line-height:150%">
+	<span style="font-family:">&nbsp;</span></p>
+<p class="MsoNormal" style="margin-top:0in;margin-right:0in;margin-bottom:0in;
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify;line-height:150%">
+	<span lang="IN" style="font-family:">Berbagai keterbatasan dari berbagai pendekatan terhadap pengelolaan perikanan kini bersifat rumit, namun secara umum mempunyai karakteristik sebagai berikut:</span></p>
+<ol start="1" style="margin-top:0in" type="1">
+	<li class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;text-align:
+     justify;line-height:150%;mso-list:l1 level1 lfo2;tab-stops:.5in">
+		<span lang="IN" style="font-family:">Kurang tersedianya data yang memadai baik dari segi kualitas maupun kuantitas yang dapat digunakan sebagai basis untuk perencanaan maupun pengambilan keputusan pengeloaan perikanan.</span></li>
+	<li class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;text-align:
+     justify;line-height:150%;mso-list:l1 level1 lfo2;tab-stops:.5in">
+		<span lang="IN" style="font-family:">Kekurangmampuan pengelola dalam menghadapi variabilitas kondisi lingkungan, serta aspek-aspek biologi dan ekonomi dari berbagai sistem perikanan.</span></li>
+	<li class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;text-align:
+     justify;line-height:150%;mso-list:l1 level1 lfo2;tab-stops:.5in">
+		<span lang="IN" style="font-family:">Kegagalan dalam menentukan strategi jangka panjang secara tepat atas sasaran pengelolaan termasuk tujuan-tujuan biologi, sosial dan ekonomi bagi keberlanjutan perikanan.</span></li>
+	<li class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;text-align:
+     justify;line-height:150%;mso-list:l1 level1 lfo2;tab-stops:.5in">
+		<span lang="IN" style="font-family:">Ketidaktepatan skala waktu dan reaksi alamiah dari tindakan peraturan yang sudah ditetapkan di satu pihak, ketidak-konsistenan dalam pengelolaan selama kurun waktu tertentu dan di lain pihak kurang feksibel dalam berekasi secara cepat terhadap berbagai peluang seperti perubahan pasar.</span></li>
+	<li class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;text-align:
+     justify;line-height:150%;mso-list:l1 level1 lfo2;tab-stops:.5in">
+		<span lang="IN" style="font-family:">Domin</span><span style="font-family:">a</span><span lang="IN" style="font-family:">si rekomendasi bersifat biologi dengan pertimbangan yang kurang memadai terutama terhadap dampak stokastik.</span></li>
+	<li class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;text-align:
+     justify;line-height:150%;mso-list:l1 level1 lfo2;tab-stops:.5in">
+		<span lang="IN" style="font-family:">Kurangnya keterlibatan para pemangku kepentingan dalam pembuatan keputusan pengelolaan.</span></li>
+</ol>
+</div></p>
+
+<hr>
+
+<h2><a id="rf">Referensi</a></h2>
+<p><div class="readmore"><p>
+	referensi website :</p>
+<p>
+	http://www.niasselatankab.go.id/</p>
+<p>
+	http://id.wikipedia.org/wiki/Kabupaten_Nias_Selatan</p>
+</div></p>
+
+<hr>
+
+<br />
+	<i> 
+		<p style="font-size:12px;">
+			Karena keterbatasan SDM dalam penginputan dan pengolahan data, kami mohon maaf atas ketidak lengkapan beberapa data pulau yang kami tampilkan, harap dimaklumi.
+			Berikan keritik dan saran pada kolom komentar agar kita dapat bersama menyajikan sebuah data yang cukup sempurna untuk halayak ramai yang berguna
+			demi kesejahterahan, kelestarian dan keindahan pulau-pulau kecil yang dimiliki Indonesia.<br />
+			*Jika sekiranya anda memiliki data yang cukup banyak, silakan mengirimkan file melalui email kami di <b><a>identifikasippk@gmail.com</a></b>
+			
+		</p>
+	</i>
+<br />
+
+<div id="fb_comn" class="fb-comments" data-href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_info/658" data-width="800" data-numposts="5" data-colorscheme="light"></div>
+
+
+</div>
+</div>
+</div>
+<div id="wrapper">
+
+<div class="footer"><p>
+<!--<marquee onmouseover="this.stop()" onmouseout="this.start()" scrollamount="5" direction="right" width="798" height="14"  behavior="scroll">-->
+<a href="http://www.ppk-kp3k.kkp.go.id/" target="_blank">Direktorat Pendayagunaan Pulau-Pulau Kecil &nbsp; | &nbsp;</a>
+<a href="http://www.kp3k.kkp.go.id/" target="_blank">Ditjen Kelautan, Pesisir dan Pulau-Pulau Kecil &nbsp; | &nbsp;</a>
+<a href="http://www.kkp.go.id/" target="_blank">Kementerian Kelautan dan Perikanan</a>
+<!--</marquee>--> <br />
+Jl. Medan Merdeka Timur No. 16 Gedung Mina Bahari 3 Lantai 10, Jakarta, Indonesia <br />
+Email : identifikasippk@gmail.com <br />
+Telp &amp; Fax: (021) 3522058 <br />
+&copy; Copyright Direktorat Pendayagunaan Pulau-Pulau Kecil 2012&nbsp; <br /></p>
+</div>
+</div>
+</body>
+</html>

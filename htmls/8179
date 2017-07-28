@@ -1,0 +1,778 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Pulau Puteangin</title>
+
+<meta charset="utf-8"/>
+
+<meta property="fb:app_id" content="559408774147878" />
+
+
+<meta property="og:title" content="Pulau Puteangin" />
+<meta property="og:url" content="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_info/8179" />
+
+
+    <script type="text/javascript" src="http://ajax.microsoft.com/ajax/jquery/jquery-1.4.4.min.js">
+    </script>
+    
+    <script type="text/javascript" src="http://plugins.learningjquery.com/expander/jquery.expander.js">
+    </script>
+    
+    <script type="text/javascript">
+        $(function () {
+            $('div.readmore').expander({
+                slicePoint:200,
+                expandText: '(Baca selengkapnya)',
+                userCollapseText: '(Sembunyikan selengkapnya)'
+            });
+        });
+    </script>
+        
+	<script src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/galleria/galleria-1.2.8.min.js"></script>
+
+        <SCRIPT TYPE="text/javascript">
+            <!--
+            //Disable right click script
+            //visit http://www.rainbow.arch.scriptmania.com/scripts/
+            var message="Sorry, right-click has been disabled";
+            ///////////////////////////////////
+            function clickIE() {if (document.all) {(message);return false;}}
+            function clickNS(e) {if
+            (document.layers||(document.getElementById&&!document.all)) {
+            if (e.which==2||e.which==3) {(message);return false;}}}
+            if (document.layers)
+            {document.captureEvents(Event.MOUSEDOWN);document.onmousedown=clickNS;}
+            else{document.onmouseup=clickNS;document.oncontextmenu=clickIE;}
+            document.oncontextmenu=new Function("return false")
+            // -->
+            </SCRIPT>
+            
+            <SCRIPT TYPE="text/javascript">
+            <!--
+            //Disable select-text script (IE4+, NS6+)
+            //visit http://www.rainbow.arch.scriptmania.com/scripts/
+            ///////////////////////////////////
+            function disableselect(e){
+            return false
+            }
+            function reEnable(){
+            return true
+            }
+            //if IE4+
+            document.onselectstart=new Function ("return false")
+            //if NS6
+            if (window.sidebar){
+            document.onmousedown=disableselect
+            document.onclick=reEnable
+            }
+            // -->
+            </SCRIPT>  
+              
+<link rel="stylesheet" type="text/css" href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/css/main.css" media="screen"/>
+<style type='text/css'>
+#info_wrap{
+	width:820px;
+	margin:0 auto;
+	text-shadow:0px 1px 1px #09F;
+}
+table{
+	color:#000000;
+}
+h1{
+	color:#000000;
+}
+.tengahin{
+	width: 105px;
+	height: 30px;
+	margin: 0 auto auto auto;
+}
+#box_view{
+	background-image:-webkit-gradient(linear, 0 0%, 0 100%, from(#FFFFFF), to(#E0F0F5));
+	background:#FFF;
+	color:#F60;
+	border: 1px solid #fff;
+	border-radius: 4px 4px 4px 4px;
+	box-shadow: 0 8px 6px -6px black;
+	position:fixed;
+	right:0;
+	top:150px;;
+	width:80px;
+	z-index:10;
+	padding-left:12px;
+	font-size:10px;
+	}
+#box_view li{
+	color:#F60;
+	margin-left:-30px;
+	}
+	#wrapper a b {
+	color: #FFF;
+	font-size:14px;
+}
+.batas{
+	float:left;
+	border-right-style:inset;
+	border-right-width:thin;
+	}
+.text_h_wrap{
+	
+	padding-left:450px;
+	padding-top:39px;
+	text-shadow:0px 1px 1px #09F;
+	}
+#wrapper .footer p{
+	font-size:12px;
+	color: #FFF;
+	text-align:center;
+	text-shadow:0px 1px 1px #09F;
+}
+td,th {
+	font-size: 12px;
+}
+
+marquee a{
+	color:#FFF
+	}
+#wrapper .footer a{
+	color: #FFFFFF;
+}
+</style>
+            
+<script>
+function goBack()
+  {
+  window.history.back()
+  }
+</script>
+<script type="text/javascript">
+function Popup( url, height, width )
+{
+    var windowProperties = "toolbar = 0, scrollbars = 1, location = 0, statusbar = 0, menubar = 0, resizable = 1, width = " + width + ", height = " + height + ", left = 50, top = 50";
+ 
+    return window.open( url, "", windowProperties );
+}
+</script>
+
+
+
+</head>
+<body oncontextmenu='return false;' onkeydown='return false;' onmousedown='return false;'>
+
+<a id="top_view"></a>
+<div id="wrapper">
+<div class="header_wrap">
+<div class="text_h_wrap">
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/home_page'><b>&nbsp;Home&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/menu_info/1'><b>&nbsp;About Us&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_data'><b>&nbsp;Direktori Pulau&nbsp;&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/program_ip'><b>&nbsp;IKU&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/data_ppkt'><b>&nbsp;PPKT&nbsp;</b></a>
+</div>
+<!--<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/maintenance'><b>&nbsp;Login&nbsp;</b></a>-->
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/dir_log_cont'><b>&nbsp;Login&nbsp;</b></a>
+
+</div>
+</div>
+</div>
+
+<div id="fb-root"></div>
+<script>
+  window.fbAsyncInit = function() {
+    // init the FB JS SDK
+    FB.init({
+      appId      : '559408774147878',                        // App ID from the app dashboard
+      status     : true,                                 // Check Facebook Login status
+      xfbml      : true                                  // Look for social plugins on the page
+    });
+
+    // Additional initialization code such as adding Event Listeners goes here
+  };
+
+  // Load the SDK asynchronously
+  (function(){
+     // If we've already installed the SDK, we're done
+     if (document.getElementById('facebook-jssdk')) {return;}
+
+     // Get the first script element, which we'll use to find the parent node
+     var firstScriptElement = document.getElementsByTagName('script')[0];
+
+     // Create a new script element and set its id
+     var facebookJS = document.createElement('script'); 
+     facebookJS.id = 'facebook-jssdk';
+
+     // Set the new script's source to the source of the Facebook JS SDK
+     facebookJS.src = '//connect.facebook.net/en_US/all.js';
+
+     // Insert the Facebook JS SDK into the DOM
+     firstScriptElement.parentNode.insertBefore(facebookJS, firstScriptElement);
+   }());
+</script>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=559408774147878";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="box_view">
+    <a href="#top_view">MENU</a>
+    <h3><p>Lihat Informasi:</p></h3>
+    <ul>
+	<a href="#sf"><li>Slide Foto</li></a>
+    <a href="#gu"><li>Gambaran Umum</li></a>
+    <a href="#ksbk"><li>Kependudukan, Sosial Budaya dan Kelembagaan</li></a>
+    <a href="#eshp"><li>Ekosistem dan Sumberdaya Hayati</li></a>
+    <a href="#snh"><li>Sumberdaya Non Hayati</li></a>
+    <a href="#aps"><li>Aktivitas Pengelolaan Sumberdaya</li></a>
+    <a href="#ling"><li>Lingkungan</li></a>
+    <a href="#sp"><li>Sarana dan Prasarana</li></a>
+    <a href="#pi"><li>Peluang Investasi</li></a>
+    <a href="#pap"><li>Potensi Arahan Pengembangan</li></a>
+    <a href="#kp"><li>Kendala Pengembangan</li></a>
+	<a href="#rf"><li>Referensi</li></a>
+    </ul>
+    <a href="#fb_comn">KOMENTAR</a>
+</div>
+
+<br>
+			<a id="sf"></a></h2>
+			<div id="galleria">
+            <!--<div class='tengahin'><input type="button" value="Kembali Ke List" onclick="goBack()"></div>-->
+                            </div>
+            
+            <script>
+            Galleria.loadTheme('http://www.ppk-kp3k.kkp.go.id/direktori-pulau/galleria/themes/classic/galleria.classic.min.js');
+            Galleria.run('#galleria');
+            </script>
+</div>
+
+<div id="text_warp">
+
+
+<p><h1>Puteangin</h1></p>
+<table>
+<tr>
+	<td>Nama Lain</td> <td>:</td> <td></td>
+</tr>
+<tr>
+	<td>Propinsi</td> <td>:</td> <td>SULAWESI SELATAN</td>
+</tr>
+<tr>
+	<td>Kabupaten</td> <td>:</td> <td>KABUPATEN BARRU</td>
+</tr>
+<tr>
+	<td>Kecamatan</td> <td>:</td> <td></td>
+</tr>
+<tr>
+	<td>Koordinat</td> <td>:</td> <td><a href="http://www.ppk-kp3k.kkp.go.id/giskkp/index.html?extent="target="_blank">4° 29' 14.000</a></td>
+</tr>
+</table>
+<hr>
+
+<h2><a id="gu">Gambaran Umum</a></h2>
+<p><div class="readmore"><p style="text-align: justify;">
+	<span style="color:#ffa500;"><strong>GAMBARAN UMUM</strong></span></p>
+<p style="text-align: justify; margin-left: 40px;">
+	Pulau Puteangin berada pada posisi koordinat geografis 4&deg; 29&#39; 14.000&quot; LS dan 119&deg; 34&#39; 16.000&quot; BT, dengan luas pulau 2,7 Ha. Pulau Puteangin adalah pulau paling selatan dari Kabupaten Barru. Sebelah Utara, Selatan &amp; Barat pulau adalah wilayah perairan Selat Makasar, dan pada bagian timur adalah daratan Pulau Sulawesi bagian Kabupaten Barru. Secara administratif berada di Provinsi Sulawesi Selatan, Kabupaten Barru, Kecamatan Tanete Rilau, Desa Lassitae, Dusun Putiangin dengan Kepala Dusun Bapak Abdul Rasyid.</p>
+<p style="text-align: justify; margin-left: 40px;">
+	Untuk menuju Pulau Puteangin, dari Kota Barru lebih dekat aksesnya dari pelabuhan PPI POLEJIWA dengan menggunakan perahu motor carter. Waktu tempuh dari pelabuhan tersebut hanya sekitar 20 menit dengan jarak sekitar 2,5 Km.</p>
+<p style="text-align: justify; margin-left: 40px;">
+	Keadaan topografi Pulau Puteangin merupaka dataran dengan beberapa vegetasi darat dan pantai. Pulau ini terbentuk dari sedimen atau pengendapan material dasar laut yang membentuk karang dan timbul kepermukaan hingga menjadi sebuah dataran. Dataran pulau ini sekitar 0 &ndash; 3 meter dari permukaan laut dengan morfologi pantai berpasir.</p>
+<p style="text-align: justify; margin-left: 40px;">
+	Pada bagian Barat dan Timur Pulau Puteangin sudah terjadi abrasi. Abrasi di Pulau ini telah mengakibatkan beberapa kuburan yang berada dipesisir pulau turun hingga mencapai pantai. Penanggulangan malasah abrasi tersebut telah diusahakan dengan pemasangan sejumlah Talud di beberapa titik yang paling parah dari dana PNPM Mandiri tahun 2011.</p>
+<p style="text-align: justify; margin-left: 40px;">
+	Nama Puteangin diambil dari&nbsp; kata Putih dan Angin, dengan makna berpasir putih dan angin yang selalu berhembus dipulau. Kepemilikan tanah di Pulau Sabutung adalah dari tanah adat pemberian Datuk Ancana sekitar 100 tahun yang lalu. Tiap warga memegang sertifikat atas kepemilikan tempat tinggal mereka. Syarat untuk mendirikan bangunan rumah tinggal adalah dengan meminta izin kepada Kepala Dusun dan Kepala Desa, guna mempertimbangkan masih ada atau tidaknya lahan dan letak untuk pendirian bangunan yang dikhususkan untuk warga setempat.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="ksbk">Kependudukan, Sosial Budaya dan Kelembagaan</a></h2>
+<p><div class="readmore"><p style="text-align: justify; margin-left: 40px;">
+	Saat ini di Pulau Puteangin terdapat 83 rumah yang dihuni oleh 140 KK. Terdapat kurang lebih 600 jiwa yang menempati pulau, dengan 400 jiwa wajib pilih. Suku bugis adalah warga yang menempati pulau, bahasa yang mereka gunakan sehari-hari adalah bahasa bugis, sebagian warga ada yang bisa berbahasa indonesia hanya saja tidak terlalu lancar.</p>
+<p style="text-align: justify; margin-left: 40px;">
+	Tingkat pendidikan masyarakat Puteangin umumnya adalah Sekolah Dasar. Ada beberapa pula yang menyelesaikan pendidikannya hingga Sekolah Menengah Pertama dan Sekolah Menengah Atas. Ada pula yang sedang berkuliah yaitu sekitar 8 orang.</p>
+<p style="text-align: justify; margin-left: 40px;">
+	Seluruh warga Pulau Puteangin memeluka agama Islam . Para nelayan di Puteangin memiliki kebiasan untuk tidak melaut untuk dihari jum&rsquo;at hingga menjelang malam, itu dikarenakan hari jum&rsquo;at waktunya solat jum&rsquo;at dan hampir seluruh warga pria dapat di temui dihari itu.</p>
+<p style="text-align: justify; margin-left: 40px;">
+	Mata pencaharian penduduk mayoritas adalah nelayan tangkap. Beberapa waktu masyarakat Puteangin yang biasanya bermata pencaharian sebagai nelaya ketika musim panen padi, mereka menjadi buruh panen di daratan pulau sulawesi Kabupaten barru. Ada pula salah satu warga mereka yang menjadi PNS yaitu sebagai Kepala Sekolah di SD.INP.NO.30 PUTIANGIN.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="eshp">Ekosistem dan Sumberdaya Hayati</a></h2>
+<p><div class="readmore"><p style="text-align: justify;">
+	<span style="color:#ff0000;"><strong>TERUMBU KARANG</strong></span></p>
+<p style="text-align: justify; margin-left: 40px;">
+	Pengamatan terumbu karang dilakukan pada lokasi Pulau Puteangin dan Pulau Dutungan. Pulau Puteangin merupakan pulau yang berpenduduk, Sedangkan Pulau Dutungan merupakan&nbsp; pribadi yang terdapat villa atau penginapan. Pengamatan terumbu karang di Pulau Puteangin dilakukan pada bagian utara dan barat pulau, sedangkan pada Pulau Dutungan dilakukan pada bagian utara pulau. Secara umum kondisi terumbu karang di Pulau Puteangin masih cukup baik terutama pada kedalaman 1-6 meter. Kecerahan perairan hanya sekitar 5 meter secara vertikal. Kondisi arus cukup tenang tetapi sedikit kuat pada bagian utara Pulau Puteangin. Penutupan terumbu karang pada Pulau Dutungan juga dalam tingkatan cukup baik.</p>
+<ol style="margin-left: 40px;">
+	<li style="text-align: justify;">
+		<strong>Bagian Utara Pulau </strong><strong>Puteangin</strong></li>
+</ol>
+<p style="text-align: justify; margin-left: 80px;">
+	Sebaran terumbu karang yang terlihat di bagian utara mulai dari kedalaman 0,5 meter sampai sekitar 11 meter. Pengamatan dilakukan pada kedalaman 8 meter. Tipe bentuk terumbu pada bagian utara merupakan tipe karang tepi (<em>fringing reef</em>). Kotur dasar perairan merupakan <em>slope</em> dan kondisi arus cukup kuat. Jarak pandang di dalam kolom perairan cukup baik terutama pada kedalaman pengambilan data yaitu sekitar 8 meter secara horizontal. Substrat dominan yang terlihat cukup beragam antara karang keras, patahan karang dan karang mati.</p>
+<p style="text-align: justify; margin-left: 80px;">
+	Penutupan substrat karang keras hidup (KKH) terlihat yang paling tinggi pada pengamatan di bagian utara yaitu sebesar 42,94% dan termasuk dalam kategori sedang. Penutupan substrat berikutnya yang cukup tinggi adalah karang mati sebesar 31,08%. Penutupan abiotik sebesar 22,9%. Serta penutupan substrat biotik cukup rendah sebesar 2,26% dan penutupan alga sebesar 0,82.</p>
+<p style="text-align: justify; margin-left: 80px;">
+	Kekeruhan perairan tidak membuat penutupan KKH pada lokasi ini memiliki penutupan yang rendah, Kondisi penutupan KKH terlihat masih cukup baik. Penutupan KKH cukup rapat namun masih terlihat karang mati dan pasir sebagai substrat yang cukup mendominasi juga. Bentuk pertumbuhan KKH yang secara umum ditemukan adalah karang masif, submasif, mengerak, lembaran dan bercabang. Bentuk pertumbuhan cukup beragam dengan jenis yang cukup beragam juga. Jenis KKH yang mendominasi adalah Porites dan Montipora. Kondisi terumbu karang pada lokasi ini banyak yang terlihat berwarna putih akibat pemangsaan oleh biota <em>Acanthaster plancii</em> atau COT .</p>
+<ol start="2" style="margin-left: 40px;">
+	<li style="text-align: justify;">
+		<p>
+			<strong>Bagian Barat Pulau </strong><strong>Puteangin</strong></p>
+	</li>
+</ol>
+<p style="text-align: justify; margin-left: 80px;">
+	Kontur dasar perairan bagian barat pulau merupakan <em>slope </em>dengan sebaran terumbu karang yang terlihat mulai dari kedalaman 0,5-6 meter. Pengamatan dilakukan pada kedalaman 5 meter dan jarak pandang di dalam kolom perairan sejauh kurang lebih 8 meter. Bentukan terumbu adalah tipe karang tepi (<em>fringing reef</em>). Pada kedalaman lebih dari 7 meter substrat dasar yang terlihat hanya pasir. Kondisi arus pada saat pengambilan data cukup tenang.</p>
+<p style="text-align: justify; margin-left: 80px;">
+	Kondisi penutupan substrat dasar oleh kategori KKH (Karang Keras Hidup) cukup tinggi mencapai 50,16% dan termasuk dalam kategori baik. Penutupan karang mati sebesar 34,8%.&nbsp; Penutupan abiotik sebesar 10,4% serta penutupan biotik sebesar 4,02% dan alga sebesar 0,62%.</p>
+<p style="text-align: justify; margin-left: 80px;">
+	Kondisi tutupan terumbu karang bagian barat pulau masih sangat rapat walaupun terlihat karang mati dan substrat pasir pada bagian tertentu. Hamparan karang jamur dari family Fungidae terlihat cukup luas dan dalam jumlah yang banyak. Hal ini merupakan proses suksesi yang dilakukan oleh karang jamur terhadap suatu wilayah yang mulai dan menjadi pionir dalam perkembangan terumbu karang. Indikasi tersebut memperlihatkan bagian barat pernah terjadi kegiatan penangkapan menggunakan bom dan racun. Bentuk pertumbuhan karang lembaran juga terlihat cukup banyak dan menjadi pemandangan yang cukup menarik seperti hamparan karang jamur tersebut. Selain itu bentuk pertumbuhan karang yang terlihat juga dalam bentuk mengerak serta bercabang yang cukup mendominasi.</p>
+<p style="text-align: justify; margin-left: 40px;">
+	<strong>Permasalahan dan Ancaman</strong></p>
+<p style="text-align: justify; margin-left: 80px;">
+	Ekosistem terumbu karang pada Pulau Puteangin di hadapkan pada permasalahan yang cukup serius. Masyarakat pulau tersebut melakukan penambangan batu karang dan pasir untuk keperluan bahan bangunan. Hal ini teramati pada saat pengamatan kondisi patahan dan kerusakan terumbu karang masih dapat di lihat. Walaupun akhirnya pemerintah melakukan pelarangan terhadap penambangan batu karang dan pasir, masyarakat setempat mencari ke wilayah perairan di daerah lain. Sisa-sisa kegiatan penambangan tersebut perlahan-lahan mulai pulih kembali karena kemampuan alam untuk melakukan pemulihan setelah tekanan terhadap lingkungan itu terjadi.</p>
+<p style="text-align: justify; margin-left: 80px;">
+	Pada perairan sekitar Pulau Puteangin beberapa biota yang jarang terlihat muncul pada saat pengambilan data dilakukan, seperti penyu dengan ukuran yang cukup besar. Dengan demikian perairan sekitar pulau ini harus ditindaklanjuti dalam pengelolaan dan pemanfaatannya, agar sumberdaya termasuk biota yang dilindungi dapat hidup dengan baik. Selain itu, biota pemangsa polip karang (<em>Acanthaster plancii</em>) terlihat pada saat pengambilan data. Biota tersebut merupakan penyebab salah satu kejadian pemutihan pada karang, dikarenakan biota tersebut memangsa polip karang dan hanya menyisakan <em>skeleton</em> (terumbu) dari hewan karang.</p>
+<p style="text-align: justify; margin-left: 80px;">
+	Kondisi perairan sekitar Pulau Dutungan lebih baik dibandingkan dengan Pulau Puteangin. Dikarenakan pulau ini merupakan pulau pribadi yang dikelola sebagai tempat wisata. Tentunya ekosistem terumbu karang menjadi unggulan dalam menarik wisatawan untuk datang ke pulau ini.</p>
+<p style="text-align: justify;">
+	<span style="color:#ff0000;"><strong>IKAN KARANG</strong></span></p>
+<p style="text-align: justify; margin-left: 40px;">
+	Pengamatan ikan terumbu di Pulau Puteangin&nbsp; dan Pulau Dutungan. Pada Pulau Puteangin dilakukan pada bagian barat dan utara, sedangkan pada pulau Dutungan dilakukan pada bagian utara.</p>
+<p style="text-align: justify; margin-left: 40px;">
+	Hasil pengamatan menunjukan ikan terumbu yang teramati terdiri dari 47 jenis yang termasuk kedalam 16 Famili berbeda.&nbsp; Hasil pengamatan tersebut kemudian diolah dengan menggunakan indeks Shannon-Wiener (1948) dalam buku Odum (2003) guna melihat keanekaragaman ikan terumbu dalam suatu komunitas.</p>
+<p style="text-align: justify; margin-left: 40px;">
+	Kepadatan ikan terumbu di Pulau Puteangin, dapat diketahui indeks keanekaragaman di bagian barat Pulau Puteangin memiliki nilai 2,9002 sedangkan bagian utara memiliki nilai 3,0933. Nilai yang diperoleh dengan kisaran 1-3 menunjukan keanekaragaman jenis ikan terumbu di barat Pulau Puteangin termasuk sedang. Nilai keanekaragaman jenis yang diperoleh di Pulau Puteangin bagian utara menunjukan bahwa interaksi antar setiap jenisnya terjadi interaksi jenis yang melibatkan transfer energi, predasi, kompetisi dan pembagian relung yang secara teoritis lebih kompleks dibandingkan pada bagian barat.</p>
+<p style="text-align: justify; margin-left: 40px;">
+	Nilai indeks keseragaman digunakan untuk mengetahui sebaran jumlah individu dari setiap famili pada tingkat komunitas. Nilai indeks keseragaman bagian utara Pulau Puteangin sebesar 0,8772 dan untuk bagian barat sebesar 0,8613. Kedua nilai menunjukan tidak terjadi dominansi jumlah individu dari suatu jenis ikan terumbu di Pulau Puteangin. Nilai indeks dominansi akan berbanding terbalik dengan nilai indeks keseragaman. Tingginya nilai indeks keseragaman diikuti dengan rendahnya nilai indeks dominansi.</p>
+<p style="text-align: justify; margin-left: 40px;">
+	Bagian barat Pulau Puteangin memiliki kontur dasar perairan yang landai dengan tubir yang berada lebih dari 200 meter dari pantai. Kemiringan tubir di bagian barat Pulau Puteangin berkisar 20&ordm;-30&ordm; dan di dominansi oleh karang keras berbentuk <em>massive</em>. Komposisi ikan terumbu di bagian Barat Pulau Puteangin di dominansi oleh ikan famili Pomacentridae. Jumlah individu terbesar berasal dari jenis <em>Pomacentrus moluccensis</em> dan <em>Pomacentrus alexanderae</em>. Ikan famili Pomacentridae sebagian besar memiliki pola makan <em>omnivore</em> dan sering membentuk kelompok kecil dalam mencari makan. Ukuran tubuh ikan ini berkisar antara 4-11 cm dengan pola warna yang menarik. Oleh karena itu ikan yang berasal dari famili Pomacentridae ini sering dijadikan sebagai ikan hias di akuarium air laut.</p>
+<p style="text-align: justify; margin-left: 40px;">
+	Famili Caesionidae atau yang biasa dikenal dengan nama ikan ekor kuning merupakan salah satu jenis ikan target para nelayan Pulau Puteangin. Hasil tangkapan untuk jenis ikan ini dijual dengan harga Rp 10.000,- per ikatnya. Jenis ikan target lainnya yang di jumpai adalah ikan Siganidae (baronang) dengan kepadatan 80 ind/ha. Kedua famili tersebut merupakan jenis ikan perenang aktif yang sering ditemukan pada kolom perairan dengan membentuk gerombolan kecil. Ikan jenis ini memangsa plankton di perairan, oleh karena itu ikan ini memiliki kepadatan yang berfluktuasi yang bergantung kepada kondisi perairan.</p>
+<p style="text-align: justify; margin-left: 40px;">
+	Empat jenis ikan indikator juga ditemukan di bagian barat Pulau Puteangin. Jenis tersebut adalah <em>Chaetodon baronessa,</em> <em>Chelmon vagabundus</em> dengan kelimpahan masing-masing 80 ind/ha, jenis <em>Chaetodon octofasciatus</em> dengan kelimpahan 280 ind/ha serta jenis <em>Heniochus pleurotaenia</em> yang memiliki kepadatan terbesar yaitu 520 ind/ha. Ikan ini memiliki pola warna cerah yang mencolok dengan bentuk tubuh yang pipih sehingga sangat mudah mengenali jenis famili Chaetodontidae ini. Pola makan ikan jenis ini adalah <em>coral</em><em>i</em><em>ivor</em><em>e</em>, dimana polip karang yang sehat menjadi santapan bagi jenis ikan ini. Oleh karena faktor pola makan tersebut, ikan jenis ini dapat dijadikan sebagai bio-indikator kesehatan terumbu karang di suatu daerah.</p>
+<p style="text-align: justify; margin-left: 40px;">
+	Biomassa ikan target dari delapan jenis yang dijumpai di bagian barat Pulau Puteangin disajikan pada gambar di bawah ini. Biomassa terbesar berasal dari jenis <em>Caesio teres</em> kemudian disusul dengan jenis ikan <em>Chlorurus sordidus </em>dan biomassa terbesar ketiga berasal dari jenis <em>Lutjanus decussatus.</em></p>
+<p style="text-align: justify; margin-left: 40px;">
+	Estimasi panjang ikan terbesar berasal dari <em>Lutjanus decussatus</em> dengan kisaran 15-20 cm sedangkan estimasi panjang ikan terkecil berasal dari ikan jenis <em>Plectorhinchus chaetodonoides</em> dengan kisaran 5-10 cm. Hasil estimasi ikan tersebut diolah untuk mencari biomassa dari setiap jenis yang kemudian dikalikan dengan kepadatan individu untuk memperoleh biomassa per hektar.</p>
+<p style="text-align: justify; margin-left: 40px;">
+	Komposisi ikan terumbu di bagian utara Pulau Puteangin didominansi oleh jenis ikan <em>Pomacentrus alexanderae</em> dan <em>Pomacentrus moluccensis</em>. Sering kali jenis ikan <em>Pomacentrus alexanderae</em> berlimpah pada perairan yang memiliki terumbu karang bercabang. Ikan jenis ini memiliki warna dasar abu-abu dengan bintik hitam di pangkal sirip pektoralnya.</p>
+<p style="text-align: justify; margin-left: 40px;">
+	Ikan terumbu yang teramati di bagian utara Pulau Puteangin berasal dari 12 jenis famili yang terbagi menjadi 34 jenis ikan terumbu. Sebanyak tujuh jenis ikan target ditemukan di bagian timur Gili Tapan. Ketujuh jenis ikan tersebut antara lain <em>Caesio teres</em> yang memiliki kepadatan terbesar 1480 ind/ha, <em>Cephalopholis miniata</em> dan <em>C</em><em>.</em><em> argus</em> yang memiliki kepadatan terkecil pada kelompok ikan target 40 ind/ha. Sebagian hasil tangkapan para nelayan Pulau Puteangin hanya diperuntukan bagi masyarakat Pulau Puteangin yang selanjutnya dijual kepada konsumen di pasar ikan.</p>
+<p style="text-align: justify; margin-left: 40px;">
+	Selain kedua jenis ikan tersebut, ditemukan pula ikan menarik yang sering dijadikan sebagai hiasan akuarium air laut seperti jenis <em>Pygoplites diacanthus</em> dan <em>Arothron nigropunctatus</em>. Kondisi terumbu karang di utara pulau Puteangin memiliki kesehatan yang cukup baik. Hal tersebut di indikasikan dari keberadaan enam jenis ikan Chaetodontidae dengan kepadatan 920 ind/ha . Jenis ikan tersebut adalah <em>Chaetodon lunula, C. lunulatus, C. octofasciatus, C. vagabundus, Heniochus pleurotaenia </em>dan <em>H. varius</em>.</p>
+<p style="text-align: justify; margin-left: 40px;">
+	Biomassa ikan target dari tujuh jenis yang dijumpai di bagian utara Pulau Puteangin disajikan pada gambar di bawah ini. Biomassa terbesar berasal dari jenis <em>Caesio teres</em> kemudian disusul dengan jenis ikan <em>Scarus rivulatus </em>dan biomassa terbesar ketiga berasal dari jenis <em>Chlorurus sordidus.</em></p>
+<p style="text-align: justify; margin-left: 40px;">
+	Estimasi panjang ikan <em>Caesio teres</em> yang dijumpai adalah 10-15 cm dengan biomassa yang diperoleh sebesar 90,94 kg/ha. Jenis <em>Scarus rivulatus</em> merupakan jenis ikan yang menjadi alternatif tangkapan para nelayan, ikan ini tergolong cukup digemari oleh masyarakat karena banyak dijumpai pada rumah makan yang menyediakan masakan ikan. Panjang estimasi yang dijumpai untuk ikan ini adalah 15-20 cm. Sedangkan untuk ikan jenis <em>Chlorurus sordidus</em> memiliki kepadatan yang tidak terlalu besar yaitu 120 ind/ha dan memperoleh biomassa sebesar 12,23 kg/ha.</p>
+<p style="text-align: justify;">
+	<span style="color:#ff0000;"><strong>PADANG LAMUN</strong></span></p>
+<p style="text-align: justify; margin-left: 40px;">
+	Berdasarkan hasil pengamatan pada empat lokasi stasiun yang tersebar di empat bagian pesisir pantai Pulau Puteangin ditemukan lima spesies lamun yang termasuk ke dalam dua famili yaitu Hydrocharitaceae dan Potamogetonaceae. Kelima spesies tersebut adalah <em>Enhalus acoroides</em>, <em>Thalassia hemprichii </em>(Hydrocharitaceae), <em>Cymodocea rotundata</em>, <em>Cymodocea serrulata</em>, dan <em>Syringodium isoetifolium </em>(Potamogetonaceae).</p>
+<p style="text-align: justify; margin-left: 40px;">
+	Keberadaan kelima spesies tersebut tidak merata dan tidak terdapat di semua stasiun pengamatan, hanya jenis <em>Enhalus acoroides </em>saja yang ditemukan pada keempat stasiun pengamatan, sebaliknya jenis <em>Thalassia hemprichii </em>hanya ditemukan pada stasiun pengamatan yang berada di bagian barat Pulau Puteangin saja. <em>Syringodium isoetifolium </em>termasuk jenis yang paling banyak ditemukan pada plot contoh dan keberadaannya hampir merata pada semua stasiun kecuali pada stasiun yang terletak di bagian utara Pulau Puteangin.</p>
+<p style="text-align: justify; margin-left: 40px;">
+	Keberadaan masing-masing jenis lamun erat kaitannya dengan kondisi lingkungan terutama substrat dasar perairannya. Substrat memegang peranan yang penting dan berdasarkan hasil pengamatan ditemukan bahwa beberapa jenis lamun tidak mampu tumbuh dengan baik pada substrat yang tidak sesuai. Hal ini dapat diterangkan misalnya pada stasiun yang terletak di bagian utara Pulau Puteangin memiliki substrat pasir dengan sedikit kandungan lumpur tidak ditemukan jenis <em>Syringodium isoetifolium</em>, karena jenis tersebut lebih menyukai kondisi substrat yang berpasir tanpa mengandung lumpur.&nbsp;</p>
+<p style="text-align: justify; margin-left: 40px;">
+	Berdasarkan tabel diatas maka dapat dikatakan Pulau Puteangin memiliki tingkat keanekaragaman jenis lamun yang relatif rendah. Keberadaan jenis lamun tertentu tidak hanya disebabkan karena faktor alam (fisika dan kimia perairan), faktor manusia pun sangat berpengaruh dan menentukan terhadap penyebaran lamun. Seperti pada perairan yang belum terjamah dengan aktivitas manusia dibandingkan dengan yang sudah terjamah tentu berbeda, apalagi sudah rawan pencemaran akibat aktivitas manusia tentu akan sangat berpengaruh terhadap struktur komunitas lamun yang tumbuh di perairan tersebut.</p>
+<p style="text-align: justify; margin-left: 40px;">
+	Kerapatan lamun dengan daun berbentuk pita besar (<em>Enhalus acoroides</em>) relatif rendah antara 4 &ndash; 9 ind/m&sup2;. Lamun dengan tipe daun normal (<em>Thalassia hemprichii</em>) hanya ditemukan pada stasiun pengamatan di bagian barat Pulau Puteangin dengan kerapatan sebesar 12 ind/m&sup2;. Kerapatan jenis lamun dengan tipe daun berbentuk pita ukuran sedang (<em>Cymodocea rotundata</em> dan <em>Cymodocea serrulata</em>) bervariasi antara 10 &ndash; 32 ind/m&sup2;. <em>Syringodium isoetifolium </em>yang mempunyai tipe daun kecil memiliki kerapatan paling tinggi pada stasiun yang terletak di bagian barat, selatan, dan timur Pulau Puteangin dengan kerapatan masing-masing sebesar 272, 384, dan 17 ind/m&sup2;. Lamun yang memiliki kerapatan tertinggi di Pulau Puteangin adalah lamun jenis <em>Syringodium isoetifolium</em> yang berada di bagian selatan Pulau Puteangin sebesar 384 individu/m&sup2;, sedangkan jenis lamun yang memiliki kerapatan terendah adalah lamun jenis <em>Enhalus acoroides </em>yang berada di bagian timur Pulau Puteangin sebesar 4 individu/m&sup2;.</p>
+<p style="text-align: justify; margin-left: 40px;">
+	Penutupan total komunitas lamun pada lokasi penelitian di Pulau Puteangin berkisar antara 15 &ndash; 90 %. Penutupan tertinggi diperoleh pada stasiun yang terletak di bagian barat (85%), kemudian selatan (80%), timur (51%), dan paling rendah diperoleh di bagian utara Pulau Puteangin (15%). Persentase penutupan total lamun di stasiun bagian utara sebesar 15% dengan penutupan masing-masing jenis berturut-turut adalah <em>Enhalus acoroides </em>12%, yang merupakan nilai penutupan tertinggi, kemudian <em>Cymodocea serrulata </em>3%. Bagian yang tidak tertutupi oleh lamun sekitar 85%, terdiri dari pasir berlumpur, <em>rubble</em>, makroalga, dan terumbu karang.&nbsp;</p>
+<p style="text-align: justify; margin-left: 40px;">
+	Di stasiun bagian barat diperoleh nilai persentase penutupan total sebesar 85% yang terdiri dari <em>Enhalus acoroides </em>65%, <em>Thalassia hemprichii </em>7%, <em>Cymodocea rotundata </em>2%, dan <em>Syringodium isoetifolium </em>10%. Sisanya terdiri dari pasir sebesar 15%.</p>
+<p style="text-align: justify; margin-left: 40px;">
+	Penutupan total lamun di stasiun bagian selatan mencapai 80% terdiri dari <em>Enhalus acoroides </em>45%, <em>Cymodocea rotundata </em>15%, dan <em>Syringodium isoetifolium </em>20%. Sisanya yang tidak tertutupi lamun sebesar 20% berupa pasir.&nbsp;</p>
+<p style="text-align: justify; margin-left: 40px;">
+	Penutupan total lamun untuk stasiun yang terakhir yang terletak di bagian timur Pulau puteangin sebesar 51% yang terdiri dari <em>Enhalus acoroides </em>15%, <em>Cymodocea serrulata </em>35%, dan <em>Syringodium isoetifolium </em>1%. Sisanya terdiri dari pasir sebesar 49%.</p>
+<p style="text-align: justify; margin-left: 40px;">
+	Berdasarkan hasil pengamatan diperoleh penutupan total tertinggi terdapat pada stasiun pengamatan yang terletak pada bagian barat Pulau Puteangin sebesar 85%, sedangkan penutupan total terendah terdapat pada bagian utara Pulau Puteangin sebesar 15%. Penutupan lamun yang rendah ini diduga disebabkan karena adanya kandungan lumpur pada substrat yang tidak ditemukan pada stasiun yang lain sehingga turut mempengaruhi struktur komunitas lamun yang tumbuh pada wilayah tersebut. Hal ini juga didukung pada bagian yang tidak tertutupi oleh lamun terdiri dari pasir berlumpur, <em>rubble</em>, makro alga, dan terumbu karang, sedangkan pada stasiun pengamatan yang lain hanya ditemukan pasir saja.</p>
+<p style="text-align: justify; margin-left: 40px;">
+	Penutupan jenis lamun tertinggi berada di bagian barat Pulau Puteangin, yaitu lamun jenis <em>Enhalus acoroides </em>dengan penutupan sebesar 65%. Sedangkan, penutupan jenis lamun yang paling rendah berada di bagian timur Pulau Puteangin, yaitu lamun jenis <em>Syringodium isoetifolium</em> dengan nilai penutupan sebesar 1%. Lamun jenis <em>Syringodium isoetifolium </em>memiliki pentupan yang paling rendah dibandingkan jenis lamun lainnya walaupun nilai kerapatannya adalah yang tertinggi dikarenakan bentuk daunnya yang berupa silinder pipih seperti jarum berbeda dengan lamun jenis lainnya yang mempunyai daun yang relatif lebih lebar.</p>
+<p style="text-align: justify; margin-left: 40px;">
+	Salah satu fungsi ekosistem lamun adalah sebagai tempat hidup bagi biota laut lainnya dimana biota laut tersebut memanfaatkan ekosistem laumn untuk mencari makan, memijah, dan mencari perlindungan dari hewan predator. Biota laut tersebut ada yang berupa perifiton yang menempel pada daun lamun, benthos yang hidup di dasar substrat, maupun nekton yang dapat berenang bebas. Beberapa contoh biota asosiasi lamun yang ditemukan di pesisir Pulau Puteangin diantaranya adalah bintang laut, juvenil ikan, terumbu karang, dan makroalga.</p>
+<p style="text-align: justify;">
+	<span style="color:#ff0000;"><strong>MANGROVE</strong></span></p>
+<p style="text-align: justify; margin-left: 40px;">
+	Pulau Puteangin memiliki vegetasi pantai yang dimoninasi oleh Pohon Kelapa. Pantai berpasir putih dan patahan karang mendominasi pesisir Pulau.</p>
+<p style="text-align: justify;">
+	&nbsp;</p>
+</div></p>
+
+<hr>
+
+<h2><a id="snh">Sumberdaya Non Hayati</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<h2><a id="aps">Aktivitas Pengelolaan Sumberdaya</a></h2>
+<p><div class="readmore"><p style="text-align: justify; margin-left: 40px;">
+	Karena penduduknya yang mayoritas sebagai nelayan&nbsp; tangkap, aktivitas pengolahan sumberdaya terfokus pada produksi perikanan tangkap. Hasil tangkapan mereka umumnya Cakalang 50 Kg per 3 ekor dengan harga Rp15.000 &ndash; Rp30.000 per ekor yang dipasarkan di darat Kab. Barru atau di lokasi. Kerapu dan Cepal juga merupakan hasil tangkapan mereka.</p>
+<p style="text-align: justify; margin-left: 40px;">
+	Armada yang di gunakan nelayan di pulau puteangin yaitu, kapal 3-4 gt per unit terdapat 4 orang nelayan/abk dari 4 orang pemilik, katingting dan juga pursein ada 3 unit berisi 12 orang nelayan/abk perkapal yang dimiliki oleh 3 orang. Alat tangkap yang mereka gunakan biasanya adalah pancing. Adapun bantuan dari dinas perikanan Kabupaten Barru berupa jaring.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="ling">Lingkungan</a></h2>
+<p><div class="readmore"><p style="text-align: justify;">
+	<span style="color:#ffa500;"><strong>Kondisi Fisik, Hidrologi dan Perairan</strong></span></p>
+<p style="text-align: justify;">
+	Pulau Puteangin adalah <a href="http://id.wikipedia.org/wiki/Pulau" title="Pulau">pulau</a> kecil yang berada di Kecamatan Mallusetasi, Kabupaten Barru, Sulawesi Tengah. Potensi bahari yang dimiliki Pulau Puteangin berupa ekosistem terumbu karang dan lamun. Ekosistem tersebut menjadi habitat bagi berbagai jenis hewan laut seperti ikan, moluska, spongs, makroalga, dan lain-lain. Oleh sebab itu, kualitas perairan yang baik sangat diperlukan dalam mendukung kelestarian sumberdaya di Pulau Puteangin.</p>
+<p style="text-align: center;">
+	Hasil analisis kualitas air Pulau Puteangin</p>
+<table align="center" border="1" cellpadding="0" cellspacing="0" height="394" width="485">
+	<tbody>
+		<tr>
+			<td nowrap="nowrap" style="width:6.48%;height:20px;">
+				<p style="text-align: justify;">
+					<strong>No.</strong></p>
+			</td>
+			<td nowrap="nowrap" style="width:28.52%;height:20px;">
+				<p style="text-align: justify;">
+					<strong>Parameter</strong></p>
+			</td>
+			<td nowrap="nowrap" style="width:10.76%;height:20px;">
+				<p style="text-align: justify;">
+					<strong>Satuan</strong></p>
+			</td>
+			<td nowrap="nowrap" style="width:22.46%;height:20px;">
+				<p style="text-align: justify;">
+					<strong>Pulau Peuteangin</strong></p>
+			</td>
+			<td nowrap="nowrap" style="width:22.62%;height:20px;">
+				<p style="text-align: justify;">
+					<strong>Pulau Duntungan</strong></p>
+			</td>
+			<td style="width:9.18%;height:20px;">
+				<p style="text-align: justify;">
+					<strong>BM*</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="width:6.48%;height:20px;">
+				<p style="text-align: justify;">
+					1</p>
+			</td>
+			<td nowrap="nowrap" style="width:28.52%;height:20px;">
+				<p style="text-align: justify;">
+					Suhu</p>
+			</td>
+			<td nowrap="nowrap" style="width:10.76%;height:20px;">
+				<p style="text-align: justify;">
+					<sup>0</sup>C</p>
+			</td>
+			<td nowrap="nowrap" style="width:22.46%;height:20px;">
+				<p style="text-align: justify;">
+					32,3 - 30,6</p>
+			</td>
+			<td nowrap="nowrap" style="width:22.62%;height:20px;">
+				<p style="text-align: justify;">
+					31,2 - 32,3</p>
+			</td>
+			<td style="width:9.18%;height:20px;">
+				<p style="text-align: justify;">
+					Alami</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="width:6.48%;height:20px;">
+				<p style="text-align: justify;">
+					2</p>
+			</td>
+			<td nowrap="nowrap" style="width:28.52%;height:20px;">
+				<p style="text-align: justify;">
+					DO</p>
+			</td>
+			<td nowrap="nowrap" style="width:10.76%;height:20px;">
+				<p style="text-align: justify;">
+					&nbsp;mg/L</p>
+			</td>
+			<td nowrap="nowrap" style="width:22.46%;height:20px;">
+				<p style="text-align: justify;">
+					7,6 - 6,3</p>
+			</td>
+			<td nowrap="nowrap" style="width:22.62%;height:20px;">
+				<p style="text-align: justify;">
+					7,4 - 6,9</p>
+			</td>
+			<td style="width:9.18%;height:20px;">
+				<p style="text-align: justify;">
+					&gt; 5</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="width:6.48%;height:20px;">
+				<p style="text-align: justify;">
+					3</p>
+			</td>
+			<td nowrap="nowrap" style="width:28.52%;height:20px;">
+				<p style="text-align: justify;">
+					pH</p>
+			</td>
+			<td nowrap="nowrap" style="width:10.76%;height:20px;">
+				<p style="text-align: justify;">
+					-</p>
+			</td>
+			<td nowrap="nowrap" style="width:22.46%;height:20px;">
+				<p style="text-align: justify;">
+					7,47 - 7,34</p>
+			</td>
+			<td nowrap="nowrap" style="width:22.62%;height:20px;">
+				<p style="text-align: justify;">
+					7,35 - 8,42</p>
+			</td>
+			<td style="width:9.18%;height:20px;">
+				<p style="text-align: justify;">
+					7-8,5</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="width:6.48%;height:20px;">
+				<p style="text-align: justify;">
+					4</p>
+			</td>
+			<td nowrap="nowrap" style="width:28.52%;height:20px;">
+				<p style="text-align: justify;">
+					Salinitas</p>
+			</td>
+			<td nowrap="nowrap" style="width:10.76%;height:20px;">
+				<p style="text-align: justify;">
+					ppt</p>
+			</td>
+			<td nowrap="nowrap" style="width:22.46%;height:20px;">
+				<p style="text-align: justify;">
+					31 - 32</p>
+			</td>
+			<td nowrap="nowrap" style="width:22.62%;height:20px;">
+				<p style="text-align: justify;">
+					31</p>
+			</td>
+			<td style="width:9.18%;height:20px;">
+				<p style="text-align: justify;">
+					Alami</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="width:6.48%;height:20px;">
+				<p style="text-align: justify;">
+					5</p>
+			</td>
+			<td nowrap="nowrap" style="width:28.52%;height:20px;">
+				<p style="text-align: justify;">
+					Amonia (NH<sub>3</sub>-N)</p>
+			</td>
+			<td nowrap="nowrap" style="width:10.76%;height:20px;">
+				<p style="text-align: justify;">
+					&nbsp;mg/L</p>
+			</td>
+			<td nowrap="nowrap" style="width:22.46%;height:20px;">
+				<p style="text-align: justify;">
+					2,542</p>
+			</td>
+			<td nowrap="nowrap" style="width:22.62%;height:20px;">
+				<p style="text-align: justify;">
+					2,032</p>
+			</td>
+			<td style="width:9.18%;height:20px;">
+				<p style="text-align: justify;">
+					0,3</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="width:6.48%;height:22px;">
+				<p style="text-align: justify;">
+					6</p>
+			</td>
+			<td nowrap="nowrap" style="width:28.52%;height:22px;">
+				<p style="text-align: justify;">
+					Nitrat (NO<sub>3</sub>-N)</p>
+			</td>
+			<td nowrap="nowrap" style="width:10.76%;height:22px;">
+				<p style="text-align: justify;">
+					&nbsp;mg/L</p>
+			</td>
+			<td nowrap="nowrap" style="width:22.46%;height:22px;">
+				<p style="text-align: justify;">
+					0,069</p>
+			</td>
+			<td nowrap="nowrap" style="width:22.62%;height:22px;">
+				<p style="text-align: justify;">
+					0,054</p>
+			</td>
+			<td style="width:9.18%;height:22px;">
+				<p style="text-align: justify;">
+					0,008</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="width:6.48%;height:22px;">
+				<p style="text-align: justify;">
+					7</p>
+			</td>
+			<td nowrap="nowrap" style="width:28.52%;height:22px;">
+				<p style="text-align: justify;">
+					Fosfat (PO<sub>4</sub>-P)</p>
+			</td>
+			<td nowrap="nowrap" style="width:10.76%;height:22px;">
+				<p style="text-align: justify;">
+					&nbsp;mg/L</p>
+			</td>
+			<td nowrap="nowrap" style="width:22.46%;height:22px;">
+				<p style="text-align: justify;">
+					&lt;0,002</p>
+			</td>
+			<td nowrap="nowrap" style="width:22.62%;height:22px;">
+				<p style="text-align: justify;">
+					&lt;0,003</p>
+			</td>
+			<td style="width:9.18%;height:22px;">
+				<p style="text-align: justify;">
+					0,015</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="width:6.48%;height:22px;">
+				<p style="text-align: justify;">
+					*)</p>
+			</td>
+			<td colspan="4" nowrap="nowrap" style="width:84.34%;height:22px;">
+				<p style="text-align: justify;">
+					: Baku Mutu Berdasarkan Kepmen-LH 51 Tahun 2004 (Untuk Biota Laut )</p>
+			</td>
+			<td>
+				<p style="text-align: justify;">
+					&nbsp;</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<p style="text-align: justify; margin-left: 40px;">
+	Pulau Puteangin memiliki kisaran suhu sebesar 32,33 <sup>0</sup>C - 30,6 <sup>0</sup>C. Oksigen terlarut dalam air sebesar 7,6 mg/L - 6,3 mg/L. Sedangkan pH sebesar 7,47 - 7,34 dan salinitas 31-32 ppt. Kondisi Perarain di Pulau Puteangin dapat dikatan normal dan stabil untuk habitat ekosistem laut. Tidak Jauh beda dengan Pulau Duntungan, memiliki suhu sebesar 32,2 <sup>0</sup>C - 32,3 <sup>0</sup>C, DO sebesar 7,4 mg/L - 6,9 mg/L, pH sebesar 7,35 - 8,42 dan salinitas 31 ppt. Hasil pengukuran beberapa parameter kualitas air di Pulau Puteangin dan Pulau Duntungan yang memiliki nilai melebihi baku mutu, yaitu nitrat. Kandungan Nitrat (NO<sub>3</sub>-N) terdeteksi sangat tinggi, yaitu 0,069 mg/L (Pulau Puteangin), 0,054 mg/L (pulau Duntungan) dan jauh melebihi baku mutu perairan bagi biota akuatik sebesar 0,008 mg/L. Nitrat merupakan salah satu nutrien yang dibutuhkan oleh organisme autotrof untuk melakukan fotosintesis. Keberadaan nitrat juga menggambarkan kesuburan suatu perairan. Perairan yang kaya akan nitrat dikatakan sebagai perairan yang subur. Nitrat dapat bersumber dari masukan limbah domestik dari dalam pulau maupun aliran air permukaan dari sungai atau pulau di sekelilingnya. Nutrien dalam jumlah berlebih di perairan harus didukung oleh penetrasi cahaya matahari yang optimal, yaitu pada perairan yang jernih atau tidak keruh sehingga semua organisme autotrof dapat memanfaatkannya dan jika tidak, maka dapat menimbulkan dominansi beberapa jenis alga. Terumbu karang merupakan salah satu ekosistem yang rentan terhadap peningkatan kandungan nutrien di perairan. Nutrien dapat memicu pertumbuhan alga yang pesat. Alga dapat menempel di substrat bahkan di jaringan karang. Kompetisi ruang ini akan menyebabkan alga simbion karang kesulitan dalam memperoleh cahaya matahari, sehingga akhirnya lepas dari jaringan karang. Hal ini menyebabkan karang akan memutih karena ditutupi alga.</p>
+<p style="text-align: justify; margin-left: 40px;">
+	Parameter Amoniak di Pulau Puteangin dan pulau Duntungan memiliki nilai dibawah baku mutu. Amonia merupakan salah satu bentuk nitrogen anorganik yang dihasilkan dari proses perombakan material organik, baik dalam kondisi aerob maupun anaerob. Saat kondisi oksigen tersedia (aerob), amonia dapat dioksidasi menjadi nitrat. Oleh karena material organik umumnya mengendap di dasar perairan yang miskin oksigen, maka akumulasi amonia di dasar perairan produktif menjadi sesuatu yang sulit dihindarkan. Bahan organik di perairan dapat bersumber dari masukan limbah rumah tangga masyarakat yang dibuang ke perairan. Selain itu, amonia juga dapat bersumber dari limbah aktivitas budidaya ikan, udang, rumput laut, dan lain-lain. Keberadaan amonia dalam jumlah berlebihan ini dapat berdampak negatif bagi biota akuatik. Ikan yang terpapar amonia akan mengalami kesulitan respirasi (bernapas) karena amonia menurunkan kemampuan insang dalam mengikat oksigen. Fenomena yang sering terjadi akibat akumulasi amonia adalah kejadian kematian massal ikan setelah terjadi <em>upwelling</em> (pembalikan massa air).</p>
+<p style="text-align: justify; margin-left: 40px;">
+	Sementara itu Pada Pulau Puteangin dan Pulau Duntungan, nilai kandungan fosfat di perairan teramati sangat kecil, yaitu &lt;0,002 mg/L dan &lt;0,003 mg/L. Dimana kondisi tersebut&nbsp; jauh di bawah baku mutu, 0,015 mg/L. Sama halnya dengan nitrat, fosfat di perairan juga berperan sebagai nutrien untuk fotosintesis. Sumber alami fosfat adalah dari pelapukan batuan di perairan dan sumber antropogenik fosfat adalah dari limbah domestik dan pertanian berupa deterjen dan pupuk.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="sp">Sarana dan Prasarana</a></h2>
+<p><div class="readmore"><p style="text-align: justify;">
+	Sarana dan prasarana di Pulau Puteangin sedikit kurang memadai, terutama pada pendidikan. Itu mungkin terjadi karena tidak ada lahan untuk dilaksanakannya pembangunan dan padatnya pemukiman penduduk yang menyebar di seluruh bagian pulau.</p>
+<ol>
+	<li style="text-align: justify;">
+		<strong>Sarana tempat tinggal</strong></li>
+</ol>
+<p style="margin-left: 40px; text-align: justify;">
+	Pemukiman di Pulau Puteangin cukup padat untuk luas pulau yang hanya 2,7 Ha dengan rumah tinggal berjumlah 82. Rata-rata rumah mereka rumah panggung dan rumah 2 lantai.</p>
+<ol start="2">
+	<li style="text-align: justify;">
+		<strong>Sarana Penerangan</strong></li>
+</ol>
+<p style="margin-left: 40px; text-align: justify;">
+	Untuk sarana penerangan terdapat PLTS sejumlah 1 unit terpusat, yang dibangun sekitar tahun 2008. Kondisi terakhir telah terjadi kerusakan.</p>
+<ol start="3">
+	<li style="text-align: justify;">
+		<strong>Dermaga (Jetty)</strong></li>
+</ol>
+<p style="margin-left: 40px; text-align: justify;">
+	Terdapat dapat 2 unit Jetty Kayu. 1 Jetty berkondisi baik yang dibuat tahun 2011 dari dana bantuan PNPM Mandiri, yang digunakan sebagai tempat sandar perahu. Sisanya sedikit rusak.</p>
+<ol start="4">
+	<li style="text-align: justify;">
+		<strong>Sarana Pendidikan</strong></li>
+</ol>
+<p style="margin-left: 40px; text-align: justify;">
+	Sarana pendidikan hanya ada SD dan TK yang masing-masing berjumlah 1 unit. Untuk sekolah dasar telah berdiri lebih dari 30 tahun. Kondisinya baik dan terawat.</p>
+<ol start="5">
+	<li style="text-align: justify;">
+		<strong>Sarana Kesehatan</strong></li>
+</ol>
+<p style="margin-left: 40px; text-align: justify;">
+	Dari sarana kesehatan Puteangin memiliki 1 PUSTU yang berukuran sekitar 1 rumah dengan luas 80 m<sup>2</sup>. Pustu ini dibangnun oleh Pemerintah Daerah sekitar tahun 2010.</p>
+<ol start="6">
+	<li style="text-align: justify;">
+		<strong>Sarana Air Bersih</strong></li>
+</ol>
+<p style="margin-left: 40px; text-align: justify;">
+	Untuk kebutuhan air bersih cukup memadai. Terdapat 82 unit Tandon dengan ukuran 2 m<sup>2</sup> yang diberikan oleh UNICEF Tahun 2010 yang berkondisi baik. Terdapat pula 1 sumur tanah besar.</p>
+<ol start="7">
+	<li style="text-align: justify;">
+		<strong>Sarana Ibadah / Agama</strong></li>
+</ol>
+<p style="margin-left: 40px; text-align: justify;">
+	Ada 1 buah masjid dengan kondisi bagus dan terawat. Masjid ini telah berdiri sejak 100 tahun yang lalu.</p>
+<ol start="8">
+	<li style="text-align: justify;">
+		<strong>Sarana Sanitasi Lingkungan</strong></li>
+</ol>
+<p style="margin-left: 40px; text-align: justify;">
+	Sarana Sanitasi Lingkungan di Puteangin cukup terjaga. Hampir di setiap rumah memiliki WC masing-masing sendiri tergantung keadaan financial nelayan.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="pi">Peluang Investasi</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<h2><a id="pap">Potensi dan Arahan Pengembangan</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<h2><a id="kp">Kendala Pengembangan</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<h2><a id="rf">Referensi</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<br />
+	<i> 
+		<p style="font-size:12px;">
+			Karena keterbatasan SDM dalam penginputan dan pengolahan data, kami mohon maaf atas ketidak lengkapan beberapa data pulau yang kami tampilkan, harap dimaklumi.
+			Berikan keritik dan saran pada kolom komentar agar kita dapat bersama menyajikan sebuah data yang cukup sempurna untuk halayak ramai yang berguna
+			demi kesejahterahan, kelestarian dan keindahan pulau-pulau kecil yang dimiliki Indonesia.<br />
+			*Jika sekiranya anda memiliki data yang cukup banyak, silakan mengirimkan file melalui email kami di <b><a>identifikasippk@gmail.com</a></b>
+			
+		</p>
+	</i>
+<br />
+
+<div id="fb_comn" class="fb-comments" data-href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_info/8179" data-width="800" data-numposts="5" data-colorscheme="light"></div>
+
+
+</div>
+</div>
+</div>
+<div id="wrapper">
+
+<div class="footer"><p>
+<!--<marquee onmouseover="this.stop()" onmouseout="this.start()" scrollamount="5" direction="right" width="798" height="14"  behavior="scroll">-->
+<a href="http://www.ppk-kp3k.kkp.go.id/" target="_blank">Direktorat Pendayagunaan Pulau-Pulau Kecil &nbsp; | &nbsp;</a>
+<a href="http://www.kp3k.kkp.go.id/" target="_blank">Ditjen Kelautan, Pesisir dan Pulau-Pulau Kecil &nbsp; | &nbsp;</a>
+<a href="http://www.kkp.go.id/" target="_blank">Kementerian Kelautan dan Perikanan</a>
+<!--</marquee>--> <br />
+Jl. Medan Merdeka Timur No. 16 Gedung Mina Bahari 3 Lantai 10, Jakarta, Indonesia <br />
+Email : identifikasippk@gmail.com <br />
+Telp &amp; Fax: (021) 3522058 <br />
+&copy; Copyright Direktorat Pendayagunaan Pulau-Pulau Kecil 2012&nbsp; <br /></p>
+</div>
+</div>
+</body>
+</html>

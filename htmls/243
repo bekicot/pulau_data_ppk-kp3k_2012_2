@@ -1,0 +1,956 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Pulau Mantang</title>
+
+<meta charset="utf-8"/>
+
+<meta property="fb:app_id" content="559408774147878" />
+
+
+<meta property="og:title" content="Pulau Mantang" />
+<meta property="og:url" content="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_info/243" />
+
+
+    <script type="text/javascript" src="http://ajax.microsoft.com/ajax/jquery/jquery-1.4.4.min.js">
+    </script>
+    
+    <script type="text/javascript" src="http://plugins.learningjquery.com/expander/jquery.expander.js">
+    </script>
+    
+    <script type="text/javascript">
+        $(function () {
+            $('div.readmore').expander({
+                slicePoint:200,
+                expandText: '(Baca selengkapnya)',
+                userCollapseText: '(Sembunyikan selengkapnya)'
+            });
+        });
+    </script>
+        
+	<script src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/galleria/galleria-1.2.8.min.js"></script>
+
+        <SCRIPT TYPE="text/javascript">
+            <!--
+            //Disable right click script
+            //visit http://www.rainbow.arch.scriptmania.com/scripts/
+            var message="Sorry, right-click has been disabled";
+            ///////////////////////////////////
+            function clickIE() {if (document.all) {(message);return false;}}
+            function clickNS(e) {if
+            (document.layers||(document.getElementById&&!document.all)) {
+            if (e.which==2||e.which==3) {(message);return false;}}}
+            if (document.layers)
+            {document.captureEvents(Event.MOUSEDOWN);document.onmousedown=clickNS;}
+            else{document.onmouseup=clickNS;document.oncontextmenu=clickIE;}
+            document.oncontextmenu=new Function("return false")
+            // -->
+            </SCRIPT>
+            
+            <SCRIPT TYPE="text/javascript">
+            <!--
+            //Disable select-text script (IE4+, NS6+)
+            //visit http://www.rainbow.arch.scriptmania.com/scripts/
+            ///////////////////////////////////
+            function disableselect(e){
+            return false
+            }
+            function reEnable(){
+            return true
+            }
+            //if IE4+
+            document.onselectstart=new Function ("return false")
+            //if NS6
+            if (window.sidebar){
+            document.onmousedown=disableselect
+            document.onclick=reEnable
+            }
+            // -->
+            </SCRIPT>  
+              
+<link rel="stylesheet" type="text/css" href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/css/main.css" media="screen"/>
+<style type='text/css'>
+#info_wrap{
+	width:820px;
+	margin:0 auto;
+	text-shadow:0px 1px 1px #09F;
+}
+table{
+	color:#000000;
+}
+h1{
+	color:#000000;
+}
+.tengahin{
+	width: 105px;
+	height: 30px;
+	margin: 0 auto auto auto;
+}
+#box_view{
+	background-image:-webkit-gradient(linear, 0 0%, 0 100%, from(#FFFFFF), to(#E0F0F5));
+	background:#FFF;
+	color:#F60;
+	border: 1px solid #fff;
+	border-radius: 4px 4px 4px 4px;
+	box-shadow: 0 8px 6px -6px black;
+	position:fixed;
+	right:0;
+	top:150px;;
+	width:80px;
+	z-index:10;
+	padding-left:12px;
+	font-size:10px;
+	}
+#box_view li{
+	color:#F60;
+	margin-left:-30px;
+	}
+	#wrapper a b {
+	color: #FFF;
+	font-size:14px;
+}
+.batas{
+	float:left;
+	border-right-style:inset;
+	border-right-width:thin;
+	}
+.text_h_wrap{
+	
+	padding-left:450px;
+	padding-top:39px;
+	text-shadow:0px 1px 1px #09F;
+	}
+#wrapper .footer p{
+	font-size:12px;
+	color: #FFF;
+	text-align:center;
+	text-shadow:0px 1px 1px #09F;
+}
+td,th {
+	font-size: 12px;
+}
+
+marquee a{
+	color:#FFF
+	}
+#wrapper .footer a{
+	color: #FFFFFF;
+}
+</style>
+            
+<script>
+function goBack()
+  {
+  window.history.back()
+  }
+</script>
+<script type="text/javascript">
+function Popup( url, height, width )
+{
+    var windowProperties = "toolbar = 0, scrollbars = 1, location = 0, statusbar = 0, menubar = 0, resizable = 1, width = " + width + ", height = " + height + ", left = 50, top = 50";
+ 
+    return window.open( url, "", windowProperties );
+}
+</script>
+
+
+
+</head>
+<body oncontextmenu='return false;' onkeydown='return false;' onmousedown='return false;'>
+
+<a id="top_view"></a>
+<div id="wrapper">
+<div class="header_wrap">
+<div class="text_h_wrap">
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/home_page'><b>&nbsp;Home&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/menu_info/1'><b>&nbsp;About Us&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_data'><b>&nbsp;Direktori Pulau&nbsp;&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/program_ip'><b>&nbsp;IKU&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/data_ppkt'><b>&nbsp;PPKT&nbsp;</b></a>
+</div>
+<!--<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/maintenance'><b>&nbsp;Login&nbsp;</b></a>-->
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/dir_log_cont'><b>&nbsp;Login&nbsp;</b></a>
+
+</div>
+</div>
+</div>
+
+<div id="fb-root"></div>
+<script>
+  window.fbAsyncInit = function() {
+    // init the FB JS SDK
+    FB.init({
+      appId      : '559408774147878',                        // App ID from the app dashboard
+      status     : true,                                 // Check Facebook Login status
+      xfbml      : true                                  // Look for social plugins on the page
+    });
+
+    // Additional initialization code such as adding Event Listeners goes here
+  };
+
+  // Load the SDK asynchronously
+  (function(){
+     // If we've already installed the SDK, we're done
+     if (document.getElementById('facebook-jssdk')) {return;}
+
+     // Get the first script element, which we'll use to find the parent node
+     var firstScriptElement = document.getElementsByTagName('script')[0];
+
+     // Create a new script element and set its id
+     var facebookJS = document.createElement('script'); 
+     facebookJS.id = 'facebook-jssdk';
+
+     // Set the new script's source to the source of the Facebook JS SDK
+     facebookJS.src = '//connect.facebook.net/en_US/all.js';
+
+     // Insert the Facebook JS SDK into the DOM
+     firstScriptElement.parentNode.insertBefore(facebookJS, firstScriptElement);
+   }());
+</script>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=559408774147878";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="box_view">
+    <a href="#top_view">MENU</a>
+    <h3><p>Lihat Informasi:</p></h3>
+    <ul>
+	<a href="#sf"><li>Slide Foto</li></a>
+    <a href="#gu"><li>Gambaran Umum</li></a>
+    <a href="#ksbk"><li>Kependudukan, Sosial Budaya dan Kelembagaan</li></a>
+    <a href="#eshp"><li>Ekosistem dan Sumberdaya Hayati</li></a>
+    <a href="#snh"><li>Sumberdaya Non Hayati</li></a>
+    <a href="#aps"><li>Aktivitas Pengelolaan Sumberdaya</li></a>
+    <a href="#ling"><li>Lingkungan</li></a>
+    <a href="#sp"><li>Sarana dan Prasarana</li></a>
+    <a href="#pi"><li>Peluang Investasi</li></a>
+    <a href="#pap"><li>Potensi Arahan Pengembangan</li></a>
+    <a href="#kp"><li>Kendala Pengembangan</li></a>
+	<a href="#rf"><li>Referensi</li></a>
+    </ul>
+    <a href="#fb_comn">KOMENTAR</a>
+</div>
+
+<br>
+			<a id="sf"></a></h2>
+			<div id="galleria">
+            <!--<div class='tengahin'><input type="button" value="Kembali Ke List" onclick="goBack()"></div>-->
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/d39d-p1060463.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__d39d-p1060463.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/0089-p1060465.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__0089-p1060465.jpg" data-description=""></a></p>
+                            </div>
+            
+            <script>
+            Galleria.loadTheme('http://www.ppk-kp3k.kkp.go.id/direktori-pulau/galleria/themes/classic/galleria.classic.min.js');
+            Galleria.run('#galleria');
+            </script>
+</div>
+
+<div id="text_warp">
+
+
+<p><h1>Mantang</h1></p>
+<table>
+<tr>
+	<td>Nama Lain</td> <td>:</td> <td></td>
+</tr>
+<tr>
+	<td>Propinsi</td> <td>:</td> <td>KEPULAUAN RIAU</td>
+</tr>
+<tr>
+	<td>Kabupaten</td> <td>:</td> <td>KABUPATEN BINTAN</td>
+</tr>
+<tr>
+	<td>Kecamatan</td> <td>:</td> <td></td>
+</tr>
+<tr>
+	<td>Koordinat</td> <td>:</td> <td><a href="http://www.ppk-kp3k.kkp.go.id/giskkp/index.html?extent="target="_blank">0° 47' 8.000" LU 104° 32' 51.000" BT</a></td>
+</tr>
+</table>
+<hr>
+
+<h2><a id="gu">Gambaran Umum</a></h2>
+<p><div class="readmore"><p style="text-align: justify;">
+	<span style="color:#ff0000;"><strong>GAMBARAN UMUM</strong></span></p>
+<p style="text-align: justify; margin-left: 40px;">
+	Pulau Mantang berada di perairan lepas Samudra Hindia. Ekosistem pesisir P. Mantang yang terdiri dari terumbu karang dan lamun merupakan potensi sebagai sumber ekonomi bagi masyarakat. Melimpahnya ikan dan sumberdaya hayati laut lainnya menjadikan warga masyarakat Pulau Mantang menggantungkan hidupnya dari aktivitas perikanan tangkap. Selain itu, jasa lingkungan yang dapat diberikan kawasan pesisir Pulau Mantang adalah fungsinya sebagai kawasan wisata. Ombak yang cukup besar menjadi daya tarik bagi wisatawan asing untuk bermain papan selancar. Keindahan terumbu karang dan kompleksitas lamun dan pantai &nbsp;menjadi daya tarik tersendiri bagi wisatawan yang berkunjung ke Pulau Mantang.</p>
+<p style="text-align: justify;">
+	<span style="color:#ff0000;"><strong>AKSESIBILITAS</strong></span></p>
+<p style="margin-left: 40px;">
+	Untuk menuju P. Mantang dapat dicapai dengan menggunakan perahu &lsquo;pompong&rsquo; kurang lebih selama 45 menit dari Pelabuhan Barek Motor, Kota Kijang. Sedangkan perjalanan darat dari Tanjungpinang ke Kota Kijang sendiri hanya membutuhkan waktu 30 menit dengan menggunakan kendaraan roda 4.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="ksbk">Kependudukan, Sosial Budaya dan Kelembagaan</a></h2>
+<p><div class="readmore"><p style="text-align: justify;">
+	<span style="color:#ff0000;"><strong>KEPENUDUDUKAN</strong></span></p>
+<p style="margin-left: 14.2pt; text-align: justify;">
+	Pulau Mantang terdapat 3 desa, yaitu Desa Mantang Lama, Desa Mantang Besar dan Desa Mantang Baru.</p>
+<ol style="list-style-type:lower-alpha;">
+	<li style="text-align: justify;">
+		Desa Mantang Lama memiliki 270 KK dengan jumlah penduduk lebih dari 800 jiwa. Sebagian besar (&gt; 95%) penduduk yang tinggal di desa ini memiliki mata pencaharian sebagai nelayan. Hanya sebagian kecil saja bertani dan pegawai. Seluruh penduduk yang tinggal di desa ini beragama Islam.</li>
+	<li style="text-align: justify;">
+		Desa Mantang Besar memiliki 133 KK yang tersebar di 2 rukun tetangga (RT). Hampir seluruh penduduk memiliki mata pencaharian sebagai nelayan. Dari 133 KK tersebut, semua beragama Islam dan hanya 1 KK saja yang beragama Budha.</li>
+	<li style="text-align: justify;">
+		Desa Mantang Baru memiliki 310 KK dengan penduduk lebih dari 1000 jiwa. Hampir seluruh penduduk memiliki mata pencaharian sebagai nelayan.</li>
+</ol>
+<p style="text-align: justify;">
+	<strong><span style="color:#ff0000;">KELEMBAGAAN</span></strong></p>
+<p style="text-align: justify; margin-left: 40px;">
+	Di Pulau Mantang terdapat beberapa kelembagaan, diantaranya adalah Himpunan Nelayan Seluruh Indonesia (HNSI) Kecamatan Mantang, kelompok pengelola keramba jaring apung (KJA) bantuan Dinas Kelautan dan Perikanan Provinsi di ketiga desa dan kelompok pembudidaya ikan lele di Desa Mantang Lama.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="eshp">Ekosistem dan Sumberdaya Hayati</a></h2>
+<p><div class="readmore"><p>
+	<span style="color:#ff0000;"><strong>TERUMBU KARANG</strong></span></p>
+<p style="text-align: justify; margin-left: 40px;">
+	Pulau Mantang yang berada tidak jauh dengan darat Pulau Bintan memiliki potensi terumbu karang yang cukup baik. Keberadaan terumu karang di Pulau Mantang yakni pada kedalaman 1 meter hingga 3 meter. Hasil dari pengamatan Kementerian Kelautan dan Perikanan tahun 2013, bahwa terumbu karang di Pulau Mantang tinggal hingga 25 % yang masih hidup. Terumbu Karang di Pulau Mantang&nbsp; yang tersisah yakni 25 % untuk kategori karang hidup, 40% kategori karang mati, 10 % kategori Biotik, 10 % kategori alga dan 15 % kategori abiotik yakni patahan karang dan pasir.</p>
+<p style="text-align: justify; margin-left: 40px;">
+	Kondisi terumbu karang di Pulau Mantang cukup memperhatinkan dikarenakan tingginya sedimentasi dari daratan mengakibatkan banyak terumbu karang yang mati. Hampir tiap bagian Pulau terumbu karangnya mati, salah satunya di bagian utara Pulau akibat dari sedimen yang terperangkap di permukaan terumbu karang yang mengakibatkan karang tersebut memutih hingga mati. Sedimen dari daratan disebabkan tingginya akitivitas pertambangan di Pulau Mantang yang tidak terkontrol, sehingga pada musim hujan sedimen tanah liat tersebut masuk ke perairan yang mengakibatkan perairan menjadi keruh. Partikel - partikel inilah yang kemudian mengendap pada permukaan terumbu karang.</p>
+<p style="text-align: justify;">
+	<span style="color:#ff0000;"><strong>MANGROVE</strong></span></p>
+<p style="margin-left: 1cm; text-align: justify;">
+	Mangrove merupakan komunitas vegetasi pantai tropis dan subtropis yang didominasi oleh beberapa jenis pohon mangrove yang mampu tumbuh dan berkembang pada daerah pasang surut pantai berlumpur (Bengen, 2001). Struktur perakaran mangrove yang kuat dan relatif lebar dapat menstabilkan substrat di pantai serta menyediakan temapt tinggal dan berlindung bagi biota laut.&nbsp; Ekosistem mangrove merupakan benteng terakhir yang dimiliki oleh daratan terhadap ancaman dari arah laut, terutama gelombang.&nbsp; Keberadaan mangrove merupakan salah satu keharusan bagi wilayah pesisir, terutama di wilayah dengan gelombang laut yang tergolong besar sehingga berpotensi abrasi.</p>
+<p style="margin-left: 1cm; text-align: justify;">
+	Pulau Mantang merupakan salah satu pulau yang memiliki ekosistem mangrove di beberapa sisinya.&nbsp; Delapan jenis mangrove terdapat di pulau ini. Enam jenis mangrove ditemukan pada stasiun pengamatan sedangkan dua jenis mangrove ditemukan di luar stasiun pengamatan. Enam jenis mangrove tersebut adalah <em>Avicenia marina</em>, <em>Bruguiera gymnorhiza</em>, <em>Rhizophora apiculata</em>, <em>Rhizophora mucronata</em>, <em>Rhizophora stylosa</em>, serta <em>Sonneratia alba</em>.&nbsp; Dua jenis mangrove yang ditemukan di luar stasiun pengamatan adalah <em>Bruguiera cylindrica</em> dan <em>Xylocarpus granatum.</em></p>
+<p style="margin-left: 1cm; text-align: center;">
+	Jenis Mangrove yang ditemukan di P. Mantang</p>
+<table align="center" border="1" cellpadding="1" cellspacing="1" height="183" width="288">
+	<tbody>
+		<tr>
+			<td style="text-align: center;">
+				No</td>
+			<td style="text-align: center;">
+				Jenis Mangove</td>
+		</tr>
+		<tr>
+			<td style="text-align: center;">
+				1</td>
+			<td>
+				<em>Avicenia marina</em></td>
+		</tr>
+		<tr>
+			<td style="text-align: center;">
+				2</td>
+			<td>
+				<em>Bruguiera cylindrica</em></td>
+		</tr>
+		<tr>
+			<td style="text-align: center;">
+				3</td>
+			<td>
+				<em>Bruguiera gynmorhiza</em></td>
+		</tr>
+		<tr>
+			<td style="text-align: center;">
+				4</td>
+			<td>
+				<em>Rhizophora apiculata</em></td>
+		</tr>
+		<tr>
+			<td style="text-align: center;">
+				5</td>
+			<td>
+				<em>Rhizophora mucronata</em></td>
+		</tr>
+		<tr>
+			<td style="text-align: center;">
+				6</td>
+			<td>
+				<em>Rhizophora stylosa</em></td>
+		</tr>
+		<tr>
+			<td style="text-align: center;">
+				7</td>
+			<td>
+				<em>Sonneratia alba</em></td>
+		</tr>
+		<tr>
+			<td style="text-align: center;">
+				8</td>
+			<td>
+				<em>Xylocarpus granatum</em></td>
+		</tr>
+	</tbody>
+</table>
+<p style="text-align: justify; margin-left: 40px;">
+	Ekosistem mangrove Pulau Mantang untuk <span style="color:#008000;"><strong>kategori pohon</strong></span> didominasi oleh mangrove jenis Rhizophora apiculata yang tersebar hampir di semua sisi pulau.&nbsp; Untuk sisi utara, jenis mangrove yang dominan adalah mangrove jenis <em>Rhizophora apiculata</em> dan <em>Sonneratia alba</em> dengan INP masing-masing sebesar 237,14 dan 225,47.&nbsp; Sedangkan INP terendah dimiliki oleh mangrove jenis <em>Bruguiera gymnorhiza</em> dengan nilai sebesar 62,86.&nbsp; Ekosistem mangrove di selatan pulau didominasi oleh <em>Rhizophora mucronata</em> dengan INP tertinggi sebesar 137,04.&nbsp; Sisi barat laut didominasi oleh mangrove jenis Rhizophora stylosa dengan INP mencapai 220,50 sedangkan di sisi timur hanya ditemukan satu jenis mangrove, yaitu <em>Rhizophora apiculata</em> dengan INP sebesar 300,00</p>
+<p style="margin-left: 1cm; text-align: justify;">
+	Empat <span style="color:#008000;"><strong>jenis anakan</strong></span> mangrove ditemukan tersebar di Pulau Mantang. Ekosistem mangrove di sisi utara ditemukan dua jenis anakan mangrove, yaitu jenis <em>Avicenia marina</em> dan <em>Rhizophora apiculata</em>.&nbsp; Anakan mangrove jenis <em>Rhizophora apiculata </em>mendominasi anakan mangrove di sisi utara dengan INP sebesar 122,22.&nbsp; Ekosistem mangrove di sisi selatan memiliki tiga jenis anakan mangrove yang didominasi oleh anakan mangrove jenis <em>Rhizophora apiculata</em> dan <em>Rhizophora mucronata</em> dengan INP masing-masing sebesar 77,78.&nbsp; Sedangkan ekosistem mangrove di sisi barat laut didominasi oleh anakan mangrove jenis <em>Rhizophora apiculata</em> dengan INP 105,56.&nbsp; Berbeda dengan sisi Pulau Mantang lainnnya, ekosistem mangrove di sisi timur hanya memiliki satu jenis anakan mangrove, yaitu jenis <em>Rhizophora apiculata </em>dengan INP sebesar 200.&nbsp; Secara umum INP tertinggi yang dimiliki anakan mangrove di Pulau Mantang dimiliki oleh anakan mangrove jenis <em>Rhizophora apiculata </em>di sisi timur dengan INP tersebut, sedangkan INP terendah dimiliki oleh anakan mangrove jenis <em>Sonneratia alba</em> di sisi selatan pulau dengan INP sebesar 44,44.</p>
+<p style="margin-left: 1cm; text-align: justify;">
+	<span style="color:#008000;">Kategori anakan</span> mangrove yang ditemukan di Pulau Mantang masih lebih banyak dibanding jenis semaiaan mangrove yang ditemukan.&nbsp; Berdasarkan pengamatan, ekosistem mangrove di sisi utara memiliki empat jenis semaian mangrove yang didominasi oleh semaian mangrove jenis <em>Rhizophora apiculata </em>dengan INP sebesar 87,50.&nbsp; Ekosistem mangrove di sisi selatan pulau didominasi oleh semaian mangrove jenis <em>Rhizophora apiculata</em> dengan INP sebesar 137,50. Pada stasiun pengamatan mangrove di sisi barat laut tidak ditemukan semaian mangrove sedangkan pada sisi timur hanya ditemukan semaian mangrove jenis <em>Rhizophora apiculata </em>dengan INP 200.&nbsp; Semaian mangrove di sisi timur ini menjadi semaian mangrove dengan INP tertinggi di Pulau Mantang, sedangkan INP terendah dimiliki oleh semaian mangrove jenis Avicenia marina dan Sonneratia alba serta jenis Rhizophora mucronata di sisi utara dengan INP sebesar 37,50</p>
+<p style="text-align: justify;">
+	<span style="color:#ff0000;"><strong>LAMUN</strong></span></p>
+<p style="margin-left: 1cm; text-align: justify;">
+	Pulau Mantang berbentuk memanjang dari arah timur ke barat. Sisi utara pulau ini memiliki rataan terumbu serta pantai yang tidak terlalu luas, sedangkan sisi selatan memiliki rataan terumbu yang luas hingga lebih besar dari 500 meter dari garis pantai.&nbsp; Substrat di sisi utara didominasi oleh lumpur yang di beberapa tempat berwarna kemerahan sedangkan di sisi selatan didominasi pasir.&nbsp; Lumpur kemerahan tersebut merupakan aliran limbah lumpur dari tambang bauksit yang tersebar luas di Pulau Mantang. Meski beberapa bekas area tambang sudah di tanami kembali namun bekas tambang yang ditinggalkan tanpa penanganan masih tersebar luas, sehingga menjadi sumber limbah lumpur yang terbawa aliran air hujan ke pantai.&nbsp; Beberapa bekas tambang tersebut membentuk danau atau rawa yang tergenang air saat musim hujan dan kering saat musim kemarau.</p>
+<p style="margin-left:1.0cm;">
+	Meski di beberapa tempat tercemar limbah tambang bauksit, rataan terumbu pulau ini masih memiliki beberapa jenis lamun yang hidup dan beradaptasi dengan kondisi perairan yang sebagian hampir tidak layak untuk habitat lamun.&nbsp;&nbsp; Terlebih habitat lamun di pulau ini banyak tercemar limbah rumah tangga karena sebagian besar warga yang tinggal di pinggir pantai tidak memiliki fasilitas MCK yang memadai sehingga sampah dan limbah rumah tangga langsung di buang ke laut.&nbsp; Hal ini semakin menambah daftar sumber pencemar bagi ekosistem pantai di Pulau Mantang.</p>
+<p style="text-align: justify; margin-left: 40px;">
+	Pulau Mantang yang memiliki karakteristik pantai berbeda di setiap sisinya memiliki beberapa jenis lamun yang tersebar dalam kelompok-kelompok kecil di sekeliling pulau.&nbsp; Kelompok lamun tersebut terbentuk dari beberapa jenis lamun (Padang Lamun Campuran) dan satu jenis lamun (Padang Lamun Tunggal).&nbsp;&nbsp; Lima jenis lamun ditemukan di pulau ini. Empat jenis lamun ditemukan di stasiun pegamatan sedangkan satu jenis lainnya di temukan di luar stasiun pengamatan.&nbsp; Empat jenis lamun yang ditemukan di stasiun pengamatan adalah <em>Cymodocea rotundata</em>, <em>Enhalus acoroides</em>, <em>Thalassia hemprichii</em>, dan <em>Thalassodendron ciliatum</em>.&nbsp; Sedangkan lamun jenis <em>Halodule uninervis</em> ditemukan di luar stasiun pengamatan, lebih tepatnya ditemukan dekat ekosistem mangrove di sisi selatan pulau.</p>
+<p style="margin-left: 40px; text-align: center;">
+	Jenis Lamun yang ada di P. Mantang</p>
+<table align="center" border="1" cellpadding="1" cellspacing="1" height="123" width="287">
+	<tbody>
+		<tr>
+			<td style="text-align: center;">
+				No.</td>
+			<td style="text-align: center;">
+				Jenis Lamun</td>
+		</tr>
+		<tr>
+			<td style="text-align: center;">
+				1</td>
+			<td>
+				<em>Cymodocea rotundata</em></td>
+		</tr>
+		<tr>
+			<td style="text-align: center;">
+				2</td>
+			<td>
+				<em>Enhalus acoroides</em></td>
+		</tr>
+		<tr>
+			<td style="text-align: center;">
+				3</td>
+			<td>
+				<em>Halodule uninervis</em></td>
+		</tr>
+		<tr>
+			<td style="text-align: center;">
+				4</td>
+			<td>
+				<em>Thalassia hemprichii</em></td>
+		</tr>
+		<tr>
+			<td style="text-align: center;">
+				5</td>
+			<td>
+				<em>Thalassodendron ciliatum</em></td>
+		</tr>
+	</tbody>
+</table>
+<p style="text-align: justify;">
+	<span style="color:#ff0000;"><strong>VEGETASI PANTAI</strong></span></p>
+<p style="text-align: justify; margin-left: 40px;">
+	Pulau Mantang yang menjadi salah satu area penambangan bauksit memiliki 8 jenis vegetasi yang didominasi oleh pepohonan.&nbsp; Di beberapa sisi pulau, pantainya memiliki substrat lumpur dan tanah berwarna kemerahan akibat limbah penambangan bauksit dan tidak banyak vegetasi pantai yang dapat tumbuh di tanah merah tersebut, kecuali beberapa jenis pohon.</p>
+<p style="margin-left: 40px; text-align: center;">
+	Vegetasi pantai di P. Mantang</p>
+<table align="center" border="1" cellpadding="1" cellspacing="1" height="183" width="292">
+	<tbody>
+		<tr>
+			<td style="text-align: center;">
+				No.</td>
+			<td style="text-align: center;">
+				Jenis vegetasi pantai</td>
+		</tr>
+		<tr>
+			<td style="text-align: center;">
+				1</td>
+			<td>
+				<em>Ipomea pes-caprae</em></td>
+		</tr>
+		<tr>
+			<td style="text-align: center;">
+				2</td>
+			<td>
+				<em>Pandanus tectorius</em></td>
+		</tr>
+		<tr>
+			<td style="text-align: center;">
+				3</td>
+			<td>
+				<em>Acantathus ilicifolius</em></td>
+		</tr>
+		<tr>
+			<td style="text-align: center;">
+				4</td>
+			<td>
+				<em>Scaevola taccada</em></td>
+		</tr>
+		<tr>
+			<td style="text-align: center;">
+				5</td>
+			<td>
+				<em>Hibiscus tilaceaus</em></td>
+		</tr>
+		<tr>
+			<td style="text-align: center;">
+				6</td>
+			<td>
+				<em>Thespesia populnea</em></td>
+		</tr>
+		<tr>
+			<td style="text-align: center;">
+				7</td>
+			<td>
+				<em>Cocos nucifera</em></td>
+		</tr>
+		<tr>
+			<td style="text-align: center;">
+				8</td>
+			<td>
+				<em>Terminalia catappa</em></td>
+		</tr>
+	</tbody>
+</table>
+<p>
+	&nbsp;</p>
+</div></p>
+
+<hr>
+
+<h2><a id="snh">Sumberdaya Non Hayati</a></h2>
+<p><div class="readmore"><p style="text-align: justify; margin-left: 40px;">
+	Pulau Mantang memiliki sumber daya non hayati yang cukup melimpah, terutama bauksitnya. Aktivitas penambangan bauksit sudah mulai marak diera awal tahun 2000 an oleh PT. Aneka Tambang. Selain PT. Aneka Tambang terdapat juga beberapa perusahaan swasta yang ikut menguasai area tambang di pulau ini, diantaranya DANPAC Resources dan Gunung Sion.</p>
+<p style="margin-left: 40px; text-align: justify;">
+	Dengan memiliki sumber tambang ini, menjadikan Pulau Mantang menjadi sangat rentan. Lahan terbuka yang diakibatkan oleh penambangan bauksit menyisakan masalah lingkungan yang cukup komplek. Pada musim penghujan, aliran air yang mengalir dari lahan terbuka ini tidak dapat diserap dengan baik oleh tanaman dan hutan-hutan kecil disekitar pulau. Akibatnya air yang keruh dan mengandung sedimen yang besar tersebut masuk kedalam perairan disekitar pulau. Sebagai akibat dari proses tersebut, perairan disekitar pulau menjadi keruh dan lebih jauh lagi menyebabkan banyak karang ditutupi endapan sedimen tersebut. Hal ini menyebabkan kualitas perairan disekitar Pulau Mantang menjadi rendah dan mempengaruhi kehidupan biota laut disekitar pulau tersebut.</p>
+<p style="margin-left: 40px; text-align: justify;">
+	Sejak tahun 2012, Pemerintah Kabupaten Bintan mengambil langkah yang tepat dengan melakukan moratorium aktivitas tambang di wilayah pulau-pulau kecil. Banyak pihak menilai ini merupakan kebijakan pengelolaan wilayah pesisir yang berorientasi pada lingkungan. Selain itu juga, Pemerintah Kabupaten Bintan melakukan pengawasan yang ketat kepada perusahaan-perusahaan tambang untuk melakukan reboisasi lahan-lahan bekas tambang.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="aps">Aktivitas Pengelolaan Sumberdaya</a></h2>
+<p><div class="readmore"><p style="text-align: justify;">
+	<span style="color:#ff0000;"><strong>PERIKANAN TANGKAP</strong></span></p>
+<p style="margin-left: 40px; text-align: justify;">
+	Secara umum produksi perikanan tangkap di Pulau Mantang cukup tinggi. Jenis tangkapan diantaranya adalah tongkol, selar, selikur, kembung, tenggiri, kakaktua, udang, cumi dan juga ikan teri.&nbsp; Hampir sebagian besar hasil tangkapan dipasarkan di Kota Kijang melalui penampung yang sering disebut dengan Toke Ikan.</p>
+<p style="margin-left: 40px; text-align: justify;">
+	Armada penangkapan ikan di ketiga desa terdiri atas kapal ukuran kecil (3 GT) hingga sedang (5 GT-10 GT). Di Desa Mantang Baru terdapat 3 armada kapal ukuran sedang yang beroperasi penangkapan ikan. Lamanya waktu beroperasi untuk kapal ukuran kecil 3-4 malam sedangkan untuk kapal ukuran sedang dan besar bisa mencapai 20 malam.</p>
+<p>
+	<span style="color:#ff0000;"><strong>PERIKANAN BUDIDAYA</strong></span></p>
+<p style="margin-left: 40px; text-align: justify;">
+	Produksi budidaya laut di Pulau Mantang hanya jenis keramba jaring apung (KJA) saja. Budidaya ini terdapat di ketiga desa yang ada di pulau ini. Pengelola KJA terdiri dari perorangan maupun kelompok. Pengelolaan kelompok dilakukan pada KJA bantuan dari Pemerintah Kabupaten Bintan. Jenis ikan yang dibudidayakan umunya adalah dari jenis kerapu. Usaha pembudidayaan yang sifatnya perorangan dilakukan dari skala kecil (1 lubang) hingga skala yang cukup besar (&gt; 20 lubang). Produksi perikanan air tawar di Pulau Mantang hanya terdapat di Desa Mantang Lama. Hanya terdapat 10 kelompok pembudidaya ikan lele di desa ini.</p>
+<p style="text-align: justify;">
+	<span style="color:#ff0000;"><strong>PENGELOLAAN SUBERDAYA MINERAL</strong></span></p>
+<p style="margin-left: 40px; text-align: justify;">
+	Pulau Mantang memiliki sumber daya non hayati yang cukup melimpah, terutama bauksitnya. Aktivitas penambangan bauksit sudah mulai marak diera awal tahun 2000 an oleh PT. Aneka Tambang. Selain PT. Aneka Tambang terdapat juga beberapa perusahaan swasta yang ikut menguasai area tambang di pulau ini, diantaranya DANPAC Resources dan Gunung Sion.</p>
+<p style="margin-left: 40px; text-align: justify;">
+	Dengan memiliki sumber tambang ini, menjadikan Pulau Mantang menjadi sangat rentan. Lahan terbuka yang diakibatkan oleh penambangan bauksit menyisakan masalah lingkungan yang cukup komplek. Pada musim penghujan, aliran air yang mengalir dari lahan terbuka ini tidak dapat diserap dengan baik oleh tanaman dan hutan-hutan kecil disekitar pulau. Akibatnya air yang keruh dan mengandung sedimen yang besar tersebut masuk kedalam perairan disekitar pulau. Sebagai akibat dari proses tersebut, perairan disekitar pulau menjadi keruh dan lebih jauh lagi menyebabkan banyak karang ditutupi endapan sedimen tersebut. Hal ini menyebabkan kualitas perairan disekitar Pulau Mantang menjadi rendah dan mempengaruhi kehidupan biota laut disekitar pulau tersebut.</p>
+<p style="margin-left: 40px; text-align: justify;">
+	Sejak tahun 2012, Pemerintah Kabupaten Bintan mengambil langkah yang tepat dengan melakukan moratorium aktivitas tambang di wilayah pulau-pulau kecil. Banyak pihak menilai ini merupakan kebijakan pengelolaan wilayah pesisir yang berorientasi pada lingkungan. Selain itu juga, Pemerintah Kabupaten Bintan melakukan pengawasan yang ketat kepada perusahaan-perusahaan tambang untuk melakukan reboisasi lahan-lahan bekas tambang.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="ling">Lingkungan</a></h2>
+<p><div class="readmore"><p>
+	<span style="color:#ff0000;"><strong>KONDISI PERAIRAN</strong></span></p>
+<p style="margin-left: 40px;">
+	Hasil analisis kualitas air tersaji pada <strong>Tabel 1</strong>. Kualitas perairan Pulau Mantang dalam kondisi yang <strong>kurang</strong> <strong>baik</strong> berdasar pada baku mutu KepMen-LH 51 Tahun 2004 untuk Biota Laut. Terdapat beberapa parameter yang melebihi baku mutu, yaitu nitrat dan fosfat yang merupakan nutrien di perairan.</p>
+<p style="margin-left: 40px; text-align: center;">
+	Tabel 1. Hasil Analisis Kualitas Air P. Mantang</p>
+<table align="center" border="1" cellpadding="0" cellspacing="1" height="165" width="500">
+	<tbody>
+		<tr>
+			<td style="text-align: center;">
+				No</td>
+			<td style="text-align: center;">
+				Parameter</td>
+			<td style="text-align: center;">
+				Satuan</td>
+			<td style="text-align: center;">
+				NIlai</td>
+			<td style="text-align: center;">
+				Baku Mutu*</td>
+		</tr>
+		<tr>
+			<td style="text-align: center;">
+				1</td>
+			<td>
+				Suhu</td>
+			<td style="text-align: center;">
+				oC</td>
+			<td style="text-align: right;">
+				30</td>
+			<td style="text-align: right;">
+				30-31</td>
+		</tr>
+		<tr>
+			<td style="text-align: center;">
+				2</td>
+			<td>
+				DO</td>
+			<td style="text-align: center;">
+				mg/L</td>
+			<td style="text-align: right;">
+				7.5</td>
+			<td style="text-align: right;">
+				&gt; 5</td>
+		</tr>
+		<tr>
+			<td style="text-align: center;">
+				3</td>
+			<td>
+				pH</td>
+			<td style="text-align: center;">
+				&nbsp;</td>
+			<td style="text-align: right;">
+				7.2</td>
+			<td style="text-align: right;">
+				7 - 8.5</td>
+		</tr>
+		<tr>
+			<td style="text-align: center;">
+				4</td>
+			<td>
+				Salinitas</td>
+			<td style="text-align: center;">
+				&permil;</td>
+			<td style="text-align: right;">
+				32</td>
+			<td style="text-align: right;">
+				30 - 34</td>
+		</tr>
+		<tr>
+			<td style="text-align: center;">
+				5</td>
+			<td>
+				Amonia</td>
+			<td style="text-align: center;">
+				mg/L</td>
+			<td style="text-align: right;">
+				0.177</td>
+			<td style="text-align: right;">
+				0.3</td>
+		</tr>
+		<tr>
+			<td style="text-align: center;">
+				6</td>
+			<td>
+				Nitrat</td>
+			<td style="text-align: center;">
+				mg/L</td>
+			<td style="text-align: right;">
+				0.023</td>
+			<td style="text-align: right;">
+				0.008</td>
+		</tr>
+		<tr>
+			<td style="text-align: center;">
+				7</td>
+			<td>
+				Posphat</td>
+			<td style="text-align: center;">
+				mg/L</td>
+			<td style="text-align: right;">
+				0.152</td>
+			<td style="text-align: right;">
+				0.015</td>
+		</tr>
+		<tr>
+			<td style="text-align: center;">
+				8</td>
+			<td>
+				Kecerahan</td>
+			<td>
+				&nbsp;</td>
+			<td style="text-align: right;">
+				Rendah</td>
+			<td>
+				&nbsp;</td>
+		</tr>
+	</tbody>
+</table>
+<div style="clear: both; text-align: center;">
+	*) : Baku Mutu Berdasarkan Kepmen LH No. 51/2004 ( untuk biota laut)</div>
+<div style="clear:both;">
+	<p style="margin-left: 40px; text-align: justify;">
+		Suhu perairan Pulau Mantang masih dalam toleransi yakni 30 &deg;C dan masih memenuhi baku mutu kualitas air bagi kehidupan biota laut. Suhu merupakan faktor penting di perairan karena perubahan suhu dapat berpengaruh terhadap proses fisika, kimia, dan biologi badan air. Organisme akuatik memiliki kisaran suhu tertentu yang mendukung pertumbuhannya (Nybakken 2000).</p>
+	<p style="margin-left: 40px; text-align: justify;">
+		Konsentrasi DO (oksigen terlarut) di Pulau Mantang tergolong rendah dengan rata-rata sebesar 7,8 mg/L. &nbsp;Hal ini diduga akibat tingginya aktivitas&nbsp; di daratan yang tidak ramah lingkungan sehingga limbah sedimen masuk kedalam kolom perairan dan mempengaruhi volume oksigen dalam air. Oksigen di perairan merupakan elemen penting yang mendukung kehidupan biota akuatik karena digunakan untuk bernapas (respirasi).</p>
+	<p style="margin-left: 40px; text-align: justify;">
+		Nilai pH di Pulau Mantang tergolong basa (lebih dari 7), yaitu sekitar 7,2 sesuai dengan kadar alamiah pH perairan laut. Kondisi ini juga umum terjadi di pulau-pulau kecil yang kaya akan karang dan lamun. Sedimen karbonat yang terdiri dari patahan karang, cangkang moluska, serta rangka biota mati turut berperan dalam menciptakan kondisi basa di perairan yang terkait dengan kesetimbangan alkalinitas. Salinitas yang terukur di Pulau Mantang sebesar 32&permil; Nilai ini masih berada pada kisaran toleransi hidup fitoplankton sebagai organisme produsen di laut, yaitu 11 s.d 40 &permil;.</p>
+	<p style="margin-left: 40px; text-align: justify;">
+		Analisis kualitas air yang dilakukan pada parameter nutrien menunjukkan bahwa kadar amonia di Pulau Mantang masih memenuhi baku mutu. Namun, kadar Nitrat di Pulau Mantang sangat tinggi yakni 0,023 mg/L jauh diatas baku mutu yakni 0,008 mg/L. Hal ini terbukti banyak alga yang tumbuh di sekitar terumbu karang, diduga kandungan&nbsp; nutrient di Pulau Mantang sangat tinggi.&nbsp; Peningkatan nutrien dapat menstimulasi pertumbuhan alga dan tumbuhan air secara pesat. Kehadiran alga dan tumbuhan air dalam jumlah berlebihan dapat menghambat pertumbuhan karang (Haris 2001). Pertumbuhan alga di permukaan karang dapat menghalangi karang dalam mendapatkan cahaya. Selain itu, keberadaan alga dapat menghambat proses rekruitmen karang karena larva planula membutuhkan substrat yang bersih dari kotoran, termasuk dari alga.</p>
+	<p style="margin-left: 40px; text-align: justify;">
+		Hasil analisis laboratorium bahwa kandungan fosfat di Pulau Mantang melebihi ambang batas baku mutu. Kanudngan fosfat di air laut Pulau Mantang 0,152 mg/L, sedangkan baku mutu toleransi kandungan fosfat yakni 0,015 mg/L. Hal ini mengindikasikan bahwa proses dekomposisi material organik dan buangan limbah dari daratan merupakan faktor penyebab utama mempengaruhi kondisi di perairan Pulau Mantang menjadi tidak baik.</p>
+	<p style="margin-left: 40px; text-align: justify;">
+		Oleh sebab itu, pemahaman mengenai pentingnya menjaga kebersihan dan kelestarian sumberdaya pesisir Pulau Mantang perlu dikenalkan kepada masyarakat sejak dini. Hal ini disebabkan karena terdapat ancaman pencemaran perairan selain dari limbah domestik, yaitu buangan limbah industri penambangan bauksit. tersebut. Jika tidak dikelola dengan baik, aktivitas penambangan ini dapat berpotensi menurunkan degradasi kualitas air permukaan di perairan sekitar daerah pertambangan tersebut yang kemudian mengalir menuju perairan laut.</p>
+</div>
+<p>
+	&nbsp;</p>
+</div></p>
+
+<hr>
+
+<h2><a id="sp">Sarana dan Prasarana</a></h2>
+<p><div class="readmore"><p>
+	Terdapat 3 (Tiga) desa di P. Mantang : Desa Mantang Lama, Mantang Baru dan Mantang Besar</p>
+<p>
+	<span style="color:#ff0000;"><strong>1. DESA Mantang LAMA</strong></span></p>
+<ol style="list-style-type:lower-alpha;">
+	<li style="text-align: justify;">
+		Sarana Pemerintahan</li>
+</ol>
+<p style="margin-left: 40px; text-align: justify;">
+	Sarana pendukung pemerintahan yang terdapat di Desa Mantang Lama diantaranya adalah Kantor Desa, Balai Pertemuan Desa dan Polindes. Selain itu juga terdapat Kantor Kecamatan Mantang, Puskesmas, Gedung Olah Raga, Balai Pertemuan Kecamatan dan sarana lainnya.</p>
+<ol style="list-style-type:lower-alpha;">
+	<li style="text-align: justify;" value="2">
+		Sarana Kesehatan</li>
+</ol>
+<p style="margin-left: 40px; text-align: justify;">
+	Sarana kesehatan yang terdapat di P. Mantang diantaranya adalah Polindes, di Desa Mantang Lama juga terdapat Puskesmas Kecamatan Mantang. Puskesmas ini memberikan layanan kesehatan bagi seluruh masyarakat yang tinggal di Pulau Mantang maupun masyarakat di luar pulau.</p>
+<ol style="list-style-type:lower-alpha;">
+	<li style="text-align: justify;" value="3">
+		Sarana ibadah</li>
+</ol>
+<p style="margin-left: 40px; text-align: justify;">
+	Sarana peribadatan yang terdapat di Desa Mantang Lama ada 3 buah masjid. Salah satunya adalah terletak di Dusun Mantang Riau.</p>
+<ol style="list-style-type:lower-alpha;">
+	<li style="text-align: justify;" value="4">
+		Sarana air bersih dan Sanitasi</li>
+</ol>
+<p style="margin-left: 40px; text-align: justify;">
+	Kecamatan Mantang sudah memiliki jaringan sarana air bersih untuk ketiga desa di kecamatan ini. Sumber air bersih terletak di Desa Mantang Baru. Saluran pipanisasi menggunakan pipa PVC disetiap rumah penduduk. Namun saat ini jaringan air bersih ini belum berjalan sebagaimana mestinya. Selain itu juga, terdapat sumur-sumur pribadi maupun umum yang banyak terdapat di desa ini. Untuk mendukung sanitasi lingkungan, di lingkungan desa telah dibangun saluran pembuangan limbah rumah tangga di kiri dan kanan jalan.</p>
+<ol style="list-style-type:lower-alpha;">
+	<li style="text-align: justify;" value="5">
+		Sarana Transportasi</li>
+</ol>
+<p style="margin-left: 40px; text-align: justify;">
+	Akses menuju ke Desa Mantang Lama di Pulau Mantang dapat ditempuh dengan menggunakan kapal &lsquo;pompong&rsquo; dari Barek Motor Kota Kijang dengan waktu tempuh 45 menit atau dapat juga di tempuh dari Desa Sei Enam dengan waktu tempuh 20 menit. Sarana transportasi di Desa Mantang Lama menggunakan sepeda motor dan juga sepeda.</p>
+<ol style="list-style-type:lower-alpha;">
+	<li style="text-align: justify;" value="6">
+		Sarana Pendidikan</li>
+</ol>
+<p style="margin-left: 40px; text-align: justify;">
+	Sarana pendidikan yang ada di Desa Mantang Lama meliputi PAUD, TK dan SD. Untuk SMP berada di Desa Mantang Baru sedangkan SMA berada di Desa Mantang Besar.</p>
+<ol style="list-style-type:lower-alpha;">
+	<li style="text-align: justify;" value="7">
+		Sarana Penerangan</li>
+</ol>
+<p style="margin-left: 40px; text-align: justify;">
+	Penerangan di Desa Mantang Lama menggunakan layanan PLN dengan waktu layanan jam 5 sore sampai 12 malam. Layanan PLN didapatkan dari Kecamatan Mantang.</p>
+<ol style="list-style-type:lower-alpha;">
+	<li style="text-align: justify;" value="8">
+		Sarana Perikanan dan Kelautan</li>
+</ol>
+<p style="margin-left: 40px; text-align: justify;">
+	Sarana yang mendukung sektor kelautan dan perikanan diantaranya adalah dermaga yang terdapat di 4 lokasi yang berbeda. Dermaga ini menjadi sarana untuk menambatkan kapal ikan, penyebrangan dan juga aktivitas lainnya.</p>
+<ol style="list-style-type:lower-roman;">
+	<li style="text-align: justify;">
+		Sarana Komunikasi</li>
+</ol>
+<p style="margin-left: 40px; text-align: justify;">
+	Terdapat 2 buah <em>Base Transceiver Station </em>(BTS) telekomunikasi di Pulau Mantang. Satu BTS terletak di Desa Mantang Baru dan 1 buah di Desa Mantang Lama. Sarana BTS tersebut difasilitasi untuk beberapa operator telekomunikasi tertentu, sehingga masyarakat pulau sangat terbantu dalam berkomunikasi dengan yang lain.</p>
+<p style="text-align: justify;">
+	<span style="color:#ff0000;"><strong>2. DESA Mantang BARU</strong></span></p>
+<ol style="list-style-type:lower-alpha;">
+	<li style="text-align: justify;">
+		Sarana Pemerintahan</li>
+</ol>
+<p style="margin-left: 40px; text-align: justify;">
+	Sarana pendukung Pemerintahan yang terdapat di Desa Mantang Baru terdiri dari Kantor Desa, Balai Pertemuan Desa dan juga bangunan Polindes.</p>
+<ol style="list-style-type:lower-alpha;">
+	<li style="text-align: justify;" value="2">
+		Sarana Kesehatan</li>
+</ol>
+<p style="margin-left: 40px; text-align: justify;">
+	Sarana kesehatan yang ada di desa ini adalah Polindes yang dibantu oleh seorang Bidan. Sedangkan untuk layanan yang lebih tinggi masyarakat mengunjungi Puskesmas yang ada di kecamatan.</p>
+<ol style="list-style-type:lower-alpha;">
+	<li style="text-align: justify;" value="3">
+		Sarana Ibadah</li>
+</ol>
+<p style="margin-left: 40px; text-align: justify;">
+	Sarana peribadatan yang ada di Desa Mantang Baru terdiri dari 3 buah, yaitu 1 buah di RT 03, 1 buah di RT 05 Cenut dan 1 buah lagi di RT 04 Lakis.</p>
+<ol style="list-style-type:lower-alpha;">
+	<li style="text-align: justify;" value="4">
+		Sarana Air Bersih dan Sanitasi</li>
+</ol>
+<p style="margin-left: 40px; text-align: justify;">
+	Kecamatan Mantang sudah memiliki jaringan sarana air bersih untuk ketiga desa di kecamatan ini. Sumber air bersih terletak di Desa Mantang Baru. Saluran pipanisasi menggunakan pipa PVC disetiap rumah penduduk. Namun saat ini jaringan air bersih ini belum berjalan sebagaimana mestinya. Selain itu juga, terdapat sumur-sumur pribadi maupun umum yang banyak terdapat di desa ini. Untuk mendukung sanitasi lingkungan, di lingkungan desa telah dibangun saluran pembuangan limbah rumah tangga di kiri dan kanan jalan.</p>
+<ol style="list-style-type:lower-alpha;">
+	<li style="text-align: justify;" value="5">
+		Sarana Transportasi</li>
+</ol>
+<p style="margin-left: 40px; text-align: justify;">
+	Akses menuju ke Desa Mantang Baru di Pulau Mantang dapat ditempuh dengan menggunakan kapal &lsquo;pompong&rsquo; dari Barek Motor Kota Kijang dengan waktu tempuh 50 menit atau dapat juga di tempuh dari Desa Sei Enam dengan waktu tempuh 25 menit. Sarana transportasi di Desa Mantang Baru menggunakan sepeda motor dan juga sepeda.</p>
+<ol style="list-style-type:lower-alpha;">
+	<li style="text-align: justify;" value="6">
+		Sarana Pendidikan</li>
+</ol>
+<p style="margin-left: 40px; text-align: justify;">
+	Sarana pendidikan yang ada di Desa Mantang baru terdir dari SD 2 buah dan SMP 1 buah. Sedangkan untuk SMA terdapat di Desa Mantang Besar.</p>
+<ol style="list-style-type:lower-alpha;">
+	<li style="text-align: justify;" value="7">
+		Sarana Penerangan</li>
+</ol>
+<p style="margin-left: 40px; text-align: justify;">
+	Penerangan di Desa Mantang Baru menggunakan layanan PLN dengan waktu layanan jam 5 sore sampai 12 malam. Layanan PLN didapatkan dari Kecamatan Mantang.</p>
+<ol style="list-style-type:lower-alpha;">
+	<li style="text-align: justify;" value="8">
+		Sarana Perikanan dan Kelautan</li>
+</ol>
+<p style="margin-left: 40px; text-align: justify;">
+	Untuk mendukung sektor kelautan dan perikanan di desa ini, telah dibangun beberapa dermaga beton melalui dana APBD. Namun demikian terdapat 2 dermaga yang keberadaannya dirasakan kurang optimal, hal ini disebabkan panjang dermaga yang pendek dibandingkan dengan panjang seharusnya. Dermaga tersebut berada di RT 03 dan RT 05 Cenut.</p>
+<ol style="list-style-type:lower-roman;">
+	<li style="text-align: justify;">
+		Sarana Komunikasi</li>
+</ol>
+<p style="text-align: justify; margin-left: 40px;">
+	Terdapat 2 buah <em>Base Transceiver Station </em>(BTS) telekomunikasi di Pulau Mantang. Satu BTS terletak di Desa Mantang Baru dan 1 buah di Desa Mantang Lama. Sarana BTS tersebut difasilitasi untuk beberapa operator telekomunikasi tertentu, sehingga masyarakat pulau sangat terbantu dalam berkomunikasi dengan yang lain.</p>
+<p style="text-align: justify;">
+	<span style="color:#ff0000;"><strong>3. DESA Mantang BESAR</strong></span></p>
+<ol style="list-style-type:lower-alpha;">
+	<li>
+		Sarana Pemerintahan</li>
+</ol>
+<p style="margin-left: 40px; text-align: justify;">
+	Sarana pendukung Pemerintahan yang terdapat di Desa Mantang Besar terdiri dari Kantor Desa dan Balai Pertemuan Desa.</p>
+<ol style="list-style-type:lower-alpha;">
+	<li style="text-align: justify;" value="2">
+		Sarana Kesehatan</li>
+</ol>
+<p style="margin-left: 40px; text-align: justify;">
+	Sarana kesehatan yang ada di desa ini adalah Pustu. Sedangkan untuk layanan yang lebih tinggi masyarakat mengunjungi Puskesmas yang ada di kecamatan.</p>
+<ol style="list-style-type:lower-alpha;">
+	<li style="text-align: justify;" value="3">
+		Sarana Ibadah</li>
+</ol>
+<p style="margin-left: 40px; text-align: justify;">
+	Sarana peribadatan yang ada di desa ini ada 1 unit mesjid&nbsp; dan 1 unit vihara.</p>
+<ol style="list-style-type:lower-alpha;">
+	<li style="text-align: justify;" value="4">
+		Sarana Air Bersih dan Sanitasi</li>
+</ol>
+<p style="margin-left: 40px; text-align: justify;">
+	Kecamatan Mantang sudah memiliki jaringan sarana air bersih untuk ketiga desa di kecamatan ini. Sumber air bersih terletak di Desa Mantang Baru. Saluran pipanisasi menggunakan pipa PVC disetiap rumah penduduk. Namun saat ini jaringan air bersih ini belum berjalan sebagaimana mestinya. Selain itu juga, terdapat sumur-sumur pribadi maupun umum yang banyak terdapat di desa ini.</p>
+<ol style="list-style-type:lower-alpha;">
+	<li style="text-align: justify;" value="5">
+		Sarana Transportasi</li>
+</ol>
+<p style="margin-left: 40px; text-align: justify;">
+	Akses menuju ke Desa Mantang Besar di Pulau Mantang dapat ditempuh dengan menggunakan kapal &lsquo;pompong&rsquo; dari Barek Motor Kota Kijang dengan waktu tempuh 45 menit atau dapat juga di tempuh dari Desa Sei Enam dengan waktu tempuh 20 menit. Sarana transportasi di Desa Mantang Besar menggunakan sepeda motor dan juga sepeda.</p>
+<ol style="list-style-type:lower-alpha;">
+	<li style="text-align: justify;" value="6">
+		Sarana Pendidikan</li>
+</ol>
+<p style="margin-left: 40px; text-align: justify;">
+	Sarana pendidikanyangada di Desa Mantang Besar ada SD dan SMA. Saat ini SMA masih menggunakan bangunan SD untuk kegiatan belajar sehari-hari.</p>
+<ol style="list-style-type:lower-alpha;">
+	<li style="text-align: justify;" value="7">
+		Sarana Penerangan</li>
+</ol>
+<p style="margin-left: 40px; text-align: justify;">
+	Penerangan di Desa Mantang Besar menggunakan layanan PLN dengan waktu layanan jam 5 sore sampai 12 malam. Layanan PLN didapatkan dari Kecamatan Mantang.</p>
+<ol style="list-style-type:lower-alpha;">
+	<li style="text-align: justify;" value="8">
+		Sarana Perikanan dan Kelautan</li>
+</ol>
+<p style="margin-left: 40px; text-align: justify;">
+	Sarana yang mendukung sektor kelautan dan perikanan diantaranya adalah dermaga beton yang merupakan bantuan Pemerintah Pusat (PNPM). Dermaga beton ini menjadi sarana untuk menambatkan kapal ikan, penyebrangan dan juga aktivitas lainnya.</p>
+<ol style="list-style-type:lower-roman;">
+	<li style="text-align: justify;">
+		Sarana Komunikasi</li>
+</ol>
+<p style="margin-left: 40px; text-align: justify;">
+	Terdapat 2 buah <em>Base Transceiver Station </em>(BTS) telekomunikasi di Pulau Mantang. Satu BTS terletak di Desa Mantang Baru dan 1 buah di Desa Mantang Lama. Sarana BTS tersebut difasilitasi untuk beberapa operator telekomunikasi tertentu, sehingga masyarakat pulau sangat terbantu dalam berkomunikasi dengan yang lain.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="pi">Peluang Investasi</a></h2>
+<p><div class="readmore"><p>
+	<span style="color:#ff0000;"><strong>PELUANG INVESTASI</strong></span></p>
+<p style="margin-left: 14.2pt; text-align: justify;">
+	Peluang investasi yang memungkinkan untuk dikembangkan di P. Mantang salah satunya adalah budidaya ikan kerapu.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="pap">Potensi dan Arahan Pengembangan</a></h2>
+<p><div class="readmore"><p>
+	<span style="color:#ff0000;"><strong>POTENSI SUMBERDAYA</strong></span></p>
+<p style="margin-left: 40px;">
+	Potensi yang bisa dikembangkan di P. Mantang diantaranya adalah usaha perikanan tangkap, budidaya ikan kerapu dan tambang bauksit (terbatas)</p>
+</div></p>
+
+<hr>
+
+<h2><a id="kp">Kendala Pengembangan</a></h2>
+<p><div class="readmore"><p>
+	<span style="color:#ff0000;"><strong>KENDALA PENGEMBANGAN SUMBERDAYA HAYATI</strong></span></p>
+<p style="margin-left: 40px;">
+	Kendala yang dihadapi dalam pengembangan potensi budidaya ikan kerapu adalah terkait biaya untuk bibit ikan kerapu.</p>
+<p>
+	<span style="color:#ff0000;"><strong>PERMASALAHAN EKOSISTEM TERUMBU KARANG</strong></span></p>
+<p style="margin-left: 1cm; text-align: justify;">
+	Beberapa bagian dari ekosistem mangrove di pulau ini masih terlindung dari ancaman sehingga masih terjaga kelestariannya seperti ekosistem mangrove&nbsp; di sisi selatan.&nbsp; Di sisi ini biota asosiasi lebih banyak ditemukan bila dibanding dengan ekosistem mangrove di sisi lain pulau ini. Seiring dengan bertambahnya kegiatan warga di pulau ini maka ancaman atau permasalahan yang timbul di ekosistem mangrove semakin besar.&nbsp; Adapun permasalahan yang ditemukan di ekosistem mangrove Pulau Mantang antara lain :</p>
+<ul>
+	<li style="text-align: justify; margin-left: 40px;">
+		Kegiatan pertambangan bauksit dan limbahnya yang semakin mendesak keberadaan ekosistem mangrove</li>
+	<li style="text-align: justify; margin-left: 40px;">
+		Sampah</li>
+	<li style="text-align: justify; margin-left: 40px;">
+		Pemanfaatan kayu mangrove untuk kebutuhan pembuatan perahu, rumah serta kayu bakar</li>
+</ul>
+<p style="margin-left: 1cm; text-align: justify;">
+	Permasalahan-permasalahan tersebut dapat dikurangi dengan memberi pemahaman kepada masyarakat untuk mengganti kayu mangrove dengan jenis kayu lainnya untuk dimanfaatkan. Masih tebalnya ekosistem mangrove di beberapa sisi seperti sisi timur membuka peluang untuk mengembangkan potensi yang dimiliki ekosistem mangrove di Pulau Mantang.&nbsp; Potensi-potensi yang bisa dikembangkan anatara lain :</p>
+<ul style="margin-left: 40px;">
+	<li style="text-align: justify;">
+		Budidaya atau pembesaran komoditi perikanan (kepiting dan ikan)</li>
+	<li style="text-align: justify;">
+		Pembibitan dan perdagangan benih mangrove</li>
+</ul>
+<p style="margin-left: 1cm; text-align: justify;">
+	Di sela-sela pohon mangrove dapat dibuat parit-parit kecil memanjang untuk budidaya atau pembesaran kepiting atau ikan.&nbsp; Dengan system seperti kegiatan budidaya atau pembesaran tidak mengancam keberadaan ekosistem mangrove serta pakan alami untuk ikan atau kepiting dapat tersedia tanpa harus ditambah makanan buatan.&nbsp; Melimpahnya buah dan benih mangrove sangat berpotensi untuk dijadikan sentra penjualan bibit mangrove sehingga dapat menambah sumber pendapatan masyarakat.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="rf">Referensi</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<br />
+	<i> 
+		<p style="font-size:12px;">
+			Karena keterbatasan SDM dalam penginputan dan pengolahan data, kami mohon maaf atas ketidak lengkapan beberapa data pulau yang kami tampilkan, harap dimaklumi.
+			Berikan keritik dan saran pada kolom komentar agar kita dapat bersama menyajikan sebuah data yang cukup sempurna untuk halayak ramai yang berguna
+			demi kesejahterahan, kelestarian dan keindahan pulau-pulau kecil yang dimiliki Indonesia.<br />
+			*Jika sekiranya anda memiliki data yang cukup banyak, silakan mengirimkan file melalui email kami di <b><a>identifikasippk@gmail.com</a></b>
+			
+		</p>
+	</i>
+<br />
+
+<div id="fb_comn" class="fb-comments" data-href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_info/243" data-width="800" data-numposts="5" data-colorscheme="light"></div>
+
+
+</div>
+</div>
+</div>
+<div id="wrapper">
+
+<div class="footer"><p>
+<!--<marquee onmouseover="this.stop()" onmouseout="this.start()" scrollamount="5" direction="right" width="798" height="14"  behavior="scroll">-->
+<a href="http://www.ppk-kp3k.kkp.go.id/" target="_blank">Direktorat Pendayagunaan Pulau-Pulau Kecil &nbsp; | &nbsp;</a>
+<a href="http://www.kp3k.kkp.go.id/" target="_blank">Ditjen Kelautan, Pesisir dan Pulau-Pulau Kecil &nbsp; | &nbsp;</a>
+<a href="http://www.kkp.go.id/" target="_blank">Kementerian Kelautan dan Perikanan</a>
+<!--</marquee>--> <br />
+Jl. Medan Merdeka Timur No. 16 Gedung Mina Bahari 3 Lantai 10, Jakarta, Indonesia <br />
+Email : identifikasippk@gmail.com <br />
+Telp &amp; Fax: (021) 3522058 <br />
+&copy; Copyright Direktorat Pendayagunaan Pulau-Pulau Kecil 2012&nbsp; <br /></p>
+</div>
+</div>
+</body>
+</html>

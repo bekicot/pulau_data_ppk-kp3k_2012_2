@@ -1,0 +1,460 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Pulau BEPONDI</title>
+
+<meta charset="utf-8"/>
+
+<meta property="fb:app_id" content="559408774147878" />
+
+
+<meta property="og:title" content="Pulau BEPONDI" />
+<meta property="og:url" content="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_info/339" />
+
+
+    <script type="text/javascript" src="http://ajax.microsoft.com/ajax/jquery/jquery-1.4.4.min.js">
+    </script>
+    
+    <script type="text/javascript" src="http://plugins.learningjquery.com/expander/jquery.expander.js">
+    </script>
+    
+    <script type="text/javascript">
+        $(function () {
+            $('div.readmore').expander({
+                slicePoint:200,
+                expandText: '(Baca selengkapnya)',
+                userCollapseText: '(Sembunyikan selengkapnya)'
+            });
+        });
+    </script>
+        
+	<script src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/galleria/galleria-1.2.8.min.js"></script>
+
+        <SCRIPT TYPE="text/javascript">
+            <!--
+            //Disable right click script
+            //visit http://www.rainbow.arch.scriptmania.com/scripts/
+            var message="Sorry, right-click has been disabled";
+            ///////////////////////////////////
+            function clickIE() {if (document.all) {(message);return false;}}
+            function clickNS(e) {if
+            (document.layers||(document.getElementById&&!document.all)) {
+            if (e.which==2||e.which==3) {(message);return false;}}}
+            if (document.layers)
+            {document.captureEvents(Event.MOUSEDOWN);document.onmousedown=clickNS;}
+            else{document.onmouseup=clickNS;document.oncontextmenu=clickIE;}
+            document.oncontextmenu=new Function("return false")
+            // -->
+            </SCRIPT>
+            
+            <SCRIPT TYPE="text/javascript">
+            <!--
+            //Disable select-text script (IE4+, NS6+)
+            //visit http://www.rainbow.arch.scriptmania.com/scripts/
+            ///////////////////////////////////
+            function disableselect(e){
+            return false
+            }
+            function reEnable(){
+            return true
+            }
+            //if IE4+
+            document.onselectstart=new Function ("return false")
+            //if NS6
+            if (window.sidebar){
+            document.onmousedown=disableselect
+            document.onclick=reEnable
+            }
+            // -->
+            </SCRIPT>  
+              
+<link rel="stylesheet" type="text/css" href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/css/main.css" media="screen"/>
+<style type='text/css'>
+#info_wrap{
+	width:820px;
+	margin:0 auto;
+	text-shadow:0px 1px 1px #09F;
+}
+table{
+	color:#000000;
+}
+h1{
+	color:#000000;
+}
+.tengahin{
+	width: 105px;
+	height: 30px;
+	margin: 0 auto auto auto;
+}
+#box_view{
+	background-image:-webkit-gradient(linear, 0 0%, 0 100%, from(#FFFFFF), to(#E0F0F5));
+	background:#FFF;
+	color:#F60;
+	border: 1px solid #fff;
+	border-radius: 4px 4px 4px 4px;
+	box-shadow: 0 8px 6px -6px black;
+	position:fixed;
+	right:0;
+	top:150px;;
+	width:80px;
+	z-index:10;
+	padding-left:12px;
+	font-size:10px;
+	}
+#box_view li{
+	color:#F60;
+	margin-left:-30px;
+	}
+	#wrapper a b {
+	color: #FFF;
+	font-size:14px;
+}
+.batas{
+	float:left;
+	border-right-style:inset;
+	border-right-width:thin;
+	}
+.text_h_wrap{
+	
+	padding-left:450px;
+	padding-top:39px;
+	text-shadow:0px 1px 1px #09F;
+	}
+#wrapper .footer p{
+	font-size:12px;
+	color: #FFF;
+	text-align:center;
+	text-shadow:0px 1px 1px #09F;
+}
+td,th {
+	font-size: 12px;
+}
+
+marquee a{
+	color:#FFF
+	}
+#wrapper .footer a{
+	color: #FFFFFF;
+}
+</style>
+            
+<script>
+function goBack()
+  {
+  window.history.back()
+  }
+</script>
+<script type="text/javascript">
+function Popup( url, height, width )
+{
+    var windowProperties = "toolbar = 0, scrollbars = 1, location = 0, statusbar = 0, menubar = 0, resizable = 1, width = " + width + ", height = " + height + ", left = 50, top = 50";
+ 
+    return window.open( url, "", windowProperties );
+}
+</script>
+
+
+
+</head>
+<body oncontextmenu='return false;' onkeydown='return false;' onmousedown='return false;'>
+
+<a id="top_view"></a>
+<div id="wrapper">
+<div class="header_wrap">
+<div class="text_h_wrap">
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/home_page'><b>&nbsp;Home&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/menu_info/1'><b>&nbsp;About Us&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_data'><b>&nbsp;Direktori Pulau&nbsp;&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/program_ip'><b>&nbsp;IKU&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/data_ppkt'><b>&nbsp;PPKT&nbsp;</b></a>
+</div>
+<!--<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/maintenance'><b>&nbsp;Login&nbsp;</b></a>-->
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/dir_log_cont'><b>&nbsp;Login&nbsp;</b></a>
+
+</div>
+</div>
+</div>
+
+<div id="fb-root"></div>
+<script>
+  window.fbAsyncInit = function() {
+    // init the FB JS SDK
+    FB.init({
+      appId      : '559408774147878',                        // App ID from the app dashboard
+      status     : true,                                 // Check Facebook Login status
+      xfbml      : true                                  // Look for social plugins on the page
+    });
+
+    // Additional initialization code such as adding Event Listeners goes here
+  };
+
+  // Load the SDK asynchronously
+  (function(){
+     // If we've already installed the SDK, we're done
+     if (document.getElementById('facebook-jssdk')) {return;}
+
+     // Get the first script element, which we'll use to find the parent node
+     var firstScriptElement = document.getElementsByTagName('script')[0];
+
+     // Create a new script element and set its id
+     var facebookJS = document.createElement('script'); 
+     facebookJS.id = 'facebook-jssdk';
+
+     // Set the new script's source to the source of the Facebook JS SDK
+     facebookJS.src = '//connect.facebook.net/en_US/all.js';
+
+     // Insert the Facebook JS SDK into the DOM
+     firstScriptElement.parentNode.insertBefore(facebookJS, firstScriptElement);
+   }());
+</script>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=559408774147878";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="box_view">
+    <a href="#top_view">MENU</a>
+    <h3><p>Lihat Informasi:</p></h3>
+    <ul>
+	<a href="#sf"><li>Slide Foto</li></a>
+    <a href="#gu"><li>Gambaran Umum</li></a>
+    <a href="#ksbk"><li>Kependudukan, Sosial Budaya dan Kelembagaan</li></a>
+    <a href="#eshp"><li>Ekosistem dan Sumberdaya Hayati</li></a>
+    <a href="#snh"><li>Sumberdaya Non Hayati</li></a>
+    <a href="#aps"><li>Aktivitas Pengelolaan Sumberdaya</li></a>
+    <a href="#ling"><li>Lingkungan</li></a>
+    <a href="#sp"><li>Sarana dan Prasarana</li></a>
+    <a href="#pi"><li>Peluang Investasi</li></a>
+    <a href="#pap"><li>Potensi Arahan Pengembangan</li></a>
+    <a href="#kp"><li>Kendala Pengembangan</li></a>
+	<a href="#rf"><li>Referensi</li></a>
+    </ul>
+    <a href="#fb_comn">KOMENTAR</a>
+</div>
+
+<br>
+			<a id="sf"></a></h2>
+			<div id="galleria">
+            <!--<div class='tengahin'><input type="button" value="Kembali Ke List" onclick="goBack()"></div>-->
+                            </div>
+            
+            <script>
+            Galleria.loadTheme('http://www.ppk-kp3k.kkp.go.id/direktori-pulau/galleria/themes/classic/galleria.classic.min.js');
+            Galleria.run('#galleria');
+            </script>
+</div>
+
+<div id="text_warp">
+
+
+<p><h1>BEPONDI</h1></p>
+<table>
+<tr>
+	<td>Nama Lain</td> <td>:</td> <td></td>
+</tr>
+<tr>
+	<td>Propinsi</td> <td>:</td> <td>PAPUA</td>
+</tr>
+<tr>
+	<td>Kabupaten</td> <td>:</td> <td>KABUPATEN SUPIORI</td>
+</tr>
+<tr>
+	<td>Kecamatan</td> <td>:</td> <td>SUPIORI UTARA</td>
+</tr>
+<tr>
+	<td>Koordinat</td> <td>:</td> <td><a href="http://www.ppk-kp3k.kkp.go.id/giskkp/index.html?extent=15055796.9479 -45760.0390,15060383.1696 -43894.4978"target="_blank">	0° 24' 7,995</a></td>
+</tr>
+</table>
+<hr>
+
+<h2><a id="gu">Gambaran Umum</a></h2>
+<p><div class="readmore"><p>
+	&nbsp;</p>
+<p>
+	Pulau Bepondi merupakan&nbsp; salah satu pulau terluar dari 6 buah pulau terluar yang ada di Provinsi Papua. Pulau ini terdapat dibagian utara Pulau Papua di perairan Samudera Pasifik dan berbatasan langsung dengan Negara Republik Palau.</p>
+<p>
+	Pulau Bepondi merupakan pulau yang berpenduduk dan terdapat satu desa yaitu Desa Masyai. Pulau yang memiliki bentuk topografi berbukit ini, memiliki vegetasi hutan dengan hanya sebagian dataran rendah yang dimanfaatkan sebagai lokasi pemukiman penduduk. Pulau Bepondi memiliki ketersediaan air bersih yang baik dan layak untuk dikonsumsi.</p>
+<p>
+	Seperti pulau terluar lainnya, pulau dengan luas &plusmn; 2.5 km<sup>2</sup> ini juga memiliki Titik Dasar (TD) dan Titik Referensi (TR), yaitu TD.074 dan TR.074.&nbsp;</p>
+<p>
+	<strong>ADMINISTRATIF</strong></p>
+<p>
+	Secara administratif Pulau Bepondi masuk ke dalam wilayah Kecamatan/Distrik Supiori Utara, Kabupaten Supiori, Provinsi Papua. &nbsp;</p>
+<p>
+	<strong>LETAK GEOGRAFIS</strong></p>
+<p>
+	Secara astronomis pulau ini berada pada posisi 00<sup>o</sup>23<sup>&lsquo;</sup>38<sup>&ldquo; </sup>LS dan 135<sup>o</sup>16<sup>&lsquo;</sup>27<sup>&ldquo; </sup>BT dan mempunyai luas &plusmn; 2.5 km<sup>2</sup>.&nbsp; Pulau yang berada di perairan Samudera Pasifik ini hampir seluruhnya dikelilingi oleh pantai berpasir dan terumbu karang khususnya di pesisir pantai utara, timur dan barat. Sedangkan di pesisir sebelah Selatan mengalami proses abrasi. Proses abrasi yang terjadi membentuk struktur pantai yang berbatu.</p>
+<p>
+	<strong>AKSESIBILITAS</strong></p>
+<p>
+	Pulau Bepondi dapat diakses dengan menggunakan perahu motor (<em>speed boat</em>) dari Kabupaten&nbsp; Biak Numfor.&nbsp; Jarak Pulau Bepondi dengan Kabupaten Biak Numfor adalah 66 nm dan dengan Pulau Supiori sejauh 33 nm dan dapat dicapai dengan kapal motor.&nbsp; Lamanya waktu perjalanan dari Ibu kota kabupaten Supriori menuju Pulau Bepondi kurang lebih&nbsp; 1,5 jam dengan menggunakan perahu motor 40 PK.&nbsp; Pulau Bepondi secara regular dilayani oleh 2 kapal perintis yang senantiasa berlayar&nbsp; menuju Bepondi dari kota Biak dengan jadwal sebulan sekali dengan waktu tempuh kurang lebih 10 jam dari Biak.&nbsp;</p>
+</div></p>
+
+<hr>
+
+<h2><a id="ksbk">Kependudukan, Sosial Budaya dan Kelembagaan</a></h2>
+<p><div class="readmore"><p>
+	&nbsp;</p>
+<p>
+	<strong>SOSIAL BUDAYA</strong></p>
+<p>
+	Asal usul nama pulau Bepondi yaitu berasal dari kata Miosbepondi. Mios yang berarti pulau dan Bepondi nama pulaunya dan sampai sekarang terkenal dengan nama Pulau Bepondi. Menurut cerita turun menurun bahwa Miosbepondi mempunyai makna &ldquo;terkemuka atau terdahulu&rdquo;.</p>
+<p>
+	Jumlah penduduk yang tinggal di Pulau Bepondi tidak tetap, hal ini terkait dengan perpindahan sementara pada waktu menjual hasil laut dan darat atau urusan kepentingan lainnya. Rata-rata waktu penduduk meninggalkan kampungnya mingguan sampai bulanan. Jumlah penduduk pada waktu dilakukan sensus terakhir pada tahun 2006 tercatat 535 jiwa atau 108 KK.</p>
+<p>
+	Penduduk yang tinggal di pulau ini tidak memiliki mata pencaharian yang tidak tetap. Pada musim laut teduh (April-Juli) masayarakat melaut mencari hasil laut, sedangkan pada musim gelombang besar masyarakat berkebun dan membuat ikan asin.&nbsp; Hasil tangkapan laut maupun dari darat dijual ke Kota Biak atau Manokwari terutama hasil ikan asin, tenggiri, teripang, sirip dan ekor hiu.</p>
+<p>
+	Di Pulau Bepondi terdapat Lembaga Masyarakat Adat (LMA) yang terdiri dari tujuh marga antara lain: Kafiar, Sarawan, Rumainum, Rumabur, Sawor, Fainsenem dan Rumbewas. Sejak dulu masyrakat Pulau Bepondi sudah mengenal kearifan lokal yang lebih dikenal &ldquo;sasi&rdquo;. Hasil laut yang disasi pada waktu itu yaitu hasil laut teripang dan kelapa. Namun karena kebutuhan masyarakat semakin tinggi terhadap biaya anak sekolah maka kearifan lokal untuk sementara tidak diberlakukan. Tidak menutup kemungkinan kearifan tersebut diberlakukannya kembali setelah mendapatkan persetujuan seluruh warga setempat.</p>
+<p>
+	Lahan perbukitan juga dimanfaatkan sebagai perkebunan sayur seperti kacang panjang, kangkung dan bayam, tanaman pangan seperti keladi, ketela pohon dan pisang serta pohon sagu sebagai makanan pokok. Pohon jeruk nipis banyak ditanam disekitar pekarangan rumah di seluruh kampung dan jeruk bakso (jeruk nipis) juga mempunyai nilai jual.Pada dataran tinggi/bukit banyak juga ditemukan kayu besi yang oleh masyarakat dimanfaatkan sebagai bahan bangunan rumah, sekolah dan bangunan lainnya.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="eshp">Ekosistem dan Sumberdaya Hayati</a></h2>
+<p><div class="readmore"><p>
+	&nbsp;</p>
+<p>
+	<strong>POTENSI&nbsp; SDA</strong></p>
+<p>
+	Pulau Bepondi memiliki berbagai jenis burung pada sekitar tahun 1970-1980, yaitu jenis burung elang laut, namun kondisi sekarang sudah mulai sulit ditemukan karena diburu dengan peralatan modern (senapan) dan daging burung untuk dikonsumsi. Jenis burung lainnya yang ada di Pulau Bepondi seperti burung gagak, burung inipun juga dikawatirkan mulai sulit ditemukan. Di pulau ini ditemukan pula Kus-kus yang sekarang menjadi binatang langka di pulau tersebut. Jenis tanaman anggrek yang ditemukan di Pulau Bepondi yaitu jenis anggrek warna kuning berbintik-bintik hitam. Tanaman bunga ini mempunyai nilai komersial.</p>
+<p>
+	Perairan Pesisir Pulau Bepondi memiliki sejumlah potensi makro bentos yang sudah dimanfaatkan oleh masyarakat pulau tersebut sebagai salah komoditas perikanan yang potensial. Sumberdaya makrobentos yang dimaksud adalah <em>molusca</em> (siput dan kerang) dan <em>echinodermata</em> (teripang).&nbsp; Beberapa jenis moluska yang dilindungi ditemukan&nbsp; di&nbsp; Pulau Budd ini seperti Lola (<em>Trochus niloticus</em>),&nbsp; Kima Sisik (<em>tridacna squamossa</em>), Keong kepala hitam (<em>Cassis cornuta</em>), Keong terompet (<em>Charonia tritonis</em>), serta ditemukan pula jenis-jenis lainnya yang umumnya dipakai sebagai,bahan baku kerajinan tangan seperti jenis <em>Strombus sp, Oliva sp, Cyprasea sp,Haliotis varia., Conus magus, Conus marmoreus, Conus vitulinnus, .</em></p>
+<p>
+	Beberapa jenis teripang yang ditemukan di daerah ini antara lain adalah&nbsp; <em>Holothuria scabra, Holothuria nobilis, Holothuria atra</em>, <em>Theleonata annanas, Pearsonothuria graffei, Bodaschia sp. </em>&nbsp;Bulu babi (<em>Diadema setosum).</em>Pada paparan terumbu pada substrat&nbsp; <em>gravel</em> dan batu karang dijumpai&nbsp; beberapa makro algae bernilai ekonomis antara lain :&nbsp; <em>Eucheuma, Gracilaria dan Sargassum</em>.</p>
+<p>
+	Keanekaragaman ikan karang yang terdapat di perairan Pulau Bepondi mencapai&nbsp; 83&nbsp; spesies yang tergolong dalam 44 genera dan 27 famili. Dari hasil pengamatan di daerah Bepondi terlihat beberapa jenis ikan&nbsp; hias yang berpotensi untuk dieksploitasi adalah jenis <em>Balistoides conspiculum</em>, <em>Pomacanthus imperator </em>dan <em>&nbsp;Paracanthurus hepatus</em> &nbsp;sedangkan ikan-ikan target ekonomis yang berpotensi&nbsp; ditemukan adalah dari jenis-jenis <em>Caesio spp (</em>ekor kuning<em>)</em> serta jenis <em>Siganus gutatus</em>(ikan baronang).</p>
+<p>
+	Sebaran padang lamun dapat ditemukan di perairan yang bersubtrat pasir halus , profil pantainya landai dan perairan pantainya berupa pada rataan terumbu. Beberapa jenis lamun&nbsp; yang baru ditemukan yaitu <em>Halodule uninervis, Cymodocea rotundatdan, Thalassia hemprichii. </em>Rata-rata persentase tutupannya berkisar antara 45-95 %.&nbsp;</p>
+</div></p>
+
+<hr>
+
+<h2><a id="snh">Sumberdaya Non Hayati</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<h2><a id="aps">Aktivitas Pengelolaan Sumberdaya</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<h2><a id="ling">Lingkungan</a></h2>
+<p><div class="readmore"><p>
+	&nbsp;</p>
+<p>
+	<strong>FISIOGRAFI-TOPOGRAFI</strong></p>
+<p>
+	Proses geomorfologi yang menonjol pada pulau Bepondi yaitu proses abrasi pantai, akresi dan perubahan garis pantai. Pada daerah disekitarnya ditemukan tanda bekas pondasi menara suar yang dibangun pada tahun 1994/1995 dan pada tahun 2006 sudah mundur ke arah darat sejauh 38 meter. Kecepatan perubahan garis pantai ini rata-rata 3 m/tahun. Kecepatan perubahan garis pantai ini menurut masyarakat setempat terkait dengan pada waktu gempa pada tahun 1996.</p>
+<p>
+	Kondisi hutan yang masih bagus pada topografi berbukit yang berfungsi sebagai daerah tangkapan hujan atau &ldquo;<em>recharge area</em>&rdquo; dapat memberikan suplai air bersih dalam bentuk air tanah tak tertekan atau &ldquo;<em>unconfined aquifer</em>&rdquo; pada dataran rendahnya. Potensi air tanah di pulau ini&nbsp; baik secara kualitas maupun kuantitas.</p>
+<p>
+	Pulau Bepondi memiliki profil topografi dasar laut (bathimetri) perairan pesisir yang cukup rumit. Kedalaman laut 20 meter tercatat merapat ke garis pantai hanya pada bagian selatan pulau dan merupakan titik berlabuh yang aman selama nusim barat. Pada musim-musim yang lain dapat ditemukan tempat berlabuh yang aman kecuali pada ujung-ujung tanjung yang mencuat ke laut. Pada gambar tersebut terlihat tiga buah tanjung yaitu tanjung bagian utara yang relatif dangkal, demikian pula halnya dengan tanjung pada sisi barat daya. Sedangkan pada sisi tenggara dimana kedalaman laut cukup baik untuk berlabuh namun tidak direkomendasikan dengan dua alasan utama yaitu: 1) kemiringan lereng dasar laut cukup signifikan dan 2) <em>hydrolic jump</em> yang dibangkitkan oleh alun Samudera Pasifik membentur tanjung yang tersusun oleh batu karang yang terjal itu tidak aman untuk dijadikan titik labuh.&nbsp;</p>
+<p>
+	<strong>OSEANOGRAFI</strong></p>
+<p>
+	Pola arus yang berkembang pada perairan pesisir Mios Bepondi lebih dipengaruhi oleh arus musim, sedangkan arus yang disebabkan oleh gaya pembangkit pasang surut bersifat mempercepat atau memperlambat arus angin yang berkembang.</p>
+<p>
+	Arah arus pada perairan pesisir pada umumnya sejajar garis pantai di saat air surut maupun air pasang, sedangkan pada perairan lepas pantai arah arus yang dominan adalah ke barat pada saat musim timur dan ke timur pada saat musim barat.</p>
+<p>
+	Data temperatur air terukur di perairan Pulau Bepondi membuktikan bahwa gradien temperatur permukaan laut pada bidang datar relatif kecil. Besaran nilai temperatur berkisar antara 29-30<sup>o</sup>C yang mencirikan pola sebaran temperatur Samudera Pasifik pada musim peralihan II (November). Temperatur permukaan perairan pesisir sedikit lebih tinggi dari yang tercatat di perairan laut lepas. Dapat dikatakan pula bahwa pengaruh daratan terdekat (Pulau Supriori) tidak nampak sama sekali. Dengan demikian bisa disimpulkan bahwa massa air perairan Pulau Bepondi adalah murni massa air Samudera Pasifik.&nbsp;</p>
+</div></p>
+
+<hr>
+
+<h2><a id="sp">Sarana dan Prasarana</a></h2>
+<p><div class="readmore"><p>
+	&nbsp;</p>
+<p>
+	<strong>SARANA PRASARANA</strong></p>
+<p>
+	Pulau Bepondi memiliki fasilitas pendidikan Sekolah Dasar Swasta Kristen (YPK). Jumlah murid tahun 2006 yaitu sebanyak 97 siswa yang terdiri dari 56 siswa laki-laki dan 41 siswa perempuan. Jumlah siswa setiap kelas seperti berikut kelas I (21 orang), kelas II (25 orang), kelas III (14 orang), kelas IV (15 orang), kelas V (11 orang) dan&nbsp; kelas VI (11 orang). Hambatan yang dihadapi dalam proses belajar mengajar yaitu masih minimnya sarana sekolah: alat peraga, laboratorium, buku paket, meja dan bangku. Untuk melanjutkan pendidikan yang lebih tinggi (SMP), masyarakat Pulau Bepondi harus melanjutkan ke Biak.</p>
+<p>
+	Sarana dan prasarana kesehatan di Pulau Bepondi belum memadai. Tenaga medis yang melayani belum dapat bekerja dengan maksimal . Tingkat kematian bayi di pulau ini cukup tinggi. Sarana kebersihan lingkungan yang buruk seringkali menyebabkan munculnua beragai jenis penyakit seperti malaria, muntaber dan batuk.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="pi">Peluang Investasi</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<h2><a id="pap">Potensi dan Arahan Pengembangan</a></h2>
+<p><div class="readmore"><p>
+	&nbsp;</p>
+<p>
+	<strong>UPAYA PENGEMBANGAN</strong></p>
+<p>
+	Pengembangan ekonomi di berbagai sektor pengembangan seperti perikanan hasil laut: ikan asin, lobster, teripang, ikan tenggiri, sirip dan ekor hiu serta lola mempunyai peluang ekonomi cukup tinggi. Sektor pertanian, peternakan, perkebunan dan kehutanan dari potensi SDA kurang mendukung, sehingga peluang pengembangan tidak ekonomis.</p>
+<p>
+	Selain hal-hal diatas, perlu juga untuk dilakukan rekonstruksi dan pemeliharaan titik referensi dari titik dasar, perlu adanya pengawasan oleh aparat Pemerintah dan perlunya dibangun pelindung pantai dari ancaman abrasi dengan menanam pohon pelindung</p>
+</div></p>
+
+<hr>
+
+<h2><a id="kp">Kendala Pengembangan</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<h2><a id="rf">Referensi</a></h2>
+<p><div class="readmore"><ul>
+	<li>
+		Buku Profil 31 Pulau-Pulau Kecil Terluar Berpenduduk, Direktorat Pendayagunaan Pulau-Pulau Kecil, Ditjen Kelautan, Pesisir dan Pulau-Pulau Kecil, Kementerian Kelautan dan Perikanan</li>
+</ul>
+<ul>
+	<li>
+		Putra Daerah <a href="https://www.facebook.com/dhani.rum.1"><span data-reactid=".0.1.0.1.0.0:$547473902014325_888527561242289.1.0.0.0.$right.0.0.1.0"><span class="_2uma" data-reactid=".0.1.0.1.0.0:$547473902014325_888527561242289.1.0.0.0.$right.0.0.1.0.0"><span data-reactid=".0.1.0.1.0.0:$547473902014325_888527561242289.1.0.0.0.$right.0.0.1.0.0.$end:0:$text0:0">Deny Rumainum</span></span></span></a></li>
+</ul>
+</div></p>
+
+<hr>
+
+<br />
+	<i> 
+		<p style="font-size:12px;">
+			Karena keterbatasan SDM dalam penginputan dan pengolahan data, kami mohon maaf atas ketidak lengkapan beberapa data pulau yang kami tampilkan, harap dimaklumi.
+			Berikan keritik dan saran pada kolom komentar agar kita dapat bersama menyajikan sebuah data yang cukup sempurna untuk halayak ramai yang berguna
+			demi kesejahterahan, kelestarian dan keindahan pulau-pulau kecil yang dimiliki Indonesia.<br />
+			*Jika sekiranya anda memiliki data yang cukup banyak, silakan mengirimkan file melalui email kami di <b><a>identifikasippk@gmail.com</a></b>
+			
+		</p>
+	</i>
+<br />
+
+<div id="fb_comn" class="fb-comments" data-href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_info/339" data-width="800" data-numposts="5" data-colorscheme="light"></div>
+
+
+</div>
+</div>
+</div>
+<div id="wrapper">
+
+<div class="footer"><p>
+<!--<marquee onmouseover="this.stop()" onmouseout="this.start()" scrollamount="5" direction="right" width="798" height="14"  behavior="scroll">-->
+<a href="http://www.ppk-kp3k.kkp.go.id/" target="_blank">Direktorat Pendayagunaan Pulau-Pulau Kecil &nbsp; | &nbsp;</a>
+<a href="http://www.kp3k.kkp.go.id/" target="_blank">Ditjen Kelautan, Pesisir dan Pulau-Pulau Kecil &nbsp; | &nbsp;</a>
+<a href="http://www.kkp.go.id/" target="_blank">Kementerian Kelautan dan Perikanan</a>
+<!--</marquee>--> <br />
+Jl. Medan Merdeka Timur No. 16 Gedung Mina Bahari 3 Lantai 10, Jakarta, Indonesia <br />
+Email : identifikasippk@gmail.com <br />
+Telp &amp; Fax: (021) 3522058 <br />
+&copy; Copyright Direktorat Pendayagunaan Pulau-Pulau Kecil 2012&nbsp; <br /></p>
+</div>
+</div>
+</body>
+</html>

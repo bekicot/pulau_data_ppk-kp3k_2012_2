@@ -1,0 +1,552 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Pulau Bangka</title>
+
+<meta charset="utf-8"/>
+
+<meta property="fb:app_id" content="559408774147878" />
+
+
+<meta property="og:title" content="Pulau Bangka" />
+<meta property="og:url" content="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_info/6578" />
+
+
+    <script type="text/javascript" src="http://ajax.microsoft.com/ajax/jquery/jquery-1.4.4.min.js">
+    </script>
+    
+    <script type="text/javascript" src="http://plugins.learningjquery.com/expander/jquery.expander.js">
+    </script>
+    
+    <script type="text/javascript">
+        $(function () {
+            $('div.readmore').expander({
+                slicePoint:200,
+                expandText: '(Baca selengkapnya)',
+                userCollapseText: '(Sembunyikan selengkapnya)'
+            });
+        });
+    </script>
+        
+	<script src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/galleria/galleria-1.2.8.min.js"></script>
+
+        <SCRIPT TYPE="text/javascript">
+            <!--
+            //Disable right click script
+            //visit http://www.rainbow.arch.scriptmania.com/scripts/
+            var message="Sorry, right-click has been disabled";
+            ///////////////////////////////////
+            function clickIE() {if (document.all) {(message);return false;}}
+            function clickNS(e) {if
+            (document.layers||(document.getElementById&&!document.all)) {
+            if (e.which==2||e.which==3) {(message);return false;}}}
+            if (document.layers)
+            {document.captureEvents(Event.MOUSEDOWN);document.onmousedown=clickNS;}
+            else{document.onmouseup=clickNS;document.oncontextmenu=clickIE;}
+            document.oncontextmenu=new Function("return false")
+            // -->
+            </SCRIPT>
+            
+            <SCRIPT TYPE="text/javascript">
+            <!--
+            //Disable select-text script (IE4+, NS6+)
+            //visit http://www.rainbow.arch.scriptmania.com/scripts/
+            ///////////////////////////////////
+            function disableselect(e){
+            return false
+            }
+            function reEnable(){
+            return true
+            }
+            //if IE4+
+            document.onselectstart=new Function ("return false")
+            //if NS6
+            if (window.sidebar){
+            document.onmousedown=disableselect
+            document.onclick=reEnable
+            }
+            // -->
+            </SCRIPT>  
+              
+<link rel="stylesheet" type="text/css" href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/css/main.css" media="screen"/>
+<style type='text/css'>
+#info_wrap{
+	width:820px;
+	margin:0 auto;
+	text-shadow:0px 1px 1px #09F;
+}
+table{
+	color:#000000;
+}
+h1{
+	color:#000000;
+}
+.tengahin{
+	width: 105px;
+	height: 30px;
+	margin: 0 auto auto auto;
+}
+#box_view{
+	background-image:-webkit-gradient(linear, 0 0%, 0 100%, from(#FFFFFF), to(#E0F0F5));
+	background:#FFF;
+	color:#F60;
+	border: 1px solid #fff;
+	border-radius: 4px 4px 4px 4px;
+	box-shadow: 0 8px 6px -6px black;
+	position:fixed;
+	right:0;
+	top:150px;;
+	width:80px;
+	z-index:10;
+	padding-left:12px;
+	font-size:10px;
+	}
+#box_view li{
+	color:#F60;
+	margin-left:-30px;
+	}
+	#wrapper a b {
+	color: #FFF;
+	font-size:14px;
+}
+.batas{
+	float:left;
+	border-right-style:inset;
+	border-right-width:thin;
+	}
+.text_h_wrap{
+	
+	padding-left:450px;
+	padding-top:39px;
+	text-shadow:0px 1px 1px #09F;
+	}
+#wrapper .footer p{
+	font-size:12px;
+	color: #FFF;
+	text-align:center;
+	text-shadow:0px 1px 1px #09F;
+}
+td,th {
+	font-size: 12px;
+}
+
+marquee a{
+	color:#FFF
+	}
+#wrapper .footer a{
+	color: #FFFFFF;
+}
+</style>
+            
+<script>
+function goBack()
+  {
+  window.history.back()
+  }
+</script>
+<script type="text/javascript">
+function Popup( url, height, width )
+{
+    var windowProperties = "toolbar = 0, scrollbars = 1, location = 0, statusbar = 0, menubar = 0, resizable = 1, width = " + width + ", height = " + height + ", left = 50, top = 50";
+ 
+    return window.open( url, "", windowProperties );
+}
+</script>
+
+
+
+</head>
+<body oncontextmenu='return false;' onkeydown='return false;' onmousedown='return false;'>
+
+<a id="top_view"></a>
+<div id="wrapper">
+<div class="header_wrap">
+<div class="text_h_wrap">
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/home_page'><b>&nbsp;Home&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/menu_info/1'><b>&nbsp;About Us&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_data'><b>&nbsp;Direktori Pulau&nbsp;&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/program_ip'><b>&nbsp;IKU&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/data_ppkt'><b>&nbsp;PPKT&nbsp;</b></a>
+</div>
+<!--<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/maintenance'><b>&nbsp;Login&nbsp;</b></a>-->
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/dir_log_cont'><b>&nbsp;Login&nbsp;</b></a>
+
+</div>
+</div>
+</div>
+
+<div id="fb-root"></div>
+<script>
+  window.fbAsyncInit = function() {
+    // init the FB JS SDK
+    FB.init({
+      appId      : '559408774147878',                        // App ID from the app dashboard
+      status     : true,                                 // Check Facebook Login status
+      xfbml      : true                                  // Look for social plugins on the page
+    });
+
+    // Additional initialization code such as adding Event Listeners goes here
+  };
+
+  // Load the SDK asynchronously
+  (function(){
+     // If we've already installed the SDK, we're done
+     if (document.getElementById('facebook-jssdk')) {return;}
+
+     // Get the first script element, which we'll use to find the parent node
+     var firstScriptElement = document.getElementsByTagName('script')[0];
+
+     // Create a new script element and set its id
+     var facebookJS = document.createElement('script'); 
+     facebookJS.id = 'facebook-jssdk';
+
+     // Set the new script's source to the source of the Facebook JS SDK
+     facebookJS.src = '//connect.facebook.net/en_US/all.js';
+
+     // Insert the Facebook JS SDK into the DOM
+     firstScriptElement.parentNode.insertBefore(facebookJS, firstScriptElement);
+   }());
+</script>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=559408774147878";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="box_view">
+    <a href="#top_view">MENU</a>
+    <h3><p>Lihat Informasi:</p></h3>
+    <ul>
+	<a href="#sf"><li>Slide Foto</li></a>
+    <a href="#gu"><li>Gambaran Umum</li></a>
+    <a href="#ksbk"><li>Kependudukan, Sosial Budaya dan Kelembagaan</li></a>
+    <a href="#eshp"><li>Ekosistem dan Sumberdaya Hayati</li></a>
+    <a href="#snh"><li>Sumberdaya Non Hayati</li></a>
+    <a href="#aps"><li>Aktivitas Pengelolaan Sumberdaya</li></a>
+    <a href="#ling"><li>Lingkungan</li></a>
+    <a href="#sp"><li>Sarana dan Prasarana</li></a>
+    <a href="#pi"><li>Peluang Investasi</li></a>
+    <a href="#pap"><li>Potensi Arahan Pengembangan</li></a>
+    <a href="#kp"><li>Kendala Pengembangan</li></a>
+	<a href="#rf"><li>Referensi</li></a>
+    </ul>
+    <a href="#fb_comn">KOMENTAR</a>
+</div>
+
+<br>
+			<a id="sf"></a></h2>
+			<div id="galleria">
+            <!--<div class='tengahin'><input type="button" value="Kembali Ke List" onclick="goBack()"></div>-->
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/379a-100_1523.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__379a-100_1523.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/c11d-100_1522.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__c11d-100_1522.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/46df-100_1525.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__46df-100_1525.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/ea91-100_1517.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__ea91-100_1517.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/3708-100_1539.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__3708-100_1539.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/55c5-100_1543.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__55c5-100_1543.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/ff3b-100_1534.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__ff3b-100_1534.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/deec-100_1566.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__deec-100_1566.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/e8e5-100_1544.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__e8e5-100_1544.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/fb1c-100_1568.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__fb1c-100_1568.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/bda0-100_1584.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__bda0-100_1584.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/b6bc-100_1580.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__b6bc-100_1580.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/9f88-100_1585.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__9f88-100_1585.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/2956-100_1604.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__2956-100_1604.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/a728-100_1589.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__a728-100_1589.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/9594-100_1609.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__9594-100_1609.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/336d-100_1617.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__336d-100_1617.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/63b2-100_1610.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__63b2-100_1610.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/80b1-100_1647.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__80b1-100_1647.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/9987-100_1703.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__9987-100_1703.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/3e08-img_4527.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__3e08-img_4527.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/18cb-img_4535.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__18cb-img_4535.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/cedf-img_4543.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__cedf-img_4543.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/a6da-img_4573.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__a6da-img_4573.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/2b24-img_4607.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__2b24-img_4607.jpg" data-description=""></a></p>
+                            </div>
+            
+            <script>
+            Galleria.loadTheme('http://www.ppk-kp3k.kkp.go.id/direktori-pulau/galleria/themes/classic/galleria.classic.min.js');
+            Galleria.run('#galleria');
+            </script>
+</div>
+
+<div id="text_warp">
+
+
+<p><h1>Bangka</h1></p>
+<table>
+<tr>
+	<td>Nama Lain</td> <td>:</td> <td></td>
+</tr>
+<tr>
+	<td>Propinsi</td> <td>:</td> <td>SULAWESI UTARA</td>
+</tr>
+<tr>
+	<td>Kabupaten</td> <td>:</td> <td>KABUPATEN MINAHASA UTARA</td>
+</tr>
+<tr>
+	<td>Kecamatan</td> <td>:</td> <td></td>
+</tr>
+<tr>
+	<td>Koordinat</td> <td>:</td> <td><a href="http://www.ppk-kp3k.kkp.go.id/giskkp/index.html?extent="target="_blank">1° 47' 34.684</a></td>
+</tr>
+</table>
+<hr>
+
+<h2><a id="gu">Gambaran Umum</a></h2>
+<p><div class="readmore"><p style="text-align: justify;">
+	Pulau Bangka secara administratif termasuk ke dalam wilayah Kecamatan Likupang Timur, Kabupaten Minahasa Utara, Provinsi Sulawesi Utara. Secara umum keadaan topografi Pulau Bangka merupakan pulau yang berbukit-bukit. Di beberapa bagian Pulau Bangka memiliki topografi yang beragam yaitu landai, berpantai pasir putih dan bermangrove. Sedangkan di sisi lainnya memiliki topografi tebing yang cukup terjal dan berbatu. Di bukit-bukit Pulau Bangka ditumbuhi oleh semak-semak yang dari kejauhan menyerupai areal persawahan.</p>
+<p style="text-align: justify;">
+	<strong>Aksesibilitas</strong><br />
+	Aksesibilitas menuju Pulau Bangka dapat dikatakan cukup mudah karena letaknya yang cukup dekat dengan Pelabuhan Likupang Timur di Minahasa Utara. Dari kota Manado ke Pelabuhan Likupang Timur dapat ditempuh melalui perjalanan darat dengan menggunakan mobil selama 1,5 jam. Dari Pelabuhan Likuang Timur perjalanan menuju Pulau Bangka dapat menggunakan taksi perahu yang beroperasi setiap hari. Waktu yang ditempuh untuk dapat sampai ke Pulau Raam dari Pelabuhan Likupang Timur berkisar 30 - 45 menit.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="ksbk">Kependudukan, Sosial Budaya dan Kelembagaan</a></h2>
+<p><div class="readmore"><p>
+	Pulau Bangka termasuk di dalam wilayah Kecamatan Likupang Timur, Kabupaten Minahasa Utara. Pulau Bangka terdiri dari 3 buah Desa yaitu Desa Lihunu, Desa Kahuku, dan Desa Libas. Ketiga desa ini terletak berjauhan dan harus menggunakan perahu sebagai transportasi penghubung antar desa. Arti nama Desa Lihunu berasal dari Lihunu yang berarti nama daun untuk obat maag yang banyak terdapat di desa. Sedangkan Desa Kahuku mempunyai arti hutanku.</p>
+<p>
+	Desa Lihunu mempunyai penduduk sebanyak 1232 jiwa terbagi dalam 332 KK. Jumlah penduduk laki-laki di Desa Lihunu 576 jiwa sedangkan perempuan berjumlah lebih banyak yaitu 656 jiwa. Desa Kahuku mempunyai jumlah penduduk yang lebih sedikit yaitu 996 jiwa yang terbagi dalam 296 KK. Desa Kahuku ini mempunyai enam buah dusun. Sedangkan Desa Libas mempunyai jumlah penduduk 600 jiwa yang terbagi atas 164 KK. Desa Libas mempunyai tiga buah dusun.</p>
+<p>
+	Mata pencaharian penduduk Desa Lihunu sebagian besar adalah nelayan. Sedangkan penduduk yang lain bermatapencaharian sebagai petani ladang, berkebun, dan berdagang. Warga Desa Kahuku mempunyai mata pencaharian nelayan sebesar 76 % sedangkan sisanya sebagai PNS, guru, ibu rumah tangga. Sedangkan penduduk Desa Libas mayoritas bermatapencaharian sebagai nelayan.</p>
+<p>
+	Dalam bidang pendidikan, tingkat pendidikan masyarakat di ketiga desa masih cukup rendah. Penduduk Pulau Bangka sebagian besar berpendidikan tamat Sekolah Dasar (SD).</p>
+<p>
+	Kondisi rumah penduduk di ketiga desa pada umumnya dapat digolongkan sebagai rumah permanen (dinding terbuat dari batu bata, atap terbuat dari seng &nbsp;dan lantai terbuat dari keramik). Akan tetapi ada juga sebagian rumah penduduk yang masih semi permanen</p>
+<p>
+	Agama yang dianut oleh sebagian besar masyarakat di Pulau Bangka adalah Nasrani. Hanya sebagian kecil saja yang beragama Islam. Latar belakang suku penduduk di Pulau Bangka didominasi oleh Suku Sangir, Siau dan Minahasa. Makanan pokok masyarakat di Pulau Bangka adalah singkong.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="eshp">Ekosistem dan Sumberdaya Hayati</a></h2>
+<p><div class="readmore"><p style="text-align: justify;">
+	<strong>a. Vegetasi</strong><br />
+	Vegetasi dominan yang terdapat di Pulau Bangka adalah semak-semak, pohon kelapa, mangrove dan tanaman tingkat tinggi lainnya.</p>
+<p style="text-align: justify;">
+	<strong>b. Fauna</strong><br />
+	Fauna daratan yang banyak terdapat di Pulau Bangka adalah babi, anjing, dan ayam.</p>
+<p style="text-align: justify;">
+	<strong>c. Mangrove</strong><br />
+	Mangrove yang terdapat di Pulau Bangka tumbuh cukup lebat dengan kondisi yang baik. Mangrove ini terdapat di beberapa bagian sisi pulau. Jenis mangrove yang dominan berada di Pulau Bangka adalah mangrove dari family Rhizophoraceae dan Avicenniacea. Jenis-jenis mangrove yang termasuk dalam family Rhizophoraceae antara lain Rhizophora sp. Sedangkan yang termasuk dalam jenis Avicenniacea adalah Avicennia marina.</p>
+<p style="text-align: justify;">
+	<strong>d. Terumbu Karang</strong><strong><br />
+	Persentasi Penutupan Karang</strong><br />
+	Stasiun 2 ditutupi oleh karang lunak (Soft Coral/SC) sebesar 27,53%, pada stasiun ini substrat nya adalah pasir dengan persen penutupan sebesar 21,2%. Karang mati dengan algae (DCA) memiliki penutupan sebesar 18,2% dan karang keras (Hard Coral/HC) sebesar 13,03%. Untuk karang mati (Death Coral/DC) sendiri pada stasiun ini hanya memiliki persen penutupan sebesar 2,03%.</p>
+<p style="text-align: justify;">
+	Bentuk pertumbuhan karang yang terdapat pada stasiun 2 hanya terdapat 2 jenis yakni bentuk karang masive dan karang submassive. Karang yang paling mendominas adalah karang jenis submassive dengan persen penutupan mencapai 84% sedangkan karang massive hanya 16%.</p>
+<p style="text-align: justify;">
+	Pecahan karang (R) pada stasiun 3 lebih tinggi daripada stasiun 2, pada stasiun ini pecahan karang memiliki penutupan yang paling tinggi dengan nilai 34,13%. Selanjutnya untuk karang mati dengan algae memiliki penutupan&nbsp; sebesar 26,73%. Karang sendiri memliki penutupan 22,33% untuk jenis karang lunak (SC) dan 15,21% untuk karang keras (HC). Karang mati memiliki persentase yang paling kecil yakni 1,6%, namun karang mati yang terdapat pada stasiun 3 lebih besar nilainya dibandingkan pada stasiun 2.</p>
+<p style="text-align: justify;">
+	Berbeda dengan Stasiun 2, pada Stasiun 3 bentuk pertumbuhan karang keras (HC) lebih bervariasi. Karang submassive tetap mendominasi dengan persen penutupan sebesar 75% dan yang terendah adalah karang massive dengan penutupan sebesar 3%.</p>
+<p style="text-align: justify;">
+	Stasiun 1 menunjukkan Indeks keanekaragaman (H&rsquo;) sebesar 2.28631, Indeks Keseragaman (E) sebesar 0.920079 dan Dominansi (C) sebesar 0.110985. dari hasil tersebut pada stasiun pertama menurut Shannon dan Wiener (1949) <em>in</em> Krebs maka indeks keanekaragaman pada stasiun 1 termasuk ke dalam kategori keanekaragaman sedang, indeks keseragaman pada stasiun 1 menurut Daget (1976) termasuk dalam komunitas stabil, indeks dominasi pada stasiun 1 menurut Simpson 1949 dalam Magurran 1988 termasuk dalam kategori dominasi rendah.</p>
+<p>
+	Stasiun 2 menunjukkan Indeks keanekaragaman (H&rsquo;) sebesar 2.380893, Indeks Keseragaman (E) sebesar 0.928242dan Dominansi (C) sebesar 0.100006. dari hasil tersebut pada stasiun pertama menurut Shannon dan Wiener (1949) <em>in</em> Krebs maka indeks keanekaragaman pada stasiun 2 termasuk ke dalam kategori keanekaragaman sedang, indeks keseragaman pada stasiun 2 menurut Daget (1976) termasuk dalam komunitas stabil, indeks dominasi pada stasiun 2 menurut Simpson 1949 dalam Magurran 1988 termasuk dalam kategori dominasi rendah.</p>
+<p>
+	Stasiun 3 menunjukkan Indeks keanekaragaman (H&rsquo;) sebesar 2.143359, Indeks Keseragaman (E) sebesar 0.89385dan Dominansi (C) sebesar 0.129185. dari hasil tersebut pada stasiun pertama menurut Shannon dan Wiener (1949) <em>in</em> Krebs maka indeks keanekaragaman pada stasiun 3 termasuk ke dalam kategori keanekaragaman sedang, indeks keseragaman pada stasiun 3 menurut Daget (1976) termasuk dalam komunitas stabil, indeks dominasi pada stasiun 3 menurut Simpson 1949 dalam Magurran 1988 termasuk dalam kategori dominasi rendah.</p>
+<p>
+	<strong>e. Lamun</strong><br />
+	Ekosistem padang lamun merupakan suatu ekosistem yang sangat menunjang keberlangsungan ekosistem terumbu karang dan ekosistem mangrove. Pada pengamatan yang dilakukan di pulau Battoa dengan hanya mengambil contoh daun lamun karena saat pengamatan kondisi perairan sudah pasang sehingga sulit untuk menemukan padang lamun. Analisis jenis lamun dapat lihat dari bentuk dan ukuran daun lamun tersebut. Terdapat dua jenis lamun yang ditemukan yaitu <em>Enhalus sp. </em>dan <em>Thalasia sp</em>.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="snh">Sumberdaya Non Hayati</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<h2><a id="aps">Aktivitas Pengelolaan Sumberdaya</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<h2><a id="ling">Lingkungan</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<h2><a id="sp">Sarana dan Prasarana</a></h2>
+<p><div class="readmore"><p style="text-align: justify;">
+	<strong>Sarana dan Prasarana</strong><br />
+	Pulau Bangka merupakan pulau yang cukup besar dan terdiri dari tiga desa yang letaknya berjauhan yaitu Desa Lihunu, Desa Kahuku, dan Desa Libas.</p>
+<ol>
+	<li>
+		<p style="text-align: justify;">
+			<strong>Desa Lihunu</strong><br />
+			Untuk mendukung kelancaran tranportasi laut antar desa dan antar pulau di Desa Lihunu terdapat sebuah dermaga yang terbuat dari batu dan semen. Kondisi dermaga dengan panjang 50 meter ini dalam kondisi yang rusak cukup parah.</p>
+	</li>
+</ol>
+<p style="margin-left: 0.5in; text-align: justify;">
+	Sarana dan prasarana umum yang ada di Desa Lihunu sudah cukup memadai. Fasilitas penerangan penduduk di Desa Lihunu sudah menggunakan genset yang disediakan oleh PLN. Akan tetapi warga hanya dapat menikmati fasilitas listrik ini mulai dari jam 6 sore hingga jam 1 malam. Di Desa Lihunu tidak terdapat penggunaan Listrik Tenaga Surya (LTS). Penggunaan listrik oleh warga Desa Lihunu antara lain untuk keperluan penerangan (lampu), televisi, dan parabola.</p>
+<p style="margin-left: 0.5in; text-align: justify;">
+	Infrastruktur yang tersedia untuk menghubungkan antar rumah warga di Desa Lihunu yaitu berupa jalan setapak yang terbuat dari semen dengan kondisi yang cukup baik. Jalan setapak ini sudah menghubungkan antar rumah di Desa Lihunu dengan lebar bervariasi 2 meter. &nbsp;Selain itu, masih terdapat jalan setapak yang terbuat dari tanah.</p>
+<p style="margin-left: 0.5in; text-align: justify;">
+	Untuk kebutuhan air bersih di Desa Lihunu, pada umumnya bersumber dari air sumur dan air tanah. Di Desa Lihunu terdapat 12 buah sumur dengan kedalaman rata-rata 12 meter. Akan tetapi hanya 3 buah sumur saja yang airnya dapat dipakai untuk minum. Selain air sumur warga juga memanfaatkan sumber air tanah yang ada di Pulau Bangka. Dari sumber air tanah ini, air akan disalurkan ke bak penampungan. Bak penampungan air ini di pasang beberapa pipa dan keran untuk mempermudah masyarakat mengambil air. Untuk mendapatkan air ini warga harus mengantri terlebih dahulu.</p>
+<p style="margin-left: 0.5in; text-align: justify;">
+	Sedangkan untuk membantu menunjang kesehatan masyarakat di Desa Lihunu telah terdapat satu buah Polindes yang kondisinya baik. Akan tetapi Polindes ini tidak berfungsi karena tidak ada bidan yang stand by di Polindes. Dahulu ada seorang bidan yang bertugas tetapi tidak betah dan pindah ke tempat lain.</p>
+<p style="margin-left: 0.5in; text-align: justify;">
+	Sarana pendidikan yang ada di Desa Lihunu belum cukup memadai. Di Desa Lihunu sudah terdapat satu buah Taman Kanak-Kanak (TK) yaitu TK GMIM, satu buah Sekolah Dasar (SD) yaitu SD GMIM 66 yang memiliki 151 siswa, satu buah SLTP Negeri 6 yang memiliki jumlah siswa 71 orang. Untuk melanjutkan ke tingkat pendidikan SMA warga Desa Lihunu harus ke Likupang karena tidak terdapat SMA. Di Desa Lihunu terdapat sebuah SMK akan tetapi tidak berjalan karena tidak ada gurunya. Jumlah guru di Desa Lihunu ada 9 orang, empat berstatus PNS dan lima tenaga bantuan.</p>
+<p style="margin-left: 0.5in; text-align: justify;">
+	Sarana kebersihan dan sanitasi lingkungan yang terdapat di Desa Lihunu sudah cukup baik. Setiap rumah warga di Desa Lihunu telah memiliki kamar mandi / toilet tersendiri. Selain itu, setiap rumah juga mempunyai bak sampah sendiri sehingga kebersihan lingkungan tetap terjaga. Pemukiman warga di Desa Lihunu telah memiliki saluran air sendiri yang dibangun secara swadaya.</p>
+<p style="margin-left: 0.5in; text-align: justify;">
+	Sarana perekonomian yang ada di Desa Lihunu antara lain toko/kios/warung.. Produk dagangan yang dijual di warung berasal dari Likupang. Di Desa Lihunu terdapat 10 buah warung dan tidak terdapat pasar.</p>
+<p style="margin-left: 0.5in; text-align: justify;">
+	Salah satu bentuk sarana komunikasi yang digunakan oleh warga Desa Lihunu adalah telepon genggam. Akan tetapi sangat sulit untuk mendapatkan sinyal dikarenakan letak Pulau Bangka yang sedikit jauh dengan BTSoperator seluler.</p>
+<p style="margin-left: 0.5in; text-align: justify;">
+	Sarana peribadatan untuk menunjang kegiatan beribadah penduduk yang terdapat di Desa Lihunu adalah lima buah gereja dikarenakan mayoritas penduduk Desa Lihunu adalah Nasrani.</p>
+<ol>
+	<li style="text-align: justify;" value="2">
+		<strong>Desa Kahuku</strong></li>
+</ol>
+<p style="margin-left: 0.5in; text-align: justify;">
+	Untuk mendukung kelancaran tranportasi laut antar desa dan antar pulau di Desa Kahuku terdapat sebuah jetty yang terbuat dari kayu. Kondisi jetty dengan panjang 100 meter ini dalam kondisi baik. Akan tetapi jetty ini tidak bisa digunakan dikarenakan terlalu tinggi sehingga susah untuk menaik-turunkan penumpang dan barang.</p>
+<p style="margin-left: 0.5in; text-align: justify;">
+	Sarana dan prasarana umum yang ada di Desa Kahuku belum cukup memadai. Fasilitas penerangan penduduk di Desa Lihunu sudah menggunakan genset yang disediakan oleh PLN. Akan tetapi sama dengan warga yang ada di Desa Lihunu hanya dapat menikmati fasilitas listrik ini mulai dari jam 6 sore hingga jam 1 malam. Di Desa Kahuku tidak terdapat penggunaan Listrik Tenaga Surya (LTS). Penggunaan listrik oleh warga Desa Kahuku antara lain untuk keperluan penerangan (lampu) dan televisi.</p>
+<p style="margin-left: 0.5in; text-align: justify;">
+	Infrastruktur yang tersedia untuk menghubungkan antar rumah warga di Desa Kahuku yaitu berupa jalan setapak yang masih terbuat dari tanah berbatu dengan kondisi bervariasi ada yang baik hingga kurang baik dan banyak yang rusak. Jalan setapak ini sudah menghubungkan antar rumah di Desa Kahuku dengan lebar bervariasi 2-4 meter.</p>
+<p style="margin-left: 0.5in; text-align: justify;">
+	Untuk memenuhi kebutuhan air bersih di Desa Kahuku, penduduk memanfaatkan sumber dari mata air yang berada di lereng bukit. Dari sumber mata air ini, air disalurkan melalui pipa-pipa kecil ke rumah warga. Kondisi air ini sangat baik dan dapat digunakan untuk keperluan minum.</p>
+<p style="margin-left: 0.5in; text-align: justify;">
+	Sedangkan untuk membantu menunjang kesehatan masyarakat di Desa Kahuku telah terdapat satu buah Pustu yang kondisinya baik. Akan tetapi tenaga medis yang tersedia masih sangat kurang. Di Pustu ini bertugas seorang mantri.</p>
+<p style="margin-left: 0.5in; text-align: justify;">
+	Sarana pendidikan yang ada di Desa Kahuku belum cukup memadai. Di Desa Kahuku sudah terdapat satu buah Taman Kanak-Kanak (TK) yaitu TK GMIM, dua buah Sekolah Dasar (SD) yaitu SD GMIM&nbsp; dan SD Nasional dan satu buah SLTP Nasional. Untuk melanjutkan ke tingkat pendidikan SMA warga Desa Kahuku harus ke Likupang karena tidak terdapat SMA. Jumlah guru SD di Desa Kahuku ada 18 orang dimana 8 orang berstatus sebagai PNS dan 10 orang masih honorer.</p>
+<p style="margin-left: 0.5in; text-align: justify;">
+	Sarana kebersihan dan sanitasi lingkungan yang terdapat di Desa Kahuku masih kurang. Masih banyak rumah warga di Desa Kahuku yang belum memiliki kamar mandi/toilet tersendiri. Sedangkan sarana MCK juga masih terbatas jumlahnya.</p>
+<p style="margin-left: 40px; text-align: justify;">
+	Salah satu bentuk sarana komunikasi yang digunakan oleh warga Desa Kahuku adalah telepon genggam. Tidak seperti di Desa Lihunu, di Desa Kahuku sinyal telepon genggam dapat diterima dengan cukup baik.</p>
+<p style="margin-left: 0.5in; text-align: justify;">
+	Sarana peribadatan untuk menunjang kegiatan beribadah penduduk yang terdapat di Desa Kahuku adalah lima buah gereja dikarenakan mayoritas penduduk Desa Kahuku adalah Nasrani.</p>
+<ol>
+	<li style="text-align: justify;" value="3">
+		<strong>Desa Libas</strong></li>
+</ol>
+<p style="margin-left: 0.5in; text-align: justify;">
+	Sarana dan prasarana umum yang ada di Desa Libas masih terbatas. Warga Desa Libas masih belum bisa menikmati fasilitas listrik dari genset seperti yang ada di Desa Lihunu dan Kahuku. Akan tetapi sudah ada beberapa rumah warga yang menggunakan LTS bantuan Dinas Kelautan dan Perikanan sebanyak 52 unit.</p>
+<p style="margin-left: 0.5in; text-align: justify;">
+	Sarana air bersih berasal dari sumber mata air yang ada di Desa Libas. Seperti di Desa Kahuku, dari sumber mata air dialirkan melalui pipa-pipa ke rumah warga.</p>
+<p style="margin-left: 0.5in; text-align: justify;">
+	Sedangkan untuk membantu menunjang kesehatan masyarakat di Desa Libas telah terdapat satu buah Polindes yang kondisinya baik. Sarana pendidikan yang ada di Desa Libas belum memadai. Di Desa Libas hanya terdapat satu buah Sekolah Dasar (SD) Negeri.</p>
+<p style="margin-left: 0.5in; text-align: justify;">
+	Salah satu bentuk sarana komunikasi yang digunakan oleh warga Desa Libas adalah telepon genggam. Tidak seperti di Desa Lihunu, di Desa Libas sinyal telepon genggam dapat diterima dengan cukup baik.</p>
+<p style="margin-left: 0.5in; text-align: justify;">
+	Sarana peribadatan untuk menunjang kegiatan beribadah penduduk yang terdapat di Desa Libas adalah tiga buah gereja dikarenakan mayoritas penduduk Desa Libas adalah Nasrani.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="pi">Peluang Investasi</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<h2><a id="pap">Potensi dan Arahan Pengembangan</a></h2>
+<p><div class="readmore"><p style="text-align: justify;">
+	<strong>a. Potensi Perikanan dan Kelautan</strong></p>
+<p style="text-align: justify;">
+	Potensi perikanan yang berkembang di Pulau Bangka adalah perikanan tangkap. Nelayan Pulau Bangka melakukan penangkapan ikan di perairan sekitar Pulau Bangka. Kegiatan penangkapan ikan yang dilakukan oleh penduduk di Desa Lihunu pada umumnya dengan menggunakan alat tangkap &nbsp;jaring/jala, insang, pancing bermata dua, panah, bagan, dan trawl. Jenis armada yang digunakan nelayan Desa Lihunu pada umumnya adalah perahu katinting, perahu dayung, dan perahu motor. Dalam melakukan penangkapan ikan, para nelayan tidak pernah menggunakan bom ikan atau potassium.</p>
+<p style="text-align: justify;">
+	Nelayan Desa Kahuku dalam kegiatan penangkapan ikan menggunakan alat tangkap jaring, pancing, igi dan rumpon. Jenis armada yang digunakan adalah perahu dayung, perahu katinting, perahu motor 5,5GT. Sedangkan nelayan Desa Libas menggunakan alat tangkap jaring, armada perahu dan perahu motor dalam kegiatan penangkapan ikan.</p>
+<p style="text-align: justify;">
+	Jenis-jenis ikan yang menjadi tangkapan nelayan Desa Lihunu antara lain ikan kembung, tude, batu, dan berbagai ikan karang (ikan kerapu, tuna, dan roa). Jenis-jenis ikan yang menjadi tangkapan nelayan Desa Kahuku antara lain ikan pelagis, bubara, tude,deso, gutilang, berbagai ikan karang,dan ikan hias. Sedangkan nelayan Pulau Libas biasa menangkap ikan terbang.</p>
+<p style="text-align: justify;">
+	Hasil tangkapan ikan yang diperoleh para nelayan Pulau Bangka dijual ke pengumpul yang biasa datang ke desa-desa atau langsung menjual hasil tangkapannya ke TPI Pelabuhan Perikanan Likupang.</p>
+<p style="text-align: justify;">
+	Penduduk Pulau Bangka tidak melakukan kegiatan budidaya rumput laut. Di Desa Lihunu terdapat keramba yang digunakan untuk budidaya lobster. Selain itu juga terdapat bagan yang digunakan untuk budidaya ikan teri dan kerapu. Ikan teri ini biasanya diolah lagi oleh masyarakat untuk dijadikan ikan asin.</p>
+<p style="text-align: justify;">
+	<strong>b. Potensi Pertanian, Perkebunan, dan Peternakan</strong><br />
+	Pulau Bangka tidak berpotensi untuk dikembangkan usaha pertanian tetapi ada sebagian warga di Desa Lihunu yang berladang..Pulau Bangka sangat potensial untuk dikembangkan usaha perkebunan. Areal perkebunan yang cocok untuk dikembangkan adalah di Desa Lihunu. Warga Desa Lihunu telah membuka perkebunan kelapa, kopra, cengkeh, dan jambu mete. Biasanya warga memanen cengkeh saat bulan Juli hingga September.&nbsp; Komoditas kacang mete sangat potensial untuk dikembangkan terlebih harganya yang cukup mahal mencapai Rp. 60.000/kg dalam keadaan mentah.</p>
+<p style="text-align: justify;">
+	<strong>c. Potensi Pariwisata</strong><br />
+	Pulau Bangka memiliki potensi pariwisata bahari yang sangat besar. Selain memiliki pantai putih yang masih alami, terumbu karang di Pulau Bangka juga indah, memiliki keanekaragaman hayati yang tinggi dan belum mengalami kerusakan. Untuk menunjang sarana pariwisata bagi turis yang datang telah terdapat lima buah resort di Pulau Bangka. Lima buah resort terdapat di Desa Lihunu yaitu Matakarang Resort yang dimiliki warga Italia, Murex/Bangka Resort yang dimiliki warga Manado, Blue Bay Resort yang dimiliki warga Jerman, Bangka Laguna dan Mimpi Indah Resort yang dimiliki warga Belanda. Sedangkan di Desa Kahuku akan dibangun Dolby Resort yang dimiliki warga Jerman. Biasanya turis asing yang menyewa resort-resort tersebut untuk liburan.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="kp">Kendala Pengembangan</a></h2>
+<p><div class="readmore"><p style="text-align: justify;">
+	Permasalahan yang dihadapi oleh penduduk di Pulau Bangka, antara lain:<br />
+	1. Kurangnya sarana penerangan terutama di Desa Libas yang masih sama sekali belum teraliri listrik<br />
+	2. Kurangnya bantuan pendukung usaha perikanan seperti kapal motor dan alat penangkap ikan seperti jaring dan pancing<br />
+	3. Kurangnya tenaga medis untuk menunjang sarana kesehatan yang telah terdapat di Pulau Bangka</p>
+</div></p>
+
+<hr>
+
+<h2><a id="rf">Referensi</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<br />
+	<i> 
+		<p style="font-size:12px;">
+			Karena keterbatasan SDM dalam penginputan dan pengolahan data, kami mohon maaf atas ketidak lengkapan beberapa data pulau yang kami tampilkan, harap dimaklumi.
+			Berikan keritik dan saran pada kolom komentar agar kita dapat bersama menyajikan sebuah data yang cukup sempurna untuk halayak ramai yang berguna
+			demi kesejahterahan, kelestarian dan keindahan pulau-pulau kecil yang dimiliki Indonesia.<br />
+			*Jika sekiranya anda memiliki data yang cukup banyak, silakan mengirimkan file melalui email kami di <b><a>identifikasippk@gmail.com</a></b>
+			
+		</p>
+	</i>
+<br />
+
+<div id="fb_comn" class="fb-comments" data-href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_info/6578" data-width="800" data-numposts="5" data-colorscheme="light"></div>
+
+
+</div>
+</div>
+</div>
+<div id="wrapper">
+
+<div class="footer"><p>
+<!--<marquee onmouseover="this.stop()" onmouseout="this.start()" scrollamount="5" direction="right" width="798" height="14"  behavior="scroll">-->
+<a href="http://www.ppk-kp3k.kkp.go.id/" target="_blank">Direktorat Pendayagunaan Pulau-Pulau Kecil &nbsp; | &nbsp;</a>
+<a href="http://www.kp3k.kkp.go.id/" target="_blank">Ditjen Kelautan, Pesisir dan Pulau-Pulau Kecil &nbsp; | &nbsp;</a>
+<a href="http://www.kkp.go.id/" target="_blank">Kementerian Kelautan dan Perikanan</a>
+<!--</marquee>--> <br />
+Jl. Medan Merdeka Timur No. 16 Gedung Mina Bahari 3 Lantai 10, Jakarta, Indonesia <br />
+Email : identifikasippk@gmail.com <br />
+Telp &amp; Fax: (021) 3522058 <br />
+&copy; Copyright Direktorat Pendayagunaan Pulau-Pulau Kecil 2012&nbsp; <br /></p>
+</div>
+</div>
+</body>
+</html>

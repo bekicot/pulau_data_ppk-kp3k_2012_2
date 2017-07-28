@@ -1,0 +1,920 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Pulau Sabutung</title>
+
+<meta charset="utf-8"/>
+
+<meta property="fb:app_id" content="559408774147878" />
+
+
+<meta property="og:title" content="Pulau Sabutung" />
+<meta property="og:url" content="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_info/867" />
+
+
+    <script type="text/javascript" src="http://ajax.microsoft.com/ajax/jquery/jquery-1.4.4.min.js">
+    </script>
+    
+    <script type="text/javascript" src="http://plugins.learningjquery.com/expander/jquery.expander.js">
+    </script>
+    
+    <script type="text/javascript">
+        $(function () {
+            $('div.readmore').expander({
+                slicePoint:200,
+                expandText: '(Baca selengkapnya)',
+                userCollapseText: '(Sembunyikan selengkapnya)'
+            });
+        });
+    </script>
+        
+	<script src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/galleria/galleria-1.2.8.min.js"></script>
+
+        <SCRIPT TYPE="text/javascript">
+            <!--
+            //Disable right click script
+            //visit http://www.rainbow.arch.scriptmania.com/scripts/
+            var message="Sorry, right-click has been disabled";
+            ///////////////////////////////////
+            function clickIE() {if (document.all) {(message);return false;}}
+            function clickNS(e) {if
+            (document.layers||(document.getElementById&&!document.all)) {
+            if (e.which==2||e.which==3) {(message);return false;}}}
+            if (document.layers)
+            {document.captureEvents(Event.MOUSEDOWN);document.onmousedown=clickNS;}
+            else{document.onmouseup=clickNS;document.oncontextmenu=clickIE;}
+            document.oncontextmenu=new Function("return false")
+            // -->
+            </SCRIPT>
+            
+            <SCRIPT TYPE="text/javascript">
+            <!--
+            //Disable select-text script (IE4+, NS6+)
+            //visit http://www.rainbow.arch.scriptmania.com/scripts/
+            ///////////////////////////////////
+            function disableselect(e){
+            return false
+            }
+            function reEnable(){
+            return true
+            }
+            //if IE4+
+            document.onselectstart=new Function ("return false")
+            //if NS6
+            if (window.sidebar){
+            document.onmousedown=disableselect
+            document.onclick=reEnable
+            }
+            // -->
+            </SCRIPT>  
+              
+<link rel="stylesheet" type="text/css" href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/css/main.css" media="screen"/>
+<style type='text/css'>
+#info_wrap{
+	width:820px;
+	margin:0 auto;
+	text-shadow:0px 1px 1px #09F;
+}
+table{
+	color:#000000;
+}
+h1{
+	color:#000000;
+}
+.tengahin{
+	width: 105px;
+	height: 30px;
+	margin: 0 auto auto auto;
+}
+#box_view{
+	background-image:-webkit-gradient(linear, 0 0%, 0 100%, from(#FFFFFF), to(#E0F0F5));
+	background:#FFF;
+	color:#F60;
+	border: 1px solid #fff;
+	border-radius: 4px 4px 4px 4px;
+	box-shadow: 0 8px 6px -6px black;
+	position:fixed;
+	right:0;
+	top:150px;;
+	width:80px;
+	z-index:10;
+	padding-left:12px;
+	font-size:10px;
+	}
+#box_view li{
+	color:#F60;
+	margin-left:-30px;
+	}
+	#wrapper a b {
+	color: #FFF;
+	font-size:14px;
+}
+.batas{
+	float:left;
+	border-right-style:inset;
+	border-right-width:thin;
+	}
+.text_h_wrap{
+	
+	padding-left:450px;
+	padding-top:39px;
+	text-shadow:0px 1px 1px #09F;
+	}
+#wrapper .footer p{
+	font-size:12px;
+	color: #FFF;
+	text-align:center;
+	text-shadow:0px 1px 1px #09F;
+}
+td,th {
+	font-size: 12px;
+}
+
+marquee a{
+	color:#FFF
+	}
+#wrapper .footer a{
+	color: #FFFFFF;
+}
+</style>
+            
+<script>
+function goBack()
+  {
+  window.history.back()
+  }
+</script>
+<script type="text/javascript">
+function Popup( url, height, width )
+{
+    var windowProperties = "toolbar = 0, scrollbars = 1, location = 0, statusbar = 0, menubar = 0, resizable = 1, width = " + width + ", height = " + height + ", left = 50, top = 50";
+ 
+    return window.open( url, "", windowProperties );
+}
+</script>
+
+
+
+</head>
+<body oncontextmenu='return false;' onkeydown='return false;' onmousedown='return false;'>
+
+<a id="top_view"></a>
+<div id="wrapper">
+<div class="header_wrap">
+<div class="text_h_wrap">
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/home_page'><b>&nbsp;Home&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/menu_info/1'><b>&nbsp;About Us&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_data'><b>&nbsp;Direktori Pulau&nbsp;&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/program_ip'><b>&nbsp;IKU&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/data_ppkt'><b>&nbsp;PPKT&nbsp;</b></a>
+</div>
+<!--<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/maintenance'><b>&nbsp;Login&nbsp;</b></a>-->
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/dir_log_cont'><b>&nbsp;Login&nbsp;</b></a>
+
+</div>
+</div>
+</div>
+
+<div id="fb-root"></div>
+<script>
+  window.fbAsyncInit = function() {
+    // init the FB JS SDK
+    FB.init({
+      appId      : '559408774147878',                        // App ID from the app dashboard
+      status     : true,                                 // Check Facebook Login status
+      xfbml      : true                                  // Look for social plugins on the page
+    });
+
+    // Additional initialization code such as adding Event Listeners goes here
+  };
+
+  // Load the SDK asynchronously
+  (function(){
+     // If we've already installed the SDK, we're done
+     if (document.getElementById('facebook-jssdk')) {return;}
+
+     // Get the first script element, which we'll use to find the parent node
+     var firstScriptElement = document.getElementsByTagName('script')[0];
+
+     // Create a new script element and set its id
+     var facebookJS = document.createElement('script'); 
+     facebookJS.id = 'facebook-jssdk';
+
+     // Set the new script's source to the source of the Facebook JS SDK
+     facebookJS.src = '//connect.facebook.net/en_US/all.js';
+
+     // Insert the Facebook JS SDK into the DOM
+     firstScriptElement.parentNode.insertBefore(facebookJS, firstScriptElement);
+   }());
+</script>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=559408774147878";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="box_view">
+    <a href="#top_view">MENU</a>
+    <h3><p>Lihat Informasi:</p></h3>
+    <ul>
+	<a href="#sf"><li>Slide Foto</li></a>
+    <a href="#gu"><li>Gambaran Umum</li></a>
+    <a href="#ksbk"><li>Kependudukan, Sosial Budaya dan Kelembagaan</li></a>
+    <a href="#eshp"><li>Ekosistem dan Sumberdaya Hayati</li></a>
+    <a href="#snh"><li>Sumberdaya Non Hayati</li></a>
+    <a href="#aps"><li>Aktivitas Pengelolaan Sumberdaya</li></a>
+    <a href="#ling"><li>Lingkungan</li></a>
+    <a href="#sp"><li>Sarana dan Prasarana</li></a>
+    <a href="#pi"><li>Peluang Investasi</li></a>
+    <a href="#pap"><li>Potensi Arahan Pengembangan</li></a>
+    <a href="#kp"><li>Kendala Pengembangan</li></a>
+	<a href="#rf"><li>Referensi</li></a>
+    </ul>
+    <a href="#fb_comn">KOMENTAR</a>
+</div>
+
+<br>
+			<a id="sf"></a></h2>
+			<div id="galleria">
+            <!--<div class='tengahin'><input type="button" value="Kembali Ke List" onclick="goBack()"></div>-->
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/1aeb-bete-bete.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__1aeb-bete-bete.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/5b9a-dsc_0116.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__5b9a-dsc_0116.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/a767-dsc_0082.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__a767-dsc_0082.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/7456-dsc_0132.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__7456-dsc_0132.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/f690-dsc_0227.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__f690-dsc_0227.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/09d8-dsc_0166.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__09d8-dsc_0166.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/2661-dsc_0235.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__2661-dsc_0235.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/fae7-kapal-1.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__fae7-kapal-1.jpg" data-description=""></a></p>
+                            </div>
+            
+            <script>
+            Galleria.loadTheme('http://www.ppk-kp3k.kkp.go.id/direktori-pulau/galleria/themes/classic/galleria.classic.min.js');
+            Galleria.run('#galleria');
+            </script>
+</div>
+
+<div id="text_warp">
+
+
+<p><h1>Sabutung</h1></p>
+<table>
+<tr>
+	<td>Nama Lain</td> <td>:</td> <td></td>
+</tr>
+<tr>
+	<td>Propinsi</td> <td>:</td> <td>SULAWESI SELATAN</td>
+</tr>
+<tr>
+	<td>Kabupaten</td> <td>:</td> <td>KABUPATEN PANGKAJENE DAN KEPULAUAN</td>
+</tr>
+<tr>
+	<td>Kecamatan</td> <td>:</td> <td>Tupabiring Utara</td>
+</tr>
+<tr>
+	<td>Koordinat</td> <td>:</td> <td><a href="http://www.ppk-kp3k.kkp.go.id/giskkp/index.html?extent=13292172.7267 -530944.7012 13298402.3445 -527915.8840,13292172.7267 -530944.7012 13298402.3445 -527915.8840"target="_blank">	-4,7500 119,4328 4° 45' 0.000</a></td>
+</tr>
+</table>
+<hr>
+
+<h2><a id="gu">Gambaran Umum</a></h2>
+<p><div class="readmore"><p>
+	<span style="color:#008000;"><strong>GAMBARAN UMUM</strong></span></p>
+<p style="text-align: justify; margin-left: 40px;">
+	Pulau Sabutung berada pada posisi koordinat geografis -4,7500 119,4328 4&deg; 45&#39; 0.000&quot; Lintang Selatan dan 119&deg; 25&#39; 58.000&quot; Bujur Timur, secara administratif berada di Provinsi Sulawesi Selatan, Kabupaten Pangkajene Kepulauan, Kecamatan Tupabiring Utara dengan Desa Matiro Kanja. Luas pulau &plusmn; 2 Km2, dengan batas wilayah sebelah sebelah Utara Desa Matiro Bombang atau Pulau Salemo, sebelah Selatan Desa Matiro Ulung atau Pulau Kulambing, sebelah Barat Desa Matiro Walie atau Pulau Samatalu, sebelah Timur Desa Matiro Baji atau Pulau Saugi.<br />
+	<br />
+	Keadaan topografi Pulau Sabutung merupakan dataran dengan hutan dan semak belukar pada bagian tengah pulau. Pulau Sabutung terbentuk dari sedimen atau pengendapan material dasar laut yang akhir membentuk karang dan timbul kepermukaan hingga menjadi sebuah dataran. Kemiringan lereng pada Pulau Sabutung sekitar 0 - 3% dengan Morfologi pantai berpasir.<br />
+	<br />
+	Pulau Sabutung merupakan salah satu pulau yang masuk dan ditetapkan sebagai Kawasan Konservasi Laut Derah Kabupaten Pangkajene Kepualuan, sesuai dengan Surat Keputusan Bupati Pangkajene Kepulauan Nomor 180 Tahun 2009. Status kepemilikan pulau sabutung yaitu milik maysarakat dan pulau ini terkelola dengan baik.<br />
+	Aksesbilitas Pulau Sabutung yaitu, dari Dermaga Maccini Baji di daerah pesisir Kecamatan Labakkang Kabupaten Pangkajene Kepulauan. Transportasi menuju ke Pulau Sabutung yaitu dengan menggunakan perahu motor penumpang, yang biasanya oleh masyarakat dicarter secara kolektif untuk menyebrang menuju daratan atau kembali ke pulau dengan biaya Rp 5000/orang. Jarak tempuh dari Dermaga Maccini Baji ke Pulau Sabutung sekitar 30 menit.<br />
+	&nbsp;</p>
+</div></p>
+
+<hr>
+
+<h2><a id="ksbk">Kependudukan, Sosial Budaya dan Kelembagaan</a></h2>
+<p><div class="readmore"><p>
+	<span style="color:#008000;"><strong>KEPENDUDUKAN</strong></span></p>
+<p style="text-align: justify; margin-left: 40px;">
+	Jumlah penduduk Pulau Sabutung 1304 jiwa yang terdiri dari 344 Kepala Keluarga. Untuk presentase penduduk Laki-laki lebih banyak ketimbang penduduk perempuan sekitar 58%. Penduduk laki-laki berjumlah 755 jiwa dan penduduk perempuan 549.</p>
+<p style="text-align: justify; margin-left: 40px;">
+	Pada Pulau Sabutung ada beberapa macam mata pencaharian penduduk. Untuk PNS/TNI/POLRI hanya sekitar 5%, 5% pula sebagai pedagang, ada yang sebagai Nelayan Budidaya sekitar 10% dan sisanya sekitar 80% sebagai Nelayan Tangkap.</p>
+<p style="text-align: justify; margin-left: 40px;">
+	Rata-rata penduduk Pulau Sabutung memang bermata pencaharian sebagai Nelayan Tangkap. Hasil tangkapan mereka seperti;</p>
+<ul style="margin-left: 40px;">
+	<li>
+		pepetek, biasa mereka menjual per-bak dengan harga 50.000 &ndash; 60.000 langsung ke pasar.</li>
+	<li>
+		Sotong, dijual dengan harga 27.000/kg ke penampung.</li>
+	<li>
+		Kepiting, 23.000-30.000/kg harga yang biasa dibayar oleh penampung, dan untuk Kerapasnya juga dapat dijual dengan harga per-kg 1.000-3.000.</li>
+	<li>
+		Kakap Merah, harga jualnya mencapai 40.000&plusmn; di penampung.</li>
+	<li>
+		Ganggang, 1000/kg.</li>
+</ul>
+<p style="text-align: justify; margin-left: 40px;">
+	Untuk armada yang dugunakan yaitu, Perahu Motor sekitar 24PK, Perahu Dayung yang biasa digunakan untuk mencari cumi-cumi dan Perahu Katingting. Alat tangkap yang sering mereka gunakan adalah Jaring Kepiting 3,5 inch No. 28-26, juga Pancing Cumi.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="eshp">Ekosistem dan Sumberdaya Hayati</a></h2>
+<p><div class="readmore"><p style="text-align: justify;">
+	<span style="color:#ff0000;"><strong>TERUMBU KARANG</strong></span></p>
+<p style="text-align: justify; margin-left: 40px;">
+	Terumbu karang merupakan potensi pesisir dan pulau pulau kecil yang menjadi salah satu komoditas andalan. Perairan di Pulau Sabutung masih sangat mendukung pertumbuhan terumbu karang. Berbagai jenis organisme dapat ditemukan berasosiasi dengan terumbu karang, yaitu ikan terumbu, moluska, dan fauna bentik lainnya.</p>
+<p style="text-align: justify; margin-left: 40px;">
+	Pengamatan di Pulau Sabutung dilakukan pada 2 lokasi, yaitu bagian barat dan selatan Pulau Sabutung. Kondisi perairan Pulau Sabutung cukup tenang dan sedikit berarus. Visibilitas perairan cukup terbatas oleh kekeruhan perairan sehingga membatasi jarak pandang di dalam kolom perairan saat pengambilan data berlangsung. Persentase penutupan terumbu karang pada Pulau Sabutung bagian barat adalah 34,5% dan bagian selatan adalah 52,96%.</p>
+<ol style="margin-left: 40px;">
+	<li style="text-align: justify;">
+		<p>
+			<strong>Bagian Barat Pulau Sabutung.</strong></p>
+	</li>
+</ol>
+<p style="text-align: justify; margin-left: 80px;">
+	Bagian Barat Pulau Sabutung memiliki kontur dasar perairan yang cukup landai (<em>flat</em>) dengan kondisi arus yang cukup tenang. Pengamatan substrat dasar terumbu karang dilakukan pada kedalaman 3 m. Kondisi substrat dasar yang dominan terlihat adalah pasir dan patahan karang dengan jarak pandang yang cukup pendek, yaitu sekitar 7 m.</p>
+<p style="text-align: justify; margin-left: 80px;">
+	Nilai persentase penutupan substrat dasar oleh karang keras hidup (KKH) yang ditemukan sebesar 34,50% dan termasuk dalam kriteria &ldquo;sedang&rdquo;. Persentase penutupan substrat dasar oleh abiotik sebesar 40,98% dan merupakan penutupan substrat dasar paling tinggi pada pengamatan bagian Barat Pulau Sabutung. Penutupan oleh karang mati sebesar 18,14% dan penutupan substrat biotik sangat rendah sebesar 6,38%.</p>
+<p style="text-align: justify; margin-left: 80px;">
+	Kondisi pada bagian Barat Pulau Sabutung banyak tertutupi oleh sedimentasi yang berakibat pada kematian karang, sehingga alga menempel pada substrat karang mati. Pada bagian tubir juga mengalami hal yang sama. Persentase penutupan KKH juga menunjukkan nilai yang cukup rendah namun masih terdapat karang yang mampu bertahan pada kondisi tersebut.</p>
+<ol style="margin-left: 40px;">
+	<li style="text-align: justify;" value="2">
+		<p>
+			<strong>Bagian Selatan Pulau Sabutung</strong></p>
+	</li>
+</ol>
+<p style="text-align: justify; margin-left: 80px;">
+	Pengamatan substrat dasar terumbu karang pada bagian Selatan Pulau Sabutung dilakukan pada kedalaman 3 m. Kondisi kontur dasar perairan cukup landai (<em>flat</em>) dengan kondisi arus yang cukup kuat. Jarak pandang di dalam kolom perairan tidak begitu jauh dikarenakan pengadukan substrat dasar yang didominasi oleh pasir dan patahan karang. Kekeruhan perairan mengurangi jarak pandang sampai sekitar 5 m.</p>
+<p style="text-align: justify; margin-left: 40px;">
+	Penutupan substrat dasar oleh karang keras hidup (KKH) yang ditemukan sebesar 52,96% dan termasuk dalam kriteria &ldquo;baik&rdquo;. Kondisi arus yang kencang diindikasikan tidak hanya membawa partikel tersuspensi namun dapat juga membawa makanan bagi hewan karang berupa mikroorganisme sehingga kondisi penutupan susbtrat KKH tumbuh dengan baik. Persentase penutupan karang mati terlihat cukup tinggi, yaitu sebesar 32,66%. Penutupan susbtrat abiotik sebesar 6,72% dan penutupan substrat biotik sebesar 7,66%.</p>
+<p style="text-align: justify; margin-left: 40px;">
+	Persentase penutupan KKH yang cukup tinggi terlihat dari kondisi penutupan substrat dasar pada bagian Selatan Pulau Sabutung. Kemampuan hewan karang untuk beradaptasi dengan kondisi lingkungan perairan cukup baik. Umumnya bentuk pertumbuhan karang pada kondisi perairan yang keruh adalah karang masif, submasif, mengerak dengan koralit yang berukuran cukup besar.</p>
+<p style="text-align: justify;">
+	<strong>IKAN KARANG</strong></p>
+<p style="text-align: justify; margin-left: 40px;">
+	Pengamatan ikan terumbu dilakukan dengan menggunakan metode UVC (<em>Underwater Visual census</em>) dimana penyelam melakukan pencatatan jenis ikan, panjang ikan, dan jumlah individu yang terlihat sejauh pandangan mata (2,5 m) setiap sisi penyelam dengan panjang transek 50 m. Data yang didapat kemudian diolah menggunakan persamaan Shannon and Wiener untuk melihat indeks keanekaragaman (H&rsquo;), keseragaman (E), dan dominansi (C) (Odum 2003).</p>
+<p style="margin-left: 40px; text-align: center;">
+	Indeks keanekaragaman (H&rsquo;), keseragaman (E), dan dominansi (C) di Pulau Sabutung</p>
+<table align="center" border="0" cellpadding="0" cellspacing="0" height="125" width="448">
+	<tbody>
+		<tr>
+			<td nowrap="nowrap" style="width:140px;height:27px;">
+				<p style="text-align: justify;">
+					<strong>Lokasi</strong></p>
+			</td>
+			<td nowrap="nowrap" style="width:136px;height:27px;">
+				<p style="text-align: justify;">
+					<strong>H</strong></p>
+			</td>
+			<td nowrap="nowrap" style="width:136px;height:27px;">
+				<p style="text-align: justify;">
+					<strong>E</strong></p>
+			</td>
+			<td nowrap="nowrap" style="width:136px;height:27px;">
+				<p style="text-align: justify;">
+					<strong>C</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="width:140px;height:27px;">
+				<p style="text-align: justify;">
+					Barat Daya</p>
+			</td>
+			<td nowrap="nowrap" style="width:136px;height:27px;">
+				<p style="text-align: justify;">
+					1.9651</p>
+			</td>
+			<td nowrap="nowrap" style="width:136px;height:27px;">
+				<p style="text-align: justify;">
+					0.7087</p>
+			</td>
+			<td nowrap="nowrap" style="width:136px;height:27px;">
+				<p style="text-align: justify;">
+					0.2327</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="width:140px;height:27px;">
+				<p style="text-align: justify;">
+					Barat Laut</p>
+			</td>
+			<td nowrap="nowrap" style="width:136px;height:27px;">
+				<p style="text-align: justify;">
+					2.5495</p>
+			</td>
+			<td nowrap="nowrap" style="width:136px;height:27px;">
+				<p style="text-align: justify;">
+					0.9195</p>
+			</td>
+			<td nowrap="nowrap" style="width:136px;height:27px;">
+				<p style="text-align: justify;">
+					0.0916</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<p style="text-align: justify; margin-left: 40px;">
+	Berdasarkan hasil pengamatan kelimpahan ikan terumbu di Pulau Sabutung, dapat diketahui indeks keanekaragaman di sisi Barat Daya Sabutung memiliki nilai 1,9651. Nilai indeks tersebut menggambarkan keanekaragaman jenis dalam suatu komunitas. Nilai yang diperoleh &lt; 2, hal tersebut menunjukan keanekaragaman jenis ikan terumbu di Barat Daya Sabutung tergolong rendah. Tinggi rendahnya keanekaragaman jenis menunjukan bahwa suatu komunitas memiliki tingkat kompleksitas karena dalam komunitas terjadi berbagai interaksi antar setiap jenis. Jadi dalam suatu komunitas yang mempunyai keanekaragaman jenis yang tinggi akan terjadi interaksi jenis yang melibatkan transfer energi, predasi, kompetisi, dan pembagian relung yang secara teoritis lebih kompleks.</p>
+<p style="text-align: justify; margin-left: 40px;">
+	Nilai indeks keseragaman digunakan untuk mengetahui sebaran jumlah individu dari setiap marga pada tingkat komunitas. Nilai indeks keseragaman sisi Barat Daya Sabutung sebesar 0,7087. Semakin mendekati angka 1 nilai indeks keseragaman menunjukan tidak adanya dominansi jumlah individu dari suatu jenis ikan terumbu. Nilai indeks dominansi akan berbanding terbalik dengan nilai indeks keseragaman. Tingginya nilai indeks keseragaman diikuti dengan rendahnya nilai indeks dominansi.</p>
+<ol style="margin-left: 40px;">
+	<li style="text-align: justify;">
+		<p>
+			<strong>Bagian Barat Daya Pulau Sabutung</strong></p>
+	</li>
+</ol>
+<p style="text-align: justify; margin-left: 80px;">
+	Famili Pomacentridae terlihat mendominansi di perairan Barat Daya Pulau Sabutung dengan kepadatan mencapai 6720 ind/ha. Jenis yang paling banyak ditemukan adalah <em>Neopomacentrus filamentosus</em> dengan kepadatan sebesar 4200 ind/ha, kemudian disusul dengan <em>Neopomacentrus anabantoides</em> dengan kepadatan sebesar 1800 ind/ha. Warna ikan yang cerah dan sering membentuk gerombolan kecil membuat ikan famili Pomacentridae mudah dikenali. Famili Pomacentridae juga sering kali dijumpai pada akuarium air laut. Sebagian besar jenis ikan yang termasuk dalam famili Pomacentridae merupakan omnivora dan mencari makan di sela-sela terumbu karang.</p>
+<p style="text-align: justify; margin-left: 80px;">
+	Hasil pengamatan menunjukan tidak terlalu banyak ditemukan ikan dari famili Chaetodontidae. Sedikitnya ikan terumbu dari famili Chaetodontidae diduga disebabkan oleh kondisi substrat dasar perairan Pulau Sabutung yang ditemukan pada saat pengamatan pasir berlumpur serta cukup banyak ditemukan terumbu karang yang mengalami <em>bleaching.</em> Keberadaan ikan terumbu tidak hanya bergantung pada kualitas perairan tetapi juga pada kondisi substrat dasar perairan tersebut.</p>
+<p style="text-align: justify; margin-left: 80px;">
+	Kelompok ikan target di perairan Barat Daya pulau Sabutung tidak terlalu banyak dijumpai. Jenis yang dijumpai adalah <em>Lethrinus </em>sp. atau sering disebut sebagai ikan lencam memiliki kepadatan 640 ind/ha dan <em>Lutjanus carponotatus </em>(kakap) dengan kelimpahan 280 ind/ha. Kisaran panjang untuk ikan lencam berkisar 40-45 cm sedangkan untuk jenis ikan kakap berkisar 30-35 cm.</p>
+<p style="text-align: justify; margin-left: 80px;">
+	Biomassa terbesar dimiliki oleh jenis ikan <em>Lethrinus </em>sp., yaitu sebesar 964,06 kg/ha dimana panjang rata-rata ikan jenis ini 43 cm. Biomassa terbesar kedua adalah jenis ikan <em>Lutjanus carponotatus</em>, yaitu 156,93 kg/ha dengan panjang ikan yang ditemukan 34 cm. sedangkan untuk biomassa terendah dimiliki oleh jenis ikan <em>Lutjanus bigutatus</em>, yaitu sebesar 6,52 kg/ha.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<ol style="margin-left: 40px;">
+	<li style="text-align: justify;" value="2">
+		<p>
+			<strong>Bagian Barat Laut Pulau Sabutung</strong></p>
+	</li>
+</ol>
+<p style="text-align: justify; margin-left: 80px;">
+	Hasil pengamatan ikan terumbu di sisi Barat Laut Pulau Sabutung didapatkan sebanyak 16 spesies yang tergolong dalam 8 famili. Famili ikan terumbu yang sering dijumpai pada saat pengamatan adalah Labridae dengan kelimpahan 1520 ind/ha dan Pomacentridae dengan kelimpahan 800 ind/ha. Kelimpahan jenis terbesar untuk famili Labridae berasal dari jenis <em>Thalassoma lunare</em> sebanyak 560 ind/ha. Jenis kedua terbesar adalah <em>Choerodon anchorago</em> sebanyak 320 ind/ha. Selain kedua jenis tersebut, jenis ikan terumbu yang sering ditemukan yang berasal dari famili Pomacentridae adalah jenis ikan <em>Amblyglyphidodon aureus</em> sebanyak 480 ind/ha dan <em>Neoglyphidodon crossi</em> sebanyak 200 ind/ha. Famili Labridae dan Pomacentridae merupakan dua jenis yang sering ditemukan mendominansi di suatu perairan karena ikan jenis ini memiliki habitat di sela-sela karang dan membentuk gerombolan dalam jumlah yang besar dalam mencari makan.</p>
+<p style="text-align: justify; margin-left: 80px;">
+	Jenis ikan indikator ditemukan pula di sisi Barat Laut Pulau Sabutung. Jenis ikan tersebut adalah <em>Chaetodon octofasciatus</em> dan <em>Heniochus diphreutes</em> dengan kelimpahan ikan masing-masing sebesar 80 ind/ha. Jenis ikan ini dapat dijadikan sebagai bio-indikator suatu perairan karena ikan yang berasal dari famili Chaetodontidae memiliki tipe pemangsaan coralivora, dimana jenis ikan ini hanya memakan hewan karang yang masih sehat.</p>
+<p style="text-align: justify; margin-left: 80px;">
+	Selain kelompok ikan mayor dan ikan indikator, beberapa jenis ikan target juga ditemukan di Barat Laut Pulau Sabutung. Jenis-jenis ikan tersebut adalah <em>Choerodon anchorago</em> sebanyak 320 ind/ha, <em>Caesio cuning</em> sebanyak 520 ind/ha, dan <em>Cheilinus fasciatus </em>dengan kepadatan 280 ind/ha.</p>
+<p style="text-align: justify; margin-left: 80px;">
+	Biomassa terbesar berasal dari ikan jenis <em>Choerodon anchorago</em> dengan panjang rata-rata yang ditemukan 33 cm. Ikan jenis ini termasuk kedalam famili Labridae. Jenis lainya adalah <em>Caesio cuning</em> dengan biomassa 87,68 kg/ha dan jenis ikan target yang memiliki biomassa terendah adalah <em>Cheilinus fasciatus </em>yaitu sebesar 86,58 kg/ha.</p>
+<p style="text-align: justify;">
+	<span style="color:#800080;"><strong>PADANG LAMUN</strong></span></p>
+<p style="text-align: justify; margin-left: 40px;">
+	Lamun merupakan salah satu ekosistem pesisir yang terdapat di Pulau Sabutung dari Kabupaten Pangkep. Pulau ini dikelilingi oleh beberapa gosong sehingga lebih terlindung dari gelombang laut. Sejak dulu pulau ini dikenal sebagai penghasil rajungan. Dengan rataan terumbu (<em>reef flat</em>) yang luas di sisi Selatan, Barat, hingga Utara, rajungan dapat berkembang biak dengan baik. Pulau ini memiliki dua ekosistem laut tropis, yaitu ekosistem lamun dan terumbu karang. Ekosistem lamun berada di rataan terumbu hingga hampir tubir. Perairan di padang lamun ini jernih dengan substrat pasir sehingga kita dapat melihat dasar perairan beserta berbagai biota yang hidup di rataan terumbu tersebut .</p>
+<p style="text-align: justify; margin-left: 40px;">
+	Pengamatan lamun di rataan terumbu Pulau Sabutung dilakukan dengan metode transek kuadrat yang mengacu pada metode pengamatan lamun dari <em>Seagrass Watch</em>. Transek yang digunakan terbuat dari paralon dengan ukuran 50 cm x 50 cm. Pengamatan dilakukan di sisi Barat Daya, Timur, Utara, serta Barat Laut. Secara umum, Pulau Sabutung memiliki enam dari 13 jenis lamun yang ada di Indonesia. Enam jenis lamun tersebut adalah <em>Cymodocea rotundata</em>, <em>Cymodocea serrulata</em>, <em>Enhalus acoroides</em>, <em>Halodule uninervis</em>, <em>Halophila ovalis, </em>dan <em>Thalassia hemprichii</em>. Rataan terumbu Pulau Sabutung di sisi Barat Daya hingga Barat Laut serta Utara merupakan padang lamun campuran yang terdiri dari enam jenis lamun tersebut. Namun padang lamun di sisi Timur merupakan padang lamun tunggal dari lamun jenis <em>Enhalus acoroides</em>.&nbsp; Selain sisi Timur pulau yang bersubstrat lumpur berpasir, rataan terumbu di Pulau Sabutung memiliki substrat pasir dengan perairan yang jernih.</p>
+<p style="text-align: justify; margin-left: 40px;">
+	Pengamatan lamun yang pertama berada di sisi Barat Daya pulau yang berdekatan dengan tubir. Empat jenis lamun yang ditemukan, yaitu <em>Cymodocea rotundata</em>, <em>Cymodocea serrulata</em>, <em>Enhalus acoroides</em>, dan <em>Thalassia hemprichii</em>. Pengamatan lamun kedua juga di sisi Barat Daya namun lebih dekat dengan garis pantai Pulau Sabutung, hanya memiliki tiga jenis lamun. Tiga jenis lamun tersebut adalah <em>Cymodocea serrulata</em>, <em>Enhalus acoroides</em>, dan <em>Thalassia hemprichii</em>. Sisi Timur pulau yang memiliki rataan terumbu sempit hanya memiliki satu jenis lamun, yaitu <em>Enhalus acoroides</em>. Pengamatan lamun selanjutnya dilakukan di sisi Utara Pulau Sabutung. Sisi ini memiliki jenis lamun paling banyak, yaitu enam jenis lamun. Enam jenis lamun tersebut adalah <em>Cymodocea rotundata</em>, <em>Cymodocea serrulata</em>, <em>Enhalus acoroides</em>, <em>Halodule uninervis</em>, <em>Halophila ovalis, </em>dan <em>Thalassia hemprichii</em>. Sedangkan pengamatan lamun terakhir dilakukan di sisi Barat Laut pulau. Jenis lamun yang ditemukan di sisi Barat Laut sama dengan sisi Barat Daya, yaitu sebanyak empat jenis. Berdasarkan <strong>Tabel 6</strong> dapat diketahui bahwa jenis lamun paling banyak ditemukan di sisi Utara pulau sedangkan jenis lamun paling sedikit ditemukan di sisi Timur Pulau Sabutung.</p>
+<p style="text-align: justify; margin-left: 40px;">
+	Berdasarkan hasil pengamatan, kerapatan (ind/m&sup2;) jenis lamun paling tinggi dan paling rendah berada di sisi Barat Laut Pulau Sabutung. Kerapatan lamun paling tinggi dimiliki oleh lamun jenis <em>Cymodocea rotundata</em> sebesar 424 ind/m&sup2;. Sedangkan kerapatan lamun paling rendah dimiliki oleh lamun jenis <em>Thalassia hemprichii</em> sebesar 8 ind/m&sup2;. Padang lamun di sisi Barat Laut memiliki rentang nilai kerapatan antar jenisnya paling besar. Hal ini berbeda dengan kerapatan antar jenis lamun di stasiun pengamatan lainnya. Padang lamun di sisi Barat Daya, Timur, dan&nbsp; Utara memiliki rentang nilai kerapatan antar jenis yang tergolong kecil dibanding lamun di sisi Barat Laut. Hal ini menunjukkan bahwa lamun di sisi Barat Laut didominasi oleh salah satu jenis lamun, yaitu jenis <em>Cymodocea rotundata</em>.</p>
+<p style="text-align: justify; margin-left: 40px;">
+	Penutupan lamun di beberapa titik rataan terumbu Pulau Sabutung berbeda-beda, dimana penutupan jenis lamun tertinggi berada di sisi Barat Laut, yaitu lamun jenis <em>Cymodocea rotundata</em> dengan penutupan sebesar 45 %. Tingginya penutupan lamun jenis ini sesuai dengan kerapatannya yang tinggi di sisi Barat Laut ini. Sebaliknya, penutupan jenis lamun yang paling rendah berada di sisi Barat Daya dekat tubir. Nilai penutupan lamun terendah tersebut dimiliki oleh lamun jenis yang sama, <em>Cymodocea rotundata</em>, dengan nilai penutupan sebesar 3 %. Lamun jenis <em>Cymodocea rotundata</em> memiliki daun memanjang dan tidak lebar. Lamun jenis ini dapat memiliki penutupan yang besar bila kerapatannya tinggi seperti di sisi Barat Laut. Namun sebaliknya, bila kerapatannya rendah seperti di sisi Barat Daya dekat tubir maka penutupannya pun akan rendah. Berbeda dengan lamun jenis <em>Enhalus acoroides</em> yang dapat memiliki nilai penutupan tinggi meskipun kerapatannya tergolong rendah karena lamun jenis ini memiliki daun memanjang dan lebih lebar dibanding semua lamun yang ada di Indonesia.</p>
+<p style="text-align: justify; margin-left: 40px;">
+	Sebagian besar padang lamun di Pulau Sabutung merupakan padang lamun campuran, kecuali di sisi Timur. Tidak hanya jenis lamunnya yang berbeda, namun komposisi lamun pada tiap sisinya juga berbeda . Stasiun pengamatan di sisi Barat Daya berada di dua tempat yang berbeda. Stasiun pengamatan lamun pertama pada sisi ini berada di dekat tubir sedangkan stasiun pengamatan kedua terletak di dekat garis pantai. Meskipun di rataan terumbu pada sisi pulau yang sama, padang lamun di kedua stasiun tersebut memiliki karakteristik yang berbeda. Baik rerata kerapatan lamun, rerata penutupan, maupun total penutupan lamun di sisi Barat Daya yang berada di dekat garis pantai memiliki nilai yang lebih besar dibanding lamun yang berada di dekat tubir.</p>
+<p style="text-align: justify; margin-left: 40px;">
+	Secara keseluruhan padang lamun di Pulau Sabutung, rerata kerapatan tiap jenis lamun tertinggi berada di sisi Barat Laut sebesar 118 ind/m&sup2; dan yang terendah berada di sisi Barat Daya sebesar 26 ind/m&sup2;. Hal yang sama juga terjadi pada rerata penutupan tiap jenis lamun. Nilai rerata penutupan tertinggi berada di sisi Barat Laut dengan nilai sebesar 23,75% dan terendah berada di sisi Barat Daya dengan nilai sebesar 8,25%. Sedikit berbeda dengan total penutupan lamun pada Pulau Sabutung ini.&nbsp; Total penutupan lamun tertinggi berada di sisi Barat Laut dengan nilai tutupan sebesar 95% dan terendah pada sisi Timur dengan nilai tutupan sebesar 15%.</p>
+<p style="text-align: justify; margin-left: 40px;">
+	Secara umum ekosistem lamun di Pulau Sabutung ini dalam kondisi yang memungkinkan untuk tempat tinggal biota laut . Beberapa biota laut lainnya yang juga hidup di ekosistem lamun Pulau Sabutung adalah terumbu karang, ikan, spons, makroalga, krustasea, moluska, dan ekinodermata. Dengan beragamnya biota laut lain yang berasosiasi dengan ekosistem lamun ini diharapkan dapat mempertahankan keseimbangan alam dan pangan yang sangat bermanfaat bagi warga pulau ini.</p>
+<p style="text-align: justify; margin-left: 40px;">
+	Permasalahan yang ada pada padang lamun di Pulau Sabutung ini antara lain adalah jalur pelayaran, dermaga, dan jangkar kapal; pencemaran limbah rumah tangga maupun non rumah tangga; dan sampah. Banyaknya aktivitas kapal, baik untuk kegiatan nelayan, transportasi, maupun perdagangan di pulau ini menjadikan ekosistem lamun terancam keberadaannya. Bagian sisi Timur Pulau Sabutung memiliki beberapa dermaga tempat penambatan kapal dalam jangka waktu pendek atau panjang. Hal ini menimbulkan gangguan pada padang lamun, khususnya yang disebabkan oleh jangkar kapal. Hendaknya masyarakat lebih berhati-hati.</p>
+<p style="text-align: justify; margin-left: 40px;">
+	Salah satu kelebihan yang dimiliki Pulau Sabutung adalah rataan terumbu yang luas pada beberapa sisinya. Hal ini dapat membuka peluang bagi masyarakat untuk memanfaatkan potensi-potensi yang dimiliki ekosistem ini. Potensi-potensi tersebut antara lain, yaitu budidaya dan pembesaran komoditi perikanan, kegiatan penangkapan ikan yang ramah lingkungan, dan pariwisata.</p>
+<p style="text-align: justify; margin-left: 40px;">
+	Rataan terumbu yang luas dan jernih menjadi aset berharga pulau ini. Pasalnya rataan terumbu tersebut dapat dimanfaatkan sebagai tempat budidaya rumput laut dengan metode lepas dasar, pembesaran rajungan, ikan, ataupun udang. Penangkapan ikan dengan pancing dan perangkap (contoh: bubu) sangat dianjurkan karena tidak merusak alam. Sedangkan wisata yang dapat ditawarkan antara lain adalah wisata perahu atau kano serta <em>snorkeling</em>. Namun semua pemanfaatan dari ekosistem ini harus memperhatikan kelestarian dari ekosistem lamun tersebut beserta isinya.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="snh">Sumberdaya Non Hayati</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<h2><a id="aps">Aktivitas Pengelolaan Sumberdaya</a></h2>
+<p><div class="readmore"><p>
+	<br />
+	&nbsp;</p>
+</div></p>
+
+<hr>
+
+<h2><a id="ling">Lingkungan</a></h2>
+<p><div class="readmore"><p style="text-align: justify;">
+	<strong><span style="color:#008000;">KONDISI PERAIRAN</span></strong></p>
+<p style="text-align: justify; margin-left: 40px;">
+	Pengamatan kualitas air dilakukan di Pulau Sabutung, Kab. Pangkajene Kepulauan, Sulawesi.&nbsp; Secara umum kualitas perairan Pulau Sabutung dalam kondisi <strong>baik</strong> berdasar pada baku mutu KepMen-LH 51 Tahun 2004 untuk Biota Laut. Hanya terdapat satu paramater yang melebihi baku mutu, yaitu nitrat. Perbedaan antara konsentrasi nitrat yang terukur dengan baku mutu sangat kecil.</p>
+<p style="text-align: center;">
+	Hasil analisis kualitas air di Pulau Sabutung</p>
+<table align="center" border="0" cellpadding="0" cellspacing="0" height="437" width="410">
+	<tbody>
+		<tr>
+			<td nowrap="nowrap" style="width:7.42%;height:21px;">
+				<p style="text-align: justify;">
+					<strong>No.</strong></p>
+			</td>
+			<td nowrap="nowrap" style="width:33.62%;height:21px;">
+				<p style="text-align: justify;">
+					<strong>Parameter</strong></p>
+			</td>
+			<td nowrap="nowrap" style="width:14.54%;height:21px;">
+				<p style="text-align: justify;">
+					<strong>Satuan</strong></p>
+			</td>
+			<td colspan="3" nowrap="nowrap" style="width:31.72%;height:21px;">
+				<p style="text-align: justify;">
+					<strong>Nilai &plusmn; std.eror</strong></p>
+			</td>
+			<td nowrap="nowrap" style="width:12.68%;height:21px;">
+				<p style="text-align: justify;">
+					<strong>BM*</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="width:7.42%;height:20px;">
+				<p style="text-align: justify;">
+					1</p>
+			</td>
+			<td nowrap="nowrap" style="width:33.62%;height:20px;">
+				<p style="text-align: justify;">
+					Suhu</p>
+			</td>
+			<td nowrap="nowrap" style="width:14.54%;height:20px;">
+				<p style="text-align: justify;">
+					&nbsp;mg/L</p>
+			</td>
+			<td nowrap="nowrap" style="width:14.02%;height:20px;">
+				<p style="text-align: justify;">
+					32,2</p>
+			</td>
+			<td nowrap="nowrap" style="width:5.58%;height:20px;">
+				<p style="text-align: justify;">
+					&plusmn;</p>
+			</td>
+			<td nowrap="nowrap" style="width:12.1%;height:20px;">
+				<p style="text-align: justify;">
+					0,067</p>
+			</td>
+			<td nowrap="nowrap" style="width:12.68%;height:20px;">
+				<p style="text-align: justify;">
+					Alami</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="width:7.42%;height:20px;">
+				<p style="text-align: justify;">
+					2</p>
+			</td>
+			<td nowrap="nowrap" style="width:33.62%;height:20px;">
+				<p style="text-align: justify;">
+					DO</p>
+			</td>
+			<td nowrap="nowrap" style="width:14.54%;height:20px;">
+				<p style="text-align: justify;">
+					&nbsp;mg/L</p>
+			</td>
+			<td nowrap="nowrap" style="width:14.02%;height:20px;">
+				<p style="text-align: justify;">
+					6,4</p>
+			</td>
+			<td nowrap="nowrap" style="width:5.58%;height:20px;">
+				<p style="text-align: justify;">
+					&plusmn;</p>
+			</td>
+			<td nowrap="nowrap" style="width:12.1%;height:20px;">
+				<p style="text-align: justify;">
+					0,240</p>
+			</td>
+			<td nowrap="nowrap" style="width:12.68%;height:20px;">
+				<p style="text-align: justify;">
+					&gt; 5</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="width:7.42%;height:20px;">
+				<p style="text-align: justify;">
+					3</p>
+			</td>
+			<td nowrap="nowrap" style="width:33.62%;height:20px;">
+				<p style="text-align: justify;">
+					pH</p>
+			</td>
+			<td nowrap="nowrap" style="width:14.54%;height:20px;">
+				<p style="text-align: justify;">
+					&nbsp;mg/L</p>
+			</td>
+			<td nowrap="nowrap" style="width:14.02%;height:20px;">
+				<p style="text-align: justify;">
+					8,63</p>
+			</td>
+			<td nowrap="nowrap" style="width:5.58%;height:20px;">
+				<p style="text-align: justify;">
+					&plusmn;</p>
+			</td>
+			<td nowrap="nowrap" style="width:12.1%;height:20px;">
+				<p style="text-align: justify;">
+					0,375</p>
+			</td>
+			<td nowrap="nowrap" style="width:12.68%;height:20px;">
+				<p style="text-align: justify;">
+					7-8,5</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="width:7.42%;height:20px;">
+				<p style="text-align: justify;">
+					4</p>
+			</td>
+			<td nowrap="nowrap" style="width:33.62%;height:20px;">
+				<p style="text-align: justify;">
+					Salinitas</p>
+			</td>
+			<td nowrap="nowrap" style="width:14.54%;height:20px;">
+				<p style="text-align: justify;">
+					&nbsp;mg/L</p>
+			</td>
+			<td nowrap="nowrap" style="width:14.02%;height:20px;">
+				<p style="text-align: justify;">
+					26</p>
+			</td>
+			<td nowrap="nowrap" style="width:5.58%;height:20px;">
+				<p style="text-align: justify;">
+					&plusmn;</p>
+			</td>
+			<td nowrap="nowrap" style="width:12.1%;height:20px;">
+				<p style="text-align: justify;">
+					0,307</p>
+			</td>
+			<td nowrap="nowrap" style="width:12.68%;height:20px;">
+				<p style="text-align: justify;">
+					Alami</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="width:7.42%;height:22px;">
+				<p style="text-align: justify;">
+					5</p>
+			</td>
+			<td nowrap="nowrap" style="width:33.62%;height:22px;">
+				<p style="text-align: justify;">
+					Ammonia (NH<sub>3</sub>-N)</p>
+			</td>
+			<td nowrap="nowrap" style="width:14.54%;height:22px;">
+				<p style="text-align: justify;">
+					&nbsp;mg/L</p>
+			</td>
+			<td nowrap="nowrap" style="width:14.02%;height:22px;">
+				<p style="text-align: justify;">
+					0,230</p>
+			</td>
+			<td nowrap="nowrap" style="width:5.58%;height:22px;">
+				<p style="text-align: justify;">
+					&plusmn;</p>
+			</td>
+			<td nowrap="nowrap" style="width:12.1%;height:22px;">
+				<p style="text-align: justify;">
+					0,021</p>
+			</td>
+			<td nowrap="nowrap" style="width:12.68%;height:22px;">
+				<p style="text-align: justify;">
+					0,3</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="width:7.42%;height:22px;">
+				<p style="text-align: justify;">
+					6</p>
+			</td>
+			<td nowrap="nowrap" style="width:33.62%;height:22px;">
+				<p style="text-align: justify;">
+					Nitrat (NO<sub>3</sub>-N)</p>
+			</td>
+			<td nowrap="nowrap" style="width:14.54%;height:22px;">
+				<p style="text-align: justify;">
+					&nbsp;mg/L</p>
+			</td>
+			<td nowrap="nowrap" style="width:14.02%;height:22px;">
+				<p style="text-align: justify;">
+					0,015</p>
+			</td>
+			<td nowrap="nowrap" style="width:5.58%;height:22px;">
+				<p style="text-align: justify;">
+					&plusmn;</p>
+			</td>
+			<td nowrap="nowrap" style="width:12.1%;height:22px;">
+				<p style="text-align: justify;">
+					0,005</p>
+			</td>
+			<td nowrap="nowrap" style="width:12.68%;height:22px;">
+				<p style="text-align: justify;">
+					0,008</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="width:7.42%;height:22px;">
+				<p style="text-align: justify;">
+					7</p>
+			</td>
+			<td nowrap="nowrap" style="width:33.62%;height:22px;">
+				<p style="text-align: justify;">
+					Fosfat (PO<sub>4</sub>-P)</p>
+			</td>
+			<td nowrap="nowrap" style="width:14.54%;height:22px;">
+				<p style="text-align: justify;">
+					&nbsp;mg/L</p>
+			</td>
+			<td nowrap="nowrap" style="width:14.02%;height:22px;">
+				<p style="text-align: justify;">
+					0,015</p>
+			</td>
+			<td nowrap="nowrap" style="width:5.58%;height:22px;">
+				<p style="text-align: justify;">
+					&plusmn;</p>
+			</td>
+			<td nowrap="nowrap" style="width:12.1%;height:22px;">
+				<p style="text-align: justify;">
+					0,004</p>
+			</td>
+			<td nowrap="nowrap" style="width:12.68%;height:22px;">
+				<p style="text-align: justify;">
+					0,015</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="width:7.42%;height:22px;">
+				<p style="text-align: justify;">
+					8</p>
+			</td>
+			<td nowrap="nowrap" style="width:33.62%;height:22px;">
+				<p style="text-align: justify;">
+					Silikat (SiO<sub>2</sub>)</p>
+			</td>
+			<td nowrap="nowrap" style="width:14.54%;height:22px;">
+				<p style="text-align: justify;">
+					&nbsp;mg/L</p>
+			</td>
+			<td nowrap="nowrap" style="width:14.02%;height:22px;">
+				<p style="text-align: justify;">
+					0,119</p>
+			</td>
+			<td nowrap="nowrap" style="width:5.58%;height:22px;">
+				<p style="text-align: justify;">
+					&plusmn;</p>
+			</td>
+			<td nowrap="nowrap" style="width:12.1%;height:22px;">
+				<p style="text-align: justify;">
+					0,009</p>
+			</td>
+			<td nowrap="nowrap" style="width:12.68%;height:22px;">
+				<p style="text-align: justify;">
+					-</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="width:7.42%;height:20px;">
+				<p style="text-align: justify;">
+					*)</p>
+			</td>
+			<td colspan="6" nowrap="nowrap" style="width:92.58%;height:20px;">
+				<p style="text-align: justify;">
+					: Baku Mutu Berdasarkan Kepmen-LH 51 Tahun 2004 (Untuk Biota Laut )</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<div style="clear: both; text-align: justify;">
+	&nbsp;</div>
+<p style="text-align: justify; margin-left: 40px;">
+	Pulau Sabutung terdapat di dalam wilayah Desa Mattiro Kanja. Pulau ini dapat dapat dijangkau dari Pangkajene atau dari Dermaga Maccini Baji dengan kapal motor. Kondisi terumbu karang di Pulau Sabutung dilaporkan telah rusak, yang diindikasikan oleh banyaknya <em>rubble</em> dan karang mati. Rusaknya terumbu karang disebabkan oleh siltasi dan sedimentasi serta besarnya masukan air tawar karena Pulau Sabutung dekat dengan daratan utama yang memiliki banyak muara sungai.</p>
+<p style="text-align: justify; margin-left: 40px;">
+	Meskipun demikian, hasil analisis kualitas perairan di Pulau Sabutung menunjukkan hasil yang baik. Suhu bekisar antara 31,3-32,9 &deg;C dan memenuhi baku mutu kualitas air bagi kehidupan biota laut. Konsentrasi DO (oksigen terlarut) berkisar antara 4,3-8,4 mg/L. Organisme membutuhkan oksigen untuk respirasi. Kadar oksigen yang kurang dari 2 mg/L dapat mengakibatkan kematian ikan (UNESCO/WHO/UNEP 1992 <em>in</em> Effendi 2003). Nilai pH di Pulau Sabutung dikategorikan basa (lebih dari 7), yaitu sekitar 8,63 yang memenuhi kadar alamiah pH perairan laut. Salinitas yang terukur di Pulau Sabutung sebesar 26 &permil;. Nilai ini termasuk rendah bagi perairan laut yang umumnya memiliki kisaran salinitas 30-40 &permil;. Rendahnya nilai salinitas diduga dipengaruhi oleh besarnya masukan air tawar dari sungai yang bermuara di pesisir Pangkajene. Namun demikian, nilai ini masih berada pada kisaran toleransi hidup fitoplankton sebagai organisme produsen di laut, yaitu 11&ndash;40 &permil;.</p>
+<p style="text-align: justify; margin-left: 40px;">
+	Kualitas air yang diukur juga meliputi parameter nutrien. Kadar amonia, fosfat, dan silika di Pulau Sabutung masih memenuhi baku mutu kualitas air laut. Hanya kadar nitrat yang sedikit melebihi baku mutu, yaitu 0,015 mg/L (BM=0,008 mg/L). Nutrien dibutuhkan organisme autotrof (fioplankton dan tumbuhan air) dalam proses fotosintesis. Proses ini adalah awal dari rantai makanan karena fitoplankton adalah produsen pertama di perairan dan mampu menggambarkan produktivitas suatu perairan. Namun jika nutrien berlebihan dapat berdampak buruk bagi perairan karena menstimulasi pertumbuhan pesat oleh alga dan tumbuhan air yang dominan. Kualitas air yang baik akan mendukung kehidupan organisme akuatik serta keberlanjutan sektor perikanan di Pulau Sabutung karena sebagian besar masyarakat Pulau Sabutung bergantung pada perikanan tangkap dengan komoditas utama cumi-cumi dan kepiting.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="sp">Sarana dan Prasarana</a></h2>
+<p><div class="readmore"><p style="text-align: justify;">
+	Sarana dan Prasarana</p>
+<p style="text-align: justify; margin-left: 40px;">
+	Berbagai sarana dan prasarana cukup memadai di pulau seperti rumah-rumah tinggal, kebutuhan air bersih, penerangan, dermaga(jetty), bangunan sekolah (PAUD, SD, MTS dan SMA), sarana ibadah dan puskesmas.</p>
+<p style="text-align: justify;">
+	&nbsp;</p>
+<ol style="margin-left: 40px;">
+	<li style="text-align: justify;">
+		Sarana tempat tinggal</li>
+</ol>
+<p style="text-align: justify; margin-left: 80px;">
+	Disekeliling pulau terdapat pemukiman warga yang tertata dengan baik, hal ini dapat dilihat bersihnya lingkungan disekeliling pemukiman.</p>
+<ol start="2">
+	<li style="text-align: justify; margin-left: 40px;">
+		Sarana Penerangan</li>
+</ol>
+<p style="text-align: justify; margin-left: 80px;">
+	Ada 2 sumber penerangan pada pulau ini yaitu dari PLTD (Pembangkit Listrik Tenaga Disel) dan PLTS(Pembangkit Listrik Tenaga Surya) keduanya milik PT. PLN (PERSERO). Tetapi saat ini untuk PLTD ada beberapa mesin yang rusak menurut informasi warga oleh karena itu ada jam-jam listrik menyala. PLTS belum beroperasi karena masih baru dibangun.</p>
+<ol start="3">
+	<li style="text-align: justify; margin-left: 40px;">
+		Dermaga (Jetty)</li>
+</ol>
+<p style="text-align: justify; margin-left: 80px;">
+	Untuk memperlancar aksesbilitas, Pulau Sabutung memiliki dermaga (jetty) sebagai sarana tambatan kapal yang mempermudah masyarakat dalam melakukan aktifitas keluar pulau atau menuju pulau. Ada 3 dermaga di pulau ini dengan kondisi cukup baik.</p>
+<ol start="4">
+	<li style="text-align: justify; margin-left: 40px;">
+		Sarana Pendidikan</li>
+</ol>
+<p style="text-align: justify; margin-left: 80px;">
+	Sarana Pendidikan di Pulau Sabutung cukup memadai. Terdapat PAUD (Pendidik Anak Usia Dini) yang didirikan dari Dana PNPM Mandiri, SD, MTS dan SMA (SMU Negeri 1 Liukang Tupabbiring).<br />
+	&nbsp;</p>
+<ol start="5">
+	<li style="text-align: justify; margin-left: 40px;">
+		Sarana Kesehatan</li>
+</ol>
+<p style="text-align: justify; margin-left: 80px;">
+	Untuk sarana kesehatan Pulau Sabutung telah memiliki PUSKESMAS yang berada tepat di tengah pulau. Beberapa tim medis tinggal di luar pulau jadi hanya datang ke pulau pada jam kerja mereka.<br />
+	&nbsp;</p>
+<ol start="6">
+	<li style="text-align: justify; margin-left: 40px;">
+		Sarana Air Bersih</li>
+</ol>
+<p style="text-align: justify; margin-left: 80px;">
+	Untuk kebutuhan air bersih Pulau Sabutung cukup memadai. Terdapat 2 buah Torent dan mesin sumur besar yang dibangun dari dana PNPM Mandiri, yang dikelola dengan baik oleh warga hingga dapat digunakan sampai sekarang. Dihampir setiap rumah warga pun terdapat sumur-sumur gali yang air nya tawar, sekalipun musim kemarau air sumur tersebut tidak benar-benar mengering dan tidak berubah rasa.<br />
+	&nbsp;</p>
+<ol start="7">
+	<li style="text-align: justify; margin-left: 40px;">
+		Sarana Ibadah / Agama</li>
+</ol>
+<p style="text-align: justify; margin-left: 80px;">
+	Terdapat 1 buah masjid besar yaitu Masjid Nurul Huda dimana semua kegiatan agama terpusatkan di masjid tersebut. Di pulau sabutung juga terdapat makam seorang pemuka agama ternama yaitu Kiai Haji Syech Abdul Rahim, terkadang banyak pejiarah yang datang ke makam tersebut dari dalam pulau atau luar pulau. Makam tersebut juga dirawat oleh pengelola masjid setempat.<br />
+	&nbsp;</p>
+<ol start="8">
+	<li style="text-align: justify; margin-left: 40px;">
+		Sarana Jalan</li>
+</ol>
+<p style="text-align: justify; margin-left: 80px;">
+	Pulau ini telah dilengkapi dengan sarana jalan dengan lebar 3 meter yang mengelilingi pulau berupa paving block, dan jalan setapak 2 meter yang bercabang di setiap pemukiman hingga masuk ke tengah pulau.<br />
+	&nbsp;</p>
+</div></p>
+
+<hr>
+
+<h2><a id="pi">Peluang Investasi</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<h2><a id="pap">Potensi dan Arahan Pengembangan</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<h2><a id="kp">Kendala Pengembangan</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<h2><a id="rf">Referensi</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<br />
+	<i> 
+		<p style="font-size:12px;">
+			Karena keterbatasan SDM dalam penginputan dan pengolahan data, kami mohon maaf atas ketidak lengkapan beberapa data pulau yang kami tampilkan, harap dimaklumi.
+			Berikan keritik dan saran pada kolom komentar agar kita dapat bersama menyajikan sebuah data yang cukup sempurna untuk halayak ramai yang berguna
+			demi kesejahterahan, kelestarian dan keindahan pulau-pulau kecil yang dimiliki Indonesia.<br />
+			*Jika sekiranya anda memiliki data yang cukup banyak, silakan mengirimkan file melalui email kami di <b><a>identifikasippk@gmail.com</a></b>
+			
+		</p>
+	</i>
+<br />
+
+<div id="fb_comn" class="fb-comments" data-href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_info/867" data-width="800" data-numposts="5" data-colorscheme="light"></div>
+
+
+</div>
+</div>
+</div>
+<div id="wrapper">
+
+<div class="footer"><p>
+<!--<marquee onmouseover="this.stop()" onmouseout="this.start()" scrollamount="5" direction="right" width="798" height="14"  behavior="scroll">-->
+<a href="http://www.ppk-kp3k.kkp.go.id/" target="_blank">Direktorat Pendayagunaan Pulau-Pulau Kecil &nbsp; | &nbsp;</a>
+<a href="http://www.kp3k.kkp.go.id/" target="_blank">Ditjen Kelautan, Pesisir dan Pulau-Pulau Kecil &nbsp; | &nbsp;</a>
+<a href="http://www.kkp.go.id/" target="_blank">Kementerian Kelautan dan Perikanan</a>
+<!--</marquee>--> <br />
+Jl. Medan Merdeka Timur No. 16 Gedung Mina Bahari 3 Lantai 10, Jakarta, Indonesia <br />
+Email : identifikasippk@gmail.com <br />
+Telp &amp; Fax: (021) 3522058 <br />
+&copy; Copyright Direktorat Pendayagunaan Pulau-Pulau Kecil 2012&nbsp; <br /></p>
+</div>
+</div>
+</body>
+</html>

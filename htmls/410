@@ -1,0 +1,406 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Pulau GOSONG MAKASAR</title>
+
+<meta charset="utf-8"/>
+
+<meta property="fb:app_id" content="559408774147878" />
+
+
+<meta property="og:title" content="Pulau GOSONG MAKASAR" />
+<meta property="og:url" content="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_info/410" />
+
+
+    <script type="text/javascript" src="http://ajax.microsoft.com/ajax/jquery/jquery-1.4.4.min.js">
+    </script>
+    
+    <script type="text/javascript" src="http://plugins.learningjquery.com/expander/jquery.expander.js">
+    </script>
+    
+    <script type="text/javascript">
+        $(function () {
+            $('div.readmore').expander({
+                slicePoint:200,
+                expandText: '(Baca selengkapnya)',
+                userCollapseText: '(Sembunyikan selengkapnya)'
+            });
+        });
+    </script>
+        
+	<script src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/galleria/galleria-1.2.8.min.js"></script>
+
+        <SCRIPT TYPE="text/javascript">
+            <!--
+            //Disable right click script
+            //visit http://www.rainbow.arch.scriptmania.com/scripts/
+            var message="Sorry, right-click has been disabled";
+            ///////////////////////////////////
+            function clickIE() {if (document.all) {(message);return false;}}
+            function clickNS(e) {if
+            (document.layers||(document.getElementById&&!document.all)) {
+            if (e.which==2||e.which==3) {(message);return false;}}}
+            if (document.layers)
+            {document.captureEvents(Event.MOUSEDOWN);document.onmousedown=clickNS;}
+            else{document.onmouseup=clickNS;document.oncontextmenu=clickIE;}
+            document.oncontextmenu=new Function("return false")
+            // -->
+            </SCRIPT>
+            
+            <SCRIPT TYPE="text/javascript">
+            <!--
+            //Disable select-text script (IE4+, NS6+)
+            //visit http://www.rainbow.arch.scriptmania.com/scripts/
+            ///////////////////////////////////
+            function disableselect(e){
+            return false
+            }
+            function reEnable(){
+            return true
+            }
+            //if IE4+
+            document.onselectstart=new Function ("return false")
+            //if NS6
+            if (window.sidebar){
+            document.onmousedown=disableselect
+            document.onclick=reEnable
+            }
+            // -->
+            </SCRIPT>  
+              
+<link rel="stylesheet" type="text/css" href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/css/main.css" media="screen"/>
+<style type='text/css'>
+#info_wrap{
+	width:820px;
+	margin:0 auto;
+	text-shadow:0px 1px 1px #09F;
+}
+table{
+	color:#000000;
+}
+h1{
+	color:#000000;
+}
+.tengahin{
+	width: 105px;
+	height: 30px;
+	margin: 0 auto auto auto;
+}
+#box_view{
+	background-image:-webkit-gradient(linear, 0 0%, 0 100%, from(#FFFFFF), to(#E0F0F5));
+	background:#FFF;
+	color:#F60;
+	border: 1px solid #fff;
+	border-radius: 4px 4px 4px 4px;
+	box-shadow: 0 8px 6px -6px black;
+	position:fixed;
+	right:0;
+	top:150px;;
+	width:80px;
+	z-index:10;
+	padding-left:12px;
+	font-size:10px;
+	}
+#box_view li{
+	color:#F60;
+	margin-left:-30px;
+	}
+	#wrapper a b {
+	color: #FFF;
+	font-size:14px;
+}
+.batas{
+	float:left;
+	border-right-style:inset;
+	border-right-width:thin;
+	}
+.text_h_wrap{
+	
+	padding-left:450px;
+	padding-top:39px;
+	text-shadow:0px 1px 1px #09F;
+	}
+#wrapper .footer p{
+	font-size:12px;
+	color: #FFF;
+	text-align:center;
+	text-shadow:0px 1px 1px #09F;
+}
+td,th {
+	font-size: 12px;
+}
+
+marquee a{
+	color:#FFF
+	}
+#wrapper .footer a{
+	color: #FFFFFF;
+}
+</style>
+            
+<script>
+function goBack()
+  {
+  window.history.back()
+  }
+</script>
+<script type="text/javascript">
+function Popup( url, height, width )
+{
+    var windowProperties = "toolbar = 0, scrollbars = 1, location = 0, statusbar = 0, menubar = 0, resizable = 1, width = " + width + ", height = " + height + ", left = 50, top = 50";
+ 
+    return window.open( url, "", windowProperties );
+}
+</script>
+
+
+
+</head>
+<body oncontextmenu='return false;' onkeydown='return false;' onmousedown='return false;'>
+
+<a id="top_view"></a>
+<div id="wrapper">
+<div class="header_wrap">
+<div class="text_h_wrap">
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/home_page'><b>&nbsp;Home&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/menu_info/1'><b>&nbsp;About Us&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_data'><b>&nbsp;Direktori Pulau&nbsp;&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/program_ip'><b>&nbsp;IKU&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/data_ppkt'><b>&nbsp;PPKT&nbsp;</b></a>
+</div>
+<!--<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/maintenance'><b>&nbsp;Login&nbsp;</b></a>-->
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/dir_log_cont'><b>&nbsp;Login&nbsp;</b></a>
+
+</div>
+</div>
+</div>
+
+<div id="fb-root"></div>
+<script>
+  window.fbAsyncInit = function() {
+    // init the FB JS SDK
+    FB.init({
+      appId      : '559408774147878',                        // App ID from the app dashboard
+      status     : true,                                 // Check Facebook Login status
+      xfbml      : true                                  // Look for social plugins on the page
+    });
+
+    // Additional initialization code such as adding Event Listeners goes here
+  };
+
+  // Load the SDK asynchronously
+  (function(){
+     // If we've already installed the SDK, we're done
+     if (document.getElementById('facebook-jssdk')) {return;}
+
+     // Get the first script element, which we'll use to find the parent node
+     var firstScriptElement = document.getElementsByTagName('script')[0];
+
+     // Create a new script element and set its id
+     var facebookJS = document.createElement('script'); 
+     facebookJS.id = 'facebook-jssdk';
+
+     // Set the new script's source to the source of the Facebook JS SDK
+     facebookJS.src = '//connect.facebook.net/en_US/all.js';
+
+     // Insert the Facebook JS SDK into the DOM
+     firstScriptElement.parentNode.insertBefore(facebookJS, firstScriptElement);
+   }());
+</script>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=559408774147878";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="box_view">
+    <a href="#top_view">MENU</a>
+    <h3><p>Lihat Informasi:</p></h3>
+    <ul>
+	<a href="#sf"><li>Slide Foto</li></a>
+    <a href="#gu"><li>Gambaran Umum</li></a>
+    <a href="#ksbk"><li>Kependudukan, Sosial Budaya dan Kelembagaan</li></a>
+    <a href="#eshp"><li>Ekosistem dan Sumberdaya Hayati</li></a>
+    <a href="#snh"><li>Sumberdaya Non Hayati</li></a>
+    <a href="#aps"><li>Aktivitas Pengelolaan Sumberdaya</li></a>
+    <a href="#ling"><li>Lingkungan</li></a>
+    <a href="#sp"><li>Sarana dan Prasarana</li></a>
+    <a href="#pi"><li>Peluang Investasi</li></a>
+    <a href="#pap"><li>Potensi Arahan Pengembangan</li></a>
+    <a href="#kp"><li>Kendala Pengembangan</li></a>
+	<a href="#rf"><li>Referensi</li></a>
+    </ul>
+    <a href="#fb_comn">KOMENTAR</a>
+</div>
+
+<br>
+			<a id="sf"></a></h2>
+			<div id="galleria">
+            <!--<div class='tengahin'><input type="button" value="Kembali Ke List" onclick="goBack()"></div>-->
+                            </div>
+            
+            <script>
+            Galleria.loadTheme('http://www.ppk-kp3k.kkp.go.id/direktori-pulau/galleria/themes/classic/galleria.classic.min.js');
+            Galleria.run('#galleria');
+            </script>
+</div>
+
+<div id="text_warp">
+
+
+<p><h1>GOSONG MAKASAR</h1></p>
+<table>
+<tr>
+	<td>Nama Lain</td> <td>:</td> <td></td>
+</tr>
+<tr>
+	<td>Propinsi</td> <td>:</td> <td>KALIMANTAN UTARA</td>
+</tr>
+<tr>
+	<td>Kabupaten</td> <td>:</td> <td>KABUPATEN NUNUKAN</td>
+</tr>
+<tr>
+	<td>Kecamatan</td> <td>:</td> <td>SEBATIK</td>
+</tr>
+<tr>
+	<td>Koordinat</td> <td>:</td> <td><a href="http://www.ppk-kp3k.kkp.go.id/giskkp/index.html?extent=13071086.6448 414281.4011,13217845.7391 473978.7201"target="_blank"><p>
+	4&deg; 0&#39; 38,000&quot; LU - 118&deg; 4&#39; 58,000&quot; BT</p>
+</a></td>
+</tr>
+</table>
+<hr>
+
+<h2><a id="gu">Gambaran Umum</a></h2>
+<p><div class="readmore"><p>
+	&nbsp;</p>
+<p>
+	Gosong Makasar merupakan gosong pasir yang terletak di laut Sulawesi, yang berada di permukaan air laut.&nbsp; Gosong Makassar dapat ditandai oleh perairan yang dangkal dan terdapatnya menara suar.&nbsp; Oleh karena daratannya hampir selalu berada di bawah permukaan air laut maka tidak dijumpai vegetasi pada gosong ini.</p>
+<p>
+	Gosong Makasar termasuk ke dalam wilayah administrasi Kecamatan Sebatik, Kabupaten Nunukan, Provinsi Kalimantan Timur. Di Gosong Makkasar rencananya akan ditetapkan sebagai salah satu titik dasar, yaitu CTD.026E, dan calon titik referensi CTR.036E . Gosong Makassar terletak pada koordinat 03<sup>o </sup>59&#39; 25&quot; LU dan 117<sup>o</sup> 57&#39; 42&rdquo; BT. Gosong Makassar yang terletak di sebelah Selatan Pulau Sebatik berada di perairan laut Sulawesi.</p>
+<p>
+	Gosong Makasar dapat dicapai dengan mudah.&nbsp; Dari Kota Nunukan dengan menggunakan speed boat atau kapal nelayan menuju arah Tenggara tepat di Selatan Pulau Sebatik dengan waktu tempuh dengan spped boat sekitar 1&nbsp; - 2 jam.&nbsp; Sedangkan jika menggunakan kapal nelayan sekitar 3-4 jam. &nbsp;Perjalanan ke Nunukan dari Kota Tarakan dapat di tempuh melalui laut dengan menggunakan kapal cepat sekitar 4 jam atau dapat menggunakan pesawat terbang dengan waktu sekitar 45 menit dengan jadwal penerbangan 3 kali dalam seminggu.&nbsp; Seddangkan untuk menuju ke Tarakan, saat ini sudah sangat banyak penerbangan dan jalur laut yang dapat digunakan.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="ksbk">Kependudukan, Sosial Budaya dan Kelembagaan</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<h2><a id="eshp">Ekosistem dan Sumberdaya Hayati</a></h2>
+<p><div class="readmore"><p>
+	&nbsp;</p>
+<p>
+	<strong>Terumbu Karang</strong></p>
+<p>
+	Tutupan dasar perairan di Gosong Makassar didominasi oleh rataan pasir dengan tekstur kasar.&nbsp; Terumbu karang hanya didapati pada beberapa bagian gosong dan tumbuh secara sporadis dan kelompok-kelompok kecil.&nbsp; Sebaran terumbu karang di Gosong Makassar terdapat pada kedalaman antara 2 &ndash; 9 meter dari permukaan laut.&nbsp; Persentase penutupan karang hidup adalah hanya 2 %, sedangkan pasir sangat mendominasi dengan persentase 67 % dan rubbles 31 %.&nbsp; Kondisi ini menunjukkan bahwa kondisi terumbu karang di Gosong Makassar tidak dapat tumbuh secara baik dan maksimal, atau dengan kata lain berada dalam kondisi sangat memprihatinkan.</p>
+<p>
+	<strong>Ikan Karang</strong></p>
+<p>
+	Karang yang tumbuh secara sporadis dan dalam koloni yang kecil-kecil tidak mendukung kehidupan berbagai organisme yang biasanya hidup berinteraksi dengan terumbu karang. Dari hasil pengamatan lapangan, tidak ditemui adanya kelimpahan ikan karang (ikan-ikan yang berasosiasi dengan karang).&nbsp; Jumlah jenis ikan karang tercatat 6 jenis. Jumlah individu yang sempat tercatat sebanyak 36 individu.&nbsp; Jenis-jenis target ekonomis seperti ikan pisang-pisang (<em>Caesionidae</em>), dan ikan putih (<em>Carangidae</em>).&nbsp; Jenis ikan hias yakni dari betok laut (<em>Pomacentridae</em>) merupakan kelompok ikan yang sering mendominasi ikan-ikan terumbu karang dan tergolong dalam kelompok ikan mayor.&nbsp; Sedangkan ikan-ikan indicator dari kelompok ikan kepe-kepe famili (<em>Chaetodontidae</em>) juga ditemukan dalam jumlah yang relatif sangat kecil. &nbsp;</p>
+</div></p>
+
+<hr>
+
+<h2><a id="snh">Sumberdaya Non Hayati</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<h2><a id="aps">Aktivitas Pengelolaan Sumberdaya</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<h2><a id="ling">Lingkungan</a></h2>
+<p><div class="readmore"><p>
+	&nbsp;</p>
+<p>
+	Gosong Makassar merupakan gosong pasir yang dalam kondisi air pasang atau pun surut tidak muncul ke permukaan laut dengan profil yang relatif datar dengan kedalaman antara 0,5 &ndash; 6 meter dari permukaan laut.</p>
+<p>
+	Secara umum kondisi iklim di Gosong Makassar sama dengan kondisi iklim di Pulau Maratua dan iklim di Provinsi Kalimantan Timur pada umumnya, yaitu adanya musim kemarau dan musim hujan.&nbsp; Musim kemarau terjadi pada bulan Mei sampai dengan bulan Oktober, sedangkan musim hujan terjadi pada bulan November sampai dengan bulan April.&nbsp; Keadaan ini terus berlangsung setiap tahun yang diselingi oleh musim peralihan. Selain itu, karena terletak di daerah katulistiwa maka iklim di Gosong Makassar dipengaruhi oleh angin Muson, yaitu angin Muson Barat pada November-April dan angin Muson Timur pada bulan Mei - Oktober.&nbsp; Gosong Makassar secara umum beriklim panas dengan suhu udara pada tahun 2004 berkisar 17,90 &ndash; 35,40 <sup>o</sup>C.&nbsp; Berdasarkan data stasiun klimatologi periode 1998-2000, curah hujan rata-rata 2.280 mm/tahun dengan bulan basah terjadi pada bulan Mei, Juni, Oktober ,Desember (curah hujan &gt; 200 mm/bulan) dan tanpa bulan kering (&lt; 100 mm/bulan).&nbsp; Di luar bulan-bulan tersebut curah hujan berkisar 100-200 mm/bulan.</p>
+<p>
+	Kondisi pasang surut di pesisir perairan Gosong Makassar termasuk pasang surut campuran, cenderung bersifat harian ganda (<em>mixed prevailing semi diurnal</em>) dengan 2 kali pasang dan 2 kali surut dalam sehari dengan amplitudo dan periode pasang surut yang berbeda serta tunggang air (<em>tidal range</em>) maksimum 2,8 m. Sedangkan kecepatan arus maksimum di perairan pesisir Gosong Makassar terjadi pada saat pergerakan pasang surut terbesar, yaitu saat <em>neap tide</em> dan <em>spring tide,</em> dengan kecepatan arus rata-rata 0,615 meter/detik.&nbsp; Kecepatan arus di perairan ini semakin berkurang seiring dengan bertambahnya kedalaman perairan.&nbsp; Pola arah arus di perairan gosong makassar cenderung mengarah ke Barat Daya dengan kisaran sudut 190<sup>o</sup> &ndash; 120<sup>o</sup>. &nbsp;</p>
+<p>
+	Suhu permukaan dan suhu dasar di perairan Gosong Makassar cenderung homogen dengan rata-rata suhu 28,9 <sup>o</sup>C.&nbsp;&nbsp; Salinitas perairan di sekitar Gosong Makassar cenderung homogen dengan rata-rata 32.5 <sup>o</sup>/<sub>oo</sub>.&nbsp; Kecerahan perairan di sekeliling Gosong Makassar pada kedalaman hingga 10 meter mencapai 100%.&nbsp; Nilai rata-rata oksigen terlarut (DO) di sekitar Gosong Makassar sebesar 5,3 mg/l.&nbsp; Nilai rata-rata kandungan nitrat di sekitar perairan Gosong Makassar sebesar 0.05 mg/l dan fosfat 0,095 mg/l.&nbsp;</p>
+</div></p>
+
+<hr>
+
+<h2><a id="sp">Sarana dan Prasarana</a></h2>
+<p><div class="readmore"><p>
+	&nbsp;</p>
+<p>
+	Gosong Makassar adalah salah satu dari pulau-pulau kecil terluar yang ada di Indonesia dan tidak berpenduduk atau berpenghuni.&nbsp; Gosong ini tidak nampak muncul kepermukaan perairan pada siklus pasang surut yang terjadi, atau dengan kata lain fisik gosong ini senantiasa berada dalam kondisi tenggelam.&nbsp; Keberadaan Gosong Makassar ini ditandai dengan adanya 2 (dua) buah menara lampu navigasi bertenaga matahari (<em>solarsel</em>). Gosong Makassar kerap kali digunakan sebagai tempat berteduh dan berlindung dari gelombang besar dan arus kencang oleh nelayan yang mencari ikan di sekitar kawasan ini.&nbsp; Keberadaan gosong ini menjadi breaker atau pelindung dari hempasan gelombang besan dan arus kencang.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="pi">Peluang Investasi</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<h2><a id="pap">Potensi dan Arahan Pengembangan</a></h2>
+<p><div class="readmore"><p>
+	Permasalahan utama dari Gosong Makassar ini adalah, tidak ada daratan kering yang menandai secara fisik keberadaan gosong ini. Kondisi ini menyulitkan untuk mengidentifikasi gosong ini secara visual dan menjadi pembatas dari pembuatan infrastruktur ke depan. Berdasarkan kondisi ini, pengembangan Gosong Makassar kedepan lebih ditekankan pada upaya mempertahankan keberadaan fisik gosong dengan pembangunan penahan abrasi dan di sektor hukum dengan peningkatan pengawasan dan penegakan hukum di kawasan ini, khususnya di sekitar perairan pulau.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="kp">Kendala Pengembangan</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<h2><a id="rf">Referensi</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<br />
+	<i> 
+		<p style="font-size:12px;">
+			Karena keterbatasan SDM dalam penginputan dan pengolahan data, kami mohon maaf atas ketidak lengkapan beberapa data pulau yang kami tampilkan, harap dimaklumi.
+			Berikan keritik dan saran pada kolom komentar agar kita dapat bersama menyajikan sebuah data yang cukup sempurna untuk halayak ramai yang berguna
+			demi kesejahterahan, kelestarian dan keindahan pulau-pulau kecil yang dimiliki Indonesia.<br />
+			*Jika sekiranya anda memiliki data yang cukup banyak, silakan mengirimkan file melalui email kami di <b><a>identifikasippk@gmail.com</a></b>
+			
+		</p>
+	</i>
+<br />
+
+<div id="fb_comn" class="fb-comments" data-href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_info/410" data-width="800" data-numposts="5" data-colorscheme="light"></div>
+
+
+</div>
+</div>
+</div>
+<div id="wrapper">
+
+<div class="footer"><p>
+<!--<marquee onmouseover="this.stop()" onmouseout="this.start()" scrollamount="5" direction="right" width="798" height="14"  behavior="scroll">-->
+<a href="http://www.ppk-kp3k.kkp.go.id/" target="_blank">Direktorat Pendayagunaan Pulau-Pulau Kecil &nbsp; | &nbsp;</a>
+<a href="http://www.kp3k.kkp.go.id/" target="_blank">Ditjen Kelautan, Pesisir dan Pulau-Pulau Kecil &nbsp; | &nbsp;</a>
+<a href="http://www.kkp.go.id/" target="_blank">Kementerian Kelautan dan Perikanan</a>
+<!--</marquee>--> <br />
+Jl. Medan Merdeka Timur No. 16 Gedung Mina Bahari 3 Lantai 10, Jakarta, Indonesia <br />
+Email : identifikasippk@gmail.com <br />
+Telp &amp; Fax: (021) 3522058 <br />
+&copy; Copyright Direktorat Pendayagunaan Pulau-Pulau Kecil 2012&nbsp; <br /></p>
+</div>
+</div>
+</body>
+</html>

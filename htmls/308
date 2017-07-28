@@ -1,0 +1,874 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Pulau MARAMPIT</title>
+
+<meta charset="utf-8"/>
+
+<meta property="fb:app_id" content="559408774147878" />
+
+
+<meta property="og:title" content="Pulau MARAMPIT" />
+<meta property="og:url" content="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_info/308" />
+
+
+    <script type="text/javascript" src="http://ajax.microsoft.com/ajax/jquery/jquery-1.4.4.min.js">
+    </script>
+    
+    <script type="text/javascript" src="http://plugins.learningjquery.com/expander/jquery.expander.js">
+    </script>
+    
+    <script type="text/javascript">
+        $(function () {
+            $('div.readmore').expander({
+                slicePoint:200,
+                expandText: '(Baca selengkapnya)',
+                userCollapseText: '(Sembunyikan selengkapnya)'
+            });
+        });
+    </script>
+        
+	<script src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/galleria/galleria-1.2.8.min.js"></script>
+
+        <SCRIPT TYPE="text/javascript">
+            <!--
+            //Disable right click script
+            //visit http://www.rainbow.arch.scriptmania.com/scripts/
+            var message="Sorry, right-click has been disabled";
+            ///////////////////////////////////
+            function clickIE() {if (document.all) {(message);return false;}}
+            function clickNS(e) {if
+            (document.layers||(document.getElementById&&!document.all)) {
+            if (e.which==2||e.which==3) {(message);return false;}}}
+            if (document.layers)
+            {document.captureEvents(Event.MOUSEDOWN);document.onmousedown=clickNS;}
+            else{document.onmouseup=clickNS;document.oncontextmenu=clickIE;}
+            document.oncontextmenu=new Function("return false")
+            // -->
+            </SCRIPT>
+            
+            <SCRIPT TYPE="text/javascript">
+            <!--
+            //Disable select-text script (IE4+, NS6+)
+            //visit http://www.rainbow.arch.scriptmania.com/scripts/
+            ///////////////////////////////////
+            function disableselect(e){
+            return false
+            }
+            function reEnable(){
+            return true
+            }
+            //if IE4+
+            document.onselectstart=new Function ("return false")
+            //if NS6
+            if (window.sidebar){
+            document.onmousedown=disableselect
+            document.onclick=reEnable
+            }
+            // -->
+            </SCRIPT>  
+              
+<link rel="stylesheet" type="text/css" href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/css/main.css" media="screen"/>
+<style type='text/css'>
+#info_wrap{
+	width:820px;
+	margin:0 auto;
+	text-shadow:0px 1px 1px #09F;
+}
+table{
+	color:#000000;
+}
+h1{
+	color:#000000;
+}
+.tengahin{
+	width: 105px;
+	height: 30px;
+	margin: 0 auto auto auto;
+}
+#box_view{
+	background-image:-webkit-gradient(linear, 0 0%, 0 100%, from(#FFFFFF), to(#E0F0F5));
+	background:#FFF;
+	color:#F60;
+	border: 1px solid #fff;
+	border-radius: 4px 4px 4px 4px;
+	box-shadow: 0 8px 6px -6px black;
+	position:fixed;
+	right:0;
+	top:150px;;
+	width:80px;
+	z-index:10;
+	padding-left:12px;
+	font-size:10px;
+	}
+#box_view li{
+	color:#F60;
+	margin-left:-30px;
+	}
+	#wrapper a b {
+	color: #FFF;
+	font-size:14px;
+}
+.batas{
+	float:left;
+	border-right-style:inset;
+	border-right-width:thin;
+	}
+.text_h_wrap{
+	
+	padding-left:450px;
+	padding-top:39px;
+	text-shadow:0px 1px 1px #09F;
+	}
+#wrapper .footer p{
+	font-size:12px;
+	color: #FFF;
+	text-align:center;
+	text-shadow:0px 1px 1px #09F;
+}
+td,th {
+	font-size: 12px;
+}
+
+marquee a{
+	color:#FFF
+	}
+#wrapper .footer a{
+	color: #FFFFFF;
+}
+</style>
+            
+<script>
+function goBack()
+  {
+  window.history.back()
+  }
+</script>
+<script type="text/javascript">
+function Popup( url, height, width )
+{
+    var windowProperties = "toolbar = 0, scrollbars = 1, location = 0, statusbar = 0, menubar = 0, resizable = 1, width = " + width + ", height = " + height + ", left = 50, top = 50";
+ 
+    return window.open( url, "", windowProperties );
+}
+</script>
+
+
+
+</head>
+<body oncontextmenu='return false;' onkeydown='return false;' onmousedown='return false;'>
+
+<a id="top_view"></a>
+<div id="wrapper">
+<div class="header_wrap">
+<div class="text_h_wrap">
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/home_page'><b>&nbsp;Home&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/menu_info/1'><b>&nbsp;About Us&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_data'><b>&nbsp;Direktori Pulau&nbsp;&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/program_ip'><b>&nbsp;IKU&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/data_ppkt'><b>&nbsp;PPKT&nbsp;</b></a>
+</div>
+<!--<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/maintenance'><b>&nbsp;Login&nbsp;</b></a>-->
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/dir_log_cont'><b>&nbsp;Login&nbsp;</b></a>
+
+</div>
+</div>
+</div>
+
+<div id="fb-root"></div>
+<script>
+  window.fbAsyncInit = function() {
+    // init the FB JS SDK
+    FB.init({
+      appId      : '559408774147878',                        // App ID from the app dashboard
+      status     : true,                                 // Check Facebook Login status
+      xfbml      : true                                  // Look for social plugins on the page
+    });
+
+    // Additional initialization code such as adding Event Listeners goes here
+  };
+
+  // Load the SDK asynchronously
+  (function(){
+     // If we've already installed the SDK, we're done
+     if (document.getElementById('facebook-jssdk')) {return;}
+
+     // Get the first script element, which we'll use to find the parent node
+     var firstScriptElement = document.getElementsByTagName('script')[0];
+
+     // Create a new script element and set its id
+     var facebookJS = document.createElement('script'); 
+     facebookJS.id = 'facebook-jssdk';
+
+     // Set the new script's source to the source of the Facebook JS SDK
+     facebookJS.src = '//connect.facebook.net/en_US/all.js';
+
+     // Insert the Facebook JS SDK into the DOM
+     firstScriptElement.parentNode.insertBefore(facebookJS, firstScriptElement);
+   }());
+</script>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=559408774147878";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="box_view">
+    <a href="#top_view">MENU</a>
+    <h3><p>Lihat Informasi:</p></h3>
+    <ul>
+	<a href="#sf"><li>Slide Foto</li></a>
+    <a href="#gu"><li>Gambaran Umum</li></a>
+    <a href="#ksbk"><li>Kependudukan, Sosial Budaya dan Kelembagaan</li></a>
+    <a href="#eshp"><li>Ekosistem dan Sumberdaya Hayati</li></a>
+    <a href="#snh"><li>Sumberdaya Non Hayati</li></a>
+    <a href="#aps"><li>Aktivitas Pengelolaan Sumberdaya</li></a>
+    <a href="#ling"><li>Lingkungan</li></a>
+    <a href="#sp"><li>Sarana dan Prasarana</li></a>
+    <a href="#pi"><li>Peluang Investasi</li></a>
+    <a href="#pap"><li>Potensi Arahan Pengembangan</li></a>
+    <a href="#kp"><li>Kendala Pengembangan</li></a>
+	<a href="#rf"><li>Referensi</li></a>
+    </ul>
+    <a href="#fb_comn">KOMENTAR</a>
+</div>
+
+<br>
+			<a id="sf"></a></h2>
+			<div id="galleria">
+            <!--<div class='tengahin'><input type="button" value="Kembali Ke List" onclick="goBack()"></div>-->
+                            </div>
+            
+            <script>
+            Galleria.loadTheme('http://www.ppk-kp3k.kkp.go.id/direktori-pulau/galleria/themes/classic/galleria.classic.min.js');
+            Galleria.run('#galleria');
+            </script>
+</div>
+
+<div id="text_warp">
+
+
+<p><h1>MARAMPIT</h1></p>
+<table>
+<tr>
+	<td>Nama Lain</td> <td>:</td> <td></td>
+</tr>
+<tr>
+	<td>Propinsi</td> <td>:</td> <td>SULAWESI UTARA</td>
+</tr>
+<tr>
+	<td>Kabupaten</td> <td>:</td> <td>KABUPATEN KEPULAUAN TALAUD</td>
+</tr>
+<tr>
+	<td>Kecamatan</td> <td>:</td> <td>NANUSA</td>
+</tr>
+<tr>
+	<td>Koordinat</td> <td>:</td> <td><a href="http://www.ppk-kp3k.kkp.go.id/giskkp/index.html?extent=14142858.4389 525705.9940 14161203.3257 533120.3857"target="_blank"><p>
+	4&deg; 45&#39; 11,115&quot; LU - 127&deg; 7&#39; 43,390&quot; BT</p>
+</a></td>
+</tr>
+</table>
+<hr>
+
+<h2><a id="gu">Gambaran Umum</a></h2>
+<p><div class="readmore"><p>
+	&nbsp;</p>
+<p>
+	Pulau Marampit&nbsp; merupakan salah satu pulau kecil terluar yang dimiliki oleh Provinsi Sulawesi Utara dari 11 pulau yang ada. Pulau ini terletak dibagian utara Pulau Sulawesi dan berbatasan langsung dengan Philipina. Pulau ini merupakan pulau berpenghuni dengan jumlah penduduk sekitar 1.273 jiwa. Pulau Marampit dengan luas 12 km<sup>2</sup>, memiliki 3 buah kampung, yaitu Kampung Marampit,&nbsp; Kampung Laluhe dan Kampung Dampulis.&nbsp; Penduduk yang mendiami Pulau Marampit sudah ada jauh sebelum bangsa Spanyol datang ke Indonesia.</p>
+<p>
+	Seperti pulau terluar lainnya, Pulau Marampit memiliki Titik Dasat (TD) 057A dan Titik Referensi (TR) 057.</p>
+<p>
+	<strong>ADMINISTRATIF</strong></p>
+<p>
+	Secara administrasi Pulau ini masuk kedalam administasi Kecamatan Nanusa, Kabupaten Kepulauan Talaud, Provinsi Sulawesi Utara.</p>
+<p>
+	<strong>KONDISI GEOGRAFIS</strong></p>
+<p>
+	Secara geografis pulau in terletak pada posisi 4<sup>o</sup>45&rsquo;12&rdquo; LU dan 127<sup>o</sup>07&rsquo;42&rdquo; BT. Pulau Marampit dibatasi oleh Samudera Pasifik disebelah Utara dan Timur. Pulau Karatung disebelah Barat dan di sebelah Selatan dengan Selat Pulau Mangupung.</p>
+<p>
+	Pulau Marampit merupakan pulau kecil terluar yang memanjang dari utara ke selatan dan banyak ditumbuhi pohon kelapa. Di bagian utara pulau terdapat Desa Dampulis, di bagian tengah pulau terdapat Desa Laluhe dan di selatan Desa Marampit.&nbsp; Pada bagian timur pulau terdapat perbukitan dengan ketinggian sekitar 50 meter dari permukaan laut. Perkampungan penduduk di ketiga desa tersebut umumnya terletak di bagian barat pulau. Penduduk pulau ini sebagian besar bermata pecaharian sebagai petani (terutama petani kelapa) sekaligus sebagai nelayan.</p>
+<p>
+	<strong>AKSESIBILITAS</strong></p>
+<p>
+	Saat ini sudah tersedia layanan angkutan kapal penumpang KM. Sangiang yang dilayani oleh PT. Pelni. Rute yang ditempuh adalah Bitung-Sanana-Ulusiau-Tahuna-Lirung-Karatung-Miangas-Tobelo-Buli-Gebe-Babang. Sedangkan untuk menuju ke Pulau Marampit dapat ditempuh dengan menggunakan kapal laut dari Pulau Karatung.&nbsp;</p>
+</div></p>
+
+<hr>
+
+<h2><a id="ksbk">Kependudukan, Sosial Budaya dan Kelembagaan</a></h2>
+<p><div class="readmore"><p>
+	&nbsp;</p>
+<p>
+	Sebelum orang Spanyol datang&nbsp; di Pulau Marampit,&nbsp; sudah ada penduduk yang ada di pulau ini&nbsp; namun belum ada kampung yang resmi. Ketika orang Spanyol itu bertanya kepada penduduk yang ada di perkebunan waktu itu semua yang ditanyakan dijawab dengan Marampit.&nbsp; Oleh sebab itu pulau ini dinamai Pulau Marampit dan yang menjadi kampung pertama adalah Kampung Marampit.&nbsp;</p>
+<p>
+	Setelah penduduk semakin berkembang maka mereka mulai menyebar mencari lahan perkebunan untuk menanam tanaman yang dapat dimakan atau yang menghasilkan karbohidrat. Hal ini dapat dimaklumi karena pulau yang terpencil ini sangat sulit mendapat suplai bahan makanan dari luar.&nbsp;&nbsp; Lama-kelamaan tempat mereka berkebun atau persinggahan sementara waktu menangkap ikan (<em>daseng)</em> mulai dibangun rumah-rumah tinggal dan komunitas penduduk yang baru ini menjadi suatu perkampungan seperti&nbsp; Laluhe dan Dampulis.</p>
+<p>
+	Saat ini, Pulau Marampit memiliki 1.273 jiwa penduduk, dengan jumlah kepala keluarga 324 KK. Komposisi jumlah penduduk adalah seperti tabel dibawah berikut:</p>
+<p>
+	&nbsp;</p>
+<table align="center" border="1" cellpadding="0" cellspacing="0">
+	<tbody>
+		<tr>
+			<td rowspan="2" style="width:38px;">
+				<p align="center">
+					<strong>No</strong></p>
+			</td>
+			<td rowspan="2" style="width:59px;">
+				<p align="center">
+					<strong>Nama Desa</strong></p>
+			</td>
+			<td colspan="4" style="width:180px;">
+				<p align="center">
+					<strong>J umlah Penduduk</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:32px;">
+				<p align="center">
+					<strong>KK</strong></p>
+			</td>
+			<td style="width:36px;">
+				<p align="center">
+					<strong>Laki</strong></p>
+			</td>
+			<td style="width:73px;">
+				<p align="center">
+					<strong>Perempuan</strong></p>
+			</td>
+			<td style="width:40px;">
+				<p align="center">
+					<strong>Total</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:38px;">
+				<p align="center">
+					1</p>
+			</td>
+			<td style="width:59px;">
+				<p>
+					Marampit</p>
+			</td>
+			<td style="width:32px;">
+				<p align="center">
+					169</p>
+			</td>
+			<td style="width:36px;">
+				<p align="center">
+					306</p>
+			</td>
+			<td style="width:73px;">
+				<p align="center">
+					399</p>
+			</td>
+			<td style="width:40px;">
+				<p align="center">
+					705</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:38px;">
+				<p align="center">
+					2</p>
+			</td>
+			<td style="width:59px;">
+				<p>
+					Laluhe</p>
+			</td>
+			<td style="width:32px;">
+				<p align="center">
+					72</p>
+			</td>
+			<td style="width:36px;">
+				<p align="center">
+					108</p>
+			</td>
+			<td style="width:73px;">
+				<p align="center">
+					127</p>
+			</td>
+			<td style="width:40px;">
+				<p align="center">
+					235</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:38px;">
+				<p align="center">
+					3</p>
+			</td>
+			<td style="width:59px;">
+				<p>
+					Dampulis</p>
+			</td>
+			<td style="width:32px;">
+				<p align="center">
+					83</p>
+			</td>
+			<td style="width:36px;">
+				<p align="center">
+					134</p>
+			</td>
+			<td style="width:73px;">
+				<p align="center">
+					199</p>
+			</td>
+			<td style="width:40px;">
+				<p align="center">
+					333</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<div style="clear:both;">
+	&nbsp;</div>
+<p>
+	Pendidikan penduduk Pulau Marampit sebagian besar hanya tamat sekolah dasar, namun demikian motivasi untuk melanjutkan pendidikan yang tinggi cukup baik.&nbsp;</p>
+<table align="center" border="1" cellpadding="0" cellspacing="0">
+	<tbody>
+		<tr>
+			<td rowspan="2" style="width:35px;">
+				<p align="center">
+					<strong>No</strong></p>
+			</td>
+			<td rowspan="2" style="width:69px;">
+				<p align="center">
+					<strong>Jenis Pendidikan</strong></p>
+			</td>
+			<td colspan="3" style="width:167px;">
+				<p align="center">
+					<strong>Desa</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:61px;">
+				<p align="center">
+					<strong>Marampit</strong></p>
+			</td>
+			<td style="width:48px;">
+				<p align="center">
+					<strong>Laluhe</strong></p>
+			</td>
+			<td style="width:59px;">
+				<p align="center">
+					<strong>Dampulis</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:35px;">
+				<p>
+					1</p>
+			</td>
+			<td style="width:69px;">
+				<p>
+					Sarjana</p>
+			</td>
+			<td style="width:61px;">
+				<p align="center">
+					5</p>
+			</td>
+			<td style="width:48px;">
+				<p align="center">
+					3</p>
+			</td>
+			<td style="width:59px;">
+				<p align="center">
+					1</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:35px;">
+				<p>
+					2</p>
+			</td>
+			<td style="width:69px;">
+				<p>
+					Akademi</p>
+			</td>
+			<td style="width:61px;">
+				<p align="center">
+					2</p>
+			</td>
+			<td style="width:48px;">
+				<p align="center">
+					2</p>
+			</td>
+			<td style="width:59px;">
+				<p align="center">
+					-</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:35px;">
+				<p>
+					3</p>
+			</td>
+			<td style="width:69px;">
+				<p>
+					SMA</p>
+			</td>
+			<td style="width:61px;">
+				<p align="center">
+					30</p>
+			</td>
+			<td style="width:48px;">
+				<p align="center">
+					42</p>
+			</td>
+			<td style="width:59px;">
+				<p align="center">
+					18</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:35px;">
+				<p>
+					4</p>
+			</td>
+			<td style="width:69px;">
+				<p>
+					SMP</p>
+			</td>
+			<td style="width:61px;">
+				<p align="center">
+					50</p>
+			</td>
+			<td style="width:48px;">
+				<p align="center">
+					36</p>
+			</td>
+			<td style="width:59px;">
+				<p align="center">
+					29</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:35px;">
+				<p>
+					5</p>
+			</td>
+			<td style="width:69px;">
+				<p>
+					SD</p>
+			</td>
+			<td style="width:61px;">
+				<p align="center">
+					86</p>
+			</td>
+			<td style="width:48px;">
+				<p align="center">
+					71</p>
+			</td>
+			<td style="width:59px;">
+				<p align="center">
+					42</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<div style="clear:both;">
+	&nbsp;</div>
+<p>
+	Seluruh penduduk Pulau Marampit beragama Kristen Protestan yang bernaung dalam organisasi Gereja Masehi Injili Talaud (GERMITA).&nbsp; Organisasi ini membantu dalam setiap kegiatan sebab gereja menjadi&nbsp; tempat sosialisasi&nbsp; yang sangat efektif.</p>
+<p>
+	Sebagian besar penduduk Pulau Marampit adalah nelayan, disamping itu ada yang bermata pencaharian sebagai petani, pedagang dan pegawai. Komposisi jenis pekerjaan masyarakat Pulau Marampit seperti dijelaskan pada tabel berikut:</p>
+<table align="center" border="1" cellpadding="0" cellspacing="0" style="width:274px;" width="274">
+	<tbody>
+		<tr>
+			<td rowspan="2" style="width:33px;">
+				<p align="center">
+					<strong>No</strong></p>
+			</td>
+			<td rowspan="2" style="width:65px;">
+				<p align="center">
+					<strong>Jenis Pekerjaan</strong></p>
+			</td>
+			<td colspan="3" style="width:176px;">
+				<p align="center">
+					<strong>Desa/Kampung</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:61px;">
+				<p align="center">
+					<strong>Marampit</strong></p>
+			</td>
+			<td style="width:48px;">
+				<p align="center">
+					<strong>Laluhe</strong></p>
+			</td>
+			<td style="width:67px;">
+				<p align="center">
+					<strong>Dampulis</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:33px;">
+				<p>
+					1</p>
+			</td>
+			<td style="width:65px;">
+				<p>
+					PNS</p>
+			</td>
+			<td style="width:61px;">
+				<p align="center">
+					11</p>
+			</td>
+			<td style="width:48px;">
+				<p align="center">
+					9</p>
+			</td>
+			<td style="width:67px;">
+				<p align="center">
+					6</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:33px;">
+				<p>
+					2</p>
+			</td>
+			<td style="width:65px;">
+				<p>
+					Tani</p>
+			</td>
+			<td style="width:61px;">
+				<p align="center">
+					24</p>
+			</td>
+			<td style="width:48px;">
+				<p align="center">
+					80</p>
+			</td>
+			<td style="width:67px;">
+				<p align="center">
+					23</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:33px;">
+				<p>
+					3</p>
+			</td>
+			<td style="width:65px;">
+				<p>
+					Nelayan</p>
+			</td>
+			<td style="width:61px;">
+				<p align="center">
+					32</p>
+			</td>
+			<td style="width:48px;">
+				<p align="center">
+					15</p>
+			</td>
+			<td style="width:67px;">
+				<p align="center">
+					65</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:33px;">
+				<p>
+					4</p>
+			</td>
+			<td style="width:65px;">
+				<p>
+					Tukang</p>
+			</td>
+			<td style="width:61px;">
+				<p align="center">
+					2</p>
+			</td>
+			<td style="width:48px;">
+				<p align="center">
+					11</p>
+			</td>
+			<td style="width:67px;">
+				<p align="center">
+					7</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:33px;">
+				<p>
+					5</p>
+			</td>
+			<td style="width:65px;">
+				<p>
+					Pedagang</p>
+			</td>
+			<td style="width:61px;">
+				<p align="center">
+					12</p>
+			</td>
+			<td style="width:48px;">
+				<p align="center">
+					4</p>
+			</td>
+			<td style="width:67px;">
+				<p align="center">
+					6</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:33px;">
+				<p>
+					6</p>
+			</td>
+			<td style="width:65px;">
+				<p>
+					TNI</p>
+			</td>
+			<td style="width:61px;">
+				<p align="center">
+					22</p>
+			</td>
+			<td style="width:48px;">
+				<p align="center">
+					&nbsp;</p>
+			</td>
+			<td style="width:67px;">
+				<p align="center">
+					-</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<div style="clear:both;">
+	&nbsp;</div>
+<p>
+	Masyarakat Pulau Marampit adalah masyarakat yang menjunjung tinggi adat istiadat. Banyak adat kebiasaan serta budaya yang dicerminkan dalam kehidupan sehari-hari, seperti:</p>
+<p>
+	<em>Malintukku Halele</em> (menurunkan pedang) adalah upacara adat yang dilakukan pada saat persiapan pembukaan lahan pertanian.</p>
+<p>
+	<em>Malintukku Wualan</em> (menurunkan benih) yaitu suatu upacara yang mengandung makna permohonan kepada Sang Penguasa (Tuhan Yang Maha Kuasa) agar bibit yang ditanam dapat tumbuh dengan baik.&nbsp;</p>
+<p>
+	<em>Manimbullah Sasuanna</em> (mengasapi/ menyehatkan tanaman) merupakan upacara adat meminta pertolongan Tuhan agar tanaman dapat tumbuh dengan subur.&nbsp;</p>
+<p>
+	<em>Malliano Sasuanna</em>, merupakan adat istiadat permohonan doa kepada yang Maha Kuasa agar tanaman terhindar dari penyakit.&nbsp;<em>Sawakka</em> merupakan upacara yang dilakukan saat selesai panen dan bersama-sama mengucap syukur.&nbsp;</p>
+<p>
+	<em>Ehakka</em> atau <em>Eha</em> adalah adat kebiasaat setempat yang melarang panen sebelum waktunya.</p>
+<p>
+	Disetiap desa terdapat satu gereja yang diketuai oleh ketua jemaat. Gereja menjadi tempat utama sosialisasi masyarakat di Pulau Marampit.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="eshp">Ekosistem dan Sumberdaya Hayati</a></h2>
+<p><div class="readmore"><p>
+	&nbsp;</p>
+<p>
+	Terumbu karang yang terdapat di sekeliling Pulau Marampit&nbsp; memiliki rataan terumbu yang relatif sempit dengan kemiringan profil terumbu agak curam terutama pada bagian timur pulau. Kondisi terumbu karang di sebelah barat pulau termasuk dalam kategori sedang dengan tutupan karang hidup lebih dari 30% terutama didominasi oleh genera <em>Porites</em> dan <em>Montipora.</em>&nbsp;Ikan-ikan karang relatif sedikit dan berukuran relatif besar. Ikan Kakatua, ikan Kulipaser, ikan Kerapu serta ikan Lolosi merupakan ikan-ikan target dominan penghuni terumbu karang di pulau ini.&nbsp;</p>
+<p>
+	Jenis lamun yang dominan adalah&nbsp; <em>Thalassia hemprichii</em>. Jenis-jenis <em>algae</em> bervariasi dan terdiri dari sekitar 14 jenis. Jenis yang dominan adalah <em>Halimeda cylindracea</em>.dan <em>Gracilaria verrucosa</em>. Jenis makrofauna bentik terdiri dari 17 jenis <em>moluska</em> dan 5 jenis <em>ekhinodermata</em> dari kelas <em>Asteroidea</em>, <em>Echinoidea</em> dan <em>Holothuroidea</em>. Jenis-jenis moluska yang dominan adalah dari genera <em>Cypraea </em>dan<em> Conus.</em> Sedangkan jenis-jenis ekhinodermata yang dominan adalah <em>Echinometra mathaei </em>(kelas Echinoidea), <em>Holothuria atra</em> (kelas Holothuroidea),&nbsp; <em>Linckia laevigata</em> (kelas Asteroidea). Krustasea ekonomis penting&nbsp; terdapat di perairan pesisir pulau ini adalah lobster <em>Panulirus</em> sp serta ketam kenari <em>Birgus latro</em>.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="snh">Sumberdaya Non Hayati</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<h2><a id="aps">Aktivitas Pengelolaan Sumberdaya</a></h2>
+<p><div class="readmore"><p>
+	Sebagian besar penduduk Marampit adalah Nelayan, disamping itu ada yang bermata pencaharian sebagai petani, pedagang dan pegawai.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="ling">Lingkungan</a></h2>
+<p><div class="readmore"><p>
+	&nbsp;</p>
+<p>
+	Kondisi alam Pulau Marampit terdiri dari perbukitan yang dimanfaatkan sebagai daerah perkebunan dan selebihnya dipenuhi dengan tanaman liar. Pulau ini dikeliling oleh hamparan karang dan pantai berpasir yang landai.&nbsp;</p>
+</div></p>
+
+<hr>
+
+<h2><a id="sp">Sarana dan Prasarana</a></h2>
+<p><div class="readmore"><p>
+	&nbsp;</p>
+<p>
+	Ketersediaan sarana dan prasarana di Pulau Marampit masih sangat minim. Jalan desa yang menghubungkan ketiga desa masih jalan tanah. Dermaga/pelabuhan kapal sangat dibutuhkan oleh masyarakat Pulau Marampit, karena dengan adanya dermaga ini nantinya, diharapkan distribusi bahan pokok dan pembangunan akan lancar.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="pi">Peluang Investasi</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<h2><a id="pap">Potensi dan Arahan Pengembangan</a></h2>
+<p><div class="readmore"><p>
+	&nbsp;</p>
+<p>
+	Salah satu strategi yang perlu dilakukan untuk meningkatkan taraf hidup penduduk pulau adalah melalui pemberdayaan masyarakat dengan pembinaan dan pembentukan daerah perlindungan laut berbasis masyarakat. Selain itu, perlu pembentukan kelompok nelayan serta pelatihan budidaya rumput laut, pengolahan ikan (ikan asin dan tepung ikan), ekowisata bahari,&nbsp; wisata budaya, penguatan modal serta bantuan perahu panboat berukuran besar beserta peralatan penangkap ikan untuk menangkap ikan pelagis maupun ikan hiu dalam rangkah meningkatkan kesejahteraan penduduk.</p>
+<p>
+	&nbsp;</p>
+<p>
+	<strong>Upaya Pengembangan</strong></p>
+<p>
+	Rekonstruksi dan pemeliharaan Titik Referensi (TR) dan Titik Dasar (TD), pemeliharaan Sarana Bantu Navigasi Pelayaran (SBNP), upaya penegakan hukum dan pengawasan yang dilakukan bersama-sama antara aparat yang berwenang dengan masyarakat pulau, Pengembangan perikanan tangkap dan budidaya, pembinaan dan pembentukan daerah perlindungan laut berbasis masyarakat, &nbsp; &nbsp; pembentukan kelompok nelayan &amp; pelatihan budidaya rumput laut, pengolahan ikan (ikan asin dan tepung ikan), ekowisata bahari, wisata budaya, penguatan modal serta bantuan perahu panboat berukuran besar beserta peralatan penangkap ikan untuk menangkap ikan pelagis maupun ikan hiu dalam rangkah meningkatkan kesejahteraan penduduk.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="kp">Kendala Pengembangan</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<h2><a id="rf">Referensi</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<br />
+	<i> 
+		<p style="font-size:12px;">
+			Karena keterbatasan SDM dalam penginputan dan pengolahan data, kami mohon maaf atas ketidak lengkapan beberapa data pulau yang kami tampilkan, harap dimaklumi.
+			Berikan keritik dan saran pada kolom komentar agar kita dapat bersama menyajikan sebuah data yang cukup sempurna untuk halayak ramai yang berguna
+			demi kesejahterahan, kelestarian dan keindahan pulau-pulau kecil yang dimiliki Indonesia.<br />
+			*Jika sekiranya anda memiliki data yang cukup banyak, silakan mengirimkan file melalui email kami di <b><a>identifikasippk@gmail.com</a></b>
+			
+		</p>
+	</i>
+<br />
+
+<div id="fb_comn" class="fb-comments" data-href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_info/308" data-width="800" data-numposts="5" data-colorscheme="light"></div>
+
+
+</div>
+</div>
+</div>
+<div id="wrapper">
+
+<div class="footer"><p>
+<!--<marquee onmouseover="this.stop()" onmouseout="this.start()" scrollamount="5" direction="right" width="798" height="14"  behavior="scroll">-->
+<a href="http://www.ppk-kp3k.kkp.go.id/" target="_blank">Direktorat Pendayagunaan Pulau-Pulau Kecil &nbsp; | &nbsp;</a>
+<a href="http://www.kp3k.kkp.go.id/" target="_blank">Ditjen Kelautan, Pesisir dan Pulau-Pulau Kecil &nbsp; | &nbsp;</a>
+<a href="http://www.kkp.go.id/" target="_blank">Kementerian Kelautan dan Perikanan</a>
+<!--</marquee>--> <br />
+Jl. Medan Merdeka Timur No. 16 Gedung Mina Bahari 3 Lantai 10, Jakarta, Indonesia <br />
+Email : identifikasippk@gmail.com <br />
+Telp &amp; Fax: (021) 3522058 <br />
+&copy; Copyright Direktorat Pendayagunaan Pulau-Pulau Kecil 2012&nbsp; <br /></p>
+</div>
+</div>
+</body>
+</html>

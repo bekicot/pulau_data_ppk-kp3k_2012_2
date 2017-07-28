@@ -1,0 +1,422 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Pulau YIEW</title>
+
+<meta charset="utf-8"/>
+
+<meta property="fb:app_id" content="559408774147878" />
+
+
+<meta property="og:title" content="Pulau YIEW" />
+<meta property="og:url" content="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_info/417" />
+
+
+    <script type="text/javascript" src="http://ajax.microsoft.com/ajax/jquery/jquery-1.4.4.min.js">
+    </script>
+    
+    <script type="text/javascript" src="http://plugins.learningjquery.com/expander/jquery.expander.js">
+    </script>
+    
+    <script type="text/javascript">
+        $(function () {
+            $('div.readmore').expander({
+                slicePoint:200,
+                expandText: '(Baca selengkapnya)',
+                userCollapseText: '(Sembunyikan selengkapnya)'
+            });
+        });
+    </script>
+        
+	<script src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/galleria/galleria-1.2.8.min.js"></script>
+
+        <SCRIPT TYPE="text/javascript">
+            <!--
+            //Disable right click script
+            //visit http://www.rainbow.arch.scriptmania.com/scripts/
+            var message="Sorry, right-click has been disabled";
+            ///////////////////////////////////
+            function clickIE() {if (document.all) {(message);return false;}}
+            function clickNS(e) {if
+            (document.layers||(document.getElementById&&!document.all)) {
+            if (e.which==2||e.which==3) {(message);return false;}}}
+            if (document.layers)
+            {document.captureEvents(Event.MOUSEDOWN);document.onmousedown=clickNS;}
+            else{document.onmouseup=clickNS;document.oncontextmenu=clickIE;}
+            document.oncontextmenu=new Function("return false")
+            // -->
+            </SCRIPT>
+            
+            <SCRIPT TYPE="text/javascript">
+            <!--
+            //Disable select-text script (IE4+, NS6+)
+            //visit http://www.rainbow.arch.scriptmania.com/scripts/
+            ///////////////////////////////////
+            function disableselect(e){
+            return false
+            }
+            function reEnable(){
+            return true
+            }
+            //if IE4+
+            document.onselectstart=new Function ("return false")
+            //if NS6
+            if (window.sidebar){
+            document.onmousedown=disableselect
+            document.onclick=reEnable
+            }
+            // -->
+            </SCRIPT>  
+              
+<link rel="stylesheet" type="text/css" href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/css/main.css" media="screen"/>
+<style type='text/css'>
+#info_wrap{
+	width:820px;
+	margin:0 auto;
+	text-shadow:0px 1px 1px #09F;
+}
+table{
+	color:#000000;
+}
+h1{
+	color:#000000;
+}
+.tengahin{
+	width: 105px;
+	height: 30px;
+	margin: 0 auto auto auto;
+}
+#box_view{
+	background-image:-webkit-gradient(linear, 0 0%, 0 100%, from(#FFFFFF), to(#E0F0F5));
+	background:#FFF;
+	color:#F60;
+	border: 1px solid #fff;
+	border-radius: 4px 4px 4px 4px;
+	box-shadow: 0 8px 6px -6px black;
+	position:fixed;
+	right:0;
+	top:150px;;
+	width:80px;
+	z-index:10;
+	padding-left:12px;
+	font-size:10px;
+	}
+#box_view li{
+	color:#F60;
+	margin-left:-30px;
+	}
+	#wrapper a b {
+	color: #FFF;
+	font-size:14px;
+}
+.batas{
+	float:left;
+	border-right-style:inset;
+	border-right-width:thin;
+	}
+.text_h_wrap{
+	
+	padding-left:450px;
+	padding-top:39px;
+	text-shadow:0px 1px 1px #09F;
+	}
+#wrapper .footer p{
+	font-size:12px;
+	color: #FFF;
+	text-align:center;
+	text-shadow:0px 1px 1px #09F;
+}
+td,th {
+	font-size: 12px;
+}
+
+marquee a{
+	color:#FFF
+	}
+#wrapper .footer a{
+	color: #FFFFFF;
+}
+</style>
+            
+<script>
+function goBack()
+  {
+  window.history.back()
+  }
+</script>
+<script type="text/javascript">
+function Popup( url, height, width )
+{
+    var windowProperties = "toolbar = 0, scrollbars = 1, location = 0, statusbar = 0, menubar = 0, resizable = 1, width = " + width + ", height = " + height + ", left = 50, top = 50";
+ 
+    return window.open( url, "", windowProperties );
+}
+</script>
+
+
+
+</head>
+<body oncontextmenu='return false;' onkeydown='return false;' onmousedown='return false;'>
+
+<a id="top_view"></a>
+<div id="wrapper">
+<div class="header_wrap">
+<div class="text_h_wrap">
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/home_page'><b>&nbsp;Home&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/menu_info/1'><b>&nbsp;About Us&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_data'><b>&nbsp;Direktori Pulau&nbsp;&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/program_ip'><b>&nbsp;IKU&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/data_ppkt'><b>&nbsp;PPKT&nbsp;</b></a>
+</div>
+<!--<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/maintenance'><b>&nbsp;Login&nbsp;</b></a>-->
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/dir_log_cont'><b>&nbsp;Login&nbsp;</b></a>
+
+</div>
+</div>
+</div>
+
+<div id="fb-root"></div>
+<script>
+  window.fbAsyncInit = function() {
+    // init the FB JS SDK
+    FB.init({
+      appId      : '559408774147878',                        // App ID from the app dashboard
+      status     : true,                                 // Check Facebook Login status
+      xfbml      : true                                  // Look for social plugins on the page
+    });
+
+    // Additional initialization code such as adding Event Listeners goes here
+  };
+
+  // Load the SDK asynchronously
+  (function(){
+     // If we've already installed the SDK, we're done
+     if (document.getElementById('facebook-jssdk')) {return;}
+
+     // Get the first script element, which we'll use to find the parent node
+     var firstScriptElement = document.getElementsByTagName('script')[0];
+
+     // Create a new script element and set its id
+     var facebookJS = document.createElement('script'); 
+     facebookJS.id = 'facebook-jssdk';
+
+     // Set the new script's source to the source of the Facebook JS SDK
+     facebookJS.src = '//connect.facebook.net/en_US/all.js';
+
+     // Insert the Facebook JS SDK into the DOM
+     firstScriptElement.parentNode.insertBefore(facebookJS, firstScriptElement);
+   }());
+</script>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=559408774147878";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="box_view">
+    <a href="#top_view">MENU</a>
+    <h3><p>Lihat Informasi:</p></h3>
+    <ul>
+	<a href="#sf"><li>Slide Foto</li></a>
+    <a href="#gu"><li>Gambaran Umum</li></a>
+    <a href="#ksbk"><li>Kependudukan, Sosial Budaya dan Kelembagaan</li></a>
+    <a href="#eshp"><li>Ekosistem dan Sumberdaya Hayati</li></a>
+    <a href="#snh"><li>Sumberdaya Non Hayati</li></a>
+    <a href="#aps"><li>Aktivitas Pengelolaan Sumberdaya</li></a>
+    <a href="#ling"><li>Lingkungan</li></a>
+    <a href="#sp"><li>Sarana dan Prasarana</li></a>
+    <a href="#pi"><li>Peluang Investasi</li></a>
+    <a href="#pap"><li>Potensi Arahan Pengembangan</li></a>
+    <a href="#kp"><li>Kendala Pengembangan</li></a>
+	<a href="#rf"><li>Referensi</li></a>
+    </ul>
+    <a href="#fb_comn">KOMENTAR</a>
+</div>
+
+<br>
+			<a id="sf"></a></h2>
+			<div id="galleria">
+            <!--<div class='tengahin'><input type="button" value="Kembali Ke List" onclick="goBack()"></div>-->
+                            </div>
+            
+            <script>
+            Galleria.loadTheme('http://www.ppk-kp3k.kkp.go.id/direktori-pulau/galleria/themes/classic/galleria.classic.min.js');
+            Galleria.run('#galleria');
+            </script>
+</div>
+
+<div id="text_warp">
+
+
+<p><h1>YIEW</h1></p>
+<table>
+<tr>
+	<td>Nama Lain</td> <td>:</td> <td>JIU, JIEW</td>
+</tr>
+<tr>
+	<td>Propinsi</td> <td>:</td> <td>MALUKU UTARA</td>
+</tr>
+<tr>
+	<td>Kabupaten</td> <td>:</td> <td>KABUPATEN HALMAHERA TENGAH</td>
+</tr>
+<tr>
+	<td>Kecamatan</td> <td>:</td> <td>PATANI UTARA</td>
+</tr>
+<tr>
+	<td>Koordinat</td> <td>:</td> <td><a href="http://www.ppk-kp3k.kkp.go.id/giskkp/index.html?extent=14370921.9644 78648.6632,14380094.4078 82379.7456"target="_blank"><p>
+	0&deg; 43&#39; 34,000&quot; LU - 129&deg; 8&#39; 14,000&quot; BT</p>
+</a></td>
+</tr>
+</table>
+<hr>
+
+<h2><a id="gu">Gambaran Umum</a></h2>
+<p><div class="readmore"><p>
+	&nbsp;</p>
+<p style="text-align: justify;">
+	Pulau Jiu merupakan salah satu pulau pulau terluar yang terdapat di Provinsi Maluku Utara. Pulau ini terletak di sebelah Timur Pulau Halmahera dan berada di perairan Samudera Pasifik. Pulau ini berbatasan langsung dengan Negara Palau. Pulau ini memiliki Titik Dasar (TD) 063 dan Titik Referensi (TR) 063 dengan luas &plusmn; 0.7 km<sup>2</sup>.</p>
+<p style="text-align: justify;">
+	Secara bio-ekologis Pulau Jiu memiliki keunikan sumberdaya alam flora dan fauna. Sampai saat ini terdapat jenis biota laut yang belum teridentifikasi dengan baik baik jenis dan jumlahnya.Secara administrasi Pulau Jiu masuk wilayah Kecamatan Patani Utara, Kabupaten Halmahera Tengah, Provinsi Maluku Utara. Pulau ini terletak pada posisi 00<sup>o</sup>43&lsquo;34&ldquo;LU dan 129<sup>o</sup>08&lsquo;29&ldquo;BT. Pulau Jiu berjarak kurang lebih 36 mil &nbsp;pesisir bagian timur Pulau Halmahera.</p>
+<p style="text-align: justify;">
+	Untuk menuju Pulau Jiu dapat ditempuh melalui perjalanan darat dan laut. Perjalanan laut ditempuh dalam waktu 19 jam dengan menggunakan pelayaran reguler dari Ternate menuju Kecamatan Patani Utara, dan dilanjutkan dengan <em>speed boat</em> selama 1.5 jam menuju Pulau Jiu. Sedangkan perjalanan darat diawali dengan menyeberang dari Ternate ke Sidangoli (Kabupaten Halmahera Barat), dengan menggunakan <em>speed boat, </em>selanjutnya dilanjutkan dengan mobil atau kendaraan roda 2 menuju ke Maba (Halmahera Timur) dengan waktu tempuh 8 jam.Selanjutnya dilanjutkan perjalanan laut kembali menuju Pulau Jiu menggunakan <em>speed boat</em> dengan waktu tempuh 3 jam perjalanan. &nbsp;</p>
+</div></p>
+
+<hr>
+
+<h2><a id="ksbk">Kependudukan, Sosial Budaya dan Kelembagaan</a></h2>
+<p><div class="readmore"><p>
+	&nbsp;</p>
+<p style="text-align: justify;">
+	Pulau Jiu pertama kali disebut dengan nama Iaw yang artinya pulau burung, karena di pula ini terdapat burung emas yang oleh masyarakat Patani disebut Iaw. Inilah cikal bakal nama menjadi Jiu. Secara yuridis Pulau Jiu merupakan bagian dari wilayah Kesultanan Tidore yang ditertibkan pada masa Pemerintahan Sultan Tidore pertama Bakir Nakir Asfarifani pada tahun 1306. Dan kemudian pada masa Pemerintahan Sultan Barakati Ikhtibar Sjah, Raja Cililiati (1403-1443) raja ke-9 yang menetapkan Pula Jiu sebagai bagian dari wilayah Desa Gemia.</p>
+<p style="text-align: justify;">
+	Dengan adanya ketetapan tersebut, siapapun yang berkeinginan untuk pergi ke Pulau Jiu harus meminta ijin kepada masyarakat Gemia (kepala desa). Adalah Ridwan H. Yusuf Mialang yang dipercaya oleh masyarakat Gemia dan sekitarnya sebagai penjaga Pulau Jiu.</p>
+<p style="text-align: justify;">
+	Seperti masyarakat tradisional lainnya, masyarakat Gemia juga memiliki ritual-ritual tertentu. Masyarakat Gemia percaya bahwa Pulau Jiu memiliki panjaga yang disebut Kapita Majida. Olah karena itu, setiap orang yang hendak pergi ke Pulau Jiu harus melakukan ritual khusus sebelum pergi kesana. Sesaji yang dilakukan adalah menyiapkan buah pinang, sirih dan tembakau yang diletakkan diatas piring putih dengan jumlah yang ganjil dan ditempatkan ditempat tertentu di pulau tersebut.</p>
+<p style="text-align: justify;">
+	Letak Pulau Jiu yang jauh dari pusat ekonomi dan kekuasaan berpotensi terjadinya kegiatan eksploitas ynag tidak bertanggungjawab. Diantaranya adalah pencurian sumberdaya baik oleh nelayan dari luar Maluku Utara maupun nelayan asing. Hal ini akan mengakibatkan terancamnya keberadaan potensi sumber daya alam di Pulau Jiu.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="eshp">Ekosistem dan Sumberdaya Hayati</a></h2>
+<p><div class="readmore"><p>
+	&nbsp;</p>
+<p>
+	Pulau Jiu memiliki sumber daya alam yang cukup beragam. Sumber daya itu dapat berupa kekayaan flora dan faunanya. Secara umum Pulau Jiu memiliki flora/tumbuhan campuran yang didominasi oleh vegetasi hutan pantai formasi <em>baringtonia </em>&nbsp;dan <em>&nbsp;pescaprae.</em> Jenis <em>baringtonia</em> yang dijumpai adalah butun, bintangor laut, ketapang, bintaro, malapari, waru, jati pasir, kenyere laut, sentigi, kayu wesen dan bidara laut. Sedangkan jenis dari <em>pescaprae</em> adalah katang-katang, kacang laut, rumput kacang, glinting segara, jelatung laut dan pandan pantai. &nbsp;Selain itu juga ditemukan vegetasi hutan tropis yaitu kayu besi dan rotan serta ditemukan juga tanaman semusim yaitu pepaya dan pisang.</p>
+<p>
+	Selain floranya, Pulau Jiu juga memiliki keberagaman faunanya. Diantaranya adalah burung langka yang oleh masyarakat setempat burung Jumai Emas Menata (<em>caleonas nicobarica</em>). Burung ini berkembangbiak di Pulau Jiu selama 6 bulan pada musim Utara. Selain burung emas ini, masih terdapat jenis burung lain yang terdapat di Pulau Jiu, yaitu burung elang coklat (<em>haliastur indus</em>). Bahkan menurut beberapa warga juga terdapat burung Maleo.</p>
+<p>
+	Selain jenis-jenis burung, di pulau ini juga terdapat kepiting Kenari (<em>birgus latro</em>) &nbsp;dan beberapa jenis penyu yang biasanya memanfaatkan daerah pantai berpasir dibagian utara untuk bertelur.</p>
+<p>
+	Secara umum perairan Pulau Jiu memiliki keanekaragaman terumbu karang yang sedang. Pada beberapa lokasi terdapat goa-goa bawah air dan lorong-lorong yang dibentuk oleh palung laut. Jenis karang yang hidup di daerah ini terdiri dari jenis <em>montipora denae, montipira verucisa, acropora cuneata, acropora nobilis, acropora palifera, pochyllopora demicornis, styllopora pistilata, porite nigrescen </em>dan <em>porites lobata. </em>Selain jenis-jenis karang tersebut juga terdapat jenis-jenis karang lunak yaitu dari jenis <em>sarcophyton, nepthea, sinularia </em>dan <em>xenia. </em>Di perairan ini juga terdapat anemon laut dan kima raksasa.</p>
+<p>
+	Perairan Pulau Jiu juga memiliki keanekaragaman ikan yang cukup tinggi. Di perairan ini terdapat 122 jenis ikan yang terdiri dari 29 jenis ikan kepe-kepe (famili <em>chaetodontidae</em>). 67 jenis dari famili <em>pomachentridae</em>, 6 jenis ikan dari famili <em>achanturidae</em>, 12 jenis akn dari famili <em>carangidae</em> dan 6 jenis dari famili <em>blastidae</em>.&nbsp;</p>
+</div></p>
+
+<hr>
+
+<h2><a id="snh">Sumberdaya Non Hayati</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<h2><a id="aps">Aktivitas Pengelolaan Sumberdaya</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<h2><a id="ling">Lingkungan</a></h2>
+<p><div class="readmore"><p>
+	&nbsp;</p>
+<p style="text-align: justify;">
+	Pulau Jiu umumnya merupakan dataran rendah dengan kemiringan rata-rata dibawah 2 %. Pulau ini memiliki karekteristik pantai terjal berkarang dan pantai landai berpasir putih. Pantai terjal berkarang ditemukan hampir disekeliling pulau ini, sedangkan pantai landai berpasir putih hanya ditemukan pada sisi bagian utara pulau dengan panjang kurang lebih 50 m.</p>
+<p style="text-align: justify;">
+	Bagian barat pulau didominasi tumbuhan pantai seperti jenis <em>barringtonia dan pascarpae</em>, namun terdapat juga kayu Besi dam rotan yang tumbuh secara alami. Pulau ini tersusun dari batuan gamping yang merupakan hasil pengendapan batuan karang yang mati dan muncul ke permukaan. Pada beberapa bagian ditemukan jenis tanah rensina yang memiliki ciri tanah muda yang akan terus berkembang. Jenis tanah ini ini tidak baik untuk pertanian tanaman musiman.</p>
+<p style="text-align: justify;">
+	Iklim dan kondisi fisik perairan Pulau Jiu di pengaruhi oleh iklim laut tropis dan iklim musim, yaitu iklim Halmahera Tengah dan Barat. Musim Utara terjadi pada bulan Oktober-Maret yang diselingi angin Barat dan pancaroba pada bulan April. Musin Selatan terjadi pada bulan Mei-Agustus diselingi angin Timur dan pancaroba pada bulan September.</p>
+<p style="text-align: justify;">
+	Dengan kondisi perairan seperti itu, maka Pulau Jiu mendapat hempasan gelombang hampir sepanjang tahun. Dikarenakan lokasi yang berada di perairan Samudera Pasifik, maka pola arus yang terjadi di perairan Pulau Jiu adalah pola arus Samudera Pasifik bagian selatan.</p>
+<p style="text-align: justify;">
+	Arah arus permukaan bergerak ke arah Timur dengan kecepatan 19-39 cm/detik, dimulai pada bulan Pebruari sampai Juli. Pada bulan Agustus arah arus berubah ke arah Barat dengan kecepatan 22-78 cm/detik. Suhu perairan di sekitar Pulau Jiu berkisat 30<sup>o</sup>C dengan kandungan oksigen terlarut stabil di 4.5 mg/lt.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="sp">Sarana dan Prasarana</a></h2>
+<p><div class="readmore"><p>
+	Hingga saat ini hanya terdapat sarana bantu navigasi pelayaran (mercu suar) di pulau ini. Sarana ini dibangun tepat ditengah pulau.&nbsp;</p>
+</div></p>
+
+<hr>
+
+<h2><a id="pi">Peluang Investasi</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<h2><a id="pap">Potensi dan Arahan Pengembangan</a></h2>
+<p><div class="readmore"><p>
+	&nbsp;</p>
+<p>
+	Jiu dapat diarahkan menjadi daerah konservasi dan juga wisata alam. Daerah ini bisa menjadi daerah studi bagi jenis-jenis flora dan fauna tertentu, seperti burung emas, penyu&nbsp; dan burung maleo.</p>
+<p>
+	Potensi wisata alam lain yang terdapat di Pulau Jiu adalah goa dengan lebar mulut 1.5 meter, tinggi 2 meter dan kedalaman 3 meter. Goa ini sering dijadikan tempat berlindung bagi masyarakat yang kebetulan singah ke pulau ini. Wisata diving juga sanat bisa dikembangkan di pulau ini, mengingat keindahan yang dimiliki oleh pulau ini.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="kp">Kendala Pengembangan</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<h2><a id="rf">Referensi</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<br />
+	<i> 
+		<p style="font-size:12px;">
+			Karena keterbatasan SDM dalam penginputan dan pengolahan data, kami mohon maaf atas ketidak lengkapan beberapa data pulau yang kami tampilkan, harap dimaklumi.
+			Berikan keritik dan saran pada kolom komentar agar kita dapat bersama menyajikan sebuah data yang cukup sempurna untuk halayak ramai yang berguna
+			demi kesejahterahan, kelestarian dan keindahan pulau-pulau kecil yang dimiliki Indonesia.<br />
+			*Jika sekiranya anda memiliki data yang cukup banyak, silakan mengirimkan file melalui email kami di <b><a>identifikasippk@gmail.com</a></b>
+			
+		</p>
+	</i>
+<br />
+
+<div id="fb_comn" class="fb-comments" data-href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_info/417" data-width="800" data-numposts="5" data-colorscheme="light"></div>
+
+
+</div>
+</div>
+</div>
+<div id="wrapper">
+
+<div class="footer"><p>
+<!--<marquee onmouseover="this.stop()" onmouseout="this.start()" scrollamount="5" direction="right" width="798" height="14"  behavior="scroll">-->
+<a href="http://www.ppk-kp3k.kkp.go.id/" target="_blank">Direktorat Pendayagunaan Pulau-Pulau Kecil &nbsp; | &nbsp;</a>
+<a href="http://www.kp3k.kkp.go.id/" target="_blank">Ditjen Kelautan, Pesisir dan Pulau-Pulau Kecil &nbsp; | &nbsp;</a>
+<a href="http://www.kkp.go.id/" target="_blank">Kementerian Kelautan dan Perikanan</a>
+<!--</marquee>--> <br />
+Jl. Medan Merdeka Timur No. 16 Gedung Mina Bahari 3 Lantai 10, Jakarta, Indonesia <br />
+Email : identifikasippk@gmail.com <br />
+Telp &amp; Fax: (021) 3522058 <br />
+&copy; Copyright Direktorat Pendayagunaan Pulau-Pulau Kecil 2012&nbsp; <br /></p>
+</div>
+</div>
+</body>
+</html>

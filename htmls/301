@@ -1,0 +1,444 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Pulau MAKALEHI</title>
+
+<meta charset="utf-8"/>
+
+<meta property="fb:app_id" content="559408774147878" />
+
+
+<meta property="og:title" content="Pulau MAKALEHI" />
+<meta property="og:url" content="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_info/301" />
+
+
+    <script type="text/javascript" src="http://ajax.microsoft.com/ajax/jquery/jquery-1.4.4.min.js">
+    </script>
+    
+    <script type="text/javascript" src="http://plugins.learningjquery.com/expander/jquery.expander.js">
+    </script>
+    
+    <script type="text/javascript">
+        $(function () {
+            $('div.readmore').expander({
+                slicePoint:200,
+                expandText: '(Baca selengkapnya)',
+                userCollapseText: '(Sembunyikan selengkapnya)'
+            });
+        });
+    </script>
+        
+	<script src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/galleria/galleria-1.2.8.min.js"></script>
+
+        <SCRIPT TYPE="text/javascript">
+            <!--
+            //Disable right click script
+            //visit http://www.rainbow.arch.scriptmania.com/scripts/
+            var message="Sorry, right-click has been disabled";
+            ///////////////////////////////////
+            function clickIE() {if (document.all) {(message);return false;}}
+            function clickNS(e) {if
+            (document.layers||(document.getElementById&&!document.all)) {
+            if (e.which==2||e.which==3) {(message);return false;}}}
+            if (document.layers)
+            {document.captureEvents(Event.MOUSEDOWN);document.onmousedown=clickNS;}
+            else{document.onmouseup=clickNS;document.oncontextmenu=clickIE;}
+            document.oncontextmenu=new Function("return false")
+            // -->
+            </SCRIPT>
+            
+            <SCRIPT TYPE="text/javascript">
+            <!--
+            //Disable select-text script (IE4+, NS6+)
+            //visit http://www.rainbow.arch.scriptmania.com/scripts/
+            ///////////////////////////////////
+            function disableselect(e){
+            return false
+            }
+            function reEnable(){
+            return true
+            }
+            //if IE4+
+            document.onselectstart=new Function ("return false")
+            //if NS6
+            if (window.sidebar){
+            document.onmousedown=disableselect
+            document.onclick=reEnable
+            }
+            // -->
+            </SCRIPT>  
+              
+<link rel="stylesheet" type="text/css" href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/css/main.css" media="screen"/>
+<style type='text/css'>
+#info_wrap{
+	width:820px;
+	margin:0 auto;
+	text-shadow:0px 1px 1px #09F;
+}
+table{
+	color:#000000;
+}
+h1{
+	color:#000000;
+}
+.tengahin{
+	width: 105px;
+	height: 30px;
+	margin: 0 auto auto auto;
+}
+#box_view{
+	background-image:-webkit-gradient(linear, 0 0%, 0 100%, from(#FFFFFF), to(#E0F0F5));
+	background:#FFF;
+	color:#F60;
+	border: 1px solid #fff;
+	border-radius: 4px 4px 4px 4px;
+	box-shadow: 0 8px 6px -6px black;
+	position:fixed;
+	right:0;
+	top:150px;;
+	width:80px;
+	z-index:10;
+	padding-left:12px;
+	font-size:10px;
+	}
+#box_view li{
+	color:#F60;
+	margin-left:-30px;
+	}
+	#wrapper a b {
+	color: #FFF;
+	font-size:14px;
+}
+.batas{
+	float:left;
+	border-right-style:inset;
+	border-right-width:thin;
+	}
+.text_h_wrap{
+	
+	padding-left:450px;
+	padding-top:39px;
+	text-shadow:0px 1px 1px #09F;
+	}
+#wrapper .footer p{
+	font-size:12px;
+	color: #FFF;
+	text-align:center;
+	text-shadow:0px 1px 1px #09F;
+}
+td,th {
+	font-size: 12px;
+}
+
+marquee a{
+	color:#FFF
+	}
+#wrapper .footer a{
+	color: #FFFFFF;
+}
+</style>
+            
+<script>
+function goBack()
+  {
+  window.history.back()
+  }
+</script>
+<script type="text/javascript">
+function Popup( url, height, width )
+{
+    var windowProperties = "toolbar = 0, scrollbars = 1, location = 0, statusbar = 0, menubar = 0, resizable = 1, width = " + width + ", height = " + height + ", left = 50, top = 50";
+ 
+    return window.open( url, "", windowProperties );
+}
+</script>
+
+
+
+</head>
+<body oncontextmenu='return false;' onkeydown='return false;' onmousedown='return false;'>
+
+<a id="top_view"></a>
+<div id="wrapper">
+<div class="header_wrap">
+<div class="text_h_wrap">
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/home_page'><b>&nbsp;Home&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/menu_info/1'><b>&nbsp;About Us&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_data'><b>&nbsp;Direktori Pulau&nbsp;&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/program_ip'><b>&nbsp;IKU&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/data_ppkt'><b>&nbsp;PPKT&nbsp;</b></a>
+</div>
+<!--<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/maintenance'><b>&nbsp;Login&nbsp;</b></a>-->
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/dir_log_cont'><b>&nbsp;Login&nbsp;</b></a>
+
+</div>
+</div>
+</div>
+
+<div id="fb-root"></div>
+<script>
+  window.fbAsyncInit = function() {
+    // init the FB JS SDK
+    FB.init({
+      appId      : '559408774147878',                        // App ID from the app dashboard
+      status     : true,                                 // Check Facebook Login status
+      xfbml      : true                                  // Look for social plugins on the page
+    });
+
+    // Additional initialization code such as adding Event Listeners goes here
+  };
+
+  // Load the SDK asynchronously
+  (function(){
+     // If we've already installed the SDK, we're done
+     if (document.getElementById('facebook-jssdk')) {return;}
+
+     // Get the first script element, which we'll use to find the parent node
+     var firstScriptElement = document.getElementsByTagName('script')[0];
+
+     // Create a new script element and set its id
+     var facebookJS = document.createElement('script'); 
+     facebookJS.id = 'facebook-jssdk';
+
+     // Set the new script's source to the source of the Facebook JS SDK
+     facebookJS.src = '//connect.facebook.net/en_US/all.js';
+
+     // Insert the Facebook JS SDK into the DOM
+     firstScriptElement.parentNode.insertBefore(facebookJS, firstScriptElement);
+   }());
+</script>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=559408774147878";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="box_view">
+    <a href="#top_view">MENU</a>
+    <h3><p>Lihat Informasi:</p></h3>
+    <ul>
+	<a href="#sf"><li>Slide Foto</li></a>
+    <a href="#gu"><li>Gambaran Umum</li></a>
+    <a href="#ksbk"><li>Kependudukan, Sosial Budaya dan Kelembagaan</li></a>
+    <a href="#eshp"><li>Ekosistem dan Sumberdaya Hayati</li></a>
+    <a href="#snh"><li>Sumberdaya Non Hayati</li></a>
+    <a href="#aps"><li>Aktivitas Pengelolaan Sumberdaya</li></a>
+    <a href="#ling"><li>Lingkungan</li></a>
+    <a href="#sp"><li>Sarana dan Prasarana</li></a>
+    <a href="#pi"><li>Peluang Investasi</li></a>
+    <a href="#pap"><li>Potensi Arahan Pengembangan</li></a>
+    <a href="#kp"><li>Kendala Pengembangan</li></a>
+	<a href="#rf"><li>Referensi</li></a>
+    </ul>
+    <a href="#fb_comn">KOMENTAR</a>
+</div>
+
+<br>
+			<a id="sf"></a></h2>
+			<div id="galleria">
+            <!--<div class='tengahin'><input type="button" value="Kembali Ke List" onclick="goBack()"></div>-->
+                            </div>
+            
+            <script>
+            Galleria.loadTheme('http://www.ppk-kp3k.kkp.go.id/direktori-pulau/galleria/themes/classic/galleria.classic.min.js');
+            Galleria.run('#galleria');
+            </script>
+</div>
+
+<div id="text_warp">
+
+
+<p><h1>MAKALEHI</h1></p>
+<table>
+<tr>
+	<td>Nama Lain</td> <td>:</td> <td></td>
+</tr>
+<tr>
+	<td>Propinsi</td> <td>:</td> <td>SULAWESI UTARA</td>
+</tr>
+<tr>
+	<td>Kabupaten</td> <td>:</td> <td>KABUPATEN SIAU TAGULANDANG BIARO</td>
+</tr>
+<tr>
+	<td>Kecamatan</td> <td>:</td> <td>SIAU BARAT</td>
+</tr>
+<tr>
+	<td>Koordinat</td> <td>:</td> <td><a href="http://www.ppk-kp3k.kkp.go.id/giskkp/index.html?extent=13929995.9708 302844.4682,13937639.6736 305734.7433"target="_blank"><p>
+	2&deg; 44&#39; 7,659&quot; LU - 125&deg; 10&#39; 10,923&quot; BT</p>
+</a></td>
+</tr>
+</table>
+<hr>
+
+<h2><a id="gu">Gambaran Umum</a></h2>
+<p><div class="readmore"><p>
+	&nbsp;</p>
+<p>
+	Pulau Makalehi merupakan salah satu pulau terluar yang terletak di wilayah Sulawesi Utara. Pulau berpenghuni ini memiliki total luas wilayah 420 Ha, yang terdiri dari pemukiman seluas 30 Ha, lahan pertanian/perkebunan 380 Ha, hutan lindung&nbsp; 2 Ha, dan danau 8 Ha. Pulau ini mempunyai keanekaragaman hayati laut yang tinggi, seperti terumbu karang, mangrove, padang lamun, dan ikan-ikan karang. Di pulau yang berbatasan dengan perairan negara Filipina dan cukup eksotik ini terdapat titik dasar nomor TD.051A&nbsp; TR.051, dan tugu NKRI.</p>
+<p>
+	&nbsp;</p>
+<p>
+	<strong>ADMINISTRATIF</strong></p>
+<p>
+	Secara administrasi, Pulau Makalehi merupakan pulau yang berada di wilayah Kecamatan Siau Barat, Kabupaten Sitaro, Provinsi Sulawesi Utara. Ibukota kabupaten ini berada di Pulau Siau. Nama sitaro sendiri&nbsp; diambil dari gabungan nama 3 pulau besar, yaitu Pulau Siau, Tahulandang, dan Biaro. Kabupaten Sitaro merupakan hasil pemekaran dari Kabupaten Sangihe.</p>
+<p>
+	<strong>KONDISI GEOGRAFIS</strong></p>
+<p>
+	Daratan Pulau Makalehi terdiri dari perkampungan penduduk, perkebunan, pertanian, danau dan hutan. Pulau ini &nbsp;berada pada titik koordinat 02<sup>o</sup> 44&#39; 03&quot; LU dan 125<sup>o</sup> 10&#39; 15&#39;&#39; BT.&nbsp; Letak geografis pulau ini berada di sebelah barat Pulau Siau (Kecamatan Siau Barat).</p>
+<p>
+	<strong>AKSESIBILITAS</strong></p>
+<p>
+	Untuk mencapai Pulau ini, perjalanan dapat ditempuh dengan cara menyeberang terlebih dahulu dari Pelabuhan Manado menuju pelabuhan Ulu Siau (Siau Timur) menggunakan Kapal Motor. Dari Siau Timur dilanjutkan dengan menggunakan kendaraan darat (mobil roda empat atau ojek motor) dengan waktu tempuh selama setengah jam menuju ke Siau Barat.&nbsp; Perjalanan kemudian dilanjutkan dari Kecamatan Siau Barat menuju Pulau Makalehi dengan menggunakan perahu motor dalam waktu sekitar 1 - 2 jam, tergantung jenis perahu, kekuatan mesin penggerak dan cuaca. Untuk perahu boat dengan mesin tempel 40 pk umumnya perjalanan ke pulau ini dapat di tempuh selama 1 jam. Umumnya nelayan di daerah ini menggunakan perahu motor tempel dengan kekuatan mesin yang bervariasi.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="ksbk">Kependudukan, Sosial Budaya dan Kelembagaan</a></h2>
+<p><div class="readmore"><p>
+	&nbsp;</p>
+<p>
+	Pulau Makalehi dahulunya tidak berpenduduk dan hanya dijadikan tempat singgah oleh para nelayan yang sedang menangkap ikan. Lama kelamaan mereka mulai menjadikan tempat ini sebagai tempat berteduh dan mereka mulai membangun gubuk tempat tinggal.</p>
+<p>
+	Untuk mencukupi kebutuhan sehari-hari saat tidak bisa melaut mereka mulai melakukan usaha bercocok tanam disamping memanfaatkan hasil yang sudah tumbuh secara alamiah.&nbsp; Lama kelamaan para nelayan mulai membawa keluarga sehingga terjadilah suatu komunitas penduduk yang baru. Penduduk desa di Pulau Makalehi pada saat ini berjumlah 1287 yang terdiri dari 612 Laki-laki dan 675 Perempuan. Dengan 368 KK Tersebar pada 4 Dusun.</p>
+<p>
+	Masyarakat Desa Makalehi Merupakan masyarakat agamais yang menjunjung tinggi nilai-nilai agama yang dianut yaitu Kristen Protestan. Dalam setiap peristiwa apakah Perkawinan ataupun kematian seluruh masyarakat turut berpartisipasi teristimewa dalam membangun tenda atau bangsal tempat melakukan upacara suka ataupun duka. Jadi jika ada acara sebagaimana tersebut diatas maka kegiatan atau aktifitas ekonomi sebagian besar berhenti, terkecuali mereka yang ditugaskan menjemput atau memberitahukan kabar kepada sanak saudara, kerabat yang ada di luar desa.</p>
+<p>
+	Dalam hal menjaga kelestarian lingkungan masyarakat mempunyai kebiasaan untuk tidak menangkap ikan karang yang ada disekitar untuk keperluan sendiri. Kecuali jika pada hari-hari tertentu seperti acara syukuran kampung, hari Natal dan Tahun baru atau menyambut tamu yang dihormati oleh masyarakat maka&nbsp; bersama-sama mereka melakukan penangkapan ikan karang untuk dikonsumsi bersama pula.&nbsp; Oleh sebab itu sumberdaya ikan karang masih dapat dikatakan berlimpah.</p>
+<p>
+	Mayoritas penduduk desa (kampung) makalehi bekerja sebagai nelayan (327 orang). lainnya merupakan PNS, pensiunan, wiraswasta. Hasil usaha pertanian hanya untuk kebutuhan sendiri dan diusahakan oleh nelayan saat musim paceklik (tidak bisa melaut).</p>
+</div></p>
+
+<hr>
+
+<h2><a id="eshp">Ekosistem dan Sumberdaya Hayati</a></h2>
+<p><div class="readmore"><p>
+	&nbsp;</p>
+<p>
+	<strong>Terumbu Karang</strong></p>
+<p>
+	Pulau Makalehi memiliki hamparan terumbu karang yang luas dan cukup menjanjikan apabila dikelola secara optimal. Keanekaragaman terumbu karang dan daya tarik danau di tengah pulau menjadi potensi tersendiri bagi pulau ini untuk dikembangkan, khususnya wisata bahari. Disekitar permukiman penduduk dan tempat tambat kapal, terumbu karang di pulau ini umumnya sudah mengalami kerusakan, sedangkan di sebelah utara pulau, kondisinya relatif masih baik.</p>
+<p>
+	<strong>Perikanan</strong></p>
+<p>
+	Hasil tangkapan ikan yang diperoleh nelayan dijual kepada penampung yaitu pembeli dari Bitung. Para pembeli ini memiliki kapal dengan fasilitas yang dapat menampung hasil tangkapan dan berlabuh/pangkalan di perairan desa,&nbsp; sehingga nelayan tidak perlu mengeluarkan biaya untuk memasarkan ke Siau. Untuk ikan yang mudah menurun kualitas seperti&nbsp; malalugis (<em>Dekapterus sp</em>) umumnya dijadikan ikan asin dan dipasarkan ke Manado dan Tahuna.</p>
+<p>
+	&nbsp;</p>
+</div></p>
+
+<hr>
+
+<h2><a id="snh">Sumberdaya Non Hayati</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<h2><a id="aps">Aktivitas Pengelolaan Sumberdaya</a></h2>
+<p><div class="readmore"><p>
+	&nbsp;</p>
+<p>
+	Mayoritas penduduk desa (kampung) makalehi bekerja sebagai nelayan (327 orang). lainnya merupakan PNS, pensiunan, wiraswasta. Hasil usaha pertanian hanya untuk kebutuhan sendiri dan diusahakan oleh nelayan saat musim paceklik (tidak bisa melaut).</p>
+</div></p>
+
+<hr>
+
+<h2><a id="ling">Lingkungan</a></h2>
+<p><div class="readmore"><p>
+	&nbsp;</p>
+<p>
+	Pulau Makalehi merupakan pulau yang memiliki keunikan tersendiri, yaitu di tengah-tengah pulau terdapat danau air tawar yang cukup luas. Dari aspek bentuk lahan pulau ini terdiri dari bentuk lahan perbukitan, dataran dan cekungan di tengah pulau (danau) yang menampung air dari perbukitan. Komposisi penutup lahan pulau ini terdiri dari hutan lahan basah, hutan lahan kering, semak, belukar, lahan terbuka, dan tubuh air. Sebagian besar daerah perbukitan dipergunakan untuk perkebunan, selebihnya mulai ditanami dengan tanaman palawija. Keadaan Pulau Makalehi yang hampir seluruhnya berbukit ini memiliki kemiringan lereng berkisar antara 30&ordm; - 40&ordm;.</p>
+<p align="left">
+	Kondisi pantai Makalehi umumnya berupa pantai terjal yang tersebar di sekeliling pulau, meskipun diselingi dengan substrat pasir di beberapa tempat. Pada saat pasang, air mencapai bibir tebing pulau dan karang disekitar pantai tidak terlihat karena tertutup air laut, tapi pada saat surut terlihat karang yang terhampar di beberapa tempat. Umumnya, karena karakteristik pantainya merupakan tebing terjal, maka nelayan terbiasa menambatkan perahunya dengan cara dimiringkan dan diikat ke dahan pohon. Di pulau ini juga tidak ada dermaga yang memadai, sehingga perahu yang datang agak sulit untuk menambatkan di pantai.</p>
+<p>
+	<strong>OCEANOGRAFI</strong></p>
+<p>
+	Di perairan Makalehi dikenal dua macam arah angin yang berpengaruh terhadap gelombang dan arus, yaitu angin utara dan selatan. Pada saat musim angin utara, kecepatan angin bisa sangat tinggi yang dapat menimbulkan gelombang besar, sehingga menyebabkan kapal-kapal dan perahu tidak mampu melewati perairan ini. Sedangkan pada saat musim angin selatan, kecepatan angina tidak terlalu tinggi.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="sp">Sarana dan Prasarana</a></h2>
+<p><div class="readmore"><p>
+	&nbsp;</p>
+<p>
+	Desa Makalehi memiliki fasilitas pendidikan berupa Sekolah Dasar 3 buah yang terdiri dari 2 buah sekolah negeri, 1 buah sekolah yang dikelola oleh Yayasan Gereja dan 1 buah SMP Negeri. Penduduk Desa Makalehi 100 % beragama Kristen Protestan dan mempunyai sarana ibadah berupa Gereja sebanyak 2 buah.&nbsp; Secara organisasi gereja&nbsp; masyarakat Kristen Protestan di desa ini dibawa naungan Sinode Gereja Masehi Injili Sangihe Talaud (GMIST).</p>
+<p>
+	Masyarakat yang ada di Desa Makalehi sekalipun sedikit terisolasi namun jarang ada yang mengalami sakit yang disebabkan oleh pengaruh lingkungan seperti malaria, ataupun demam berdarah. Secara periodik, sebulan sekali ada kunjungan dari petugas kesehatan di Puskesmas Kecamatan yang berkunjung di desa.&nbsp;</p>
+<p>
+	Dari segi transportasi, sekalipun ada taksi laut namun tidak rutin beroperasi, hanya secara insidentil. Sebaliknya sarana penangkap seperti perahu <em>pajeko</em> atau perahu lampu dapat digunakan sewaktu-waktu untuk mengangkut penumpang yang pergi dan kembali ke kampung Makalehi.</p>
+<p>
+	Di Desa Makalehi terdapat PLN yang beroperasi 4 - 5 jam perhari serta Perusahan Air Minum (PAM) yang saat ini PAM sedang mengalami kerusakan sehingga tidak beroperasi.&nbsp; Untuk mendapatkan air minum masyarakat memanfaatkan sumur&ndash;sumur di desa yang sebagian besar airnya tawar (tidak payau).</p>
+</div></p>
+
+<hr>
+
+<h2><a id="pi">Peluang Investasi</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<h2><a id="pap">Potensi dan Arahan Pengembangan</a></h2>
+<p><div class="readmore"><p>
+	&nbsp;</p>
+<p>
+	Upaya pengembangan Pulau Makalehi antara lain rekonstruksi dan pemeliharaan Titik Referensi (TR) dan Titik Dasar (TD), pembangunan dermaga di pintu masuk ke desa, dan pemeliharaan Sarana Bantu Navigasi Pelayaran (SBNP). Selain itu, Pulau Makalehi memiliki potensi untuk pengembangan pariwisata alam, melalui promosi keindahan danau air tawar yang ada di pulau. Selain itu perlu juga adanya upaya penegakan hukum dan pengawasan yang dilakukan bersama-sama antara aparat yang berwenang dengan masyarakat pulau.</p>
+<p>
+	&nbsp;</p>
+</div></p>
+
+<hr>
+
+<h2><a id="kp">Kendala Pengembangan</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<h2><a id="rf">Referensi</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<br />
+	<i> 
+		<p style="font-size:12px;">
+			Karena keterbatasan SDM dalam penginputan dan pengolahan data, kami mohon maaf atas ketidak lengkapan beberapa data pulau yang kami tampilkan, harap dimaklumi.
+			Berikan keritik dan saran pada kolom komentar agar kita dapat bersama menyajikan sebuah data yang cukup sempurna untuk halayak ramai yang berguna
+			demi kesejahterahan, kelestarian dan keindahan pulau-pulau kecil yang dimiliki Indonesia.<br />
+			*Jika sekiranya anda memiliki data yang cukup banyak, silakan mengirimkan file melalui email kami di <b><a>identifikasippk@gmail.com</a></b>
+			
+		</p>
+	</i>
+<br />
+
+<div id="fb_comn" class="fb-comments" data-href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_info/301" data-width="800" data-numposts="5" data-colorscheme="light"></div>
+
+
+</div>
+</div>
+</div>
+<div id="wrapper">
+
+<div class="footer"><p>
+<!--<marquee onmouseover="this.stop()" onmouseout="this.start()" scrollamount="5" direction="right" width="798" height="14"  behavior="scroll">-->
+<a href="http://www.ppk-kp3k.kkp.go.id/" target="_blank">Direktorat Pendayagunaan Pulau-Pulau Kecil &nbsp; | &nbsp;</a>
+<a href="http://www.kp3k.kkp.go.id/" target="_blank">Ditjen Kelautan, Pesisir dan Pulau-Pulau Kecil &nbsp; | &nbsp;</a>
+<a href="http://www.kkp.go.id/" target="_blank">Kementerian Kelautan dan Perikanan</a>
+<!--</marquee>--> <br />
+Jl. Medan Merdeka Timur No. 16 Gedung Mina Bahari 3 Lantai 10, Jakarta, Indonesia <br />
+Email : identifikasippk@gmail.com <br />
+Telp &amp; Fax: (021) 3522058 <br />
+&copy; Copyright Direktorat Pendayagunaan Pulau-Pulau Kecil 2012&nbsp; <br /></p>
+</div>
+</div>
+</body>
+</html>

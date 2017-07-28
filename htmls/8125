@@ -1,0 +1,660 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Pulau Sagara</title>
+
+<meta charset="utf-8"/>
+
+<meta property="fb:app_id" content="559408774147878" />
+
+
+<meta property="og:title" content="Pulau Sagara" />
+<meta property="og:url" content="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_info/8125" />
+
+
+    <script type="text/javascript" src="http://ajax.microsoft.com/ajax/jquery/jquery-1.4.4.min.js">
+    </script>
+    
+    <script type="text/javascript" src="http://plugins.learningjquery.com/expander/jquery.expander.js">
+    </script>
+    
+    <script type="text/javascript">
+        $(function () {
+            $('div.readmore').expander({
+                slicePoint:200,
+                expandText: '(Baca selengkapnya)',
+                userCollapseText: '(Sembunyikan selengkapnya)'
+            });
+        });
+    </script>
+        
+	<script src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/galleria/galleria-1.2.8.min.js"></script>
+
+        <SCRIPT TYPE="text/javascript">
+            <!--
+            //Disable right click script
+            //visit http://www.rainbow.arch.scriptmania.com/scripts/
+            var message="Sorry, right-click has been disabled";
+            ///////////////////////////////////
+            function clickIE() {if (document.all) {(message);return false;}}
+            function clickNS(e) {if
+            (document.layers||(document.getElementById&&!document.all)) {
+            if (e.which==2||e.which==3) {(message);return false;}}}
+            if (document.layers)
+            {document.captureEvents(Event.MOUSEDOWN);document.onmousedown=clickNS;}
+            else{document.onmouseup=clickNS;document.oncontextmenu=clickIE;}
+            document.oncontextmenu=new Function("return false")
+            // -->
+            </SCRIPT>
+            
+            <SCRIPT TYPE="text/javascript">
+            <!--
+            //Disable select-text script (IE4+, NS6+)
+            //visit http://www.rainbow.arch.scriptmania.com/scripts/
+            ///////////////////////////////////
+            function disableselect(e){
+            return false
+            }
+            function reEnable(){
+            return true
+            }
+            //if IE4+
+            document.onselectstart=new Function ("return false")
+            //if NS6
+            if (window.sidebar){
+            document.onmousedown=disableselect
+            document.onclick=reEnable
+            }
+            // -->
+            </SCRIPT>  
+              
+<link rel="stylesheet" type="text/css" href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/css/main.css" media="screen"/>
+<style type='text/css'>
+#info_wrap{
+	width:820px;
+	margin:0 auto;
+	text-shadow:0px 1px 1px #09F;
+}
+table{
+	color:#000000;
+}
+h1{
+	color:#000000;
+}
+.tengahin{
+	width: 105px;
+	height: 30px;
+	margin: 0 auto auto auto;
+}
+#box_view{
+	background-image:-webkit-gradient(linear, 0 0%, 0 100%, from(#FFFFFF), to(#E0F0F5));
+	background:#FFF;
+	color:#F60;
+	border: 1px solid #fff;
+	border-radius: 4px 4px 4px 4px;
+	box-shadow: 0 8px 6px -6px black;
+	position:fixed;
+	right:0;
+	top:150px;;
+	width:80px;
+	z-index:10;
+	padding-left:12px;
+	font-size:10px;
+	}
+#box_view li{
+	color:#F60;
+	margin-left:-30px;
+	}
+	#wrapper a b {
+	color: #FFF;
+	font-size:14px;
+}
+.batas{
+	float:left;
+	border-right-style:inset;
+	border-right-width:thin;
+	}
+.text_h_wrap{
+	
+	padding-left:450px;
+	padding-top:39px;
+	text-shadow:0px 1px 1px #09F;
+	}
+#wrapper .footer p{
+	font-size:12px;
+	color: #FFF;
+	text-align:center;
+	text-shadow:0px 1px 1px #09F;
+}
+td,th {
+	font-size: 12px;
+}
+
+marquee a{
+	color:#FFF
+	}
+#wrapper .footer a{
+	color: #FFFFFF;
+}
+</style>
+            
+<script>
+function goBack()
+  {
+  window.history.back()
+  }
+</script>
+<script type="text/javascript">
+function Popup( url, height, width )
+{
+    var windowProperties = "toolbar = 0, scrollbars = 1, location = 0, statusbar = 0, menubar = 0, resizable = 1, width = " + width + ", height = " + height + ", left = 50, top = 50";
+ 
+    return window.open( url, "", windowProperties );
+}
+</script>
+
+
+
+</head>
+<body oncontextmenu='return false;' onkeydown='return false;' onmousedown='return false;'>
+
+<a id="top_view"></a>
+<div id="wrapper">
+<div class="header_wrap">
+<div class="text_h_wrap">
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/home_page'><b>&nbsp;Home&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/menu_info/1'><b>&nbsp;About Us&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_data'><b>&nbsp;Direktori Pulau&nbsp;&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/program_ip'><b>&nbsp;IKU&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/data_ppkt'><b>&nbsp;PPKT&nbsp;</b></a>
+</div>
+<!--<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/maintenance'><b>&nbsp;Login&nbsp;</b></a>-->
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/dir_log_cont'><b>&nbsp;Login&nbsp;</b></a>
+
+</div>
+</div>
+</div>
+
+<div id="fb-root"></div>
+<script>
+  window.fbAsyncInit = function() {
+    // init the FB JS SDK
+    FB.init({
+      appId      : '559408774147878',                        // App ID from the app dashboard
+      status     : true,                                 // Check Facebook Login status
+      xfbml      : true                                  // Look for social plugins on the page
+    });
+
+    // Additional initialization code such as adding Event Listeners goes here
+  };
+
+  // Load the SDK asynchronously
+  (function(){
+     // If we've already installed the SDK, we're done
+     if (document.getElementById('facebook-jssdk')) {return;}
+
+     // Get the first script element, which we'll use to find the parent node
+     var firstScriptElement = document.getElementsByTagName('script')[0];
+
+     // Create a new script element and set its id
+     var facebookJS = document.createElement('script'); 
+     facebookJS.id = 'facebook-jssdk';
+
+     // Set the new script's source to the source of the Facebook JS SDK
+     facebookJS.src = '//connect.facebook.net/en_US/all.js';
+
+     // Insert the Facebook JS SDK into the DOM
+     firstScriptElement.parentNode.insertBefore(facebookJS, firstScriptElement);
+   }());
+</script>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=559408774147878";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="box_view">
+    <a href="#top_view">MENU</a>
+    <h3><p>Lihat Informasi:</p></h3>
+    <ul>
+	<a href="#sf"><li>Slide Foto</li></a>
+    <a href="#gu"><li>Gambaran Umum</li></a>
+    <a href="#ksbk"><li>Kependudukan, Sosial Budaya dan Kelembagaan</li></a>
+    <a href="#eshp"><li>Ekosistem dan Sumberdaya Hayati</li></a>
+    <a href="#snh"><li>Sumberdaya Non Hayati</li></a>
+    <a href="#aps"><li>Aktivitas Pengelolaan Sumberdaya</li></a>
+    <a href="#ling"><li>Lingkungan</li></a>
+    <a href="#sp"><li>Sarana dan Prasarana</li></a>
+    <a href="#pi"><li>Peluang Investasi</li></a>
+    <a href="#pap"><li>Potensi Arahan Pengembangan</li></a>
+    <a href="#kp"><li>Kendala Pengembangan</li></a>
+	<a href="#rf"><li>Referensi</li></a>
+    </ul>
+    <a href="#fb_comn">KOMENTAR</a>
+</div>
+
+<br>
+			<a id="sf"></a></h2>
+			<div id="galleria">
+            <!--<div class='tengahin'><input type="button" value="Kembali Ke List" onclick="goBack()"></div>-->
+                            </div>
+            
+            <script>
+            Galleria.loadTheme('http://www.ppk-kp3k.kkp.go.id/direktori-pulau/galleria/themes/classic/galleria.classic.min.js');
+            Galleria.run('#galleria');
+            </script>
+</div>
+
+<div id="text_warp">
+
+
+<p><h1>Sagara</h1></p>
+<table>
+<tr>
+	<td>Nama Lain</td> <td>:</td> <td></td>
+</tr>
+<tr>
+	<td>Propinsi</td> <td>:</td> <td>SULAWESI SELATAN</td>
+</tr>
+<tr>
+	<td>Kabupaten</td> <td>:</td> <td>KABUPATEN PANGKAJENE DAN KEPULAUAN</td>
+</tr>
+<tr>
+	<td>Kecamatan</td> <td>:</td> <td></td>
+</tr>
+<tr>
+	<td>Koordinat</td> <td>:</td> <td><a href="http://www.ppk-kp3k.kkp.go.id/giskkp/index.html?extent="target="_blank">4° 42' 2.000</a></td>
+</tr>
+</table>
+<hr>
+
+<h2><a id="gu">Gambaran Umum</a></h2>
+<p><div class="readmore"><ol>
+	<li style="text-align: justify;">
+		<strong>Kondisi Umum</strong></li>
+</ol>
+<p style="text-align: justify;">
+	Desa &nbsp;Mattiro &nbsp;Bombang &nbsp;merupakan &nbsp;salah &nbsp;satu &nbsp;desa &nbsp;di&nbsp; Kecamatan Liukang &nbsp;Tuppakbiring &nbsp;yang &nbsp;terletak &nbsp;di&nbsp; kawasan &nbsp;kepulauan &nbsp;Pangkep.&nbsp; Desa Mattiro &nbsp;Bombang &nbsp;terdiri&nbsp; dari&nbsp; empat &nbsp;pulau&nbsp; yang &nbsp;berpenghuni&nbsp; dan &nbsp;beberapa gusung karang. Keempat pulau tersebut adalah Pulau Salemo, Pulau Sagara, Pulau Sabangko, dan&nbsp; &nbsp;Pulau Sakuala. Secara Adminsitratif, Desa Mattiro Bombang berbatasan dengan Desa Pancana Kabupaten Barru (sebelah utara), Desa Mattiro Kanja (sebelah selatan), Desa Mattiro Walie (sebelah barat), Kelurahan Talaka, Kecamatan Ma&rsquo;rang (sebelah timur).&nbsp; &nbsp;Sebagai wilayah kepulauan. Desa Mattiro Bombang bertopografi datar dan landai dengan rata- rata ketinggian mencapai kurang dari 50 meter dengan luas wilayah 22 km2. Secara geografis, Desa Mattiro Bombang juga merupakan salah satu desa yang terdekat dengan daratan Kabupaten Pangkep.</p>
+<p style="text-align: justify;">
+	Pulau Sagara terletak antara &nbsp;4&deg;42&#39;9&quot;LS &nbsp; dan 119&deg;27&#39;18&quot; BT. Secara Administrasi Pulau Sagara merupakan wilayah desa yang berbentuk pulau yang berada di Desa Mattiro Bombang Kecamatan Liukang Tupabbiring Kabupaten Pangkep. Luas wilayah daratan pulau Sagara adalah 33.015,45 km<sup>2</sup> dan memiliki luas perairan 16.623,30 km<sup>2</sup>&nbsp; .</p>
+<p style="text-align: justify;">
+	Adapun batas-batas wilayah pulau Sagara adalah :</p>
+<p style="text-align: justify;">
+	Sebelah Utara &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Selat Makassar</p>
+<p style="text-align: justify;">
+	Sebelah Timur &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Pesisir Kabupaten Pangkep</p>
+<p style="text-align: justify;">
+	Sebelah Selatan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Desa Mattiro Kanja</p>
+<p style="text-align: justify;">
+	Sebelah Barat&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Desa Mattiro Valie</p>
+<p style="text-align: justify;">
+	<strong>Aksesbilitas</strong></p>
+<p style="text-align: justify;">
+	Untuk mencapai pulau Sagara dapat dijangkau dengan&nbsp;<em>kapal sewaan </em>&nbsp;dalam waktu lebih kurang 60 menit dari Pelabuhan Mattiro Baji. Selain itu juga dapat ditempuh dengan kapal regular dari Limbangan dengan biaya Rp. 15.000,- per orang yang berangkat di pagi hari dan balik ke Pulau Sagara di siang hari.</p>
+<p style="text-align: justify;">
+	<strong>Klimatologi</strong></p>
+<p style="text-align: justify;">
+	Iklim yang terdapat di Pulau&nbsp; ini seperti umumnya daerah kepulauan beriklim tropis, dimana bulan kering 2 &ndash; 3 bulan,&nbsp; Curah hujan rata-rata 2.500-3.000 mm/tahun. Tipe ini merupakan tipe iklim agak basah.</p>
+<p style="text-align: justify;">
+	Temperatur udara di pulau ini berada pada kisaran 21o - 31o atau rata-rata suhu udara 26,4 oC. Keadaan angin berada pada kecepatan sedang, dengan kelembaban udara tinggi.</p>
+<p style="text-align: justify;">
+	<strong>Oseanografi</strong></p>
+<p style="text-align: justify;">
+	Suhu permukaan diperairan pulau Sagara berkisar antara 27,015-30,076 oC, sedangkan salinitas perairan disekitar pulau&nbsp; berkisar antara 32,02 - 35,30 &permil;. Sedangkan kecepatan arus permukaan&nbsp; pada perairan&nbsp;&nbsp; berkisar antara 0,02 &ndash; 0,28 m/detik</p>
+<p style="text-align: justify;">
+	<strong>Hidrologi</strong></p>
+<p style="margin-left: 21.3pt; text-align: justify;">
+	Air permukaan yang ada di pulau Sagara berupa mata air. Aliran air permukaan yang terdapat dipulau tidak ditemukan. Rawa di daerah ini terbentuk secara alami yang dimanfaatkan sebagai tambak bandeng. Sedangkan sumber mata air yang ada di pulau ini cukup banyak.</p>
+<p style="margin-left: 21.3pt; text-align: justify;">
+	<strong>Keadaan Fisik Pulau</strong></p>
+<p style="margin-left: 21.25pt; text-align: justify;">
+	<strong>Topografi dan Geomorfologi</strong></p>
+<p style="margin-left: 21.25pt; text-align: justify;">
+	Dilihat dari topografi maka pulau Sagara memiliki topografi yang landai yaitu berkisar antara 0 &ndash; 2 % dengan ketinggian diatas muka laut 0 &ndash; 25 m. Bentangan batuan penyusun terdiri dari Gamping, lava/breksi dan endapan alluvium. Jenis peruntukkan lahan di pulau ini adalah untuk pemukiman, kebun dan pertambakkan.&nbsp;</p>
+</div></p>
+
+<hr>
+
+<h2><a id="ksbk">Kependudukan, Sosial Budaya dan Kelembagaan</a></h2>
+<p><div class="readmore"><h2 style="text-align: justify;">
+	Kependudukan</h2>
+<p style="text-align: justify;">
+	Rumah penduduk kebanyakan terdapat disekitar dermaga, sehingga terkesan bahwa pola perumahan penduduk hanya terfokus pada satu titik saja.Jumlah rumah yang terdapat dipulau ini berjumlah 85 unit rumah. Ekosistem mangrove terdapat di sekeliling pulau ini, sedangkan daerah pertambakan terdapat ditengah-tengah pulau dan hampir meliputi seluruh bagian pulau.</p>
+<p style="text-align: justify;">
+	Jumlah Penduduk di pulau Sagara tahun 2013 berjumlah 285 jiwa, Penduduk yang mendiami pulau ini berasal dari suku Bugis, Makassar dan Mandar, sedangkan bahasa yang dipakai sehari-hari adalah bahasa&nbsp; bugis. Agama yang dianut penduduk pulau 100% islam.</p>
+<h2 style="text-align: justify;">
+	Sosial-Budaya, Ekonomi, dan Kelembagaan</h2>
+<p style="text-align: justify;">
+	Kondisi infrastruktur di Pulau Sagara dapat dikatakan sangat minim. Dimana dipulau ini tidak ditemukan adanya fasilitas kesehatan, gedung kelembagaan masyarakat maupun gedung-gedung lainnya, pasar, dan lain-lain. Sehingga dengan aneka keterbatasan sarana dan prasarana ini menjadikan penduduk sangat menghormati aturan-aturan yang dilandasi dengan rasa gotong-royong yang tinggi, solidaritas tinggi, saling menghormati dan tenggang rasa. Agama yang dianut penduduk pulau ini 100% islam, sehingga perayaan hari besar islam di pulau ini dirayakan dengan meriah seperti Maulid Nabi Muhammad SAW ataupun peringatan-peringatan hari besar lainnya.</p>
+<p style="text-align: justify;">
+	Masyarakat yang bermukim di Pulau Sagara umumnya masyarakat yang memiliki tingkat pengetahuan yang masih rendah. Wilayah Pulau Sagara didominasi oleh adanya tambak-tambak yang hampir terlihat di setiap sudut pandang pulau ini. Namun seperti yang terjadi pulau Sabangko, di pulau ini tambak-tambak ini juga tidak seluruhnya merupakan hak milik dari penduduk setempat, tetapi pengusaha dari pulau sebelah (seperti dari Pulau Salemo) maupun dari luar kepulauan ini.</p>
+<p style="text-align: justify;">
+	Penduduk Pulau ini umumnya berasal dari suku Bugis dan Makassar dan sebagian kecilnya dari etnis lain yang masuk ke pulau ini karena adanya proses perkawinan. Komposisi ini kemudian berpengaruh dalam pola interaksi penduduk keseharian yang pada umumnya menggunakan bahasa Bugis sebagai sarana komunikasi. Mata pencaharian penduduk pulau ini sebagian besar adalah nelayan penangkap rajungan dan ikan.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="eshp">Ekosistem dan Sumberdaya Hayati</a></h2>
+<p><div class="readmore"><p style="text-align: justify;">
+	<strong>Ekosistem dan Sumberdaya Hayati Pesisir</strong></p>
+<h1 style="text-align: justify;">
+	a. Terumbu Karang</h1>
+<h1 style="text-align: justify;">
+	Keakaragaman Hayati Terumbu Karang</h1>
+<p style="text-align: justify;">
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Pulau Sagara memiliki bentuk pulau yang panjang dengan sisi perairan yang dangkal pada bagian barat dan sisi perairan yang lebih dalam pada bagian timur. Perairan sekitar memiliki kekeruhan yang tinggi berwarna hijau kecoklatan. Substrat dasar perairan yang dapat terlihat dari atas permukaan kurang dari 1 meter. Substrat dasar pada umumnya merupakan pasir lumpur, lamun dan makro alga. Karang keras hidup (KKH) yang ditemukan cukup sedikit dan terpisah-pisah koloni satu dengan lainnya.</p>
+<h1 style="text-align: justify;">
+	Utara Pulau Sagara</h1>
+<p style="text-align: justify;">
+	Sebaran karang yang ditemukan pada bagian utara Pulau Sagara ditemukan hanya sampai pada kedalaman 2 meter. Selebihnya merupakan substrat pasir lumpur dan makro alga. Sebaran karang diantara lamun dan makro laga serta terpisah-pisah antara satu koloni dan lainnya. Kondisi substrat dasar di pulau ini dapat dilihat pada Gambar 3. Jarak pandang sangat terbatas saat pengambilan data walaupun di kedalaman yang cukup dangkal berkisar 50 cm &ndash; 1 meter (Gambar 4). Pengamatan dilakukan dengan manta tow karena kekeruhan yang cukup tinggi dan koloni-koloni karang (Gambar 5) yang terpisah-pisah dengan ukuran yang tidak begitu besar. Kondisi arus dan angin pada kondisi yang cukup tenang. Substrat dasar yang di dominasi oleh makro alga dan lamun memperlihatkan penutupan susbtrat KKH yang rendah. Dari pengamatan dengan manta tow penutupan KKH mencapai kurang dari 20% dengan kategori buruk. Sedimentasi pada permukaan koloni menjadi salah satu penyebab kematian karang serta persaingan ruang hidup pada substrat perairan.</p>
+<h1 style="text-align: justify;">
+	Barat Pulau Sagara</h1>
+<p style="text-align: justify;">
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Perairan bagian barat masih dipengaruhi oleh kekeruhan dan jarak pandang yang cukup pendek. Makro alga dan lamun masih menjadi ciri khas utama perairan sekitar Pulau Sagara. Sebaran KKH ditemukan pada kedalaman 1-2 meter, dengan sebaran koloni karang yang cukup banyak dan dilakukan pengamatan dengan transek garis (LIT). jarak pandang berkisar 50 cm -1 meter, sedang dengan persentase penutupan sebesar 30,12% (Gambar 9). Umumnya bentuk pertumbuhan karang yang ditemukan merupakan masif dan submasif. Beberapa dalam bentuk mengerak. Karang mati yang tertutup sedimentasi juga cukup banyak terlihat pada pengamatan di bagan barat. Penutupan karang mati mencapai 17,89%. Alga yang ditemukan merupakan jenis makro alga yang tumbuh di antara koloni-koloni karang maupun menutupi permukaan koloni karang. Penutupan alga mencapai 28,73%. Substrat abiotik yang dominan merupakan pasir lumpur dengan penutupan mencapai 17,79%. Sedangkan biotik yang ditemukan tidak begitu banyak dan penutupan substrat biotik sebesar 5,47%.</p>
+<h1 style="text-align: justify;">
+	Tingkat Kerusakan dan Penyebab Utama</h1>
+<p style="text-align: justify;">
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Kerusakan ekosistem perairan di sekitar Pulau Sagara yang sangat memiliki pengaruh paling kuat adalah perubahan lahan daratan menjadi tambak.</p>
+<h1 style="text-align: justify;">
+	Permasalahan Utama Pengelolaan Kawasan Terumbu Karang</h1>
+<p style="text-align: justify;">
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Permasalahan yang mendasar adalah sedimentasi dan kekeruhan perairan yang pengaruhnya paling besar berasal dari perubahan lahan menjadi area tambak. Irigasi yang terdapat di area tambak menjadi penyumbang sedimentasi ke perairan sekitar, termasuk juga nutrien dari sumber sisa-sisa pakan yang ikut terbawa. Sisa hasil keruk tambak juga dapat menyebabkan sedimentasi jika dibuang ke perairan maupun ke pesisir pulau yang selanjutnya akan terbawa arus. Pada bagian tambak, tanggul/pematang umumnya merupakan tumpukan karang yang diambil dari perairan sekitar dan menyebabkan kerusakan serta berkurangnya jumlah koloni karang. Keseluruhan lahan daratan pulau merupakan area tambak, hanya tersisa sedikit di bagian utara yang menjadi area perumahan penduduk pulau.</p>
+<h1 style="text-align: justify;">
+	Status Kawasan</h1>
+<p style="text-align: justify;">
+	Wilayah Pulau Sagara tidak termasuk dalam status kawasan apapun.</p>
+<h1 style="text-align: justify;">
+	Biota Asosiasi yang Ditemukan di Pulau</h1>
+<p style="text-align: justify;">
+	Pada pengamatan ditemukan sedikit sekali biota asosiasi yang ada pada substrat dasar. Jenis biota asosiasi yang dapat ditemukan adalah <em>Diadema</em> dan <em>Sabellidae</em>.</p>
+<h1 style="text-align: justify;">
+	b. Ikan Terumbu</h1>
+<p style="text-align: justify;">
+	Indeks nilai keanekaragaman di pulau ini berada pada kisaran angka 1 &lt;<em>H</em>&rsquo;&le; 3. Angka tersebut menggambarkan keanekaragaman ikan terumbu di pulau ini memiliki kompleksitas yang sedang, atau dengan kata lain interaksi jenis yang melibatkan transfer energi, predasi, kompetisi dan pembagian relung pada pulau tersebut tidak terlalu kompleks yang berakibat kestabilan komunitas tergolong sedang. Faktor lain yang menyebabkan rendahnya keanekaragaman jenis adalah banyak terdapat tambak di Pulau Sagara sehingga menyebabkan kekeruhan meningkat akibat pakan yang tenggelam.</p>
+<p style="text-align: justify;">
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Nilai indeks keseragaman dihitung guna melihat kelimpahan individu dari setiap jenis ikan. Pada umumnya nilai indeks keseragaman (E&rsquo;) memiliki korelasi positif terhadap indeks keanekaragaman.Nilai indeks keseragaman akan berbanding terbalik dengan nilai indeks dominansi. Semakin rendah atau semakin mendekati angka nol nilai yang diperoleh untuk indeks dominansi berarti terdapat jenis ikan terumbu yang mendominansi. Nilai indeks dominansi pada Tabel 3 menggambarkan tidak terjadi dominansi suatu jenis ikan terumbu di perairan pulau Sagara.</p>
+<h1 style="text-align: justify;">
+	Utara Pulau Sagara</h1>
+<p style="text-align: justify;">
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sisi utara Pulau Sagara memiliki jumlah jenis ikan yang ditemukan sebanyak 7 jenis yang termasuk ke dalam 5 jenis famili berbeda (Gambar 11). Famili yang paling banyak ditemukan pada saat pengamatan di sisi Utara adalah Acanthuridae dengan jenis yang ditemukan adalah <em>Acanthurus triostegus</em> (720 ind/ha).</p>
+<p style="text-align: justify;">
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Famili Pomacentridae merupakan famili kedua yang sering dijumpai di sisi Barat pulau Sagara. Famili tersebut didominasi oleh jenis ikan <em>Abudefduf vaigiensis</em> dengan kepadatan sebesar 200 ind/ha. Ikan ini memiliki ciri-ciri terdapat garis hitam vertikal sebanyak 5-7 di setiap sisinya.</p>
+<p style="text-align: justify;">
+	Jenis ikan <em>Pentapodus bifasciatus</em> merupakan salah satu ikan yang termasuk dalam famili Nemipteridae dengan kepadatan sebesar 80 ind/ha. Ikan ini relatif sedikit dijumpai karena pada umumnya ikan ini banyak mendiami perairan yang tenang. Famili Labridae juga termasuk famili yang memiliki kepadatan terendah di sisi Utara Pulau Sagara. Jenis yang ditemukan adalah <em>Halichoeres richmondi</em> dengan kepadatan yang tercatat sebesar 80 ind/ha. Kedua jenis ikan tersebut merupakan jenis ikan yang memangsa ikan-ikan kecil serta keluarga udang-udangan yang berada di dasar perairan. Pada sisi Utara pulau Sagara tidak ditemukan keberadaan ikan ekonomis penting.</p>
+<h1 style="text-align: justify;">
+	Barat Pulau Sagara</h1>
+<p style="text-align: justify;">
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Hasil pengamatan di sisi Barat pulau Sagara, tercatat sebanyak 12 jenis ikan yang terdapat dalam satu luasan (Gambar 12). Dari kedua belas jenis ikan tersebut, jenis <em>Pentapodus bifasciatus</em> merupakan jenis ikan yang paling banyak ditemukan. Jenis ikan lain yang berasal dari famili berbeda adalah jenis <em>Abudefduf vaigiensis</em> dengan kepadatan yang tercatat 200 ind/ha kemudian disusul dengan jenis <em>Apogon chrysopomus</em> dengan kepadatan 200 ind/ha.</p>
+<p style="text-align: justify;">
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Keanekaragaman pada tingkat famili, Pomacentridae merupakan jenis famili yang paling banyak memiliki jenis ikan terumbu. Sebanyak enam jenis ikan terumbu ditemukan di perairan sisi Barat pulau Sagara dengan jenis <em>Abudefduf vaigiensis</em> merupakan jenis yang mendominasi famili tersebut.</p>
+<p style="text-align: justify;">
+	Salah satu jenis ikan Gobbidae juga ditemukan di perairan Barat Pulau Sagara. Ikan jenis ini merupakan jenis ikan yang hidup didasar perairan dengan sirip perutnya yang sudah termodifikasi sehingga pada saat bergerak ikan ini terlihat berjalan menggunakan sirip perutnya.</p>
+<p style="text-align: justify;">
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Selain itu jenis ikan <em>Chelmon rostratus</em> juga dijumpai pada saat pengamatan. Ikan ini merupakan salah satu jenis ikan bio-indikator kesehatan terumbu karang. Memiliki bentuk tubuh yang oval dengan moncong yang memanjang guna menghisap hewan karang dan warna orange pada tubuhnya merupakan ciri khas yang dimiliki oleh ikan jenis ini. Pada sisi Barat pulau Sagara tidak ditemukan keberadaan ikan ekonomis penting.</p>
+<h1 style="text-align: justify;">
+	c. Ekosistem Lamun</h1>
+<p style="text-align: justify;">
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Pulau Sagara memiliki peruntukan lahan yang mirip dengan Pulau Sabangko yaitu sebagian besar lahannya digunakan untuk aktivitas tambak bandeng oleh penduduknya. Pemukiman penduduk terkonsentrasi di bagian utara Pulau Sagara, sisanya adalah tambak-tambak bandeng tersebut. Pulau Sagara juga hampir seluruhnya dikelilingi oleh tanggul tambak hanya bagian utara saja yang merupakan tanggul dermaga sehingga substrat dasar perairannya didominasi oleh lumpur. Namun, subsrat lumpur pada Pulau Sagara tidak setebal seperti pada Pulau Sabangko walaupun perairannya sama-sama keruh dan memiliki visibilitas yang rendah.</p>
+<p style="text-align: justify;">
+	Stasiun pengamatan lamun di Pulau Sagara berjumlah empat buah, tersebar di empat sisi pulau. Stasiun pengamatan yang pertamaberada di sisi timur Pulau Sagara berjarak 100 m dari tepi pantai dekat dengan ekosistem terumbu karang, pada stasiun ini ditemukan dua jenis lamun yaitu <em>Enhalus acoroides</em>dan <em>Cymodocea </em>rotundata. Stasiun kedua dan ketiga dekat dengan ekosistem mangrove masing-masing berada di sisi selatan dan barat Pulau Sagara, pada kedua stasiun ini hanya ditemukan satu jenis lamun saja yaitu <em>Enhalus acoroides</em>. Terakhir, stasiun keempat berada dekat dermaga, pada stasiun ini juga hanya ditemukan lamun jenis <em>Enhalus acoroides</em>.</p>
+<p style="text-align: justify;">
+	Ekosistem lamun memiliki banyak fungsi baik secara ekonomi terlebih lagi secara ekologi. Ekosistem lamun dimanfaatkan oleh beberapa biota laut sebagai tempat memijah, mencari makan, dan mencari perlindungan dari serangan predator karena sebagian besar predator memiliki ukuran tubuh yang besar sehingga sulit jika harus mengejar mangsanya ke zona perairan yang lebih dangkal. Pada ekosistem lamun juga kadang-kadang ditemukan biota yang menjadi inidikator pencemaran seperti bulu babi. Beberapa biota asosiasi yang hidup berdampingan di ekosistem lamun di Pulau Sagara diantaranya adalah makroalga, terumbu karang, bulu babi, ikan, dan moluska.</p>
+<h1 style="text-align: justify;">
+	d. Mangrove</h1>
+<p style="text-align: justify;">
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Pengamatan mangrove di Pulau Sagara mengambil lokasi stasiun pengamatan di bagian utara, timur, selatan, dan barat Pulau Sagara. Sama halnya dengan teatangganya Pulau Sabangko, Pulau Sagara dikelilingi oleh tanggul tambak sehingga substrat pesisirnya dominan lumpur walaupun tidak setebal di Pulau Sabangko. Hutan mangrove di Pulau Sagara masih tumbuh dengan lebat di sekeliling pesisirnya kecuali di bagian barat Pulau Sagara, karena pantainya merupakan pasir berbatu.</p>
+<p style="text-align: justify;">
+	Pulau Sagara hanya memiliki tiga jenis mangrove yang tumbuh di daerah pesisirnya, yaitu: <em>Rhizopora apiculata</em>, <em>Rhizopora stylosa</em>, dan <em>Aegiceras corniculatum</em>. Jenis mangrove yang paling dominan distribusinya adalah <em>Rhizopora apiculata</em> karena ditemukan di tiga stasiun pengamatan. Sedangkan, yang paling rendah distribusinya adalah mangrove jenis <em>Rhizopora stylosa</em> dan <em>Aegiceras corniculatum</em> karena hanya ditemukan di satu stasiun saja.</p>
+<p style="text-align: justify;">
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Titik stasiun pengamatan mangrove yang pertama berada di bagian utara Pulau Sagara dengan substratnya berupa lumpur. Pada titik pengamatan ini ditemukan dua spesies mangrove, yaitu <em>Rhizopora apiculata</em> dan<em>Rhizopora stylosa</em>.Masing-masing memiliki kerapatan berturut-turut sebesar 12 ind/m<sup>2 </sup>dan 7 ind/m<sup>2</sup>untuk kategori pohon serta6 ind/m<sup>2 </sup>dan 3 ind/m<sup>2</sup>untuk kategori anakan. Sedangkan, untuk kategori semai hanya ada dari jenis <em>Rhizopora apiculata </em>saja sebesar 8 ind/m<sup>2</sup>. Indeks Nilai Penting (INP) dari masing-masing spesies mangrove berturut-turut sebesar 169,99 dan 130,01 untuk kategori pohon serta 184,86 dan 115,14 untuk kategori anakan. Sedangkan, INP untuk kategori semai sebesar 200 untuk mangrove jenis <em>Rhizopora apiculata</em>.</p>
+<p style="text-align: justify;">
+	Titik stasiun pengamatan mangrove yang kedua adalah di bagian timur Pulau Sagara. Pada stasiun pengamatan ini hanya ditemukan satu jenis spesies mangrove saja yaitu <em>Rhizopora apiculata </em>untuk kategori pohon dan anakan sehingga nilai INP-nya masing-masing bernilai 300. Sedangkan, untuk kategori semai tidak ditemukan satu individu pun di dalam stasiun pengamatan mangrove. Kerapatan mangrove <em>Rhizopora apiculata </em>untuk kategori pohon dan anakan berturut-turut sebesar 17 ind/m<sup>2 </sup>dan 7 ind/m<sup>2</sup>.</p>
+<p style="text-align: justify;">
+	Titik stasiun pengamatan mangrove yang ketiga adalah di bagian selatan Pulau Sagara. Pada stasiun pengamatan ini juga hanya ditemukan satu jenis spesies mangrove saja yaitu <em>Rhizopora apiculata</em>. Kerapatan mangrove untuk kategori pohon, anakan, dan semai masing-masing sebesar 27, 6, dan 4 ind/m<sup>2</sup>. Oleh karena hanya ditemukan satu jenis mangrove saja di stasiun pengamatan ini maka nilai INP-nya untuk masing-masing kategori adalah sebesar 300, kecuali semai sebesar 200.</p>
+<p style="text-align: justify;">
+	Titik stasiun pengamatan mangrove yang terakhir adalah di bagian barat Pulau Sagara. Berbeda dengan stasiun pengamatan sebelumnya, dimana pohon mangrovenya tumbuh rapat dan lebat, di bagian barat Pulau Sagara pohon mangrovenya tumbuh <em>r</em>enggang dan jarang serta membentuk garis di sepanjang pesisir pantainya. Hal ini diduga disebabkan karena kondisi pantainya yang berupa pasir berbatu berbeda dengan bagian lain pulau yang dominan pasir berlumpur. Pada titik stasiun pengamatanini hanya ditemukan satu jenis mangrove yaitu <em>Aegiceras corniculatum </em>(Gambar 21). Mangrove jenis ini hanya ditemukan di bagian barat Pulau Sagara saja dan tidak ditemukan di bagian pulau yang lain ini disebabkan karena kondisi pesisirnya yang berbeda dengan kondisi pesisir di bagian pulau yang lain. Pada stasiun pengamatan ini didapatkan nilai kerapatan mangrove untuk kategori pohon dan semai masing-masing sebesar 9 dan 1 ind/m<sup>2</sup>. Dikarenakan hanya terdapat satu jenis mangrove yang tumbuh pada titik stasiun pengamatan ini maka nilai INP-nya masing-masing kategori bernilai 300 dan 200, walaupun demikian, di luar stasiun pengamatan banyak ditemukan mangrove jenis <em>Rhizopora apiculata</em> yang masih berukuran semai yang sengaja ditanam oleh penduduk untuk melindungi tambaknya. Mangrove-mangrove tersebut ditanam tepat di belakang barisan pohon mangrove yang tumbuh alami.</p>
+<p style="text-align: justify;">
+	Secara fisik hutan mangrove berfungsi sebagai peredam hempasan gelombang. Sistem perakarannya dapat berperan sebagai perangkap sedimen dan&nbsp; pemecah gelombang. Ekosistem mangrove juga berfungsi sebagai tempat memijah, mencari makan, dan berlindung dari serangan predator bagi beberapa biota laut. Selain biota laut, juga ditemukan biota lain yang hidup di eksositem mangrove yang ditemukan di Pulau Sagara diantaranya adalah burung laut dan gastropoda</p>
+</div></p>
+
+<hr>
+
+<h2><a id="snh">Sumberdaya Non Hayati</a></h2>
+<p><div class="readmore"><h2 style="text-align: justify;">
+	Sumberdaya Non Hayati Pesisir</h2>
+<p style="text-align: justify;">
+	Dari hasil survey dan wawancara dengan masyarakat, dipulau ini tidak terdapat sumberdaya non hayati pesisir</p>
+</div></p>
+
+<hr>
+
+<h2><a id="aps">Aktivitas Pengelolaan Sumberdaya</a></h2>
+<p><div class="readmore"><h2 style="text-align: justify;">
+	Perikanan Tangkap</h2>
+<p style="text-align: justify;">
+	Pulau Sagara merupakan wilayah yang memiliki&nbsp; potensi ekologis seperti ekosistem hutan mangrove dan sebagainya. Pulau ini termasuk daerah perlindungan laut (DPL) bersama dengan 2 pulau lainnya yaitu Salemo dan Sabangko. Pulau ini juga memiliki beberapa komoditas penting seperti kepiting rajungan, udang, teripang, ikan-ikan ekonomis penting.&nbsp; Namun demikian ada dugaan bahwa kepiting rajungan sebagai salah satu komoditas penting telah mengalami&nbsp;<em>over eksploitation. </em></p>
+<p style="text-align: justify;">
+	Penangkapan yang berlangsung secara terus menerus tanpa pengaturan dan pengendalian maka kapasitas pertumbuhan populasi suatu saat nanti&nbsp; akan&nbsp; menurun &nbsp;sehingga &nbsp;akan &nbsp;berbahaya &nbsp;terhadap&nbsp; kelestarian populasi kepiting rajungan. Penangkapan dilakukan oleh nelayan satu kali dalam &nbsp;satu hari yaitu berangkat sore hari dan kembali pagi atau&nbsp; siang &nbsp;hari berikutnya dan berangkat pagi hari dan kembali siang hari <em>(one day fishing).</em> Aktivitas penangkapan kepiting rajungan di Pulau ini menggunakan jaring dan bubu, karena sebagian besar nelayan yang beroperasi di pulau ini merasa bahwa penggunaan kedua alat tangkap tersebut tidak memerlukan&nbsp; biaya &nbsp;yang &nbsp;banyak &nbsp;dalam &nbsp;usahanya &nbsp;selama &nbsp;ini &nbsp;dan &nbsp;dua &nbsp;alat tangkap tersebut merupakan alat tangkap yang ramah lingkungan.</p>
+<p style="text-align: justify;">
+	Selain rajungan hasil tangkapan perikanan lainnya yaitu Kerapu, Bandeng dan udang. Sedangkan alat tangkap yang digunakan yaitu jaring dan pancing.</p>
+<h2 style="text-align: justify;">
+	Perikanan Budidaya</h2>
+<p style="text-align: justify;">
+	Selain perikanan tangkap, di pulau ini juga ada perikanan budidaya berupa tambak ikan bandeng dan rumput laut. Seperti Pulau Sabangko, tambak yang terdapat dipulau ini sebagian besar dimiliki oleh masyarakat dari luar pulau Sagara. Namun Tambak-tambak tersebut tidak bernilai ekonomis.&nbsp; Sedangkan budidaya rumput laut, pernah dicoba beberapa warga pulau, tapi tidak berlanjut&nbsp; disebabkan karena rumput laut yang mereka tanam banyak mengalami kematian.</p>
+<h2 style="text-align: justify;">
+	Pengolahan Hasil Perikanan</h2>
+<p style="text-align: justify;">
+	Aktifitas pengolahan hasil perikanan di pulau ini berupa pengeringan ikan skala rumah tangga dan dipasarkan untuk dalam pulau sendiri dan jika banyak dijual ke daratan Pangkep. Selain itu di pulau ini juga ada usaha perebusan Rajungan yang nantinya dijual kepada penampung yang berada diluar pulau Sagara.</p>
+<h2 style="text-align: justify;">
+	Pariwisata</h2>
+<p style="text-align: justify;">
+	Jenis wisata yang telah dikembangkan di Pulau ini belum ada karena pulau memang tidak diperuntukkan untuk menjadi tujuan wisata.</p>
+<h2 style="text-align: justify;">
+	Aktivitas Pengeloaan Sumberdaya Pertanian, Perkebunan dan Peternakan</h2>
+<p style="text-align: justify;">
+	Kondisi pertanian dan perkebunan di Pulau Sagara berdasarkan hasil survey dilapangan yang dominan berupa pisang dan kelapa. Buah kelapa dimanfaatkan oleh penduduk setempat untuk dijadikan kopra dan kebutuhan sehari-hari. Selain itu juga ada kebun penduduk yang memanfaatkan pekarangan atau tegalan disekitar pemukiman, berupa ubi kayu, jagung,kacang-kacangan dan nangka untuk dikonsumsi sendiri oleh penduduk pulau.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="ling">Lingkungan</a></h2>
+<p><div class="readmore"><h2 style="text-align: justify;">
+	Kualitas Perairan</h2>
+<p style="text-align: justify;">
+	Pulau Sagara merupakan salah satu pulau kecil di Pangkep. Kondisi perairan pulau segara memiliki kekeruhan yang cukup tinggi, dimana aktivitas daratan seperti tambak&nbsp; tambak memberikan dampak terhadap kualitas perairan di sekitarnya. Kementerian Kelautan dan Perikanan melakukan pengamatan dan memperoleh informasi dari hasil pengamatan di lapangan, bahwa suhu permukaan laut di Pulau Sagara bernilai 32,6&deg;C.</p>
+<p style="text-align: justify;">
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Salinitas di Pulau Sagara memiliki nilai sebesar 32 &permil;., selain itu diperoleh nilai pH sebesar 7,4. Kadungan oksigen merupakan salah satu parameter penting dalam mengkaji kelayakan perairan yang baik untuk biota laut. Dari pengkuran dilapangan diperoleh nilai oksigen terlarutnya (DO) sebesar 7,4 mg/l. Berdasarkan Keputusan Menteri Lingkungan Hidup No. 51 Tahun 2004, kisaran suhu, pH, dan oksigen terlarut ini masih pada kisaran normal. Menurut Mulyanto (1992), derajat keasaman (pH) yang baik untuk kehidupan ikan antara 5 &ndash; 9 dan antara 6,5 &ndash; 8,5 (KMNLH 2004). Dari hasil yang diperoleh, kadar oksigen terlarut di perairan ini masih dapat digunakan untuk kepentingan budidaya perikanan karena masih memenuhi nilai ambang batas oksigen &gt; 5 mg/l dan &gt; 4 mg/l (KMNLH 2004).</p>
+<p style="text-align: justify;">
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Nutrien atau bahan organik yang terkandung dalam kolom perairan menunjukkan tingkat kesuburan suatu perairan. Hasil dari laboratorium menunjukkan nilai konsentrasi nitrat di Pulau Sagara bernilai 0,026 mg/L. Sedangkan untuk kandungan ammonia pada Pulau ini memiliki nilai 0,088 mg/L, dan kandungan orto fosfat dan silikat memiliki nilai sebesar 0,012 mg/L dan 0,513 mg/L. Nilai nitrat di daerah ini sudah melampaui baku mutu yang telah ditetapkan berdasarkan kepmen-LH No 51 tahun 2004 untuk biota laut. Tampak jelas kegiatan tambak di pulau-pulau sekitarnya sangat berpengaruh, dimana buangan tambak mengsuplay bahan organik masuk ke perairan pada saat hujan, sehingga kandungan bahan organik di perairan Pulau Sagara meningkat. Kondisi ini tidak menguntungkan bagi lingkungan atau habitat terumbu karang, jika nutrien meningkat maka secara langsung akan meningkatkan sebaran alga pada substrat dasar ekosistem terumbu karang. Jika alga meningkat maka akan terjadi persaingan ruang, dan mengganggu pertumbuhan terumbu karang.</p>
+<h2 style="text-align: justify;">
+	Kerentanan Bencana dan Upaya Mitigasi</h2>
+<p style="text-align: justify;">
+	Hasil identifikasi potensi bencana yang berpeluang terjadi terhadap Pulau Sagara adalah sebagai berikut&nbsp; :</p>
+<ul>
+	<li style="text-align: justify;">
+		Kenaikan paras air laut (kenaikan MSL)</li>
+</ul>
+<p style="margin-left: 42.55pt; text-align: justify;">
+	Kenaikan paras air laut merupakan dampak dari pencairan bongkahan es di daerah kutub akibat global warming.&nbsp; Tinggi rata-rata topografi Pulau berkisar antara 0-3 meter diatas permukaan laut.&nbsp; Hal ini berarti bahwa adanya kenaikan air laut yang belaku secara global ikut menjadi ancaman nyata terhadap Pulau</p>
+<ul>
+	<li style="text-align: justify;">
+		Global warming atau kenaikan suhu merupakan bencana yang mengancam kehidupan laut khusunya terhadap kerusakan ekosistem terumbu karang karena ekosistem ini sangat rentan terhadap perubahan suhu.</li>
+	<li style="text-align: justify;">
+		Abrasi pantai merupakan ancaman terhadap pantai di Pulau Pantai karena substranya umumnya di dominasi oleh substrat pasir.&nbsp;</li>
+	<li style="text-align: justify;">
+		Gelombang tinggi; gelombang tinggi merupakan fenomena yang dapat terjadi jika terjadi kecepatan angin yang besar dan <em>fetch</em> yang besar pada suatu daerah/pulau.&nbsp; Pulau Sagara berpeluang mendapatkan gelombang yang cukup tinggi karena posisi geografis pulau ini terletak di Selat Makassar.</li>
+</ul>
+<h2 style="text-align: justify;">
+	Permasalahan Lingkungan</h2>
+<p style="text-align: justify;">
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Permasalahan lingkungan yang terjadi di pulau ini adalah adanya perubahan fungsi lahan dari mangrove menjadi tambak. Pembuatan tambak ini menggunakan batu karang sebagai tanggul. Hal ini dapat menyebabkan kerusakan ekosistem terumbu karang. Pembuatan tambak juga menyebabkan adanya sedimentasi pada perairan pulau ini.</p>
+<p style="text-align: justify;">
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Selain adanya kerusakan terumbu karang, ekosistem mangrove juga dimungkinkan rusak. Adanya aktivitas manusia tentu dapat berpengaruh terhadap kestabilan ekosistem mangrove yang ada di Pulau Sagara. Salah satunya adalah banyak ditemukannya sampah plastik, tali-tali tambang bekas, dan jaring bekas nelayan yang menempel di pohon-pohon mangrove. Namun, ancaman yang dapat mengganggu keseimbangan ekosistem mangrove di Pulau Sagara yang paling utama adalah maraknya aktivitas penebangan pohon mangrove terutama untuk kebutuhan pembuatan <em>inlet</em> / <em>outlet </em>bagi tambak bandeng milik warga.</p>
+<p style="text-align: justify;">
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Permasalahan terhadap tindakan menebang pohon mangrove tidak hanya merusak fungsi tanaman pesisir, namun merusak habitat bagi ikan&nbsp; ikan kecil dan juvenil. Secara ekologi, mangrove memiliki fungsi penting bagi juvenil ikan, jika habitat alami juvenil ikan ini rusak maka akan berdampak terhadap ikan konsumsi yang ada di Pulau Sagara. Dalam kurun waktu yang tidak lama, jika mangrove semakin menipis makan akan mengancam perikanan di Pulau Sagara dan pulau sekitarnya.</p>
+<p style="text-align: justify;">
+	Permasalahan lingkungan yang terjadi di Pulau Sagara adalah adanya pengrusakan terumbu karang untuk digunakan sebagai bahan bangunan, jalan, septik tank dan lain-lain sebagai alternatif terakhir jikalau tidak ada bahan lain. Hal ini akan berdampak pada ekosistem terumbu karang yang ada di pulau ini. Selain itu, pulau ini tergolong rawan terjadi penurunan kualitas hidup, kesehatan, bangunan dan atau lingkungan akibat rendahnya akses terhadap layanan sektor sanitasi dan perilaku hidup bersih dan sehat. Penyebab utama resiko ini adalah sampah, limbah domestik, Perilaku Hidup yang kurang Bersih dan Sehat, dan air bersih.</p>
+<p style="text-align: justify;">
+	Selain itu ancaman permasalahan lingkungan lainnya yang dapat terjadi di Pulau Sagara adalah pengaruh dari aktivitas di daratan.&nbsp; Hal ini dapat berdampak secara langsung misalkan ditemukannya sebaran sampah disekitar pantai pulau ini yang terbawah arus dari pesisir daratan utama tersebut.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="sp">Sarana dan Prasarana</a></h2>
+<p><div class="readmore"><h2 style="text-align: justify;">
+	Sarana Prasarana</h2>
+<p style="text-align: justify;">
+	<strong>a. Sarana Pendidikan</strong></p>
+<p style="margin-left: 21.3pt; text-align: justify;">
+	Sarana pendidikan yang terdapat dipulau ini hanya terdapat Sekolah Dasar dimana Sekolah Dasar ini hanya memiliki 4 ruang kelas, dengan jumlah pengajar berjumlah 8 orang yang terdiri dari 4 PNS dan 4 orang honorer.</p>
+<p style="text-align: justify;">
+	<strong>b. Sarana Kesehatan</strong></p>
+<p style="margin-left: 21.3pt; text-align: justify;">
+	Di Pulau ini tidak terdapat puskesmas, yang ada hanya pelayanan kesehatan desa yang melayani penduduk sekali seminggu. Untuk mendapatkan pelayanan kesehatan penduduk pulau ini biasanya pergi berobat ke puskesmas terdekat yaitu di pulau Salemo atau ke daratan Pangkep.</p>
+<p style="text-align: justify;">
+	<strong>c. Sarana Ibadah</strong></p>
+<p style="margin-left: 21.3pt; text-align: justify;">
+	Agama yang dianut oleh penduduk di Pulau Sagara adalah Islam. Di pulau ini&nbsp; terdapat 1 (satu) unit mesjid yang terdapat ditengah-tengah perkampungan.</p>
+<p style="text-align: justify;">
+	<strong>d. Sarana Transportasi</strong></p>
+<p style="text-align: justify;">
+	Kondisi jalan di Pulau Sagara merupakan jalan setapak dengan kondisi masih jalan tanah. Transportasi antar&nbsp; pulau&nbsp; memanfaatkan kapal kayu atau ketinting&nbsp; yang terdapat di pulau, Selain itu di pulau ini sudah terdapat Dermaga dari kayu dengan kondisi yang kurang terawat.</p>
+<p style="text-align: justify;">
+	<strong>e. Sarana Air Bersih dan Sanitasi Lingkungan</strong></p>
+<p style="margin-left: 21.3pt; text-align: justify;">
+	Kebutuhan air bersih untuk Mandi dan cuci di Pulau ini diperoleh melalui sumur yang kualitas airnya payau dan air hujan, sedangkan untuk memenuhi kebutuhan air minum, penduduk Pulau Sagara menggunakan air hujan dan air gallon yang di beli dari daratan dengan harga Rp. 6.000,- /gallon atau Rp. 5.000,-/dirigen.</p>
+<p style="margin-left: 21.3pt; text-align: justify;">
+	Kondisi sanitasi lingkungan disekitar Pulau ini masih perlu ditingkatkan lagi seperti menjaga kebersihan pulau. Fasilitas MCK atau WC dipulau ini masih belum memadai karena tidak setiap rumah memiliki MCK dan masih banyak perilaku penduduk pulau yang buang hajat di pantai. MCK yang ada dipulau berupa WC umum sebanyak 1 buah yang merupakan bantuan dari salah satu parpol.</p>
+<p style="text-align: justify;">
+	<strong>f. Sarana Penerangan</strong></p>
+<p style="margin-left: 21.3pt; text-align: justify;">
+	Sarana penerangan di Pulau ini adalah listrik yang berasal dari Pembangkit Listrik Tenaga Diesel yang beroperasi sekitar lima jam pada malam hari yaitu pada jam 18.00 sampai dengan jam 23.00, dengan iuran sebesar Rp. 90.000 per rumah yang alirkan ke rumah-rumah. Selain itu di pulau ini juga sudddah dibangun PLTS dari Kementerian ESDM Tahun 2013, tapi pada saat disurvei dilokasi, PLTS ini belum berfungsi.</p>
+<p style="text-align: justify;">
+	<strong>g. Sarana Pendukung Kepemerintahan </strong></p>
+<p style="margin-left: 21.3pt; text-align: justify;">
+	Sarana Pendukung Kepemerintahan di Pulau ini untuk mewadahi kepentingan-kepentingan yang ada di masyarakat khususnya yang berhubungan dengan bangunan kepemerintahan belum tersedia. Pulau Sagara terdiri dari 1 RT, sedangkan untuk kantor desa yang mewadahi kepentingan penduduk pulau, terdapat dipulau Salemo.</p>
+<p style="text-align: justify;">
+	<strong>h. Alat Komunikasi dan Pendukung Lainnya</strong></p>
+<p style="margin-left: 21.3pt; text-align: justify;">
+	Alat komunikasi yang dapat digunakan di Pulau Sagara adalah jaringan telepon seluler. Sarana jenis komunikasi ini sudah cukup efektif dalam melakukan komunikasi secara umum. Sedangkan untuk menangkap siaran televisi penduduk pulau menggunakan antena parabola atau TV kabel untuk menangkap chanel televisi.&nbsp; Untuk memenuhi kebutuhan sehari-hari selain dari daratan, di pulau ini juga terdapat warung-warung yang menyediakan kebutuhan pokok.</p>
+<p>
+	&nbsp;</p>
+</div></p>
+
+<hr>
+
+<h2><a id="pi">Peluang Investasi</a></h2>
+<p><div class="readmore"><h2 style="text-align: justify;">
+	Peluang Investasi</h2>
+<p style="text-align: justify;">
+	Peluang investasi yang bisa dikembangkan dipulau ini antara lain :</p>
+<ol style="list-style-type:lower-alpha;">
+	<li style="text-align: justify;">
+		Budidaya Rumput Laut</li>
+	<li style="text-align: justify;">
+		Budidaya Kepiting rajungan,</li>
+	<li style="text-align: justify;">
+		Pengembangan budidaya tambak yang banyak terdapat di pulau Sagara</li>
+</ol>
+</div></p>
+
+<hr>
+
+<h2><a id="pap">Potensi dan Arahan Pengembangan</a></h2>
+<p><div class="readmore"><h2 style="text-align: justify;">
+	Potensi Pengembangan Potensi Pulau Sagara</h2>
+<ol style="list-style-type:lower-alpha;">
+	<li style="text-align: justify;">
+		Potensi Budidaya Perikanan (Budidaya Bandeng)</li>
+</ol>
+<p style="margin-left: 21.3pt; text-align: justify;">
+	Luasnya wilayah tambak di Pulau Sagara, yang belum dimanfaatkan secara optimal, merupakan sumberdaya alam yang bisa dikembangkan lebih lanjut dengan adanya bantuan modal dan peningkatan pengetahuan masyarakat (SDM).</p>
+<ol style="list-style-type:lower-alpha;">
+	<li style="text-align: justify;" value="2">
+		Potensi Perikanan Tangkap</li>
+</ol>
+<p style="margin-left: 21.3pt; text-align: justify;">
+	Pengembangan perikanan tangkap selain rajungan di Pulau ini sangat potensial dilakukan namun harus dilakukan dengan memperhitungkan keberlanjutan sumberdaya ikan melalui upaya-upaya penanggkapan ikan yang ramah lingkungan.&nbsp; Apabila upaya pernangkapan tidak dikembangkan ke sektor perikanan tangkap selain rajungan, maka secara biologis berbahaya terhadap populasi dan akan menimbulkan kerugian ekonomi. Untuk itu pengaturan dan pengendalian upaya penangkapan sesuai dengan standar upaya optimum perlu dilakukan untuk menjaga keseimbangan biologis dan mencegah terjadinya kerugian usaha nelaya kepiting rajungan.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="kp">Kendala Pengembangan</a></h2>
+<p><div class="readmore"><p>
+	<strong>Kendala Pengembangan Pulau</strong></p>
+<p style="margin-left:14.2pt;">
+	Kendala pengembangan pulau ini antara lain adalah :</p>
+<ol>
+	<li>
+		Ketersediaan sarana dan prasarana yang sangat minim.</li>
+	<li>
+		Permasalahan sumberdaya listrik yang belum bisa menyala selama 24 jam, masyarakat meminta adanya bantuan tenaga listrik yang bisa menyala 24 jam. Sebab listrik merupakan kebutuhan utama masyarakat khususnya untuk perkantoran, sekolah dan home industri.</li>
+	<li>
+		Sarana transportasi antar pulau yang masih sangat terbatas yaitu belum ada kapal regular yang berangkat sekali dalam sehari saja menuju daratan Pangkep.</li>
+	<li>
+		Aksesibilitas dan jaringan jalan di pulau yaitu kondisi jalan setapak.</li>
+	<li>
+		Masih sulitnya jaringan telekomunikasi yang ada di Pulau.</li>
+	<li>
+		Kesulitan mengenai dana juga menjadi kendala terpenting untuk melakukan budidaya.</li>
+	<li>
+		Kendala lainnya seperti sarana air bersih dan kontur daerah yang berbukit dan berbatu. Selain itu &nbsp;terjadinya abrasi dipantai juga menjadi permasalahan tersendiri dalam pengembangan pulau.</li>
+</ol>
+<p style="margin-left:21.3pt;">
+	&nbsp;</p>
+<p>
+	&nbsp;</p>
+</div></p>
+
+<hr>
+
+<h2><a id="rf">Referensi</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<br />
+	<i> 
+		<p style="font-size:12px;">
+			Karena keterbatasan SDM dalam penginputan dan pengolahan data, kami mohon maaf atas ketidak lengkapan beberapa data pulau yang kami tampilkan, harap dimaklumi.
+			Berikan keritik dan saran pada kolom komentar agar kita dapat bersama menyajikan sebuah data yang cukup sempurna untuk halayak ramai yang berguna
+			demi kesejahterahan, kelestarian dan keindahan pulau-pulau kecil yang dimiliki Indonesia.<br />
+			*Jika sekiranya anda memiliki data yang cukup banyak, silakan mengirimkan file melalui email kami di <b><a>identifikasippk@gmail.com</a></b>
+			
+		</p>
+	</i>
+<br />
+
+<div id="fb_comn" class="fb-comments" data-href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_info/8125" data-width="800" data-numposts="5" data-colorscheme="light"></div>
+
+
+</div>
+</div>
+</div>
+<div id="wrapper">
+
+<div class="footer"><p>
+<!--<marquee onmouseover="this.stop()" onmouseout="this.start()" scrollamount="5" direction="right" width="798" height="14"  behavior="scroll">-->
+<a href="http://www.ppk-kp3k.kkp.go.id/" target="_blank">Direktorat Pendayagunaan Pulau-Pulau Kecil &nbsp; | &nbsp;</a>
+<a href="http://www.kp3k.kkp.go.id/" target="_blank">Ditjen Kelautan, Pesisir dan Pulau-Pulau Kecil &nbsp; | &nbsp;</a>
+<a href="http://www.kkp.go.id/" target="_blank">Kementerian Kelautan dan Perikanan</a>
+<!--</marquee>--> <br />
+Jl. Medan Merdeka Timur No. 16 Gedung Mina Bahari 3 Lantai 10, Jakarta, Indonesia <br />
+Email : identifikasippk@gmail.com <br />
+Telp &amp; Fax: (021) 3522058 <br />
+&copy; Copyright Direktorat Pendayagunaan Pulau-Pulau Kecil 2012&nbsp; <br /></p>
+</div>
+</div>
+</body>
+</html>

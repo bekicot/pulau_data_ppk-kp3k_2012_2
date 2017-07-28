@@ -1,0 +1,482 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Pulau Propos</title>
+
+<meta charset="utf-8"/>
+
+<meta property="fb:app_id" content="559408774147878" />
+
+
+<meta property="og:title" content="Pulau Propos" />
+<meta property="og:url" content="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_info/289" />
+
+
+    <script type="text/javascript" src="http://ajax.microsoft.com/ajax/jquery/jquery-1.4.4.min.js">
+    </script>
+    
+    <script type="text/javascript" src="http://plugins.learningjquery.com/expander/jquery.expander.js">
+    </script>
+    
+    <script type="text/javascript">
+        $(function () {
+            $('div.readmore').expander({
+                slicePoint:200,
+                expandText: '(Baca selengkapnya)',
+                userCollapseText: '(Sembunyikan selengkapnya)'
+            });
+        });
+    </script>
+        
+	<script src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/galleria/galleria-1.2.8.min.js"></script>
+
+        <SCRIPT TYPE="text/javascript">
+            <!--
+            //Disable right click script
+            //visit http://www.rainbow.arch.scriptmania.com/scripts/
+            var message="Sorry, right-click has been disabled";
+            ///////////////////////////////////
+            function clickIE() {if (document.all) {(message);return false;}}
+            function clickNS(e) {if
+            (document.layers||(document.getElementById&&!document.all)) {
+            if (e.which==2||e.which==3) {(message);return false;}}}
+            if (document.layers)
+            {document.captureEvents(Event.MOUSEDOWN);document.onmousedown=clickNS;}
+            else{document.onmouseup=clickNS;document.oncontextmenu=clickIE;}
+            document.oncontextmenu=new Function("return false")
+            // -->
+            </SCRIPT>
+            
+            <SCRIPT TYPE="text/javascript">
+            <!--
+            //Disable select-text script (IE4+, NS6+)
+            //visit http://www.rainbow.arch.scriptmania.com/scripts/
+            ///////////////////////////////////
+            function disableselect(e){
+            return false
+            }
+            function reEnable(){
+            return true
+            }
+            //if IE4+
+            document.onselectstart=new Function ("return false")
+            //if NS6
+            if (window.sidebar){
+            document.onmousedown=disableselect
+            document.onclick=reEnable
+            }
+            // -->
+            </SCRIPT>  
+              
+<link rel="stylesheet" type="text/css" href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/css/main.css" media="screen"/>
+<style type='text/css'>
+#info_wrap{
+	width:820px;
+	margin:0 auto;
+	text-shadow:0px 1px 1px #09F;
+}
+table{
+	color:#000000;
+}
+h1{
+	color:#000000;
+}
+.tengahin{
+	width: 105px;
+	height: 30px;
+	margin: 0 auto auto auto;
+}
+#box_view{
+	background-image:-webkit-gradient(linear, 0 0%, 0 100%, from(#FFFFFF), to(#E0F0F5));
+	background:#FFF;
+	color:#F60;
+	border: 1px solid #fff;
+	border-radius: 4px 4px 4px 4px;
+	box-shadow: 0 8px 6px -6px black;
+	position:fixed;
+	right:0;
+	top:150px;;
+	width:80px;
+	z-index:10;
+	padding-left:12px;
+	font-size:10px;
+	}
+#box_view li{
+	color:#F60;
+	margin-left:-30px;
+	}
+	#wrapper a b {
+	color: #FFF;
+	font-size:14px;
+}
+.batas{
+	float:left;
+	border-right-style:inset;
+	border-right-width:thin;
+	}
+.text_h_wrap{
+	
+	padding-left:450px;
+	padding-top:39px;
+	text-shadow:0px 1px 1px #09F;
+	}
+#wrapper .footer p{
+	font-size:12px;
+	color: #FFF;
+	text-align:center;
+	text-shadow:0px 1px 1px #09F;
+}
+td,th {
+	font-size: 12px;
+}
+
+marquee a{
+	color:#FFF
+	}
+#wrapper .footer a{
+	color: #FFFFFF;
+}
+</style>
+            
+<script>
+function goBack()
+  {
+  window.history.back()
+  }
+</script>
+<script type="text/javascript">
+function Popup( url, height, width )
+{
+    var windowProperties = "toolbar = 0, scrollbars = 1, location = 0, statusbar = 0, menubar = 0, resizable = 1, width = " + width + ", height = " + height + ", left = 50, top = 50";
+ 
+    return window.open( url, "", windowProperties );
+}
+</script>
+
+
+
+</head>
+<body oncontextmenu='return false;' onkeydown='return false;' onmousedown='return false;'>
+
+<a id="top_view"></a>
+<div id="wrapper">
+<div class="header_wrap">
+<div class="text_h_wrap">
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/home_page'><b>&nbsp;Home&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/menu_info/1'><b>&nbsp;About Us&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_data'><b>&nbsp;Direktori Pulau&nbsp;&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/program_ip'><b>&nbsp;IKU&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/data_ppkt'><b>&nbsp;PPKT&nbsp;</b></a>
+</div>
+<!--<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/maintenance'><b>&nbsp;Login&nbsp;</b></a>-->
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/dir_log_cont'><b>&nbsp;Login&nbsp;</b></a>
+
+</div>
+</div>
+</div>
+
+<div id="fb-root"></div>
+<script>
+  window.fbAsyncInit = function() {
+    // init the FB JS SDK
+    FB.init({
+      appId      : '559408774147878',                        // App ID from the app dashboard
+      status     : true,                                 // Check Facebook Login status
+      xfbml      : true                                  // Look for social plugins on the page
+    });
+
+    // Additional initialization code such as adding Event Listeners goes here
+  };
+
+  // Load the SDK asynchronously
+  (function(){
+     // If we've already installed the SDK, we're done
+     if (document.getElementById('facebook-jssdk')) {return;}
+
+     // Get the first script element, which we'll use to find the parent node
+     var firstScriptElement = document.getElementsByTagName('script')[0];
+
+     // Create a new script element and set its id
+     var facebookJS = document.createElement('script'); 
+     facebookJS.id = 'facebook-jssdk';
+
+     // Set the new script's source to the source of the Facebook JS SDK
+     facebookJS.src = '//connect.facebook.net/en_US/all.js';
+
+     // Insert the Facebook JS SDK into the DOM
+     firstScriptElement.parentNode.insertBefore(facebookJS, firstScriptElement);
+   }());
+</script>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=559408774147878";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="box_view">
+    <a href="#top_view">MENU</a>
+    <h3><p>Lihat Informasi:</p></h3>
+    <ul>
+	<a href="#sf"><li>Slide Foto</li></a>
+    <a href="#gu"><li>Gambaran Umum</li></a>
+    <a href="#ksbk"><li>Kependudukan, Sosial Budaya dan Kelembagaan</li></a>
+    <a href="#eshp"><li>Ekosistem dan Sumberdaya Hayati</li></a>
+    <a href="#snh"><li>Sumberdaya Non Hayati</li></a>
+    <a href="#aps"><li>Aktivitas Pengelolaan Sumberdaya</li></a>
+    <a href="#ling"><li>Lingkungan</li></a>
+    <a href="#sp"><li>Sarana dan Prasarana</li></a>
+    <a href="#pi"><li>Peluang Investasi</li></a>
+    <a href="#pap"><li>Potensi Arahan Pengembangan</li></a>
+    <a href="#kp"><li>Kendala Pengembangan</li></a>
+	<a href="#rf"><li>Referensi</li></a>
+    </ul>
+    <a href="#fb_comn">KOMENTAR</a>
+</div>
+
+<br>
+			<a id="sf"></a></h2>
+			<div id="galleria">
+            <!--<div class='tengahin'><input type="button" value="Kembali Ke List" onclick="goBack()"></div>-->
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/0d5d-p3070682.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__0d5d-p3070682.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/bd9f-102_5449.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__bd9f-102_5449.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/1f00-102_5316.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__1f00-102_5316.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/36f3-dsc02180.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__36f3-dsc02180.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/7482-102_5572.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__7482-102_5572.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/2563-dsc02196.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__2563-dsc02196.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/06a5-dsc02202.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__06a5-dsc02202.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/4346-dsc02224.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__4346-dsc02224.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/b136-p3070617.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__b136-p3070617.jpg" data-description=""></a></p>
+                                
+                <p><a href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/9278-p3070667.jpg"><img src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/assets/uploads/img/thumb__9278-p3070667.jpg" data-description=""></a></p>
+                            </div>
+            
+            <script>
+            Galleria.loadTheme('http://www.ppk-kp3k.kkp.go.id/direktori-pulau/galleria/themes/classic/galleria.classic.min.js');
+            Galleria.run('#galleria');
+            </script>
+</div>
+
+<div id="text_warp">
+
+
+<p><h1>Propos</h1></p>
+<table>
+<tr>
+	<td>Nama Lain</td> <td>:</td> <td></td>
+</tr>
+<tr>
+	<td>Propinsi</td> <td>:</td> <td>KEPULAUAN RIAU</td>
+</tr>
+<tr>
+	<td>Kabupaten</td> <td>:</td> <td>KABUPATEN KARIMUN</td>
+</tr>
+<tr>
+	<td>Kecamatan</td> <td>:</td> <td>Kundur</td>
+</tr>
+<tr>
+	<td>Koordinat</td> <td>:</td> <td><a href="http://www.ppk-kp3k.kkp.go.id/giskkp/index.html?extent="target="_blank"><p>
+	00<sup>0</sup> 40&#39; 28.89&quot; LU dan 103<sup>0</sup> 34&#39; 29.02&quot; BT</p>
+</a></td>
+</tr>
+</table>
+<hr>
+
+<h2><a id="gu">Gambaran Umum</a></h2>
+<p><div class="readmore"><p style="margin-left:.25in;">
+	Pulau Propos mempunyai sejarah penamaan pulau yang cukup unik sehingga pulau ini dinamakan Propos. Pada zaman dahulu ada seseorang dari Pulau Manda yang bernama Propos menderita sakit kusta yang cukup parah. Untuk menghindari penularan ke warga lainnya di Pulau Manda maka Propos diasingkan ke suatu pulau yang tidak berpenduduk. Akan tetapi selama tinggal di pulau ini, Propos mengalami sesuatu keajaiban yaitu penyakit kusta yang dia derita sembuh dengan sendirinya.&nbsp; Berasal dari cerita ini lah masyarakat memberikan nama pulau yang tadinya tidak berpenduduk ini dengan nama Pulau Propos.</p>
+<p style="margin-left:.25in;">
+	Secara adminstratif Pulau Propos termasuk ke dalam wilayah Desa Ngal, Kecamatan Kundur, Kabupaten Karimun, Provinsi Kepulauan Riau. Pulau berpenduduk ini secara geografis terletak pada posisi 00&deg; 40&rsquo; 28&rsquo;&rsquo; LU dan 103&deg; 34&rsquo; 37&rsquo;&rsquo; BT.</p>
+<p style="margin-left:.25in;">
+	Aksesibilitas menuju ke Pulau Propos menggunakan transportasi laut, dengan moda perahu 40 PK dan dapat ditempuh dalam waktu 1 jam 10 menit apabila kondisi perairan tenang dari Pelabuhan Tanjung Baloi Karimun. Untuk menuju Pulau Propos masyarakat biasanya menyewa perahu atau menggunakan perahu pribadi dikarenakan tidak adanya perahu penyeberangan regular yang melayani rute menuju ke Pulau Propos.</p>
+<p style="margin-left:.25in;">
+	Wilayah Pulau Propos saat ini memiliki status hak milik masyarakat (tanah ulayat) setempat yang sudah menempati pulau tersebut semenjak zaman Belanda. Status kepemilikan pulau saat ini dimiliki oleh masyarakat Pulau Propos. Kepemilikan masing-masing lahan digunakan untuk bangunan rumah, perkebunan karet, hutan dan pertambangan bauksit.</p>
+<p style="margin-left:.25in;">
+	Pulau Propos memiliki topografi wilayah berbukit (15-45 meter dpl) dengan morfologi pantai bervegetasi mangrove. Jenis penggunaan lahan di Pulau Propos berupa penggunaan untuk pemukiman, perkebunan karet, hutan, semak belukar, pertambangan bauksit. Penggunaan lahan di Pulau Propos didominasi oleh penggunaan lahan untuk pertambanagan bauksit. Saat ini areal perkebunan karet sudah sangat berkurang seiring dengan bertambah luasnya areal pertambangan bauksit.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="ksbk">Kependudukan, Sosial Budaya dan Kelembagaan</a></h2>
+<p><div class="readmore"><p style="margin-left:.25in;">
+	Pulau Propos mempunyai jumlah penduduk sebanyak 192 jiwa atau 56 KK. Mata pencaharian utama penduduk Pulau Propos tahun 2011 secara umum 90% bekerja di iasi pertambangan bauksit sedangkan sisanya berprofesi sebagai nelayan. Sebelum adanya pertambangan bauksit, wilayah Pulau Propos ditumbuhi oleh Pohon Karet sehingga sebagian besar penduduknya dahulu adalah petani karet. Pembukaan pertambangan bauksit menyebabkan mata pencaharian penduduk Pulau Propos beralih menjadi pekerja tambang bauksit dikarenakan sudah tidak adanya areal pohon karet.</p>
+<p style="margin-left:.25in;">
+	Pemukiman masyarakat sebagian besar terpusat di bagian Utara Pulau Propos sedangkan hanya beberapa kepala keluarga yang tinggal di bagian Barat Pulau Propos. Jumlah penduduk yang beragama Islam merupakan jumlah mayoritas (100%) dari jumlah keseluruhan penduduk Pulau Propos pada tahun 2011. Nilai-nilai yang terkandung dalam syariat islam mewarnai orientasi budaya dan kelembagaan masyarakat setempat. Masyarakat Pulau Propos masih terikat dengan nilai-nilai luhur budaya Melayu dimana secara kuantitatif masyarakatnya didominasi oleh etnis Melayu, disamping itu terdapat juga etnis pendatang seperti etnis Bugis dan Jawa.</p>
+<p style="margin-left:.25in;">
+	Pulau Propos termasuk ke dalam RT 01 / RW 01 dalam administratif Desa Ngal. Untuk memenuhi kebutuhan hidup sehari-hari, masyarakat Pulau Propos biasanya berbelanja di Tanjung Batu, Kecamatan Kundur. Kegiatan belanja kebutuhan hidup sehari-hari ini dilakukan setiap 2-3 kali seminggu atau ketika ada kebutuhan medesak dikarenakan waktu tempuh menuju Tanjung Batu tidak memakan waktu yang terlalu lama yaitu hanya 40 menit.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="eshp">Ekosistem dan Sumberdaya Hayati</a></h2>
+<p><div class="readmore"><p style="margin-left:.25in;">
+	Ekosistem mangrove mendominasi sekeliling Pulau Propos. Pada bagian selatan dan barat Pulau Propos mangrove masih tumbuh dengan kerapatan yang cukup tinggi. Vegetasi lain yang dapat dijumpai di Pulau Propos antara lain pohon kelapa, nipah dan pohon karet.&nbsp;</p>
+<p style="margin-left:.25in;">
+	Komposisi jenis mangrove yang paling mendominasi di Pulau Propos ialah <em>Rhizophora mucronata </em>yang dikenal dengan nama Bakau Hitam. Hampir di sekeliling pulau ini, terutama di bagian utara tampak jelas adanya jenis mangrove bakau dengan perakarannya yang khas berupa akar tongkat/tunjang.</p>
+<p style="margin-left:.25in;">
+	Selain tanaman bakau, di Selatan Pulau Propos dapat ditemukan jenis mangrove <em>Nypa fruticans </em>(nipah) yang cukup mencolok dan merupakan satu-satunya jenis palem yang ditemukan di hutan mangrove, kemudian jenis <em>Sonneratia alba </em>(bogem/pedada), <em>Xylocarpus granatum </em>(nyireh), <em>Ceriops tagal </em>(tengal),<em> Avicennia marina </em>(pejapi),<em> Avicennia officinalis </em>(papi), dan <em>Avicennia alba </em>(api-api).</p>
+</div></p>
+
+<hr>
+
+<h2><a id="snh">Sumberdaya Non Hayati</a></h2>
+<p><div class="readmore"><p>
+	Sumberdaya hayati non pesisir yang terdapat di Pulau Propos adalah bauksit.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="aps">Aktivitas Pengelolaan Sumberdaya</a></h2>
+<p><div class="readmore"><p style="margin-left:.25in;">
+	Hanya sebagian kecil penduduk Pulau Propos yang berprofesi sebagai nelayan. Daerah penangkapan perikanan umumnya dilakukan oleh masyarakat Pulau Propos di sekitar perairan Pulau Propos dan Pulau Kas. Nelayan melakukan aktivitasnya setiap hari baik pada siang hari maupun pada malam hari tergantung pada jenis ikan yang ditangkap. Jenis hasil tangkapan di sekitar pulau berupa Ikan Lome, Ikan Kambiang dan Ikan Duri.</p>
+<p style="margin-left:.25in;">
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p style="margin-left:.25in;">
+	Hasil tangkapan nelayan Pulau Propos biasanya hanya untuk memenuhi kebutuhan hidup sehari-hari. Jika mendapat tangkapan ikan yang melimpah, baru hasil tangkapan tersebut dijual ke Pulau Kas hingga ke Tanjung Batu. Alat tangkap yang beroperasi di sekitar perairan Pulau Propos adalah alat tangkap pancing dan jaring insang permukaan (<em>Gillnet</em>). Sedangkan perahu yang digunakan adalah perahu dayung dan perahu motor.</p>
+<p style="margin-left:.25in;">
+	<strong>Peternakan</strong></p>
+<p style="margin-left:.25in;">
+	Kegiatan peternakan yang dilakukan di Pulau Panjang berupa ternak unggas yaitu ayam dan kambing. Kapasitasnya hanya sedikit hanya untuk kebutuhan rumah tangga masyarakat Pulau Propos.</p>
+<p style="margin-left:.25in;">
+	<strong>Perkebunan</strong></p>
+<p style="margin-left:.25in;">
+	Kegiatan perkebunan di Pulau Propos berupa perkebunan rakyat yang memanfaatkan lahan yang ada di kawasan hutan adapun jenis tanaman perkebunannya adalah perkebunan karet. Akan tetapi saat ini kegiatan perkebunan karet sudah tidak dilaksanakan lagi dikarenakan lahannya telah digunakan untuk pembukaan tambang bauksit hingga 5 tahun ke depan.</p>
+<p>
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Kehutanan</strong></p>
+<p style="margin-left:.25in;">
+	Keberadaan hutan di Pulau Propos terdapat di bagian timur pulau dengan luasan hutan yang tidak luas. Keberadaan hutan di Pulau Propos adalah hutan sekunder yang ditumbuhi berbagai macam tumbuhan. Di hutan alami ini merupakan habitat dari hewan kera yang mendiami Pulau Propos.</p>
+<p>
+	&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; <strong>Pertambangan</strong></p>
+<p style="margin-left:.25in;">
+	Pertambangan bauksit yang terdapat di Pulau Propos dikelola oleh PT. Bukit Mawar Indah. Selain di Pulau Propos, PT. Bukit Mawar Indah juga mengelola pertambangan bauksit di Pulau Kas. Akan tetapi areal pertambangan bauksit di Pulau Propos jauh lebih luas dibandingkan yang ada di Pulau Kas. Hal ini disebabkan bauksit yang dihasilkan di Pulau Propos mempunyai kualitas yang lebih baik dan dapat dijadikan campuran untuk bauksit yang dihasilkan di Pulau Kas.</p>
+<p style="margin-left:.25in;">
+	PT. Bukit Mawar Indah baru beroperasi di Pulau Propos selama 1 tahun yaitu sejak tahun 2011 dengan kontrak pengelolaan tanah pertambangan bauksit dengan masyarakat selama 5 tahun. Saat ini sudah 180 Ha lahan di Pulau Propos yang digali untuk penambangan bauksit. Sebagai bentuk kepedulian PT. Bukit Mawar Indah terhadap masyarakat Pulau Propos, masyarakat dilibatkan sebagai pekerja tambang bauksit sebagai ganti mata pencaharian sebagai petani karet.</p>
+<p style="margin-left:.25in;">
+	Bentuk kepedulian lain PT. Bukit Mawar Indah terhadap masyarakat adalah dengan memberlakukan sistem penyewaan lahan masyarakat, yang disewa selama 5 tahun untuk penambangan bauksit. Setelah masa sewa lahan masyarakat selesai, PT. Bukit Mawar Indah akan menanami kembali lahan masyarakat dengan tanaman karet. Kompensasi lain yang diberikan kepada masyarakat adalah uang kompensasi bulanan sebesar Rp. 800.000,- per Kepala Keluarga dan tambahan beras 40 kg per Bulan untuk setiap Kepala Keluarga.</p>
+<p style="margin-left:.25in;">
+	Terdapat tiga titik lokasi di Pulau Propos yang digunakan PT. Bukit Mawar Indah sebagai tempat untuk penampungan hasil penambangan bauksit sebelum diangkut ke dalam kapal tongkang. Di setiap titik lokasi penambangan ini juga terdapat mess pegawai untuk tinggal. Selain masyarakat Pulau Propos, pekerja penambangan ini juga didatangkan dari Jawa dan Batam. Nantinya hasil penambangan bauksit ini akan diekspor ke China.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="ling">Lingkungan</a></h2>
+<p><div class="readmore"><p style="margin-left:.25in;">
+	Permasalahan lingkungan yang terjadi di Pulau Propos lebih didominasi oleh kerusakan akibat sedimentasi dan permasalahan yang disebabkan oleh pertambangan bauksit seperti erosi atau longsoran. Wilayah pesisir Pulau Propos mengalami abrasi dan pendangkalan akibat pertambangan bauksit. Upaya pengendalian abrasi sebagian telah dilakukan oleh masyarakat dengan pembuatan tembok penahan abrasi pantai di sekitar wilayah pemukiman. Akan tetapi untuk wilayah pesisir Pulau Propos yang dilakukan penambangan bauksit hanya mengandalkan mangrove alami yang tumbuh subur di sekeliling pulau.</p>
+<p style="margin-left:.25in;">
+	Permasalahan lain yang harus dihadapi adalah semakin berkurangnya mangrove yang ada di pesisir Pulau Propos. Hal ini diakibatkan tindakan warga yang menggunakan magrove sebagai bahan untuk pembuatan arang. Sehingga jika dibiarkan lama-kelamaan mangrove di Pulau Propos akan sedikit dan tidak mampu menahan abrasi yang terjadi.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="sp">Sarana dan Prasarana</a></h2>
+<p><div class="readmore"><p style="margin-left:.25in;">
+	Jaringan jalan yang ada di Pulau Propos berupa jaringan jalan semen sepanjang 1 km dengan lebar 2 meter, yang berada dilingkungan permukiman di bagian Utara Pulau Propos. Pembuatan jalan semen ini merupakan bantuan dari P3DK Provinsi Kepulauan Riau.</p>
+<p style="margin-left:.25in;">
+	Jetty untuk pendaratan kapal/perahu dilokasi Pulau Propos terdapat di dua lokasi. Jetty ini terletak di bagian utara pulau tepatnya pada lokasi permukiman dan satu di bagian Barat Pulau Propos dimana beberapa penduduk tinggal di wilayah ini. Jetty ini terbuat dari kayu dengan panjang mencapai 50 meter dan biasa digunakan oleh masyarakat pada saat ini. Sedangkan sarana Transportasi masyarakat Pulau Propos keluar dan masuk pulau berupa perahu dengan mesin 40 PK.</p>
+<p style="margin-left:.25in;">
+	Ketersedian air bersih di Pulau Propos berasal dari air sumur. Kualitas air sumur cukup baik, ini ditandai dengan warna, rasa, dan aroma air tanah layak untuk di konsumsi. Terdapat 9 sumur yang digunakan masyarakat sebagai sumber air bersih untuk kebutuhan minum, masak dan mandi.</p>
+<p style="margin-left:.25in;">
+	Sarana kesehatan yang tersedia bagi masyarakat Pulau Propos berupa Posyandu. Sampai saat ini, Posyandu masih aktif dengan seorang petugas kesehatan (bidan). Posyandu ini belum memiliki gedung sendiri dan masih menumpang di salah satu rumah warga.</p>
+<p style="margin-left:.25in;">
+	Sistem penerangan yang tersedia untuk kebutuhan masyarakat di Pulau Propos menggunakan genset. Genset 180TS dan dinamo 10 kg ini merupakan bantuan dari Dinas Kelautan dan Perikanan Kabupaten Karimun. Selain itu terdapat juga genset yang merupakan swadaya dari masyarakat. Untuk listrik ini sendiri menyala dari pukul 18.00 hingga 24.00 WIB.</p>
+<p style="margin-left:.25in;">
+	Sampai saat ini, belum terdapat sarana pendidikan di Pulau Propos. Masyarakat Pulau Propos yang ingin bersekolah harus menyeberang ke Pulau Kas untuk melanjutkan pendidikan dari tingkat Sekolah Dasar hingga SLTP. Sedangakan jika ingin melanjutkan ke jenjang SLTA harus bersekolah di Kecamatan Kundur.</p>
+<p style="margin-left:.25in;">
+	Sarana peribadatan yang terdapat di Pulau Propos saat ini berupa sebuah Langgar. Langgar ini biasanya hanya digunakan untuk shalat 5 waktu saja. Jika ingin menunaikan sholat Jumat maka masyarakat Pulau Propos harus menyeberang ke Pulau Kas yang memiliki masjid.</p>
+<p style="margin-left:.25in;">
+	Sarana sanitasi yang terdapat di Pulau Propos berupa WC umum yang di bangun dipinggiran pemukiman warga dan memiliki sebanyak 4 (empat) pintu yang dapat digunakan oleh masyarakat secara maksimal.</p>
+<p style="margin-left:.25in;">
+	Di Pulau Propos terdapat 35 rumah warga yang sebagian besar semi permanen dimana dinding dan lantai terbuat dari papan/kayu dan atapnya terbuat dari seng. Hanya beberapa rumah warga yang bertipe permanen dengan dinding terbuat dari batu bata dan lantai terbuat dari keramik.</p>
+<p style="margin-left:.25in;">
+	Untuk memenuhi kebutuhan makan para pekerja tambang bauksit tersedia juga warung-warung makan dan warung biasa yang menjual berbagai aneka jajanan dan kebutuhan sehari-hari.</p>
+<p style="margin-left:.25in;">
+	Sarana komunikasi yang terdapat di Pulau Propos adalah telepon genggam. Masyarakat dapat menggunakan telepon genggam untuk berkomunikasi dengan masyarakat lainnya di luar pulau. Akan tetapi penerimaan sinyal telepon masih kurang bagus di beberapa lokasi pulau. Selain itu hanya operator Telkomsel yang dapat digunakan oleh masyarakat&nbsp; agar dapat berkomunikasi.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="pi">Peluang Investasi</a></h2>
+<p><div class="readmore"><p style="margin-left:.25in;">
+	Saat ini sudah ada investor yang mengelola pertambangan bauksit di Pulau Propos yaitu PT. Bukit Mawar Indah. Perusahaan ini akan mengelola pertambangan bauksit dalam jangka waktu 5 tahun.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="pap">Potensi dan Arahan Pengembangan</a></h2>
+<p><div class="readmore"><p style="margin-left:.25in;">
+	Pulau Propos kaya akan bauksit yang dapat diekploitasi secara optimal. Akan tetapi perlu diperhatikan apakah penambangan bauksit ini dapat menimbulkan kerusakan lingkungan baik ekosistem maupun kerusakan di daratan pulau. Sebelum adanya penambangan bauksit, Pulau Propos kaya akan perkebunan karet dengan produksinya yang cukup besar. Setelah masa penambangan bauksit perlu diperhatikan keaadan kualitas tanah di Pulau Propos apakah masih menunjang untuk dijadikan perkebunan karet.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="kp">Kendala Pengembangan</a></h2>
+<p><div class="readmore"><ul>
+	<li>
+		Masih kurangnya sarana dan prasarana yang memadai</li>
+	<li>
+		Rawan abrasi dan kerusakan lingkungan</li>
+</ul>
+</div></p>
+
+<hr>
+
+<h2><a id="rf">Referensi</a></h2>
+<p><div class="readmore"><p>
+	Hasil Identifikasi dan Pemetaan Potensi</p>
+</div></p>
+
+<hr>
+
+<br />
+	<i> 
+		<p style="font-size:12px;">
+			Karena keterbatasan SDM dalam penginputan dan pengolahan data, kami mohon maaf atas ketidak lengkapan beberapa data pulau yang kami tampilkan, harap dimaklumi.
+			Berikan keritik dan saran pada kolom komentar agar kita dapat bersama menyajikan sebuah data yang cukup sempurna untuk halayak ramai yang berguna
+			demi kesejahterahan, kelestarian dan keindahan pulau-pulau kecil yang dimiliki Indonesia.<br />
+			*Jika sekiranya anda memiliki data yang cukup banyak, silakan mengirimkan file melalui email kami di <b><a>identifikasippk@gmail.com</a></b>
+			
+		</p>
+	</i>
+<br />
+
+<div id="fb_comn" class="fb-comments" data-href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_info/289" data-width="800" data-numposts="5" data-colorscheme="light"></div>
+
+
+</div>
+</div>
+</div>
+<div id="wrapper">
+
+<div class="footer"><p>
+<!--<marquee onmouseover="this.stop()" onmouseout="this.start()" scrollamount="5" direction="right" width="798" height="14"  behavior="scroll">-->
+<a href="http://www.ppk-kp3k.kkp.go.id/" target="_blank">Direktorat Pendayagunaan Pulau-Pulau Kecil &nbsp; | &nbsp;</a>
+<a href="http://www.kp3k.kkp.go.id/" target="_blank">Ditjen Kelautan, Pesisir dan Pulau-Pulau Kecil &nbsp; | &nbsp;</a>
+<a href="http://www.kkp.go.id/" target="_blank">Kementerian Kelautan dan Perikanan</a>
+<!--</marquee>--> <br />
+Jl. Medan Merdeka Timur No. 16 Gedung Mina Bahari 3 Lantai 10, Jakarta, Indonesia <br />
+Email : identifikasippk@gmail.com <br />
+Telp &amp; Fax: (021) 3522058 <br />
+&copy; Copyright Direktorat Pendayagunaan Pulau-Pulau Kecil 2012&nbsp; <br /></p>
+</div>
+</div>
+</body>
+</html>

@@ -1,0 +1,562 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Pulau Pekajang Kecik</title>
+
+<meta charset="utf-8"/>
+
+<meta property="fb:app_id" content="559408774147878" />
+
+
+<meta property="og:title" content="Pulau Pekajang Kecik" />
+<meta property="og:url" content="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_info/3361" />
+
+
+    <script type="text/javascript" src="http://ajax.microsoft.com/ajax/jquery/jquery-1.4.4.min.js">
+    </script>
+    
+    <script type="text/javascript" src="http://plugins.learningjquery.com/expander/jquery.expander.js">
+    </script>
+    
+    <script type="text/javascript">
+        $(function () {
+            $('div.readmore').expander({
+                slicePoint:200,
+                expandText: '(Baca selengkapnya)',
+                userCollapseText: '(Sembunyikan selengkapnya)'
+            });
+        });
+    </script>
+        
+	<script src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/galleria/galleria-1.2.8.min.js"></script>
+
+        <SCRIPT TYPE="text/javascript">
+            <!--
+            //Disable right click script
+            //visit http://www.rainbow.arch.scriptmania.com/scripts/
+            var message="Sorry, right-click has been disabled";
+            ///////////////////////////////////
+            function clickIE() {if (document.all) {(message);return false;}}
+            function clickNS(e) {if
+            (document.layers||(document.getElementById&&!document.all)) {
+            if (e.which==2||e.which==3) {(message);return false;}}}
+            if (document.layers)
+            {document.captureEvents(Event.MOUSEDOWN);document.onmousedown=clickNS;}
+            else{document.onmouseup=clickNS;document.oncontextmenu=clickIE;}
+            document.oncontextmenu=new Function("return false")
+            // -->
+            </SCRIPT>
+            
+            <SCRIPT TYPE="text/javascript">
+            <!--
+            //Disable select-text script (IE4+, NS6+)
+            //visit http://www.rainbow.arch.scriptmania.com/scripts/
+            ///////////////////////////////////
+            function disableselect(e){
+            return false
+            }
+            function reEnable(){
+            return true
+            }
+            //if IE4+
+            document.onselectstart=new Function ("return false")
+            //if NS6
+            if (window.sidebar){
+            document.onmousedown=disableselect
+            document.onclick=reEnable
+            }
+            // -->
+            </SCRIPT>  
+              
+<link rel="stylesheet" type="text/css" href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/css/main.css" media="screen"/>
+<style type='text/css'>
+#info_wrap{
+	width:820px;
+	margin:0 auto;
+	text-shadow:0px 1px 1px #09F;
+}
+table{
+	color:#000000;
+}
+h1{
+	color:#000000;
+}
+.tengahin{
+	width: 105px;
+	height: 30px;
+	margin: 0 auto auto auto;
+}
+#box_view{
+	background-image:-webkit-gradient(linear, 0 0%, 0 100%, from(#FFFFFF), to(#E0F0F5));
+	background:#FFF;
+	color:#F60;
+	border: 1px solid #fff;
+	border-radius: 4px 4px 4px 4px;
+	box-shadow: 0 8px 6px -6px black;
+	position:fixed;
+	right:0;
+	top:150px;;
+	width:80px;
+	z-index:10;
+	padding-left:12px;
+	font-size:10px;
+	}
+#box_view li{
+	color:#F60;
+	margin-left:-30px;
+	}
+	#wrapper a b {
+	color: #FFF;
+	font-size:14px;
+}
+.batas{
+	float:left;
+	border-right-style:inset;
+	border-right-width:thin;
+	}
+.text_h_wrap{
+	
+	padding-left:450px;
+	padding-top:39px;
+	text-shadow:0px 1px 1px #09F;
+	}
+#wrapper .footer p{
+	font-size:12px;
+	color: #FFF;
+	text-align:center;
+	text-shadow:0px 1px 1px #09F;
+}
+td,th {
+	font-size: 12px;
+}
+
+marquee a{
+	color:#FFF
+	}
+#wrapper .footer a{
+	color: #FFFFFF;
+}
+</style>
+            
+<script>
+function goBack()
+  {
+  window.history.back()
+  }
+</script>
+<script type="text/javascript">
+function Popup( url, height, width )
+{
+    var windowProperties = "toolbar = 0, scrollbars = 1, location = 0, statusbar = 0, menubar = 0, resizable = 1, width = " + width + ", height = " + height + ", left = 50, top = 50";
+ 
+    return window.open( url, "", windowProperties );
+}
+</script>
+
+
+
+</head>
+<body oncontextmenu='return false;' onkeydown='return false;' onmousedown='return false;'>
+
+<a id="top_view"></a>
+<div id="wrapper">
+<div class="header_wrap">
+<div class="text_h_wrap">
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/home_page'><b>&nbsp;Home&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/menu_info/1'><b>&nbsp;About Us&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_data'><b>&nbsp;Direktori Pulau&nbsp;&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/program_ip'><b>&nbsp;IKU&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/data_ppkt'><b>&nbsp;PPKT&nbsp;</b></a>
+</div>
+<!--<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/maintenance'><b>&nbsp;Login&nbsp;</b></a>-->
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/dir_log_cont'><b>&nbsp;Login&nbsp;</b></a>
+
+</div>
+</div>
+</div>
+
+<div id="fb-root"></div>
+<script>
+  window.fbAsyncInit = function() {
+    // init the FB JS SDK
+    FB.init({
+      appId      : '559408774147878',                        // App ID from the app dashboard
+      status     : true,                                 // Check Facebook Login status
+      xfbml      : true                                  // Look for social plugins on the page
+    });
+
+    // Additional initialization code such as adding Event Listeners goes here
+  };
+
+  // Load the SDK asynchronously
+  (function(){
+     // If we've already installed the SDK, we're done
+     if (document.getElementById('facebook-jssdk')) {return;}
+
+     // Get the first script element, which we'll use to find the parent node
+     var firstScriptElement = document.getElementsByTagName('script')[0];
+
+     // Create a new script element and set its id
+     var facebookJS = document.createElement('script'); 
+     facebookJS.id = 'facebook-jssdk';
+
+     // Set the new script's source to the source of the Facebook JS SDK
+     facebookJS.src = '//connect.facebook.net/en_US/all.js';
+
+     // Insert the Facebook JS SDK into the DOM
+     firstScriptElement.parentNode.insertBefore(facebookJS, firstScriptElement);
+   }());
+</script>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=559408774147878";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="box_view">
+    <a href="#top_view">MENU</a>
+    <h3><p>Lihat Informasi:</p></h3>
+    <ul>
+	<a href="#sf"><li>Slide Foto</li></a>
+    <a href="#gu"><li>Gambaran Umum</li></a>
+    <a href="#ksbk"><li>Kependudukan, Sosial Budaya dan Kelembagaan</li></a>
+    <a href="#eshp"><li>Ekosistem dan Sumberdaya Hayati</li></a>
+    <a href="#snh"><li>Sumberdaya Non Hayati</li></a>
+    <a href="#aps"><li>Aktivitas Pengelolaan Sumberdaya</li></a>
+    <a href="#ling"><li>Lingkungan</li></a>
+    <a href="#sp"><li>Sarana dan Prasarana</li></a>
+    <a href="#pi"><li>Peluang Investasi</li></a>
+    <a href="#pap"><li>Potensi Arahan Pengembangan</li></a>
+    <a href="#kp"><li>Kendala Pengembangan</li></a>
+	<a href="#rf"><li>Referensi</li></a>
+    </ul>
+    <a href="#fb_comn">KOMENTAR</a>
+</div>
+
+<br>
+			<a id="sf"></a></h2>
+			<div id="galleria">
+            <!--<div class='tengahin'><input type="button" value="Kembali Ke List" onclick="goBack()"></div>-->
+                            </div>
+            
+            <script>
+            Galleria.loadTheme('http://www.ppk-kp3k.kkp.go.id/direktori-pulau/galleria/themes/classic/galleria.classic.min.js');
+            Galleria.run('#galleria');
+            </script>
+</div>
+
+<div id="text_warp">
+
+
+<p><h1>Pekajang Kecik</h1></p>
+<table>
+<tr>
+	<td>Nama Lain</td> <td>:</td> <td></td>
+</tr>
+<tr>
+	<td>Propinsi</td> <td>:</td> <td>KEPULAUAN RIAU</td>
+</tr>
+<tr>
+	<td>Kabupaten</td> <td>:</td> <td>KABUPATEN LINGGA</td>
+</tr>
+<tr>
+	<td>Kecamatan</td> <td>:</td> <td></td>
+</tr>
+<tr>
+	<td>Koordinat</td> <td>:</td> <td><a href="http://www.ppk-kp3k.kkp.go.id/giskkp/index.html?extent="target="_blank">1° 12' 30.924</a></td>
+</tr>
+</table>
+<hr>
+
+<h2><a id="gu">Gambaran Umum</a></h2>
+<p><div class="readmore"><p style="text-align: justify;">
+	<strong>Kondisi Umum </strong></p>
+<p style="text-align: justify;">
+	Pulau Pekajang Kecil merupakan salah satu gugusan 7 pulau yaitu 1). Pulau Batu Kembung / Sarang Burung, 2). Pulau Batu Tukongyu, 3). Pulau Lalang, 4). Pulau Pasir Keliling, 5). Pulau Penyaman, 6). Pulau Pekajang Besar dan 7). Pulau Pekajang Kecil secara administrasi wilayahnya masuk ke dalam pemerintah Kabupaten Lingga yang terbentuk berdasarkan UU No. 31 tahun 2003 dengan Luas wilayah daratan dan lautan mencapai 45.456.7162 Km<sup>2</sup> dengan luasan daratan 2.117.72 Km<sup>2</sup> dan lautan 43.388.9962 Km<sup>2</sup>.</p>
+<p style="text-align: justify;">
+	Secara Geografis Pulau Pekajang Kecil terletak diantara 01<sup>o</sup>12&rsquo;40&rdquo; Lintang Selatan dan 105<sup>o</sup>16&rsquo;3&rdquo; Bujur Timur dengan batas wilayahnya adalah sebagai berikut :</p>
+<table border="0" cellpadding="0" cellspacing="0" style="width:100.0%;" width="100%">
+	<tbody>
+		<tr>
+			<td style="width:32.52%;">
+				<ul>
+					<li style="text-align: justify;">
+						Sebelah Utara</li>
+				</ul>
+			</td>
+			<td style="width:11.02%;">
+				<p style="text-align: justify;">
+					:</p>
+			</td>
+			<td style="width:56.48%;">
+				<p style="text-align: justify;">
+					Kecamatan Lingga Timur</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:32.52%;">
+				<ul>
+					<li style="text-align: justify;">
+						Sebelah Selatan</li>
+				</ul>
+			</td>
+			<td style="width:11.02%;">
+				<p style="text-align: justify;">
+					:</p>
+			</td>
+			<td style="width:56.48%;">
+				<p style="text-align: justify;">
+					Provinsi Bangka Belitung</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:32.52%;">
+				<ul>
+					<li style="text-align: justify;">
+						Sebelah Barat</li>
+				</ul>
+			</td>
+			<td style="width:11.02%;">
+				<p style="text-align: justify;">
+					:</p>
+			</td>
+			<td style="width:56.48%;">
+				<p style="text-align: justify;">
+					Provinsi Jambi</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:32.52%;">
+				<ul>
+					<li style="text-align: justify;">
+						Sebelah Timur</li>
+				</ul>
+			</td>
+			<td style="width:11.02%;">
+				<p style="text-align: justify;">
+					:</p>
+			</td>
+			<td style="width:56.48%;">
+				<p style="text-align: justify;">
+					Provinsi Kalimantan Barat</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<p style="text-align: justify;">
+	Aksesibilitas menuju Pulau Pekajang Kecil bisa menggunakan dua alternatif transportasi laut. Alternatif pertama menggunakan kapal Perintis dengan rute Tanjungpinang-Dabo-Pulau Pekajang Kecil-Dabo-Tanjungpinang dan kembali ke rute yang sama lagi selama sepuluh hari sekali. Alternatif kedua dengan menggunakan kapal PELNI dari pelabuhan Kijang dengan rute kapal Kijang-Belinyu-Tanjung Priuk. Setelah sampai di Pelabuhan Belinyu selama 14 jam kemudian dilanjutkan perjalanan dengan Kapal Nelayan warga Pulau Pekajang Kecil yang berukuran rata-rata 5 GT selama &plusmn; 5 Jam. Pulau Pekajang Kecil secara administrasi terdiri dari dua dusun yaitu Dusun I terdiri dari RT 002 / RW 001 dan Dusun II terdiri dari RT 001 / RW 002 dan RT 003 / RW 002.</p>
+<p style="text-align: justify;">
+	<strong>Klimatologi</strong></p>
+<p style="text-align: justify;">
+	Provinsi Kepulaun Riau beriklim tropis basah, terdapat musim hujan dan musim kemarau yang diselingi musim pancaroba sehingga Dabo Lingga &nbsp;memiliki suhu minimum 19,4 <sup>o</sup>C dan maksimun 33,5 <sup>o</sup>C dengan rata-rata suhu 27,2 <sup>o</sup>C. Adapun kelembaban udara minimum yaitu 60,6 % dan maksimum 98,7 % dengan rata-rata kelembaban 83,1 %. Curah hujan Kabupaten Lingga yaitu 197,2 mm, sedangkan tekanan udara yang dimiliki adalah 1.009,8 mb. Bentuk wilayah yang berupa Kepulauan menjadikan kondisi iklim Provinsi kepulauan Riau dipengaruhi oleh angin, kecepatan angin kabupaten lingga yaitu 3,5 knot dan Penyinaran Matahari sebesar 53,2 %.</p>
+<p style="text-align: justify;">
+	<strong>Oseanografi</strong></p>
+<p style="text-align: justify;">
+	Perairan laut Kabupaten Lingga berada paling selatan dari wilayah Provinsi Kepulauan Riau. Secara geografis perairan laut Kabupaten Lingga berpotensi besar untuk berinteraksi dengan massa air yang bergerak dari perairan Laut Jawa melalui Selat Karimata, berinteraksi dari massa air di sepanjang pantai timur Sumatera serta dari Laut China Selatan.</p>
+<p style="text-align: justify;">
+	<strong>Topografi dan Morfologi</strong></p>
+<p style="text-align: justify;">
+	Pulau-pulau yang tersebar di wilayah Kabupaten Lingga pada umumnya merupakan sisa-sisa erosi atau pencetusan dari daratan pratersier yang membentang dari semenanjung Malaysia sampai Pulau Bangka dan Belitung. Pada gugusan beberapa pulau kondisi daratannya berbukit-bukit dan landai dibagian pantainya dengan ketinggian rata-rata 2 -5 m dari permukaan laut. Selain digambarkan denganbentangan pulau-pulau, relief dan topografi Kepulauan Riau juga digambarkan dengan membentangnya pegunungan yang terdapat di beberapa pulau. Gunung tertinggi yaitu Gunung Daik berada di Kabupaten Lingga dengan ketinggianmencapai 1.272 m. Selain Gunung Daik, Kabupaten Lingga juga memiliki empat gunung lain yang tingginya antara 343 meter sampai dengan 800 meter. (BPS Provinsi Kepulauan Riau 2010).</p>
+<p style="text-align: justify;">
+	<strong>Penggunaan Lahan</strong></p>
+<p style="text-align: justify;">
+	Penggunaan lahan di Pulau Pekajang kecik didominasi oleh hutan primer dan hutan sekunder, lalu diikuti oleh rerumputan, pemukiman, lahan terbuka, vegetasi pantai,&nbsp; dan pemanfaatan lainnya oleh masyarakat.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="ksbk">Kependudukan, Sosial Budaya dan Kelembagaan</a></h2>
+<p><div class="readmore"><p style="text-align: justify;">
+	<strong>Kependudukan</strong></p>
+<p style="text-align: justify;">
+	Jumlah Penduduk Desa Pekajang Kecil berdasarkan Kantor Desa Pekajang Kecil Tahun 2012-2013 sebesar 487 jiwa, terdiri dari laki-laki 254 jiwa (52.16%) dan perempuan sebesar 233 jiwa (47.84%). Jumlah &nbsp;Kepala Keluarga (KK)&nbsp; Pulau Pekajang Kecil adalah 133 dengan tingkat perkembangannya 9,92% dari tahun 2012. Penduduk Desa Pekajang Kecil berdasarakan klasifikasi penduduk menurut agama, jumlah penduduk Desa Pekajang Kecil yang pemeluk agama Islam sebesar 98.76 % atau 481 jiwa, pemeluk agama Kristen Protestan Sebesar 0.62 % atau 3 jiwa dan pemeluk agama Budha 0.62 % atau&nbsp; 3 jiwa.</p>
+<p style="text-align: justify;">
+	Klasifikasi penduduk di Pulau Pekajang Kecil berdasarkan tingkat pendidikan, 5.71 % atau 32 jiwa penduduk tidak sekolah, 11,07 % atau 62 jiwa penduduk yang sedang duduk dibangku Sekolah Dasar (SD), 35.71 % atau 200 jiwa penduduk yang telah tamat Sekolah Dasar (SD), 38.57 % atau 216 jiwa penduduk yang tidak tamat Sekolah Dasar (SD), 3.04 % atau 17 jiwa penduduk yang sedang duduk di bangku Sekolah Lanjutan Tingkat Pertama (SLTP), 1.79 % atau 10 jiwa penduduk yang telah tamat Sekolah Lanjutan Tingkat Pertama (SLTP), 0.36 % atau 2 jiwa penduduk yang tidak tamat Sekolah Lanjutan Tingkat Pertama (SLTP),1.96 % atau 11 jiwa penduduk yang sedang duduk di bangku Sekolah Lanjutan Tingkat Atas (SLTA), 0.54 % atau 3 jiwa penduduk yang telah tamat Sekolah Lanjutan Tingkat Atas (SLTA), 0.54 % atau 3 jiwa penduduk yang telah Diplomad dua (D-2), 0.36 % atau 2 jiwa penduduk yang masih Diplomad Tiga (D-3) dan &nbsp;0,36 % atau 2 jiwa penduduk yang masih Strata satu (S-1).</p>
+<p style="text-align: justify;">
+	<strong>Sosial Budaya, Ekonomi dan Kelembagaan</strong></p>
+<p style="text-align: justify;">
+	Kelembagaan yang terdapat di Pulau Pekajang Kecil didasarkan pada kelembagaan berdasarkan pendidikan masyarakat, 1 Unit Perpustakaan desa/kelurahan, 1 Unit taman bacaan desa/kelurahan, 2 Unit sanggar bahasa, 1 kegiatan lembagan pendidikan diluar sekolah, 1 kelompok belajar paket B, 19 orang peserta ujian paket B, 1 kelompok belajar paket C, dan 3 orang peserta ujian paket C. Kelembagaan berdasarkan keamanan lingkungan, organisasi siskamling, organisasi pertahanan sipil dan perlindungan masyarakat. Jumlah RT di pulau Pekajang Kecil terdiri dari 3 RT, 5 Orang anggota Hansip dan Limas, 1 jenis buku anggota hansip dan Limas serta 1pos jaga induk desa/Kelurahan.</p>
+<p style="text-align: justify;">
+	Perangkat desa di pulau Pekajang Kecil terdiri dari Kepala Desa (Kades) yang dipilih langsung oleh masyarakat Pulau Pekajang Kecil dengan masa jabatan 5 tahun. Seketaris Desa (Sekdes) yang ditunjuk,diangkat dan ditetapkan oleh bupati/walikota. Badan Perwakilan Desa (DPD) yang dipilih oleh perwakilan masyarakat desa secara musyawarah dan mufakat. DPP Pulau Pekajang Kecil berjumlah 5 orang. Organisasi anggota lembaga masyarakat desa termasuk RT,RW,PKK,LKMDK,LPM,Karang Taruna,Bumdes,Lembaga Adat,Kelompok tani dan Lembaga lainya berjumlah 5 unit.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="eshp">Ekosistem dan Sumberdaya Hayati</a></h2>
+<p><div class="readmore"><p style="text-align: justify;">
+	<strong>TerumbuKarang</strong></p>
+<p style="text-align: justify;">
+	<strong>Hasil Pengamatan Terumbu Karang</strong></p>
+<p style="text-align: justify;">
+	Pengamatan terumbu karang di Perairan Pulau Pekajang Kecik berdasarkan <em>benthic life form</em> didapatkan karang dengan bentuk <em>Acropora</em>/AC (rerata 34.83%) dan <em>Non-Acropora</em> /Non-AC (rerata 31,50%) mendominasi bentuk karang pada Perairan Pulau Pekajang Kecik. Kondisi terumbu karang di Pulau Pekajang Kecik berdasarkan persen tutupan secara umum hampir sama, karang hidup (AC dan Non-AC) merupakan bentuk pertumbuhan yang mendominasi.</p>
+<p style="text-align: justify;">
+	Berdasarkan kategori karang hidup dan karang mati, rerata persen tutupan karang hidup di Pulau Pekajang Kecik dalam kondisi baik (71,07%). Stasiun 3 kategori persen tutupan karang hidup sangat baik (76.40%). Pengamatan dilakukan pada kisaran kedalaman 7-10 m menggunakan metode LIT (<em>Line Intercept Transect</em>). Terumbukarang yang terdapat di pulau Pekajang merupakan tipe terumbu karang tepi pulau<em>(fringing reef)</em> yang terdapat hampir di keliling pulau dengan kondisi tubir yang landai.</p>
+<p style="text-align: justify;">
+	Secara umum kondisi terumbu karang di pulau Pekajang masih terjaga.Hasil pengamatan mendapatkan rerata persentase tutupan karang yang tertinggi adalah persentase karang hidup yaitu 71,1 % yang terdiri dari berbagai macam bentuk pertumbuhan <em>(life form) </em>yaitu <em>Acropora branching (ACB), Acropora tabulate (ACT), Acroporadigitate (ACD), Acroporasubmasif (ACS), Acroporaencrusting (ACE), coral foliose (CF), coral massif (CM)</em>, <em>mushroom (CMR) </em>dan karang lunak <em>(soft coral/SC) </em>(Gambar 13.3). Sedangkan persentase karang mati adalah 11,3 % yang terdiri karang mati <em>(dead coral/DC), </em>karang mati yang sudah ditumbuhi alga <em>(dead coral with algae/DCA ), </em>selain hewan karang, di ekosistem ini juga terdapat beberapa biota laut yang hidup di dasar perairan atau benthos seperti bulu babi hitam<em>(Diademasetosum), </em>kima, anemones, akar bahar dan sponges.</p>
+<p style="text-align: justify;">
+	<strong>Analisis Data Pengamatan Terumbu Karang </strong></p>
+<p style="margin-left: 0.5in; text-align: justify;">
+	Berdasarkan bentuk pertumbuhan (<em>benthic life form</em>) dan persen tutupan karang hidup pengelompokkan stasiun berdasarkan indeks kesamaan (<em>Bray-Curtis Distance</em>) didapatkan stasiunyang mempunyai kemiripan kondisi persen tutupan terdekat adalah Stasiun 1 dan 2, kemudian pengelompokkan kedua, Stasiun (1,2) dan Stasiun 3 (Gambar 13.4).</p>
+<p style="text-align: justify;">
+	Untuk mengetahui perbedaan antar stasiun dan antar spesies dilakukan uji non-parametrik Kruskal-Wallis pada &alpha; 0,05. Hasilnya menunjukkan dari nilai <em>chi-square</em> ada perbedaan yang signifikan antar bentuk pertumbuhan (p=0,004&lt;0,05). Bentuk pertumbuhan dengan nilai rerata rangking tertinggi adalah CF (<em>Coral Foliose</em>).</p>
+<p style="text-align: justify;">
+	<strong>Ikan Karang</strong></p>
+<p style="text-align: justify;">
+	<strong>Hasil pengamatan Ikan Karang</strong></p>
+<p style="text-align: justify;">
+	Hasil pengamatan ikan karang di Perairan Pulau Pekajang Kecik dengan menggunakan metode UVC (<em>Underwater Visual Census</em>) menggunakanTransekGarissepanjang 50 meter ditemukan semua kategori ikan dengan jumlah total 1055 ekor dengan jumlah spesies/jenis 13 jenis. Ikan terbanyak yang ditemukan adalah ikan target sebanyak 495 ekor, diikuti ikan mayor sebanyak 480 ekor, ikan indikator 50 ekor dan ikan herbivor 30 ekor.</p>
+<p style="text-align: justify;">
+	<strong>Padang Lamun</strong></p>
+<p style="text-align: justify;">
+	<strong>Hasil Pengamatan Lamun</strong></p>
+<p style="margin-left: 35.45pt; text-align: justify;">
+	Lamun yang ditemukan di Perairan Pulau Pekajang Kecil, umumnya mempunyai rata-rata tingkat kerapatan tutupan yang sedang (total rata-rata 48,20 %/m2) dan hanya terdiri dari jenis <em>Cymodocearotundata, </em><em>Thalassodendronciliatum, Thalassiahemprichii, dan </em><em>Haloduleuninervis</em><em>. </em>Hasil selengkapnya dapat dilihat pada Tabel 13.9 dan Gambar 13.6. Dasar perairan dimana tempat tumbuh lamun pada substrat yang mempunyai karakteristik diameter butirannya berkisar antara 1-2 mm hingga&nbsp; 0,125-0,25 mm.</p>
+<p style="text-align: justify;">
+	<strong>Vegetasi Pantai</strong></p>
+<p style="text-align: justify;">
+	Vegetasi pantai merupakan kelompok tumbuhan yang menempati daerah intertidal mulai dari daerah pasang surut hingga daerah di bagian dalam pulau atau daratan dimana masih terdapat pengaruh laut. Secara umum kelompok tumbuhan darat yang tumbuh di daerah intertidal atau daerah dekat laut. Vegetasi pantai non mangrove umumnya banyak ditemukan pada daerah pantai dengan substrat yang didominasi oleh pasir. Kelompok tumbuhan ini dicirikan oleh adanya zonasi bentuk pertumbuhan (habitus) secara horizontal dari daerah intertidal ke arah darat yang terdiri dari : tumbuhan menjalar, semak, perdu dan pohon. Semakin ke darat, keragaman jenis dan habitus pohon akan semakin besar. Jenis vegetasi pantai non mangrove umumnya terdiri dari : tapak kambing, rumput angin, santigi, ketapang, cemara laut dan kelapa.&nbsp;&nbsp; Tumbuhan ini membentuk zonasi yang khas.</p>
+<p style="text-align: justify;">
+	Daerah pantai merupakan daerah perbatasan antara ekosistem laut dan ekosistem darat, karena hempasan gelombang dan hembusan angin maka pasir dari pantai membentuk gundukan ke arah daratan. Setelah gundukan pasir biasanya terdapat vegetasi yang dinamakan vegetasi pantai. Tumbuhan pada vegetasi pantai cukup beragam. Tumbuhan tersebut bergerombol membentuk unit-unit tertentu sesuai dengan habitatnya. Suatu unit vegetasi yang terbentuk karena habitatnya disebut formasi. Setiap formasi diberi nama sesuai dengan spesies tumbuhan yang paling dominan. Vegetasi pantai umumnya di istilahkan dengan mangrove ikutan.</p>
+<p style="text-align: justify;">
+	Berdasarkan susunan vegetasinya, ekosistem hutan pantai di Pulau Pekajang kecik secara umum dapat dibedakan menjadi 2, yaitu formasi Pres-Caprae dan formasi Baringtonia <em>Formasi Pres-Caprae. </em>Pada formasi ini, tumbuhan yang dominan adalah <em>Ipomeea pres-caprae, </em>tumbuhan lainnya adalah <em>Vigna, Spinifex littoreus </em>(rumput angin), <em>Canavalia maritime, Euphorbia atoto, Pandanus tectorius </em>(pandan),<em> Crinum asiaticum </em>(bakung), <em>Scaevola frutescens </em>(babakoan).&nbsp; Sedangkan <em>Formasi Baringtonia </em>Vegetasi dominan adalah pohon Baringtonia (butun), <em>Hibiscus tiliaceus </em>(waru laut), <em>Terminalia catapa </em>(ketapang).</p>
+</div></p>
+
+<hr>
+
+<h2><a id="snh">Sumberdaya Non Hayati</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<h2><a id="aps">Aktivitas Pengelolaan Sumberdaya</a></h2>
+<p><div class="readmore"><p style="text-align: justify;">
+	<strong>Perikanan Tangkap</strong></p>
+<p style="text-align: justify;">
+	Kegiatan perikanan tangkap di Pulau Pekajang Kecil di dominasi oleh penangkapan ikan secara tradisional&nbsp; dengan &nbsp;alat tangkap utama seperti pancing,bubu dan jaring yang digunakan oleh nelayan Pulau Pekajang Kecil dengan menggunakan KM&nbsp; &le;&nbsp; 5 GT yang berjumlah 45 Unit armada.&nbsp;</p>
+<p style="text-align: justify;">
+	Jenis ikan yang ditangkap nelayan di Pulau Pekajang Kecil adalah sotong,cumi-cumi,ikan ekor kuning, kembung, kerapu, tenggiri, kerapu, kakap, tamban, kerisi merah, mejan, hiu bodoh dan ikan karang. Biasanya ikan-ikan hasil tangkapan nelayan di Pulau Pekajang Kecil ditampung oleh para penampung ikan dan selanjutnya ikan-ikan tersebut dipasarkan di Bangka Belitung. Lokasi penangkapan ikan di Pulau Pekajang Kecil dilakukan di Perairan Pulau Pekajang kecil dan sekitarnya.</p>
+<p style="text-align: justify;">
+	<strong>Perikanan Budidaya</strong></p>
+<p style="text-align: justify;">
+	Kegiatan perikanan budidaya yang ada di Pulau Pekajang Kecil &nbsp;berupa Keramba Jaring Apung (KJA)&nbsp; dengan hanya 1 orang pembudidaya. Jenis ikan yang dibudidayakan di Pulau Pekajang Kecil adalah Kerapu Sunu yang bibit nya didapat dari nelayan asli Pulau Pekajang dan nelayan luar. Harga bibit yang dibeli dari nelayan dengan tingkat harga yang berbeda, haraga ikan Sunu yang kecil biasanya di beli dengan harag Rp 30.000 dan ikan Sunu yang berukuran besar dibeli dengan haraga Rp 80.000.Lokasi pemasaran budidaya ikan Sunu di Pekajang Kecil dipasarkan langsung oleh kapal-kapal dari luar yang dikirim ke Singapura dan langsung di pasarkan di Bangka Belitung.</p>
+<p style="text-align: justify;">
+	<strong>Pengolahan Hasil Perikanan </strong></p>
+<p style="text-align: justify;">
+	Saat ini pengolahan hasil perikanan di Desa Pekajang Kecil hanya sebatas di komsumsi oleh keluarga nelayan,&nbsp; pengolahan masih bersifat tradisional seperti pembuatan ikan asin dan kerupuk ikan yang masih di pasarkan di Desa Pekajang Kecil, dari hasil wawancara yang dilakukan, permasalahan pengolahan hasil perikanan adalah teknologi yang digunakan dalam pembuatan dan keberanian masyarakat nelayan yang kurang berani memasarkan hasilnya ke pasar dan pembuatan hanya dilakukan pada musin tertentu saja.</p>
+<p>
+	&nbsp;</p>
+</div></p>
+
+<hr>
+
+<h2><a id="ling">Lingkungan</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<h2><a id="sp">Sarana dan Prasarana</a></h2>
+<p><div class="readmore"><p style="text-align: justify;">
+	<strong>Sarana dan Prasarana Pendidikan</strong></p>
+<p style="text-align: justify;">
+	Sarana dan prasarana pendidikan di Desa Pekajang Kecil saat ini terdapat 2 buah Sekolah Dasar (SD), 1 buah Sekolah Lanjutan Tingkat Pertama (SLTP) dan 1 buah Sekolah Lanjutan Tingkat Atas yang berada di Pulau Pekajang Kecil. Saat ini siswa yang bersekolah di tingkat SD berjumlah 62 siswa sedangkan yang bersekolah di tingkat SLTP berjumlah 16 siswa dan 5 Siswa yang bersekolah di Tingkat SLTA.&nbsp; Jumalh tenaga pendidik saat ini untuk tingkat SD ,SLTP, dan SLTA berjumlah 6 orang yang terdiri 2 0rang guru swasta.</p>
+<p style="text-align: justify;">
+	<strong>Sarana dan Prasarana Kesehatan</strong></p>
+<p style="text-align: justify;">
+	Sarana Kesehatan di Pulau Pekajang Kecil saat ini yang ada berupa Pos Yandu, dan Puskesmas Pembantu (Pustu), sedangkan tenaga medis hanya perawat yang berjumlah 1 orang. Umumnya masalah kesehatan masyarakat di Desa Pekajang Kecil masih bersifat tradisional dimana masyarakat Pulau Pekajang Kecil masih mempercayai orang-orang pintar (Bomo)&nbsp; yang dapat menyembuhkan penyakit yang ada di desanya.</p>
+<p style="text-align: justify;">
+	<strong>Sarana dan Prasarana Perikanan</strong></p>
+<p style="text-align: justify;">
+	Secara Umumnya masyarakat di Pulau Pekajang Kecil merupakan nelayan yang sebagian besar adalah nelayan tangkap dan hanya sedikit&nbsp; nelayan budidya. Hal ini terbukti dari data yang diperoleh dilapangan bahwa 112 orang berpropesi sebagai nelayan tanngkap dan hanya 1 orang nelayan budidaya itupun toke penampung ikan di Pulau Pekajanng Kecil. &nbsp;Saat ini jumlah armada dalam membantu&nbsp; penangkapan ikan&nbsp; di Desa Pekajang Kecil berjumlah 45 unit kapal motor&nbsp; ukuran &le;&nbsp; 5 GT. Penggunaan alat tangkap perikana&nbsp; di Desa Pekajang Kecil masih didominasi alat tangkap pancing,bubu, tombak dan jaring.</p>
+<p style="text-align: justify;">
+	&nbsp;Desa Pekajang Kecil memiliki dermaga berbentuk T&nbsp; yang dibangun oleh PT. Riau TIN COMPANY yang peroyek pembangunanya dilaksanakan oleh PT. LEGTON (Australia) pada tahun 1972. Pada tahun 1999, dermaga Pulau Pekajang Kecil ini di rehab oleh pemerintah Kabupaten Kepulauan Riau melalui APBD.</p>
+<p style="text-align: justify;">
+	<strong>Sarana dan Prasarana Lainnya</strong></p>
+<p style="text-align: justify;">
+	Sarana dan prasarana lainnya yng ada di Pulau Pekajang Kecil adalah Kantor Desa, Balai pertemuan dan saran olah raga seperti; lapangan sepak bola dan lapangan volley.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="pi">Peluang Investasi</a></h2>
+<p><div class="readmore"><p style="text-align: justify;">
+	<strong>Perikanan Tangkap</strong></p>
+<p style="text-align: justify;">
+	Selama ini, hasil usaha penangkapan ikan di Pulau Pekajang Kecik sebagian besar baru dipasarkan di pasar-pasar tradisional di Belinyu, Bangka Belitung. Hanya sebagian kecil, hasil penangkapan ikan yang dipasarkan ke Kabupaten Lingga. Keberadaan Pulau Pekajang Kecik di jalur Wilayah alur pelayaran Kepri-Jakarta belum dapat memberikan dampak positif pemasaran hasil perikanan pada saat ini.</p>
+<p style="text-align: justify;">
+	Sebagian besar masyarakat di Pulau Pekajang Kecik masih menggunakan alat tangkap tradisional. Hanya sebagian kecil masyarakat yang sudah memanfaatkan sentuhan teknologi moderen untuk menangkap ikan, seperti GPS dan Fishfinder. Beberapa contoh alat tangkap yang biasa digunakan oleh masyarakat untuk menangkap ikan adalah bubu, pancing dan rawai. Faktor alam terbukanya kawasan perairan di pulau ini menyebabkan arus dan angin kencang hampir merata pada setiap musim menyebabkan masyarakat lebih dominan menggunakan alat tangkap bubu. Praktek penggunaan alat tangkap bubu dapat mengurangi waktu keberadaan nelayan tempatan berada di&nbsp; laut. Bubu merupakan salah satu alat tangkap dengan jenis perangkap (trap) yang diletakan di dasar perairan cukup praktis dalam penggunaannya dengan target atau sararan adalah ikan-ikan karang seperti, kerapu, napoleon, kepiting dan ikan demersal lainnya. Dari gambaran alat tangkap yang ada, sebagian berpotensi untuk merusak terumbu karang sehingga perlu dialihkan penggunaan alat tangkap tersebut ke alat tangkap yang tidak merusak lingkungan (ramah lingkungan). Oleh karena itu, pendampingan dan peningkatan kemampuan nelayan lokal dalam bidang perikanan perlu dilakukan seperti pemanfaatan perairan untuk budidaya ikan dan rumput laut. Kawasan perairan dengan dinamika yang berombak sangat baik dalam budidaya rumput laut, ketersediaan benih alam relative baik, namun pemasaran produk yang menjadi kendala bagi masyarakat lokal, mengingat jarak pulau ini yang sangat jauh ke tempat pemasaran seperti Pulau Batam dan Tanjungpinang.</p>
+<p style="text-align: justify;">
+	<strong>Ekowisata Bahari</strong></p>
+<p style="text-align: justify;">
+	Ekoswiasata bahari di Pulau ini cukup berpotensi dikembangkan kedepan dikarenakan Pulau Pekajang Kecik memiliki potensi alam yang masih sangat alami. Sealain pemandangan pantai dan bawah laut yang sangat indah, tutupan karang hidup sangat baik. Serta juga dapat dikembangkan sebagai kawasan wisata pancing tradisional. Kehadiran penyu di pulau pasir yang terdapat disebelah barat Pulau Pekajang Kecik juga dapat dikembangkan menjadi kawasan perlindungan laut masyarakat dimana &nbsp;ini akan menambah variasi aktivitas objek ekowisata bahari bagi ekowistawan yang akan berkurnjung.</p>
+<p style="text-align: justify;">
+	<strong>Perikanan Budidaya</strong></p>
+<p style="text-align: justify;">
+	Saat ini, jenis budidaya perikanan yang &nbsp;dilakukan di Pulau Pekajang Kecik&nbsp; masih sedikit sekali yakni, budidaya karamba jaring apung, yang dimiliki oleh toke setempat. Wilayah perairan pulau ini masih alami dan terbebas dari bahan pencemar, sehingga potensi pengembangan budidaya sangat terbuka ditambah lagi perairan pulau ini dikelilingi oleh karang. Pemilihan lokasi ini sangat vital bagi kesuksesan usaha budidaya perikanan. Namun dengan kondisi perairan Pulau Pekajang Kecik yang tidak terlindungi mungkin akan menyulitkan bari nelayan budidaya.</p>
+<p style="text-align: justify;">
+	<strong>Pengolahan Hasil Perikanan</strong></p>
+<p style="text-align: justify;">
+	Dalam meningkatkan produksi pengolahan hasil perikanan tentunya sumber ikan di perairan Pulau ini sangat menjanjikan, namun teknologi dan manajemen sangat diperlukan sehingga dapat meningkatkan keterampilan masyarakat dalam pengolahan hasil perikanan.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="pap">Potensi dan Arahan Pengembangan</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<h2><a id="kp">Kendala Pengembangan</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<h2><a id="rf">Referensi</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<br />
+	<i> 
+		<p style="font-size:12px;">
+			Karena keterbatasan SDM dalam penginputan dan pengolahan data, kami mohon maaf atas ketidak lengkapan beberapa data pulau yang kami tampilkan, harap dimaklumi.
+			Berikan keritik dan saran pada kolom komentar agar kita dapat bersama menyajikan sebuah data yang cukup sempurna untuk halayak ramai yang berguna
+			demi kesejahterahan, kelestarian dan keindahan pulau-pulau kecil yang dimiliki Indonesia.<br />
+			*Jika sekiranya anda memiliki data yang cukup banyak, silakan mengirimkan file melalui email kami di <b><a>identifikasippk@gmail.com</a></b>
+			
+		</p>
+	</i>
+<br />
+
+<div id="fb_comn" class="fb-comments" data-href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_info/3361" data-width="800" data-numposts="5" data-colorscheme="light"></div>
+
+
+</div>
+</div>
+</div>
+<div id="wrapper">
+
+<div class="footer"><p>
+<!--<marquee onmouseover="this.stop()" onmouseout="this.start()" scrollamount="5" direction="right" width="798" height="14"  behavior="scroll">-->
+<a href="http://www.ppk-kp3k.kkp.go.id/" target="_blank">Direktorat Pendayagunaan Pulau-Pulau Kecil &nbsp; | &nbsp;</a>
+<a href="http://www.kp3k.kkp.go.id/" target="_blank">Ditjen Kelautan, Pesisir dan Pulau-Pulau Kecil &nbsp; | &nbsp;</a>
+<a href="http://www.kkp.go.id/" target="_blank">Kementerian Kelautan dan Perikanan</a>
+<!--</marquee>--> <br />
+Jl. Medan Merdeka Timur No. 16 Gedung Mina Bahari 3 Lantai 10, Jakarta, Indonesia <br />
+Email : identifikasippk@gmail.com <br />
+Telp &amp; Fax: (021) 3522058 <br />
+&copy; Copyright Direktorat Pendayagunaan Pulau-Pulau Kecil 2012&nbsp; <br /></p>
+</div>
+</div>
+</body>
+</html>

@@ -1,0 +1,490 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Pulau Takong Kecil</title>
+
+<meta charset="utf-8"/>
+
+<meta property="fb:app_id" content="559408774147878" />
+
+
+<meta property="og:title" content="Pulau Takong Kecil" />
+<meta property="og:url" content="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_info/4094" />
+
+
+    <script type="text/javascript" src="http://ajax.microsoft.com/ajax/jquery/jquery-1.4.4.min.js">
+    </script>
+    
+    <script type="text/javascript" src="http://plugins.learningjquery.com/expander/jquery.expander.js">
+    </script>
+    
+    <script type="text/javascript">
+        $(function () {
+            $('div.readmore').expander({
+                slicePoint:200,
+                expandText: '(Baca selengkapnya)',
+                userCollapseText: '(Sembunyikan selengkapnya)'
+            });
+        });
+    </script>
+        
+	<script src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/galleria/galleria-1.2.8.min.js"></script>
+
+        <SCRIPT TYPE="text/javascript">
+            <!--
+            //Disable right click script
+            //visit http://www.rainbow.arch.scriptmania.com/scripts/
+            var message="Sorry, right-click has been disabled";
+            ///////////////////////////////////
+            function clickIE() {if (document.all) {(message);return false;}}
+            function clickNS(e) {if
+            (document.layers||(document.getElementById&&!document.all)) {
+            if (e.which==2||e.which==3) {(message);return false;}}}
+            if (document.layers)
+            {document.captureEvents(Event.MOUSEDOWN);document.onmousedown=clickNS;}
+            else{document.onmouseup=clickNS;document.oncontextmenu=clickIE;}
+            document.oncontextmenu=new Function("return false")
+            // -->
+            </SCRIPT>
+            
+            <SCRIPT TYPE="text/javascript">
+            <!--
+            //Disable select-text script (IE4+, NS6+)
+            //visit http://www.rainbow.arch.scriptmania.com/scripts/
+            ///////////////////////////////////
+            function disableselect(e){
+            return false
+            }
+            function reEnable(){
+            return true
+            }
+            //if IE4+
+            document.onselectstart=new Function ("return false")
+            //if NS6
+            if (window.sidebar){
+            document.onmousedown=disableselect
+            document.onclick=reEnable
+            }
+            // -->
+            </SCRIPT>  
+              
+<link rel="stylesheet" type="text/css" href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/css/main.css" media="screen"/>
+<style type='text/css'>
+#info_wrap{
+	width:820px;
+	margin:0 auto;
+	text-shadow:0px 1px 1px #09F;
+}
+table{
+	color:#000000;
+}
+h1{
+	color:#000000;
+}
+.tengahin{
+	width: 105px;
+	height: 30px;
+	margin: 0 auto auto auto;
+}
+#box_view{
+	background-image:-webkit-gradient(linear, 0 0%, 0 100%, from(#FFFFFF), to(#E0F0F5));
+	background:#FFF;
+	color:#F60;
+	border: 1px solid #fff;
+	border-radius: 4px 4px 4px 4px;
+	box-shadow: 0 8px 6px -6px black;
+	position:fixed;
+	right:0;
+	top:150px;;
+	width:80px;
+	z-index:10;
+	padding-left:12px;
+	font-size:10px;
+	}
+#box_view li{
+	color:#F60;
+	margin-left:-30px;
+	}
+	#wrapper a b {
+	color: #FFF;
+	font-size:14px;
+}
+.batas{
+	float:left;
+	border-right-style:inset;
+	border-right-width:thin;
+	}
+.text_h_wrap{
+	
+	padding-left:450px;
+	padding-top:39px;
+	text-shadow:0px 1px 1px #09F;
+	}
+#wrapper .footer p{
+	font-size:12px;
+	color: #FFF;
+	text-align:center;
+	text-shadow:0px 1px 1px #09F;
+}
+td,th {
+	font-size: 12px;
+}
+
+marquee a{
+	color:#FFF
+	}
+#wrapper .footer a{
+	color: #FFFFFF;
+}
+</style>
+            
+<script>
+function goBack()
+  {
+  window.history.back()
+  }
+</script>
+<script type="text/javascript">
+function Popup( url, height, width )
+{
+    var windowProperties = "toolbar = 0, scrollbars = 1, location = 0, statusbar = 0, menubar = 0, resizable = 1, width = " + width + ", height = " + height + ", left = 50, top = 50";
+ 
+    return window.open( url, "", windowProperties );
+}
+</script>
+
+
+
+</head>
+<body oncontextmenu='return false;' onkeydown='return false;' onmousedown='return false;'>
+
+<a id="top_view"></a>
+<div id="wrapper">
+<div class="header_wrap">
+<div class="text_h_wrap">
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/home_page'><b>&nbsp;Home&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/menu_info/1'><b>&nbsp;About Us&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_data'><b>&nbsp;Direktori Pulau&nbsp;&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/program_ip'><b>&nbsp;IKU&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/data_ppkt'><b>&nbsp;PPKT&nbsp;</b></a>
+</div>
+<!--<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/maintenance'><b>&nbsp;Login&nbsp;</b></a>-->
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/dir_log_cont'><b>&nbsp;Login&nbsp;</b></a>
+
+</div>
+</div>
+</div>
+
+<div id="fb-root"></div>
+<script>
+  window.fbAsyncInit = function() {
+    // init the FB JS SDK
+    FB.init({
+      appId      : '559408774147878',                        // App ID from the app dashboard
+      status     : true,                                 // Check Facebook Login status
+      xfbml      : true                                  // Look for social plugins on the page
+    });
+
+    // Additional initialization code such as adding Event Listeners goes here
+  };
+
+  // Load the SDK asynchronously
+  (function(){
+     // If we've already installed the SDK, we're done
+     if (document.getElementById('facebook-jssdk')) {return;}
+
+     // Get the first script element, which we'll use to find the parent node
+     var firstScriptElement = document.getElementsByTagName('script')[0];
+
+     // Create a new script element and set its id
+     var facebookJS = document.createElement('script'); 
+     facebookJS.id = 'facebook-jssdk';
+
+     // Set the new script's source to the source of the Facebook JS SDK
+     facebookJS.src = '//connect.facebook.net/en_US/all.js';
+
+     // Insert the Facebook JS SDK into the DOM
+     firstScriptElement.parentNode.insertBefore(facebookJS, firstScriptElement);
+   }());
+</script>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=559408774147878";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="box_view">
+    <a href="#top_view">MENU</a>
+    <h3><p>Lihat Informasi:</p></h3>
+    <ul>
+	<a href="#sf"><li>Slide Foto</li></a>
+    <a href="#gu"><li>Gambaran Umum</li></a>
+    <a href="#ksbk"><li>Kependudukan, Sosial Budaya dan Kelembagaan</li></a>
+    <a href="#eshp"><li>Ekosistem dan Sumberdaya Hayati</li></a>
+    <a href="#snh"><li>Sumberdaya Non Hayati</li></a>
+    <a href="#aps"><li>Aktivitas Pengelolaan Sumberdaya</li></a>
+    <a href="#ling"><li>Lingkungan</li></a>
+    <a href="#sp"><li>Sarana dan Prasarana</li></a>
+    <a href="#pi"><li>Peluang Investasi</li></a>
+    <a href="#pap"><li>Potensi Arahan Pengembangan</li></a>
+    <a href="#kp"><li>Kendala Pengembangan</li></a>
+	<a href="#rf"><li>Referensi</li></a>
+    </ul>
+    <a href="#fb_comn">KOMENTAR</a>
+</div>
+
+<br>
+			<a id="sf"></a></h2>
+			<div id="galleria">
+            <!--<div class='tengahin'><input type="button" value="Kembali Ke List" onclick="goBack()"></div>-->
+                            </div>
+            
+            <script>
+            Galleria.loadTheme('http://www.ppk-kp3k.kkp.go.id/direktori-pulau/galleria/themes/classic/galleria.classic.min.js');
+            Galleria.run('#galleria');
+            </script>
+</div>
+
+<div id="text_warp">
+
+
+<p><h1>Takong Kecil</h1></p>
+<table>
+<tr>
+	<td>Nama Lain</td> <td>:</td> <td></td>
+</tr>
+<tr>
+	<td>Propinsi</td> <td>:</td> <td>KEPULAUAN RIAU</td>
+</tr>
+<tr>
+	<td>Kabupaten</td> <td>:</td> <td>KOTA B A T A M</td>
+</tr>
+<tr>
+	<td>Kecamatan</td> <td>:</td> <td></td>
+</tr>
+<tr>
+	<td>Koordinat</td> <td>:</td> <td><a href="http://www.ppk-kp3k.kkp.go.id/giskkp/index.html?extent="target="_blank">03042’5,0”- 103°43’10’’E dan 1°6’20’’-1°6’10’’N</a></td>
+</tr>
+</table>
+<hr>
+
+<h2><a id="gu">Gambaran Umum</a></h2>
+<p><div class="readmore"><h2>
+	Gambaran Umum</h2>
+<p>
+	Pulau Takong Kecil secara administratif berada wilayah Kecamatan Belakang Padang, Kota Batam, Provinsi Kepulauan Riau. Secara geografis berada pada koordinat 103<sup>0</sup>42&rsquo;5,0&rdquo;- 103&deg;43&rsquo;10&rsquo;&rsquo;E dan 1&deg;6&rsquo;20&rsquo;&rsquo;-1&deg;6&rsquo;10&rsquo;&rsquo;N dengan luas 1,42 Ha.</p>
+<p>
+	<strong>Aksesibilitas</strong></p>
+<p>
+	Aksesibilitas menuju Pulau Takong Kecil melalui Dermaga Domestik Sekupang dengan menggunakan Speed Boat/Kapal Pancung ke Pulau Belakang Padang terlebih dahulu dikarenakan tidak terdapat angkutan reguler menuju pulai ini selama (10-20 menit), lalu dilanjutkan dengan menyewa kapal pancung ke Pulau Takong Kecil selama (1,5 &ndash; 2 jam) bergantung pada cuaca.</p>
+<p>
+	<strong>Topografi</strong></p>
+<p>
+	Wilayah Kota Batam yang memiliki kemiringan lereng 0 &ndash; 3 % tersebar di pesisir pantai Teluk Senimba, Teluk Jodoh, Teluk Tering dan Teluk Duriangkang. Lereng 20 &ndash; 40 % sebaran luasnya membentuk jalur sempit di punggung bukit sepanjang Bukit Dangas Pancur dan Bukit Senyum.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="ksbk">Kependudukan, Sosial Budaya dan Kelembagaan</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<h2><a id="eshp">Ekosistem dan Sumberdaya Hayati</a></h2>
+<p><div class="readmore"><p>
+	<span style="font-size:14px;"><strong>Ekosistem Dan Sumber Daya Hayati</strong></span></p>
+<p>
+	<strong><span style="font-size:12px;">Terumbu Karang</span></strong></p>
+<p>
+	Formasi terumbu karang di Pulau Takong kecil merupakan terumbu karang tepi (<em>fringing reef</em>) dimana terumbu karang tumbuh disepanjang pantai mengelilingi pulau. Bagian utara Pulau Takong Kecil memiliki kepadatan karang yang cukup sedang. Tetapi ruang rekrutmen karang keras hidup cukup rendah akibat alga yang terlalu banyak.</p>
+<p>
+	<strong>Ikan Terumbu</strong></p>
+<p>
+	Bagian utara Pulau Takong Kecil ikan terumbu yang dijumpai pada bagian ini terdiri dari 10 spesies dari 6 famili ikan terumbu. Kelimpahan ikan terumbu pada sisi ini berasal dari keluarga ikan Pomachentridae yaitu sebesar 1480 Ind/Ha.</p>
+<p>
+	<strong>Padang Lamun</strong></p>
+<p>
+	Jenis lamun yang ditemukan di Pulau Takong Kecil adalah <em>Enhalus acoroides, Thalassia hemprichii</em>, <em>Syringodium isoetifolium</em>dan<em> Halophila ovalis. </em>Jenis<em>H.ovalis </em>dan<em> T.</em></p>
+<p>
+	<strong>Mangrove</strong></p>
+<p>
+	Ekosistem mangrove di Pulau Takong Besar hanya terdapat di barat pulau dan membentuk rumpun-rumpun. Jenis mangrove yang ditemukan di Pulau Takong Kecil adalah <em>Bruguiera gymnoriza</em>dan <em>Avicennia marina.</em></p>
+<p>
+	<strong>Pantai</strong></p>
+<p>
+	Vegetasi pantai serta ekosistem mangrove, lamun dan karang membentuk tipologi pantai Pulau Takong Kecil. Selain ekosistem pantai dan ekosistem pesisir lainnya, Pulau Takong Kecil memiliki vegetasi darat yang berupa pohon serta semak.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="snh">Sumberdaya Non Hayati</a></h2>
+<p><div class="readmore"><p>
+	Tidak ada sumberdaya non hayati di Pulau Takong kecil ini.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="aps">Aktivitas Pengelolaan Sumberdaya</a></h2>
+<p><div class="readmore"><h1 align="left">
+	<span style="font-size:14px;">Aktivitas Pengelolaan Sumberdaya</span></h1>
+<h1 align="left">
+	<span style="font-size:12px;">Perikanan</span></h1>
+<p>
+	Wilayah perairan Pulau Takong Kecil biasa dimanfaatkan oleh nelayan Pulau Labon Besar hingga Pulau Terong untuk menangkap ikan kerapu, kakap, selar, sotong (cumi-cumi) kima, dan range (lambis-lambis). &nbsp;Alat tangkap yang digunakan terdiri dari jaring dan alat pancing, armada yang digunakan terdiri dari kapal pancung.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="ling">Lingkungan</a></h2>
+<p><div class="readmore"><h1 align="left">
+	<span style="font-size:16px;">Lingkungan</span></h1>
+<h2>
+	<span style="font-size:12px;">Kualitas Perairan</span></h2>
+<p>
+	Kualitas perairan yang diambil merupakan parameter <em>insitu</em> dan <em>eksitu</em> perairan. Parameter <em>insitu</em> yang diambil berupa parameter suhu, salinitas, pH dan kandungan oksigen terlarut (DO/<em>Dissolve oxygen</em>). Sedangkan parameter <em>eksitu</em> yang diambil berupa padatan tersuspensi (TSS/<em>Total suspended solid</em>), Ammonia (NH<sub>3</sub>-N), Nitrat (NO<sub>3</sub>-N) dan Orto Fosfat (PO<sub>4</sub>-P).Informasi kualitas perairan tersebut di bandingkan dengan baku mutu pustaka terkait.</p>
+<p>
+	<strong>Permasalahan Lingkungan</strong></p>
+<p>
+	Suatu Pulau mengalami permasalahn lingkungan yang dapat berasal dari kegiatan antropogenik maupun dari alam.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="sp">Sarana dan Prasarana</a></h2>
+<p><div class="readmore"><p>
+	<span style="font-size:16px;"><strong>Sarana Dan Prasarana</strong></span></p>
+<p>
+	<strong>1.S</strong><strong>arana transportasi</strong></p>
+<p>
+	&nbsp;Sarana transportasi &nbsp;di Pulau Takong Kecil berupa jalan setapak yang menuju Mercusuar serta mess bagi penjaga mercusuar. Selain itu, perairan Pulau Takong Kecil merupakan alur kapal domestik maupun luar negeri.</p>
+<h2>
+	<span style="font-size:12px;">2.Sarana Penerangan</span></h2>
+<p>
+	Sarana penerangan yang terdapat di Pulau Takong Kecil berupa sarana penunjang mercusuar dan mess penjaga mercusuar. Sarana penerangan ini didapat dari genset yang dimiliki oleh PT. Pelindo.</p>
+<h2>
+	<span style="font-size:12px;">3.Sarana Air Bersih dan sanitasi</span></h2>
+<p>
+	Sarana air bersih dan sanitasi merupakan sarana penunjang kesehatan penduduk suatu kawasan. sarana air bersih berasal dari mata air/sumber air bagi kehidupan sehari-hari. Sedangkan sanitasi diperlukan <strong>.</strong></p>
+<p>
+	<strong>Sarana Perikanan dan Kelautan</strong></p>
+<p>
+	Wilayah perairan Pulau Takong Kecil biasa dimanfaatkan oleh nelayan Pulau Labon Besar hingga Pulau Terong untuk menangkap ikan. jenis ikan yang biasa di tangkap adalah kerapu, kakap, selar, sotong (cumi-cumi) kima, dan range (lambis-lambis). Alat tangkap yang digunakan terdiri dari jaring dan alat pancing, armada yang digunakan terdiri dari kapal pancung. Sarana perikanan hanya berupa kapal dengan alat penangkap ikan yang dimiliki pribadi nelayan.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="pi">Peluang Investasi</a></h2>
+<p><div class="readmore"><h1 align="left">
+	<span style="font-size:16px;">Peluang Investasi</span></h1>
+<h1 align="left">
+	<span style="font-size:12px;"><strong>Peluang investasi di Pulau Takong Kecil berupa budidaya Kima dan hasil tangkapan lainnya</strong></span></h1>
+<h1 align="left">
+	<span style="font-size:14px;">Kendala dan Permasalahan Pengembangan</span></h1>
+<p>
+	Arahan pengembangan Pulau Takong Kecil melahirkan berbagai kendala. Kendala tersebut harus diselesaikan agar penanganan dan pemanfaatan potensi sumberdaya pesisir dapat optimal. Berikut kendala dan permasalahan yang terjadi dalam pengembangan di Pulau Takong Kecil:</p>
+<ol>
+	<li>
+		Tidak adanya SDM yang tetap untuk mengembangkan pulau</li>
+	<li>
+		Penurunan persentase tutupan Karang hidup</li>
+	<li>
+		Penurunan tutupan mangrove</li>
+	<li>
+		Penurunan hasil tangkapan</li>
+	<li>
+		Penurunan persentase tutupan karang hidup</li>
+	<li>
+		Penurunan hasil tangkapan ikan</li>
+	<li>
+		Penurunan tutupan mangrove</li>
+</ol>
+</div></p>
+
+<hr>
+
+<h2><a id="pap">Potensi dan Arahan Pengembangan</a></h2>
+<p><div class="readmore"><p>
+	<strong>Potensi dan Arahan Pengembangan dapat dilakukan sebagai berikut:</strong></p>
+<p align="left">
+	1.Kawasan strategis nasional untuk pertahanan dan keamanan negara</p>
+<p align="left">
+	2.Potensi dan kesesuaian perairan untuk pembesaran kima</p>
+<p>
+	<strong>Arahan Pengembangan meliputi:</strong></p>
+<p align="left">
+	1.Pengembangan kawasan strategis nasional untuk pertahanan dan keamanan negara sebagai bentuk kedaulatan bangsa</p>
+<p>
+	2.Konservasi dan pengembangan budidaya kima</p>
+<p>
+	3.Pengembangan Perikanan tangkap</p>
+<p>
+	4.Perbaikan ekosistem pesisir</p>
+</div></p>
+
+<hr>
+
+<h2><a id="kp">Kendala Pengembangan</a></h2>
+<p><div class="readmore"><p>
+	<strong>Kendala-Kendala dalam pengembangan di Pulau Takong Kecil:</strong></p>
+<p align="left">
+	1.Penurunan persentase tutupan karang hidup</p>
+<p align="left">
+	2.Penurunan hasil tangkapan ikan</p>
+<p>
+	3.Penurunan tutupan mangrove</p>
+<p>
+	&nbsp;</p>
+</div></p>
+
+<hr>
+
+<h2><a id="rf">Referensi</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<br />
+	<i> 
+		<p style="font-size:12px;">
+			Karena keterbatasan SDM dalam penginputan dan pengolahan data, kami mohon maaf atas ketidak lengkapan beberapa data pulau yang kami tampilkan, harap dimaklumi.
+			Berikan keritik dan saran pada kolom komentar agar kita dapat bersama menyajikan sebuah data yang cukup sempurna untuk halayak ramai yang berguna
+			demi kesejahterahan, kelestarian dan keindahan pulau-pulau kecil yang dimiliki Indonesia.<br />
+			*Jika sekiranya anda memiliki data yang cukup banyak, silakan mengirimkan file melalui email kami di <b><a>identifikasippk@gmail.com</a></b>
+			
+		</p>
+	</i>
+<br />
+
+<div id="fb_comn" class="fb-comments" data-href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_info/4094" data-width="800" data-numposts="5" data-colorscheme="light"></div>
+
+
+</div>
+</div>
+</div>
+<div id="wrapper">
+
+<div class="footer"><p>
+<!--<marquee onmouseover="this.stop()" onmouseout="this.start()" scrollamount="5" direction="right" width="798" height="14"  behavior="scroll">-->
+<a href="http://www.ppk-kp3k.kkp.go.id/" target="_blank">Direktorat Pendayagunaan Pulau-Pulau Kecil &nbsp; | &nbsp;</a>
+<a href="http://www.kp3k.kkp.go.id/" target="_blank">Ditjen Kelautan, Pesisir dan Pulau-Pulau Kecil &nbsp; | &nbsp;</a>
+<a href="http://www.kkp.go.id/" target="_blank">Kementerian Kelautan dan Perikanan</a>
+<!--</marquee>--> <br />
+Jl. Medan Merdeka Timur No. 16 Gedung Mina Bahari 3 Lantai 10, Jakarta, Indonesia <br />
+Email : identifikasippk@gmail.com <br />
+Telp &amp; Fax: (021) 3522058 <br />
+&copy; Copyright Direktorat Pendayagunaan Pulau-Pulau Kecil 2012&nbsp; <br /></p>
+</div>
+</div>
+</body>
+</html>

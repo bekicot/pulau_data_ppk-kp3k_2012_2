@@ -1,0 +1,416 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Pulau TANGAH</title>
+
+<meta charset="utf-8"/>
+
+<meta property="fb:app_id" content="559408774147878" />
+
+
+<meta property="og:title" content="Pulau TANGAH" />
+<meta property="og:url" content="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_info/485" />
+
+
+    <script type="text/javascript" src="http://ajax.microsoft.com/ajax/jquery/jquery-1.4.4.min.js">
+    </script>
+    
+    <script type="text/javascript" src="http://plugins.learningjquery.com/expander/jquery.expander.js">
+    </script>
+    
+    <script type="text/javascript">
+        $(function () {
+            $('div.readmore').expander({
+                slicePoint:200,
+                expandText: '(Baca selengkapnya)',
+                userCollapseText: '(Sembunyikan selengkapnya)'
+            });
+        });
+    </script>
+        
+	<script src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/galleria/galleria-1.2.8.min.js"></script>
+
+        <SCRIPT TYPE="text/javascript">
+            <!--
+            //Disable right click script
+            //visit http://www.rainbow.arch.scriptmania.com/scripts/
+            var message="Sorry, right-click has been disabled";
+            ///////////////////////////////////
+            function clickIE() {if (document.all) {(message);return false;}}
+            function clickNS(e) {if
+            (document.layers||(document.getElementById&&!document.all)) {
+            if (e.which==2||e.which==3) {(message);return false;}}}
+            if (document.layers)
+            {document.captureEvents(Event.MOUSEDOWN);document.onmousedown=clickNS;}
+            else{document.onmouseup=clickNS;document.oncontextmenu=clickIE;}
+            document.oncontextmenu=new Function("return false")
+            // -->
+            </SCRIPT>
+            
+            <SCRIPT TYPE="text/javascript">
+            <!--
+            //Disable select-text script (IE4+, NS6+)
+            //visit http://www.rainbow.arch.scriptmania.com/scripts/
+            ///////////////////////////////////
+            function disableselect(e){
+            return false
+            }
+            function reEnable(){
+            return true
+            }
+            //if IE4+
+            document.onselectstart=new Function ("return false")
+            //if NS6
+            if (window.sidebar){
+            document.onmousedown=disableselect
+            document.onclick=reEnable
+            }
+            // -->
+            </SCRIPT>  
+              
+<link rel="stylesheet" type="text/css" href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/css/main.css" media="screen"/>
+<style type='text/css'>
+#info_wrap{
+	width:820px;
+	margin:0 auto;
+	text-shadow:0px 1px 1px #09F;
+}
+table{
+	color:#000000;
+}
+h1{
+	color:#000000;
+}
+.tengahin{
+	width: 105px;
+	height: 30px;
+	margin: 0 auto auto auto;
+}
+#box_view{
+	background-image:-webkit-gradient(linear, 0 0%, 0 100%, from(#FFFFFF), to(#E0F0F5));
+	background:#FFF;
+	color:#F60;
+	border: 1px solid #fff;
+	border-radius: 4px 4px 4px 4px;
+	box-shadow: 0 8px 6px -6px black;
+	position:fixed;
+	right:0;
+	top:150px;;
+	width:80px;
+	z-index:10;
+	padding-left:12px;
+	font-size:10px;
+	}
+#box_view li{
+	color:#F60;
+	margin-left:-30px;
+	}
+	#wrapper a b {
+	color: #FFF;
+	font-size:14px;
+}
+.batas{
+	float:left;
+	border-right-style:inset;
+	border-right-width:thin;
+	}
+.text_h_wrap{
+	
+	padding-left:450px;
+	padding-top:39px;
+	text-shadow:0px 1px 1px #09F;
+	}
+#wrapper .footer p{
+	font-size:12px;
+	color: #FFF;
+	text-align:center;
+	text-shadow:0px 1px 1px #09F;
+}
+td,th {
+	font-size: 12px;
+}
+
+marquee a{
+	color:#FFF
+	}
+#wrapper .footer a{
+	color: #FFFFFF;
+}
+</style>
+            
+<script>
+function goBack()
+  {
+  window.history.back()
+  }
+</script>
+<script type="text/javascript">
+function Popup( url, height, width )
+{
+    var windowProperties = "toolbar = 0, scrollbars = 1, location = 0, statusbar = 0, menubar = 0, resizable = 1, width = " + width + ", height = " + height + ", left = 50, top = 50";
+ 
+    return window.open( url, "", windowProperties );
+}
+</script>
+
+
+
+</head>
+<body oncontextmenu='return false;' onkeydown='return false;' onmousedown='return false;'>
+
+<a id="top_view"></a>
+<div id="wrapper">
+<div class="header_wrap">
+<div class="text_h_wrap">
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/home_page'><b>&nbsp;Home&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/menu_info/1'><b>&nbsp;About Us&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_data'><b>&nbsp;Direktori Pulau&nbsp;&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/program_ip'><b>&nbsp;IKU&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/data_ppkt'><b>&nbsp;PPKT&nbsp;</b></a>
+</div>
+<!--<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/maintenance'><b>&nbsp;Login&nbsp;</b></a>-->
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/dir_log_cont'><b>&nbsp;Login&nbsp;</b></a>
+
+</div>
+</div>
+</div>
+
+<div id="fb-root"></div>
+<script>
+  window.fbAsyncInit = function() {
+    // init the FB JS SDK
+    FB.init({
+      appId      : '559408774147878',                        // App ID from the app dashboard
+      status     : true,                                 // Check Facebook Login status
+      xfbml      : true                                  // Look for social plugins on the page
+    });
+
+    // Additional initialization code such as adding Event Listeners goes here
+  };
+
+  // Load the SDK asynchronously
+  (function(){
+     // If we've already installed the SDK, we're done
+     if (document.getElementById('facebook-jssdk')) {return;}
+
+     // Get the first script element, which we'll use to find the parent node
+     var firstScriptElement = document.getElementsByTagName('script')[0];
+
+     // Create a new script element and set its id
+     var facebookJS = document.createElement('script'); 
+     facebookJS.id = 'facebook-jssdk';
+
+     // Set the new script's source to the source of the Facebook JS SDK
+     facebookJS.src = '//connect.facebook.net/en_US/all.js';
+
+     // Insert the Facebook JS SDK into the DOM
+     firstScriptElement.parentNode.insertBefore(facebookJS, firstScriptElement);
+   }());
+</script>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=559408774147878";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="box_view">
+    <a href="#top_view">MENU</a>
+    <h3><p>Lihat Informasi:</p></h3>
+    <ul>
+	<a href="#sf"><li>Slide Foto</li></a>
+    <a href="#gu"><li>Gambaran Umum</li></a>
+    <a href="#ksbk"><li>Kependudukan, Sosial Budaya dan Kelembagaan</li></a>
+    <a href="#eshp"><li>Ekosistem dan Sumberdaya Hayati</li></a>
+    <a href="#snh"><li>Sumberdaya Non Hayati</li></a>
+    <a href="#aps"><li>Aktivitas Pengelolaan Sumberdaya</li></a>
+    <a href="#ling"><li>Lingkungan</li></a>
+    <a href="#sp"><li>Sarana dan Prasarana</li></a>
+    <a href="#pi"><li>Peluang Investasi</li></a>
+    <a href="#pap"><li>Potensi Arahan Pengembangan</li></a>
+    <a href="#kp"><li>Kendala Pengembangan</li></a>
+	<a href="#rf"><li>Referensi</li></a>
+    </ul>
+    <a href="#fb_comn">KOMENTAR</a>
+</div>
+
+<br>
+			<a id="sf"></a></h2>
+			<div id="galleria">
+            <!--<div class='tengahin'><input type="button" value="Kembali Ke List" onclick="goBack()"></div>-->
+                            </div>
+            
+            <script>
+            Galleria.loadTheme('http://www.ppk-kp3k.kkp.go.id/direktori-pulau/galleria/themes/classic/galleria.classic.min.js');
+            Galleria.run('#galleria');
+            </script>
+</div>
+
+<div id="text_warp">
+
+
+<p><h1>TANGAH</h1></p>
+<table>
+<tr>
+	<td>Nama Lain</td> <td>:</td> <td></td>
+</tr>
+<tr>
+	<td>Propinsi</td> <td>:</td> <td>SUMATERA BARAT</td>
+</tr>
+<tr>
+	<td>Kabupaten</td> <td>:</td> <td>KOTA PARIAMAN</td>
+</tr>
+<tr>
+	<td>Kecamatan</td> <td>:</td> <td>PARIAMAN TENGAH</td>
+</tr>
+<tr>
+	<td>Koordinat</td> <td>:</td> <td><a href="http://www.ppk-kp3k.kkp.go.id/giskkp/index.html?extent="target="_blank"></a></td>
+</tr>
+</table>
+<hr>
+
+<h2><a id="gu">Gambaran Umum</a></h2>
+<p><div class="readmore"><p style="text-align: justify;">
+	Pulau Tangah merupakan salah satu pulau yang termasuk dalam administrasi Kecamatan Pariaman Tengah, dengan koordinat terletak pada 00&deg;38&#39;51&quot; LS dan 100&deg;06&#39;05&quot; BT. Dari hasil analisa spasial, Pulau Tangah memiliki luas 6,58 Ha yang terdiri dari 1,56 Ha hamparan pasir dan 5,02 Ha kawasan bervegetasi. Luas terumbu karang yang mengelilingi 10,02 Ha.</p>
+<p style="text-align: justify;">
+	Hamparan pasir mengelilingi seluruh kawasan pulau dan dapat dikelilingi selama 20 menit. Pulau ini memiliki flat terrain dengan ketinggian rata-rata 1,5 meter dari permukaan laut. Pulau ini memiliki bentangan pasir terpanjang sejauh 45 meter dan dapat dijumpai pada sisi Timur pulau. Keliling pulau ini adalah 951,1 meter. Potongan melintang pulau dari arah Timur ke Barat sepanjang 304 meter dan dari Utara ke Selatan 275 meter. Jarak garis lurus dari garis pantai pulau Sumatera menuju pulau Tangah sejauh 2.765 meter.</p>
+<p style="text-align: justify;">
+	Kondisi umum pulau Tangah merupakan pulau datar dengan pasir putih yang ditumbuhi beberapa jenis pohon seperti pohon kelapa, bakau, semak, dan rumput.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="ksbk">Kependudukan, Sosial Budaya dan Kelembagaan</a></h2>
+<p><div class="readmore"><p>
+	<span style="text-align: justify;">Pulau ini tidak berpenduduk. Kata Tangah sendiri memiliki arti letaknya ditengah.</span></p>
+</div></p>
+
+<hr>
+
+<h2><a id="eshp">Ekosistem dan Sumberdaya Hayati</a></h2>
+<p><div class="readmore"><p>
+	<strong>Vegetasi</strong></p>
+<p>
+	Kawasan bervegetasi di pulau Tangah seluas 5,02 Ha. Vegetasi dominan ditumbuhi oleh pohon ketapang dan kelapa yang menghampar diseluruh bagian daratan pulau. Pada bagian pinggiran pantai dijumpai jenis pohon waru dan tanaman lainnya seperti tandang-tandang, subang-subang. Pada bagian luar pulau daratannya diselimuti oleh vegetasi rumput.</p>
+<p>
+	Pada bagian dalam pulau dijumpai tanaman budidaya seperti pohon mangga yang diduga diintrodusir oleh masyarakat sekitar. Vegetasi lainnya seperti Kedondong, melinjo, bambu, pinang, Terdapat juga area yang ditumbuhi oleh tumbuhan jenis pakis pada area basah.</p>
+<p>
+	Karakteristik dan jenis vegetasi di pulau Tangah tidak jauh berbeda dengan pulau Anso yang berdekatan. Pada pulau ini banyak dijumpai pohon yang berdiameter 0,3 - 05 meter terutama dari jenis pohon ketapang.</p>
+<p>
+	<strong>Hewan</strong></p>
+<p>
+	Tidak banyak hewan yang mendiami pulau ini. Dari pengamatan banyak dijumpai burung seperti ealang dan merebah. Pada bagian pantai dijumpai umang-umang dan kepiting batu, tripang, serta gerombolan anak ikan.</p>
+<p>
+	<strong>Terumbu Karang</strong></p>
+<p>
+	Kondisi terumbu karang hanya 17% yang masih hidup (kondisi jelek), terdiri dari 2% acropora dan 15% non acropora. Sementara karang mati yang ditumbuhi oleh alga mendominasi tutupan karang pada saat pengamatan yaitu sebesar 45%. Pasir menutupi kawasan sebesar 25% dan sisanya berupa rubble, silt, dan sponge. Karang yang tumbuh didominasi oleh suku Pocilloporidae dari marga pocillopora, acropora, favia, montifora, dan porites.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="snh">Sumberdaya Non Hayati</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<h2><a id="aps">Aktivitas Pengelolaan Sumberdaya</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<h2><a id="ling">Lingkungan</a></h2>
+<p><div class="readmore"><p>
+	<strong>Kualitas Perairan</strong></p>
+<p style="text-align: justify;">
+	Dari nilai parameter fifika perairan, tingkat kecerahan di pulau ini yakni 11 meter (kedalaman 13 meter). Sedangkan suhu alami berkisar antara 30 - 30,9&nbsp;&ordm;C. Kondisi suhu tersebut cukup baik untuk pertumbuhan biota laut. Data kecepatan arus berkisar &nbsp;antara 29 - 30,8 m/det yang mengkategorikan kecepatan arus lambat. Kisaran pasang surut berkisar antara 1,5 - 2 meter dengan ketinggian gelombang yang terukur dalam kisaran 0,5 - 1 meter. Namun demikian ketinggian gelombang bisa mencapai ketinggian maksimum 3 meter terjadi pada bulan Juli dan Desember. Nilai kekeruhan pulau ini adalah 3.00 NTU dimana berada dalam keadaan baik untuk pertumbuhan biota laut, namun kesesuaian perairan untuk kepentingan perikanan kurang baik, karena memiliki nilai TSS yakni 84 mg/l.</p>
+<p style="text-align: justify;">
+	Kisaran pH pulau ini adalah 8 - 8,5, nilai salinitas antara 33 - 34 o/oo dan nilai DO yakni 3,1 mg/l, BOD5 yakni 26,5 mg/l, nitrat 0,004 mg/l, sedangkan posfat berada pada kesuburan rendah dengan kisaran nilai 0,0075 mg/l.</p>
+<p style="text-align: justify;">
+	Terdapat 8 kelas plankton yang terdapat di perairan pulau ini yaitu Cyanophyta, Chlorophyta, Bacillariophyta, Crysophyta, Euglenophyta, Copepoda, Ciliata dan Crustacea yang masing-masing terdiri dari beberapa spesies. Indeks keragaman jenis menunjukan nilai 4,29, Indeks dominasi jenis pada nilai 0,06 dan Indeks keseragaman jenis pada nilai 0,92. Nilai tersebut menunjukan bahwa pada perairan tersebut dalam kondisi baik karena keseragamannya masih banyak dan tidak ada suatu spesies tertentu yang mendominasi.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="sp">Sarana dan Prasarana</a></h2>
+<p><div class="readmore"><p>
+	Tidak ditemukan sarana maupun prasarana apapun di pulau Tangah.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="pi">Peluang Investasi</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<h2><a id="pap">Potensi dan Arahan Pengembangan</a></h2>
+<p><div class="readmore"><p>
+	Potensi pemanfaatan jasa ekosistem:</p>
+<ul>
+	<li>
+		Rekreasi pantai</li>
+	<li>
+		Perlindungan bentuk pantai</li>
+	<li>
+		Wisata Snorkling, Kawasan Rehabilitasi dan Perikanan Ramah Lingkungan</li>
+	<li>
+		Pariwisata dengan rehabilitasi fisik dan pemanfaatan perikanan terbatas</li>
+</ul>
+</div></p>
+
+<hr>
+
+<h2><a id="kp">Kendala Pengembangan</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<h2><a id="rf">Referensi</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<br />
+	<i> 
+		<p style="font-size:12px;">
+			Karena keterbatasan SDM dalam penginputan dan pengolahan data, kami mohon maaf atas ketidak lengkapan beberapa data pulau yang kami tampilkan, harap dimaklumi.
+			Berikan keritik dan saran pada kolom komentar agar kita dapat bersama menyajikan sebuah data yang cukup sempurna untuk halayak ramai yang berguna
+			demi kesejahterahan, kelestarian dan keindahan pulau-pulau kecil yang dimiliki Indonesia.<br />
+			*Jika sekiranya anda memiliki data yang cukup banyak, silakan mengirimkan file melalui email kami di <b><a>identifikasippk@gmail.com</a></b>
+			
+		</p>
+	</i>
+<br />
+
+<div id="fb_comn" class="fb-comments" data-href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_info/485" data-width="800" data-numposts="5" data-colorscheme="light"></div>
+
+
+</div>
+</div>
+</div>
+<div id="wrapper">
+
+<div class="footer"><p>
+<!--<marquee onmouseover="this.stop()" onmouseout="this.start()" scrollamount="5" direction="right" width="798" height="14"  behavior="scroll">-->
+<a href="http://www.ppk-kp3k.kkp.go.id/" target="_blank">Direktorat Pendayagunaan Pulau-Pulau Kecil &nbsp; | &nbsp;</a>
+<a href="http://www.kp3k.kkp.go.id/" target="_blank">Ditjen Kelautan, Pesisir dan Pulau-Pulau Kecil &nbsp; | &nbsp;</a>
+<a href="http://www.kkp.go.id/" target="_blank">Kementerian Kelautan dan Perikanan</a>
+<!--</marquee>--> <br />
+Jl. Medan Merdeka Timur No. 16 Gedung Mina Bahari 3 Lantai 10, Jakarta, Indonesia <br />
+Email : identifikasippk@gmail.com <br />
+Telp &amp; Fax: (021) 3522058 <br />
+&copy; Copyright Direktorat Pendayagunaan Pulau-Pulau Kecil 2012&nbsp; <br /></p>
+</div>
+</div>
+</body>
+</html>

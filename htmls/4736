@@ -1,0 +1,1386 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Pulau Sapudi</title>
+
+<meta charset="utf-8"/>
+
+<meta property="fb:app_id" content="559408774147878" />
+
+
+<meta property="og:title" content="Pulau Sapudi" />
+<meta property="og:url" content="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_info/4736" />
+
+
+    <script type="text/javascript" src="http://ajax.microsoft.com/ajax/jquery/jquery-1.4.4.min.js">
+    </script>
+    
+    <script type="text/javascript" src="http://plugins.learningjquery.com/expander/jquery.expander.js">
+    </script>
+    
+    <script type="text/javascript">
+        $(function () {
+            $('div.readmore').expander({
+                slicePoint:200,
+                expandText: '(Baca selengkapnya)',
+                userCollapseText: '(Sembunyikan selengkapnya)'
+            });
+        });
+    </script>
+        
+	<script src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/galleria/galleria-1.2.8.min.js"></script>
+
+        <SCRIPT TYPE="text/javascript">
+            <!--
+            //Disable right click script
+            //visit http://www.rainbow.arch.scriptmania.com/scripts/
+            var message="Sorry, right-click has been disabled";
+            ///////////////////////////////////
+            function clickIE() {if (document.all) {(message);return false;}}
+            function clickNS(e) {if
+            (document.layers||(document.getElementById&&!document.all)) {
+            if (e.which==2||e.which==3) {(message);return false;}}}
+            if (document.layers)
+            {document.captureEvents(Event.MOUSEDOWN);document.onmousedown=clickNS;}
+            else{document.onmouseup=clickNS;document.oncontextmenu=clickIE;}
+            document.oncontextmenu=new Function("return false")
+            // -->
+            </SCRIPT>
+            
+            <SCRIPT TYPE="text/javascript">
+            <!--
+            //Disable select-text script (IE4+, NS6+)
+            //visit http://www.rainbow.arch.scriptmania.com/scripts/
+            ///////////////////////////////////
+            function disableselect(e){
+            return false
+            }
+            function reEnable(){
+            return true
+            }
+            //if IE4+
+            document.onselectstart=new Function ("return false")
+            //if NS6
+            if (window.sidebar){
+            document.onmousedown=disableselect
+            document.onclick=reEnable
+            }
+            // -->
+            </SCRIPT>  
+              
+<link rel="stylesheet" type="text/css" href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/css/main.css" media="screen"/>
+<style type='text/css'>
+#info_wrap{
+	width:820px;
+	margin:0 auto;
+	text-shadow:0px 1px 1px #09F;
+}
+table{
+	color:#000000;
+}
+h1{
+	color:#000000;
+}
+.tengahin{
+	width: 105px;
+	height: 30px;
+	margin: 0 auto auto auto;
+}
+#box_view{
+	background-image:-webkit-gradient(linear, 0 0%, 0 100%, from(#FFFFFF), to(#E0F0F5));
+	background:#FFF;
+	color:#F60;
+	border: 1px solid #fff;
+	border-radius: 4px 4px 4px 4px;
+	box-shadow: 0 8px 6px -6px black;
+	position:fixed;
+	right:0;
+	top:150px;;
+	width:80px;
+	z-index:10;
+	padding-left:12px;
+	font-size:10px;
+	}
+#box_view li{
+	color:#F60;
+	margin-left:-30px;
+	}
+	#wrapper a b {
+	color: #FFF;
+	font-size:14px;
+}
+.batas{
+	float:left;
+	border-right-style:inset;
+	border-right-width:thin;
+	}
+.text_h_wrap{
+	
+	padding-left:450px;
+	padding-top:39px;
+	text-shadow:0px 1px 1px #09F;
+	}
+#wrapper .footer p{
+	font-size:12px;
+	color: #FFF;
+	text-align:center;
+	text-shadow:0px 1px 1px #09F;
+}
+td,th {
+	font-size: 12px;
+}
+
+marquee a{
+	color:#FFF
+	}
+#wrapper .footer a{
+	color: #FFFFFF;
+}
+</style>
+            
+<script>
+function goBack()
+  {
+  window.history.back()
+  }
+</script>
+<script type="text/javascript">
+function Popup( url, height, width )
+{
+    var windowProperties = "toolbar = 0, scrollbars = 1, location = 0, statusbar = 0, menubar = 0, resizable = 1, width = " + width + ", height = " + height + ", left = 50, top = 50";
+ 
+    return window.open( url, "", windowProperties );
+}
+</script>
+
+
+
+</head>
+<body oncontextmenu='return false;' onkeydown='return false;' onmousedown='return false;'>
+
+<a id="top_view"></a>
+<div id="wrapper">
+<div class="header_wrap">
+<div class="text_h_wrap">
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/home_page'><b>&nbsp;Home&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/menu_info/1'><b>&nbsp;About Us&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_data'><b>&nbsp;Direktori Pulau&nbsp;&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/program_ip'><b>&nbsp;IKU&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/data_ppkt'><b>&nbsp;PPKT&nbsp;</b></a>
+</div>
+<!--<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/maintenance'><b>&nbsp;Login&nbsp;</b></a>-->
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/dir_log_cont'><b>&nbsp;Login&nbsp;</b></a>
+
+</div>
+</div>
+</div>
+
+<div id="fb-root"></div>
+<script>
+  window.fbAsyncInit = function() {
+    // init the FB JS SDK
+    FB.init({
+      appId      : '559408774147878',                        // App ID from the app dashboard
+      status     : true,                                 // Check Facebook Login status
+      xfbml      : true                                  // Look for social plugins on the page
+    });
+
+    // Additional initialization code such as adding Event Listeners goes here
+  };
+
+  // Load the SDK asynchronously
+  (function(){
+     // If we've already installed the SDK, we're done
+     if (document.getElementById('facebook-jssdk')) {return;}
+
+     // Get the first script element, which we'll use to find the parent node
+     var firstScriptElement = document.getElementsByTagName('script')[0];
+
+     // Create a new script element and set its id
+     var facebookJS = document.createElement('script'); 
+     facebookJS.id = 'facebook-jssdk';
+
+     // Set the new script's source to the source of the Facebook JS SDK
+     facebookJS.src = '//connect.facebook.net/en_US/all.js';
+
+     // Insert the Facebook JS SDK into the DOM
+     firstScriptElement.parentNode.insertBefore(facebookJS, firstScriptElement);
+   }());
+</script>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=559408774147878";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="box_view">
+    <a href="#top_view">MENU</a>
+    <h3><p>Lihat Informasi:</p></h3>
+    <ul>
+	<a href="#sf"><li>Slide Foto</li></a>
+    <a href="#gu"><li>Gambaran Umum</li></a>
+    <a href="#ksbk"><li>Kependudukan, Sosial Budaya dan Kelembagaan</li></a>
+    <a href="#eshp"><li>Ekosistem dan Sumberdaya Hayati</li></a>
+    <a href="#snh"><li>Sumberdaya Non Hayati</li></a>
+    <a href="#aps"><li>Aktivitas Pengelolaan Sumberdaya</li></a>
+    <a href="#ling"><li>Lingkungan</li></a>
+    <a href="#sp"><li>Sarana dan Prasarana</li></a>
+    <a href="#pi"><li>Peluang Investasi</li></a>
+    <a href="#pap"><li>Potensi Arahan Pengembangan</li></a>
+    <a href="#kp"><li>Kendala Pengembangan</li></a>
+	<a href="#rf"><li>Referensi</li></a>
+    </ul>
+    <a href="#fb_comn">KOMENTAR</a>
+</div>
+
+<br>
+			<a id="sf"></a></h2>
+			<div id="galleria">
+            <!--<div class='tengahin'><input type="button" value="Kembali Ke List" onclick="goBack()"></div>-->
+                            </div>
+            
+            <script>
+            Galleria.loadTheme('http://www.ppk-kp3k.kkp.go.id/direktori-pulau/galleria/themes/classic/galleria.classic.min.js');
+            Galleria.run('#galleria');
+            </script>
+</div>
+
+<div id="text_warp">
+
+
+<p><h1>Sapudi</h1></p>
+<table>
+<tr>
+	<td>Nama Lain</td> <td>:</td> <td></td>
+</tr>
+<tr>
+	<td>Propinsi</td> <td>:</td> <td>JAWA TIMUR</td>
+</tr>
+<tr>
+	<td>Kabupaten</td> <td>:</td> <td>KABUPATEN SUMENEP</td>
+</tr>
+<tr>
+	<td>Kecamatan</td> <td>:</td> <td></td>
+</tr>
+<tr>
+	<td>Koordinat</td> <td>:</td> <td><a href="http://www.ppk-kp3k.kkp.go.id/giskkp/index.html?extent="target="_blank">7° 6' 36.000</a></td>
+</tr>
+</table>
+<hr>
+
+<h2><a id="gu">Gambaran Umum</a></h2>
+<p><div class="readmore"><p style="text-align: justify;">
+	<span style="color:#ff0000;"><strong>GAMBARAN UMUM</strong></span></p>
+<p style="text-align: justify; margin-left: 40px;">
+	Pulau Sapudi atau yang lebih dikenal dengan &ldquo;Pulau Podhay&rdquo; oleh masyarakat Madura. Pulau Sapudi merupakan tempat asal mula munculnya kebudayaan &ldquo;Kerapan Sapi Madura&rdquo; yang tersohor. Hal ini dapat menjadi salah satu faktor daya tarik Pulau Sapudi untuk dijadikan pulau wisata berbasis sejarah dengan menonjolkan pelestarian kebudayaan kerapan sapi sekaligus pembudidayaan sapi kerapan yang asli. Sehingga, kebudayaan kerapan sapi Madura lebih dikenal oleh masyarakat, baik di dalam negeri maupun di luar negeri. Pulau Sapudi menawarkan keindahan alam yang masih asli, asri dan bersejarah.</p>
+<p style="margin-left: 40px; text-align: justify;">
+	Secara administratif, pulau ini termasuk wilayah Kabupaten Sumenep, Jawa Timur. Pulau berpenduduk ini secara geografis terletak pada posisi 7<sup>0</sup>05&rsquo;20&rsquo;&rsquo; LU dan 114<sup>0</sup>25&lsquo;45&rsquo;&rsquo; BT. Pulau Sapudi memiliki batas-batas:</p>
+<ul style="margin-left: 40px;">
+	<li style="text-align: justify;">
+		Sebelah Utara&nbsp;&nbsp;&nbsp;&nbsp; : Selat Madura</li>
+	<li style="text-align: justify;">
+		Sebelah Selatan&nbsp; : Selat Madura</li>
+	<li style="text-align: justify;">
+		Sebelah Barat&nbsp;&nbsp;&nbsp;&nbsp; : Selat Ra&rsquo;as</li>
+	<li style="text-align: justify;">
+		Sebelah Timur&nbsp;&nbsp;&nbsp; : Selat Sapudi</li>
+</ul>
+<p style="margin-left: 40px; text-align: justify;">
+	Di antara gugusan pulau-pulau di sebelah timur Pulau Madura, Sapudi merupakan pulau terluas kedua dan pulau dengan penduduk terbanyak. Pulau ini terbagi atas dua kecamatan, yakni Nonggunong, Sumenep di bagian utara, dan Gayam, Sumenep di bagian selatan. Pulau ini berada di sebelah timur pulau Madura dan di sebelah utara kota Situbondo, Jawa Timur.</p>
+<p style="margin-left: 40px; text-align: justify;">
+	Pulau Sapudi terdapat 2 (dua) kecamatan, yaitu Kecamatan Nonggurong dan kecamatan Gayam.</p>
+<ol style="list-style-type: lower-alpha; margin-left: 40px;">
+	<li style="text-align: justify;">
+		<p>
+			Kecamatan Nonggunong : Luas wilayah kurang lebih 40,079960 Km<sup>2</sup> (1,91% dari Luas Kabupaten Sumenep).</p>
+	</li>
+</ol>
+<p style="margin-left: 80px; text-align: justify;">
+	Luas wilayah menurut penggunaannya terbagi menjadi 2 bagian yaitu lahan sawah (terdiri dari sawah irigasi dan tadah hujan) dan lahan kering (terdiri dari bangunan,halaman sekitar; tegal, kebun ladang; lainnya) masing-masing luasnya 0,9420 Km&sup2; (2,35%) dan 39,1380 Km&sup2; (97,65%). Jumlah Desa sebanyak 8 Desa terdiri dari : Sumber, Nonggunong, Tana Merah, Talaga, Rosong, Sokarami Paseser, Sokarami Timur, Sonok.</p>
+<ol style="list-style-type: lower-alpha; margin-left: 40px;">
+	<li style="text-align: justify;" value="2">
+		<p>
+			Kecamatan Gayam : Luas wilayah kurang lebih 88,398873 Km<sup>2</sup> (4,22% dari Luas Kabupaten Sumenep).</p>
+	</li>
+</ol>
+<p style="margin-left: 80px; text-align: justify;">
+	Luas wilayah Kecamatan Gayam sebesar 69,78% dari Luas Pulau Sapudi yaitu 126,686257 Km<sup>2</sup>.Luas wilayah menurut penggunaannya terbagi menjadi 2 bagian yaitu lahan sawah (terdiri dari sawah irigasi dan tadah hujan) dan lahan kering (terdiri dari bangunan,halaman sekitar; tegal, kebun ladang; lainnya) masing-masing luasnya 4,698 Km&sup2; (5,31%) dan 83,701 Km&sup2; (94,69%). Jumlah Desa di Kecamatan Gayam sebanyak 10 Desa terdiri dari Gayam, Prambanan, Gendang Timur, Gendang Barat, Tarebung, Kaloang, Jambuir, Nyamplong, Karang Tengah, Pancor.</p>
+<p style="text-align: justify;">
+	<span style="color:#ff0000;"><strong>AKSESIBILITAS</strong></span></p>
+<p style="text-align: justify; margin-left: 40px;">
+	Ada dua alternatif pelabuhan untuk mengunjungi Pulau Sapudi, yakni Pelabuhan Dungkek dan Pelabuhan Kalianget. Dari kedua pelabuhan tersebut, alat transportasi yang tersedia adalah perahu tardisonal. Pernah dilakukan uji coba perjalanan kapal feri/ASDP jurusan Kalianget Jangkar transit Gayam-Sapudi. Tapi tidak bertahan lama, karena cuaca laut tidak cocok dengan kekuatan konstruksi dermaga Gayam serta alasan lainnya.</p>
+<p style="text-align: justify; margin-left: 40px;">
+	Alat transportasi menuju Sapudi dari dua pelabuhan itu adalah perahu tradisional berbobot 10 ton. Perahu ini dikelola secara tradisional oleh warga Sapudi. Perjalanan Dungkek dua jam ke Sapudi karena posisi pelabuhan berada dibagian ujung timur daratan Sumenep. Dan tempat berlabuhnya di Sakorame atau Tarebung yang berlokasi di ujung barat daratan pulau Sapudi. Berbeda jarak pelabuhan Kalianget ke pelabuhan Gayam yang berjarak 27 mil karena lokasi pelabuhan Gayam berada di bagian tengah arah timur Pulau Sapudi. Apabila berangkat lewat Pelabuhan Dungkek, diwajibkan naik perahu kecil menuju perahu besar dengan membayar ongkos sebesar Rp. 10.000,-.</p>
+<p style="margin-left: 40px; text-align: justify;">
+	Selain transportasi menuju Pulau Sapudi alat transportasi yang tersedia di Pulau Sapudi sendiri adalah <em>kol</em> atau yang biasa dikenal dengan sebutan angkutan umum, dan delman. Sedikitnya alat transportasi yang tersedia di Pulau Sapudi disebabkan karena banyaknya masyarakat pulau sapudi yang memiliki kendaraan bermotor. Sehingga banyak masyarakat lokal yang tidak membutuhkan angkutan umum.</p>
+<p style="margin-left:21.3pt;">
+	&nbsp;</p>
+<p align="center" style="margin-left:21.3pt;">
+	Table jadwal keberangkatan kapal menuju P. Sapudi</p>
+<table align="center" border="1" cellpadding="0" cellspacing="0">
+	<tbody>
+		<tr>
+			<td rowspan="2">
+				<p align="center">
+					Hari</p>
+			</td>
+			<td colspan="2" style="width:176px;">
+				<p align="center">
+					Pelabuhan Dungkek</p>
+			</td>
+			<td colspan="2">
+				<p align="center">
+					Pelabuhan Kalianget</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:91px;">
+				<p align="center">
+					Pukul</p>
+			</td>
+			<td>
+				<p align="center">
+					Jumlah Kapal</p>
+			</td>
+			<td>
+				<p align="center">
+					Pukul</p>
+			</td>
+			<td>
+				<p align="center">
+					Jumlah Kapal</p>
+			</td>
+		</tr>
+		<tr>
+			<td rowspan="3">
+				<p>
+					Senin</p>
+			</td>
+			<td style="width:91px;">
+				<ul>
+					<li align="center">
+						10.00 wib</li>
+				</ul>
+			</td>
+			<td rowspan="3">
+				<p align="center">
+					3 Buah</p>
+			</td>
+			<td rowspan="3">
+				<ul>
+					<li align="center">
+						10.00 wib</li>
+				</ul>
+			</td>
+			<td rowspan="3">
+				<p align="center">
+					1 Buah</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:91px;">
+				<ul>
+					<li align="center">
+						15.00 wib</li>
+				</ul>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:91px;">
+				<ul>
+					<li align="center">
+						17.00 wib</li>
+				</ul>
+			</td>
+		</tr>
+		<tr>
+			<td rowspan="3">
+				<p>
+					Selasa</p>
+			</td>
+			<td style="width:91px;">
+				<ul>
+					<li align="center">
+						10.00 wib</li>
+				</ul>
+			</td>
+			<td rowspan="3">
+				<p align="center">
+					3 Buah</p>
+			</td>
+			<td rowspan="3">
+				<ul>
+					<li align="center">
+						15.00 wib</li>
+				</ul>
+			</td>
+			<td rowspan="3">
+				<p align="center">
+					1 Buah</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:91px;">
+				<ul>
+					<li align="center">
+						15.00 wib</li>
+				</ul>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:91px;">
+				<ul>
+					<li align="center">
+						17.00 wib</li>
+				</ul>
+			</td>
+		</tr>
+		<tr>
+			<td rowspan="3">
+				<p>
+					Rabu</p>
+			</td>
+			<td style="width:91px;">
+				<ul>
+					<li align="center">
+						10.00 wib</li>
+				</ul>
+			</td>
+			<td rowspan="3">
+				<p align="center">
+					3 Buah</p>
+			</td>
+			<td rowspan="3">
+				<ul>
+					<li align="center">
+						15.00 wib</li>
+				</ul>
+			</td>
+			<td rowspan="3">
+				<p align="center">
+					1 Buah</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:91px;">
+				<ul>
+					<li align="center">
+						15.00 wib</li>
+				</ul>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:91px;">
+				<ul>
+					<li align="center">
+						17.00 wib</li>
+				</ul>
+			</td>
+		</tr>
+		<tr>
+			<td rowspan="3">
+				<p>
+					Kamis</p>
+			</td>
+			<td style="width:91px;">
+				<ul>
+					<li align="center">
+						10.00 wib</li>
+				</ul>
+			</td>
+			<td rowspan="3">
+				<p align="center">
+					3 Buah</p>
+			</td>
+			<td rowspan="3">
+				<ul>
+					<li align="center">
+						15.00 wib</li>
+				</ul>
+			</td>
+			<td rowspan="3">
+				<p align="center">
+					1 Buah</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:91px;">
+				<ul>
+					<li align="center">
+						15.00 wib</li>
+				</ul>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:91px;">
+				<ul>
+					<li align="center">
+						17.00 wib</li>
+				</ul>
+			</td>
+		</tr>
+		<tr>
+			<td rowspan="3">
+				<p>
+					Jumat</p>
+			</td>
+			<td style="width:91px;">
+				<ul>
+					<li align="center">
+						10.00 wib</li>
+				</ul>
+			</td>
+			<td rowspan="3">
+				<p align="center">
+					3 Buah</p>
+			</td>
+			<td rowspan="3">
+				<ul>
+					<li align="center">
+						15.00 wib</li>
+				</ul>
+			</td>
+			<td rowspan="3">
+				<p align="center">
+					1 Buah</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:91px;">
+				<ul>
+					<li align="center">
+						15.00 wib</li>
+				</ul>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:91px;">
+				<ul>
+					<li align="center">
+						17.00 wib</li>
+				</ul>
+			</td>
+		</tr>
+		<tr>
+			<td rowspan="3">
+				<p>
+					Sabtu</p>
+			</td>
+			<td style="width:91px;">
+				<ul>
+					<li align="center">
+						10.00 wib</li>
+				</ul>
+			</td>
+			<td rowspan="3">
+				<p align="center">
+					3 Buah</p>
+			</td>
+			<td rowspan="3">
+				<p align="center">
+					-</p>
+			</td>
+			<td rowspan="3">
+				<p align="center">
+					-</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:91px;">
+				<ul>
+					<li align="center">
+						15.00 wib</li>
+				</ul>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:91px;">
+				<ul>
+					<li align="center">
+						17.00 wib</li>
+				</ul>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<p>
+					Minggu</p>
+			</td>
+			<td style="width:91px;">
+				<p align="center">
+					-</p>
+			</td>
+			<td>
+				<p align="center">
+					-</p>
+			</td>
+			<td>
+				<p align="center">
+					-&nbsp; 15.00 wib</p>
+			</td>
+			<td>
+				<p align="center">
+					1 buah</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<div style="clear:both;">
+	&nbsp;</div>
+<p align="center" style="margin-left:35.45pt;">
+	Keterangan: Jadwal tersebut bisa sewaktu-waktu berubah</p>
+<p style="text-align: justify;">
+	<span style="color:#ff0000;"><strong>TOPOGRAFI</strong></span></p>
+<p style="text-align: justify; margin-left: 40px;">
+	Topografi Pulau Sapudi merupakan dataran rendah, dengan kemiringan kurang dari 30% berarti termasuk kategori daerah landai serta dikelilingi oleh pantai dan batu karang, mempunyai relief yang terdiri dari tanah pesisir dan datar. Tanah pesisir umumnya terdiri dari batu karang dengan lapisan tanah yang sangat tipis, dengan ketinggian 500 meter dari permukaan laut ketebalan rata-rata kurang dari 20 cm serta kondisi tanah datar hampir sama dengan tanah pesisir. Disekitar pulau tersebut terdapat banyak daratan batuan karang yang dapat melindungi dari erosi gelombang laut.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="ksbk">Kependudukan, Sosial Budaya dan Kelembagaan</a></h2>
+<p><div class="readmore"><p style="text-align: justify;">
+	<span style="color:#ff0000;"><strong>KEPENDUDUKAN</strong></span></p>
+<p style="text-align: justify; margin-left: 40px;">
+	Pulau Sapudi berpenduduk sekitar 1500 KK, terbagi dalam dua wilayah kecamatan yaitu Kecamatan Gayam dan Kecamatan Nunggunong. Penduduk Pulau Sapudi merupakan penduduk yang mempunyai mata pencaharian&nbsp; nelayan, bertani, pedagang dan sejumlah sektor lainnya juga banyak yang merantau ke daerah lain seperti Situbondo, Surabaya, Bali dan bahkan Jakarta. Sumber perekonomian masyarakat sangat bergantung pada sumberdaya hasil pertanian tanaman pangan dan dan sumberdaya laut.</p>
+<p style="text-align: justify;">
+	<span style="color:#ff0000;"><strong>KELEMBAGAAN</strong></span></p>
+<p style="text-align: justify; margin-left: 40px;">
+	Masyarakat Pulau Sapudi 100% pemeluk agama Islam dan terdiri dari beberapa etnis. Etnis yang dominan adalah etnis Madura 99%. Kelembagaan pemerintahan di Pulau Sapudi terdiri dari Kepala Desa, Pemuka Masyarakat (Pemuka Agama dan Profesi), Perangkat Desa (Kepala Desa, Sekretaris Desa, Kepala Dusun).</p>
+<p>
+	&nbsp;</p>
+</div></p>
+
+<hr>
+
+<h2><a id="eshp">Ekosistem dan Sumberdaya Hayati</a></h2>
+<p><div class="readmore"><p style="text-align: justify;">
+	<span style="color:#ff0000;">TERUMBU KARANG</span></p>
+<ol>
+	<li style="text-align: justify;" value="1.1">
+		<strong>Terumbu Karang</strong></li>
+</ol>
+<p style="margin-left: 40px; text-align: justify;">
+	Pulau Sapudi memiliki terumbu karang yang cukup baik. Substrat dasar yang didominasi oleh batu dan berpasir menjadikan pulau ini memiliki karakter tersendiri, yakni pulau berbatu. Pengamatan terhadap terumbu karang dilakukan di 3 titik pengamatan yang dilakukan pada kedalaman 7 meter. Lokasi titik pengamatan dan koordinat sebagai berikut :</p>
+<div style="clear: both; text-align: justify; margin-left: 40px;">
+	Pengamatan substrat dasar di Pulau Sapudi dilakukan pada tiga titik pengamatan, yakni bagian utara, barat, dan selatan Pulau Sapudi. Saat pengamatan, kondisi perairan di Pulau Sapudi keruh hingga cukup baik, kondisi arus tenang dan sedikit berarus, suhu perairan normal, visibilitas cukup baik, dan gelombang rendah. Persentase penutupan terumbu karang pada Pulau Sapudi berkisar antara 35,16 &ndash; 64,98% dalam kategori &ldquo;sedang&rdquo; hingga &ldquo;baik&rdquo;. Pada bagian Utara Pulau Sapudi memiliki kondisi persentase penutupan tertinggi, selanjutnya bagian Selatan dan Barat Pulau Sapudi.</div>
+<ol style="list-style-type: lower-alpha; margin-left: 40px;">
+	<li style="text-align: justify;">
+		<strong>Terumbu Karang </strong><strong>Bagian Barat Pulau Sapudi</strong></li>
+</ol>
+<p style="margin-left: 80px; text-align: justify;">
+	Barat Pulau Sapudi memiliki kontur dasar perairan cukup curam dengan kondisi arus yang cukup berarus. Jarak pandang di dalam kolom perairan cukup dekat dengan kekeruhan yang diakibatkan oleh lokasi yang dekat dengan muara sungai. Pengambilan data penutupan substrat dasar di kedalaman 7 m yang merupakan tipe karang tepi (<em>fringing reef</em>). Jarak antara lokasi pengambilan data dengan pantai kurang lebih sekitar 500 m. Substrat dasar didominasi oleh penutupan substrat dasar karang keras hidup (KKH). Terumbu karang ditemukan mulai dari kedalaman 1 m hingga kedalaman 9 m.</p>
+<p style="margin-left: 80px; text-align: justify;">
+	Kondisi penutupan substrat dasar KKH sebesar 35,16% dan termasuk dalam kriteria &ldquo;sedang&rdquo;. Penutupan kategori abiotik dan karang mati terlihat cukup tinggi sebesar 30,18% dan 28,10%. Sedangkan penutupan substrat biotik sebesar 6,44% dan alga sebesar 0,12%. Penutupan substrat terumbu karang didominasi oleh jenis karang biru (<em>Heliopora</em>) yang cukup luas pada lokasi pengamatan. Jenis-jenis karang lain yang ditemukan umumnya berukuran kecil dan berada di antara hamparan karang biru tersebut. Pulau Sapudi merupakan suatu wilayah yang unik dengan penutupan karang biru yang cukup luas.</p>
+<ol style="list-style-type: lower-alpha; margin-left: 40px;">
+	<li style="text-align: justify;" value="2">
+		<strong>Terumbu Karang </strong><strong>Bagian Selatan Pulau Sapudi</strong></li>
+</ol>
+<p style="margin-left: 80px; text-align: justify;">
+	Kondisi perairan pada bagian Selatan Pulau Sapudi cukup berarus karena lokasi pengambilan data dekat dengan selat. Kontur dasar perairan berupa <em>slope</em> dan substrat dasar didominasi oleh karang mati. Pengambilan data penutupan substrat dasar dilakukan di kedalaman 7 m yang merupakan tipe karang tepi (<em>fringing reef</em>). Jarak antara lokasi pengambilan data dengan pantai kurang lebih sekitar 1 km. Berdasarkan hasil pengamatan, lokasi ini diduga rusak akibat adanya pengeboman. Hal ini terlihat dari banyaknya karang mati dan hancur menjadi patahan karang. Terumbu karang ditemukan mulai dari kedalaman 2 m hingga 10 m.</p>
+<p style="margin-left: 80px; text-align: justify;">
+	Kondisi penutupan substrat dasar oleh kategori KKH sebesar 37,40% yang termasuk dalam kriteria &ldquo;sedang&rdquo;. Penutupan kategori abiotik sebesar 16,04% dan biotik sebesar 2,82%, serta penutupan alga sebesar 3,22%. Penutupan oleh karang mati cukup tinggi, yaitu sebesar 40,52%. Penutupan KKH pada daerah ini tidak begitu banyak, tetapi ukuran koloni besar-besar sehingga nilai persentase penutupan pengamatan masih dapat terlihat pada kondisi sedang. Banyak substrat karang mati yang telah ditumbuhi alga dan patahan karang. Kondisi perairan yang cukup keruh dapat menyebabkan kematian sebagian hewan karang oleh invasi alga yang sangat besar. Selain itu, aktivitas penangkapan ikan oleh manusia yang bersifat merusak juga dapat meningkatkan kematian karang.</p>
+<ol style="list-style-type: lower-alpha; margin-left: 40px;">
+	<li style="text-align: justify;" value="3">
+		<strong>Bagian Utara Pulau Sapudi</strong></li>
+</ol>
+<p style="text-align: justify; margin-left: 80px;">
+	Bagian Utara Pulau Sapudi memiliki kontur dasar perairan <em>slope</em> dan arus perairan yang tenang. Pengambilan data substrat dasar dilakukan di kedalaman 7 m dengan tipe karang tepi (<em>fringing reef</em>). Substrat dasar didominasi oleh kategori KKH (Karang Keras Hidup). Jarak antara lokasi pengambilan data dengan pantai kurang lebih sekitar 1 km. Terumbu karang mulai ditemukan pada kedalaman 1 m hingga 8 m. Kondisi penutupan substrat dasar KKH yang tercatat sebesar 64,98% dan termasuk dalam kriteria &ldquo;baik&rdquo;. Penutupan substrat lainnya cukup rendah, penutupan substrat abiotik sebesar 11,36%. Penutupan substrat biotik sebesar 0,42%. Penutupan substrat karang mati sebesar 14,64% dan alga sebesar 8,60%. Penutupan substrat karang sangat tinggi pada lokasi pengamatan ini. Jenis karang biru banyak ditemukan tetapi tidak seperti kondisi penutupan karang biru pada bagian Barat Pulau Sapudi. Jenis-jenis karang lain cukup beragam dan memiliki ukuran koloni yang cukup besar-besar.</p>
+<p style="text-align: justify;">
+	<span style="color:#ff0000;"><strong>MANGROVE</strong></span></p>
+<p style="text-align: justify; margin-left: 40px;">
+	Pulau Sapudi memiliki vegetasi darat dan laut yang melimpah sehingga tampak hijau dan subur. Vegetasi mangrove pun hampir ditemukan di setiap sisi pulau ini. Mangrove merupakan suatu komunitas vegetasi pantai tropis yang didominasi oleh beberapa spesies pohon-pohonan yang khas atau semak yang memiliki kemampuan untuk tumbuh di lingkungan laut (Nybakken 1992 <em>in </em>Talib 2008). Menurut Darsidi (1986) <em>in </em>Talib (2008), mangrove adalah vegetasi hutan yang tumbuh di antara garis pasang-surut tetapi mereka juga terdapat pada pantai karang dan daratan karang mati yang di atasnya ditimbuni selapis pasir (lumpur) atau pada pantai berlumpur.</p>
+<p style="text-align: justify; margin-left: 40px;">
+	Banyak manfaat yang dihadirkan oleh mangrove bagi kehidupan, antara lain sebagai berikut (Afistianto &amp; Adirianto 2006):</p>
+<ul style="margin-left: 40px;">
+	<li style="text-align: justify;">
+		Sebagai tempat berlindung dan mencari makan berbagai jenis hewan;</li>
+	<li style="text-align: justify;">
+		Akar, batang, dan cabang selain dapat dijadikan kayu bakar juga berperan dalam pembentukan daratan;</li>
+	<li style="text-align: justify;">
+		Akar, batang, dan cabang dapat dijadikan kertas, bangku, meja, dan bahan bangunan;</li>
+	<li style="text-align: justify;">
+		Akar juga berfungsi sebagai penyaring limbah dari darat dan penahan gelombang;</li>
+	<li style="text-align: justify;">
+		Sumber mata pencaharian bagi nelayan dan masyarakat sekitar;</li>
+	<li style="text-align: justify;">
+		Sumber makanan bagi beberapa jenis hewan dan juga mengandung unsur hara;</li>
+	<li style="text-align: justify;">
+		Sering digunakan sebagai tambak udang dan kepiting;</li>
+	<li style="text-align: justify;">
+		Tempat wisata alam, pendidikan, dan penelitian ilmiah.</li>
+</ul>
+<p style="text-align: justify; margin-left: 40px;">
+	Terdapat 5 jenis mangrove yang ditemukan di Pulau Sapudi, yaitu <em>Sonneratia alba, Avicennia lanata, Rhizopora mucronata, Rhizopora apiculata, d</em>an <em>Lumnitzera racemosa. Sonneratia alba </em>atau yang biasa disebut pedada, merupakan jenis mangrove yang sangat mudah dikenali dari bentuk buahnya yang seperti bola yang bagian dasarnya terbungkus kelopak bunga dan bunganya yang terlihat indah saat mekar. Bunganya terdiri dari benang sari yang banyak dengan ujung berwarna putih dan pangkalnya berwarna kuning. Benang sari ini sangat mudah rontok. Daunnya berbentuk bulat telur terbalik dengan ujung yang membundar. Bentuk akar dari pedada ini sangat unik menyerupai pensil, sehingga disebut akar pensil. Jenis <em>S. alba a</em>dalah jenis pionir, tidak toleran terhadap air tawar dalam periode yang lama. Tumbuh di tanah yang bercampur lumpur dan pasir, kadang-kadang pada batuan dan karang.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p style="text-align: justify; margin-left: 40px;">
+	Jenis <em>Avicennia lanata </em>berbentuk seperti belukar atau pohon yang tumbuh tegak atau menyebar, dapat mencapai ketinggian hingga 8 m, memiliki akar nafas, dan berbentuk pensil. Bentuk daunnya elips dengan ujung yang membundar hingga agak meruncing. Bunganya bergerombol muncul di ujung tandan dan berbau menyengat. Buah berbentuk seperti hati, ujungnya berparuh pendek dan jelas, berwarna hijau hingga agak kekuningan. Jenis ini tumbuh pada dataran lumpur, tepi sungai, daerah yang kering dan toleran terhadap kadar garam yang tinggi.</p>
+<p style="text-align: justify; margin-left: 40px;">
+	Genus <em>Rhizopora </em>sering disebut sebagai bakau. Ditemukan 2 jenis bakau di Pulau Sapudi, yaitu bakau minyak (<em>Rhizopora apiculata</em>) dan bakau hitam (<em>Rhizopora mucronata</em>). <em>Rhizopora apiculata </em>memiliki perakaran yang khas hingga mencapai ketinggian 5 m dan kadang-kadang memiliki akar udara yang keluar dari cabang. Kulit kayunya berwarna abu-abu tua. Daunnya berbentuk elips menyempit dengan ujung yang meruncing, berwarna hijau tua dengan hijau muda bagian tengah dan kemerahan di bagian bawah. Kepala bunga berwarna kekuningan yang terletak pada ketiak daun. Jenis ini tumbuh pada tanah berlumpur, halus, dalam, dan tergenang pada saat pasang normal. Tidak menyukai substrat yang lebih keras yang bercampur dengan pasir.</p>
+<p style="text-align: justify; margin-left: 40px;">
+	Pohon <em>Rhizopora mucronata</em> dapat mencapai ketinggian 27 m. Batang berwarna gelap hingga hitam dan terdapat celah horizontal. Perakarannya sangat unik karena memiliki akar udara yang tumbuh dari percabangan bagian bawah. Daun <em>R. mucronata </em>berbentuk elips melebar hingga bulat memanjang dengan ujung daun meruncing. Bunganya terletak di ketiak daun. Buah lonjong/panjang hingga berbentuk telur, berukuran 5-7 cm, berwarna hijau kecoklatan. Hipokotil silindris, kasar, dan berbintil. Leher kotiledon kuning ketika matang. Jenis ini tumbuh di areal yang sama dengan <em>R. apiculata </em>tetapi lebih toleran terhadap substrat yang lebih keras dan pasir.&nbsp;</p>
+<p style="text-align: justify; margin-left: 40px;">
+	<em>Lumnitzera racemosa </em>memiliki daun agak tebal berdaging, keras/kaku, dan berumpun pada ujung dahan. Buah berbentuk kembung/elips berwarna hijau kekuningan, berserat, dan padat. <em>Lumnitzera racemosa </em>tumbuh di sepanjang tepi vegetasi mangrove. Menyukai substrat berlumpur padat dan dapat pula dijumpai di sepanjang jalur air yang dipengaruhi oleh air tawar.</p>
+<p style="text-align: justify; margin-left: 40px;">
+	Mangrove yang ditemukan di Pulau Sapudi tidak hanya terdapat di sepanjang pantai, tetapi juga terdapat di sepanjang aliran sungai. Mangrove ini tumbuh dengan alami dan dapat menjadi pelindung di sepanjang pantai dari ancaman abrasi. Mangrove alami ini tumbuh di sisi barat dan utara Pulau Sapudi. Selain mangrove alami, terdapat pula mangrove buatan yang terdapat di bagian selatan.</p>
+<p style="text-align: justify; margin-left: 40px;">
+	Terdapat 3 jenis mangrove yang terletak di sisi Utara Pulau Sapudi, yaitu <em>Rhizopora mucronata</em>, <em>Sonneratia alba</em>, dan <em>Lumnitzera racemosa. </em>Di Barat Pulau Sapudi banyak ditemui mangrove jenis <em>Rhizopora </em>sp. atau yang biasa disebut bakau. Selain bakau, di Barat Pulau Sapudi juga terdapat mangrove jenis <em>Avicennia lanata </em>dan <em>Sonneratia alba </em>atau yang biasa disebut pedada/pidada<em>. </em>Kondisi ekosistem mangrove di sisi timur dan selatan sangat berbeda dengan kondisi mangrove di sisi utara dan barat. Pada sisi timur tidak dijumpai adanya ekosistem mangrove. Sedangkan pada sisi selatan, banyak dijumpai anakan bahkan semaian mangrove. Adapun jenis anakan dan semaian mangrove yang dijumpai adalah jenis <em>Sonneratia </em>sp. dan <em>Rhizopora </em>sp. Berdasarkan informasi yang diperoleh dari penduduk sekitar, jenis <em>Rhizopora </em>sp. ditanam oleh Bapak Hotma dan didukung oleh Badan Permusyawaratan Daerah (BPD) Dusun Nangger, Desa Pancor Timur, Kecamatan Gayam untuk melindungi pantai dari abrasi yang disebabkan oleh gelombang air laut.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p style="text-align: justify; margin-left: 40px;">
+	Kerapatan jenis mangrove kategori pohon yang ada di Pulau Sapudi dapat terlihat pada. Dari gambar tersebut dapat diketahui bahwa jenis <em>Rhizopora mucronata </em>memiliki kerapatan jenis yang tinggi dibanding jenis lainnya, yaitu sebesar 800 ind/ha. Jenis <em>Rhizopora mucronata </em>kategori pohon ini hanya ditemukan di sisi Barat Pulau Sapudi. Kerapatan jenis paling rendah dimiliki oleh jenis <em>Avicennia lanata</em>, yaitu 400 ind/ha. Jenis <em>Sonneratia alba </em>memiliki kerapatan yang hampir sama di sisi utara dan barat. Kerapatan <em>Sonneratia alba </em>di sisi utara sebesar 500 ind/ha, sedangkan di sisi barat sebesar 550 ind/ha. Kerapatan mangrove di sisi barat lebih banyak dan lebih rapat jika dibandingkan dengan sisi Utara Pulau Sapudi.</p>
+<p style="text-align: justify;">
+	<br />
+	<span style="color:#ff0000;"><strong>LAMUN</strong></span></p>
+<p style="text-align: justify; margin-left: 40px;">
+	Pulau Sapudi memiliki rataan terumbu yang luas, sehingga keberadaan ekosistem padang lamunnya relatif jauh dari daerah pantai. Padang lamun terhampar di daerah tepi perairan laut dangkal dan di daerah pasang surut yang memiliki kadar garam tinggi (Setyawan <em>et al</em>. 2009). Lamun merupakan satu-satunya tumbuhan berbunga (<em>Angiospermae</em>) yang memiliki rhizoma, daun, dan akar sejati yang hidup terendam di dalam laut (Bengen 2000). Meskipun penampakannya menyerupai rumput di daratan, namun tumbuhan ini bukanlah rumput laut. Di Indonesia, lamun juga dikenal dengan sebutan &ldquo;samu-samu&rdquo;. Hampir semua tipe substrat dapat ditumbuhi lamun, mulai dari substrat berlumpur sampai berbatu. Namun padang lamun yang luas lebih sering ditemukan di substrat lumpur-berpasir yang tebal, yaitu antara hutan rawa mangrove dan terumbu karang (Bengen 2000).</p>
+<p style="text-align: justify; margin-left: 40px;">
+	Kekayaan jenis lamun di Pulau Sapudi tergolong cukup baik. Terdapat 6 jenis lamun dapat dijumpai di Pulau Sapudi ini, yaitu <em>Thalassia hemprichii, Halophila ovalis, Enhallus acroides, Cymodocea rotundata, Halodule pinifolia, </em>dan <em>Syringodium isoetifolium. </em>Meskipun karakter masing-masing substrat hampir sama, keberadaan zonasi lamun yang terbentuk agak berbeda pada setiap sisi pulau.</p>
+<p style="text-align: justify; margin-left: 40px;">
+	<em>Thalassia hemprichii </em>memiliki daun yang bercabang dua (<em>distichous</em>), rimpangnya berbuku-buku, ujung daun membukit dan kasar. Jenis ini adalah lamun yang paling banyak dijumpai, biasa tumbuh dengan jenis lain dan dapat tumbuh hingga kedalaman 25 m, sering dijumpai pada substrat berpasir. Lamun jenis ini di Filipina dimanfaatkan sebagai sayuran pelengkap salad. Sementara itu, masyarakat lokal pesisir Indonesia pada umumnya memanfaatkan lamun sebagai bahan anyaman topi, keranjang, tas, dan kerajinan lainnya. Skala industri di Indonesia juga memanfaatkan lamun sebagai bahan baku kertas dengan kualitas yang sangat baik.</p>
+<p style="text-align: justify; margin-left: 40px;">
+	<em>Halophila ovalis </em>merupakan jenis lamun yang memiliki bentuk daun oval dengan tulang daun yang agak rapat. Ukuran daunnya yang sangat kecil membuat persen penutupan lamun jenis ini rendah karena umumnya jenis ini tidak mudah ditemukan. Selain rentang distribusinya yang terbatas di zona intertidal, biasanya jenis dari marga <em>Halophila </em>juga tertutup oleh sedimen sehingga sulit teramati (Estradivari <em>et al</em>. 2009).</p>
+<p style="text-align: justify; margin-left: 40px;">
+	<em>Syringodium isoetifolium </em>memiliki bentuk daun yang berbeda dengan jenis lamun lainnya. Daunnya yang kecil dan berbentuk silindris dengan ujung meruncing nampak seperti lidi dengan penyebarannya yang agak terbatas karena bentuk daunnya kurang dapat beradaptasi terhadap kekeringan (Azkab 2006).</p>
+<p style="text-align: justify; margin-left: 40px;">
+	<em>Enhalus acoroides </em>memiliki daun-daun yang panjang dan kaku seperti kulit atau berbentuk seperti ikat pinggang yang kasar, sehingga dapat menutupi dasar perairan. Lamun jenis <em>Enhalus acoroides </em>merupakan jenis yang dapat membentuk jenis tunggal, mendominasi komunitas padang lamun, dapat tumbuh pada substrat berlumpur, dan perairan keruh (Bengen 2000). Menurut Azkab (2008), jenis <em>Enhalus </em>tumbuh terbatas pada daerah litoral dan surut terendah karena penyerbukannya tergantung pada arus.</p>
+<p style="text-align: justify; margin-left: 40px;">
+	<em>Cymodocea rotundata </em>memiliki daun yang memanjang dengan ujung daun halus licin (tidak bergerigi) dan di bagian tengahnya berlekuk (<em>emarginate</em>). Jenis ini banyak terdapat di daerah intertidal di dekat hutan mangrove.</p>
+<p style="text-align: justify; margin-left: 40px;">
+	<em>Halodule pinifolia </em>memiliki tulang daun tidak lebih dari 3 dengan ujung daun yang membulat dan seperti gergaji. Umumnya jenis ini ditemui pada substrat berlumpur, dan dapat menjadi jenis yang dominan di intertidal, serta mampu tumbuh sampai kedalaman 25 m.</p>
+<p style="text-align: justify; margin-left: 40px;">
+	Kerapatan jenis mangrove kategori anakan yang ada di sisi selatan Pulau Sapudi yang paling besar jumlahnya adalah jenis <em>Sonneratia alba </em>dengan kerapatan mencapai 400 ind/ha. Sedangkan kerapatan jenis <em>Rhizopora mucronata </em>mencapai 300 ind/ha. Sisi selatan Pulau Sapudi lebih banyak dan didominasi oleh mangrove kategori anakan. Anakan mangrove ini apabila terjaga kelestariannya maka akan menjadi pohon mangrove yang fungsinya akan sangat berguna bagi lingkungan pesisir.</p>
+<p style="text-align: justify; margin-left: 40px;">
+	Setiap jenis mangrove yang terdapat di Pulau Sapudi memiliki peranan dan pengaruh masing-masing dalam ekosistemnya yang dianalisis menggunakan rumusan Indeks Nilai Penting (INP). Semakin besar INP yang dimiliki, maka peranan mangrove tersebut dalam ekosistem juga semakin besar. Variasi INP yang diperoleh menandakan peranan/pengaruh yang berbeda-beda pada setiap jenis yang dijumpai baik di sisi utara maupun barat Pulau Sapudi. Berdasarkan pengamatan, pohon mangrove di sisi Utara Pulau Sapudi hanya terdapat satu jenis mangrove, yaitu <em>Sonneratia alba, </em>sedangkan di sisi barat terdapat 3 jenis mangrove, yaitu <em>Rhizopora mucronata, Avicennia lanata, </em>dan <em>Sonneratia alba. </em>INP mangrove tertinggi di Pulau Sapudi terdapat di sisi utara dimana hanya terdapat satu jenis mangrove <em>Sonneratia alba </em>dengan INP sebesar 300. INP pohon mangrove terendah terdapat di sisi Barat Pulau Sapudi yang dimiliki oleh mangrove jenis <em>Avicennia lanata </em>sebesar 84,10. Sisi Barat Pulau Sapudi, INP mangrove tertinggi dimiliki oleh mangrove jenis <em>Rhizopora mucronata. </em>Hal ini berarti jenis <em>Rhizopora mucronata </em>memiliki peranan yang besar dibanding jenis <em>Avicennia lanata </em>dan <em>Sonneratia alba </em>dalam ekosistem mangrove di sisi Barat Pulau Sapudi.</p>
+<p style="text-align: justify; margin-left: 40px;">
+	Berbeda dengan sisi Utara dan Barat Pulau Sapudi, di sisi Selatan Pulau Sapudi hanya terdapat mangrove kategori anakan. Terdapat 2 jenis anakan mangrove di sisi selatan ini, yaitu <em>Rhizopora mucronata </em>dan <em>Sonneratia alba. </em>Jenis <em>Sonneratia alba </em>memiliki INP yang tinggi jika dibandingkan dengan <em>Rhizopora mucronata, </em>yaitu sebesar 155. Sedangkan INP jenis <em>Rhizopora mucronata </em>sebesar 145.</p>
+<p style="text-align: justify; margin-left: 40px;">
+	&nbsp;</p>
+</div></p>
+
+<hr>
+
+<h2><a id="snh">Sumberdaya Non Hayati</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<h2><a id="aps">Aktivitas Pengelolaan Sumberdaya</a></h2>
+<p><div class="readmore"><p style="text-align: justify;">
+	Sumberdaya kelautan yang berpotensi untuk dikembangkan di Pulau Sapudi meliputi perikanan tangkap, budidaya laut dan transportasi laut.</p>
+<ol style="list-style-type:lower-alpha;">
+	<li style="text-align: justify;">
+		<p>
+			<strong>Perikanan Tangkap</strong></p>
+	</li>
+</ol>
+<p style="margin-left: 40px; text-align: justify;">
+	Sektor yang paling memungkinkan untuk dikembangkan sebagai prime sector adalah sector perikanan tangkap. Pemusatan sector prikanan dengan tingkat kompetisi yang tinggi terdapat di Desa Nonggunong dan Pancor. Hal ini menunjukkan du dua desa tersebut, tersedia tenaga kerja yang kompetitif di kedua desa tersebut banyak disebabkan oleh lingkungan yang dikelilingi lautan.</p>
+<p style="margin-left: 40px; text-align: justify;">
+	Berdasarkan data dari DKP Kabupaten Sumenep, ikan kakap merupakan ikan karang dengan jumlah produksi atau hasil ikan karang hanya didapat dari hasil penangkapan.</p>
+<ol style="list-style-type:lower-alpha;">
+	<li style="text-align: justify;" value="2">
+		<p>
+			<strong>Budidaya Laut</strong></p>
+	</li>
+</ol>
+<p style="margin-left: 40px; text-align: justify;">
+	Melihat dari kondisi lingkungan dan indikasi dari hasil tangkapan ikan karang yang cukup besar, perairan Pulau Sapudi mempunyai prospek untuk dikembangkan budidaya ikan karang. Beberapa hal yang dapat mendukung upaya pengembangan budidaya ikan karang di perairan Sapudi antara lain:</p>
+<ul style="margin-left: 40px;">
+	<li style="text-align: justify;">
+		Mempunyai potensi wilayah yang cocok untuk usaha budidaya ikan karang</li>
+	<li style="text-align: justify;">
+		Tingkat curah hujan rendah (100 cm) curah hujan tertinggi pada 2 bulan pertahun</li>
+	<li style="text-align: justify;">
+		Berada di antara pulau-pulau yang tidak terjadi erosi dan mempunyai kualitas air yang stabil.</li>
+</ul>
+<ol style="list-style-type:lower-alpha;">
+	<li style="text-align: justify;" value="3">
+		<p>
+			<strong>Transportasi Laut</strong></p>
+	</li>
+</ol>
+<p style="margin-left: 40px; text-align: justify;">
+	Pemusatan sektor transportasi yang memiliki nilai kompetisi tinggi terdapat d Desa Rosong dan Pancor Hal ini menunjukkan bahwasannya pada kedua desa memiliki potensi berupa tenaga kerja yang kompetitif di sector transportasi. Khususnya desa Pancor sebagai pintu masuk dan keluar Pulau Sapudi serta persinggahan kapal dari pulau lain menuju daerah luar Madura transportasi laut sangat mendominasi. Kondisi ini mengindikasikan pulau Sapudi memiliki <em>locational rent</em> yang tinggi sebagai pelabuhan antar pulau.</p>
+<p style="margin-left: 40px; text-align: justify;">
+	Lancarnya transportasi akan memperlancar arus perdagangan antar pulau sehingga akan menambah kemampuan pulau Sapudi mencapai skala ekonomi yang lebih baik.</p>
+<ol style="list-style-type:lower-alpha;">
+	<li style="text-align: justify;" value="4">
+		<p>
+			<strong>Sektor Pariwisata Bahari</strong></p>
+	</li>
+</ol>
+<p style="margin-left: 40px; text-align: justify;">
+	Pulau Sapudi memiliki potensi yang dapat dikembangkan sebagai wisata bahari. Lokasi yang dapat dikembangkan sebagai wisata bahari tersebut terdapat di pulau Bulu Manok (luas 0,747 Km&sup2;). Pulau Bulu Manok termasuk dalam administrasi Desa Sonok, Kecamatan Nonggunong memiliki keindahan alam berupa pasir putih dan keindahan terumbu karang. Selama ini pemanfaatan pulau Bulu Manok belum dilakukan dikarenakan budaya lokal yang cenderung menolak pengembangan dengan alasan dapat merusak moral masyarakat setempat.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="ling">Lingkungan</a></h2>
+<p><div class="readmore"><p style="text-align: justify;">
+	<span style="color:#ff0000;"><strong>KONDISI PERAIRAN</strong></span></p>
+<p style="text-align: justify; margin-left: 40px;">
+	Pulau Sapudi adalah sebuah pulau di antara gugusan pulau-pulau di sebelah timur <a href="http://id.wikipedia.org/wiki/Pulau_Madura" title="Pulau Madura">Pulau Madura</a>. Secara administratif, pulau ini termasuk wilayah <a href="http://id.wikipedia.org/wiki/Kabupaten_Sumenep" title="Kabupaten Sumenep">Kabupaten Sumenep</a>, <a href="http://id.wikipedia.org/wiki/Jawa_Timur" title="Jawa Timur">Jawa Timur</a>. Di antara gugusan pulau-pulau di sebelah timur Pulau Madura, Sapudi merupakan pulau terluas kedua dan pulau dengan penduduk terbanyak. Pulau ini terbagi atas dua kecamatan yaitu Kecamatan Nonggunong dan Gayam. Pengamatan kualitas air dilakukan di Pulau Sapudi, Kab. Sumenep, Jawa Timur. Secara umum kualitas perairan Pulau Sapudi dalam kondisi <strong>baik</strong> berdasar pada baku mutu KepMen-LH 51 Tahun 2004 untuk Biota Laut. Hanya terdapat satu paramater yang melebihi baku mutu, yaitu nitrat. Perbedaan antara konsentrasi nitrat yang terukur dengan baku mutu sangat kecil.</p>
+<p style="margin-left: 40px; text-align: center;">
+	Hasil analisis kualitas air di Pulau Sapudi</p>
+<table align="center" border="1" cellpadding="0" cellspacing="0">
+	<tbody>
+		<tr>
+			<td nowrap="nowrap" style="height:5px;">
+				<p style="text-align: justify;">
+					<strong>No.</strong></p>
+			</td>
+			<td nowrap="nowrap" style="width:116px;height:5px;">
+				<p style="text-align: justify;">
+					<strong>Parameter</strong></p>
+			</td>
+			<td nowrap="nowrap" style="height:5px;">
+				<p style="text-align: justify;">
+					<strong>Satuan</strong></p>
+			</td>
+			<td colspan="3" nowrap="nowrap" style="height:5px;">
+				<p style="text-align: justify;">
+					<strong>Nilai &plusmn; std.eror</strong></p>
+			</td>
+			<td nowrap="nowrap" style="height:5px;">
+				<p style="text-align: justify;">
+					<strong>BM*</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="height:20px;">
+				<p style="text-align: justify;">
+					1</p>
+			</td>
+			<td nowrap="nowrap" style="width:116px;height:20px;">
+				<p style="text-align: justify;">
+					Suhu</p>
+			</td>
+			<td nowrap="nowrap" style="height:20px;">
+				<p style="text-align: justify;">
+					&nbsp;mg/L</p>
+			</td>
+			<td nowrap="nowrap" style="height:20px;">
+				<p style="text-align: justify;">
+					30,8</p>
+			</td>
+			<td nowrap="nowrap" style="height:20px;">
+				<p style="text-align: justify;">
+					&plusmn;</p>
+			</td>
+			<td nowrap="nowrap" style="height:20px;">
+				<p style="text-align: justify;">
+					0,115</p>
+			</td>
+			<td nowrap="nowrap" style="height:20px;">
+				<p style="text-align: justify;">
+					Alami</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="height:20px;">
+				<p style="text-align: justify;">
+					2</p>
+			</td>
+			<td nowrap="nowrap" style="width:116px;height:20px;">
+				<p style="text-align: justify;">
+					DO</p>
+			</td>
+			<td nowrap="nowrap" style="height:20px;">
+				<p style="text-align: justify;">
+					&nbsp;mg/L</p>
+			</td>
+			<td nowrap="nowrap" style="height:20px;">
+				<p style="text-align: justify;">
+					6,3</p>
+			</td>
+			<td nowrap="nowrap" style="height:20px;">
+				<p style="text-align: justify;">
+					&plusmn;</p>
+			</td>
+			<td nowrap="nowrap" style="height:20px;">
+				<p style="text-align: justify;">
+					0,128</p>
+			</td>
+			<td nowrap="nowrap" style="height:20px;">
+				<p style="text-align: justify;">
+					&gt; 5</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="height:20px;">
+				<p style="text-align: justify;">
+					3</p>
+			</td>
+			<td nowrap="nowrap" style="width:116px;height:20px;">
+				<p style="text-align: justify;">
+					pH</p>
+			</td>
+			<td nowrap="nowrap" style="height:20px;">
+				<p style="text-align: justify;">
+					&nbsp;mg/L</p>
+			</td>
+			<td nowrap="nowrap" style="height:20px;">
+				<p style="text-align: justify;">
+					8,84</p>
+			</td>
+			<td nowrap="nowrap" style="height:20px;">
+				<p style="text-align: justify;">
+					&plusmn;</p>
+			</td>
+			<td nowrap="nowrap" style="height:20px;">
+				<p style="text-align: justify;">
+					0,009</p>
+			</td>
+			<td nowrap="nowrap" style="height:20px;">
+				<p style="text-align: justify;">
+					7-8,5</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="height:20px;">
+				<p style="text-align: justify;">
+					4</p>
+			</td>
+			<td nowrap="nowrap" style="width:116px;height:20px;">
+				<p style="text-align: justify;">
+					Salinitas</p>
+			</td>
+			<td nowrap="nowrap" style="height:20px;">
+				<p style="text-align: justify;">
+					&nbsp;mg/L</p>
+			</td>
+			<td nowrap="nowrap" style="height:20px;">
+				<p style="text-align: justify;">
+					32</p>
+			</td>
+			<td nowrap="nowrap" style="height:20px;">
+				<p style="text-align: justify;">
+					&plusmn;</p>
+			</td>
+			<td nowrap="nowrap" style="height:20px;">
+				<p style="text-align: justify;">
+					0,516</p>
+			</td>
+			<td nowrap="nowrap" style="height:20px;">
+				<p style="text-align: justify;">
+					Alami</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="height:22px;">
+				<p style="text-align: justify;">
+					5</p>
+			</td>
+			<td nowrap="nowrap" style="width:116px;height:22px;">
+				<p style="text-align: justify;">
+					Ammonia (NH<sub>3</sub>-N)</p>
+			</td>
+			<td nowrap="nowrap" style="height:22px;">
+				<p style="text-align: justify;">
+					&nbsp;mg/L</p>
+			</td>
+			<td nowrap="nowrap" style="height:22px;">
+				<p style="text-align: justify;">
+					0,145</p>
+			</td>
+			<td nowrap="nowrap" style="height:22px;">
+				<p style="text-align: justify;">
+					&plusmn;</p>
+			</td>
+			<td nowrap="nowrap" style="height:22px;">
+				<p style="text-align: justify;">
+					0,035</p>
+			</td>
+			<td nowrap="nowrap" style="height:22px;">
+				<p style="text-align: justify;">
+					0,3</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="height:22px;">
+				<p style="text-align: justify;">
+					6</p>
+			</td>
+			<td nowrap="nowrap" style="width:116px;height:22px;">
+				<p style="text-align: justify;">
+					Nitrat (NO<sub>3</sub>-N)</p>
+			</td>
+			<td nowrap="nowrap" style="height:22px;">
+				<p style="text-align: justify;">
+					&nbsp;mg/L</p>
+			</td>
+			<td nowrap="nowrap" style="height:22px;">
+				<p style="text-align: justify;">
+					0,020</p>
+			</td>
+			<td nowrap="nowrap" style="height:22px;">
+				<p style="text-align: justify;">
+					&plusmn;</p>
+			</td>
+			<td nowrap="nowrap" style="height:22px;">
+				<p style="text-align: justify;">
+					0,007</p>
+			</td>
+			<td nowrap="nowrap" style="height:22px;">
+				<p style="text-align: justify;">
+					0,008</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="height:22px;">
+				<p style="text-align: justify;">
+					7</p>
+			</td>
+			<td nowrap="nowrap" style="width:116px;height:22px;">
+				<p style="text-align: justify;">
+					Fosfat (PO<sub>4</sub>-P)</p>
+			</td>
+			<td nowrap="nowrap" style="height:22px;">
+				<p style="text-align: justify;">
+					&nbsp;mg/L</p>
+			</td>
+			<td nowrap="nowrap" style="height:22px;">
+				<p style="text-align: justify;">
+					0,014</p>
+			</td>
+			<td nowrap="nowrap" style="height:22px;">
+				<p style="text-align: justify;">
+					&plusmn;</p>
+			</td>
+			<td nowrap="nowrap" style="height:22px;">
+				<p style="text-align: justify;">
+					0,009</p>
+			</td>
+			<td nowrap="nowrap" style="height:22px;">
+				<p style="text-align: justify;">
+					0,015</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="height:22px;">
+				<p style="text-align: justify;">
+					8</p>
+			</td>
+			<td nowrap="nowrap" style="width:116px;height:22px;">
+				<p style="text-align: justify;">
+					Silikat (SiO<sub>2</sub>)</p>
+			</td>
+			<td nowrap="nowrap" style="height:22px;">
+				<p style="text-align: justify;">
+					&nbsp;mg/L</p>
+			</td>
+			<td nowrap="nowrap" style="height:22px;">
+				<p style="text-align: justify;">
+					0,044</p>
+			</td>
+			<td nowrap="nowrap" style="height:22px;">
+				<p style="text-align: justify;">
+					&plusmn;</p>
+			</td>
+			<td nowrap="nowrap" style="height:22px;">
+				<p style="text-align: justify;">
+					0,002</p>
+			</td>
+			<td nowrap="nowrap" style="height:22px;">
+				<p style="text-align: justify;">
+					-</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="height:20px;">
+				<p style="text-align: justify;">
+					*)</p>
+			</td>
+			<td colspan="6" nowrap="nowrap" style="width:382px;height:20px;">
+				<p style="text-align: justify;">
+					: Baku Mutu Berdasarkan Kepmen-LH 51 Tahun 2004 (Untuk Biota Laut )</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<div style="clear: both; text-align: justify;">
+	&nbsp;</div>
+<p style="text-align: justify; margin-left: 40px;">
+	Pulau Sapudi merupakan pulau yang terkenal menjadi asal muasal kegiatan Karapan Sapi Madura. Setiap tahunnya Pulau Sapudi ramai dikunjungi wisatawan yang akan menyaksikan Karapan Sapi. Selain menikmati kegiatan tersebut, keindahan perairan Pulau Sapudi juga menjadi daya tarik pengunjung. Pengunjung dapat menikmati pemandangan bawah laut yang indah karena Pulau Sapudi memiliki gugusan terumbu karang yang baik. Kondisi ini didukung oleh kualitas perairan yang baik. Hal ini ditunjukkan dari hasil pengamatan kualitas air. Suhu perairan Pulau Sapudi berkisar antara 30,4-31,1 &deg;C dan masih memenuhi baku mutu kualitas air bagi kehidupan biota laut. Suhu merupakan faktor penting di perairan karena perubahan suhu dapat berpengaruh terhadap proses fisika, kimia, dan biologi badan air. Organisme akuatik memiliki kisaran suhu tertentu yang mendukung pertumbuhannya Peningkatan suhu air laut beberapa derajat dilaporkan dapat menyebabkan pemutihan karang karena keluarnya alga simbion zooxanthellae dari jaringan karang (Nybakken 2000). Hal ini menyebabkan pemantauan terhadap suhu perairan harus dilakukan secara rutin.</p>
+<p style="margin-left: 40px; text-align: justify;">
+	Begitupula dengan kandungan DO (oksigen terlarut) yang memenuhi baku mutu kualitas perairan, yaitu 5,8-6,7 mg/L. Organisme akuatik menggunakan oksigen untuk respirasi. Kadar oksigen yang kurang dari 2 mg/L dapat mengakibatkan kematian ikan (UNESCO/WHO/UNEP 1992 <em>in</em> Effendi 2003). Nilai pH di Pulau Sapudi dikategorikan basa (lebih dari 7), yaitu sekitar 8,84. Nilai ini menunjukkan kondisi alamiah perairan laut dan umum terjadi di pulau-pulau kecil yang kaya akan karang. Sedimen karbonat yang terdiri dari patahan karang, cangkang moluska, serta rangka biota mati turut berperan dalam menciptakan kondisi basa di perairan yang terkait dengan kesetimbangan alkalinitas. Selain itu, pada siang hari fitoplankton aktif melakukan fotosintesis yang membutuhkan karbondioksida (CO<sub>2</sub>). Tingginya pemanfaatan CO<sub>2</sub> di perairan menyebabkan terjadinya peningkatan nilai pH. Salinitas yang terukur di Pulau Sapudi berkisar antara 30-33 &permil;. Nilai ini sesuai bagi perairan laut yang umumnya memiliki kisaran salinitas 30-40 &permil; dan masih berada pada kisaran toleransi hidup fitoplankton sebagai organisme produsen di laut, yaitu 11&ndash;40 &permil;.</p>
+<p style="text-align: justify; margin-left: 40px;">
+	Pemantauan kualitas air juga dilakukan terhadap parameter nutrien. Berdasarkan hasil analisis, kadar amonia, fosfat, dan silika di Pulau Sapudi masih memenuhi baku mutu kualitas air laut. Hal ini mengindikasikan perairan Pulau Sapudi dalam kondisi baik dan sedikit mendapat tekanan antropogenik. Hanya kadar nitrat yang sedikit melebihi baku mutu, yaitu 0,020 mg/L (BM=0,008 mg/L). Kadar nitrat yang lebih dari 0,2 mg/L dapat mengakibatkan terjadinya eutrofikasi perairan dan menstimulasi pertumbuhan alga dan tumbuhan air secara pesat. Kehadiran alga dan tumbuhan air dalam jumlah banyak dapat menghambat pertumbuhan karang. Keberadaan alga pengganggu dalam jumlah berlebihan dapat menghambat pertumbuhan karang karena alga menutupi permukaan tubuh karang (Haris 2001). Pertumbuhan alga yang pesat berpotensi pula dapat menghambat proses rekruitmen karang karena larva planula membutuhkan substrat yang bersih dari kotoran, termasuk alga. Namun hal ini dapat diatasi di ekosistem terumbu yang sehat melalui peran organisme herbivor yang hidup berasosiasi dengan karang. Organisme herbivor akan memakan alga dan tumbuhan air lainnya yang tumbuh di terumbu.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="sp">Sarana dan Prasarana</a></h2>
+<p><div class="readmore"><ol style="list-style-type:lower-alpha;">
+	<li style="text-align: justify;">
+		<p>
+			Sarana Kesehatan</p>
+	</li>
+</ol>
+<p style="text-align: justify; margin-left: 40px;">
+	Peningkatan kualitas hidup penduduk merupakan salah satu aspek yang penting dalam upaya peningkatan kesejahteraan masyarakat. Peningkatan kualitas masyarakat secara fisik dapat dilihat dari derajat kesehatan masyarakat secara keseluruhan. Berdasarkan data yang diperoleh dari Puskesmas, untuk Pulau Sapudi meliputi Puskesmas, Puskesmas Pembantu dan Rumah Bidan. Sedangkan tenaga paramedis yang ada meliputi dokter, perawat dan bidan.</p>
+<p style="text-align: justify;">
+	&nbsp;</p>
+<p style="text-align: center;">
+	Data sarana ibadah P. Sapudi</p>
+<table align="center" border="1" cellpadding="0" cellspacing="0">
+	<tbody>
+		<tr>
+			<td>
+				<p style="text-align: justify;">
+					No</p>
+			</td>
+			<td>
+				<p style="text-align: center;">
+					Jenis Sarana Kesehatan</p>
+			</td>
+			<td>
+				<p style="text-align: justify;">
+					Jumlah</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<p style="text-align: justify;">
+					1.</p>
+			</td>
+			<td>
+				<p style="text-align: justify;">
+					Puskesmas</p>
+			</td>
+			<td>
+				<p style="text-align: justify;">
+					2</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<p style="text-align: justify;">
+					2.</p>
+			</td>
+			<td>
+				<p style="text-align: justify;">
+					Puskesmas Pembantu</p>
+			</td>
+			<td>
+				<p style="text-align: justify;">
+					2</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<p style="text-align: justify;">
+					3.</p>
+			</td>
+			<td>
+				<p style="text-align: justify;">
+					Polindes</p>
+			</td>
+			<td>
+				<p style="text-align: justify;">
+					8</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<div style="clear: both; text-align: justify;">
+	&nbsp;</div>
+<ol style="list-style-type:lower-alpha;">
+	<li style="text-align: justify;" value="2">
+		<p>
+			<strong>Sarana ibadah</strong></p>
+	</li>
+</ol>
+<p style="text-align: justify; margin-left: 40px;">
+	Penduduk Pulau Sapudi merupakan pemeluk agama Islam (100%). Sehingga sarana ibadah yang tersedia merupakan sarana ibadah agama Islam yang meliputi 107 Masjid dan 147 Musholla.</p>
+<ol style="list-style-type:lower-alpha;">
+	<li style="text-align: justify;" value="3">
+		<p>
+			<strong>Sarana air bersih dan sanitasi</strong></p>
+	</li>
+	<li style="text-align: justify;" value="4">
+		<p>
+			<strong>Sarana transportasi</strong></p>
+	</li>
+</ol>
+<p style="text-align: justify; margin-left: 40px;">
+	Di Pulau Sapudi pelabuhan maupun angkutan laut berupa perahu motor maupun tidak bermotor yang ada masih belum memadai untuk kegiatan perekonomian wilayah. Fasilitas jalan maupun sarana angkutan yang ada berperan dalam upaya peningkatan kegiatan ekonomi.</p>
+<ol style="list-style-type:lower-alpha;">
+	<li style="text-align: justify;" value="5">
+		<p>
+			<strong>Sarana pemerintahan</strong></p>
+	</li>
+</ol>
+<p style="text-align: justify;">
+	&nbsp;</p>
+<ol style="list-style-type:lower-alpha;">
+	<li style="text-align: justify;" value="6">
+		<p>
+			<strong>Sarana pendidikan</strong></p>
+	</li>
+</ol>
+<p style="text-align: justify; margin-left: 40px;">
+	Terdiri atas Sekolah Taman Kanak-Kanak (TK), Sekolah Dasar Negeri (SDN) dan Madrasah Ibtidaiyah (MI), Sekolah Menengah Pertama (SMP) dan Madrasah Tsanawiyah (MTs) serta Sekolah Menengah Umum Negeri (SMUN)</p>
+<table align="center" border="1" cellpadding="0" cellspacing="0">
+	<tbody>
+		<tr>
+			<td rowspan="2">
+				<p style="text-align: justify;">
+					No</p>
+			</td>
+			<td colspan="5">
+				<p style="text-align: justify;">
+					Jenjang Pendidikan</p>
+			</td>
+			<td rowspan="2">
+				<p style="text-align: justify;">
+					Jumlah</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<p style="text-align: justify;">
+					SD</p>
+			</td>
+			<td>
+				<p style="text-align: justify;">
+					MI</p>
+			</td>
+			<td>
+				<p style="text-align: justify;">
+					SMP</p>
+			</td>
+			<td>
+				<p style="text-align: justify;">
+					MTs</p>
+			</td>
+			<td>
+				<p style="text-align: justify;">
+					SMU</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<p style="text-align: justify;">
+					1.</p>
+			</td>
+			<td>
+				<p style="text-align: justify;">
+					54</p>
+			</td>
+			<td>
+				<p style="text-align: justify;">
+					47</p>
+			</td>
+			<td>
+				<p style="text-align: justify;">
+					3</p>
+			</td>
+			<td>
+				<p style="text-align: justify;">
+					3</p>
+			</td>
+			<td>
+				<p style="text-align: justify;">
+					1</p>
+			</td>
+			<td>
+				<p style="text-align: justify;">
+					108</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<div style="clear: both; text-align: justify;">
+	&nbsp;</div>
+<ol style="list-style-type:lower-alpha;">
+	<li style="text-align: justify;" value="7">
+		<p>
+			<strong>Sarana penerangan</strong></p>
+	</li>
+</ol>
+<p style="text-align: justify; margin-left: 40px;">
+	Di Pulau Sapudi, listrik hanya hidup 12 jam saja, yaitu mulai jam 17.00 sampai 05.00 WIB. Tapi untuk perkantoran seperti bank, kantor pos, puskesmas, memiliki mesin diesel sendiri untuk digunakan ketika pagi sampai sore hari. Walaupun hanya 12 jam, masyarakat Sapudi tetap senang, karena masih bisa merasakan terangnya rumah mereka ketika malam hari. Baru-baru ini ada kabar tentang rencana untuk menjadikan listrik Pulau Sapudi menjadi 24 jam, syaratnya adalah seluruh pelanggan PLN harus mau mengganti Kwh meternya menjadi KWh meter prabayar. Hal itu didasari alasan agar tidak ada tunggakan rekening listrik.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="pi">Peluang Investasi</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<h2><a id="pap">Potensi dan Arahan Pengembangan</a></h2>
+<p><div class="readmore"><p style="margin-left:14.2pt;">
+	<strong>Perikanan Tangkap</strong><br />
+	Sektor yang paling memungkinkan untuk dikembangkan sebagai <em>prime sector</em> adalah sektor perikanan tangkap. Pemusatan sektor perikanan dengan tingkat kompetisi yang tinggi terdapat di Desa Nonggunong dan Pancor. Hal ini menunjukkan a desa tersebut, tersedia tenaga kerja yang kompetitif di kedua desa tersebut banyak disebabkan oleh lingkungan yang dikelilingi lautan.<br />
+	Berdasarkan data dari DKP Kabupaten Sumenep, ikan kakap merupakan ikan karang dengan jumlah produksi atau hasil ikan karang hanya didapat dari hasil penangkapan.<br />
+	&nbsp;</p>
+<p style="margin-left:14.2pt;">
+	<strong>Budidaya Laut</strong><br />
+	Melihat dari kondisi lingkungan dan indikasi dari hasil tangkapan ikan karang yang cukup besar, perairan Pulau Sapudi mempunyai prospek untuk dikembangkan budidaya ikan karang. Beberapa hal yang dapat mendukung upaya pengembangan budidaya ikan karang di perairan Sapudi antara lain: mempunyai potensi wilayah yang cocok untuk usaha budidaya ikan karang, tingkat curah hujan rendah (100 cm) curah hujan tertinggi pada 2 bulan pertahun, berada di antara pulau-pulau yang tidak terjadi erosi dan mempunyai kualitas air yang stabil.<strong>|</strong><br />
+	&nbsp;</p>
+<p style="margin-left:14.2pt;">
+	<strong>Transportasi Laut</strong><br />
+	Pemusatan sektor transportasi yang memiliki nilai kompetisi tinggi terdapat d Desa Rosong dan Pancor Hal ini menunjukkan bahwasannya pada kedua desa memiliki potensi berupa tenaga kerja yang kompetitif di sector transportasi. Khususnya desa Pancor sebagai pintu masuk dan keluar Pulau Sapudi serta persinggahan kapal dari pulau lain menuju daerah luar Madura transportasi laut sangat mendominasi. Kondisi ini mengindikasikan pulau Sapudi memiliki <em>locational rent</em> yang tinggi sebagai pelabuhan antar pulau.<br />
+	Lancarnya transportasi akan memperlancar arus perdagangan antar pulau sehingga akan menambah kemampuan pulau Sapudi mencapai skala ekonomi yang lebih baik.<br />
+	&nbsp;</p>
+<p style="margin-left:14.2pt;">
+	<strong>Sektor Pariwisata Bahari</strong><br />
+	Pulau Sapudi memiliki potensi yang dapat dikembangkan sebagai wisata bahari. Lokasi yang dapat dikembangkan sebagai wisata bahari tersebut terdapat di pulau Bulu Manok (luas 0,747 Km&sup2;). Pulau Bulu Manok termasuk dalam administrasi Desa Sonok, Kecamatan Nonggunong memiliki keindahan alam berupa pasir putih dan keindahan terumbu karang. Selama ini pemanfaatan pulau Bulu Manok belum dilakukan dikarenakan budaya lokal yang cenderung menolak pengembangan dengan alasan dapat merusak moral masyarakat setempat.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="kp">Kendala Pengembangan</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<h2><a id="rf">Referensi</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<br />
+	<i> 
+		<p style="font-size:12px;">
+			Karena keterbatasan SDM dalam penginputan dan pengolahan data, kami mohon maaf atas ketidak lengkapan beberapa data pulau yang kami tampilkan, harap dimaklumi.
+			Berikan keritik dan saran pada kolom komentar agar kita dapat bersama menyajikan sebuah data yang cukup sempurna untuk halayak ramai yang berguna
+			demi kesejahterahan, kelestarian dan keindahan pulau-pulau kecil yang dimiliki Indonesia.<br />
+			*Jika sekiranya anda memiliki data yang cukup banyak, silakan mengirimkan file melalui email kami di <b><a>identifikasippk@gmail.com</a></b>
+			
+		</p>
+	</i>
+<br />
+
+<div id="fb_comn" class="fb-comments" data-href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_info/4736" data-width="800" data-numposts="5" data-colorscheme="light"></div>
+
+
+</div>
+</div>
+</div>
+<div id="wrapper">
+
+<div class="footer"><p>
+<!--<marquee onmouseover="this.stop()" onmouseout="this.start()" scrollamount="5" direction="right" width="798" height="14"  behavior="scroll">-->
+<a href="http://www.ppk-kp3k.kkp.go.id/" target="_blank">Direktorat Pendayagunaan Pulau-Pulau Kecil &nbsp; | &nbsp;</a>
+<a href="http://www.kp3k.kkp.go.id/" target="_blank">Ditjen Kelautan, Pesisir dan Pulau-Pulau Kecil &nbsp; | &nbsp;</a>
+<a href="http://www.kkp.go.id/" target="_blank">Kementerian Kelautan dan Perikanan</a>
+<!--</marquee>--> <br />
+Jl. Medan Merdeka Timur No. 16 Gedung Mina Bahari 3 Lantai 10, Jakarta, Indonesia <br />
+Email : identifikasippk@gmail.com <br />
+Telp &amp; Fax: (021) 3522058 <br />
+&copy; Copyright Direktorat Pendayagunaan Pulau-Pulau Kecil 2012&nbsp; <br /></p>
+</div>
+</div>
+</body>
+</html>

@@ -1,0 +1,574 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Pulau Bukulimau</title>
+
+<meta charset="utf-8"/>
+
+<meta property="fb:app_id" content="559408774147878" />
+
+
+<meta property="og:title" content="Pulau Bukulimau" />
+<meta property="og:url" content="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_info/2257" />
+
+
+    <script type="text/javascript" src="http://ajax.microsoft.com/ajax/jquery/jquery-1.4.4.min.js">
+    </script>
+    
+    <script type="text/javascript" src="http://plugins.learningjquery.com/expander/jquery.expander.js">
+    </script>
+    
+    <script type="text/javascript">
+        $(function () {
+            $('div.readmore').expander({
+                slicePoint:200,
+                expandText: '(Baca selengkapnya)',
+                userCollapseText: '(Sembunyikan selengkapnya)'
+            });
+        });
+    </script>
+        
+	<script src="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/galleria/galleria-1.2.8.min.js"></script>
+
+        <SCRIPT TYPE="text/javascript">
+            <!--
+            //Disable right click script
+            //visit http://www.rainbow.arch.scriptmania.com/scripts/
+            var message="Sorry, right-click has been disabled";
+            ///////////////////////////////////
+            function clickIE() {if (document.all) {(message);return false;}}
+            function clickNS(e) {if
+            (document.layers||(document.getElementById&&!document.all)) {
+            if (e.which==2||e.which==3) {(message);return false;}}}
+            if (document.layers)
+            {document.captureEvents(Event.MOUSEDOWN);document.onmousedown=clickNS;}
+            else{document.onmouseup=clickNS;document.oncontextmenu=clickIE;}
+            document.oncontextmenu=new Function("return false")
+            // -->
+            </SCRIPT>
+            
+            <SCRIPT TYPE="text/javascript">
+            <!--
+            //Disable select-text script (IE4+, NS6+)
+            //visit http://www.rainbow.arch.scriptmania.com/scripts/
+            ///////////////////////////////////
+            function disableselect(e){
+            return false
+            }
+            function reEnable(){
+            return true
+            }
+            //if IE4+
+            document.onselectstart=new Function ("return false")
+            //if NS6
+            if (window.sidebar){
+            document.onmousedown=disableselect
+            document.onclick=reEnable
+            }
+            // -->
+            </SCRIPT>  
+              
+<link rel="stylesheet" type="text/css" href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/css/main.css" media="screen"/>
+<style type='text/css'>
+#info_wrap{
+	width:820px;
+	margin:0 auto;
+	text-shadow:0px 1px 1px #09F;
+}
+table{
+	color:#000000;
+}
+h1{
+	color:#000000;
+}
+.tengahin{
+	width: 105px;
+	height: 30px;
+	margin: 0 auto auto auto;
+}
+#box_view{
+	background-image:-webkit-gradient(linear, 0 0%, 0 100%, from(#FFFFFF), to(#E0F0F5));
+	background:#FFF;
+	color:#F60;
+	border: 1px solid #fff;
+	border-radius: 4px 4px 4px 4px;
+	box-shadow: 0 8px 6px -6px black;
+	position:fixed;
+	right:0;
+	top:150px;;
+	width:80px;
+	z-index:10;
+	padding-left:12px;
+	font-size:10px;
+	}
+#box_view li{
+	color:#F60;
+	margin-left:-30px;
+	}
+	#wrapper a b {
+	color: #FFF;
+	font-size:14px;
+}
+.batas{
+	float:left;
+	border-right-style:inset;
+	border-right-width:thin;
+	}
+.text_h_wrap{
+	
+	padding-left:450px;
+	padding-top:39px;
+	text-shadow:0px 1px 1px #09F;
+	}
+#wrapper .footer p{
+	font-size:12px;
+	color: #FFF;
+	text-align:center;
+	text-shadow:0px 1px 1px #09F;
+}
+td,th {
+	font-size: 12px;
+}
+
+marquee a{
+	color:#FFF
+	}
+#wrapper .footer a{
+	color: #FFFFFF;
+}
+</style>
+            
+<script>
+function goBack()
+  {
+  window.history.back()
+  }
+</script>
+<script type="text/javascript">
+function Popup( url, height, width )
+{
+    var windowProperties = "toolbar = 0, scrollbars = 1, location = 0, statusbar = 0, menubar = 0, resizable = 1, width = " + width + ", height = " + height + ", left = 50, top = 50";
+ 
+    return window.open( url, "", windowProperties );
+}
+</script>
+
+
+
+</head>
+<body oncontextmenu='return false;' onkeydown='return false;' onmousedown='return false;'>
+
+<a id="top_view"></a>
+<div id="wrapper">
+<div class="header_wrap">
+<div class="text_h_wrap">
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/home_page'><b>&nbsp;Home&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/menu_info/1'><b>&nbsp;About Us&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_data'><b>&nbsp;Direktori Pulau&nbsp;&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/program_ip'><b>&nbsp;IKU&nbsp;</b></a>
+</div>
+<div class="batas">
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/data_ppkt'><b>&nbsp;PPKT&nbsp;</b></a>
+</div>
+<!--<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/maintenance'><b>&nbsp;Login&nbsp;</b></a>-->
+<a href='http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/dir_log_cont'><b>&nbsp;Login&nbsp;</b></a>
+
+</div>
+</div>
+</div>
+
+<div id="fb-root"></div>
+<script>
+  window.fbAsyncInit = function() {
+    // init the FB JS SDK
+    FB.init({
+      appId      : '559408774147878',                        // App ID from the app dashboard
+      status     : true,                                 // Check Facebook Login status
+      xfbml      : true                                  // Look for social plugins on the page
+    });
+
+    // Additional initialization code such as adding Event Listeners goes here
+  };
+
+  // Load the SDK asynchronously
+  (function(){
+     // If we've already installed the SDK, we're done
+     if (document.getElementById('facebook-jssdk')) {return;}
+
+     // Get the first script element, which we'll use to find the parent node
+     var firstScriptElement = document.getElementsByTagName('script')[0];
+
+     // Create a new script element and set its id
+     var facebookJS = document.createElement('script'); 
+     facebookJS.id = 'facebook-jssdk';
+
+     // Set the new script's source to the source of the Facebook JS SDK
+     facebookJS.src = '//connect.facebook.net/en_US/all.js';
+
+     // Insert the Facebook JS SDK into the DOM
+     firstScriptElement.parentNode.insertBefore(facebookJS, firstScriptElement);
+   }());
+</script>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=559408774147878";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="box_view">
+    <a href="#top_view">MENU</a>
+    <h3><p>Lihat Informasi:</p></h3>
+    <ul>
+	<a href="#sf"><li>Slide Foto</li></a>
+    <a href="#gu"><li>Gambaran Umum</li></a>
+    <a href="#ksbk"><li>Kependudukan, Sosial Budaya dan Kelembagaan</li></a>
+    <a href="#eshp"><li>Ekosistem dan Sumberdaya Hayati</li></a>
+    <a href="#snh"><li>Sumberdaya Non Hayati</li></a>
+    <a href="#aps"><li>Aktivitas Pengelolaan Sumberdaya</li></a>
+    <a href="#ling"><li>Lingkungan</li></a>
+    <a href="#sp"><li>Sarana dan Prasarana</li></a>
+    <a href="#pi"><li>Peluang Investasi</li></a>
+    <a href="#pap"><li>Potensi Arahan Pengembangan</li></a>
+    <a href="#kp"><li>Kendala Pengembangan</li></a>
+	<a href="#rf"><li>Referensi</li></a>
+    </ul>
+    <a href="#fb_comn">KOMENTAR</a>
+</div>
+
+<br>
+			<a id="sf"></a></h2>
+			<div id="galleria">
+            <!--<div class='tengahin'><input type="button" value="Kembali Ke List" onclick="goBack()"></div>-->
+                            </div>
+            
+            <script>
+            Galleria.loadTheme('http://www.ppk-kp3k.kkp.go.id/direktori-pulau/galleria/themes/classic/galleria.classic.min.js');
+            Galleria.run('#galleria');
+            </script>
+</div>
+
+<div id="text_warp">
+
+
+<p><h1>Bukulimau</h1></p>
+<table>
+<tr>
+	<td>Nama Lain</td> <td>:</td> <td></td>
+</tr>
+<tr>
+	<td>Propinsi</td> <td>:</td> <td>KEPULAUAN BANGKA BELITUNG</td>
+</tr>
+<tr>
+	<td>Kabupaten</td> <td>:</td> <td>KABUPATEN BELITUNG TIMUR</td>
+</tr>
+<tr>
+	<td>Kecamatan</td> <td>:</td> <td></td>
+</tr>
+<tr>
+	<td>Koordinat</td> <td>:</td> <td><a href="http://www.ppk-kp3k.kkp.go.id/giskkp/index.html?extent="target="_blank">2° 48' 43.000</a></td>
+</tr>
+</table>
+<hr>
+
+<h2><a id="gu">Gambaran Umum</a></h2>
+<p><div class="readmore"><h1 style="text-align: justify;">
+	Kondisi Umum Lokasi</h1>
+<p style="text-align: justify;">
+	Pulau Buku Limau merupakan salah satu gugusan pulau di Desa Buku Limau, Kecamatan Manggar, Kabupaten Belitung Timur, dimana pusat pemerintahan Desa Buku Limau berada di pulau ini. Pulau Buku Limau terletak pada titik koordinat 2<sup>o</sup>48&rsquo;43&rdquo; Lintang Selatan dan 108<sup>o</sup>24&rsquo;11&rdquo; Bujur Timur dengan luas 87,75 Ha. Jarak yang ditempuh dari kantor Kecamatan Manggar ke Pulau Buku Limau sejauh 12 km dengan waktu tempuh sekitar 40 menit hingga 1 jam (menggunakan transportasi air).</p>
+<p style="text-align: justify;">
+	Adapun batas wilayah Pulau Buku Limau sebagai berikut :</p>
+<ul>
+	<li style="text-align: justify;">
+		Sebalah Utara&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :&nbsp;&nbsp;&nbsp; Pulau Karangsiadung</li>
+	<li style="text-align: justify;">
+		Sebelah Selatan&nbsp;&nbsp; :&nbsp;&nbsp;&nbsp; Pulau Penanas</li>
+	<li style="text-align: justify;">
+		Sebelah Timur&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :&nbsp;&nbsp;&nbsp; Selat Karimata</li>
+	<li style="text-align: justify;">
+		Sebelah Barat&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :&nbsp;&nbsp;&nbsp; Pulau Belitung</li>
+</ul>
+<h1 style="text-align: justify;">
+	Keadaan Fisik Pulau</h1>
+<p style="text-align: justify;">
+	<strong>a. Bathimetri</strong></p>
+<p style="text-align: justify;">
+	Pulau Buku Limau terletak di perairan Kabupaten Belitung Timur yang merupakan paparan Sahul (Jawa, Sumatera, dan Kalimantan). Perairan di pulau ini termasuk perairan dangkal, yaitu memiliki kedalaman berkisar antara 0 - 15 meter. Keadaan pantai di Pulau Buku Limau yaitu landai berlumpur dengan dasar perairan berpasir, berlumpur, dan berbatu karang.</p>
+<p style="text-align: justify;">
+	<strong>b. Topografi</strong></p>
+<p style="text-align: justify;">
+	Pulau Buku Limau berada pada ketinggian 0 - 20 meter dpl, dengan tingkat kemiringan lahan antara 0<sup>o</sup> - 10<sup>o</sup>. Dilihat dari keadaan tersebut, Pulau Buku Limau ini tergolong dataran rendah. Terlihat di <strong>Gambar 4.3</strong>. pulau ini tidak memiliki bukit dan cenderung landai</p>
+<h1 style="text-align: justify;">
+	Oseanografi</h1>
+<p style="text-align: justify;">
+	Kondisi Oseanografi di Pulau Buku Limau dipengaruhi oleh iklim makro dari Laut Natuna dan Laut Jawa. Kecepatan arus permukaan di perairan pulau ini berkisar 1 hingga 10 m/det dengan arah arus berasal dari arah Timur Laut menuju ke arah Barat Daya. Jenis pasang surut di perairan Pulau Buku Limau adalah tipe campuran cenderung diurnal, yaitu pasang air tertinggi dan terendah terjadi hanya satu kali dalam 24 jam, dimana rata-rata pasang terendah sebesar 43 cm dan tertinggi sebesar 295 m. Sedangkan tinggi gelombang di perairan Pulau Buku Limau rata-rata berkisar antara 0,04 - 0,79 meter.</p>
+<h1 style="text-align: justify;">
+	Klimatologi</h1>
+<p style="text-align: justify;">
+	Pulau Buku Limau memiliki iklim tropis dan basah dengan curah hujan rata-rata 19,5 mm sampai dengan 347,1 mm per bulannya. Suhu udara rata-rata berkisar antara 25,8<sup>o</sup>C - 27,3<sup>o</sup>C dengan kelembaban udara berkisar antara 80% - 91%, serta memiliki tekanan udara berkisar antara 1.008,8 - 1011,0 mb.</p>
+<p style="text-align: justify;">
+	Secara umum, berdasarkan data iklim untuk wilayah Kabupaten Belitung Timur yang diperoleh dari Stasiun Meteorologi Buluh tumbang, Tanjung pandan periode 2001-2010, diperoleh data curah hujan bulanan rata-rata untuk periode 10 tahun sebesar &plusmn;256,68 mm/bulan atau 3.080,23 mm/tahun, hari hujan rata-rata 18,67 hari dalam sebulan atau 224 hari dalam setahun, suhu udara rata-rata 26,&ordm;C dan kelembaban udara 87,38%. Curah hujan bulanan tertinggi terjadi pada Bulan Desember dengan rata-rata 417,27 mm dan jumlah hari hujan terbanyak juga terjadi pada Bulan Desember sebanyak 28 hari. Dilihat dari distribusi hari hujan dan intensitas curah hujannya dapat disimpulkan bahwa musim hujan (basah) terjadi antara bulan Oktober sampai dengan Bulan Juni.</p>
+<p style="text-align: justify;">
+	Menurut sistem klasifikasi iklim oleh Schmidt dan Ferguson (1952) mengenai perbandingan bulan basah dan bulan kering, maka tipe iklim Kabupaten Belitung Timur termasuk daerah dengan iklim tipe B.</p>
+<p style="text-align: justify;">
+	Kelembaban udara relative (<em>relative humidity</em>, RH) merupakan tingkat kandungan air dalam udara bebas, terutama berkaitan dengan curah hujan dan kecepatan angin serta lamanya penyinaran matahari. Dari <strong>Tabel 4.2</strong>. dapat dilihat bahwa kelembaban udara relative di Kabupaten Belitung Timur tergolong tinggi dan polanya hampir merata sepanjang tahun. Kelembaban relatif rata-rata bulanan sebesar 87,38%, tertinggi bulanan sebesar 91,0% pada Bulan Desember, sedangkan terendah yaitu 81,5% yang terjadi pada Bulan Agustus.</p>
+<p style="text-align: justify;">
+	Lama penyinaran matahari terkait erat dengan suhu udara dan suhu tanah. Umumnya peningkatan jumlah dan persentase lama penyinaran juga akan berpengaruh pada tingkat pemuaian udara. Lama penyinaran matahari rata-rata bulanan pada <strong>Tabel 4.2.</strong> menunjukkan sebesar 53,64 %, penyinaran matahari tertinggi 83,73% terjadi pada Bulan Agustus dan terendah 29,68% pada Bulan Desember.</p>
+<p style="text-align: justify;">
+	Kecepatan dan arah angin sangat erat kaitannya dengan kondisi lingkungan, terutama pada persebaran asap yang keluar dari cerobong. Berdasarkan data sebagaimana yang disajikan pada <strong>Tabel 4.2</strong>, kecepatan angin bulanan pada wilayah studi rata-rata adalah 6,97 m/detik dengan kecepatan maksimum 9,5 m/detik dan minimum 5,5 m/detik. Arah angin terbanyak adalah Timur yang terjadi selama 4 bulan dari Bulan April sampai Bulan Mei, Bulan Agustus dan Bulan Oktober, arah Utara yang terjadi selama 3 bulan yaitu pada Bulan Januari, Febuari dan Desember, dan arah Barat terjadi pada Bulan Maret, dan arah Tenggara terjadi selama 2 bulan yaitu terjadi pada Bulan Juli dan Bulan September.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="ksbk">Kependudukan, Sosial Budaya dan Kelembagaan</a></h2>
+<p><div class="readmore"><h1 style="text-align: justify;">
+	Kependudukan, Sosial Budaya, Ekonomi, dan Kelembagaan</h1>
+<p style="text-align: justify;">
+	Jumlah penduduk di Desa Buku Limau sebanyak 1.014 jiwa yang terdiri dari 515 jiwa laki-laki dan 499 jiwa perempuan, dengan jumlah KK sebanyak &nbsp;&nbsp;&nbsp;297 KK. Mayoritas mata pencaharian penduduk dalam nelayan dengan jumlah &nbsp;&nbsp;95 % dan 5% sisanya sebagai Pegawai Honorer/PNS.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="eshp">Ekosistem dan Sumberdaya Hayati</a></h2>
+<p><div class="readmore"><h1 style="text-align: justify;">
+	Ekosistem dan Sumberdaya Hayati Pesisir</h1>
+<p style="text-align: justify;">
+	Batasan pulau kecil yang baku baru ditetapkan dalam Undang-undang No. 27 tahun 2007 tentang Pengelolaan Wilayah Pesisir dan Pulau-pulau Kecil. Batasan pulau kecil adalah pulau dengan luas lebih kecil atau sama dengan 2.000 km<sup>2</sup> beserta kesatuan ekosistemnya. Implikasi dari penentuan batasan pulau kecil ini bagi pengelolaan pulau-pulau secara berkelanjutan adalah dibatasinya peruntukan lahan dan perairan pulau-pulau kecil pada beberapa kegiatan pemanfaatan saja. Pemanfaatan pulau-pulau kecil Indonesia diprioritaskan untuk tujuan konservasi, pendidikan dan pelatihan, penelitian dan pengembangan, budidaya laut, pariwisata, usaha perikanan dan kelautan serta industri perikanan secara lestari, pertanian organik, dan/atau peternakan. Berdasarkan kriteria ini maka Pulau Buku Limau merupakan pulau kecil.</p>
+<p style="text-align: justify;">
+	Pulau Buku Limau memiliki luas sekitar 50 ha, di pulau ini terdapat sungai kecil atau parit yang dapat dialiri air ketika ada hujan dan akan kering jika tidak ada hujan. Hewan yang hidup di pulau&nbsp; ini diantaranya&nbsp; burung&nbsp; laut, camar, tikus, tupai, rawa putih dan kelelawar serta berbagai macam ular termasuk ular laut yang banyak dijumpai di kawasan mangrove serta dapat bermigrasi di antara pulau-pulau kecil di sekitar Desa Buku Limau. Pada pagi dan sore hari berbagai jenis burung laut yang bermain di sekitar pulau ini menjadi pemandangan yang sangat unik seperti burung camar hitam (<em>Sterocarius sp.</em>), burung camar putih (<em>Sterocarius sp.</em>), dan burung bebek laut. Sumberdaya perairan yang terdapat di Pulau Buku Limau yaitu terumbu karang, mangrove, algae, lamun dan pantai berpasir.</p>
+<p style="text-align: justify;">
+	Di pulau ini banyak terdapat jenis-jenis kayu yang potensial seperti kayu kruing (<em>Dipterocarpus</em> sp), resak (<em>Vatica</em> spp) yang dapat dimanfaatkan sebagai bahan untuk pembuatan perahu, serta pohon perdu dan semak lainnya. Pulau ini memiliki panorama alam yang mempesona dengan hamparan&nbsp; pasir putih yang di bagian timur serta memiliki terumbu karang tepi yang sangat luas di seluruh bagian pulau.</p>
+<p style="text-align: justify;">
+	<strong>Terumbu Karang</strong></p>
+<p style="text-align: justify;">
+	Kondisi sebaran terumbu karang terlihat merata di semua bagian perairan Pulau Buku Limau. Sebaran tersebut terlihat berdasarkan interpretasi citra QuickBird dan survey lapangan pada bulan Oktober 2013. Keberadaan tutupan karang pada Stasiun I) di daerah <em>reef flat</em> menunjukkan di bagian Selatan pulau pada&nbsp; kedalaman 3 - 5 m dengan prosentase dominan berupa penutupan pasir (S) sebesar 27,42%,&nbsp; karang Millepora (CME) sebesar 6,28%, karang Folise (CF) sebesar 40,68%, karang Submassive (CS) sebesar 4,42%, karang Acropora Encrusting (ACE) sebesar 2,2%, karang Acropora Tubulate (ACT) sebesar 3,58%, karang Acropora Branching (ACB) sebesar 8,18%, dan selebihnya di bawah 2%.</p>
+<p style="text-align: justify;">
+	Keberadaan tutupan karang pada Stasiun II&nbsp; di daerah <em>slope </em>menunjukkan di bagian Utara pulau pada kedalaman 10 m dengan prosentase dominan berupa penutupan rubble (R) sebesar 9,84%, pasir (S) sebesar 44,64%, serta substrat lainnya (OT) berupa (<em>Ascidians, Giant Clams, Gorgonians, Anemones,</em> dll) sebesar 2,6%, karang Millepora (CME) sebesar 5,58%, karang Folise (CF) sebesar 13,7%, karang Massive (CM) sebesar 5,58%, karang Acropora Encrusting (ACE) sebesar 9,66%, dan selebihnya di bawah 2%.</p>
+<p style="text-align: justify;">
+	Tutupan karang pada Stasiun III di daerah <em>reef flat</em> menunjukkan di bagian Timur pulau pada kedalaman 3 - 5 m dengan prosentase dominan berupa penutupan karang <em>Mushroom</em> (CMR) sebesar 3,56%, karang Folise (CF) sebesar 29,32%, karang <em>Acropora Digitate</em> (ACD) sebesar 5,56%, karang <em>Acropora Branching</em> (ACB) sebesar 49,42%, karang mati atau <em>Death Coral</em> (DC) sebesar 11,48%, dan selebihnya di bawah 2%.</p>
+<p style="text-align: justify;">
+	Keberadaan tutupan karang pada Stasiun IV ) di daerah <em>slope </em>menunjukkan di bagian Barat pulau pada&nbsp; kedalaman 12 m dengan prosentase dominan berupa penutupan rubble (R) sebesar 6,1%, substrat lainnya (OT) berupa (Ascidians, Giant Clams, Gorgonians, Anemones, dll) sebesar 2,4%, karang Mushroom (CMR) sebesar 4,7%, karang Folise (CF) sebesar 15,9%, karang Encrusting (CE) sebesar 3,3%, karang Massive (CM) sebesar 5,2%, karang Acropora Encrusting (ACE) sebesar 9,8%, karang Acropora Branching (ACB) sebesar 13,2%, karang mati plus algae atau Death Coral with Algae (DCA) sebesar 12,4%, karang mati atau Death Coral (DC) sebesar 22,2%, dan selebihnya di bawah 2%.</p>
+<p style="text-align: justify;">
+	Informasi profil Pulau Buku Limau terbagi menjadi dua zona. Zona 1 merupakan zona dengan kedalaman 3 - 5 m berupa <em>reef flat</em> yang didominasi oleh tutupan karang berupa Coral Millepora (CME), Coral Folise (CF), Acropora Branching (ACB), Acropora Digitate (ACD), dan Death Coral (DC) dengan kisaran prosentase sebesar 5 - 50%. Zona 2 merupakan zona dengan kedalaman 10 - 12 m berupa <em>slope </em>yang didominasi oleh Coral Millepora (CME), Coral Folise (CF), Coral Massive (CM), Acropora Encrusting (ACE), Acropora Branching (ACB), Death Coral with Algae (DCA), dan Death Coral (DC) dengan kisaran prosentase sebesar 5 - 25%.</p>
+<p style="text-align: justify;">
+	Secara keseluruhan, keberadaan tutupan karang untuk semua stasiun (I - IV) menunjukkan prosentase seperti pada&nbsp; yaitu penutupan Non-Acropora sebesar 37%, Acropora sebesar 26%, Abiotik sebesar 23%, karang mati atau <em>Death Coral</em> (DC) sebesar 9%, karang mati plus <em>algae</em> atau <em>Death Coral</em> with <em>Algae</em> (DCA) sebesar 3%, serta substrat lainnya (OT) berupa (<em>Ascidians, Giant Clams, Gorgonians, Anemones,</em> dan lain-lain) sebesar 2%, dan selebihnya di bawah 1%.</p>
+<p style="text-align: justify;">
+	<strong>Padang Lamun</strong></p>
+<p style="text-align: justify;">
+	Berdasarkan survey lapangan pada bulan Oktober 2013 ditemukan 2 jenis lamun di Pulau Buku Limau yaitu <em>Cymodocea rotundata </em>dan<em> Thallasia hemprichi</em>. Survey dilakukan pada lokasi bagian barat dan timur dari Pulau Buku Limau pada kedalaman 2 - 4 m. Sedangkan berdasarkan interpretasi citra Quick Bird bulan Oktober 2013, keberadaan tutupan lamun dapat teridentifikasi pada perairan pulau Buku Limau bagian Utara, Timur sampai ke Selatan.</p>
+<p style="text-align: justify;">
+	Kepadatan relatif jenis lamun (RDi) menunjukkan besarnya prosentase tegakan lamun dalam suatu lokasi / sampel terhadap jumlah tegakan jenis lainnya. Berdasarkan analisis menunjukkan bahwa kepadatan relatif jenis lamun paling tinggi ditemukan untuk jenis <em>Cymodocea rotundata </em>pada Stasiun II dan paling rendah untuk jenis <em>Thallasia hemprichi</em>, sedangkan untuk Stasiun I adalah sama yaitu kepadatan relatif jenis lamun paling tinggi ditemukan untuk jenis <em>Cymodocea rotundata </em>dan paling rendah untuk jenis<em> Thallasia hemprichi</em>.</p>
+<p style="text-align: justify;">
+	Frekuensi relatif jenis lamun (RFi) menunjukkan prosentase kemunculan lamun dalam suatu lokasi / sampel terhadap kemunculan jenis lainnya. Selanjutnya, berdasarkan analisis menunjukkan bahwa frekuensi relatif jenis lamun adalah sama kemunculannya untuk jenis <em>Cymodocea rotundata </em>dan jenis <em>Thallasia hemprichi.</em></p>
+<p style="text-align: justify;">
+	Penutupan relatif jenis lamun (RCi) menunjukkan prosentase penutupan kanopi lamun dalam suatu lokasi / sampel terhadap penutupan kanopi jenis lainnya. Berdasarkan analisis menunjukan bahwa penutupan relatif jenis lamun paling tinggi ditemukan untuk jenis <em>Cymodocea rotundata </em>pada Stasiun II dan paling rendah untuk jenis <em>Thallasia hemprichi</em>, sedangkan untuk Stasiun I adalah sama yaitu penutupan relatif jenis lamun paling tinggi ditemukan untuk jenis <em>Cymodocea rotundata </em>dan paling rendah untuk jenis<em> Thallasia hemprichi</em>.</p>
+<p style="text-align: justify;">
+	Hasil penelitian (LIPI 2007), lamun di perairan Belitung Timur menunjukkan bahwa jumlah jenis lamun di perairan ini sangat sedikit jika dibandingkan dengan perairan Indonesia lainnya. Jumlah seluruh jenis lamun di Indonesia ada 13 jenis, sedangkan yang ditemukan&nbsp; di perairan Belitung Timur hanya 4 (empat) jenis, yaitu <em>Enhalus acoroides, Cymodocea rotundata, Thallasia hemprichi, dan Halophila minor. </em>Kelimpahan jenis lamun di perairan Belitung Timur diduga sangat erat hubungannya dengan susunan kandungan substratnya. Pada umumnya lamun tumbuh di perairan pantai dan rataan terumbu yang dapat terbuka ketika surut terendah. Tempat tumbuhnya adalah substrat pasir halus, campuran pasir halus dan pasir kasar, pasir berlumpur, pasir dengan kerikil puing karang mati dan pada &ldquo;kobakan-kobakan&rdquo; pasir di antara bongkahan-bongkahan batu karang mati serta pada pasir atau kerikil karang mati di antara karang hidup (<em>Acropora </em>dan<em> Pocillopora)</em>. Selain faktor substrat, pola arus diduga dapat pula menjadi penyebab rendahnya sebaran lamun. Pola sebaran lamun dan hubungannya dengan pola arus di perairan Laut Cina Selatan, termasuk perairan Belitung Timur, yang hanya mempunyai jumlah jenis lamun yang sangat rendah apabila dibandingkan perairan sekitarnya.</p>
+<p style="text-align: justify;">
+	Di sekitar ekosistem lamun biasanya terdapat hewan herbivora seperti ikan beronang, penyu hijau (<em>Chelonia mydas</em>), dan penyu sisik (<em>Eretmochelys imbricata</em>). Saat survey lapangan ditemui jenis penyu di bagian Selatan Pulau Buku Limau, serta ditemui lumba-lumba yang sedang bermigrasi antara Pulau Buku Limau dan daratan Manggar. Selanjutnya, berdasarkan beberapa informasi masyarakat sering dijumpai ikan duyung (dugong) di wilayah ini. Selain lamun, jenis produsen lainnya yang juga cukup berperan dan mempunyai produtivitas tinggi adalah makroalga. Jenis makroalga yang terdapat di wilayah perairan ini antara lain ; <em>Caulerpa taxipola</em>, <em>Sargasum </em>spp, <em>Padina gymnospora</em>, <em>Caulerpa </em>spp (Anggur Laut), dan <em>Subergogia mollis</em>.</p>
+<p style="text-align: justify;">
+	<strong>Mangrove</strong></p>
+<p style="text-align: justify;">
+	Ekosistem mangrove memberikan fungsi dan keuntungan yang besar baik untuk mendukung sumberdaya perikanan laut sebagai daerah asuhan (<em>nursery ground</em>), sebagai pelindung pantai, dan juga memberi sumber pasokan bahan bangunan masyarakat setempat. Saat survey lapangan, pengamatan mangrove di Pulau Buku Limau dilakukan dengan cara visual tanpa melakukan pengukuran lapangan karena kondisi pemukiman penduduk yang lebih banyak dari vegetasi mangrovenya. Jenis <em>Rhizopora sp </em>dari tingkatan anakan dan semai banyak ditemukan di pinggir pantai, dengan tegakan berkisar 5-10 per meter persegi.&nbsp; Tingkatan pohon ini tidak dihitung lebih detail karena jumlah tegakan pohon yang relatif sedikit dan menyebar.</p>
+<p style="text-align: justify;">
+	Pada ekosistem mangrove dan terumbu karang biasanya terdapat biota yang berasosiasi biasanya memiliki hubungan simbiosis mutualisme atau komensalisme. Jenis biota tersebut, seperti moluska&nbsp; ekonomis penting yang&nbsp; masih banyak ditemukan di Pulau Buku Limau diantaranya <em>Trochus niloticus</em>, <em>Turbo</em> sp., <em>Haliotis</em> sp., <em>Pteria penguin</em>, dan kadang-kadang dijumpai <em>Pinctada margaritifera </em>(<em>Abalone</em>) / kerang mutiara. Jenis moluska ini dapat dimanfaatkan cangkangnya yaitu untuk perhiasan. Jenis moluska yang dapat dimanfaatkan dagingnya adalah <em>Anadara</em> spp., <em>Hyppopus hyppopus</em>, <em>Tridacna squamosa</em> (Kimah). Selain itu, juga ditemukan jenis-jenis yang mempunyai bentuk dan warna cangkang yang indah, seperti <em>Triton</em>, <em>Cypraea</em>, dan <em>Conus</em>.</p>
+<p style="text-align: justify;">
+	<strong>Vegetasi Pantai</strong></p>
+<p style="text-align: justify;">
+	Vegetasi pantai non mangrove umumnya banyak ditemukan pada daerah pantai dengan substrat yang didominasi oleh pasir. Kelompok tumbuhan ini dicirikan oleh adanya zonasi bentuk pertumbuhan secara horizontal dari daerah intertidal ke arah darat yang terdiri dari tumbuhan menjalar, semak, perdu dan pohon. Semakin ke darat, keragaman jenis pohon biasanya akan semakin besar. Vegetasi pantai hasil budidaya yaitu merupakan vegetasi pantai yang hidup karena dibudidayakan (ditanam) oleh manusia. Berbagai jenis vegetasi pantai non mangrove yang ada di pesisir Pulau Buku Limau terdiri dari Kelapa (<em>Cocos nucifera),</em> sukun, pisang, dan pepaya merupakan vegetasi pantai hasil budidaya yang paling banyak ditanam masyarakat pesisir Pulau Buku Limau. Sebaran kebun kelapa terdapat seluruh bagian pulau yaitu di pantai bagian Utara, Barat, dan Selatan ke Timur. Selain kelapa, tanaman lainnya adalah sayuran dan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; umbi-umbian yang ditanam di sisi Selatan, Barat dan Timur dekat dengan pemukiman.</p>
+<p style="text-align: justify;">
+	Vegetasi pantai alami yaitu merupakan vegetasi pantai yang hidup akibat tumbuh secara alami (tanpa campur tangan manusia). Berbagai jenis vegetasi pantai alami yang banyak ditemui adalah ketapang dan waru laut.</p>
+<p style="text-align: justify;">
+	<strong>Ikan Karang</strong></p>
+<p style="text-align: justify;">
+	Ikan target yang sering ditemukan di Pulau Buku Limau adalah ikan-ikan dari famili Caesionidae, Dasyatidae, Haemulidae, Labradae, Lethrinidae, Lutjanidae, Pseudochromidae, Pteridae, Scaridae, Serranidae dan Siganidae. Beberapa jenis ikan karang yang mempunyai nilai ekonomis tinggi adalah ikan kerapu (<em>Ephinephelus</em>, <em>Chephalopholis </em>dan <em>Plectropomus</em>), ikan kakap (<em>Lutjanus </em>dan Symphorus), ikan lebam (<em>Siganus</em>), <em>Bolbometopon</em>, <em>Lethrinus</em>, <em>Plectorhinchus</em>, ikan pari (<em>Taeniura</em>), dan <em>Labracinus</em>. Ikan target yang secara ekonomis tidak benilai tinggi biasanya dibawa nelayan ke rumah dan dimakan ataupun dibagikan ke tetangga atau kerabat. Jenis-jenis ikan ini adalah ikan kakak tua (<em>Scarus</em>), ikan rucah, <em>Choerodon</em>, <em>Scolopsis</em>, dan sebagainya. Intensitas penangkapan ikan karang di perairan Pulau Buku Limau dapat dikatakan sangat jarang karena nelayan lebih fokus untuk menangkap ikan tenggiri, selar, dan ikan ekonomis penting lainnya.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="snh">Sumberdaya Non Hayati</a></h2>
+<p><div class="readmore"><h1 style="text-align: justify;">
+	Sumberdaya Non Hayati</h1>
+<p style="text-align: justify;">
+	Dalam sejarahnya, Pulau Belitung pernah menjadi penghasil tambang timah yang sangat potensial. Namun, sejak ditutupnya pertambangan ini pada tahun 1991 oleh PT. Timah Tbk, produksi timah mengalami kemunduran yang cukup signifikan.&nbsp; Sejalan dengan semangat otonomi daerah dan terbentuknya Kabupaten Belitung Timur, daerah ini mengalami era baru dalam sejarah perkembangan wilayahnya. Karena timah tidak lagi bisa diandalkan menjadi primadona perekonomian, maka selanjutnya perlu diupayakan pengembangan komoditas-komoditas lain (RPJM Kabupaten Belitung Timur 2005-2010).</p>
+<p style="text-align: justify;">
+	Namun demikian, kegiatan pertambangan TI (Tambang Inkonvensional = pertambangan rakyat) masih tetap berjalan terutama di areal bekas kuasa pertambangan PT. Timah Tbk dan di lokasi alternatif lainnya.&nbsp; Masyarakat masih menganggap timah menjadi salah satu penggerak perekomian. &nbsp;Hampir di seluruh perut bumi Belitung Timur terdapat potensi kandungan kaolin, pasir kuarsa, tanah liat, pasir bangunan, dan timah yang masih ditambang oleh penduduk setempat. Di Pulau Buku Limau sendiri berdasarkan informasi dari perangkat desa tidak ditemukan aktivitas pertambangan baik oleh perusahaan atau tambang inkonvensional (TI).</p>
+<p style="text-align: justify;">
+	Sumberdaya nonhayati pesisir lainnya adalah pasir putih yang terdapat di bagian Barat Pulau Buku Limau yang terbentang sekitar 100 m. Hal ini menjadi potensi untuk kegiatan wisata bahari yang sampai saat ini belum dikembangkan secara optimal.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="aps">Aktivitas Pengelolaan Sumberdaya</a></h2>
+<p><div class="readmore"><h1 style="text-align: justify;">
+	Aktivitas Pengelolaan Sumberdaya</h1>
+<h3 style="text-align: justify;">
+	Perikanan</h3>
+<p style="text-align: justify;">
+	Mata pencaharian mayoritas penduduk adalah sebagai nelayan perikanan tangkap, jumlah nelayan di Desa Buku Limau sekitar 280 kepala keluarga atau 95% dari 297 jumlah kepala keluarga di Desa Buku Limau. Nelayan yang ada di Pulau Buku Limau memiliki sarana usaha penangkapan ikan yaitu sebanyak 24 buah bagan dan 49 buah kapal dengan ukuran sekitar 13 m. Rata-rata armada kapal tersebut berbobot sekitar 3 - 5 GT. Jenis alat tangkap yang digunakan adalah <em>gill nett</em>, pancing, bagan, mayang, rawai, dan bubu.</p>
+<p style="text-align: justify;">
+	Jenis ikan tangkapan yang banyak diperoleh adalah tongkol, tenggiri, kakap, sunuk, kembung, selar, kerisi, japuh, cumi, dan jenis pelagis kecil lainnya seperti pepetek serta kerapu (Serranidae) dan lobster (<em>Panulirus spp)</em>. Produksi ikan sampai saat ini tidak terdata dengan baik dan mereka beroperasi atau melaut saat bulan teduh (Februari - September). Kadang-kadang saat bulan November - Januari (musim Barat dan Selatan) juga melakukan operasi penangkapan dengan jangkauan di antara pulau-pulau kecil sekitar Pulau Buku Limau.</p>
+<p style="text-align: justify;">
+	Kegiatan perikanan budidaya belum berkembang di Pulau Buku Limau sehingga untuk mendorong ke arah budidaya laut perlu upaya yang cukup panjang dalam merubah mindset nelayan. Sekitar tahun 2009, pernah ada aktivitas keramba jaring apung (KJA) untuk menangkarkan ikan karang, namun bukan penduduk asli dari Pulau Buku Limau. Sampai sekarang aktivitas tersebut sudah berhenti dan tidak ada tanda-tanda masyarakat Pulau Buku Limau yang tertarik untuk mencoba usaha KJA.</p>
+<h3 style="text-align: justify;">
+	Pertanian</h3>
+<p style="text-align: justify;">
+	Komoditas utama sektor pertanian di Kabupaten Belitung Timur adalah tanaman hortikultura, berupa durian, dukuh, jeruk, nanas, cempedak, manggis, pisang, rambutan, salak, dan beberapa tanaman tropis lainnya. Hasil hortikultura biasanya dijual di warung setempat atau untuk keperluan rumah tangga mereka sendiri. Beberapa kendala pengembangan tanaman hortikultura adalah banyaknya serangan dari babi hutan dan kera. Di Pulau Buku Limau sendiri mengenai kegiatan pertanian tidak ada yang signifikan, hanya bertani untuk kebutuhan sendiri saja, seperti menanam pisang, sukun, dan ketela.</p>
+<h3 style="text-align: justify;">
+	Peternakan, Perkebunan, dan Kehutanan</h3>
+<p style="text-align: justify;">
+	Sektor peternakan di Kabupaten Belitung Timur didominasi oleh ternak unggas dan ternak penggemukan sapi. Potensi ternak unggas di Kabupaten Belitung Timur berupa ayam kampung, ayam ras, dan itik. Selain itu, komoditas perkebunan yang memiliki nilai ekonomis di kabupaten ini adalah karet, lada, sawit, cengkeh, dan kopi. Sedangkan potensi sektor kehutanan yang menonjol di daerah ini adalah kayu meranti, kayu mandura, dan kayu bulat.</p>
+<p style="text-align: justify;">
+	Kegiatan peternakan di Pulau Buku Limau berupa ternak unggas seperti ayam kampung dan itik. Kegiatan perkebunan di pulau ini berupa kebun pisang, kelapa, pepaya, kebun cabe, kangkung, dan umbi-umbian yang dikonsumsi untuk kebutuhan rumah tangga. Di Pulau Buku Limau tidak terdapat kegiatan kehutanan.</p>
+<h3 style="text-align: justify;">
+	Pertambangan Non Ekstraktif</h3>
+<p style="text-align: justify;">
+	Tidak ada usaha pertambangan non-ekstraktif di Pulau Buku Limau karena Pulau Buku Limau termasuk ke dalam kawasan pencadangan konservasi sesuai dengan SK Bupati Belitung Timur No. 188.45-421 Tahun 2013 tentang Pencadangan kawasan konservasi perairan daerah Belitung Timur dan sekitarnya.</p>
+<h3 style="text-align: justify;">
+	Industri</h3>
+<p style="text-align: justify;">
+	Sektor industri yang berkembang di Kabupaten Belitung Timur sebagian besar adalah industri kecil non pertambangan yang terdiri dari industri pangan, industri sandang, industri kimia dan bahan bangunan, industri kerajinan dan umum, serta industri logam dan jasa. Kegiatan industri di Pulau Buku Limau sudah diinisiasi untuk pembuatan industri kerupuk ikan dari hasil tangkapan ikan laut, industri kain tenun skala rumah tangga, dan industri hiasan dari biota laut seperti cangkang kerang dan sebagainya.</p>
+<h3 style="text-align: justify;">
+	Wisata</h3>
+<p style="text-align: justify;">
+	Potensi pariwisata di Kabupaten Belitung Timur tergolong sangat besar, namun hingga kini kontribusi sektor pariwisata terhadap kemajuan perekonomian daerah relatif masih kecil. Beberapa potensi pariwisata di Kabupaten Belitung</p>
+<p style="text-align: justify;">
+	Ditinjau dari potensi alamnya, terlihat bahwa objek wisata yang paling menonjol di wilayah ini adalah pantai, dimana terdapat 11 pantai, seperti Pantai Burung Mandi, Pantai Pengempangan, Pantai Malang Lepau, Pantai Serdang, Pantai Sengaran, Pantai Pering, Pantai Batu Lalang, Pantai Burung Punai, Pantai Mengguru, Pantai Tanjung Keluang, dan Pantai Nyiur Melambai. Beberapa objek sejarah dan budaya lainnya adalah Bendungan Pice, Museum Kerajaan Buding, Kelenteng Dewi Kwan Im, Pesta Meras Tahun, Muang Jong, dan lain-lain.</p>
+<p style="text-align: justify;">
+	Kegiatan wisata di Pulau Buku Limau sudah diinisiasi untuk kegiatan wisata bahari, seperti melihat panorama pantai, memancing untuk mengisi waktu liburan, dan menyelam. Namun, semua aktivitas wisata bahari tersebut belum reguler dan hanya bersifat kunjungan sesaat yang sampai saat ini belum menjadi pangsa pasar yang menjanjikan untuk tambahan penghasilan masyarakat pesisir di Pulau Buku Limau.</p>
+<p style="text-align: justify;">
+	Perikanan Tangkap</p>
+<p style="margin-left: 14.2pt; text-align: justify;">
+	Kegiatan penangkapan ikan di zona perikanan berkelanjutan dalam suatu kawasan konservasi perairan dapat dibagi menjadi dua kategori berikut ini.</p>
+<ol style="list-style-type:lower-alpha;">
+	<li style="text-align: justify;">
+		<strong>Penangkapan ikan untuk tujuan komersial</strong>. Penangkapan ikan untuk tujuan komersial adalah kegiatan penangkapan ikan untuk pemenuhan kebutuhan ekonomi, baik untuk konsumsi sendiri maupun untuk dijual. Masyarakat di Pulau Buku Limau, tidak terlalu mengusik terumbu karang dalam upaya menangkap ikan. Nelayan di Pulau Buku Limau memiliki kecenderungan menangkap ikan diluar kawasan terumbu karang dan menggunakan Bagan Apung dan memancing diluar kawasan terumbu karang.</li>
+	<li style="text-align: justify;">
+		<strong>Penangkapan ikan bukan untuk tujuan komersial</strong>. Penangkapan ikan dalam kawasan konservasi yang bukan untuk tujuan komersial adalah kegiatan penangkapan ikan dalam kawasan konservasi perairan dalam rangka pendidikan, penyuluhan, penelitian dan kegiatan ilmiah lainnya, kesenangan (hobi), dan/atau wisata. Kegiatan tersebut tidak didasarkan pada nilai tukar ekonomis dan/atau nilai tambah ekonomis dan mengutamakan tujuan serta pencapaian kegiatan pendidikan, penyuluhan, penelitian, dan/atau kegiatan ilmiah lainnya.</li>
+</ol>
+<h3 style="text-align: justify;">
+	Perikanan budidaya</h3>
+<p style="text-align: justify;">
+	Pulau Buku Limau memiliki kondisi yang cocok untuk dikembangkan oleh masyarakat sebagai daerah pemukiman, dan penduduk yang mayoritas nelayan memberikan pemahaman perikanan tangkap daerah ini lebih maju daripada perikanan budidaya.</p>
+<p style="text-align: justify;">
+	Terkait dengan potensi perikanan budidaya yang dapat dikembangkan di daerah ini lebih mengarah kepada budidaya ikan yang dapat menimbulkan keindahan/wisata (ikan karang, dst), bukan budidaya yang bersifat konsumtif&nbsp; (untuk dimakan). Terdapat beberapa kriteria jenis ikan yang layak dibudidaya di kawasan konservasi perairan, antara lain ;</p>
+<ol>
+	<li style="text-align: justify;">
+		Jenis ikan lokal yang bertujuan untuk konservasi <em>spesies</em> dan<em> low input</em></li>
+	<li style="text-align: justify;">
+		Jenis ikan yang dibudidaya di kawasan konservasi perairan diutamakan pada jenis ikan yang dalam praktek budidayanya tidak perlu diberikan pakan tambahan atau kalaupun diberi pakan tambahan, pemberiannya hanya sekali-kali serta tidak perlu diberi obat-obatan dan dalam kegiatan budidaya tersebut diperlukan kualitas air yang baik</li>
+</ol>
+<p style="text-align: justify;">
+	Bentuk pemeliharaan dengan Keramba Jaring Apung (KJA) dan <em>Cottage</em> (rumah singgah/peristirahatan bagi wisatawan) ditengah KJA dapat menjadi suatu bentuk investasi di perairan sekitar Pulau Buku Limau.</p>
+</div></p>
+
+<hr>
+
+<h2><a id="ling">Lingkungan</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<h2><a id="sp">Sarana dan Prasarana</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<h2><a id="pi">Peluang Investasi</a></h2>
+<p><div class="readmore"><h1 style="text-align: justify;">
+	Peluang Investasi</h1>
+<p style="text-align: justify;">
+	Terkait dengan ukuran luas fisik Pulau Buku Limau, pulau ini memiliki peluang investasi yang sangat terbatas khususnya ketika berbicara tentang skala ekonomi (<em>economics of scale</em>). Berdasarkan dengan karakteristik ukuran luas fisik pulau ini, maka kegiatan ekonomi yang mungkin adalah kegiatan ekonomi yang terspesialisasi dengan daya dukung di Pulau Buku Limau tersebut.</p>
+<p style="text-align: justify;">
+	Pulau Buku Limau memiliki peluang investasi untuk pengelolaan &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;pulau-pulau kecil yang berkelanjutan, namun peluang tersebut harus sudah mempertimbangkan aspek daya dukung (<em>carrying capacity</em>) terhadap ekologi atau lingkungan, sosial, serta ekonomi dari sumberdaya yang siap diekstraksi. Peluang investasi dapat dibuka akses bagi investor swasta maupun pemberdayaan masyarakat dengan komposisi yang dapat diterima oleh semua <em>stakeholder</em>.</p>
+<h3 style="text-align: justify;">
+	Wisata</h3>
+<p style="text-align: justify;">
+	Pulau Buku Limau termasuk dalam kawasan KKPD dengan model Taman Wisata Perairan (TWP). Kegiatan pariwisata alam perairan dalam kawasan konservasi perairan dapat diartikan sebagai kegiatan perjalanan yang dilakukan oleh seseorang atau sekelompok orang (wisatawan) ke kawasan konservasi perairan untuk tujuan rekreasi, pengembangan pribadi, atau mempelajari keunikan daya tarik wisata yang dikunjungi dalam jangka waktu sementara. Dengan demikian kegiatan pariwisata alam perairan dapat dilakukan pada kawasan konservasi perairan dapat dibagi atas:</p>
+<p style="margin-left: 14.2pt; text-align: justify;">
+	&bull; Olah raga air seperti menyelam (<em>diving</em>) pada daerah karang di sekeliling pulau buku limau, <em>jetsky</em> di daerah diluar daerah karang (terutama di bagian barat dan timur Pulau Buku Limau, memancing (<em>sport and recreation fishing</em>), dan jenis olah raga air lainnya;</p>
+<p style="margin-left: 14.2pt; text-align: justify;">
+	&bull; Wisata tontonan untuk menikmati keindahan pemandangan perairan seperti snorkeling dan menggunakan perahu kaca (<em>glass boat</em>) diatas daerah karang dan pada saat pasang, apabila surut maka terumbu karnag daerah <em>slope</em>/tubir tetap bisa dinikmati keindahan terumbu karang dan biota yang berasosiasi didalamnya.</p>
+<p style="margin-left: 14.2pt; text-align: justify;">
+	Wisata pendidikan yang mendukung terwujudnya etika lingkungan bagi para wisatawan seperti mengamati (dan membuat foto atau film) obyek-obyek wisata yang memiliki fungsi ekologis tinggi. Pulau Buku Limau dengan model karang Slope mempunyai daya tarik tersendiri untuk di-selam-i, umumnya wisatawan selam akan lebih menyukai terumbu karang <em>slope</em> daripada terumbu karang dengan model <em>flat</em>.</p>
+<p style="margin-left: 14.2pt; text-align: justify;">
+	&bull; Wisata penelitian untuk mendapat pengetahuan terkait bidang ilmu tertentu seperti mengamati kehidupan biota perairan (penyu dan dugong), formasi kehidupan terumbu karang dan lain-lain</p>
+</div></p>
+
+<hr>
+
+<h2><a id="pap">Potensi dan Arahan Pengembangan</a></h2>
+<p><div class="readmore"><h1 style="text-align: justify;">
+	Potensi dan Arahan Pengembangan</h1>
+<p style="text-align: justify;">
+	Upaya pengembangan yang sudah dilakukan oleh Pemerintah Kabupaten Belitung Timur adalah menjadikan Pulau Buku Limau sebagai bagian dari pencadangan Kawasan Konservasi Perairan Daerah (KKPD) dengan model konservasi Taman Wisata Perairan&nbsp; (TWP). Taman Wisata Perairan adalah KKPD dengan tujuan untuk dimanfaatkan bagi kepentingan wisata perairan dan rekreasi. Berdasarkan tujuannya, KKP ini dapat diartikan setidaknya memiliki zona inti dan zona pemanfaatan yang terbatas untuk kegiatan pariwisata dan/atau penelitian dan pendidikan yang mendukung peruntukkannya.</p>
+<p style="text-align: justify;">
+	Di Pulau Buku Limau sendiri sudah berjalan kegiatan perikanan tangkap, namun belum dilakukan kegiatan budidaya laut oleh penduduk lokal sehingga perlu upaya mengidentifikasi isu, potensi, dan kendala berdasarkan kondisi eksisting sehingga dapat merumuskan rencana pengembangan ke depannya</p>
+</div></p>
+
+<hr>
+
+<h2><a id="kp">Kendala Pengembangan</a></h2>
+<p><div class="readmore"><p style="margin-left:28.35pt;">
+	<strong>Kendala Pengembangan Pulau</strong></p>
+<p style="text-align: justify;">
+	Kendala pengembangan perlindungan habitat penyu dan lumba-lumba di Pulau Buku Limau dan perairannya sudah mulai dapat diatasi, terbukti dengan adanya SK Bupati Belitung Timur No. 188.45-421 Tahun 2013 tentang Pencadangan Kawasan Konservasi Perairan Daerah Belitung Timur dan sekitarnya. Hal ini tentunya harus ditindaklanjuti dengan sosialisasi kepada seluruh <em>stakeholder</em> agar memiliki pemahaman dan kepedulian yang sama terhadap program konservasi.</p>
+<p style="text-align: justify;">
+	Kendala pengembangan perikanan tangkap di Pulau Buku Limau dan perairannya yaitu peningkatan sarana dan prasarana atau infrastruktur tempat tambat kapal / dermaga, sarana jalan desa minimal lebarnya 1,5 m, air bersih, listrik. Perlunya peningkatan kualitas hasil tangkapan ikan dan peningkatan efektivitas armada kapal tangkap nelayan dengan bantuan input teknologi.</p>
+<p style="text-align: justify;">
+	Kendala pengembangan perikanan budidaya di perairan Pulau Buku Limau yaitu harus ada inisiasi dari pemerintah daerah untuk mendorong ke arah subsektor tersebut.</p>
+<p style="text-align: justify;">
+	Kendala pengembangan wisata bahari di Pulau Buku Limau dan perairannya yaitu terkait pangsa pasar. Pemerintah daerah harus mampu mendatangkan wisatawan baik lokal dari Pulau Belitung maupun dari luar Pulau Belitung.</p>
+<p>
+	&nbsp;</p>
+</div></p>
+
+<hr>
+
+<h2><a id="rf">Referensi</a></h2>
+<p><div class="readmore"></div></p>
+
+<hr>
+
+<br />
+	<i> 
+		<p style="font-size:12px;">
+			Karena keterbatasan SDM dalam penginputan dan pengolahan data, kami mohon maaf atas ketidak lengkapan beberapa data pulau yang kami tampilkan, harap dimaklumi.
+			Berikan keritik dan saran pada kolom komentar agar kita dapat bersama menyajikan sebuah data yang cukup sempurna untuk halayak ramai yang berguna
+			demi kesejahterahan, kelestarian dan keindahan pulau-pulau kecil yang dimiliki Indonesia.<br />
+			*Jika sekiranya anda memiliki data yang cukup banyak, silakan mengirimkan file melalui email kami di <b><a>identifikasippk@gmail.com</a></b>
+			
+		</p>
+	</i>
+<br />
+
+<div id="fb_comn" class="fb-comments" data-href="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_info/2257" data-width="800" data-numposts="5" data-colorscheme="light"></div>
+
+
+</div>
+</div>
+</div>
+<div id="wrapper">
+
+<div class="footer"><p>
+<!--<marquee onmouseover="this.stop()" onmouseout="this.start()" scrollamount="5" direction="right" width="798" height="14"  behavior="scroll">-->
+<a href="http://www.ppk-kp3k.kkp.go.id/" target="_blank">Direktorat Pendayagunaan Pulau-Pulau Kecil &nbsp; | &nbsp;</a>
+<a href="http://www.kp3k.kkp.go.id/" target="_blank">Ditjen Kelautan, Pesisir dan Pulau-Pulau Kecil &nbsp; | &nbsp;</a>
+<a href="http://www.kkp.go.id/" target="_blank">Kementerian Kelautan dan Perikanan</a>
+<!--</marquee>--> <br />
+Jl. Medan Merdeka Timur No. 16 Gedung Mina Bahari 3 Lantai 10, Jakarta, Indonesia <br />
+Email : identifikasippk@gmail.com <br />
+Telp &amp; Fax: (021) 3522058 <br />
+&copy; Copyright Direktorat Pendayagunaan Pulau-Pulau Kecil 2012&nbsp; <br /></p>
+</div>
+</div>
+</body>
+</html>
